@@ -1,0 +1,22 @@
+pandoc AIHE-EHDOTUS.md -f markdown -t docx --reference-docx=aihepohja.docx --toc -o tPolvinenAiheEhdotus.docx
+
+
+pandoc revelation.md --smart --standalone \
+--bibliography /Users/chris/Dropbox/writing/library.bib \
+--csl=/Users/chris/Dropbox/writing/chicago.csl -o revelation.docx
+
+
+/Users/tatu/Documents/MaatalousIoT/bib/MaatalousIoT.bib
+/Users/tatu/Documents/MaatalousIoT/pohja/pohja.docx
+/Users/tatu/Documents/MaatalousIoT/style/harvard1.csl
+
+pandoc Tutkimussuunnitelma2017-03-14.md --smart --standalone \
+--bibliography /Users/tatu/Documents/MaatalousIoT/bib/MaatalousIoT.bib \
+--csl=/Users/tatu/Documents/MaatalousIoT/style/harvard1.csl \ -o Users/tatu/Documents/MaatalousIoT/tPolvinenTutkimussuunnitelma.docx
+
+
+
+
+pandoc Tutkimussuunnitelma2017-03-14.md --smart --standalone --bibliography /Users/tatu/Documents/MaatalousIoT/bib/MaatalousIoT.bib --csl=/Users/tatu/Documents/MaatalousIoT/style/harvard1.csl -o tPolvinenTutkimussuunnitelma.docx
+
+pandoc Tutkimussuunnitelma2017-03-14.md --smart --standalone --bibliography /Users/tatu/Documents/MaatalousIoT/bib/MaatalousIoT.bib --csl=/Users/tatu/Documents/MaatalousIoT/style/harvard1.csl --reference-docx=/Users/tatu/Documents/MaatalousIoT/pohja/pohja.docx -o tPolvinenTutkimussuunnitelma.docx
