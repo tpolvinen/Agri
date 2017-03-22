@@ -10,7 +10,7 @@ The purpose of this research is to prepare me for my planned thesis on the same 
 As a side note, I'm also testing a few workflows and tools like Pandoc and Zotero for scientific writing to make the writing of my thesis a bit more bearable. This is not (yet, at least) a guide how to do it, but rather a couple notes for my own reference.
 
 For more information, please see [Chris Krycho's blog post](http://www.chriskrycho.com/2015/academic-markdown-and-citations.html)
-and, [Pandoc User Manual -Citations](http://pandoc.org/MANUAL.html#citations)
+and [Pandoc User Manual -Citations](http://pandoc.org/MANUAL.html#citations)
 
 Here are the commands I've used to produce a final .docx file with Pandoc using 
 * a markdown .md file for text content with citation keys picked from bibliography
