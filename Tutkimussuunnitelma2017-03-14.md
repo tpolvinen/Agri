@@ -10,9 +10,9 @@ csl: harvard1.csl
 ...
 
 
-Tiivistelmä
+# Tiivistelmä
 
-Kasvintuotannossa laajasti käytössä olevat digitaaliset teknologiaratkaisut ovat pitkään olleet korkeintaan M2M –periaatteella toimivia (Machine to Machine, laitteelta laitteelle) jolloin tuotettu raakadata jää yleensä esimerkiksi traktorin tai puimurin tietokoneelle. IoT –teknologioiden laitteiden välisen tiedonsiirron, sensorien tuottaman raakadatan analysoinnin ja siitä saatavan tietämyksen hyödyntämisen nähdään yleisesti tuottavan huomattavaa lisäarvoa.
+Kasvintuotannossa laajasti käytössä olevat digitaaliset teknologiaratkaisut ovat pitkään olleet korkeintaan M2M –periaatteella toimivia (Machine to Machine, laitteelta laitteelle) jolloin tuotettu raakadata jää yleensä esimerkiksi traktorin tai puimurin tietokoneelle. IoT –teknologioiden mahdollistaman laitteiden välisen tiedonsiirron, sensorien tuottaman raakadatan analysoinnin ja siitä saatavan tietämyksen hyödyntämisen nähdään yleisesti tuottavan huomattavaa lisäarvoa.
 
 Tämän tutkimuksen tavoitteena on selvittää I) millaisia IoT –teknologioita (Internet of Things, esineiden internet) on sovellettu ja tutkittu kasvintuotannon alalla sekä II) millaisia kokemuksia ja näkemyksiä kasvintuotannossa toimivalla suomalaisella yrittäjällä on IoT –teknologioiden hyödyntämisestä ja mahdollisuuksista.
 
@@ -25,7 +25,7 @@ Tutkimuksen tuloksia voidaan käyttää hyväksi tekijän myöhemmin toteutettav
 # Johdanto
 Maatalouden esineiden internet (Agriculture Internet of Things, AIoT) on teollisen esineiden internetin (Industrial Internet of Things, IIoT) merkittävänä osana viimeaikaisen edullisten ja tehokkaiden  pilvipalveluiden, sensori- ja verkkoteknologioiden kehityksen myötä mahdollistunut tavalla joka on saanut monet tahot ennustamaan ennennäkemätöntä tuottavuuden kasvua seuraavan vuosikymmenen aikana (@gilchrist2016industry, 2). Koska AIoT:tä pidetään yleisesti IIoT:n osana, käsittelen tässä työssä myös IIoT:tä soveltuvin osin.
 
- Aineiston keräämisen alkuvaiheessa huomioni kiinnitti lehtiartikkeli, jossa G. Monbiot kirjoitti sensaatiomaiseen tyyliin YK:n julkaisemista laskelmista viljelysmaan eroosiosta. Artikkelissa hän väittää, että viljelyskelpoinen maa kulutetaan nykyisillä maata kuluttavilla viljelystekniikoilla loppuun keskimäärin maailmanlaajuisesti 60:ssä vuodessa, Englannissa saman lukeman ollessa 100 vuotta. (@monbiot_were_2015) Vaikka kyseinen lukujen tulkinta ja esitetyt väitteet osoittautuisivat tarkemmin tutkittaessa puutteellisiksi, tarve uusille ja tehokkaammille viljelytekniikoille on mielestäni selkeä: FAO:n vuoden 2012 raportissa “World agriculture towards 2030/2050” arvioidaan vuoteen 2050 mennessä tarvittavien tuotannon kasvuksi 940 miljoonaa tonnia viljakasvien osalta (@alexandratos_n._world_2012, 17).
+Aineiston keräämisen alkuvaiheessa huomioni kiinnitti lehtiartikkeli, jossa G. Monbiot kirjoitti sensaatiomaiseen tyyliin YK:n julkaisemista laskelmista viljelysmaan eroosiosta. Artikkelissa hän väittää, että viljelyskelpoinen maa kulutetaan nykyisillä maata kuluttavilla viljelystekniikoilla loppuun keskimäärin maailmanlaajuisesti 60:ssä vuodessa, Englannissa saman lukeman ollessa 100 vuotta. (@monbiot_were_2015) Vaikka kyseinen lukujen tulkinta ja esitetyt väitteet osoittautuisivat tarkemmin tutkittaessa puutteellisiksi, tarve uusille ja tehokkaammille viljelytekniikoille on mielestäni selkeä: FAO:n vuoden 2012 raportissa “World agriculture towards 2030/2050” arvioidaan vuoteen 2050 mennessä tarvittavien tuotannon kasvuksi 940 miljoonaa tonnia viljakasvien osalta (@alexandratos_n._world_2012, 17).
 
 Erityisesti IoT-teknologioita hyödyntävää kasvintuotantoa toteutetaan kasvihuoneissa ja kasvitehtaina tunnetuissa laitoksissa, joissa täysin kontrolloiduissa olosuhteissa kasvatukseen käytettyjen resurssien kuten pinta-alan, lannoitteiden ja kasvuajan tehokkuus saatu moninkertaistettua. Suomessa ollaan ottamassa kaupallista kasvitehdasta tuotantoon vuonna 2017 Fujitsu Greenhouse Technology Finland Oy:n ja Robbes Lilla Trädgård Ab:n yhteishakkeena @fujitsu_fujitsu_2016 @schafer_fujitsun_2016.
 
@@ -82,9 +82,13 @@ Kirjallisuuskatsaukset ovat “Agricultural crop monitoring using IOT - a study�
 Tutkimuksessa haetaan vastauksia kahteen tutkimusongelmaan, jotka alaongelmineen ovat:
 I) Miten kasvintuotannossa hyödynnetään IoT-teknologioita?
 	* Miten peltotuotannon ja puutarhatuotannon erot vaikuttavat IoT -teknologioiden sovelluksiin?
+    * Minkä tyyppiset sovellukset tulevat tutkimusmateriaalissa selkeimmin esille, eli millaisista sovelluksista ja teknologioista kirjoitetaan ja tehdään tutkimusta tällä hetkellä?
 	
-II) Millaisia IoT-teknologioita haastateltavalla toimijalla on käytettävissään?
+II) Millaisia IoT-teknologioita haastateltavalla toimijalla on joko käytettävissään tai millaisista hän on tietoinen?
 	* Mitä vaikutuksia niillä on tuotantoon ja/tai työntekoon?
+    * Millaisia kokemuksia niistä haastateltavalla on?
+    * Millaisia muita sovelluksia haastateltava tuntee tai tietää?
+    * Millainen käsitys haastateltavalla on edelllä mainituista sovelluksista (sekä käyttämistään että tietämistään)?
 
 ## Työhypoteesit:
 Tutkimusongelman I vastaukseksi odotan saavani teoriaosuudessa käytettyjen materiaalien mukaisen kuvailun.
@@ -99,14 +103,20 @@ Kirjallisuuskatsaus soveltuu jo olemassaolevasta materiaalista kokonaiskuvan ja 
 # Tutkimusaikataulu
 Tutkimusaikataulu etenee kurssin viikko-ohjelman puitteissa. Viikottaiset tehtävät ovat:
 
-* Viikko 13   Tutkimus    Aineiston kerääminen: Teoriataustassa käytetyn materiaalin läpikäynti analyyseineen. Analyysin ja kerätyn tiedon pohjalta haastattelukysymyksien ja -teeman muodostaminen. 
-* Viikko 14   Tutkimus    Aineiston kerääminen: Haastattelun järjestäminen. Haastattelu. Haastattelun tulosten kirjaaminen ja analysointi.
-* Viikko 15   Tutkimus    Aineiston analyysi
-* Viikko 16   Tutkimus    Tulosten ja johtopäätösten kirjoittaminen
-* Viikko 17   Tutkimusraportti    Raportin kirjoittaminen, visualisointi
-* Viikko 18   Tutkimusraportti & Esitys   Raportin viimeistely, esityksen suunnittelu
-* Viikko 19   Tutkimusraportti & Esitys   Tutkimusraportin ja esityksen palautus moodleen 14.5.2017
-* Viikko 20   Esitys & Vertaisarviointi   Esitykseen valmistautuminen ja opponoitavan työn arviointi
+* Viikko 13 - 17   Tutkimus    
+    Aineiston kerääminen: Teoriataustassa käytetyn materiaalin läpikäynti analyyseineen. 
+    Analyysin ja kerätyn tiedon pohjalta haastattelukysymyksien ja -teeman muodostaminen. 
+    Haastattelun järjestäminen. Haastattelu. Haastattelun tulosten kirjaaminen ja analysointi.
+    Aineiston analyysi
+    Tulosten ja johtopäätösten kirjoittaminen
+* Viikko 17   Tutkimusraportti
+    Raportin kirjoittaminen, visualisointi
+* Viikko 18   Tutkimusraportti & Esitys
+    Raportin viimeistely, esityksen suunnittelu
+* Viikko 19   Tutkimusraportti & Esitys
+    Tutkimusraportin ja esityksen palautus moodleen 14.5.2017
+* Viikko 20   Esitys & Vertaisarviointi
+    Esitykseen valmistautuminen ja opponoitavan työn arviointi
 * Viikko 21   Esitykset ja opponoinnit työpajassa
 
 # Tuloksen hyväksikäyttömahdollisuudet
