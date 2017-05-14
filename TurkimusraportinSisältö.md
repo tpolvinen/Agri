@@ -8,7 +8,7 @@
 - suppeassa muodossa tutkielman  keskeinen sisältö ja tärkeimmät tulokset
 
 * asioiden esitysjärjestys:
-	* miksi tutkittiin (tavoitteet)
+* miksi tutkittiin (tavoitteet)
 * miten tutkimus tehtiin (menetelmä)
 * mitkä olivat keskeiset tulokset (päätelmät)
 * aihetta kuvaavat avainsanat
