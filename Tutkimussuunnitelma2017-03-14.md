@@ -34,6 +34,8 @@ Erityisesti IoT-teknologioita hyödyntävää kasvintuotantoa toteutetaan kasvih
 Tutkittavaksi ilmiöksi on näin materiaaliin tutustuttaessa muodostunut IoT-teknologioiden hyödyntäminen kasvintuotannossa viljelyn tehostamiseksi ja samalla viljelyn aiheuttaman ympäristökuormituksen minimoimiseksi. Uutta tietoa odotetaan syntyvän tässä tutkimuksessa vain vähän toteutettavassa yksilöteemahaastattelussa ja tutkimukseen käytettävissä olevan ajan rajallisuuden myötä, mutta tutkimuksen tuloksia voidaan käyttää apuna päätettäessä jatkotutkimuksen tarpeellisuudesta ja toteutuksen mahdollisuuksista.
 
 # Teoriatausta
+Tässä osassa käsitellään AIoT:n taustaa sekä sen käytännön sovelluksia ja tutkimustuloksia.
+
 ## Taustaa
 FAO:n vuoden 2012 raportissa arvioidaan väestönkasvun myötä tarvittavan globaalin ruoantuotannon kasvun olevan saavutettavissa mutta vaativan investointeja. Raportissa käsiteltyjen Maailmanpankin ennusteiden mukaan köyhyys ei ole katoamassa maailmasta vuoteen 2050 mennessä vaan tuloerot maiden välillä tulevat olemaan huomattavat, jolloin ruoantuotantoon tehtävät investoinnit tulevat jakautumaan  epätasaisesti. (@alexandratos_n._world_2012, 37) Tämä puolestaan asettaa vaatimuksia kustannustehokkaampien viljelytekniikoiden kehittämiselle —erityisesti ilmastonmuutoksen todennäköisten vaikutusten vaikeuttaessa maanviljelyä suuressa osassa maailmaa. 
 
@@ -53,6 +55,9 @@ Verkkoyhteydet kuvaillaan "Internet of Things in agriculture"-kirjallisuuskatsau
 
 
 ## AIoT:n käytännön sovelluksia ja tutkimustuloksia
+Tässä osassa käsitellään AIoT:n teknologiasovelluksia peltokasvituotannossa ja puutarhatuotannossa.
+
+
 ### AIoT-täsmäviljely peltokasvituotannossa
 AIoT-täsmäviljelyn kokeiluhankkeilla ollaan yleiseti saavutettu hyviä kokemuksia. Erityisesti parantuneen resurssienhallinnan myötä käyttöönoton kustannukset saadaan yleensä katettua kohtuullisessa ajassa. Kokeiluhankkeet ovat edistäneet täsmäviljelyn sovelluksia niin pitkälle, että monet viljelijät ovat voineet ottaa ne laajamittaiseen käyttöön omassa tuotannossaan. (@buyya2016internet, 137) Tärkeä osa peltokasvituotannon tehostamista on traktorien automaattiohjaus, joka tehostaa käytetyn peltopinta-alan käyttöä (@dubravac2015digital, 133). 
 
@@ -71,29 +76,20 @@ Puutarhatuotannossa selkeitä esimerkkejä uusien teknologioiden hyödyntämises
 
 Näissä laitoksissa maatalouden esineiden internetin ja teollisuuden esineiden internetin käsitteiden raja on käytännössä hävinnyt. Kasvitehtaista on rakennettu monenlaisia prototyyppilaitoksia, joista yksi tunnettu esimerkki on avoimen lähdekoodin periaatteella toimiva MIT Media Lab:issa (Massachusetts Institute of Technology) alkunsa saanut MIT Open Agriculture Initiative (OpenAG):n päätuote “Food Computer” jonka kehitys alkoi osana MIT City FARM projektia. Termillä “Food Computer” tarkoitetaan kasvitehtaan omaista tietokoneohjattua ja kasvatusympäristöä jossa kasvien kasvua tarkkaillaan hyvin tarkasti. Kasvatusympäristön ominaisuuksia kuten hiilidioksidin määrää ilmassa, ilman lämpötilaa, sähkönjohtavuutta, kosteutta, juurialueiden lämpötilaa ja liuenneen hapen määrää voidaan tarkkailla ja säätää. Lisäksi kasteluveden / ravinneliuoksen tasoa, energian ja mineraalien kulutusta tarkkaillaan erilaisilla sensoreilla ja mittareilla. Mikä tahansa käyttökelpoiseksi havaittu ympäristömuuttujien yhdistelmä voidaan ottaa ns. kasvureseptiksi/ilmastoreseptiksi (climate recipe) tietylle kasville ja jakaa vapaasti käytettäväksi internetissä. Asiasta kiinnostuneille on tarjolla kirjasto standardireseptejä joita kasvattaja voi muunnella omiin tarpeisiinsa sopiviksi. (@goyal_hydrobase:_2016, 22)
 
-"Internet of Things in agriculture"-kirjallisuuskatsauksen viittaamista tutkimuksista kasvihuonetuotannon osalta suurin osa käsittelee kasvuympäristön tarkkailua ja säätelyä, samaan tapaan kuin peltotuotannon alueella. Muita tutkimusaiheita olivat kasvihuoneen hallintajärjestelmät, energiankulutuksen hallinta ja Big Data.  (@verdouw_internet_2016)
+"Internet of Things in agriculture"-kirjallisuuskatsauksen viittaamista tutkimuksista kasvihuonetuotannon osalta suurin osa käsittelee kasvuympäristön tarkkailua ja säätelyä, samaan tapaan kuin peltotuotannon alueella. Muita tutkimusaiheita olivat kasvihuoneen hallintajärjestelmät, energiankulutuksen hallinta ja Big Data. (@verdouw_internet_2016)
+
+Kokonaan kasvitehtaisiin keskittyneessä kirjallisuuskatsauksessa "Editorial: Advances and Trends in Development of Plant Factories" käsitellään uusia tutkimustrendejä kuten älykkäitä kasvatusympäristön mittausjärjestelmiä, kasvatusympäristön hallintaa ja optimointia, lääkeaineiden tuotantoa, geenitekniikkaa ja bakteerilannoitteita. Näistä selkeimmin IoT-teknologioihin perustuvat mittausjärjestelmät sekä kasvuympäristön hallinta ja optiminti, joista useissa tutkimuksissa ollaan saavutettu hyviä tuloksia erilaisilla valon hallinnan keinoilla. Tutkimuksissa ollaan kokeiltu muun muassa valon vuorokausirytmitystä, valaisun suuntaamista kasveihin myös kasvin alapuolelta, valon aallonpituuden säätelyä ja eri aallonpituudellisten valojen rytmitystä. Lisäksi on tutkittu yhdenväristen (monochromic) LEDien valaisun, korkean hiilidioksidipitoisuuden ja voimakkaan lannoittamisen yhdistelmää kasvatusympäristössä.
+(@luna-maldonado_editorial:_2016)
 
 Materiaalia etsittäessä on löytynyt pääasiassa uutisartikkelien kautta muutamia mielenkiintoisia kaupallisia toimijoita. Aiemmin mainittua MIT:n “Food Computer”:ia vastaavan kaltaisia kaupallisia tuotteita on tullut markkinoille useampien kasvuyritysten kuten Freight Farm:in @freight_farms_leafy_2017 ja Square Roots:in @square_roots_square_2017 toimesta. Näiden yritysten tuotteet ovat kontteihin rakennettuja pienikokoisia kasvitehtaita. Samantyyppisiä teknologiaratkaisuja myyvän ZipGrow:n tuotteet taas voidaan asentaa kasvihuoneisiin tai muihin sopiviin tiloihin @bright_agrotech_appropriate_2017. Suuremmassa teollisessa mittakaavassa toimivat mm. amerikkalainen AeroFarms @aerofarms_aerofarms_2017 sekä japanilaiset Spread @spread_spread_2017 ja Mirai @mirai_mirai_2017, jotka operoivat suuria kasvitehtaita. Belgialainen Urban Crop taas toimii teknologiatuottajana, joka tarjoaa ratkaisuja sekä kontteihin rakennettaviin että tehdaskokoisiin kasvitehtaisiin @urban_crop_solutions_urban_2017. 
 
-Suomalainen esimerkki tällaisesta kehityksestä on lapinjärveläisen Robbe’s Lilla Trägård Oy:n ja Fujitsu Greenhouse Technology Finland Oy:n yhteishankkeena toteuttama kasvitehdas @fujitsu_fujitsu_2016 @schafer_fujitsun_2016, josta uutisoitiin mm. Maaseudun tulevaisuus -lehden verkkosivuilla @ala-siurua_fujitsu_2016 @schafer_fujitsun_2016. 
+Suomalainen esimerkki tällaisesta kehityksestä on lapinjärveläisen Robbe’s Lilla Trädgård Oy:n ja Fujitsu Greenhouse Technology Finland Oy:n yhteishankkeena toteuttama kasvitehdas @fujitsu_fujitsu_2016 @schafer_fujitsun_2016, josta uutisoitiin mm. Maaseudun tulevaisuus -lehden verkkosivuilla @ala-siurua_fujitsu_2016 @schafer_fujitsun_2016. 
 
 Aamulehden jutussa ‘Erikoistutkija vesiviljelystä: “Kasvitehdasbuumi käy maailmalla kuumana”’ kasvitehdas -konseptia tutkinut erikoistutkija, dosentti Kari Jokinen kertoo “Kasvitehdasbuumi käy maailmalla kuumana. Japanissa on satakunta tehdasta. Mittakaava on maaseudun isoista laitoksia tokiolaisen ravintolan omaan salaattituotantoon.” @suojanen_erikoistutkija_2016.
 
-### Uusia teknologiasovelluksia
-
-
-Kirjallisuuskatsaukset ovat 
-
-“Agricultural crop monitoring using IOT - a study” @desai_agricultural_2017 jonka sisältämiä viitteitä voidaan käyttää peltokasvituotannon sovellusten keräämiseen 
-
-“Editorial: Advances and Trends in Development of Plant Factories” @luna-maldonado_editorial:_2016 joka nimensä mukaisesti keskittyy kasvitehtaiden teknologiasovelluksien tutkimuksiin. 
-
-
-Esimerkkinä jälkimmäisestä kirjallisuuskatsauksesta poimin kaksi mielenkiintoni herättänyttä tutkimusta:
-“Plant Weight Measurement -Chen et al. developed an automated measurement system to measure and record the plant weight during plant growth in plant factory. They found that plant weights measured by the weight measurement device are highly correlated with the weights estimated by the stereo-vision imaging system” sekä:
-“Growth Prediction CF -Moriyuki and Fukuda devised a novel high-throughput diagnosis system using the measurement of chlorophyll fluorescence forming an image of 7200 seedlings acquired by a CCD camera and an automatic transferring machine. They used machine learning in order to extract biological indices and predict plant growth”.
-
 # Tutkimuksen tavoitteet
+Tässä osiossa kuvaillaan tutkimusongelmat ja työhypoteesit.
+
 ## Tutkimusongelmat
 Tutkimuksessa haetaan vastauksia kahteen tutkimusongelmaan, jotka alaongelmineen ovat:
 I) Miten kasvintuotannossa hyödynnetään IoT-teknologioita?
@@ -118,23 +114,8 @@ Tutkimusongelma I:een perehdytään kirjallisuuskatsauksella ja tutkimusongelma 
 Kirjallisuuskatsaus soveltuu jo olemassaolevasta materiaalista kokonaiskuvan ja yleisten ominaisuuksien hahmottamiseen ja raportointiin, kun taas yksilöteemahaastattelulla voidaan kohtuulisen vapaamuotoisesti hahmottaa kuva sekä haastateltavan yleisitä kokemuksista että tarkemmin tutkimuksen aiheeseen liittyvistä seikoista.
 
 # Tutkimusaikataulu
-Tutkimusaikataulu etenee kurssin viikko-ohjelman puitteissa. Viikottaiset tehtävät ovat:
+Tutkimusaikataulu suunniteltiin aluksi etenemään kurssin viikko-ohjelman puitteissa. Haastateltava joutui kevätkylvöjen aiheuttamien kiireiden takia lykkäämään haastattelua lopuksi useilla viikoilla toukokuun lopulle, joten kurssin työpajassa esitellään tämä tutkimussuunnitelma ja tutkimusraportti palautetaan arvioitavaksi myöhemmin.
 
-* Viikko 13 - 17   Tutkimus    
-    Aineiston kerääminen: Teoriataustassa käytetyn materiaalin läpikäynti analyyseineen. 
-    Analyysin ja kerätyn tiedon pohjalta haastattelukysymyksien ja -teeman muodostaminen. 
-    Haastattelun järjestäminen. Haastattelu. Haastattelun tulosten kirjaaminen ja analysointi.
-    Aineiston analyysi
-    Tulosten ja johtopäätösten kirjoittaminen
-* Viikko 17   Tutkimusraportti
-    Raportin kirjoittaminen, visualisointi
-* Viikko 18   Tutkimusraportti & Esitys
-    Raportin viimeistely, esityksen suunnittelu
-* Viikko 19   Tutkimusraportti & Esitys
-    Tutkimusraportin ja esityksen palautus moodleen 14.5.2017
-* Viikko 20   Esitys & Vertaisarviointi
-    Esitykseen valmistautuminen ja opponoitavan työn arviointi
-* Viikko 21   Esitykset ja opponoinnit työpajassa
 
 # Tuloksen hyväksikäyttömahdollisuudet
 Tutkimustuloksia ja tutkimuksen aikana kertyneitä kokemuksia voidaan hyödyntää arvioitaessa aiheen soveltuvuutta tekijän opinnäytetyön aiheeksi. 
