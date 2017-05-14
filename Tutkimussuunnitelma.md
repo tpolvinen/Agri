@@ -39,7 +39,11 @@ FAO:n vuoden 2012 raportissa arvioidaan väestönkasvun myötä tarvittavan glob
 
 Ilmastonmuutoksen aiheuttama lämpötilojen nousu lisää kasteluntarvetta ja saattaa samalla rajoittaa kasteluveden saatavuutta. Tällöin tarvitaan entistä tarkempaa tietoa kastelun todellisesta tarpeesta sekä tarkempaa kastelun hallintaa — myös kotimaisessa kasvintuotannossa. Ruokakaupan jatkuvan hintakilpailun ja kasvavan luomuruoan kysynnän myötä on myös tarve kehittää viljelytekniikoita joilla voidaan säästää lannoituksessa ja saada silti enemmän irti samasta kasvatuspinta-alasta.
 
---APPLICATION AREAS,ENABLING TECHNOLOGIES, CHALLENGES AHEAD HERE--
+Täsmäviljelyn kehityksellä ollaan aikaisemmilla vuosikymmenillä saavutettu säästöjä lannoituksessa ja tehostettu viljelypinta-alan käyttöä. IoT-teknologioiden nähdään mahdollistavan täsmäviljelyn eteneminen ns. Smart Farming:iin, missä maatilasta muodostuu älykäs, keskenään toimivien laitteiden verkko. Tällöin voidaan yhdistää tosiaikainen sensorien tuottama havaintodata, datan automaattinen älykäs analysointi ja tuotantosuunnittelu sekä tuotantoprosessien kontrollointi. Täsmäviljelyn käyttöönotto ei ole kuitenkaan mainittavasti edennyt pienen innovatiivisen viljelijäjoukon ulkopuolelle ja täsmäviljelyssä tuotetun datan älykäs käyttö on edelleen hyvin vähäistä. (@verdouw_internet_2016) 
+
+--TÄSTÄ EN NYT OLE NIIN VARMA, SIIRRETÄÄNKÖ MUUALLE?--
+Täsmäviljelyn lisäksi Verdouw et al. erittelivät kirjallisuuskatsauksessaan "Internet of Things in agriculture" yleisiksi IoT:n sovellusten teemoiksi maataloudessa ruoan jäljitettävyyden, ruokaturvallisuuden ja laaduntarkkailun sekä kuluttajakohtaiset ratkaisut. 
+--TÄSTÄ EN NYT OLE NIIN VARMA, SIIRRETÄÄNKÖ MUUALLE?--
 
 Valtiollisille toimijoille IIoT:n ja sen mukana AIoT:n kehityksen tukemisen nähdään olevan kannattavaa niiden mahdollistaessa tehokkaamman kotimaisen tuotannon. Tämän tehokkuuden lisäyksen ennustetaan kääntävän halvempien tuotantokustannusten maihin kohdistuvan teollisen tuotannon ulkoistamisen trendin. Lisäksi tehostuneen tuotannon ennustetaan johtavan ennennäkemättömään taloudellisen kasvuun seuraavan vuosikymmenen aikana. (@gilchrist2016industry, 2, 222) 
 
@@ -49,9 +53,12 @@ Tämän kärkihankkeen vaikutuksia suomalaisella maataloussektorilla käsitellä
 
 Suomessa IoT -teknologioiden hyödyntämiseen suuntautuvia tuotteita ja palveluita on tarjolla ainakin Telialla @telia_iot-ratkaisut_2017 ja Digitalla @digita_iot-ratkaisut_2017, joiden tarjoamat tietoliikenneratkaisut ovat sovitettu IoT -teknologioiden vaatimuksiin. Molemmat toimijat kannustavat asiakkaitaan kehittämään uusia IoT -ratkaisuita ja tarjoavat niiden tueksi laajaa osaamistaan ja tietoliikenneverkkoaan. Laitteiden väliset verkkoyhteydet ovat haasteellisia monissa peltokasvintuotannon IoT -hankkeissa, mikä tekee tarjotuista palveluista mielenkiintoisia niiden tarjoaman kattavan langattoman tietoliikenneverkon takia. Kattava verkko mahdollistaa ja helpottaa myös osaltaan kokeiluhankkeiden kasvua prototyypeistä tuotantojärjestelmiksi.
 
-## Käytännön sovelluksia ja tutkimustuloksia
-### Täsmäviljely peltokasvituotannossa
-Täsmäviljelyn kokeiluhankkeilla ollaan yleiseti saavutettu hyviä kokemuksia. Erityisesti parantuneen resurssienhallinnan myötä käyttöönoton kustannukset saadaan yleensä katettua kohtuullisessa ajassa. Kokeiluhankkeet ovat edistäneet täsmäviljelyn sovelluksia niin pitkälle, että monet viljelijät ovat voineet ottaa ne laajamittaiseen käyttöön omassa tuotannossaan. (@buyya2016internet, 137) Tärkeä osa peltokasvituotannon tehostamista on traktorien automaattiohjaus, joka tehostaa käytetyn peltopinta-alan käyttöä (@dubravac2015digital, 133). 
+Verkkoyhteydet kuvaillaan "Internet of Things in agriculture"-kirjallisuuskatsauksessa myös yhtenä kolmesta IoT-arkkitehtuurien tasoista, muiden tasojen ollessa laitetaso sekä sovelustaso. Laitetasolla tapahtuvan sensorien, havaintolaitteiden ja ohjattavien laitteiden käyttöön tarvittavan verkkoliikenteen tapahtuessa verkkotasolla, lopuksi kokonaisuuden hallinnan ja tiedon analysoinnin tapahtuessa vastaavasti sovellustasolla. Katsauksessa eritellään myös AIoT:n tulevaisuuden haasteiksi hyvin erilaisten laitteiden yhteiskäytettävyys, tosielämän käytön skaalautuminen aikaisten omaksujien joukon ulkopuolelle, teknologiaratkaisujen kehittäminen sopimaan toimialan erityistarpeisiin sekä oikeiden käyttöympäristöjen olosuhteisiin, luotettavien verkkoyhteyksien toiminnan varmistaminen myös etäisillä käyttöpaikoilla, energiatehokkaiden IoT-teknologioiden kehittäminen, kolmannen osapuolen tuottaman datan yhdistäminen data-analytiikkaan ja luotettavien tietoturvapalveluiden sekä datan omistajuuden varmistavien palveluiden kehittäminen. (@verdouw_internet_2016) 
+
+
+## AIoT:n käytännön sovelluksia ja tutkimustuloksia
+### AIoT-täsmäviljely peltokasvituotannossa
+AIoT-täsmäviljelyn kokeiluhankkeilla ollaan yleiseti saavutettu hyviä kokemuksia. Erityisesti parantuneen resurssienhallinnan myötä käyttöönoton kustannukset saadaan yleensä katettua kohtuullisessa ajassa. Kokeiluhankkeet ovat edistäneet täsmäviljelyn sovelluksia niin pitkälle, että monet viljelijät ovat voineet ottaa ne laajamittaiseen käyttöön omassa tuotannossaan. (@buyya2016internet, 137) Tärkeä osa peltokasvituotannon tehostamista on traktorien automaattiohjaus, joka tehostaa käytetyn peltopinta-alan käyttöä (@dubravac2015digital, 133). 
 
 Samankaltaisista hyvistä kokemuksista sekä viljelytekniikoiden tehostamisesta automatisoinnilla kerrotaan lyhyesti Luonnonvarakeskuksen tiedotteessa jonka mukaan traktorin automaattiohjauksen avulla on saatu peltopinta-ala tehokkaampaan käyttöön ja kuljettajan työtaakkaa kevennettyä (@luonnonvarakeskus_asiakkaan_2015). Samankaltaista työnjaosta mainitaan kirjassa "Industry 4.0: The Industrial Internet of Things", jossa tutkijoiden hahmottelemassa tulevaisuudenkuvassa ihmisten työtä ei ole korvattu robottien tekemällä työllä vaan ihmisten ja robottien yhteistyöllä (@gilchrist2016industry, 11). 
 
@@ -59,7 +66,7 @@ Peltokasvituotannossa sovellettavista mittausteknologioista on aineistoa kerätt
 
 Toisenlainen jo laajassa käytössä oleva ratkaisu pellon maaperän tutkimiseen on maaperän EM-skannaus esim. Veris Technologies:in kehittämillä laitteilla. Skannaus tehdään ennen kasvukautta pellon maaperän koostumuksen selvittämiseksi ja skannauksessa tuotettua tietoa voidaan käyttää hyödyksi lannoituksen ja kastelun suunnittelussa, mutta mittauksia ei voida tehdä kesken kasvukautta sen vaatiessa ajoa työkoneella pellon yli @veris_technologies_what_2017.
 
-### Täsmäviljely puutarhatuotannossa
+### AIoT-täsmäviljely puutarhatuotannossa
 Peltokasvituotantoa paremmin IoT-teknologioiden käyttöönottoon on soveltunut puutarhatuotanto, jonka toimintaympäristöissä sensoreita voidaan asentaa helpommin ja jossa ympäristö on usein tarkemmin kontrolloitua kuin avoimilla pelloilla, esimerkiksi kasvihuoneissa. Puutarhakasvien tuotannossa 
 markkinahintainen tuotto viljelypinta-alaa kohti on huomattavasti suurempi kuin peltokasvituotannon vastaava (@pajula_selvitys_2003, 36).  Tästä voi päätellä, että automatisoidulla ja tarkemmin hallitulla resurssien käytöllä voidaan saavuttaa kilpailuetua erityisesti puutarhatuotannossa.
 
@@ -75,13 +82,16 @@ Suomalainen esimerkki tällaisesta kehityksestä on lapinjärveläisen Robbe’s
 Aamulehden jutussa ‘Erikoistutkija vesiviljelystä: “Kasvitehdasbuumi käy maailmalla kuumana”’ kasvitehdas -konseptia tutkinut erikoistutkija, dosentti Kari Jokinen kertoo “Kasvitehdasbuumi käy maailmalla kuumana. Japanissa on satakunta tehdasta. Mittakaava on maaseudun isoista laitoksia tokiolaisen ravintolan omaan salaattituotantoon.” @suojanen_erikoistutkija_2016.
 
 ### Uusia teknologiasovelluksia
-Koska AIoT:n tutkimuskenttä on hyvin laaja ja uusia tutkimuksia erilaisista teknologiasovelluksista julkaistaan jatkuvasti, olen valinnut alustavasti kaksi kirjallisuuskatsausta läpikäytäviksi tässä suunnitelmassa kuvaillun teoriataustan lisäksi. Katsausten viittaamiin tutkimuksiin ei ole tutkimussuunnitelman kirjoittamisen aikana tutustuttu kunnolla, mutta nopealla silmäilyllä niistä löytyy useita mielenkiintoisia aiheita joita voidaan hyödyntää teoriataustan tarkentamisessa ja syventämisessä yleistasolta spesifisiin sovelluksiin.
-
-Kirjallisuuskatsaukset ovat “Agricultural crop monitoring using IOT - a study” @desai_agricultural_2017 jonka sisältämiä viitteitä voidaan käyttää peltokasvituotannon sovellusten keräämiseen 
 
 
+Kirjallisuuskatsaukset ovat 
 
-sekä “Editorial: Advances and Trends in Development of Plant Factories” @luna-maldonado_editorial:_2016 joka nimensä mukaisesti keskittyy kasvitehtaiden teknologiasovelluksien tutkimuksiin. Esimerkkinä jälkimmäisestä kirjallisuuskatsauksesta poimin kaksi mielenkiintoni herättänyttä tutkimusta:
+“Agricultural crop monitoring using IOT - a study” @desai_agricultural_2017 jonka sisältämiä viitteitä voidaan käyttää peltokasvituotannon sovellusten keräämiseen 
+
+“Editorial: Advances and Trends in Development of Plant Factories” @luna-maldonado_editorial:_2016 joka nimensä mukaisesti keskittyy kasvitehtaiden teknologiasovelluksien tutkimuksiin. 
+
+
+Esimerkkinä jälkimmäisestä kirjallisuuskatsauksesta poimin kaksi mielenkiintoni herättänyttä tutkimusta:
 “Plant Weight Measurement -Chen et al. developed an automated measurement system to measure and record the plant weight during plant growth in plant factory. They found that plant weights measured by the weight measurement device are highly correlated with the weights estimated by the stereo-vision imaging system” sekä:
 “Growth Prediction CF -Moriyuki and Fukuda devised a novel high-throughput diagnosis system using the measurement of chlorophyll fluorescence forming an image of 7200 seedlings acquired by a CCD camera and an automatic transferring machine. They used machine learning in order to extract biological indices and predict plant growth”.
 
