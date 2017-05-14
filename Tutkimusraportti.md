@@ -39,6 +39,8 @@ Per tutkimusongelma:
 
 KIRJOITA TÄHÄN ONGELMAN I VASTAUS
 
+KASVITEHTAISTA...Muita saman kaltaisia toimijoita on tullut jatkuvasti esille aineistoa etsittäessä ja vaikuttaa siltä, että kasvitehtaat tulevat nousemaan puutarhatuotannossa perinteisen kasvihuoneviljelyn rinnalle.
+
 Ongelman II vastaus saadaan vasta haastattelusta.
 
 # Johtopäätökset ja suositukset
