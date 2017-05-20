@@ -115,10 +115,10 @@ Tässä osiossa kuvaillaan käytetyt tutkimusmenetelmät ja -aineisto.
 
 *laadullisessa tutkimuksessa:*
 *- käytetyt tutkimusmenetelmät*
-*- tiedot ajankäytöstä**
+*- tiedot ajankäytöstä*
 *- kohderyhmä ja sen piirteet*
 *- tutkijan ja tutkittavan välinen suhde*
-*- aineiston tarkistukset ja kuvaukset analyysimenetelmistä**
+*- aineiston tarkistukset ja kuvaukset analyysimenetelmistä*
 
 *SIIS mitä tutkimuksessa tehtiin ja miten tutkimus kirjaimellisesti suoritettiin, sekä myös miksi valittiin kyseinen tutkimusmenetelmä (perustelut).*
 
