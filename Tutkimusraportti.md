@@ -110,6 +110,19 @@ Tutkimusongelman II vastaukseksi odotetaan saatavaksi aikaisempien keskustelujen
 # Aineisto ja (tutkimus)menetelmät
 Tässä osiossa kuvaillaan käytetyt tutkimusmenetelmät ja -aineisto. 
 
+*- tiedon etsimisen keinot ja vaiheet,  kuvaamisen tekniikat, aineiston analyysin tekniikat ja välineet ja perustelut tehdyille valinnoille*
+*- tutkimusaineisto (kohde ja otanta), keruumenetelmät, muuttujat, mittarit, tilastolliset käsittelyt, testit ja erilaiset analyysit*
+
+*laadullisessa tutkimuksessa:*
+*- käytetyt tutkimusmenetelmät*
+*- tiedot ajankäytöstä**
+*- kohderyhmä ja sen piirteet*
+*- tutkijan ja tutkittavan välinen suhde*
+*- aineiston tarkistukset ja kuvaukset analyysimenetelmistä**
+
+*SIIS mitä tutkimuksessa tehtiin ja miten tutkimus kirjaimellisesti suoritettiin, sekä myös miksi valittiin kyseinen tutkimusmenetelmä (perustelut).*
+
+
 ## Tutkimusmenetelmät
 Tutkimusmenetelmiksi on valittu kummallekin tutkimusongelmalle omansa niiden soveltuvuuden perusteella:
 Tutkimusongelma I:een perehdytään kirjallisuuskatsauksella ja tutkimusongelma II:een yksilöteemahaastattelulla.
