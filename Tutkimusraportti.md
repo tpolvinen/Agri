@@ -37,7 +37,8 @@ Erityisesti IoT-teknologioita hyödyntävää kasvintuotantoa toteutetaan kasvih
 Tutkittavaksi ilmiöksi on näin materiaaliin tutustuttaessa muodostunut IoT-teknologioiden hyödyntäminen kasvintuotannossa viljelyn tehostamiseksi ja samalla viljelyn aiheuttaman ympäristökuormituksen minimoimiseksi. Uutta tietoa odotetaan syntyvän tässä tutkimuksessa vain vähän toteutettavassa yksilöteemahaastattelussa ja tutkimukseen käytettävissä olevan ajan rajallisuuden myötä, mutta tutkimuksen tuloksia voidaan käyttää apuna päätettäessä jatkotutkimuksen tarpeellisuudesta ja toteutuksen mahdollisuuksista.
 
 # Teoriatausta
-Tässä osassa käsitellään tutkimuksen osana tehdyssä kirjallisuuskatsauksessa löytyneitä tietoja AIoT:n taustasta, sen käytännön sovelluksista ja tutkimustuloksista.
+Tässä osassa käsitellään tutkimuksen osana tehdyssä kirjallisuuskatsauksessa löytyneitä tietoja AIoT:n taustasta, sen käytännön sovelluksista ja tutkimustuloksista. Teoriataustassa pyritään vastaamaan ensimmäiseen tutkimusongelmaan, eli miten kasvintuotannossa hyödynnetään IoT-teknologioita, miten pelto- ja puutarhatuotannon erot vaikuttavat teknologiasovelluksiin sekä millaiset teknologiasovellukset tulevat löydöksistä selkeimmin esille.
+
 
 *Mitä tietoa kootaan?*
 *Mitä tutkitaan, selvitetään? ...kirjallisuuden ja muun lähdeaineiston mukaan...*
@@ -100,7 +101,7 @@ Suomalainen esimerkki tällaisesta kehityksestä on lapinjärveläisen Robbe’s
 Aamulehden jutussa ‘Erikoistutkija vesiviljelystä: “Kasvitehdasbuumi käy maailmalla kuumana”’ kasvitehdas -konseptia tutkinut erikoistutkija, dosentti Kari Jokinen kertoo “Kasvitehdasbuumi käy maailmalla kuumana. Japanissa on satakunta tehdasta. Mittakaava on maaseudun isoista laitoksia tokiolaisen ravintolan omaan salaattituotantoon.” @suojanen_erikoistutkija_2016.
 
 # Tutkimuksen tavoitteet
-Tässä osiossa kuvaillaan tutkimusongelmat ja työhypoteesit.
+Tässä osiossa kuvaillaan tutkimusongelmat ja työhypoteesit. 
 
 ## Tutkimusongelmat
 Tutkimuksessa haetaan vastauksia kahteen tutkimusongelmaan, jotka alaongelmineen ovat:
@@ -116,8 +117,8 @@ II) Millaisia IoT-teknologioita haastateltavalla toimijalla on joko käytettävi
     * Millaisia toiveita tai tarpeita haastateltavalla on IoT-teknologioille?
 
 ## Työhypoteesit:
-Tutkimusongelman I vastaukseksi odotetaan saatvaksi teoriaosuudessa käytettyjen materiaalien mukaisen kuvailun.
-Tutkimusongelman II vastaukseksi odotetaan saatavaksi aikaisempien keskustelujen perusteella vastaukseksi Valtran tuotevalikoiman mukaisia teknologiaratkaisuita, joissa hyödynnetään ainakin automaattiohjausta ja maaperän rakenteen kartoitusta viljelyn suunnittelussa. Todennäköistä on, että näillä teknologioilla saavutetut hyödyt ovat linjassa teoriaosuudessa käsiteltyjen löydösten kanssa. Epävarmaa on voidaanko työkoneista saada tietoa analysoitavaksi ja hyödynnettäväksi muualla eli voidaanko niitä edes pitää IoT-teknologioina. Ei ole tiedossa, millaisia tarpeita tai toiveita haastateltava on tiedostanut IoT-teknologioita kohtaan.
+Tutkimusongelman I vastaukseksi saadaan teoriaosuudessa käsiteltyjen löydösten mukainen kuvailu.
+Tutkimusongelman II vastaukseksi saadaan aikaisempien keskustelujen perusteella Valtran tuotevalikoiman mukaisia peltotuotannon teknologiaratkaisuita, joissa hyödynnetään ainakin automaattiohjausta ja maaperän rakenteen kartoitusta viljelyn suunnittelussa. Todennäköistä on, että näillä teknologioilla saavutetut hyödyt ovat linjassa teoriaosuudessa käsiteltyjen löydösten kanssa. Epävarmaa on voidaanko työkoneista saada tietoa analysoitavaksi ja hyödynnettäväksi muualla eli voidaanko niitä edes pitää IoT-teknologioina. Ei ole tiedossa, millaisia tarpeita tai toiveita haastateltava on tiedostanut IoT-teknologioita kohtaan.
 
 # Aineisto ja (tutkimus)menetelmät
 Tässä osiossa kuvaillaan käytetyt tutkimusmenetelmät ja -aineisto. 
@@ -134,14 +135,15 @@ Tässä osiossa kuvaillaan käytetyt tutkimusmenetelmät ja -aineisto.
 
 *SIIS mitä tutkimuksessa tehtiin ja miten tutkimus kirjaimellisesti suoritettiin, sekä myös miksi valittiin kyseinen tutkimusmenetelmä (perustelut).*
 
-
 ## Tutkimusmenetelmät
-Tutkimusmenetelmiksi on valittu kummallekin tutkimusongelmalle omansa niiden soveltuvuuden perusteella:
+Tutkimus on luonteeltaan empiirinen ja kummallekin tutkimusongelmalle on valittu oma tutkimusmenetelmä soveltuvuuden perusteella:
 Tutkimusongelma I:een perehdytään kirjallisuuskatsauksella ja tutkimusongelma II:een yksilöteemahaastattelulla.
 
 *Haastattelun kohteena: J.F. joka toimii Kiialan kartanon -millä tittelillä?*
 
-Kirjallisuuskatsaus soveltuu jo olemassaolevasta materiaalista kokonaiskuvan ja yleisten ominaisuuksien hahmottamiseen ja raportointiin, kun taas yksilöteemahaastattelulla voidaan kohtuulisen vapaamuotoisesti hahmottaa kuva sekä haastateltavan yleisitä kokemuksista että tarkemmin tutkimuksen aiheeseen liittyvistä seikoista.
+Kirjallisuuskatsaus soveltuu jo olemassaolevasta materiaalista kokonaiskuvan ja yleisten ominaisuuksien hahmottamiseen sekä raportointiin. Yksilöteemahaastattelulla voidaan kohtuulisen vapaamuotoisesti hahmottaa kuva sekä haastateltavan yleisitä kokemuksista että tarkemmin tutkimuksen aiheeseen liittyvistä seikoista.
+
+Kirjallisuuskatsauksen tiedot etsittiin Finna-, Google-, Google Scholar- ja ResearchGate-hauilla sekä loppuvaiheessa Iris.ai-hauilla. Hakuprosessin ensimmäisessä vaiheessa etsittiin Finna-haulla aiheeseen liittyvää kirjallisuutta, mistä siirryttiin Google-, Google Scholar- ja ResearchGate-hakuihin. Katsauksen kirjoitustyön loppuvaiheessa tutustuttiin myös Iris.ai-hakuun. Katsaukseen valittiin 
 
 *Tutkimusmenetelmät-kohdan kopioinnin lisäksi: Ajankäyttö: yksi haastattelu, ajankohta ja kesto; Tutkijan ja haastateltavan suhde: tuttavia, tutkittavaa asiaa on sivuttu jo aikaisemmissa keskusteluissa*
 
