@@ -99,16 +99,17 @@ Tässä osiossa kuvaillaan tutkimusongelmat ja työhypoteesit.
 
 ## Tutkimusongelmat
 Tutkimuksessa haetaan vastauksia kahteen tutkimusongelmaan, jotka alaongelmineen ovat:
+
 I) Miten kasvintuotannossa hyödynnetään IoT-teknologioita?
-* Miten peltotuotannon ja puutarhatuotannon erot vaikuttavat IoT -teknologioiden sovelluksiin?
-* Minkä tyyppiset sovellukset tulevat tutkimusmateriaalissa selkeimmin esille, eli millaisista sovelluksista ja teknologioista kirjoitetaan ja tehdään tutkimusta tällä hetkellä?
+    * Miten peltotuotannon ja puutarhatuotannon erot vaikuttavat IoT -teknologioiden sovelluksiin?
+    * Minkä tyyppiset sovellukset tulevat tutkimusmateriaalissa selkeimmin esille, eli millaisista sovelluksista ja teknologioista kirjoitetaan ja tehdään tutkimusta tällä hetkellä?
     
 II) Millaisia IoT-teknologioita haastateltavalla toimijalla on joko käytettävissään tai millaisista hän on tietoinen?
-* Mitä vaikutuksia niillä on tuotantoon ja/tai työntekoon?
-* Millaisia kokemuksia niistä haastateltavalla on?
-* Millaisia muita sovelluksia haastateltava tuntee tai tietää?
-* Millainen käsitys haastateltavalla on edelllä mainituista sovelluksista (sekä käyttämistään että tietämistään)?
-* Millaisia toiveita tai tarpeita haastateltavalla on IoT-teknologioille?
+    * Mitä vaikutuksia niillä on tuotantoon ja/tai työntekoon?
+    * Millaisia kokemuksia niistä haastateltavalla on?
+    * Millaisia muita sovelluksia haastateltava tuntee tai tietää?
+    * Millainen käsitys haastateltavalla on edelllä mainituista sovelluksista (sekä käyttämistään että tietämistään)?
+    * Millaisia toiveita tai tarpeita haastateltavalla on IoT-teknologioille?
 
 ## Työhypoteesit:
 Tutkimusongelman I vastaukseksi saadaan teoriaosuudessa käsiteltyjen löydösten mukainen kuvailu.
@@ -127,11 +128,13 @@ Kirjallisuuskatsauksen tiedot etsittiin Finna-, Google-, Google Scholar- ja Rese
 Haastattelun toteutetaan yksilöteemahaastatteluna. Haastattelun tavoite on saada tietoa miten maatalouden IoT-teknologioita sovelletaan tai miten niitä haastateltavan käsityksen mukaan voitaisiin soveltaa haastateltavan työssä/Kiialan kartanon maataloustuotannossa. Lisäksi tavoitteena on selvittää, millainen näkemys haastateltavalla on kyseisten teknologioiden hyödyntämisestä ja käyttökelpoisuudesta.
 
 Haastattelun aiheet ovat tutkimuksen toisen tutkimusongelman mukaisesti:
-    Millaisia IoT-teknologioita haastateltavalla toimijalla on joko käytettävissään tai millaisista hän on tietoinen?
-        * Mitä vaikutuksia niillä on tuotantoon ja/tai työntekoon?
-        * Millaisia kokemuksia niistä haastateltavalla on?
-        * Millaisia muita sovelluksia haastateltava tuntee tai tietää?
-        * Millainen käsitys haastateltavalla on edelllä mainituista sovelluksista (sekä käyttämistään että tietämistään)?
+
+II) Millaisia IoT-teknologioita haastateltavalla toimijalla on joko käytettävissään tai millaisista hän on tietoinen?
+    * Mitä vaikutuksia niillä on tuotantoon ja/tai työntekoon?
+    * Millaisia kokemuksia niistä haastateltavalla on?
+    * Millaisia muita sovelluksia haastateltava tuntee tai tietää?
+    * Millainen käsitys haastateltavalla on edelllä mainituista sovelluksista (sekä käyttämistään että tietämistään)?
+    * Millaisia toiveita tai tarpeita haastateltavalla on IoT-teknologioille?
 
 Haastatelun ajankohtaa ei tätä kirjoitettaessa 21.5.2017 ole vielä saatu sovittua haastateltavan kevätkylvöstä johtuvien kiireiden vuoksi. Haastattelun kestoksi arvioidaan yksi tunti.
 
@@ -141,10 +144,6 @@ Tutkija ja haastateltava ovat toisilleen ennestään tutuja ja tutkittavaa asiaa
 Tässä osiossa käsitellään tutkimuksen vastaukset tutkimusongelmittain.
 
 ## Tutkimusongelma I:n vastaukset
-Tutkimusongelma I) *Miten kasvintuotannossa hyödynnetään IoT-teknologioita?*
-*- Miten peltotuotannon ja puutarhatuotannon erot vaikuttavat IoT -teknologioiden sovelluksiin?*
-*- Minkä tyyppiset sovellukset tulevat tutkimusmateriaalissa selkeimmin esille, eli millaisista sovelluksista ja teknologioista kirjoitetaan ja tehdään tutkimusta tällä hetkellä?*
-
 Kasvintuotannossa IoT-teknologioiden hyödyntäminen vaikuttaa suurilta osin olevan aikaisemmin kehitettyjen täsmäviljelyn tekniikoiden tehostamista. IoT:n tärkeänä osana nähdyn tiedon keräämisen ja analysoinnin hyödyntäminen on kuitenkin vielä harvinaisempaa kuin kasvuympäristön tarkkailu ja säätely.
 Uusien teknologioiden hyödyntäminen on myös mahdollistanut kasvitehtaiden kehittämisen paitsi kokeellisissa projekteissa myös kaupallisina sovelluksina.
 
