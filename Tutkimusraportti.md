@@ -139,9 +139,9 @@ Tutkija ja haastateltava ovat toisilleen ennestään tutuja ja tutkittavaa asiaa
 Tässä osiossa käsitellään tutkimuksen vastaukset tutkimusongelmittain.
 
 ## Tutkimusongelma I:n vastaukset
-Tutkimusongelma I) Miten kasvintuotannossa hyödynnetään IoT-teknologioita?
-- Miten peltotuotannon ja puutarhatuotannon erot vaikuttavat IoT -teknologioiden sovelluksiin?
-- Minkä tyyppiset sovellukset tulevat tutkimusmateriaalissa selkeimmin esille, eli millaisista sovelluksista ja teknologioista kirjoitetaan ja tehdään tutkimusta tällä hetkellä?
+Tutkimusongelma I) *Miten kasvintuotannossa hyödynnetään IoT-teknologioita?*
+*- Miten peltotuotannon ja puutarhatuotannon erot vaikuttavat IoT -teknologioiden sovelluksiin?*
+*- Minkä tyyppiset sovellukset tulevat tutkimusmateriaalissa selkeimmin esille, eli millaisista sovelluksista ja teknologioista kirjoitetaan ja tehdään tutkimusta tällä hetkellä?*
 
 Kasvintuotannossa IoT-teknologioiden hyödyntäminen vaikuttaa suurilta osin olevan aikaisemmin kehitettyjen täsmäviljelyn tekniikoiden tehostamista. IoT:n tärkeänä osana nähdyn tiedon keräämisen ja analysoinnin hyödyntäminen on kuitenkin vielä harvinaisempaa kuin kasvuympäristön tarkkailu ja säätely.
 Uusien teknologioiden hyödyntäminen on myös mahdollistanut kasvitehtaiden kehittämisen paitsi kokeellisissa projekteissa myös kaupallisina sovelluksina.
@@ -156,6 +156,8 @@ Tutkimusongelman II vastaukset kirjoitetaan haastattelun tuloksista.
 # Johtopäätökset ja suositukset
 
 *päätulokset todetaan lyhyesti; tutkimustulokset - teoriatausta; hypoteesien mukaisuus?; tulosten luotettavuus?*
+
+
 
 KASVITEHTAISTA...Muita saman kaltaisia toimijoita on tullut jatkuvasti esille aineistoa etsittäessä ja vaikuttaa siltä, että kasvitehtaat tulevat nousemaan puutarhatuotannossa perinteisen kasvihuoneviljelyn rinnalle.
 
