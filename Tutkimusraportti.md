@@ -115,8 +115,6 @@ Tutkimusongelman II vastaukseksi saadaan aikaisempien keskustelujen perusteella 
 # Aineisto ja (tutkimus)menetelmät
 Tässä osiossa kuvaillaan käytetyt tutkimusmenetelmät ja -aineisto. 
 
-*SIIS mitä tutkimuksessa tehtiin ja miten tutkimus kirjaimellisesti suoritettiin, sekä myös miksi valittiin kyseinen tutkimusmenetelmä (perustelut).*
-
 ## Tutkimusmenetelmät
 Kummallekin tutkimusongelmalle on valittu oma tutkimusmenetelmänsä soveltuvuuden perusteella: tutkimusongelma I:een perehdytään kartoittavalla kirjallisuuskatsauksella ja tutkimusongelma II:een yksilöteemahaastattelulla.
 
@@ -124,16 +122,23 @@ Kirjallisuuskatsaus soveltuu jo olemassaolevasta materiaalista kokonaiskuvan, yl
 
 Kirjallisuuskatsauksen tiedot etsittiin Finna-, Google-, Google Scholar- ja ResearchGate-hauilla sekä loppuvaiheessa Iris.ai-hauilla. Hakuprosessin ensimmäisessä vaiheessa etsittiin Finna-haulla aiheeseen liittyvää kirjallisuutta, mistä siirryttiin Google-, Google Scholar- ja ResearchGate-hakuihin. Katsauksen kirjoitustyön loppuvaiheessa tutustuttiin myös Iris.ai-hakuun. Katsaukseen valittiin tutkimustietoa, lehtiartikkeleita ja laitevalmistajien tiedotteita. Valinnat tehtiin kokonaisuutta silmälläpitäen pyrkien kuvaamaan valtiollisten, yksityisten ja tieteellistä tutkimusta tekevien toimijoiden osallisuutta AIoT-kehityksen tilassa.
 
-Haastattelun toteutetaan yksilöteemahaastatteluna, jonka sisältö kuvataan haastattelusuunnitelmassa. Haastatelun ajankohtaa ei tätä kirjoitettaessa ole vielä saatu sovittua haastateltavan kevätkylvöstä johtuvien kiireiden vuoksi. Haastattelun kestoksi arvioidaan yksi tunti.
+Haastattelun toteutetaan yksilöteemahaastatteluna. Haastattelun tavoite on saada tietoa miten maatalouden IoT-teknologioita sovelletaan tai miten niitä haastateltavan käsityksen mukaan voitaisiin soveltaa haastateltavan työssä/Kiialan kartanon maataloustuotannossa. Lisäksi tavoitteena on selvittää, millainen näkemys haastateltavalla on kyseisten teknologioiden hyödyntämisestä ja käyttökelpoisuudesta.
 
-*Haastattelun kohteena: J.F. joka työskentelee Kiialan kartanon maatalousvastaavana(?)*
+Haastattelun aiheet ovat tutkimuksen toisen tutkimusongelman mukaisesti:
+    Millaisia IoT-teknologioita haastateltavalla toimijalla on joko käytettävissään tai millaisista hän on tietoinen?
+        * Mitä vaikutuksia niillä on tuotantoon ja/tai työntekoon?
+        * Millaisia kokemuksia niistä haastateltavalla on?
+        * Millaisia muita sovelluksia haastateltava tuntee tai tietää?
+        * Millainen käsitys haastateltavalla on edelllä mainituista sovelluksista (sekä käyttämistään että tietämistään)?
+
+Haastatelun ajankohtaa ei tätä kirjoitettaessa (21.5.2017) ole vielä saatu sovittua haastateltavan kevätkylvöstä johtuvien kiireiden vuoksi. Haastattelun kestoksi arvioidaan yksi tunti.
 
 Tutkija ja haastateltava ovat toisilleen ennestään tutuja ja tutkittavaa asiaa on sivuttu aikaisemmissa keskusteluissa. Kyseiset keskustelut ovat toimineet tämän tutkimuksen innoittajina.
 
 # Tulokset
 Tässä osiossa käsitellään tutkimuksen vastaukset tutkimusongelmittain.
 
-##Tutkimusongelma I:n vastaukset
+## Tutkimusongelma I:n vastaukset
 Tutkimusongelma I) Miten kasvintuotannossa hyödynnetään IoT-teknologioita?
 - Miten peltotuotannon ja puutarhatuotannon erot vaikuttavat IoT -teknologioiden sovelluksiin?
 - Minkä tyyppiset sovellukset tulevat tutkimusmateriaalissa selkeimmin esille, eli millaisista sovelluksista ja teknologioista kirjoitetaan ja tehdään tutkimusta tällä hetkellä?
@@ -145,7 +150,7 @@ Peltotuotannon AIoT:n sovellukset ovat keskittyneet kasvuympäristön kuten pell
 
 Puutarhatuotannossa AIoT-ratkaisuja voidaan rakentaa kontrolloidummassa ympäristössä, jolloin soveluksien kehittäminen on helpompaa kuin peltotuotannossa. Puutarhatuotannon AIoT-ratkaisuissa on korostunut sensorien tuottaman tiedon analysoinnin perusteella tapahtuva kasvatusympäristön hallinta. "Internet of Things in agriculture"-kirjallisuuskatsauksen viittaamista kasvihuoneisiin keskittyvistä tutkimuksista suurin osa käsittelee kasvatusympäristön tarkkailua ja säätelyä, mikä on linjassa peltotuotannon tutkimusmäärien kanssa. Katsauksessa puutarhatuotannolle erityiset ja huomattavat tutkimusaiheet ovat kasvihuoneen hallintajärjestelmät, energiankulutuksen hallinta ja Big Data.
 
-##Tutkimusongelma II:n vastaukset
+## Tutkimusongelma II:n vastaukset
 Tutkimusongelman II vastaukset kirjoitetaan haastattelun tuloksista.
 
 # Johtopäätökset ja suositukset
