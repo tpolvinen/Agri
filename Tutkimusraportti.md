@@ -131,14 +131,13 @@ Haastattelun toteutetaan yksilöteemahaastatteluna, jonka sisältö kuvataan haa
 Tutkija ja haastateltava ovat toisilleen ennestään tutuja ja tutkittavaa asiaa on sivuttu aikaisemmissa keskusteluissa. Kyseiset keskustelut ovat toimineet tämän tutkimuksen innoittajina.
 
 # Tulokset
-Per tutkimusongelma:
+Tässä osiossa käsitellään tutkimuksen vastaukset tutkimusongelmittain.
 
-I) Miten kasvintuotannossa hyödynnetään IoT-teknologioita?
-    * Miten peltotuotannon ja puutarhatuotannon erot vaikuttavat IoT -teknologioiden sovelluksiin?
-    * Minkä tyyppiset sovellukset tulevat tutkimusmateriaalissa selkeimmin esille, eli millaisista sovelluksista ja teknologioista kirjoitetaan ja tehdään tutkimusta tällä hetkellä?
+##Tutkimusongelma I:n vastaukset
 
-
-*KIRJOITA TÄHÄN ONGELMAN I VASTAUS*
+Tutkimusongelma I) Miten kasvintuotannossa hyödynnetään IoT-teknologioita?
+- Miten peltotuotannon ja puutarhatuotannon erot vaikuttavat IoT -teknologioiden sovelluksiin?
+- Minkä tyyppiset sovellukset tulevat tutkimusmateriaalissa selkeimmin esille, eli millaisista sovelluksista ja teknologioista kirjoitetaan ja tehdään tutkimusta tällä hetkellä?
 
 Kasvintuotannossa IoT-teknologioiden hyödyntäminen vaikuttaa suurilta osin olevan aikaisemmin kehitettyjen täsmäviljelyn tekniikoiden tehostamista. IoT:n tärkeänä osana nähdyn tiedon keräämisen ja analysoinnin hyödyntäminen on kuitenkin vielä harvinaisempaa kuin kasvuympäristön tarkkailu ja säätely.
 Uusien teknologioiden hyödyntäminen on myös mahdollistanut kasvitehtaiden kehittämisen paitsi kokeellisissa projekteissa myös kaupallisina sovelluksina.
@@ -147,16 +146,15 @@ Peltotuotannon AIoT:n sovellukset ovat keskittyneet kasvuympäristön kuten pell
 
 Puutarhatuotannossa AIoT-ratkaisuja voidaan rakentaa kontrolloidummassa ympäristössä, jolloin soveluksien kehittäminen on helpompaa kuin peltotuotannossa. Puutarhatuotannon AIoT-ratkaisuissa on korostunut sensorien tuottaman tiedon analysoinnin perusteella tapahtuva kasvatusympäristön hallinta. "Internet of Things in agriculture"-kirjallisuuskatsauksen viittaamista kasvihuoneisiin keskittyvistä tutkimuksista suurin osa käsittelee kasvatusympäristön tarkkailua ja säätelyä, mikä on linjassa peltotuotannon tutkimusmäärien kanssa. Katsauksessa puutarhatuotannolle erityiset ja huomattavat tutkimusaiheet ovat kasvihuoneen hallintajärjestelmät, energiankulutuksen hallinta ja Big Data.
 
+##Tutkimusongelma II:n vastaukset
 
-
-
-
-KASVITEHTAISTA...Muita saman kaltaisia toimijoita on tullut jatkuvasti esille aineistoa etsittäessä ja vaikuttaa siltä, että kasvitehtaat tulevat nousemaan puutarhatuotannossa perinteisen kasvihuoneviljelyn rinnalle.
-
-Ongelman II vastaus saadaan vasta haastattelusta.
+Ongelman II vastaukset kirjoitetaan haastattelun tuloksista.
 
 # Johtopäätökset ja suositukset
 
 *päätulokset todetaan lyhyesti; tutkimustulokset - teoriatausta; hypoteesien mukaisuus?; tulosten luotettavuus?*
+
+KASVITEHTAISTA...Muita saman kaltaisia toimijoita on tullut jatkuvasti esille aineistoa etsittäessä ja vaikuttaa siltä, että kasvitehtaat tulevat nousemaan puutarhatuotannossa perinteisen kasvihuoneviljelyn rinnalle.
+
 
 # Lähteet
