@@ -39,14 +39,6 @@ Tutkittavaksi ilmiöksi on näin materiaaliin tutustuttaessa muodostunut IoT-tek
 # Teoriatausta
 Tässä osassa käsitellään tutkimuksen osana tehdyssä kirjallisuuskatsauksessa löytyneitä tietoja AIoT:n taustasta, sen käytännön sovelluksista ja tutkimustuloksista. Teoriataustassa pyritään vastaamaan ensimmäiseen tutkimusongelmaan, eli miten kasvintuotannossa hyödynnetään IoT-teknologioita, miten pelto- ja puutarhatuotannon erot vaikuttavat teknologiasovelluksiin sekä millaiset teknologiasovellukset tulevat löydöksistä selkeimmin esille.
 
-
-*Mitä tietoa kootaan?*
-*Mitä tutkitaan, selvitetään? ...kirjallisuuden ja muun lähdeaineiston mukaan...*
-
-*Kirjallisuuden analysoinnilla pyritään selvittämään, löytämään?*
-*Mihin TUTKIMUSkysymyksiin haetaan vastausta kirjallisuuskatsauksella?*
-
-
 ## Taustaa
 FAO:n vuoden 2012 raportissa arvioidaan väestönkasvun myötä tarvittavan globaalin ruoantuotannon kasvun olevan saavutettavissa mutta vaativan investointeja. Raportissa käsiteltyjen Maailmanpankin ennusteiden mukaan köyhyys ei ole katoamassa maailmasta vuoteen 2050 mennessä vaan tuloerot maiden välillä tulevat olemaan huomattavat, jolloin ruoantuotantoon tehtävät investoinnit tulevat jakautumaan  epätasaisesti. (@alexandratos_n._world_2012, 37) Tämä puolestaan asettaa vaatimuksia kustannustehokkaampien viljelytekniikoiden kehittämiselle —erityisesti ilmastonmuutoksen todennäköisten vaikutusten vaikeuttaessa maanviljelyä suuressa osassa maailmaa. 
 
@@ -123,32 +115,22 @@ Tutkimusongelman II vastaukseksi saadaan aikaisempien keskustelujen perusteella 
 # Aineisto ja (tutkimus)menetelmät
 Tässä osiossa kuvaillaan käytetyt tutkimusmenetelmät ja -aineisto. 
 
-*- tiedon etsimisen keinot ja vaiheet,  kuvaamisen tekniikat, aineiston analyysin tekniikat ja välineet ja perustelut tehdyille valinnoille*
-*- tutkimusaineisto (kohde ja otanta), keruumenetelmät, muuttujat, mittarit, tilastolliset käsittelyt, testit ja erilaiset analyysit*
-
-*laadullisessa tutkimuksessa:*
-*- käytetyt tutkimusmenetelmät*
-*- tiedot ajankäytöstä*
-*- kohderyhmä ja sen piirteet*
-*- tutkijan ja tutkittavan välinen suhde*
-*- aineiston tarkistukset ja kuvaukset analyysimenetelmistä*
-
 *SIIS mitä tutkimuksessa tehtiin ja miten tutkimus kirjaimellisesti suoritettiin, sekä myös miksi valittiin kyseinen tutkimusmenetelmä (perustelut).*
 
 ## Tutkimusmenetelmät
-Tutkimus on luonteeltaan empiirinen ja kummallekin tutkimusongelmalle on valittu oma tutkimusmenetelmä soveltuvuuden perusteella:
-Tutkimusongelma I:een perehdytään kirjallisuuskatsauksella ja tutkimusongelma II:een yksilöteemahaastattelulla.
+Kummallekin tutkimusongelmalle on valittu oma tutkimusmenetelmänsä soveltuvuuden perusteella: tutkimusongelma I:een perehdytään kartoittavalla kirjallisuuskatsauksella ja tutkimusongelma II:een yksilöteemahaastattelulla.
 
-*Haastattelun kohteena: J.F. joka toimii Kiialan kartanon -millä tittelillä?*
+Kirjallisuuskatsaus soveltuu jo olemassaolevasta materiaalista kokonaiskuvan, yleisten ominaisuuksien hahmottamiseen ja raportointiin. Yksilöteemahaastattelulla voidaan kohtuullisen vapaamuotoisesti hahmottaa kuva sekä haastateltavan yleisitä kokemuksista että tarkemmin tutkimuksen aiheeseen liittyvistä seikoista.
 
-Kirjallisuuskatsaus soveltuu jo olemassaolevasta materiaalista kokonaiskuvan ja yleisten ominaisuuksien hahmottamiseen sekä raportointiin. Yksilöteemahaastattelulla voidaan kohtuulisen vapaamuotoisesti hahmottaa kuva sekä haastateltavan yleisitä kokemuksista että tarkemmin tutkimuksen aiheeseen liittyvistä seikoista.
+Kirjallisuuskatsauksen tiedot etsittiin Finna-, Google-, Google Scholar- ja ResearchGate-hauilla sekä loppuvaiheessa Iris.ai-hauilla. Hakuprosessin ensimmäisessä vaiheessa etsittiin Finna-haulla aiheeseen liittyvää kirjallisuutta, mistä siirryttiin Google-, Google Scholar- ja ResearchGate-hakuihin. Katsauksen kirjoitustyön loppuvaiheessa tutustuttiin myös Iris.ai-hakuun. Katsaukseen valittiin tutkimustietoa, lehtiartikkeleita ja laitevalmistajien tiedotteita. Valinnat tehtiin kokonaisuutta silmälläpitäen pyrkien kuvaamaan valtiollisten, yksityisten ja tieteellistä tutkimusta tekevien toimijoiden osallisuutta AIoT-kehityksen tilassa.
 
-Kirjallisuuskatsauksen tiedot etsittiin Finna-, Google-, Google Scholar- ja ResearchGate-hauilla sekä loppuvaiheessa Iris.ai-hauilla. Hakuprosessin ensimmäisessä vaiheessa etsittiin Finna-haulla aiheeseen liittyvää kirjallisuutta, mistä siirryttiin Google-, Google Scholar- ja ResearchGate-hakuihin. Katsauksen kirjoitustyön loppuvaiheessa tutustuttiin myös Iris.ai-hakuun. Katsaukseen valittiin 
+Haastattelun toteutetaan yksilöteemahaastatteluna, jonka sisältö kuvataan haastattelusuunnitelmassa. Haastatelun ajankohtaa ei tätä kirjoitettaessa ole vielä saatu sovittua haastateltavan kevätkylvöstä johtuvien kiireiden vuoksi. Haastattelun kestoksi arvioidaan yksi tunti.
 
-*Tutkimusmenetelmät-kohdan kopioinnin lisäksi: Ajankäyttö: yksi haastattelu, ajankohta ja kesto; Tutkijan ja haastateltavan suhde: tuttavia, tutkittavaa asiaa on sivuttu jo aikaisemmissa keskusteluissa*
+*Haastattelun kohteena: J.F. joka työskentelee Kiialan kartanon maatalousvastaavana(?)*
+
+Tutkija ja haastateltava ovat toisilleen ennestään tutuja ja tutkittavaa asiaa on sivuttu aikaisemmissa keskusteluissa. Kyseiset keskustelut ovat toimineet tämän tutkimuksen innoittajina.
 
 # Tulokset
-
 Per tutkimusongelma:
 
 I) Miten kasvintuotannossa hyödynnetään IoT-teknologioita?
