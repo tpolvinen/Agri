@@ -154,12 +154,12 @@ Puutarhatuotannossa AIoT-ratkaisuja voidaan rakentaa kontrolloidummassa ympäris
 Tutkimusongelman II vastaukset kirjoitetaan haastattelun tuloksista.
 
 # Johtopäätökset ja suositukset
+Maatalouden esineiden Internet -aiheesta on julkaistu paljon erilaisia tutkimuksia, mutta suurin osa niistä on vielä prototyyppi- tai kehitysasteella. Ilmastonmuutoksen ja väestönkasvun ruokaturvalle asettamat haasteet tulevat todennäköisesti motivoimaan kehitystä, mutta suurin osa kehitettävistä teknologioista ei näytä olevan kehittyvien markkinoiden saatavilla tai niiden tarpeisiin profiloitu.
 
-*päätulokset todetaan lyhyesti; tutkimustulokset - teoriatausta; hypoteesien mukaisuus?; tulosten luotettavuus?*
+AIoT voidaan nähdä seuraavana kehitysvaiheena täsmäviljelylle, jonka avulla voidaan siirtyä Smart Farming -tuotantomenetelmiin. Täsmäviljelystä ja uusiin teknologioihin investoinneista on saatu hyviä kokemuksia, mutta tutkimusten mukaan vain pieni joukko innovatiivisia toimijoita on ottanut niitä käyttöön omassa tuotannossaan. Suomessa valtiolliset toimijat pyrkivät erilaisilla hankkeilla edistämään uusien teknologioiden ja liiketoimintamallien kehittämistä ja käyttöönottoa, mutta hankkeiden vaikutuksista ei ole tietoa.
 
+Puutarhatuotannossa erityisesti kasvihuoneissa ja -tehtaissa on AIoT:n teknologiasovelluksia otettu käyttöön nopealla tahdilla. Tutkimuksissa on toteutettu hyvin mielenkiintoisia projekteja yksinkertaisista kosteusmittareista erittäin edistyneisiin kasvitehtaiden hallintajärjestelmiin. Kaupallisia toimijoita on tullut esille jatkuvasti ja vaikuttaa siltä, että kasvitehtaat tulevat nousemaan puutarhatuotannossa perinteisen kasvihuoneviljelyn rinnalle. Vielä ei ole ennustettu, kuinka suuren osan kokonaistuotannosta IoT-teknologioita soveltavat kasvitehtaat tai kasvihuoneet tulevat tai voivat kannattavasti toteuttaa. 
 
-
-KASVITEHTAISTA...Muita saman kaltaisia toimijoita on tullut jatkuvasti esille aineistoa etsittäessä ja vaikuttaa siltä, että kasvitehtaat tulevat nousemaan puutarhatuotannossa perinteisen kasvihuoneviljelyn rinnalle.
-
+Jotta AIoT:n mahdollistamat hyödyt saadaan realisoitua, tulee vielä tehdä huomattava määrä työtä käytännöllisten teknologiasovellusten kehittämiseksi ja käyttöönottamiseksi. Tästä huolimatta AIoT on tällä hetkellä suosittu ja mielenkintoista aikaa elävä tutkimuskohde, jonka kaupalliset sovellukset voivat muuttaa ruokatuotantoa globaalisti.
 
 # Lähteet
