@@ -134,7 +134,6 @@ Tutkija ja haastateltava ovat toisilleen ennestään tutuja ja tutkittavaa asiaa
 Tässä osiossa käsitellään tutkimuksen vastaukset tutkimusongelmittain.
 
 ##Tutkimusongelma I:n vastaukset
-
 Tutkimusongelma I) Miten kasvintuotannossa hyödynnetään IoT-teknologioita?
 - Miten peltotuotannon ja puutarhatuotannon erot vaikuttavat IoT -teknologioiden sovelluksiin?
 - Minkä tyyppiset sovellukset tulevat tutkimusmateriaalissa selkeimmin esille, eli millaisista sovelluksista ja teknologioista kirjoitetaan ja tehdään tutkimusta tällä hetkellä?
@@ -147,8 +146,7 @@ Peltotuotannon AIoT:n sovellukset ovat keskittyneet kasvuympäristön kuten pell
 Puutarhatuotannossa AIoT-ratkaisuja voidaan rakentaa kontrolloidummassa ympäristössä, jolloin soveluksien kehittäminen on helpompaa kuin peltotuotannossa. Puutarhatuotannon AIoT-ratkaisuissa on korostunut sensorien tuottaman tiedon analysoinnin perusteella tapahtuva kasvatusympäristön hallinta. "Internet of Things in agriculture"-kirjallisuuskatsauksen viittaamista kasvihuoneisiin keskittyvistä tutkimuksista suurin osa käsittelee kasvatusympäristön tarkkailua ja säätelyä, mikä on linjassa peltotuotannon tutkimusmäärien kanssa. Katsauksessa puutarhatuotannolle erityiset ja huomattavat tutkimusaiheet ovat kasvihuoneen hallintajärjestelmät, energiankulutuksen hallinta ja Big Data.
 
 ##Tutkimusongelma II:n vastaukset
-
-Ongelman II vastaukset kirjoitetaan haastattelun tuloksista.
+Tutkimusongelman II vastaukset kirjoitetaan haastattelun tuloksista.
 
 # Johtopäätökset ja suositukset
 
