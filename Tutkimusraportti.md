@@ -85,7 +85,7 @@ Näissä laitoksissa maatalouden esineiden internetin ja teollisuuden esineiden 
 
 "Internet of Things in agriculture"-kirjallisuuskatsauksen viittaamista tutkimuksista kasvihuonetuotannon osalta suurin osa käsittelee kasvuympäristön tarkkailua ja säätelyä, samaan tapaan kuin peltotuotannon alueella. Muita tutkimusaiheita olivat kasvihuoneen hallintajärjestelmät, energiankulutuksen hallinta ja Big Data. (@verdouw_internet_2016)
 
-Kokonaan kasvitehtaisiin keskittyneessä kirjallisuuskatsauksessa "Editorial: Advances and Trends in Development of Plant Factories" käsitellään uusia tutkimustrendejä kuten älykkäitä kasvatusympäristön mittausjärjestelmiä, kasvatusympäristön hallintaa ja optimointia, lääkeaineiden tuotantoa, geenitekniikkaa ja bakteerilannoitteita. Näistä selkeimmin IoT-teknologioihin perustuvat mittausjärjestelmät sekä kasvuympäristön hallinta ja optiminti, joista useissa tutkimuksissa ollaan saavutettu hyviä tuloksia erilaisilla valon hallinnan keinoilla. Tutkimuksissa ollaan kokeiltu muun muassa valon vuorokausirytmitystä, valaisun suuntaamista kasveihin myös kasvin alapuolelta, valon aallonpituuden säätelyä ja eri aallonpituudellisten valojen rytmitystä. Lisäksi on tutkittu yhdenväristen (monochromic) LEDien valaisun, korkean hiilidioksidipitoisuuden ja voimakkaan lannoittamisen yhdistelmää kasvatusympäristössä.
+Kokonaan kasvitehtaisiin keskittyneessä kirjallisuuskatsauksessa "Editorial: Advances and Trends in Development of Plant Factories" käsitellään uusia tutkimustrendejä kuten älykkäitä kasvatusympäristön mittausjärjestelmiä, kasvatusympäristön hallintaa ja optimointia, lääkeaineiden tuotantoa, geenitekniikkaa ja bakteerilannoitteita. Näistä selkeimmin IoT-teknologioihin perustuvat mittausjärjestelmät sekä kasvuympäristön hallinta ja optimointi, joista useissa tutkimuksissa ollaan saavutettu hyviä tuloksia erilaisilla valon hallinnan keinoilla. Tutkimuksissa ollaan kokeiltu muun muassa valon vuorokausirytmitystä, valaisun suuntaamista kasveihin myös kasvin alapuolelta, valon aallonpituuden säätelyä ja eri aallonpituudellisten valojen rytmitystä. Lisäksi on tutkittu yhdenväristen (monochromic) LEDien valaisun, korkean hiilidioksidipitoisuuden ja voimakkaan lannoittamisen yhdistelmää kasvatusympäristössä.
 (@luna-maldonado_editorial:_2016)
 
 Materiaalia etsittäessä on löytynyt pääasiassa uutisartikkelien kautta muutamia mielenkiintoisia kaupallisia toimijoita. Aiemmin mainittua MIT:n “Food Computer”:ia vastaavan kaltaisia kaupallisia tuotteita on tullut markkinoille useampien kasvuyritysten kuten Freight Farm:in (@freight_farms_leafy_2017) ja Square Roots:in (@square_roots_square_2017) toimesta. Näiden yritysten tuotteet ovat kontteihin rakennettuja pienikokoisia kasvitehtaita. Samantyyppisiä teknologiaratkaisuja myyvän ZipGrow:n tuotteet taas voidaan asentaa kasvihuoneisiin tai muihin sopiviin tiloihin (@bright_agrotech_appropriate_2017). Suuremmassa teollisessa mittakaavassa toimivat mm. amerikkalainen AeroFarms (@aerofarms_aerofarms_2017) sekä japanilaiset Spread (@spread_spread_2017) ja Mirai (@mirai_mirai_2017), jotka operoivat suuria kasvitehtaita. Belgialainen Urban Crop taas toimii teknologiatuottajana, joka tarjoaa ratkaisuja sekä kontteihin rakennettaviin että tehdaskokoisiin kasvitehtaisiin (@urban_crop_solutions_urban_2017). 
@@ -101,10 +101,12 @@ Tässä osiossa kuvaillaan tutkimusongelmat ja työhypoteesit.
 Tutkimuksessa haetaan vastauksia kahteen tutkimusongelmaan, jotka alaongelmineen ovat:
 
 I) Miten kasvintuotannossa hyödynnetään IoT-teknologioita?
+
     * Miten peltotuotannon ja puutarhatuotannon erot vaikuttavat IoT-teknologioiden sovelluksiin?
     * Minkä tyyppiset sovellukset tulevat tutkimusmateriaalissa selkeimmin esille, eli millaisista sovelluksista ja teknologioista kirjoitetaan ja tehdään tutkimusta tällä hetkellä?
     
 II) Millaisia IoT-teknologioita haastateltavalla toimijalla on joko käytettävissään tai millaisista hän on tietoinen?
+
     * Mitä vaikutuksia niillä on tuotantoon ja/tai työntekoon?
     * Millaisia kokemuksia niistä haastateltavalla on?
     * Millaisia muita sovelluksia haastateltava tuntee tai tietää?
@@ -130,6 +132,7 @@ Haastattelun toteutetaan yksilöteemahaastatteluna. Haastattelun tavoite on saad
 Haastattelun aiheet ovat tutkimuksen toisen tutkimusongelman mukaisesti:
 
 II) Millaisia IoT-teknologioita haastateltavalla toimijalla on joko käytettävissään tai millaisista hän on tietoinen?
+
     * Mitä vaikutuksia niillä on tuotantoon ja/tai työntekoon?
     * Millaisia kokemuksia niistä haastateltavalla on?
     * Millaisia muita sovelluksia haastateltava tuntee tai tietää?
@@ -138,7 +141,7 @@ II) Millaisia IoT-teknologioita haastateltavalla toimijalla on joko käytettävi
 
 Haastatelun ajankohtaa ei tätä kirjoitettaessa 21.5.2017 ole vielä saatu sovittua haastateltavan kevätkylvöstä johtuvien kiireiden vuoksi. Haastattelun kestoksi arvioidaan yksi tunti.
 
-Tutkija ja haastateltava ovat toisilleen ennestään tutuja ja tutkittavaa asiaa on sivuttu aikaisemmissa keskusteluissa. Kyseiset keskustelut ovat toimineet tämän tutkimuksen innoittajina.
+Tutkija ja haastateltava ovat toisilleen ennestään tuttuja ja tutkittavaa asiaa on sivuttu aikaisemmissa keskusteluissa. Kyseiset keskustelut ovat toimineet tämän tutkimuksen innoittajina.
 
 # Tulokset
 Tässä osiossa käsitellään tutkimuksen vastaukset tutkimusongelmittain.
