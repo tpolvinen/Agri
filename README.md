@@ -1,10 +1,11 @@
 # Agri
 
-This repository holds my research plan for a study of applications of AIoT-technologies (Agriculture Internet of Things) in southern Finland. 
+This repository holds my research for a study of applications of AIoT-technologies (Agriculture Internet of Things) in southern Finland. As of end of May 2017, research plan was accepted as a starting point and initial plan for my bachelor's thesis and this repository will be refactored to better suit that purpose.
 
-This research consistst of only a literature survey for a theoretical background and a single themed interview as this is written for a three credit research 101-ish course.
+Initially this research consistst of only a literature survey for a theoretical background and a single themed interview as this is written for a three credit research 101-ish course. For the purpose of my thesis on the same subject, research plan will be refactored to include more interviews and more in-depth literature survey.
 
-The purpose of this research is to prepare me for my planned thesis on the same or like subject.
+The purpose of my initial research is to prepare me for my planned thesis on the same subject.
+The purpose of my thesis is to give reader a view of current state of research and practical applications of AIoT technologies on the field of plant production.
 
 ## Workflow with Markdown, Pandoc, Zotero & BetterBiBLaTeX
 As a side note, I'm also testing a few workflows and tools like Pandoc and Zotero for scientific writing to make the writing of my thesis a bit more bearable. This is not (yet, at least) a guide how to do it, but rather a couple notes for my own reference.
