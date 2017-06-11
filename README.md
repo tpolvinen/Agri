@@ -1,6 +1,6 @@
 # Agri
 
-This repository holds my research for a study of applications of AIoT-technologies (Agriculture Internet of Things) in southern Finland. As of end of May 2017, research plan was accepted as a starting point and initial plan for my bachelor's thesis and this repository will be refactored to better suit that purpose.
+This repository holds my research of applications of AIoT-technologies (Agriculture Internet of Things) in southern Finland. As of end of May 2017, research plan was accepted as a starting point and initial plan for my bachelor's thesis and this repository will be refactored to better suit that purpose.
 
 Initially this research consistst of only a literature survey for a theoretical background and a single themed interview as this is written for a three credit research 101-ish course. For the purpose of my thesis on the same subject, research plan will be refactored to include more interviews and more in-depth literature survey.
 
