@@ -37,25 +37,26 @@ Next, the commands I've used to test things:
 ```
 pandoc textSource.md -f markdown -t docx --reference-docx=template.docx --toc -o output.docx
 ```
-This is to test that I can use a reference `template.docx` with `textSource.md` file in order to produce a new `output.docx` file that has the contents of `textSource.md` file with styles taken from reference `template.docx`. NOTE: with Word (.docx) reference file only **styles** will be applied to the resulting file and NOT the page format/layout. 
+↑ Which is to test that I can use a reference `template.docx` with `textSource.md` file in order to produce a new `output.docx` file that has the contents of `textSource.md` file with styles taken from reference `template.docx`. NOTE: with Word (.docx) reference file only **styles** will be applied to the resulting file and NOT the page format/layout. 
 
 ```
 pandoc revelation.md --smart --standalone \
 --bibliography /Users/chris/Dropbox/writing/library.bib \
 --csl=/Users/chris/Dropbox/writing/chicago.csl -o revelation.docx
 ```
-This is (from Chris Krycho's blog) to be used as a reference how to apply a bibliography file in .bib format (in my case, BetterBiBLaTeX exported from Zotero).
+↑ Which is (from Chris Krycho's blog) to be used as a reference how to apply a bibliography file in .bib format (in my case, BetterBiBLaTeX exported from Zotero).
 
 ```
 pandoc source/textSource.md --smart --standalone --bibliography=bib/bibliography.bib --csl=style/harvard1.csl -o output/tPolvinenOutput.docx
 ```
-This is to make a .docx file from content in `textSource.md` file combined with bibliography in `bibliography.bib` file. Note the folders `source`, `bib` and `style` where text source, bibliography and style files are located in and that the final file will be in `output` folder. You may put them anywhere you like, just write the paths in the command.
+↑ Which is to produce a .docx file from content in `textSource.md` file combined with bibliography in `bibliography.bib` file. Note the folders `source`, `bib` and `style` where text source, bibliography and style files are located in and that the final file will be in `output` folder. You may put them anywhere you like, just write the paths in the command.
 
 ## TL;DR
+The Pandoc command...
 ```
 pandoc source/textSource.md --smart --standalone --bibliography=bib/bibliography.bib --csl=style/harvard1.csl --reference-docx=template/template.docx -o output/output.docx
 ```
-Finally, this will make final(ish) output.docx file rom content in bibliography.md file combined with bibliography in .bib file, with styles from reference template.docx file.
+↑ ...which will produce final(ish) `output.docx` file rom content in `textSource.md` file combined with bibliography in ´bibliography.bib´ file, with styles from reference file `template.docx`.
 
 For my own reference, the command with my own files & folder structure is:
 ```
