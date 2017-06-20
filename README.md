@@ -49,7 +49,7 @@ This is (from Chris Krycho's blog) to be used as a reference how to apply a bibl
 ```
 pandoc source/textSource.md --smart --standalone --bibliography=bib/bibliography.bib --csl=style/harvard1.csl -o output/tPolvinenOutput.docx
 ```
-This is to make a .docx file from content in textSource.md file combined with bibliography in `bibliography.bib` file. Note the folders `source`, `bib` and `style` where text source, bibliography and style files are located in and that the final file will be in `output` folder. You may put them anywhere you like, just write the paths in the command.
+This is to make a .docx file from content in `textSource.md` file combined with bibliography in `bibliography.bib` file. Note the folders `source`, `bib` and `style` where text source, bibliography and style files are located in and that the final file will be in `output` folder. You may put them anywhere you like, just write the paths in the command.
 
 ## TL;DR
 ```
