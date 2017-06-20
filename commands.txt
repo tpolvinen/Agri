@@ -8,9 +8,9 @@ pandoc revelation.md --smart --standalone \
 --csl=/Users/chris/Dropbox/writing/chicago.csl -o revelation.docx
 
 
-/Users/tatu/Documents/MaatalousIoT/bib/MaatalousIoT.bib
-/Users/tatu/Documents/MaatalousIoT/pohja/pohja.docx
-/Users/tatu/Documents/MaatalousIoT/style/harvard1.csl
+/bib/agri.bib
+/template/template.docx
+/style/harvard1.csl
 
 pandoc Tutkimussuunnitelma2017-03-14.md --smart --standalone \
 --bibliography /Users/tatu/Documents/MaatalousIoT/bib/MaatalousIoT.bib \
@@ -24,3 +24,9 @@ pandoc Tutkimussuunnitelma2017-03-14.md --smart --standalone --bibliography /Use
 pandoc Tutkimussuunnitelma.md --smart --standalone --bibliography /Users/tatu/Documents/MaatalousIoT/Agri/bib/MaatalousIoT.bib --csl=/Users/tatu/Documents/MaatalousIoT/Agri/style/harvard1.csl --reference-docx=/Users/tatu/Documents/MaatalousIoT/Agri/pohja/pohja.docx -o tPolvinenTutkimussuunnitelma.docx
 
 pandoc Tutkimusraportti.md --smart --standalone --bibliography /Users/tatu/Documents/MaatalousIoT/Agri/bib/MaatalousIoT.bib --csl=/Users/tatu/Documents/MaatalousIoT/Agri/style/harvard1.csl --reference-docx=/Users/tatu/Documents/MaatalousIoT/Agri/pohja/pohja.docx -o tPolvinenTutkimusraporttiX.docx
+
+
+
+NEW FOLDER STRUCTURE:
+
+pandoc source/Tutkimusraportti.md --smart --standalone --bibliography bib/agri.bib --csl=style/harvard1.csl --reference-docx=template/template.docx -o output/tPolvinenTutkimusraporttiZ.docx
