@@ -89,7 +89,7 @@ Materiaalia etsittäessä on löytynyt pääasiassa uutisartikkelien kautta muut
 
 Suomalainen esimerkki tällaisesta kehityksestä on lapinjärveläisen Robbe’s Lilla Trädgård Oy:n ja Fujitsu Greenhouse Technology Finland Oy:n yhteishankkeena toteuttama kasvitehdas (@fujitsu_fujitsu_2016; @schafer_fujitsun_2016), josta uutisoitiin mm. Maaseudun tulevaisuus -lehden verkkosivuilla (@ala-siurua_fujitsu_2016; @schafer_fujitsun_2016).
 
-Aamulehden jutussa Erikoistutkija vesiviljelystä: “Kasvitehdasbuumi käy maailmalla kuumana” kasvitehdas-konseptia tutkinut erikoistutkija, dosentti Kari Jokinen kertoo “Kasvitehdasbuumi käy maailmalla kuumana. Japanissa on satakunta tehdasta. Mittakaava on maaseudun isoista laitoksia tokiolaisen ravintolan omaan salaattituotan-toon.” (@suojanen_erikoistutkija_2016).
+Aamulehden jutussa Erikoistutkija vesiviljelystä: “Kasvitehdasbuumi käy maailmalla kuumana” kasvitehdas-konseptia tutkinut erikoistutkija, dosentti Kari Jokinen kertoo “Kasvitehdasbuumi käy maailmalla kuumana. Japanissa on satakunta tehdasta. Mittakaava on maaseudun isoista laitoksia tokiolaisen ravintolan omaan salaattituotantoon.” (@suojanen_erikoistutkija_2016).
 
 # Tutkimuksen tavoitteet
 Tässä osiossa kuvaillaan tutkimusongelmat ja työhypoteesit. 
