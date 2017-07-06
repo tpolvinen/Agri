@@ -58,8 +58,7 @@ pandoc source/textSource.md --smart --standalone --bibliography=bib/bibliography
 ```
 ↑ ...which will produce final(ish) `output.docx` file rom content in `textSource.md` file combined with bibliography in ´bibliography.bib´ file, with styles from reference file `template.docx`.
 
-For my own reference, the command with my own files & folder structure is:
 ```
 pandoc source/Tutkimusraportti.md --smart --standalone --bibliography bib/agri.bib --csl=style/harvard1.csl --reference-docx=template/template.docx -o output/tPolvinenTutkimusraporttiZ.docx
 ```
-
+↑ For my own reference, the command with my own files & folder structure.

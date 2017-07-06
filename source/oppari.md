@@ -1,13 +1,14 @@
 ---
-Title: TUTKIMUSRAPORTTI: IoT-teknologioiden sovellukset kasvintuotannossa
+Title: OPINNÄYTETYÖ: IoT-teknologioiden sovellukset kasvintuotannossa
 Author: Tatu Polvinen
 Tags: IoT, IIoT, AIoT, maatalous, kasvintuotanto, kasvitehdas
 Category: IT
-Date: 2017-05-14 23:59
-Template: /pohja/pohja.docx
-bibliography: /bib/MaatalousIoT.bib
-csl: harvard1.csl
+Date: 2017-07-07 00:22
+Template: ../template/template.docx
+bibliography: ../bib/agri.bib
+csl: ../style/harvard1.csl
 ...
+Tutkimusraportti.md:n mukaan, tiivistelmä & tutkimusmenetelmät OppariTutkimussuunnitelma.md:n mukaan.
 
 # Tiivistelmä
 Tässä tutkimusraportissa kuvataan, millaisia IoT–teknologioita hyödyntäviä ratkaisuita tutkitaan ja sovelletaan maataloudessa kasvintuotannon alueella pelto- ja puutarhatuotannossa. Tutkimusongelmiin löydettyjä vastauksia esitellään tutkimustuloksissa.
@@ -16,10 +17,9 @@ Tämän tutkimuksen tavoitteena on selvittää I) millaisia IoT–teknologioita 
 
 Tutkimus toteutetaan kahdella tutkimusmenetelmällä: kirjallisuuskatsauksena ja yksilöteemahaastatteluna. Kirjallisuuskatsauksessa perehdytään kasvintuotannossa käytettäviin IoT–teknologioihin joiden sovelluksista on saatavilla joko tutkimustietoa tai muuten luotettaviksi arvioitavia lehtiartikkeleja tai valmistajien tiedotteita. Yksilötee-mahaastattelussa pyritään hahmottamaan millaisia henkilökohtaisia kokemuksia ja näkemyksiä IoT–teknologioiden hyödyntämisestä haastateltavalla maatalousalan toimijalla itsellään on.
 
-*Tutkimuksessa myöhemmin tehtävien päätelmien, havaintojen ja tulosten tiivistelmä korvaa tämän kappaleen:* 
-Tutkimuksen toteutus ajoitetaan vuoden 2017 keväälle viikoille 13 – 21. Viikolla 21 tutkimussuunnitelma esitellään työpajassa jonka jälkeen toteutetaan haastattelu. Haastattelun jälkeen kirjoitetaan lopullinen tutkimusraportti ja palautetaan se arvioitavaksi kesäkuun alussa.
+Tutkimus toteutetaan vuoden 2017 kesän ja syksyn aikana.
 
-Tutkimuksen tuloksia voidaan käyttää hyväksi tekijän myöhemmin toteutettavassa samasta tai sitä sivuavasta aiheesta kirjoitettavassa opinnäytetyössä.
+Tutkimuksen tuloksia voidaan käyttää hyväksi päätettäessä lisätutkimuksen tarpeellisuudesta sekä lisäämään kasvintuotannon alan toimijoiden tietämystä IoT-teknologioista.
 
 Tässä raportissa käytetään lähdeviittauksissa Harvard Reference format 1 (author-date):a.
 
@@ -89,10 +89,10 @@ Materiaalia etsittäessä on löytynyt pääasiassa uutisartikkelien kautta muut
 
 Suomalainen esimerkki tällaisesta kehityksestä on lapinjärveläisen Robbe’s Lilla Trädgård Oy:n ja Fujitsu Greenhouse Technology Finland Oy:n yhteishankkeena toteuttama kasvitehdas (@fujitsu_fujitsu_2016; @schafer_fujitsun_2016), josta uutisoitiin mm. Maaseudun tulevaisuus -lehden verkkosivuilla (@ala-siurua_fujitsu_2016; @schafer_fujitsun_2016).
 
-Aamulehden jutussa Erikoistutkija vesiviljelystä: “Kasvitehdasbuumi käy maailmalla kuumana” kasvitehdas-konseptia tutkinut erikoistutkija, dosentti Kari Jokinen kertoo “Kasvitehdasbuumi käy maailmalla kuumana. Japanissa on satakunta tehdasta. Mittakaava on maaseudun isoista laitoksia tokiolaisen ravintolan omaan salaattituotan-toon.” (@suojanen_erikoistutkija_2016).
+Aamulehden jutussa Erikoistutkija vesiviljelystä: “Kasvitehdasbuumi käy maailmalla kuumana” kasvitehdas-konseptia tutkinut erikoistutkija, dosentti Kari Jokinen kertoo “Kasvitehdasbuumi käy maailmalla kuumana. Japanissa on satakunta tehdasta. Mittakaava on maaseudun isoista laitoksia tokiolaisen ravintolan omaan salaattituotantoon.” (@suojanen_erikoistutkija_2016).
 
 # Tutkimuksen tavoitteet
-Tässä osiossa kuvaillaan tutkimusongelmat ja työhypoteesit. 
+Tässä osiossa kuvaillaan tutkimusongelmat ja työhypoteesit.
 
 ## Tutkimusongelmat
 Tutkimuksessa haetaan vastauksia kahteen tutkimusongelmaan, jotka alaongelmineen ovat:
@@ -115,7 +115,7 @@ Tutkimusongelman I vastaukseksi saadaan teoriaosuudessa käsiteltyjen löydöste
 Tutkimusongelman II vastaukseksi saadaan aikaisempien keskustelujen perusteella Valtran tuotevalikoiman mukaisia peltotuotannon teknologiaratkaisuita, joissa hyödynnetään ainakin automaattiohjausta ja maaperän rakenteen kartoitusta viljelyn suunnittelussa. Todennäköistä on, että näillä teknologioilla saavutetut hyödyt ovat linjassa teoriaosuudessa käsiteltyjen löydösten kanssa. Epävarmaa on voidaanko työkoneista saada tietoa analysoitavaksi ja hyödynnettäväksi muualla eli voidaanko niitä edes pitää IoT-teknologioina. Ei ole tiedossa, millaisia tarpeita tai toiveita haastateltava on tiedostanut IoT-teknologioita kohtaan.
 
 # Aineisto ja (tutkimus)menetelmät
-Tässä osiossa kuvaillaan käytetyt tutkimusmenetelmät ja -aineisto. 
+Tässä osiossa kuvaillaan käytetyt tutkimusmenetelmät ja -aineisto.
 
 ## Tutkimusmenetelmät
 Kummallekin tutkimusongelmalle on valittu oma tutkimusmenetelmänsä soveltuvuuden perusteella: tutkimusongelma I:een perehdytään kartoittavalla kirjallisuuskatsauksella ja tutkimusongelma II:een yksilöteemahaastattelulla.
@@ -124,7 +124,7 @@ Kirjallisuuskatsaus soveltuu jo olemassa olevasta materiaalista kokonaiskuvan, y
 
 Kirjallisuuskatsauksen tiedot etsittiin Finna-, Google-, Google Scholar- ja ResearchGate-hauilla sekä loppuvaiheessa Iris.ai-hauilla. Hakuprosessin ensimmäisessä vaiheessa etsittiin Finna-haulla aiheeseen liittyvää kirjallisuutta, mistä siirryttiin Google-, Google Scholar- ja ResearchGate-hakuihin. Katsauksen kirjoitustyön loppuvaiheessa tutustuttiin myös Iris.ai-hakuun. Katsaukseen valittiin tutkimustietoa, lehtiartikkeleita ja laitevalmistajien tiedotteita. Valinnat tehtiin kokonaisuutta silmälläpitäen pyrkien kuvaamaan valtiollisten, yksityisten ja tieteellistä tutkimusta tekevien toimijoiden osallisuutta AIoT–kehityksen tilassa.
 
-Haastattelu toteutetaan yksilöteemahaastatteluna. Haastattelun tavoite on saada tietoa miten maatalouden IoT–teknologioita sovelletaan tai miten niitä haastateltavan käsityksen mukaan voitaisiin soveltaa haastateltavan työssä Kiialan kartanon maataloustuotannossa. Lisäksi tavoitteena on selvittää, millainen näkemys haastateltavalla on kyseisten teknolo-gioiden hyödyntämisestä ja käyttökelpoisuudesta.
+Haastattelut toteutetaan yksilöteemahaastatteluina. Haastattelujen tavoite on saada tietoa miten maatalouden IoT–teknologioita sovelletaan tai miten niitä haastateltavan käsityksen mukaan voitaisiin soveltaa haastateltavan työssä maataloustuotannossa. Lisäksi tavoitteena on selvittää, millainen näkemys haastateltavalla on kyseisten teknologioiden hyödyntämisestä ja käyttökelpoisuudesta.
 
 Haastattelun aiheet ovat tutkimuksen toisen tutkimusongelman mukaisesti:
 
@@ -136,9 +136,7 @@ II) Millaisia IoT-teknologioita haastateltavalla toimijalla on joko käytettävi
     * Millainen käsitys haastateltavalla on edelllä mainituista sovelluksista (sekä käyttämistään että tietämistään)?
     * Millaisia toiveita tai tarpeita haastateltavalla on IoT-teknologioille?
 
-Haastatelun ajankohtaa ei tätä kirjoitettaessa 21.5.2017 ole vielä saatu sovittua haastateltavan kevätkylvöstä johtuvien kiireiden vuoksi. Haastattelun kestoksi arvioidaan yksi tunti.
-
-Tutkija ja haastateltava ovat toisilleen ennestään tuttuja ja tutkittavaa asiaa on sivuttu aikaisemmissa keskusteluissa. Kyseiset keskustelut ovat toimineet tämän tutkimuksen innoittajina.
+Haastattelujen ajankohdat sovitaan kunkin haastateltavan kanssa erikseen loppukesän ja alkusyksyn aikana. Yhden haastattelun kestoksi arvioidaan yksi tunti.
 
 # Tulokset
 Tässä osiossa käsitellään tutkimuksen vastaukset tutkimusongelmittain.
@@ -151,7 +149,7 @@ Peltotuotannon AIoT:n sovellukset ovat keskittyneet kasvuympäristön kuten pell
 Puutarhatuotannossa AIoT–ratkaisuja voidaan rakentaa kontrolloidummassa ympäristössä, jolloin sovelluksien kehittäminen on helpompaa kuin peltotuotannossa. Puutarhatuotannon AIoT–ratkaisuissa on korostunut sensorien tuottaman tiedon analysoinnin perusteella tapahtuva kasvatusympäristön hallinta. Internet of Things in Agriculture -kirjallisuuskatsauksen viittaamista kasvihuoneisiin keskittyvistä tutkimuksista suurin osa käsittelee kasvatusympäristön tarkkailua ja säätelyä, mikä on linjassa peltotuotannon tutkimusmäärien kanssa. Katsauksessa puutarhatuotannolle erityiset ja huomattavat tutkimusaiheet ovat kasvihuoneen hallintajärjestelmät, energiankulutuksen hallinta ja Big Data.
 
 ## Tutkimusongelma II:n vastaukset
-Tutkimusongelman II vastaukset kirjoitetaan haastattelun tuloksista.
+Tutkimusongelman II vastaukset kirjoitetaan haastattelujen tuloksista.
 
 # Johtopäätökset ja suositukset
 Maatalouden esineiden Internet -aiheesta on julkaistu paljon erilaisia tutkimuksia, mutta suurin osa niistä on vielä prototyyppi- tai kehitysasteella. Ilmastonmuutoksen ja väestönkasvun ruokaturvalle asettamat haasteet tulevat todennäköisesti motivoimaan kehitystä, mutta suurin osa kehitettävistä teknologioista ei näytä olevan kehittyvien markkinoiden saatavilla tai niiden tarpeisiin profiloitu.

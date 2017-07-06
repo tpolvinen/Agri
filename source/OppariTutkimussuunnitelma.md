@@ -1,5 +1,5 @@
 ---
-Title: TUTKIMUSRAPORTTI: IoT-teknologioiden sovellukset kasvintuotannossa
+Title: TUTKIMUSSUUNNITELMA: IoT-teknologioiden sovellukset kasvintuotannossa
 Author: Tatu Polvinen
 Tags: IoT, IIoT, AIoT, maatalous, kasvintuotanto, kasvitehdas
 Category: IT
@@ -16,10 +16,9 @@ Tämän tutkimuksen tavoitteena on selvittää I) millaisia IoT–teknologioita 
 
 Tutkimus toteutetaan kahdella tutkimusmenetelmällä: kirjallisuuskatsauksena ja yksilöteemahaastatteluna. Kirjallisuuskatsauksessa perehdytään kasvintuotannossa käytettäviin IoT–teknologioihin joiden sovelluksista on saatavilla joko tutkimustietoa tai muuten luotettaviksi arvioitavia lehtiartikkeleja tai valmistajien tiedotteita. Yksilötee-mahaastattelussa pyritään hahmottamaan millaisia henkilökohtaisia kokemuksia ja näkemyksiä IoT–teknologioiden hyödyntämisestä haastateltavalla maatalousalan toimijalla itsellään on.
 
-*Tutkimuksessa myöhemmin tehtävien päätelmien, havaintojen ja tulosten tiivistelmä korvaa tämän kappaleen:* 
-Tutkimuksen toteutus ajoitetaan vuoden 2017 keväälle viikoille 13 – 21. Viikolla 21 tutkimussuunnitelma esitellään työpajassa jonka jälkeen toteutetaan haastattelu. Haastattelun jälkeen kirjoitetaan lopullinen tutkimusraportti ja palautetaan se arvioitavaksi kesäkuun alussa.
+Tutkimus toteutetaan vuoden 2017 kesän ja syksyn aikana.
 
-Tutkimuksen tuloksia voidaan käyttää hyväksi tekijän myöhemmin toteutettavassa samasta tai sitä sivuavasta aiheesta kirjoitettavassa opinnäytetyössä.
+Tutkimuksen tuloksia voidaan käyttää hyväksi päätettäessä lisätutkimuksen tarpeellisuudesta sekä lisäämään kasvintuotannon alan toimijoiden tietämystä IoT-teknologioista.
 
 Tässä raportissa käytetään lähdeviittauksissa Harvard Reference format 1 (author-date):a.
 
@@ -34,7 +33,7 @@ Aineiston keruun alkuvaiheessa löytyi lehtiartikkeli, jossa G. Monbiot kirjoitt
 
 Lisäksi Verdouw et al. mainitsevat ruokaturvaa heikentävänä seikkana maapallon kantokyvyn ylittymisen nykyisin käytössä olevilla maatalouden tuotantomenetelmillä. Globaalin ruokaturvan ja ympäristönsuojelun erityisiksi haasteiksi he kuvaavat globalisaation, ilmastonmuutoksen, polttoaineperusteisesta bioperusteiseen talouteen siirtymisen sekä maan, makean veden ja työvoiman käytön kilpailun vaikutukset. IoT–teknologioiden odotetaan auttavan näihin haasteisiin vastaamisessa entistä tarkemmalla tuotannon ja tuotantoympäristön seuraamisella, tuotannon etäohjauksella, tuotteiden laadun tarkkailulla sekä kuluttajien ymmärryksen lisäämisellä. (@verdouw_internet_2016)
 
-Erityisesti IoT–teknologioita hyödyntävää kasvintuotantoa toteutetaan kasvihuoneissa ja kasvitehtaina tunnetuissa laitoksissa, joissa täysin kontrolloiduissa olosuhteissa kasvatukseen käytettyjen resurssien kuten pinta-alan, lannoitteiden ja kasvuajan tehokkuus on saatu moninkertaistettua. Suomessa ollaan ottamassa kaupallista kas-vitehdasta tuotantoon vuonna 2017 Fujitsu Greenhouse Technology Finland Oy:n ja Robbes Lilla Trädgård Ab:n yhteishakkeena (@fujitsu_fujitsu_2016, @schafer_fujitsun_2016).
+Erityisesti IoT–teknologioita hyödyntävää kasvintuotantoa toteutetaan kasvihuoneissa ja kasvitehtaina tunnetuissa laitoksissa, joissa täysin kontrolloiduissa olosuhteissa kasvatukseen käytettyjen resurssien kuten pinta-alan, lannoitteiden ja kasvuajan tehokkuus on saatu moninkertaistettua. Suomessa ollaan ottamassa kaupallista kasvitehdasta tuotantoon vuonna 2017 Fujitsu Greenhouse Technology Finland Oy:n ja Robbes Lilla Trädgård Ab:n yhteishakkeena (@fujitsu_fujitsu_2016, @schafer_fujitsun_2016).
 
 Tutkittavaksi ilmiöksi on näin materiaaliin tutustuttaessa muodostunut IoT–teknologioiden hyödyntäminen kasvintuotannossa viljelyn tehostamiseksi ja samalla viljelyn aiheuttaman ympäristökuormituksen minimoimiseksi. Uutta tietoa odotetaan syntyvän tässä tutkimuksessa vain vähän toteutettavassa yksilöteemahaastattelussa ja tutkimukseen käytettävissä olevan ajan rajallisuuden myötä, mutta tutkimuksen tuloksia voidaan käyttää apuna päätettäessä jatkotutkimuksen tarpeellisuudesta ja toteutuksen mahdollisuuksista.
 
@@ -52,11 +51,11 @@ Valtiollisille toimijoille IIoT:n ja sen mukana AIoT:n kehityksen tukemisen näh
 
 Elinkeinoelämän tutkimuslaitoksen (ETLA) raportissa Suomalaisen teollisen internetin taustoista kerrotaan Valtioneuvoston kanslian (VNK) nimenneen teollisen internetin yhdeksi kärkiteemoistaan (@juhanko_suomalainen_2015, 3). Hallituksen kärkihankkeeseen Digitaalisen liiketoiminnan kasvuympäristön rakentaminen ensimmäisenä toimenpiteenä on “Edistetään esineiden internetiä” (@berner_karkihanke_2016, 2).
 
-Tämän kärkihankkeen vaikutuksia suomalaisella maataloussektorilla käsitellään tarkemmin Kimmo Tammen opinnäytetyössä Digitalisaatio maatalouden B2B-liiketoiminnassa, missä kerrotaan hallitusohjelman huomioivan entistä datalähtöisempien toimintatapojen kehittämisen, tukien hakemisen helppouden sekä erilaiset kokeiluhank-keet rahoituksineen uusien liiketoimintamallien kehittämisessä. (@tammi_digitalisaatio_2016, 17)
+Tämän kärkihankkeen vaikutuksia suomalaisella maataloussektorilla käsitellään tarkemmin Kimmo Tammen opinnäytetyössä Digitalisaatio maatalouden B2B-liiketoiminnassa, missä kerrotaan hallitusohjelman huomioivan entistä datalähtöisempien toimintatapojen kehittämisen, tukien hakemisen helppouden sekä erilaiset kokeiluhankkeet rahoituksineen uusien liiketoimintamallien kehittämisessä. (@tammi_digitalisaatio_2016, 17)
 
 Suomessa IoT–teknologioiden hyödyntämiseen suuntautuvia tuotteita ja palveluita on tarjolla ainakin Telialla (@telia_iot-ratkaisut_2017) ja Digitalla (@digita_iot-ratkaisut_2017), joiden tarjoamat tietoliikenneratkaisut ovat sovitettu IoT–teknologioiden vaatimuksiin. Molemmat toimijat kannustavat asiakkaitaan kehittämään uusia IoT–ratkaisuita ja tarjoavat niiden tueksi laajaa osaamistaan ja tietoliikenneverkkoaan. Laitteiden väliset verkkoyhteydet ovat haasteellisia monissa peltokasvintuotannon IoT–hankkeissa, mikä tekee tarjotuista palveluista mielenkiintoisia niiden tarjoaman kattavan langattoman tietoliikenneverkon takia. Kattava verkko mahdollistaa ja helpottaa myös osaltaan kokeiluhankkeiden kasvua prototyypeistä tuotantojärjestelmiksi.
 
-Verkkoyhteydet kuvaillaan Internet of Things in Agriculture -kirjallisuuskatsauksessa myös yhtenä kolmesta IoT–arkkitehtuurien tasoista, muiden tasojen ollessa laitetaso sekä sovellustaso. Laitetasolla tapahtuvan sensorien, havaintolaitteiden ja ohjattavien laitteiden käyttöön tarvittavan verkkoliikenteen tapahtuessa verkkotasolla, lopuksi kokonaisuuden hallinnan ja tiedon analysoinnin tapahtuessa vastaavasti sovellustasolla. (Verdouw et al. (2016)) Vastaavasti IoT–teknologioiden yleisen SOA–arkkitehtuurin (service-oriented architecture) kuvataan kirjassa Internet of Things: Principles and Paradigms koostuvan neljästä tasosta: sensori-, verkko-, palvelu- ja rajapinta/käyttäjäliittymätasosta (@buyya2016internet, 8).
+Verkkoyhteydet kuvaillaan Internet of Things in Agriculture -kirjallisuuskatsauksessa myös yhtenä kolmesta IoT–arkkitehtuurien tasoista, muiden tasojen ollessa laitetaso sekä sovellustaso. Laitetasolla tapahtuvan sensorien, havaintolaitteiden ja ohjattavien laitteiden käyttöön tarvittavan verkkoliikenteen tapahtuessa verkkotasolla, lopuksi kokonaisuuden hallinnan ja tiedon analysoinnin tapahtuessa vastaavasti sovellustasolla. (@verdouw_internet_2016) Vastaavasti IoT–teknologioiden yleisen SOA–arkkitehtuurin (service-oriented architecture) kuvataan kirjassa Internet of Things: Principles and Paradigms koostuvan neljästä tasosta: sensori-, verkko-, palvelu- ja rajapinta/käyttäjäliittymätasosta (@buyya2016internet, 8).
 
 Internet of Things in Agriculture -katsauksessa eritellään myös AIoT:n tulevaisuuden haasteiksi hyvin erilaisten laitteiden yhteiskäytettävyys, tosielämän käytön skaalautuminen aikaisten omaksujien joukon ulkopuolelle, teknologiaratkaisujen kehittäminen sopimaan toimialan erityistarpeisiin sekä oikeiden käyttöympäristöjen olosuhteisiin, luotettavien verkkoyhteyksien toiminnan varmistaminen myös etäisillä käyttöpaikoilla, energiatehokkaiden IoT–teknologioiden kehittäminen, kolmannen osapuolen tuottaman datan yhdistäminen data-analytiikkaan ja luotettavien tietoturvapalveluiden sekä datan omistajuuden varmistavien palveluiden kehittäminen. (@verdouw_internet_2016)
 
@@ -70,12 +69,12 @@ Samankaltaisista hyvistä kokemuksista sekä viljelytekniikoiden tehostamisesta 
 
 Yksi sovellus peltokasvituotannossa sovellettavista AIoT–teknologioista on J. Tiusasen väitöskirjassa Langattoman Peltotiedustelijan maanalainen toimintaympäristö ja laitesuunnittelu kehitetty peltoon kaivettavien langattomien sensorilaitteiden toteutus jota testattiin käytössä vuoden ajan (@tiusanen_langattoman_2008, 4). Tämän kaltainen ratkaisu mahdollistaa maaperän tilan jatkuvan tarkkailun ilman erikseen tehtävää näytteidenottoa. Peltotiedustelijan kaupallinen sovellus on julkaistu PocketVenture -joukkorahoitusalustalla rahoitettavaksi (@skelly_soil_2015).
 
-Toisenlainen jo laajassa käytössä oleva ratkaisu pellon maaperän tutkimiseen on maaperän EM-skannaus esim. Veris Technologiesin kehittämillä laitteilla. Skannaus tehdään ennen kasvukautta pellon maaperän koostumuksen selvittämiseksi ja skannauksessa tuotettua tietoa voidaan käyttää hyödyksi lannoituksen ja kastelun suunnittelussa, mutta mittauksia ei voida tehdä kesken kasvukautta sen vaatiessa ajoa työkoneella pellon yli (@veris_technologies_what_2017).
+Toisenlainen jo laajassa käytössä oleva ratkaisu pellon maaperän tutkimiseen on maaperän EM-skannaus esim. Veris Technologiesin valmistamilla laitteilla. Skannaus tehdään ennen kasvukautta pellon maaperän koostumuksen selvittämiseksi ja skannauksessa tuotettua tietoa voidaan käyttää hyödyksi lannoituksen ja kastelun suunnittelussa, mutta mittauksia ei voida tehdä kesken kasvukautta sen vaatiessa ajoa työkoneella pellon yli (@veris_technologies_what_2017).
 
 Kirjallisuuskatsauksen Internet of Things in Agriculture viittaamista peltotuotantoa (arable farming) käsittelevistä tutkimuksista suurin osa käsitteli kasvatusympäristön tarkkailua ja säätelyä edistyneiden IoT–laitteiden avulla. Toinen merkittävä aihealue oli yleinen informaation kerääminen pelloista kolmannen aihealueen ollessa ennakoivat kasvumallit. Näitä lähestymismalleja käyttäen tutkittiin erityisen usein ekologiaan, luonnon monimuotoisuuteen ja luonnonvaroihin kuten veteen liittyviä aiheita. (@verdouw_internet_2016)
 
 ### AIoT-täsmäviljely puutarhatuotannossa
-Monien IoT–teknologioiden käyttöönottoon puutarhatuotanto on soveltunut peltokasvituotantoa paremmin. Puutarhakasvatuksen toimintaympäristöissä kuten kasvihuoneissa ja -tehtaissa sensoreita ja tietoverkkoja voidaan asentaa helpommin sekä ympäristö on usein tarkemmin kontrolloitua kuin avoimilla pelloilla. Puutarhakasvien tuotannossa markkinahintainen tuotto viljelypinta-alaa kohti on huomattavasti suurempi kuin peltokasvituotannon vastaava (@pajula_selvitys_2003, 36). Tästä voi päätellä, että automatisoidulla ja tarkemmin hallitulla resurssien käytöllä voidaan saavuttaa kilpailuetua erityisesti puutarhatuotannossa.
+Monien IoT–teknologioiden käyttöönottoon puutarhatuotanto on soveltunut peltokasvituotantoa paremmin. Puutarhakasvatuksen toimintaympäristöissä kuten kasvihuoneissa ja -tehtaissa sensoreita ja tietoverkkoja voidaan asentaa helpommin sekä ympäristö on usein tarkemmin kontrolloitua kuin avoimilla pelloilla. Puutarhakasvien tuo-tannossa markkinahintainen tuotto viljelypinta-alaa kohti on huomattavasti suurempi kuin peltokasvituotannon vastaava (@pajula_selvitys_2003, 36). Tästä voi päätellä, että automatisoidulla ja tarkemmin hallitulla resurssien käytöllä voidaan saavuttaa kilpailuetua erityisesti puutarhatuotannossa.
 
 Puutarhatuotannossa selkeitä esimerkkejä uusien teknologioiden hyödyntämisestä ovat automatisoidut kasvihuoneet sekä ns. kasvitehtaat, joissa kasvien kasvatus tapahtuu mahdollisimman tarkasti kontrolloidussa ympäristössä ja yleensä keinovalossa. Luonteeltaan kasvitehtaat vastaavat yleistä käsitystä tehtaasta automaatiolinjoineen ja tarkkoine hallintalaitteineen ja ne sopivat tuotantoon tiheästi asutuissa kaupungeissa, joissa on pulaa viljelysmaasta mutta tarpeeksi kysyntää ruokakasveille investointien kattamiseksi. Esimerkkinä tämän tyyppisistä kasvihuonetoteutuksista on New Yorkissa toimiva Gotham Greensin suomalaisen Green Automationin kasvatustekniikalla toimiva kasvihuone (@ohrnberg_30-kertainen_2016-1; @ohrnberg_suomalaistekniikka_2016).
 
@@ -89,7 +88,7 @@ Materiaalia etsittäessä on löytynyt pääasiassa uutisartikkelien kautta muut
 
 Suomalainen esimerkki tällaisesta kehityksestä on lapinjärveläisen Robbe’s Lilla Trädgård Oy:n ja Fujitsu Greenhouse Technology Finland Oy:n yhteishankkeena toteuttama kasvitehdas (@fujitsu_fujitsu_2016; @schafer_fujitsun_2016), josta uutisoitiin mm. Maaseudun tulevaisuus -lehden verkkosivuilla (@ala-siurua_fujitsu_2016; @schafer_fujitsun_2016).
 
-Aamulehden jutussa Erikoistutkija vesiviljelystä: “Kasvitehdasbuumi käy maailmalla kuumana” kasvitehdas-konseptia tutkinut erikoistutkija, dosentti Kari Jokinen kertoo “Kasvitehdasbuumi käy maailmalla kuumana. Japanissa on satakunta tehdasta. Mittakaava on maaseudun isoista laitoksia tokiolaisen ravintolan omaan salaattituotan-toon.” (@suojanen_erikoistutkija_2016).
+Aamulehden jutussa Erikoistutkija vesiviljelystä: “Kasvitehdasbuumi käy maailmalla kuumana” kasvitehdas-konseptia tutkinut erikoistutkija, dosentti Kari Jokinen kertoo “Kasvitehdasbuumi käy maailmalla kuumana. Japanissa on satakunta tehdasta. Mittakaava on maaseudun isoista laitoksia tokiolaisen ravintolan omaan salaattituotantoon.” (@suojanen_erikoistutkija_2016).
 
 # Tutkimuksen tavoitteet
 Tässä osiossa kuvaillaan tutkimusongelmat ja työhypoteesit. 
@@ -112,7 +111,7 @@ II) Millaisia IoT-teknologioita haastateltavalla toimijalla on joko käytettävi
 
 ## Työhypoteesit:
 Tutkimusongelman I vastaukseksi saadaan teoriaosuudessa käsiteltyjen löydösten mukainen kuvailu.
-Tutkimusongelman II vastaukseksi saadaan aikaisempien keskustelujen perusteella Valtran tuotevalikoiman mukaisia peltotuotannon teknologiaratkaisuita, joissa hyödynnetään ainakin automaattiohjausta ja maaperän rakenteen kartoitusta viljelyn suunnittelussa. Todennäköistä on, että näillä teknologioilla saavutetut hyödyt ovat linjassa teoriaosuudessa käsiteltyjen löydösten kanssa. Epävarmaa on voidaanko työkoneista saada tietoa analysoitavaksi ja hyödynnettäväksi muualla eli voidaanko niitä edes pitää IoT-teknologioina. Ei ole tiedossa, millaisia tarpeita tai toiveita haastateltava on tiedostanut IoT-teknologioita kohtaan.
+Tutkimusongelman II vastaukseksi saadaan aikaisempien keskustelujen perusteella Valtran tuotevalikoiman mukaisia peltotuotannon teknologiaratkaisuita, joissa hyödynnetään ainakin automaattiohjausta ja maaperän rakenteen kartoitusta viljelyn suunnittelussa. Todennäköistä on, että näillä teknologioilla saavutetut hyödyt ovat linjassa teoriaosuudessa käsiteltyjen löydösten kanssa. Epävarmaa on voidaanko työkoneista saada tietoa analysoitavaksi ja hyödynnettäväksi muualla eli voidaanko niitä pitää IoT-teknologioina. Ei ole tiedossa, millaisia tarpeita tai toiveita haastateltava on tiedostanut IoT-teknologioita kohtaan.
 
 # Aineisto ja (tutkimus)menetelmät
 Tässä osiossa kuvaillaan käytetyt tutkimusmenetelmät ja -aineisto. 
@@ -124,7 +123,7 @@ Kirjallisuuskatsaus soveltuu jo olemassa olevasta materiaalista kokonaiskuvan, y
 
 Kirjallisuuskatsauksen tiedot etsittiin Finna-, Google-, Google Scholar- ja ResearchGate-hauilla sekä loppuvaiheessa Iris.ai-hauilla. Hakuprosessin ensimmäisessä vaiheessa etsittiin Finna-haulla aiheeseen liittyvää kirjallisuutta, mistä siirryttiin Google-, Google Scholar- ja ResearchGate-hakuihin. Katsauksen kirjoitustyön loppuvaiheessa tutustuttiin myös Iris.ai-hakuun. Katsaukseen valittiin tutkimustietoa, lehtiartikkeleita ja laitevalmistajien tiedotteita. Valinnat tehtiin kokonaisuutta silmälläpitäen pyrkien kuvaamaan valtiollisten, yksityisten ja tieteellistä tutkimusta tekevien toimijoiden osallisuutta AIoT–kehityksen tilassa.
 
-Haastattelu toteutetaan yksilöteemahaastatteluna. Haastattelun tavoite on saada tietoa miten maatalouden IoT–teknologioita sovelletaan tai miten niitä haastateltavan käsityksen mukaan voitaisiin soveltaa haastateltavan työssä Kiialan kartanon maataloustuotannossa. Lisäksi tavoitteena on selvittää, millainen näkemys haastateltavalla on kyseisten teknolo-gioiden hyödyntämisestä ja käyttökelpoisuudesta.
+Haastattelut toteutetaan yksilöteemahaastatteluina. Haastattelujen tavoite on saada tietoa miten maatalouden IoT–teknologioita sovelletaan tai miten niitä haastateltavan käsityksen mukaan voitaisiin soveltaa haastateltavan työssä maataloustuotannossa. Lisäksi tavoitteena on selvittää, millainen näkemys haastateltavalla on kyseisten teknologioiden hyödyntämisestä ja käyttökelpoisuudesta.
 
 Haastattelun aiheet ovat tutkimuksen toisen tutkimusongelman mukaisesti:
 
@@ -136,30 +135,14 @@ II) Millaisia IoT-teknologioita haastateltavalla toimijalla on joko käytettävi
     * Millainen käsitys haastateltavalla on edelllä mainituista sovelluksista (sekä käyttämistään että tietämistään)?
     * Millaisia toiveita tai tarpeita haastateltavalla on IoT-teknologioille?
 
-Haastatelun ajankohtaa ei tätä kirjoitettaessa 21.5.2017 ole vielä saatu sovittua haastateltavan kevätkylvöstä johtuvien kiireiden vuoksi. Haastattelun kestoksi arvioidaan yksi tunti.
+Haastattelujen ajankohdat sovitaan kunkin haastateltavan kanssa erikseen loppukesän ja alkusyksyn aikana. Yhden haastattelun kestoksi arvioidaan yksi tunti.
 
-Tutkija ja haastateltava ovat toisilleen ennestään tuttuja ja tutkittavaa asiaa on sivuttu aikaisemmissa keskusteluissa. Kyseiset keskustelut ovat toimineet tämän tutkimuksen innoittajina.
+# Tutkimusaikataulu
+Tutkimus/opinnäytetyö kirjoitetaan tämän tutkimussuunnitelman pohjalta lisäten haastattelujen määrää ja syventäen teoriataustan keskeisiä osa-alueita. Tutkimus- ja kirjoitustyö tehdään 1.6.-30.10.2017 välisenä aikana.
 
-# Tulokset
-Tässä osiossa käsitellään tutkimuksen vastaukset tutkimusongelmittain.
+# Tuloksen hyväksikäyttömahdollisuudet
+Tutkimustuloksia ja tutkimuksen aikana kertyneitä kokemuksia voidaan hyödyntää arvioi-taessa aiheen soveltuvuutta jatkotutkimuksen aiheeksi.
 
-## Tutkimusongelma I:n vastaukset
-Kasvintuotannossa IoT–teknologioiden hyödyntäminen vaikuttaa suurilta osin olevan aikaisemmin kehitettyjen täsmäviljelyn tekniikoiden tehostamista. IoT:n tärkeänä osana nähdyn tiedon keräämisen ja analysoinnin hyödyntäminen on kuitenkin vielä harvinaisempaa kuin kasvuympäristön tarkkailu ja säätely. Uusien teknologioiden hyödyntäminen on myös mahdollistanut kasvitehtaiden kehittämisen paitsi kokeellisissa projekteissa myös kaupallisina sovelluksina.
-
-Peltotuotannon AIoT:n sovellukset ovat keskittyneet kasvuympäristön kuten pellon maaperän koostumuksen ja kosteuden mittaukseen. Näiden sovellusten kehittämisen haasteina nähdään erityisesti olevan teknologioiden kehittäminen peltotuotannon olosuhteet kestäviksi, energiatehokkaiksi, riittävän yksinkertaisiksi, hankintahinnoiltaan tarpeeksi edullisiksi ja verkkoyhteyksiltään luotettaviksi. Kasvuympäristön tarkkailun lisäksi peltotuotannon AIoT–teknologiasovelluksista tärkeimpiä ovat traktorien ja vastaavien työkoneiden automaattiohjaus ja automaatio.
-
-Puutarhatuotannossa AIoT–ratkaisuja voidaan rakentaa kontrolloidummassa ympäristössä, jolloin sovelluksien kehittäminen on helpompaa kuin peltotuotannossa. Puutarhatuotannon AIoT–ratkaisuissa on korostunut sensorien tuottaman tiedon analysoinnin perusteella tapahtuva kasvatusympäristön hallinta. Internet of Things in Agriculture -kirjallisuuskatsauksen viittaamista kasvihuoneisiin keskittyvistä tutkimuksista suurin osa käsittelee kasvatusympäristön tarkkailua ja säätelyä, mikä on linjassa peltotuotannon tutkimusmäärien kanssa. Katsauksessa puutarhatuotannolle erityiset ja huomattavat tutkimusaiheet ovat kasvihuoneen hallintajärjestelmät, energiankulutuksen hallinta ja Big Data.
-
-## Tutkimusongelma II:n vastaukset
-Tutkimusongelman II vastaukset kirjoitetaan haastattelun tuloksista.
-
-# Johtopäätökset ja suositukset
-Maatalouden esineiden Internet -aiheesta on julkaistu paljon erilaisia tutkimuksia, mutta suurin osa niistä on vielä prototyyppi- tai kehitysasteella. Ilmastonmuutoksen ja väestönkasvun ruokaturvalle asettamat haasteet tulevat todennäköisesti motivoimaan kehitystä, mutta suurin osa kehitettävistä teknologioista ei näytä olevan kehittyvien markkinoiden saatavilla tai niiden tarpeisiin profiloitu.
-
-AIoT voidaan nähdä seuraavana kehitysvaiheena täsmäviljelylle, jonka avulla voidaan siirtyä Smart Farming -tuotantomenetelmiin. Täsmäviljelystä ja uusiin teknologioihin investoinneista on saatu hyviä kokemuksia, mutta tutkimusten mukaan vain pieni joukko innovatiivisia toimijoita on ottanut niitä käyttöön omassa tuotannossaan. Suomessa valtiolliset toimijat pyrkivät erilaisilla hankkeilla edistämään uusien teknologioiden ja liiketoimintamallien kehittämistä ja käyttöönottoa, mutta hankkeiden vaikutuksista ei ole tietoa.
-
-Puutarhatuotannossa erityisesti kasvihuoneissa ja -tehtaissa on AIoT:n teknologiasovelluksia otettu käyttöön nopealla tahdilla. Tutkimuksissa on toteutettu hyvin mielenkiintoisia projekteja yksinkertaisista kosteusmittareista erittäin edistyneisiin kasvitehtaiden hallintajärjestelmiin. Kaupallisia toimijoita on tullut esille jatkuvasti ja vaikuttaa siltä, että kasvitehtaat tulevat nousemaan puutarhatuotannossa perinteisen kasvihuoneviljelyn rinnalle. Vielä ei ole ennustettu, kuinka suuren osan kokonaistuotannosta IoT–teknologioita soveltavat kasvitehtaat tai kasvihuoneet tulevat tai voivat kannattavasti toteuttaa.
-
-Jotta AIoT:n mahdollistamat hyödyt saadaan realisoitua, tulee vielä tehdä huomattava määrä työtä käytännöllisten teknologiasovellusten kehittämiseksi ja käyttöönottamiseksi. Tästä huolimatta AIoT on tällä hetkellä suosittu ja mielenkiintoinen tutkimuskohde, jonka kaupalliset sovellukset voivat muuttaa ruokatuotantoa globaalisti.
+Jatkotutkimukselle on todennäköisesti löydetyn materiaalin laajuuden ja AIoT:n mielenkiin-toisen kehitysvaiheen perusteella tarvetta ja motivaatio.
 
 # Lähteet
