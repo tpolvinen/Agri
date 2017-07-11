@@ -29,4 +29,4 @@ pandoc Tutkimusraportti.md --smart --standalone --bibliography /Users/tatu/Docum
 
 NEW FOLDER STRUCTURE:
 
-pandoc source/Tutkimusraportti.md --smart --standalone --bibliography bib/agri.bib --csl=style/harvard1.csl --reference-docx=template/template.docx -o output/tPolvinenTutkimusraporttiZ.docx
+pandoc source/oppari.md --smart --standalone --bibliography bib/agri.bib --csl=style/harvard1.csl --reference-docx=template/template.docx -o output/tPolvinenOppariZ.docx
