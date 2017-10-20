@@ -9,6 +9,8 @@ bibliography: /bib/MaatalousIoT.bib
 csl: harvard1.csl
 ...
 
+Tämä on opinnäytetyötä varten tutkimussuunnitelmaksi nimetty tutkimustyön kurssille laadittu kirjallisuuskatsaus (suunniteltu haastattelu ei toteutunut). Kirjallisuuskatsaukseen on lisätty tutkimusaikataulu varsinaista opinnäytetyötä varten.
+
 # Tiivistelmä
 Tässä tutkimusraportissa kuvataan, millaisia IoT–teknologioita hyödyntäviä ratkaisuita tutkitaan ja sovelletaan maataloudessa kasvintuotannon alueella pelto- ja puutarhatuotannossa. Tutkimusongelmiin löydettyjä vastauksia esitellään tutkimustuloksissa.
 
@@ -138,7 +140,7 @@ II) Millaisia IoT-teknologioita haastateltavalla toimijalla on joko käytettävi
 Haastattelujen ajankohdat sovitaan kunkin haastateltavan kanssa erikseen loppukesän ja alkusyksyn aikana. Yhden haastattelun kestoksi arvioidaan yksi tunti.
 
 # Tutkimusaikataulu
-Tutkimus/opinnäytetyö kirjoitetaan tämän tutkimussuunnitelman pohjalta lisäten haastattelujen määrää ja syventäen teoriataustan keskeisiä osa-alueita. Tutkimus- ja kirjoitustyö tehdään 1.6.-30.10.2017 välisenä aikana.
+Tutkimus/opinnäytetyö kirjoitetaan tämän tutkimussuunnitelman pohjalta lisäten haastattelujen määrää ja syventäen teoriataustan keskeisiä osa-alueita. Tutkimus- ja kirjoitustyö tehdään 1.6.2017-31.5.2018 välisenä aikana.
 
 # Tuloksen hyväksikäyttömahdollisuudet
 Tutkimustuloksia ja tutkimuksen aikana kertyneitä kokemuksia voidaan hyödyntää arvioi-taessa aiheen soveltuvuutta jatkotutkimuksen aiheeksi.
