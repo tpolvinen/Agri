@@ -50,7 +50,25 @@ Täsmäviljely tietotekniikan, satelliittipaikannuksen ja etä
     The report confirms that precision agriculture can play a substantial role in meeting the increasing global demand for food while ensuring sustainable use of natural resources and the environment. Nevertheless, the size and diversity of farm structures make its adoption in Europe challenging. The report proposes some recommendations, such as awareness-raising and information campaigns among farmers, the provision of appropriate guidelines, and an EU 'precision farming calculator' tool which would bring decision-support value to farmers and advisers. This should be accompanied by research and development studies, for instance to assess the impact of precision agriculture on the environmental footprint beyond the farm level. Finally, the roles of the Farm Advisory Services and the European Innovation Partnership, established to help Member States share knowledge and expertise in implementing the CAP, could be fostered.
     Applications of precision agriculture include auto-guiding systems and variable-rate technology that allow for precise tillage, seeding, fertilisation, irrigation, herbicide and pesticide application, harvesting and animal husbandry. Crop management and aspects of animal rearing are optimised thanks to the use of information collected from sensors mounted on-board agricultural machinery (soil properties, leaf area, animals' internal temperature) or derived from high resolution remotely sensed data (physiological status of plants). The benefits to be obtained include increased yields and profitability (mainly for arable farmers), increased animal welfare, and improvement of various aspects of environmental management.
 
-
+Evernote, muut tagilla "Tausta":
+Does vertical farming make sense?
+Via Luke/Kari Jokinen: Utilization of microalgae in industrial symbiosis, focus on Finland
+Paljon viitteitä: The future of agriculture | The Economist
+Digitalisoituminen avaa kasvinviljelyyn ja metsänhoitoon uusia toimintamalleja - Luonnonvarakeskus
+Alku, ei tuloksia/tekniikkaa: BIONET - Teollisen Internetin soveltaminen biotalouteen
+Agtech startup Prospera, which uses AI and computer vision to guide farmers, harvests $15M – TechCrunch
+Yleistä lätinää, mutta afrikka "(IoT) towards poverty reduction": The Internet of Things in Agriculture for Sustainable Rural Development
+4.1 Smart farming: Internet of things: from internet scale sensing to smart services
+Internet of Things in Industries: A Survey Abstraktista iot-määritelmä!
+Farmboxgreens.com Urban Ag News | Issue 9 | April 2015 by urbanagnews - issuu
+Econ.feasibility aquaponics
+Finland: Fujitsu and Robbe's Little Garden start cloud based ag trial
+Fujitsu  ja Robben Pikku Puutarha  perustavat koeviljelmän *ks. ed.*
+Farm Smart « ACCJ Journal
+Can agritech save the future of food? - Japan Today *sama kuin ed.*
+Teleoper. Kiinnostus IoThen: IoT-käyttöliittymän luonti pilvipalvelua käyttäen *eeeehkäää...*
+Decagon Irrigation Monitoring System from SCRI-MINDS
+FAO - News Article: Scarcity and degradation of land and water: growing threat to food security *Tämä voi olla tärkeä taustaksi, miksi tarvitaan AIoT:n hyötyjä*
 
 # Teoriatausta
 ## Taustaa
