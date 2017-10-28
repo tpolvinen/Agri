@@ -14,11 +14,15 @@ csl: harvard1.csl
 ## Haastattelija:
 Tatu Polvinen
 ### Haastateltava:
-Jakob Frankenhaeuser
+
 
 Haastattelu toteutetaan  (yksilö-) teemahaastatteluna.
 
-Haastattelun tavoite on saada tietoa miten maatalouden IoT-teknologioita sovelletaan tai miten niitä haastateltavan käsityksen mukaan voitaisiin soveltaa haastateltavan työssä/Kiialan kartanon maataloustuotannossa. Lisäksi tavoitteena on selvittää, millainen näkemys haastateltavalla on kyseisten teknologioiden hyödyntämisestä ja käyttökelpoisuudesta.
+Haastattelun tavoite on saada tietoa miten maatalouden IoT-teknologioita sovelletaan tai miten niitä haastateltavan käsityksen mukaan voitaisiin soveltaa viljelijän työssä kasvintuotannossa.
+
+*Lisäys: Miten asiasta kysellään tutkijalta tai laitevalmistajan työntekijältä?* 
+
+Lisäksi tavoitteena on selvittää, millainen näkemys haastateltavalla on kyseisten teknologioiden hyödyntämisestä ja käyttökelpoisuudesta.
 
 Haastattelun tarkoituksena on tuottaa tietoa jonka avulla voidaan toteuttaa opinnäytetyön tutkimus. Tuotettavan tiedon tarkoitus on orientoida tutkimuksen tekijä aihepiiriin käytännön työstä saatavien näkemysten ja kokemusten avulla. Tällä pyritään välttämään tulevan tutkimuksen/opinnäytetyön harhautuminen epäkäytännöllisten tai muuten epäolennaisten sovellusten tutkimiseen.
 
