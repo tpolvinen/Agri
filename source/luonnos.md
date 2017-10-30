@@ -100,6 +100,21 @@ FAO - News Article: Scarcity and degradation of land and water: growing threat
 ### AIoT-täsmäviljely puutarhatuotannossa
 # Tutkimuksen tavoitteet
 ## Tutkimusongelmat
+*Refaktoroidaan tutkimusongelmat!*
+Tutkimuksessa haetaan vastauksia kahteen tutkimusongelmaan, jotka alaongelmineen ovat:
+
+I) Miten kasvintuotannossa hyödynnetään IoT-teknologioita?
+
+    * Miten peltotuotannon ja puutarhatuotannon erot vaikuttavat IoT-teknologioiden sovelluksiin?
+    * Minkä tyyppiset sovellukset tulevat tutkimusmateriaalissa selkeimmin esille, eli millaisista sovelluksista ja teknologioista kirjoitetaan ja tehdään tutkimusta tällä hetkellä?
+    
+II) Millaisia IoT-teknologioita haastateltavalla toimijalla on joko käytettävissään tai millaisista hän on tietoinen?
+
+    * Mitä vaikutuksia niillä on tuotantoon ja/tai työntekoon?
+    * Millaisia kokemuksia niistä haastateltavalla on?
+    * Millaisia muita sovelluksia haastateltava tuntee tai tietää?
+    * Millainen käsitys haastateltavalla on edelllä mainituista sovelluksista (sekä käyttämistään että tietämistään)?
+    * Millaisia toiveita tai tarpeita haastateltavalla on IoT-teknologioille?
 ## Työhypoteesit:
 # Aineisto ja (tutkimus)menetelmät
 ## Tutkimusmenetelmät
