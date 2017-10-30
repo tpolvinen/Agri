@@ -1,4 +1,5 @@
 # Agri
+*You can find the work in progress -files of my thesis in folder `source`. In there, `oppari.md` is an old, first try of literature survey and `luonnos.md` is the current working file where I'm gathering my new sources and refactored things.*
 
 This repository holds my research of applications of AIoT-technologies (Agriculture Internet of Things) in southern Finland. As of end of May 2017, research plan was accepted as a starting point and initial plan for my bachelor's thesis and this repository will be refactored to better suit that purpose.
 
