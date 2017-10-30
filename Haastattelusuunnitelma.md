@@ -16,11 +16,9 @@ Tatu Polvinen
 ### Haastateltava:
 
 
-Haastattelu toteutetaan  (yksilö-) teemahaastatteluna.
+Haastattelu toteutetaan (yksilö-) teemahaastatteluna.
 
-Haastattelun tavoite on saada tietoa miten maatalouden IoT-teknologioita sovelletaan tai miten niitä haastateltavan käsityksen mukaan voitaisiin soveltaa viljelijän työssä kasvintuotannossa.
-
-*Lisäys: Miten asiasta kysellään tutkijalta tai laitevalmistajan työntekijältä?* 
+Haastattelun tavoite on saada tietoa miten IoT-teknologioita sovelletaan tai miten niitä haastateltavan käsityksen mukaan voitaisiin soveltaa kasvintuotannossa.
 
 Lisäksi tavoitteena on selvittää, millainen näkemys haastateltavalla on kyseisten teknologioiden hyödyntämisestä ja käyttökelpoisuudesta.
 
@@ -32,6 +30,7 @@ Haastattelun aiheet ovat tutkimuksen toisen tutkimusongelman mukaiset:
         * Millaisia kokemuksia niistä haastateltavalla on?
         * Millaisia muita sovelluksia haastateltava tuntee tai tietää?
         * Millainen käsitys haastateltavalla on edelllä mainituista sovelluksista (sekä käyttämistään että tietämistään)?
+        * *Lisäys 30.10.2017: Miten IoT-teknologiat ovat muuttaneet tai tulevat muuttamaan toimijan organisaation toimintaa? Esim. maatilan uudet yhteistyökumppanit, toimintatavat ja liiketoimintaprosessit tai yrityksen uudet toimialat ja yhteistyökumppanit?*
 
 
 
