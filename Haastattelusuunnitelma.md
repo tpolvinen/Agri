@@ -26,6 +26,7 @@ Haastattelun tarkoituksena on tuottaa tietoa jonka avulla voidaan toteuttaa opin
 
 Haastattelun aiheet ovat tutkimuksen toisen tutkimusongelman mukaiset:
     Millaisia IoT-teknologioita haastateltavalla toimijalla on joko käytettävissään tai millaisista hän on tietoinen?
+    
         * Mitä vaikutuksia niillä on tuotantoon ja/tai työntekoon?
         * Millaisia kokemuksia niistä haastateltavalla on?
         * Millaisia muita sovelluksia haastateltava tuntee tai tietää?
