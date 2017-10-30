@@ -74,10 +74,13 @@ Sovelluksiin kuuluvat automaattiohjausjärjestelmät, vaihtelevan määrän tekn
 Maatalouskoneisiin asennettujen sensorien tuottaman tiedon (maanlaatu, lehtiala) sekä kaukokartoituksen korkearesoluutiokuvien (kasvien fysiologinen tila) tuottaman tiedon avulla voidaan optimoida viljelmien hallintaa, jolla voidaan saavuttaa parempia satoja ja parantaa tuottavuutta ympäristöystävällisemmin.
 *(Evernote: PEER: Precision agriculture: an opportunity for EU farmers)*
 
+Esimerkki sijoitusinnosta: 15 miljoonaa USD B-kierroksella kerännyt Tel Avivlainen Prospera. Pelloilta kerättävää dataa AI:lla analysoivaa. Siirymässä kasvihuoneista pelloille. Laajentunut tautien ja tuholaisten havaitsemisesta “every aspect of farm production,” sis.  soil management and crop production
+...operations and managing a farm’s labor. Sijoittajissa mukana Qualcomm ja Cisco.
+*(Evernote: Agtech startup Prospera, which uses AI and computer vision to guide farmers, harvests $15M – TechCrunch)*
+
 Evernote, muut tagilla "Tausta":
 
 Alku, ei tuloksia/tekniikkaa: BIONET - Teollisen Internetin soveltaminen biotalouteen
-Agtech startup Prospera, which uses AI and computer vision to guide farmers, harvests $15M – TechCrunch
 Yleistä lätinää, mutta afrikka "(IoT) towards poverty reduction": The Internet of Things in Agriculture for Sustainable Rural Development
 4.1 Smart farming: Internet of things: from internet scale sensing to smart services
 Internet of Things in Industries: A Survey Abstraktista iot-määritelmä!
