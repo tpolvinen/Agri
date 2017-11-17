@@ -11,6 +11,8 @@ csl: ../style/harvard1.csl
 
 # Tiivistelmä
 # Johdanto
+--Oma huomio 17.11.2017: Tuntuu, että lähestyn asiaa jotenkin, tunteiltani uskollisena teknologialle, että kyllä tämä auttaa ja pelastaa aina? Että en ole tässä tapauksessa osannut ottaa huomioon, että joskus on hyödyllisempää olla ottamatta teknologioita käyttöön. En ole juuri koskaan ollut aikainen omaksuja missään, joten tämä uskovaisuus yllättää minut. Olen jotenkin olettanut, että totta kai maataloudessa oltaisiin jo omaksuttu paljon enemmän IoT-teknologioita. Jokin alan vieraudessa on vaikuttanut minuun. Ehkä kun tietoa ei ole ollut, olen olettanut että tottakai siellä mennään samaa tahtia kuin muuallakin. Tieto loppuu, usko alkaa. Ehkä työni ensimmäinen hämmästynyt kysymys oli: "Sitä tietoa ei siis saa sieltä koneesta ulos?" Sillä tiellä ollaan.--
+
 Opinnäytetyön aihepiirinä on maatalouden esineiden internetiin (Agriculture Internet of Things, AIoT) liittyvät tutkimukset, julkaisut ja teknologiasovellukset. Lisäksi opinnäytetyössä haastatellaan asiaan perehtyneitä tutkijoita, viljelijöitä, yrittäjiä ja yritysten edustajia.
 
 Teknologiasovelluksista käsitellään sekä tutkimus- ja prototyyppiluonteisia toteutuksia että kaupallisia tuotteita. Tutkimuksessa pyritään luomaan kuva sekä AIoT:n tutkimuskentän että käytännön sovellusten ja tuotteiden tilasta.
