@@ -1,5 +1,3 @@
-100_merkkiä_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_100_merkkiä
-
 Maatalouden kenttä on hyvin hajanainen ja pirstaleinen. Teknologioita otetaan käyttöön yksittäin, tapaus tapaukselta, eikä viljelyprosessien digitalisointi toimi samalla tavoin kuin teollisuuden prosessien kanssa. On hyvin vaikeaa tehdä kattavia yksittäisiä ratkaisuja jonka voisi ostaa kerralla ja joka kattaisi koko viljelyprosessin.
 
 Maatilat ovat yksittäistapauksia: tuotantosuunniltaan, tilakooltaan, henkilöstöltään, historialtaan, teknologiatasoltaan, teknologiaorientoitumiseltaan hyvin erilaisia. Kentällä on otettu digitaalisia työkaluja käyttöön hyvin vaihtelevasti. Osa viljelijöistä aktiivisesti etsii ja ottaa käyttöön uusia teknogioita toimintansa tehostamiseksi, osa taas ei ottaisi niitä käyttöön vaikka niitä tarjottaisiin valmiina ratkaisuina.
@@ -30,6 +28,23 @@ Valmistajat voivat standardien mukaan toimiessaan rakentaa omia edistyneempiä t
 
 Toivoisin, että myös Suomeen tulisi käyttöön Farmobile:n [https://www.farmobile.com] kaltainen järjestelmä, jossa viljelijät voisivat varastoida ja halutessaan jakaa tai myydä toiminnastaan saatua dataa. Toinen vastaava palvelu on Farmer's Business Network [https://www.farmersbusinessnetwork.com] jossa käyttäjä voi verkostoitua, jakaa täsmäviljelyn reseptejä, vertailla analyysidataa jne. Sosiaalisesta mediasta löytyy kyllä ryhmiä vinkkien ja tietojen vaihtoon, mutta datojen jakoon ei ole palvelua, eikä datoja ole sillä tavalla käyttäjien omassa hallinnassa että niitä voisi oman halunsa mukaan jakaa kenelle haluaa. 
 
+[00:26:33]
+
+Prosesseista kerätyn datasta kertyyy tuotantotapatieto, joka voi käsittää mitä kylvetään, mihin paikkaan, mihin kellonaikaan, sääolosuhteet jne. Lisäksi sadonkorjuusta saadaan tieto mistä kohtaa peltoa sato on korjattu ja korjattuun satoon voidaan lisätä tunnistetieto ja tuotantotapatiedot. Tällöin voidaan laskea korjatulle erälle hiilijalanjälki, lisätä tieto miten, millaisia ja jos kasvisuojeluaineita on käytetty ja lopuksi myydä se omana arvoeränä. Osa tuotannosta voitaisiin edelleen myydä bulkkituotantona kuin ennenkin, mutta osalle sadosta voitaisiin tavoitella parmpaa hintaa.
+
+Ongelmaksi näin toimittaessa voi tulla paitsi logistiikka erän käsittelyssä sekä miten viljelijä voi löytää pienelle erikoistuneelle erälle ostajan. Jos viljelijät voisivat verkostoitua sopivan palvelun kautta, vertailla  tuottamiensa erien tietoja ja myydä samankaltaiset erät yhdistämällä ne suuremmaksi eräksi. Tällöin markkinoilta voitaisiin etsiä ostaja suuremmalle erälle, joka voisi olla koottu vaikka koko Suomen tai pohjoismaiden alueelta. Samalla tavalla ostajat voisivat verkostoitua palvelujen kautta hankkimaan yhdessä sovittujen määritelmien mukaisia eriä. Mutta tällaisia palveluita ei vielä ole saatavilla. 
+
+Sadonkorjuuteknisesti vaikeutena pienempien erikoiserien tuotannon toteutuksessa on myös se, että erottelevat koneet ovat kalliimpia ja niin kauan kuin ei ole tietoa siitä millaisia hintoja kyseisen kaltaisista erikoiseristä voi saada, ei voida laskea millaisia investointeja erien tuottamiseen kannattaa tehdä. Samoin jos erä jouduttaisiin korjaamaan erikseeen muusta sadosta, sen vaatima työaika, erillinen varastointi ja logistiikka ovat samalla tavalla investointeja, joiden kannattavuudesta tulisi olla tieto ennen toimiin ryhtymistä.
+
+Suomessa ei vielä ole peltoviljelyn alalla olemassa tuotantojärjestelmiä, joilla voitaisiin sensoreilla tuotettua ja pilveen kerättyä dataa analysoida ja sen perusteella vaikuttaa automaattisesti viljelyprosessien toimintaan. Minulla ei nyt ole tietoa, löytyisikö vastaavaa kansainvälisiltä markkinoilta. Tehdasautomaatiossa ja sitä hyödyntävissä kotieläintuotannon laitoksissa tämä saattaa jo olla mahdollista. Keinoälyn kehittyessä voitaisiin saada käyttöön järjestelmiä, jotka datasta suoraan päätelmiä tekevä AI voisi ohjata automaation toteuttamia toimenpiteitä. Toinen mahdollinen toimintamalli olisi ehdottaa käyttäjälle toimenpiteitä, jotka sitten annetaan automaation suoritettaviksi.  
+
+Tällä hetkellä saatavilla järjestelmissä on älyä mukana, mutta ne rajoittuvat pienempiin operatiivisiin asioihin kuten työsyvyyden säätöön automaattisesti, pellolla havaittujen esteiden automaattiseen väistämiseen ja Yaran N-sensor:in kaltaiseen lannoittimen ohjaamiseen sensoridatan perusteella.
+
+Pidemmälle viedyn tekoälyn ohjaaman automatiikan käyttöönoton mahdollistamiseksi sille pitäisi kehittää liiketoiminnallinen peruste, jossa sen hankintakustannukset voidaan näyttää mahdollisiksi kattaa sen käytön avulla saatavista lisätuloista. Nämä lisätulot tulisivat pääasiassa parantuneista sadoista, joita voidaan myydä joko parempaan hintaan tai suurempia määriä. 
+
+Perusautomatiikka on siis jo olemassa mutta systeemiautomaation eteen on tehtävä vielä paljon töitä, jotta sitä voitaisiin käyttää keinoälyn kanssa työn ohjaamiseen ja ylemmän tason päätöksenteon avuksi tehtyyn analytiikkaan.
+
+Tehdasutomaatiossa ja kotieläintuotannossa voidaan saada sensoreilta tarpeeksi eheää dataa, jotta sitä voidaan käyttää koneoppimiseen, mutta peltoviljelyssä järjestelmäintegraation kanssa on jouduttu työskentelemään niin pitkään, että vasta nyt eri järjestelmät alkavat toimia yhdessä. Tämän jälkeen voidaan jatkaa kehitystyötä varsinaisen datan käsittelelmisen kanssa kun eheää dataa on saatavilla.
 
 
 
