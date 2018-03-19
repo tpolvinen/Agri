@@ -3,6 +3,8 @@ RAKENNE
 oppari.md
 # Tiivistelmä
 # Johdanto
+## PUUTARHATUOTANTO
+## PELTOTUOTANTO
 # Teoriatausta
 ## Taustaa
 ## AIoT:n käytännön sovelluksia ja tutkimustuloksia
