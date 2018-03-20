@@ -116,5 +116,21 @@ Mutta sen sisällä on paljon asiaa, indeksejä yms. jota ei ole tarve näyttä�
 
 [00:27:39] Satotappiosta, mainitsit että osa viljelijöistä ei ota käyttöön uutta teknologiaa vaikka sille olisi selkeä bisneskeisi.
 
-Kyllä, maatiloille on [oltava] bisneskeissi, toisille toisenlainen kuin toisille. Jos puetaan meidän koetuloksia, että satovasteet ovat hyviä kun annetaan ravinnepanoksia. Niin silloin teknologia antaa mahdollisuuksia ulosmitata näitä mahdollisuuksia lohkolta, tasaisesti. Se on aika...se menee eteenpäin vil [00:28:47] 
+Kyllä, maatiloille on [oltava] bisneskeissi, toisille toisenlainen kuin toisille. Jos puetaan meidän koetuloksia, että satovasteet ovat hyviä kun annetaan ravinnepanoksia. Niin silloin teknologia antaa mahdollisuuksia ulosmitata näitä mahdollisuuksia lohkolta, tasaisesti. Se on aika...se menee eteenpäin viljelijöidenkin keskuudessa. En usko että se lähtee siitä että, jaettua lannoitusta ei ole otettu yleiseksi tavaksi, niin silloin kun siihenkään ei ole päästy kiinni niin ei sitten päästä siihen sensoriteknologiaankaan kiinni. Työvaiheet varmaan...että jos jatkuvasti kehittää itseään niin ne stepit [askeleet] kyllä tulee sieltä, otetaan niitä työkaluja käyttöön ja niitä mietitään.
+
+Mutta sellaista jättimäistä teknologiaharppausta...
+
+[00:29:12] ei voida tehdä leap frog-juttua?
+
+Kyllä voidaan tehdä, mutta viljelijät eivät tee...en tiedä. Voisin kuvitella etteivät tee.
+
+[00:29:26] voisivat käyttää ehkä harkintaa? Millainen askel otetaan ja mitä se tekee meille?
+
+Ja varmasti seurataan sitten tilannetta. Kyllähän meidän pitäisi enemmän keskustella. Myös teknologian tuomista mahdollisuuksista.
+
+[00:30:04] Monien viljelijöiden tilanne verrattuna joihinkin edistyneempiin toimijoihin (viljelijöihin) ero näyttää olevan aika iso?
+
+On, mutta maatiloja on hirveän erilaisia.
+
+[00:30:29] Sanoit, että lohkolta saisi tuottoa tasaisesti niin minulle kerrottiin (oliko Liisa Pesonen?)  
 
