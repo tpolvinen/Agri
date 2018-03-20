@@ -98,3 +98,23 @@ Ei, jos ajatellaan koko Yaran tarjoomaa Suomen markkinassa, niin meillä on maat
 
 N-sensori on teknisesti, agronomisesti varmasti markkinoiden paras laite typen levittämiseen. Mutta kokonaisuus on suurempi. Jos ajatellaan viljan viljelyn kannattavuutta niin N-sensoria käytetään kun ne perusasiat on kunnossa. Jos perusasiat eivät ole kunnossa niin N-sensori, vaikka olisi kuinka hyvä laite, ei voi korjata tilannetta.  
 
+Sen takia meillä on muuta...meidän nettisivuilla on paljon tätä tukevia toimintoja kuten laskureita. Kuten mainitsit että ihminen otetaan pois, niin pitää olla hirveän tarkka missä vaiheessa ihminen otetaan pois välistä koska kun kasvit ovat elävä organismi ja kuinka pitkälle niitä pystytään mallintamaan on yksi asia, ja yksi asia on se että on se ihminen päätöksenteon tukena.
+
+Me ihmisethän sitä dataa sinne tuotetaan sinne algoritmeihin.
+
+[00:23:30] mitä sisään, sitä ulos?
+
+Kyllä. Millä kertoimella se muuttuu se on eri juttu.
+
+Kun puhutaan kasvintuotannosta -itse agronomina tottakai- omaan kokemusta ja kasvustot vaihtelee vuodesta toiseen. Näiden muuttujien hallinta mitä luetaan sensoreilla niin se täytyy hallita hyvin.
+
+[00:24:11] Onko riskiä suositusten väärinymmärryksestä? Miten voidaan varmistaa suositusten tulkinta käyttäjän päässä, toimiiko kommunikaatio ja ymmärrys?
+
+Ehkä tuotteiden loppujen lopuksi käyttöönotto ja käyttöönoton levinneisyys [teknologia-adoptio?] ratkaisee, kokeillaan ja jos todetaan huonoksi niin pois. Mutta Yaralla tehdään, meillä on paljon numeroita ja paljon dataa. Näistä puhutaan jos viljelijää kiinnostaa. Käytännössä mitä tehdään on vaikka N-sensorilla mitä siitä saadaan irti on yksinkertainen luku typpeä-kiloa-hehtaari, sillon datan ja tiedon tulva ei näy viljelijälle. Eli viljelijä näkee hyvin yksinkertaisen käyttöjärjestelmän ja laitteen joka toimii kuin junan vessa.
+
+Mutta sen sisällä on paljon asiaa, indeksejä yms. jota ei ole tarve näyttää viljejijälle. Ne ovat haluttaessa siellä, mutta on hyvä tehdä siitä ymmärrettävää. Silloin jos ajatellaan lannoitussuosituksia, niin väärinymmärryksestä johtuvasta ylireagoinnista ei ole vaaraa. Koska jos tiedetään miten eri tuotantopanokset vaikuttavat, esim. satoon, mikä on satopotentiaali ja mikä on satovaste, et nyt on lisälannoittamisen aika ja jos et lannoita niin tulee satotappiota.
+
+[00:27:39] Satotappiosta, mainitsit että osa viljelijöistä ei ota käyttöön uutta teknologiaa vaikka sille olisi selkeä bisneskeisi.
+
+Kyllä, maatiloille on [oltava] bisneskeissi, toisille toisenlainen kuin toisille. Jos puetaan meidän koetuloksia, että satovasteet ovat hyviä kun annetaan ravinnepanoksia. Niin silloin teknologia antaa mahdollisuuksia ulosmitata näitä mahdollisuuksia lohkolta, tasaisesti. Se on aika...se menee eteenpäin vil [00:28:47] 
+
