@@ -56,5 +56,45 @@ Kyllä, mutta jos ajatellaan USBia niin liikkuu se vielä silläkin. Mitä pidet
 Kyllä. Mutta aikaväliä en osaa sanoa, mutta onhan se ihan tuossa oven takana. Kun sen vaan joku ottaa ja tekee. Sitä me pyritään tekemään Yarassakin.
 
 
+[00:12:38] Datan omistajuudesta: monet haluaisivat sen itselleen. Miten teillä tai tuntemissasi järjestelmissä?
 
+Se on asiakkaan dataa, eli logfilet ja muut on asiakkaan. Datan keruuta ajatellen...käytännössä tällaisten kysymysten eteen emme ole tulleet vielä viljelijöiden kanssa. Eli viljelijät käyttää sitä omiin tarkoituksiinsa eikä sitä [dataa] ole kerätty.
+
+[00:13:37] Tapausta "Haluan näillä laitteilla tuotetun datan myös toiseen / kolmannen osapuolen palveluun" ei siis ole vielä tullut?
+
+On, mutta enemmän erilaiset toimijat hakevat yhteistyötä enemmän kuin isot viljelijät. Tottakai yksittäiset viljelijät jotka käyttävät Farm Management -ohjelmia miettivät sitä voisiko näin tehdä.
+
+N-sensorissa se ei ole ongelma, kun työ voidaan tehdä siirtämättä dataa, yhtään bittiä, mihinkään suuntaan. Jos halutaan siitä kartta ulos, niin sen siirtäminen jonnekin, esimerkiksi lohkotietoihin tms. niin sitä voi. Se on tulevaisuuden suunta, että näin tulee jossain vaiheessa käymään.  Mutta suuri massa viljelijöistä on vielä aika kaukana tällaisesta.
+
+[00:14:44] Minkälaisia muut toimijat oli?
+
+Erilaisia ohjelmistotaloja, jotka haluavat käyttää satelliitti- tai NDVI-kuvantamispalveluita. Kansainvälisesti ajatellen, jos haetaan "farm management system" löytynee varmaan 200 hakutulosta jotka tällaista tarjoavat. Tällaisille yrityksille on hyvä että heillä olisi mahdollisimman paljon "palkoita" siinä omassa portfoliossaan.
+
+[00:15:21] Eli he pystyisivät mainostamaan: toimii myös Yaran N-sensorin kanssa?
+
+Kyllä. Eli yksittäisiä "palikoita" liitettäisiin suuremmaksi kokonaisuudeksi yhteen ohjelmistoon. Linkillä tai ilman, mutta niin että tieto löytyisi heiltä.
+
+[00:15:42] Mainittu vaikeutena datan määrä, siirron ongelmat. Mitä muita vaikeuksia käyttöönotossa voi olla, tai uhkia tai heikkouksia?
+
+Jos ajatellaan täsmäviljelylaitteita niin pieni joukko viljelijöistä/asiakaskunnasta ottaa käyttöön uutta teknologiaa matalalla kynnyksellä - mutta suurempi joukko on varmasti sellaista jotka eivät ota. Joko eivät näe sitä, syystä tai toisesta, tai eivät ole ollenkaan kuulleetkaan täsmäviljelyteknologiasta. Sekin on ihan mahdollista. Niin se on ehkä haaste, että... [?] ...jos ajattelen suomalaista maataloutta, jos ei sitä saada, työnnettyä käytäntöön, näitä ratkaisuja, niin silloin on se riski, että suomalaiset viljelijät putoavat teknologiakehityksen kärrystä.
+
+Jos ajatellaan, että Saksassa N-sensorilla saadaan + 6 % isompia satoja -ja lisäksi säästöjä- ja Ruotsissa + 4 % niin tavallaan suomessa hävitään tämä joka vuosi. Lisäksi emme suomessa pysty implementoimaan uusinta teknologiaa kun ei ole sitä vanhaakaan.
+
+Meille teknologian tarjoajille on se haaste että teknologian pitää olla sellaista että viljeljijä pystyy sitä käyttämään. Eli ei tarvitse olla käyttöinsinööri ja ymmärtää mistä siinä [käyttöliittymässä?] puhutaan. Eli teknologioiden tulee olla niin helppokäyttöisiä, niin yksinkertaiset käyttöjärjestelmät että niitä pystyy _helposti_ käyttämään maatilalla ja tuotettu tieto on oikeaa, niin että sitä voi käyttää päätöksenteon ja suunnittelun tukena. Sekään ei ole aina ihan yksinkertainen, onhan tälläkin hetkellä paljon erilaisia teknologioita ja silloin kun me niitä tarjotaan niin tarjoajalla pitää olla asiantuntijuus siitä mitä se tarkoittaa.
+
+[00:18:24] Eli ei voida vain antaa käyttöön hienoa sensoria ja näyttää lukemia ja turvallista matkaa?
+
+Joo.
+
+[00:18:34] Datan eheydestä että se kelpaa päätöksenteon pohjaksi - onko yleistä vai harvinaista saadaanko pelloilta sellaista dataa mikä täyttää vaatimukset?
+
+Datassa isessään ei ole mitään...data on itsessään varmasti oikeaa. Jos on kalibroitu ja vertailukelpoista niin data on dataa. Mutta mitä datasta johdetaan, se on varmaan se isompi asia että me voidaan kuvata esim. kasvinviljelyssä erilaisia spektrejä ja onhan se oikeaa dataa, mutta mitkä ovat ne johtopäätökset ja meidän suositukset tuotantopanoksissa. Se vaatii jo koetoiminnan sinne tueksi ja sitten erilaisia kalibrointeja.  
+
+Jos datasta puhutaan, niin se on tarpeeksi eheää, mutta mitä siitä datasta johdetaan niin se on sitten hankalampi homma. Tai ei hankalampi, se vaan vaatii sen työn. Eli käytännössä mitä N-sensori ajattelee niin kaikki ne suositukset ja kaikki typpialgoritmit, vaihtelualgoritmit, niin ne perustuvat meidän koetoimintaan. Eli meillä on lukuisia ja lukuisia kalibrointikokeita ja lukuisia työtunteja ja kasvustonäytteitä  algoritmien takana. Suositukset jotka me sinne laitetaan ovat meidän itse testaamia.
+
+[00:20:40] onko tässä taustalla sellainen prosessi uusien tutkimustulosten tullessa että käyttäjille annetaan valinta suositusten välillä, jotka perustuvat eri tutkimuksiin -vai onko suositus keskitetty?
+
+Ei, jos ajatellaan koko Yaran tarjoomaa Suomen markkinassa, niin meillä on maatilatutkimusta jossain määrin, meillä on oma tutkimusaseman tutkimusta ja yhteistyötutkimusta. Tämä tuottaa perusdataa, mitä käytetään jotta opitaan tunnistamaan ne...opitaan luomaan paremmat suositukset suomalaisissa olosuhteissa. Sitten on N-sensorin kalibrointikokeita mitä käytetään puhtaasti tuotekehitykseen, algoritmin tarkentamiseen. Sitten on testejä, joilla testataan sensoreita käytännössä ja katsotaan mikä se on se algami [?] ja nämä graafit esitetään viljelijälle riippumatta käyttikö hän N-sensoria vai ei.
+
+N-sensori on teknisesti, agronomisesti varmasti markkinoiden paras laite typen levittämiseen. Mutta kokonaisuus on suurempi. Jos ajatellaan viljan viljelyn kannattavuutta niin N-sensoria käytetään kun ne perusasiat on kunnossa. Jos perusasiat eivät ole kunnossa niin N-sensori, vaikka olisi kuinka hyvä laite, ei voi korjata tilannetta.  
 
