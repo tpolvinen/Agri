@@ -31,15 +31,17 @@ Jos haluan tietää, millaisia IoT-teknologiasovelluksia kasvintuotannossa on, h
         * Millaista tutkimusta tehdään?
 
 
-
+##Tutkimuskysymykset
 
 Millaista tutkimusta löytyy?
 	-millaiset tutkimuskohteet ovat eniten esillä?
 	-millaisia teknologiasovelluksia on esillä?
-	-mikä näyttää olevan löydetyn tutkimuksen suunta ja luonne?
+	-mikä näyttää olevan löydetyn tutkimuksen kehityksen suunta ja luonne?
 
-Millaisia tuotteita tai ratkaisuita löytyy?
-	-sama kuin edellä, lisäksi:
+Millaisia tuotteita (tai muita ratkaisuita) löytyy?
+	-millaiset tuotteet ovat eniten esillä?
+    -millaisia teknologiasovelluksia tuotteissa on esillä?
+    -mikä näyttää olevan löydettyjen tuotteiden yleinen kehityksen suunta ja luonne?
 	-millaiset ratkaisut ovat päässeet tuotteiksi asti?
 		-per kasvihuone, pelto, puutarha
 		-miten kasvihuone-, pelto- ja puutarhatuotannon erot vaikuttavat ratkaisuihin?
