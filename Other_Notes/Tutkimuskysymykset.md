@@ -2,7 +2,7 @@
 title: 'Tutkimuskysymykset.md'
 author: Tatu Polvinen
 date: '2018-03-23T10:40:00+03:00'
-modified: '2018-03-23T11:00:00+03:00'
+modified: '2018-03-23T12:03:00+03:00'
 ...
 
 #Tutkimuskysymykset opinnäytetyöhön "IoT-teknologioiden sovellukset kasvintuotannossa"
