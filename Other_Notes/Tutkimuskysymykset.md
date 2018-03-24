@@ -10,7 +10,7 @@ modified: '2018-03-23T12:03:00+03:00'
 ##Pohdintaa
 
 Jos haluan tietää, millaisia IoT-teknologiasovelluksia kasvintuotannossa on, haluan tietää:
-- millaista kasvintuotantoa on ja miten ne vaikuttavat teknologiasovelluksiin
+- millaista kasvintuotantoa on ja miten tuotannon piirteet vaikuttavat teknologiasovelluksiin
 - millaisia teknologiasovelluksia kentällä on tällä hetkellä
 - millaista tutkimusta aiheesta on julkaistu tai ollaan tekemässä
 - millaiset toimijat edistävät näiden teknologiasovelluksien kehitystä
