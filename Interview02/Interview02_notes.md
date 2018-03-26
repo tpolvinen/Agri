@@ -3,6 +3,7 @@ Haastattelu
 Katja Alhonoja
 Yara
 Bertil Jungin aukio 9
+Espoo
 
 23.11.2017
 klo 12:31 + 57.57
