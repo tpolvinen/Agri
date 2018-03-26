@@ -14,7 +14,7 @@ on tutustuttaa maatalouteen tai kasvintuotantoon perehtymätön lukija IoT-tekno
 ## Pohdintaa
 
 Jos haluan tietää, millaisia IoT-teknologiasovelluksia kasvintuotannossa on, haluan tietää:
-- millaista kasvintuotantoa on ja miten ne vaikuttavat teknologiasovelluksiin
+- millaista kasvintuotantoa on ja miten tuotannon piirteet vaikuttavat teknologiasovelluksiin
 - millaisia teknologiasovelluksia kentällä on tällä hetkellä
 - millaista tutkimusta aiheesta on julkaistu tai ollaan tekemässä
 - millaiset toimijat edistävät näiden teknologiasovelluksien kehitystä
