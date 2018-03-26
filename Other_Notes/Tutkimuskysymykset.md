@@ -2,12 +2,16 @@
 title: 'Tutkimuskysymykset.md'
 author: Tatu Polvinen
 date: '2018-03-23T10:40:00+03:00'
-modified: '2018-03-23T12:03:00+03:00'
+modified: '2018-03-26T09:55:00+03:00'
 ...
 
-#Tutkimuskysymykset opinnäytetyöhön "IoT-teknologioiden sovellukset kasvintuotannossa"
+# Tutkimuskysymykset opinnäytetyöhön "IoT-teknologioiden sovellukset kasvintuotannossa"
 
-##Pohdintaa
+## Katsauksen tarkoitus
+
+on tutustuttaa maatalouteen tai kasvintuotantoon perehtymätön lukija IoT-teknologioiden mahdollisuuksiin kasvintuotannossa sekä alan keskeisiin toimijoihin. Lisäksi katsaus pyrkii tuomaan esiin uusien teknologioiden mahdollistamia liiketoimintamalleja alan toimijoille sekä verkostoimaan erilaisista, toisiaan täydentävistä lähtökohdista kasvintuotantoa lähestyviä toimijoita.
+
+## Pohdintaa
 
 Jos haluan tietää, millaisia IoT-teknologiasovelluksia kasvintuotannossa on, haluan tietää:
 - millaista kasvintuotantoa on ja miten ne vaikuttavat teknologiasovelluksiin
@@ -15,7 +19,7 @@ Jos haluan tietää, millaisia IoT-teknologiasovelluksia kasvintuotannossa on, h
 - millaista tutkimusta aiheesta on julkaistu tai ollaan tekemässä
 - millaiset toimijat edistävät näiden teknologiasovelluksien kehitystä
 - millaisia ennusteita tulevasta on
-- mitä hyötyä ja haitta näistä teknologiasovelluksista on
+- mitä hyötyä ja haittaa näistä teknologiasovelluksista on
 - millainen motiivi käyttöönotossa on
 	
     Millaista kasvintuotantoa on? Pelto, kasvihuone, puutarha. (Muita?)
@@ -31,7 +35,7 @@ Jos haluan tietää, millaisia IoT-teknologiasovelluksia kasvintuotannossa on, h
         * Millaista tutkimusta tehdään?
 
 
-##Tutkimuskysymykset
+## Tutkimuskysymykset
 
 Millaista tutkimusta löytyy?
 	-millaiset tutkimuskohteet ovat eniten esillä?
