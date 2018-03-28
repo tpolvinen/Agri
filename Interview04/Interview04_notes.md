@@ -68,5 +68,25 @@ Jossakin määrin on menty eteenpäin sinä aikana kun olen alalla ollut. Ei se 
 
 [00:27:20] Se on sellainen mistä on puhuttu aika paljon että mentäisiin vaikka mallasohraan tai jos jossakin vaiheessa päästään viemään suomalaista laatukauraa viemään Kiinaan, johonkin tällaiseen erikoistuotantoon se olisi kanssa mahdollista. Minä näen isona periaatteellisena ongelmana ennen kuin tällaista voitaisiin tehdä niin pitäisi tapahtua aika iso ajattelutavan muutos viljelijöillä, elintarviketeollisuudella, elintarvikevalvonnassa, nämä kaikki laivat ovat hitaita kääntymään kokonaisuudessaan. Tietenkin pystytään tekemään että joku viljelijä tekee lähiruokaa ja voi jollakin tavalla osoittaa asiakkaalle että tämä on näin ekologisesti, terveellisesti jne. viljeltyä, mutta se että se siitä leviää laajempaan käyttöön niin siinä kestää vähintäänkin aikaa eikä se välttämättä koskaan tapahdu jos on jokin sellainen innovaatio joka ei vaan ota tuulta purjeisiinsa. Siis teknologia on mahdollistaja mutta liiketoiminta ja käytettävyys ja muut tälläiset lopulta sanovat mikä on se mitä todella käytetään. Betamax oli parempi kuin VHS ja DVD antoi huomattavia etuja, nyt on Blu-ray mutta sen antama etu ei ole läheskään niin suuri kuin DVD verrattuna VHSään. [pari lausetta leffaformaateista jutustelua]
 
-[00:29:43] Teknologiaratkaisuista: esimerkiksi Valtralla on automaattiohjaus, telemetriaominaisuudet kaikissa uusissa traktoreissa,  ISOBUSin kautta 
+[00:29:43] Teknologiaratkaisuista: esimerkiksi Valtralla on automaattiohjaus, telemetriaominaisuudet kaikissa uusissa traktoreissa,  ISOBUSin kautta työkoneohjaus niin millaisia ovat sinulle näkyvimmät teknologiat per IoT?
+
+[00:30:16] En osaa vastata, en ole niin paljoa teollisuuden kanssa tekemisissä. Varmasti tutkijat jotka ovat myös viljelijöitä osaavat sanoa paremmin.
+
+[00:30:39] Kasvihuoneratkaisut, kasvitehtaat ja kerrosviljely on ollut vahvasti esillä viime vuosina, oletko näihin törmännyt?
+
+[00:30:59] Edelleen aika kuumaa kamaa, mutta en itse ole sitä juuri seurannut vaan odotan sitä että jokin jossa ei kasvateta esimerkiksi salaattia lyö itsensä läpi. Oma arvaukseni on, että siellä kasvatetaan korkean hinnan nopeasti kasvavaa kamaa, esimerkiksi salaattia jota voidaan markkinoida jonain steriilinä erikoissalaattina ja ottaa siitä vähän isompaa hintaa. Tämä on ihan kliffaa teknologiaa, mutta et sää salaatilla maailmaa ruoki.
+
+[00:31:49] Korkean marginaalin erikoiskasvit näyttävät olevan se juttu.
+
+[00:32:02] Onhan ollut kaiken maailman virityksiä esimerkiksi konttiviljelmistä ja muista mutta sitten mennään erikoistapaukseen, voidaan konteilla tuoda viljelmiä katastrofialueille ja sitä kautta saada sinne paikallista tuoretta tavaraa mikäli sinne on vaikea ylipäätänsä ja ei voida taata esimerkiksi kylmäketjua tai muuta. Sellaiseen se onnistuu mutta...[huoh, ajautuu pois]
+
+[00:32:42] Olen katsonut MITn Food Computeria jossa on saatavilla kasvatusreseptejä, luuletko että tällainen voisi olla automatisoituun kasvihuonetuotantoon lisäarvoa tuottava?
+
+[00:33:12] Kasvihuonetuotanto on monilla aloilla hirveän automatisoitua, mutta kyllä sielläkin on varmaan optimointivaraa. Enemmänkin itse katselen saadaanko missä vaiheessa, vai saadaanko missään vaiheessa, peruselintarvikkeita olisi kannattavaa jossakin tommoisessa kerrosviljelmässä tai muussa tuottaa. Tai jos joku jossakin vaiheessa onnistuu tuottamaan viljaa tai perunoita kerrosviljelmässä silleen että se on taloudellisesti kannattavaa niin sit on semmonen että voi vaakakuppi kääntyä. Peruna saattaisi olla sellainen ehkä mitä voisi tuollaisessa tehdä kun sitä viljellään näissä mullattomilla menetelmillä että on kosteuskaappeja näitä hydropooninen (hydrofoninen) vesiviljely. Vesiviljelynä ja muuna. Olen ymmärtänyt että perunan osassa se on enemmän siemenperunaviljelyä ja muuta, mutta jos jossakin vaiheessa se saadaan jossakin vaiheessa sillä saadaan kuluttajaperunaa kasvatettua niin se on taloudellisesti kannattavaa niin sitten tulee jännät paikat. Sitten voidaan katsoa mihin päin se vaakakuppi alkaa kallistumaan. Onhan niitä sitten muitakin, mutta tämä menee hifistely- ja erikoisjutuiksi että olen pitkään odottanut missä vaiheessa Suomessa aletaan kasvattamaan mansikoita kasvuhuoneessa (kasvihuoneessa) ja innostuuko porukka siitä että saadaan tuoreita suomalaisia mansikoita tammikuussa.
+
+[00:35:23] Ehkä saa, mutta ei taloudellisesti kannattavasti?
+
+[00:35:26] Tällä hetkellä en ole pahemmin nähnyt, mansikoita saa kyllä tammikuussa mutta ne on jostain Espanjasta rahdattuja.
+
+[00:35:34] Vaakakupin kääntymisestä, kun ajatellaan IoTtä ja digitalisaatiota niin miltä näyttää maaseudun tulevaisuus? Vaikka 10 tai 20 vuoden kuluttua? Jos tämä homma onnistuu, saadaan tuotekehitys ja integraatiot toimimaan?
    
