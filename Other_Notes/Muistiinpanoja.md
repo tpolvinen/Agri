@@ -55,3 +55,60 @@ Same Deutz–Fahr Deutschland GmbH
 
 
 https://www.veristech.com/the-sensors/iscan
+
+---------------------------------------------------------------------------------------------------
+
+Haettu Passport-tietokannasta 2018-03-30 hakusanoilla "internet of things"
+
+Internet Of Things (iot): From Everyday Items To Conduits Of Digital Commerce
+
+Digital Innovators: New Conduits of Commerce in the Internet of Things Era
+
+---------------------------------------------------------------------------------------------------
+
+Haettu Passport-tietokannasta 2018-03-30 hakusanoilla "iot"
+
+5G: Opportunities and Challenges Offered by the 5G Era in Mobile Internet Connectivity
+
+Population Change as a Megatrend Driver
+
+Technology as a Megatrend Driver
+
+Narrowband IoT: How it Will Power Connected Living of the Future
+
+---------------------------------------------------------------------------------------------------
+
+Haettu Passport-tietokannasta 2018-03-30 hakusanoilla "smart farming"
+
+Nope.
+
+---------------------------------------------------------------------------------------------------
+
+Haettu ProQuest-tietokannasta 2018-03-30 hakusanoilla "smart farming"
+
+---------------------------------------------------------------------------------------------------
+
+Haettu Doria-tietokannasta 2018-03-30 hakusanoilla "iot"
+
+Information Security In The Internet Of Things – A Systematic Literature Review  Jouni Pänkäläinen
+
+Open source in Industrial Internet of Things: A systematic literature review  Petra Helmiö
+
+Haettu Doria-tietokannasta 2018-03-30 hakusanoilla "kasvituotanto iot"
+Haettu Doria-tietokannasta 2018-03-30 hakusanoilla "kasvihuone iot"
+Haettu Doria-tietokannasta 2018-03-30 hakusanoilla "iot maatalous"
+Nope.
+
+---------------------------------------------------------------------------------------------------
+
+Haettu Elsevier ScienceDirect Freedom Collection -tietokannasta 2018-03-30 hakusanoilla "IoT agriculture" Publication title -asetuksella "Computers and Electronics in Agriculture"
+
+Review of IoT applications in agro-industrial and environmental fields
+
+A review on the practice of big data analysis in agriculture
+
+Wireless sensor networks for agriculture: The state-of-the-art in practice and future challenges
+
+Sensing-cloud: Leveraging the benefits for agricultural applications
+
+...
