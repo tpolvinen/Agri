@@ -338,4 +338,39 @@ Weed Spotting By Drone
 
 ---------------------------------------------------------------------------------------------------
 
-Haettu DART -tietokannasta 2018-04-02 hakusanoilla agriculture AND "internet of things"
+Haettu DART -tietokannasta 2018-04-02 hakusanoilla agriculture "internet of things"
+
+Nope. Luultavasti en vaan osaa hakea?
+
+---------------------------------------------------------------------------------------------------
+Haettu EBSCOhost -tietokannasta 2018-04-02 hakusanoilla agriculture AND "internet of things"
+Academic Search Elite, GreenFILE, Library, Information Science & Technology Abstracts, eBook Collection (EBSCOhost)
+
+From the factory to the fields
+
+---------------------------------------------------------------------------------------------------
+
+Haettu SAGE Journals Online (Sage Premier) -tietokannasta hakusanoilla agriculture "internet of things" -hakutuloksissa näyttää Results: 1 – 20 of 85 for [All agriculture] AND [All "internet of things"]
+
+Enterprise-Oriented IoT Name Service for Agricultural Product Supply Chain Management
+
+Haettu SAGE Journals Online (Sage Premier) -tietokannasta
+"Internet of Things" OR "Web of Things" 
+"Agricultural industry" OR agribusiness OR "Agricultural products" OR agriculture OR agroindustry OR "Biological production" OR biomonitoring OR cereals OR climate OR crop OR drones OR drought OR "Environmental monitoring" OR "Equipment status" OR farm OR farming OR "Feed production" OR fertilizers OR flooding OR "Food chain" OR "Food production" OR forecast OR freeze OR fruit OR "Fruit storage" OR grassland OR greenhouses OR harvesting OR heating OR horticulture OR irrigation OR landslide OR pest OR plant OR "plant factory" OR "Precision Agriculture" OR "Product Traceability" OR seed OR "Smart Farming" OR vegetable OR "vertical farming" OR waste OR water OR weather
+
+Results: 1 – 20 of 675 for [[All "internet of things"] OR [All "web of things"]] AND [[All "agricultural industry"] OR [All agribusiness] OR [All "agricultural products"] OR [All agriculture] OR [All agroindustry] OR [All "biological production"] OR [All biomonitoring] OR [All cereals] OR [All climate] OR [All crop] OR [All drones] OR [All drought] OR [All "environmental monitoring"] OR [All "equipment status"] OR [All farm] OR [All farming] OR [All "feed production"] OR [All fertilizers] OR [All flooding] OR [All "food chain"] OR [All "food production"] OR [All forecast] OR [All freeze] OR [All fruit] OR [All "fruit storage"] OR [All grassland] OR [All greenhouses] OR [All harvesting] OR [All heating] OR [All horticulture] OR [All irrigation] OR [All landslide] OR [All pest] OR [All plant] OR [All "plant factory"] OR [All "precision agriculture"] OR [All "product traceability"] OR [All seed] OR [All "smart farming"] OR [All vegetable] OR [All "vertical farming"] OR [All waste] OR [All water] OR [All weather]] Since 2005
+
+The Internet of Robotic Things: A review of concept, added value and applications
+
+
+
+- Hakutuloksista käytiin läpi 300 ensimmäistä 675:stä. Niistä valittiin aikaisempien kokemusten ja luettujen kirjallisuuskatsausten perusteella sellaiset tekstit, joiden voitiin olettaa käsittelevän teknologioita, tutkimusta tms. jotka liittyvät AIoT:hen ja tai kasvintuotantoon.
+- Valituista teksteistä luettiin abstrakti ja silmäiltiin teksti.
+- Tekstistä haettiin hakutoiminnolla avainsanoja "internet of things","iot", "agriculture", "plant", "farm", "greenhouse".
+- Avainsanojen esiintyessä useasti, mielellään samoissa lauseissa tai kappaleissa sekä lopulta tekstin ollessa oman arvion mukaan merkityksellinen opinnäytetyölle, teksti tallennettiin jatkokäsittelyä varten (Evernoteen).
+- Tarkasteltiin useita tekstejä, joissa mainittiin Internet of Things ja earthquake, mutta joilla ei ollut mitään tekemistä kasvintuotannon kanssa. Tämän takia seuraavien hakujen hakutermeistä poistettiin sana landslide.
+
+---------------------------------------------------------------------------------------------------
+
+http://ezproxy.haaga-helia.fi:2048/login?url=http://www.ieee.org/ieeexplore
+http://oatd.org/?userLang=en
