@@ -7,11 +7,11 @@ Kaikki keksinnöt: https://www.agritechnica.com/en/innovation-award/all-submitte
 
 MARS - Mobile Agricultural Robot Swarms
 AGCO GmbH – Fendt
-	"There has been much discussion on whether the trend in farm machinery manufacturing will continue towards ever bigger and more powerful individual machines, or to “swarm” solutions, that is, many small machines.
+	"There has been much discussion on whether the trend in farm machinery manufacturing will continue towards ever bigger and more powerful individual machines, or to "swarm" solutions, that is, many small machines.
 
 	The Fendt MARS System is the first marketable application of swarm technology in agricultural engineering, and thus presents a completely new solution. The system relies on a number of small, auto-steered and electric units that are deployed for maize drilling. 
 
-	The autonomous units are filled with seed by an operator, who also monitors their operation and who hauls them to the field on a trailer. Operating at very low noise levels and without lights at night, these units are suitable for drilling fields near villages and homes 24 hours a day. Manufactured to a cost-saving concept and weighing as little as 40kg each, the swarm units coordinate their work in the field, reduce compaction and minimize the hazard that big machines pose to humans and the environment. The robots log all job data into the “Cloud”, and communicate with each other and the operator."
+	The autonomous units are filled with seed by an operator, who also monitors their operation and who hauls them to the field on a trailer. Operating at very low noise levels and without lights at night, these units are suitable for drilling fields near villages and homes 24 hours a day. Manufactured to a cost-saving concept and weighing as little as 40kg each, the swarm units coordinate their work in the field, reduce compaction and minimize the hazard that big machines pose to humans and the environment. The robots log all job data into the "Cloud", and communicate with each other and the operator."
 
 Beacon+GPS+Sigfox – Fliegl COUNTER SX / Pöttinger PÖTPRO Guide
 Fliegl Agrartechnik GmbH & Pöttinger Landtechnik GmbH
@@ -112,3 +112,39 @@ Wireless sensor networks for agriculture: The state-of-the-art in practice and f
 Sensing-cloud: Leveraging the benefits for agricultural applications
 
 ...
+
+---------------------------------------------------------------------------------------------------
+Review of IoT applications in agro-industrial and environmental fields:
+
+The next step was to define search terms and a consistent procedure to seek scientific and technical documentation in the digital libraries and search engines. To define the search terms, a set of keywords was selected from the research questions to create two groups of words which are shown in Table 2. Each group contained consolidated expressions with synonyms or terms with related meaning. Group 1 included words associated with the Internet of Things, while Group 2 contained a set of terms related to the agro-industry and environment. Logical operators supported by the advanced search of digital libraries were used to construct search strings, based on the two research questions, combining terms from Groups 1 and 2 of Table 2. The general structure of the search queries that were applied to the information sources is presented in Table 3.
+
+In order to ensure the quality of papers, only those that passed the following criteria were considered in the reviewing process.
+ Documents published in peer-reviewed conferences, peerreviewed journals, papers from computer science or engineering organizations, patents, or technical reports.
+ Documents published in English.
+ Documents published between 2006 and 2016 (both years inclusive).
+
+
+Table 1
+Information sources used for the search phase.
+Source Type URL
+IEEE Xplore Digital Library http://ieeexplore.ieee.org/Xplore/home.jsp
+Science Direct Digital Library http://www.sciencedirect.com/
+ACM Digital Library Digital Library http://dl.acm.org/dl.cfm
+Citeseer library Digital Library http://citeseer.ist.psu.edu/advanced_search
+Sensors Digital Library http://www.mdpi.com/journal/sensors
+Scopus Search Engine http://www.scopus.com/
+Microsoft Academic Search Search Engine http://academic.research.microsoft.com/
+Microsoft Academic Search Engine https://academic.microsoft.com/
+Google Scholar Search Engine https://scholar.google.com/
+
+
+Table 2
+Words used for the search query.
+Group 1:
+Internet of Things, Web of Things.
+Group 2:
+Agricultural industry, Agricultural products, Agriculture, Agribusiness, Agroindustry, Air pollution, Apiculture, Aquaculture, Product Traceability, Smart Agriculture, Greenhouses, Harvesting, Horticulture, Husbandry, Irrigation, Livestock, Climate, Feeding, Fertilizers, Forestry, Weather, Animal production, Animal sensing, Animal tracking, Animal trade control, Avalanche, Bio-fuel, Biological production, Bio-monitoring, Breeding, Cereals, Crop, Dairy, Drones, Drought, Earthquake sensor, Environmental monitoring, Equipment status, Farm, Farming, Feed production, Fish, Fishery, Flooding, Food chain, Food production, Forecast, Forest fire, Freeze, Fruit, Fruit storage, Grassland, Heating, Landslide, Meat, Pest, Plant, Poultry, Seed, Vegetable, Waste, Water.
+
+Table 3
+Algorithm: search query-(Group 1) AND (Group 2).
+TITLE-ABS-KEY ("Internet of Things" OR "Web of Things") AND ("Agricultural industry" OR "Agricultural products" OR agriculture OR agribusiness OR agroindustry OR "Air pollution" OR "Apiculture" OR aquaculture OR "Product Traceability" OR greenhouses OR harvesting OR horticulture OR husbandry OR irrigation OR livestock OR climate OR feeding OR fertilizers OR forestry OR weather OR "Animal production" OR "Animal sensing" OR "Animal tracking" OR "Animal trade control" OR avalanche OR biofuel OR "Biological production" OR biomonitoring OR breeding OR cereals OR crop OR dairy OR drones OR drought OR "Earthquake sensor" OR "Environmental monitoring" OR "Equipment status" OR farm OR farming OR "Feed production" OR fish OR fishery OR flooding OR "Food chain" OR "Food production" OR forecast OR "Forest fire" OR freeze OR fruit OR "Fruit storage" OR grassland OR heating OR landslide OR meat OR pest OR plant OR poultry OR seed OR vegetable OR waste OR water
