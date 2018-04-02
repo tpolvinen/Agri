@@ -350,7 +350,7 @@ From the factory to the fields
 
 ---------------------------------------------------------------------------------------------------
 
-Haettu SAGE Journals Online (Sage Premier) -tietokannasta hakusanoilla agriculture "internet of things" -hakutuloksissa näyttää Results: 1 – 20 of 85 for [All agriculture] AND [All "internet of things"]
+Haettu SAGE Journals Online (Sage Premier) -tietokannasta 2018-04-02 hakusanoilla agriculture "internet of things" -hakutuloksissa näyttää Results: 1 – 20 of 85 for [All agriculture] AND [All "internet of things"]
 
 Enterprise-Oriented IoT Name Service for Agricultural Product Supply Chain Management
 
@@ -363,7 +363,7 @@ Results: 1 – 20 of 675 for [[All "internet of things"] OR [All "web of things"
 The Internet of Robotic Things: A review of concept, added value and applications
 
 
-
+2018-04-02
 - Hakutuloksista käytiin läpi 300 ensimmäistä 675:stä. Niistä valittiin aikaisempien kokemusten ja luettujen kirjallisuuskatsausten perusteella sellaiset tekstit, joiden voitiin olettaa käsittelevän teknologioita, tutkimusta tms. jotka liittyvät AIoT:hen ja tai kasvintuotantoon.
 - Valituista teksteistä luettiin abstrakti ja silmäiltiin teksti.
 - Tekstistä haettiin hakutoiminnolla avainsanoja "internet of things","iot", "agriculture", "plant", "farm", "greenhouse".
@@ -373,4 +373,11 @@ The Internet of Robotic Things: A review of concept, added value and application
 ---------------------------------------------------------------------------------------------------
 
 http://ezproxy.haaga-helia.fi:2048/login?url=http://www.ieee.org/ieeexplore
+
+Haettu IEEE Xplore - IEEE/IEE Electronic Library -tietokannasta 2018-04-02
+"Internet of Things" OR "Web of Things" 
+"Agricultural industry" OR agribusiness OR "Agricultural products" OR agriculture OR agroindustry OR "Biological production" OR biomonitoring OR cereals OR climate OR crop OR drones OR drought OR "Environmental monitoring" OR "Equipment status" OR farm OR farming OR "Feed production" OR fertilizers OR flooding OR "Food chain" OR "Food production" OR forecast OR freeze OR fruit OR "Fruit storage" OR grassland OR greenhouses OR harvesting OR heating OR horticulture OR irrigation OR pest OR plant OR "plant factory" OR "Precision Agriculture" OR "Product Traceability" OR seed OR "Smart Farming" OR vegetable OR "vertical farming" OR waste OR water OR weather
+
+Nope, vähennetään hakusanoja -huomenna.
+---------------------------------------------------------------------------------------------------
 http://oatd.org/?userLang=en
