@@ -124,8 +124,8 @@ In order to ensure the quality of papers, only those that passed the following c
  Documents published between 2006 and 2016 (both years inclusive).
 
 
-Table 1
-Information sources used for the search phase.
+Table 1  Information sources used for the search phase.
+
 Source Type URL
 IEEE Xplore Digital Library http://ieeexplore.ieee.org/Xplore/home.jsp
 Science Direct Digital Library http://www.sciencedirect.com/
@@ -138,13 +138,114 @@ Microsoft Academic Search Engine https://academic.microsoft.com/
 Google Scholar Search Engine https://scholar.google.com/
 
 
-Table 2
-Words used for the search query.
+Table 2  Words used for the search query.
+
 Group 1:
 Internet of Things, Web of Things.
 Group 2:
 Agricultural industry, Agricultural products, Agriculture, Agribusiness, Agroindustry, Air pollution, Apiculture, Aquaculture, Product Traceability, Smart Agriculture, Greenhouses, Harvesting, Horticulture, Husbandry, Irrigation, Livestock, Climate, Feeding, Fertilizers, Forestry, Weather, Animal production, Animal sensing, Animal tracking, Animal trade control, Avalanche, Bio-fuel, Biological production, Bio-monitoring, Breeding, Cereals, Crop, Dairy, Drones, Drought, Earthquake sensor, Environmental monitoring, Equipment status, Farm, Farming, Feed production, Fish, Fishery, Flooding, Food chain, Food production, Forecast, Forest fire, Freeze, Fruit, Fruit storage, Grassland, Heating, Landslide, Meat, Pest, Plant, Poultry, Seed, Vegetable, Waste, Water.
 
-Table 3
-Algorithm: search query-(Group 1) AND (Group 2).
-TITLE-ABS-KEY ("Internet of Things" OR "Web of Things") AND ("Agricultural industry" OR "Agricultural products" OR agriculture OR agribusiness OR agroindustry OR "Air pollution" OR "Apiculture" OR aquaculture OR "Product Traceability" OR greenhouses OR harvesting OR horticulture OR husbandry OR irrigation OR livestock OR climate OR feeding OR fertilizers OR forestry OR weather OR "Animal production" OR "Animal sensing" OR "Animal tracking" OR "Animal trade control" OR avalanche OR biofuel OR "Biological production" OR biomonitoring OR breeding OR cereals OR crop OR dairy OR drones OR drought OR "Earthquake sensor" OR "Environmental monitoring" OR "Equipment status" OR farm OR farming OR "Feed production" OR fish OR fishery OR flooding OR "Food chain" OR "Food production" OR forecast OR "Forest fire" OR freeze OR fruit OR "Fruit storage" OR grassland OR heating OR landslide OR meat OR pest OR plant OR poultry OR seed OR vegetable OR waste OR water
+Table 3  Algorithm: search query-(Group 1) AND (Group 2).
+
+TITLE-ABS-KEY 
+	(
+	"Internet of Things" 
+	OR "Web of Things"
+	) 
+AND 
+	(
+	"Agricultural industry" 
+	OR "Agricultural products" 
+	OR agriculture 
+	OR agribusiness 
+	OR agroindustry 
+	OR "Air pollution" 
+	OR "Apiculture" 
+	OR aquaculture 
+	OR "Product Traceability" 
+	OR greenhouses 
+	OR harvesting 
+	OR horticulture 
+	OR husbandry 
+	OR irrigation 
+	OR livestock 
+	OR climate 
+	OR feeding 
+	OR fertilizers 
+	OR forestry OR weather 
+	OR "Animal production" 
+	OR "Animal sensing" 
+	OR "Animal tracking" 
+	OR "Animal trade control" 
+	OR avalanche 
+	OR biofuel 
+	OR "Biological production" 
+	OR biomonitoring 
+	OR breeding 
+	OR cereals 
+	OR crop 
+	OR dairy 
+	OR drones 
+	OR drought 
+	OR "Earthquake sensor" 
+	OR "Environmental monitoring" 
+	OR "Equipment status" 
+	OR farm 
+	OR farming 
+	OR "Feed production" 
+	OR fish 
+	OR fishery 
+	OR flooding 
+	OR "Food chain" 
+	OR "Food production" 
+	OR forecast 
+	OR "Forest fire" 
+	OR freeze 
+	OR fruit 
+	OR "Fruit storage" 
+	OR grassland 
+	OR heating 
+	OR landslide 
+	OR meat 
+	OR pest 
+	OR plant 
+	OR poultry 
+	OR seed 
+	OR vegetable 
+	OR waste 
+	OR water
+	)
+
+The protocol described in the previous section was used to
+search, select and evaluate preliminary papers. For the search process,
+the query defined in Table 3 was passed to information
+sources given in Table 1. The search was limited to title, abstract
+and keywords.
+
+In order to ensure the quality of papers, only those that passed the following criteria were considered in the reviewing process.
+
+* Documents published in peer-reviewed conferences, peerreviewed
+journals, papers from computer science or engineering
+organizations, patents, or technical reports.
+* Documents published in English.
+* Documents published between 2006 and 2016 (both years
+inclusive).
+
+If the main topic of a given paper was irrelevant or if it was outside the scope of this study, it was deleted. Then, a selection criterion was applied in order to reduce the number of papers found
+during the search and to get a small number of high-quality sources that could be used to answer the research questions. This involved using inclusion criteria (IC) and quality criteria (QC), which were defined in a three-phase process.
+
+* IC based on abstracts: in this phase, authors discarded papers found in the search stage based on the information provided in their abstracts. Papers that satisfied the first inclusion criterion were kept for further processing, i.e. papers that discussed IoT solutions applied to agro-industry and environment. Papers with little relevant information in their abstract were temporarily kept in the list and were processed in the next stage. It is important to highlight that quality criteria were not considered in this phase. 
+* IC based on full reading: in this phase, papers that did not address the search terms shown in Table 2 were removed. This means that even though those papers contained the search terms in their abstract, they only represented minor aspects of them.
+* IC based on quality analysis: in this phase, a quality analysis was applied to remaining papers and those that did not comply any of the following four quality criteria (QC) were discarded:
+* * QC1: Does the study present a comprehensive solution of IoT
+for agro-industry or environment?
+* * QC2: Does the paper show details of the infrastructure and/
+or technologies used to implement the proposed solution?
+* * QC3: Does the paper present a state of the art or related
+work?
+* * QC4: Does the paper present an analysis of the results? The next stage of the SLR was data mining and synthesis. The goal here was to extract the information needed to answer the
+research questions in an objective manner.
+
+
+---------------------------------------------------------------------------------------------------
+
