@@ -7,31 +7,31 @@ Kaikki keksinnöt: https://www.agritechnica.com/en/innovation-award/all-submitte
 
 MARS - Mobile Agricultural Robot Swarms
 AGCO GmbH – Fendt
-	"There has been much discussion on whether the trend in farm machinery manufacturing will continue towards ever bigger and more powerful individual machines, or to "swarm" solutions, that is, many small machines.
+	There has been much discussion on whether the trend in farm machinery manufacturing will continue towards ever bigger and more powerful individual machines, or to swarm solutions, that is, many small machines.
 
 	The Fendt MARS System is the first marketable application of swarm technology in agricultural engineering, and thus presents a completely new solution. The system relies on a number of small, auto-steered and electric units that are deployed for maize drilling. 
 
-	The autonomous units are filled with seed by an operator, who also monitors their operation and who hauls them to the field on a trailer. Operating at very low noise levels and without lights at night, these units are suitable for drilling fields near villages and homes 24 hours a day. Manufactured to a cost-saving concept and weighing as little as 40kg each, the swarm units coordinate their work in the field, reduce compaction and minimize the hazard that big machines pose to humans and the environment. The robots log all job data into the "Cloud", and communicate with each other and the operator."
+	The autonomous units are filled with seed by an operator, who also monitors their operation and who hauls them to the field on a trailer. Operating at very low noise levels and without lights at night, these units are suitable for drilling fields near villages and homes 24 hours a day. Manufactured to a cost-saving concept and weighing as little as 40kg each, the swarm units coordinate their work in the field, reduce compaction and minimize the hazard that big machines pose to humans and the environment. The robots log all job data into the Cloud, and communicate with each other and the operator.
 
 Beacon+GPS+Sigfox – Fliegl COUNTER SX / Pöttinger PÖTPRO Guide
 Fliegl Agrartechnik GmbH & Pöttinger Landtechnik GmbH
 
-	"So that food manufacturers can verify the route the product takes from the field to the consumer in accordance with the EU regulations, for many years now Fliegl has focused on beacons, which in their original form are small, inexpensive Bluetooth transmitters for machine recognition. With Fliegl COUNTER SX, the beacon technology has been considerably expanded with additional functionalities, enabling an inexpensive, flexible entry into smart farming technologies with major benefits. 
+	So that food manufacturers can verify the route the product takes from the field to the consumer in accordance with the EU regulations, for many years now Fliegl has focused on beacons, which in their original form are small, inexpensive Bluetooth transmitters for machine recognition. With Fliegl COUNTER SX, the beacon technology has been considerably expanded with additional functionalities, enabling an inexpensive, flexible entry into smart farming technologies with major benefits. 
 
 	The COUNTER SX uses the innovative radio technology Sigfox, 3D sensors and GPS, that go beyond previous functionality. With the data radio network, Sigfox is a very inexpensive continuous Internet connection, and therefore provides automatic communication between the machines and the farm independently of mobile networks. It records movements of the machines through the intelligent evaluation of the 3D acceleration and tilt sensors integrated in the beacon. Then it analyses them with corresponding algorithms of a broad range of processes, assigns them and saves and transmits the information collected. 
 
-	Thanks to decreasing unit costs and simplified application integration, beacon technology is recommended for use in agricultural applications. As a universal system, beacons can close a broad range of information and documentation gaps. When a grubber is used, it can, for example, recognize the state of work, transport or break, enabling it to determine detailed operating times. When pressing round bales, it can also record the bale output and the placement location of the bales. However, it can also be used for other applications like theft protection, tracking or temperature monitoring."
+	Thanks to decreasing unit costs and simplified application integration, beacon technology is recommended for use in agricultural applications. As a universal system, beacons can close a broad range of information and documentation gaps. When a grubber is used, it can, for example, recognize the state of work, transport or break, enabling it to determine detailed operating times. When pressing round bales, it can also record the bale output and the placement location of the bales. However, it can also be used for other applications like theft protection, tracking or temperature monitoring.
 
 Farmdok – automation of agricultural recordings with smartphones
 Farmdok GmbH
 
-	"The recording requirements for agricultural operations continue to increase. These present farmers with new challenges, however the data that is documented and processed can also be used to improve company management and operational development. It is always necessary to have complete and plausible data, and the easier the data collection system is to operate, the more likely it is that detailed and accurate information is recorded.
+	The recording requirements for agricultural operations continue to increase. These present farmers with new challenges, however the data that is documented and processed can also be used to improve company management and operational development. It is always necessary to have complete and plausible data, and the easier the data collection system is to operate, the more likely it is that detailed and accurate information is recorded.
 
 	Farmdok is agricultural software for the mobile and automatic documentation of agricultural data in the field with a smartphone and/or tablet. The innovative sample analysis of cultivation and GPS data enables virtually complete automation of data acquisition. The Farmdok TaskPrediction algorithm measures parameters including operating materials, quantities and machines used. The data to be collected is automatically proposed at the start of each job; as a high probability of the planned measures can be achieved at this point thanks to comprehensive data analysis.
 
 	The WorkCognition algorithm is used for the reliable detection and determination of the cultivated area using a far-reaching driving pattern analysis without the need for geo fences. This enables road and field work to be differentiated, and applied loads to be counted. 
 
-	The farmer benefits from time saved and more convenient recording with minimal operating effort. The easy-to-operate system requires no additional hardware, and therefore enables an inexpensive entry into farm record digitization for farmers, machinery rings or contractors."
+	The farmer benefits from time saved and more convenient recording with minimal operating effort. The easy-to-operate system requires no additional hardware, and therefore enables an inexpensive entry into farm record digitization for farmers, machinery rings or contractors.
 
 agrirouter
 
@@ -47,18 +47,18 @@ PÖTTINGER Landtechnik GmbH,
 Rauch Landmaschinenfabrik GmbH, 
 Same Deutz–Fahr Deutschland GmbH
 
-	"In the course of additional digitization of agriculture, the majority of large companies try to ensure customer loyalty with corresponding proprietary solutions. In contrast to this, small and medium-sized companies are hardly capable of mastering this technical challenge on their own. However, for farmers themselves the primary focus is also on the critical topics of data security and data sovereignty.
+	In the course of additional digitization of agriculture, the majority of large companies try to ensure customer loyalty with corresponding proprietary solutions. In contrast to this, small and medium-sized companies are hardly capable of mastering this technical challenge on their own. However, for farmers themselves the primary focus is also on the critical topics of data security and data sovereignty.
 
 	The agrirouter is a universal data exchange platform for farmers and contractors that combines machines and agricultural software across all manufacturers to simplify operating procedures and improve economic efficiency. Only the user can specify who exchanges which data with whom and for how long. The following always applies: The agrirouter transports data, it does not store it. 
 
-	As a result, all available data is brought together for the first time in cooperation with corresponding farm management systems. The agrirouter therefore makes it easier for the farmer to take a major step toward digitization."
+	As a result, all available data is brought together for the first time in cooperation with corresponding farm management systems. The agrirouter therefore makes it easier for the farmer to take a major step toward digitization.
 
 
 https://www.veristech.com/the-sensors/iscan
 
 ---------------------------------------------------------------------------------------------------
 
-Haettu Passport-tietokannasta 2018-03-30 hakusanoilla "internet of things"
+Haettu Passport-tietokannasta 2018-03-30 hakusanoilla internet of things
 
 Internet Of Things (iot): From Everyday Items To Conduits Of Digital Commerce
 
@@ -66,7 +66,7 @@ Digital Innovators: New Conduits of Commerce in the Internet of Things Era
 
 ---------------------------------------------------------------------------------------------------
 
-Haettu Passport-tietokannasta 2018-03-30 hakusanoilla "iot"
+Haettu Passport-tietokannasta 2018-03-30 hakusanoilla iot
 
 5G: Opportunities and Challenges Offered by the 5G Era in Mobile Internet Connectivity
 
@@ -78,30 +78,30 @@ Narrowband IoT: How it Will Power Connected Living of the Future
 
 ---------------------------------------------------------------------------------------------------
 
-Haettu Passport-tietokannasta 2018-03-30 hakusanoilla "smart farming"
+Haettu Passport-tietokannasta 2018-03-30 hakusanoilla smart farming
 
 Nope.
 
 ---------------------------------------------------------------------------------------------------
 
-Haettu ProQuest-tietokannasta 2018-03-30 hakusanoilla "smart farming"
+Haettu ProQuest-tietokannasta 2018-03-30 hakusanoilla smart farming
 
 ---------------------------------------------------------------------------------------------------
 
-Haettu Doria-tietokannasta 2018-03-30 hakusanoilla "iot"
+Haettu Doria-tietokannasta 2018-03-30 hakusanoilla iot
 
 Information Security In The Internet Of Things – A Systematic Literature Review  Jouni Pänkäläinen
 
 Open source in Industrial Internet of Things: A systematic literature review  Petra Helmiö
 
-Haettu Doria-tietokannasta 2018-03-30 hakusanoilla "kasvituotanto iot"
-Haettu Doria-tietokannasta 2018-03-30 hakusanoilla "kasvihuone iot"
-Haettu Doria-tietokannasta 2018-03-30 hakusanoilla "iot maatalous"
+Haettu Doria-tietokannasta 2018-03-30 hakusanoilla kasvituotanto iot
+Haettu Doria-tietokannasta 2018-03-30 hakusanoilla kasvihuone iot
+Haettu Doria-tietokannasta 2018-03-30 hakusanoilla iot maatalous
 Nope.
 
 ---------------------------------------------------------------------------------------------------
 
-Haettu Elsevier ScienceDirect Freedom Collection -tietokannasta 2018-03-30 hakusanoilla "IoT agriculture" Publication title -asetuksella "Computers and Electronics in Agriculture"
+Haettu Elsevier ScienceDirect Freedom Collection -tietokannasta 2018-03-30 hakusanoilla IoT agriculture Publication title -asetuksella Computers and Electronics in Agriculture
 
 Review of IoT applications in agro-industrial and environmental fields
 
@@ -149,20 +149,20 @@ Table 3  Algorithm: search query-(Group 1) AND (Group 2).
 
 TITLE-ABS-KEY 
 	(
-	"Internet of Things" 
-	OR "Web of Things"
+	Internet of Things 
+	OR Web of Things
 	) 
 AND 
 	(
-	"Agricultural industry" 
-	OR "Agricultural products" 
+	Agricultural industry 
+	OR Agricultural products 
 	OR agriculture 
 	OR agribusiness 
 	OR agroindustry 
-	OR "Air pollution" 
-	OR "Apiculture" 
+	OR Air pollution 
+	OR Apiculture 
 	OR aquaculture 
-	OR "Product Traceability" 
+	OR Product Traceability 
 	OR greenhouses 
 	OR harvesting 
 	OR horticulture 
@@ -173,13 +173,13 @@ AND
 	OR feeding 
 	OR fertilizers 
 	OR forestry OR weather 
-	OR "Animal production" 
-	OR "Animal sensing" 
-	OR "Animal tracking" 
-	OR "Animal trade control" 
+	OR Animal production 
+	OR Animal sensing 
+	OR Animal tracking 
+	OR Animal trade control 
 	OR avalanche 
 	OR biofuel 
-	OR "Biological production" 
+	OR Biological production 
 	OR biomonitoring 
 	OR breeding 
 	OR cereals 
@@ -187,22 +187,22 @@ AND
 	OR dairy 
 	OR drones 
 	OR drought 
-	OR "Earthquake sensor" 
-	OR "Environmental monitoring" 
-	OR "Equipment status" 
+	OR Earthquake sensor 
+	OR Environmental monitoring 
+	OR Equipment status 
 	OR farm 
 	OR farming 
-	OR "Feed production" 
+	OR Feed production 
 	OR fish 
 	OR fishery 
 	OR flooding 
-	OR "Food chain" 
-	OR "Food production" 
+	OR Food chain 
+	OR Food production 
 	OR forecast 
-	OR "Forest fire" 
+	OR Forest fire 
 	OR freeze 
 	OR fruit 
-	OR "Fruit storage" 
+	OR Fruit storage 
 	OR grassland 
 	OR heating 
 	OR landslide 
@@ -264,77 +264,78 @@ Etsitään vielä
 
 omia hakutermejä:
 	greenhouse
-	"plant factory"
-	"vertical farming"
+	plant factory
+	vertical farming
 
 Oma versio kirjallisuuskatsausten hakualgoritmeistä, kaikki yhdistettynä ja poistettuna kasvintuotantoon liittymättömät:
 
 TITLE-ABS-KEY 
 	(
-	"Internet of Things" 
-	OR "Web of Things"
+	Internet of Things 
+	OR Web of Things
 	) 
 AND 
 	(
-	"Agricultural industry" 
-	OR "Agricultural products" 
-	OR agriculture 
+	Agricultural industry 
 	OR agribusiness 
+	OR Agricultural products 
+	OR agriculture 
 	OR agroindustry 
-	OR "Air pollution" 
-	OR "Apiculture" 
-	OR aquaculture 
-	OR "Product Traceability" 
-	OR greenhouses 
-	OR harvesting 
-	OR horticulture 
-	OR husbandry 
-	OR irrigation 
-	OR livestock 
-	OR climate 
-	OR feeding 
-	OR fertilizers 
-	OR forestry OR weather 
-	OR "Animal production" 
-	OR "Animal sensing" 
-	OR "Animal tracking" 
-	OR "Animal trade control" 
-	OR avalanche 
-	OR biofuel 
-	OR "Biological production" 
+	OR Biological production 
 	OR biomonitoring 
-	OR breeding 
 	OR cereals 
+	OR climate 
 	OR crop 
-	OR dairy 
 	OR drones 
 	OR drought 
-	OR "Earthquake sensor" 
-	OR "Environmental monitoring" 
-	OR "Equipment status" 
+	OR Environmental monitoring 
+	OR Equipment status 
 	OR farm 
 	OR farming 
-	OR "Feed production" 
-	OR fish 
-	OR fishery 
+	OR Feed production 
+	OR fertilizers 
 	OR flooding 
-	OR "Food chain" 
-	OR "Food production" 
+	OR Food chain 
+	OR Food production 
 	OR forecast 
-	OR "Forest fire" 
 	OR freeze 
 	OR fruit 
-	OR "Fruit storage" 
+	OR Fruit storage 
 	OR grassland 
+	OR greenhouses 
+	OR harvesting 
 	OR heating 
+	OR horticulture  
+	OR irrigation 
 	OR landslide 
-	OR meat 
 	OR pest 
 	OR plant 
-	OR poultry 
+	OR plant factory
+	OR Precision Agriculture
+	OR Product Traceability 
 	OR seed 
+	OR Smart Farming
 	OR vegetable 
+	OR vertical farming
 	OR waste 
 	OR water
+	OR weather 
 	)
-	"Precision Agriculture” OR “Smart Farming” OR “Agriculture“
+	
+
+Haettu  Academic Search Elite -tietokannasta 2018-04-02 hakusanoilla agriculture OR farming AND "internet of things"
+asetuksilla Full Text, Published Date: 20050101-20181231, Academic Journals, Reviews
+
+Construction of Cucumber Powdery Mildew Early Warning System in Solar Greenhouse Based on Internet of Things
+
+Sama haku, mutta kaikilla aineistolla:
+
+3 Ways the IoT Revolutionizes Farming: Farmers use high-tech agriculture techniques to improve production output, and exploit sensors and other IoT technologies to create a more efficient operation.
+
+IoT Platform Maker infiswift Aims to Modernize Farming.
+
+Weed Spotting By Drone
+
+---------------------------------------------------------------------------------------------------
+
+Haettu DART -tietokannasta 2018-04-02 hakusanoilla agriculture AND "internet of things"
