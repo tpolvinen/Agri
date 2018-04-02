@@ -249,3 +249,92 @@ research questions in an objective manner.
 
 ---------------------------------------------------------------------------------------------------
 
+A review on the practice of big data analysis in agriculture:
+
+The bibliographic analysis in the domain under study involved three steps: (a) collection of related work, (b) filtering of relevant work, and (c) detailed review and analysis of state of the art related work. In the first step, a keyword-based search for conference papers and articles was performed from the scientific databases IEEE Xplore and ScienceDirect, as well as from the web scientific indexing services Web of Science (Thomson Reuters, 2017) and Google Scholar. As search keywords, we used the following query:
+
+“Big Data” AND [“Precision Agriculture” OR “Smart Farming” OR “Agriculture“]
+
+In this way, we filtered out papers referring to big data but not applied to the agricultural domain. Existing surveys (Wolfert et al., 2017; Nandyala and Kim, 2016; Waga and Rabah, 2014; (Chi et al., 2016; Wu et al., 2016) were also examined for related work. From this effort, 1330 papers were initially identified. Restricting the search for papers in English only, with at least two citations, the initial number of papers was reduced to 232. Number of citations was recorded based on Google Scholar. An exception was made for papers published in 2016–2017, where zero citations were acceptable.
+In the second step, we checked these 232 papers whether they made actual use of big data analysis in some agricultural application. 
+
+---------------------------------------------------------------------------------------------------
+
+Etsitään vielä
+
+omia hakutermejä:
+	greenhouse
+	"plant factory"
+	"vertical farming"
+
+Oma versio kirjallisuuskatsausten hakualgoritmeistä, kaikki yhdistettynä ja poistettuna kasvintuotantoon liittymättömät:
+
+TITLE-ABS-KEY 
+	(
+	"Internet of Things" 
+	OR "Web of Things"
+	) 
+AND 
+	(
+	"Agricultural industry" 
+	OR "Agricultural products" 
+	OR agriculture 
+	OR agribusiness 
+	OR agroindustry 
+	OR "Air pollution" 
+	OR "Apiculture" 
+	OR aquaculture 
+	OR "Product Traceability" 
+	OR greenhouses 
+	OR harvesting 
+	OR horticulture 
+	OR husbandry 
+	OR irrigation 
+	OR livestock 
+	OR climate 
+	OR feeding 
+	OR fertilizers 
+	OR forestry OR weather 
+	OR "Animal production" 
+	OR "Animal sensing" 
+	OR "Animal tracking" 
+	OR "Animal trade control" 
+	OR avalanche 
+	OR biofuel 
+	OR "Biological production" 
+	OR biomonitoring 
+	OR breeding 
+	OR cereals 
+	OR crop 
+	OR dairy 
+	OR drones 
+	OR drought 
+	OR "Earthquake sensor" 
+	OR "Environmental monitoring" 
+	OR "Equipment status" 
+	OR farm 
+	OR farming 
+	OR "Feed production" 
+	OR fish 
+	OR fishery 
+	OR flooding 
+	OR "Food chain" 
+	OR "Food production" 
+	OR forecast 
+	OR "Forest fire" 
+	OR freeze 
+	OR fruit 
+	OR "Fruit storage" 
+	OR grassland 
+	OR heating 
+	OR landslide 
+	OR meat 
+	OR pest 
+	OR plant 
+	OR poultry 
+	OR seed 
+	OR vegetable 
+	OR waste 
+	OR water
+	)
+	"Precision Agriculture” OR “Smart Farming” OR “Agriculture“
