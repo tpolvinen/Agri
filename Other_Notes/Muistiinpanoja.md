@@ -383,5 +383,51 @@ Nope, vähennetään hakusanoja -huomenna.
 Haettu IEEE Xplore - IEEE/IEE Electronic Library -tietokannasta 2018-04-03
 	15 hakutermin maksimi, pitää vielä saada ANDin jälkeiset koko metadatasta, ei vain otsikosta...ja miten on "Document Title": vs. "Publication Title": ???
 "Document Title":“Internet of Things” AND (agriculture OR greenhouse OR “plant factory” OR “vertical farming” OR irrigation OR fertilizers OR crop OR drones OR “Environmental monitoring” OR farm OR fruit OR plant OR vegetable)
+
 ---------------------------------------------------------------------------------------------------
+
 http://oatd.org/?userLang=en
+
+---------------------------------------------------------------------------------------------------
+
+Kootut ja valitut avainsanat valituista teksteistä:
+
+	Evernotesta:
+		Construction of Cucumber Powdery Mildew Early Warning System in Solar Greenhouse Based on Internet of Things
+			Solar Greenhouse; Internet of Things; Warning Model
+		Weed Spotting By Drone
+			Weed; Drone
+		From the factory to the fields
+			technological innovation; agriculture industry; automation; internet of things; robotics; algorithms; sensor technology; image recognition; machine learning
+		IoT Platform Maker infiswift Aims to Modernize Farming - EBSCOhost
+			Internet of Things; platform; farming;	security; TLS encryption; load balancer; rules engine
+		Sensing-cloud: Leveraging the benefits for agricultural applications
+			Sensor-cloud; Virtualization; System model of sensor-cloud; Sensor-cloud for agricultural applications
+		Wireless sensor networks for agriculture: The state-of-the-art in practice and future challenges
+			Wireless sensor networks; Agriculture; Automation; Sensors and actuators; Agriculture in India
+		A review on the practice of big data analysis in agriculture
+			Big data analysis; Agriculture; Survey; Smart Farming
+		Review of IoT applications in agro-industrial and environmental fields
+			Internet of things; IoT; Agro-industry; Environmental monitoring; Systematic literature review
+		Open source in Industrial Internet of Things: A systematic literature review
+			open source; Internet of Things; Industrial Internet of Things; IoT; IIoT; literature review
+
+		Urban Agriculture; Controlled Environment Agriculture; Uncontrolled Environment Agriculture; Plant cultivation; food security; climate change; food desert; garden; urban food insecurity; sustainable development; 
+		CAN-bus; tractor; sensor; preventative maintenance; Farm Management System; Geolocation; 
+		
+		Minihelicopter spots weeds from aerial images 
+			Drone; Weed; aerial image; wild oats; cereal; data processing; spraying; pesticides; 
+		
+		tractor/implement communication; TIM; machine-to-machine; machine-to-cloud; Extended FMIS Data Interface; EFDI; ISOBUS; Farm Management Information System
+
+		Towards Smart Farming and Sustainable Agriculture with Drones
+			drone; agriculture; smart farming; sustainability
+		3 ways of how the IoT could dramatically help fighting climate change
+			Internet of Things; climate change; environmental footprint; precision agriculture; smart city; circular economy; sustainability
+		How the IoT (in agriculture) provides extensive environmental benefits
+			Internet of Things; Agriculture; precision agriculture; ecological footprint; agricultural industry; sensor; connected device; analysis; crop yield; optimization; Productivity maximization; irrigation; sustainability; resource efficiency; economic growth
+		Decision support systems for agriculture
+			Decision support system; dss; agriculture; optimization; irrigation; Productivity; yield estimation; smart device; data; 
+		Crucial connectivity for rural areas - News - IoF2020
+			connectivity; wifi; rural area; Internet of Things; agriculture; broadband; digitalisation; digital farming; 
+	...jatketaan kohdasta: 13 Mar 2018 20:09 Vineland PDF: An Automation Technology Strategy for the Canadian Horticulture Sector
