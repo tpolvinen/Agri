@@ -367,8 +367,8 @@ The Internet of Robotic Things: A review of concept, added value and application
 - Hakutuloksista käytiin läpi 300 ensimmäistä 675:stä. Niistä valittiin aikaisempien kokemusten ja luettujen kirjallisuuskatsausten perusteella sellaiset tekstit, joiden voitiin olettaa käsittelevän teknologioita, tutkimusta tms. jotka liittyvät AIoT:hen ja tai kasvintuotantoon.
 - Valituista teksteistä luettiin abstrakti ja silmäiltiin teksti.
 - Tekstistä haettiin hakutoiminnolla avainsanoja "internet of things","iot", "agriculture", "plant", "farm", "greenhouse".
-- Avainsanojen esiintyessä useasti, mielellään samoissa lauseissa tai kappaleissa sekä lopulta tekstin ollessa oman arvion mukaan merkityksellinen opinnäytetyölle, teksti tallennettiin jatkokäsittelyä varten (Evernoteen).
-- Tarkasteltiin useita tekstejä, joissa mainittiin Internet of Things ja earthquake, mutta joilla ei ollut mitään tekemistä kasvintuotannon kanssa. Tämän takia seuraavien hakujen hakutermeistä poistettiin sana landslide.
+- Avainsanojen esiintyminen useasti, mielellään samoissa lauseissa tai kappaleissa katsottiin eduksi tekstin valinnalle jatkokäsittelyyn. Lopulta tekstin ollessa oman arvion mukaan merkityksellinen opinnäytetyölle, teksti tallennettiin jatkokäsittelyä varten (Evernoteen).
+- Tarkasteltiin useita tekstejä, joissa mainittiin Internet of Things ja earthquake, mutta joilla ei ollut mitään tekemistä kasvintuotannon kanssa. Tämän takia seuraavien hakujen hakutermeistä poistettiin (myös) sana landslide.
 
 ---------------------------------------------------------------------------------------------------
 
@@ -379,5 +379,9 @@ Haettu IEEE Xplore - IEEE/IEE Electronic Library -tietokannasta 2018-04-02
 "Agricultural industry" OR agribusiness OR "Agricultural products" OR agriculture OR agroindustry OR "Biological production" OR biomonitoring OR cereals OR climate OR crop OR drones OR drought OR "Environmental monitoring" OR "Equipment status" OR farm OR farming OR "Feed production" OR fertilizers OR flooding OR "Food chain" OR "Food production" OR forecast OR freeze OR fruit OR "Fruit storage" OR grassland OR greenhouses OR harvesting OR heating OR horticulture OR irrigation OR pest OR plant OR "plant factory" OR "Precision Agriculture" OR "Product Traceability" OR seed OR "Smart Farming" OR vegetable OR "vertical farming" OR waste OR water OR weather
 
 Nope, vähennetään hakusanoja -huomenna.
+
+Haettu IEEE Xplore - IEEE/IEE Electronic Library -tietokannasta 2018-04-03
+	15 hakutermin maksimi, pitää vielä saada ANDin jälkeiset koko metadatasta, ei vain otsikosta...ja miten on "Document Title": vs. "Publication Title": ???
+"Document Title":“Internet of Things” AND (agriculture OR greenhouse OR “plant factory” OR “vertical farming” OR irrigation OR fertilizers OR crop OR drones OR “Environmental monitoring” OR farm OR fruit OR plant OR vegetable)
 ---------------------------------------------------------------------------------------------------
 http://oatd.org/?userLang=en
