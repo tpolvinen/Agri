@@ -461,3 +461,8 @@ Greenhouse Mngmt
 	final thoughts?
 
 --------------------------------------------------------------------------------------------------
+
+Katsotaan mitä Science Direct antaa kohdassa "Recommended articles" kirjallisuuskatsauksen "Review of IoT applications in agro-industrial and environmental fields" kanssa:
+	https://www.sciencedirect.com/science?_ob=ArticleListURL&_method=list&_ArticleListID=-1257143123&_sort=v&_st=17&view=c&_origin=related_art&panel=citeRelatedArt&_mlktType=Journal&md5=25d13962fffaeef0aace7cf7b129b528&searchtype=a
+
+	 
