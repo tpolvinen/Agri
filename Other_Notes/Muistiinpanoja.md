@@ -431,3 +431,33 @@ Kootut ja valitut avainsanat valituista teksteistä:
 		Crucial connectivity for rural areas - News - IoF2020
 			connectivity; wifi; rural area; Internet of Things; agriculture; broadband; digitalisation; digital farming; 
 	...jatketaan kohdasta: 13 Mar 2018 20:09 Vineland PDF: An Automation Technology Strategy for the Canadian Horticulture Sector
+		An Automation Technology Strategy for the Canadian Horticulture Sector
+			horticulture; farm; crop; labour cost; production cost; automation; big data; Decision support system; system of systems; adoption barrier; efficiency; 
+		Greenhouse Mngmt
+			greenhouse automation; robotics; horticulture; hyperspectral imaging; intelligent system; machine learning; 
+---------------------------------------------------------------------------------------------------
+
+Vineland PDF: An Automation Technology Strategy for the Canadian Horticulture Sector
+	Täällä on teknologiakehitykselle annettu kolme prioriteettikohdetta: automaatioteknologian kehitys + adoptointi (mukana päätöksentekojärjestelmät); teknologiavalidaatio ROI:n mittaus ja kommunikaatio; IT ja datan jako alustojen kehittäminen + jakamisen mahdollistaminen
+	...mitkä tuntuvat täsmäävän hyvin haastiksissa ja Päivillä esille tulleisiin asioihin.
+	Eritelty (kohta 2.3 ja Figure 3) esteet adoptiolle.
+	Verrataan strategiaa muihin lähteisiin.
+
+---------------------------------------------------------------------------------------------------
+
+Greenhouse Mngmt
+	Evernote: Greenhouse Mngmt
+	Zotero: Collection: AIoT Citation key: _state_????
+	Haastateltu Dr. David Gholami, Research Scientist & Expert Systems Specialist at Vineland, kertoo autoteollisuudessa sekä öljy- ja kaasuteollisuudessa (eng. oil and gas) käytettävien automaatiojärjestelmien olevan maataloudessa sekä puutarhaviljelyssä (eng. horticulture) käytettävien vastaavia huomattavasti edistyksellisempiä. Hän on teollisuudesta puutarhaviljelyyn alaa vaihtaessaan huomannut, että useita teollisuusautomaation sovelluksia voitaisiin ottaa käyttöön, siirtää (eng. transfer) myös puutarhaviljelyyn. Hän mainitsee, että tähän liittyy useita haasteita, mutta automaatiosovellukset ovat silti siirrettävissä puutarhaviljelyn käyttöön.
+	Dr. Golami työskentelee haastattelun tekohetkellä älykkään kasvihuonekastelun ja kasvitautien havainnoinnin parissa. Perinteisessä kasvihuoneviljelyssä hänen mukaansa viljelijän tulee itse tarkistaa kasvien kasteluntarve ja aikarajoitteiden takia viljelijä joutuu tekemään päätökset kastelusta rajallisen otannan perusteella. Yleisesti käytössä oleva kasteluautomaatio on ajoitusperusteinen, mutta kehitteillä oleva älykäs kasteluautomaatio pyrkii selvittämään kasvien kastelutarpeen sekä nyt yleisessä käytössä olevien sensorien (lämpö, kosteus, maakosteus jne.) että muilta teollisuudenaloilta tuotavien teknologioiden kuten hyperspektrikuvauksen avulla. Hyperspektrikuvauksella voidaan havainnoida kasvin stressitilaa ja kasvin sisältämän veden määrää. Tällöin voidaan Dr. Golamin mukaan "katsoa kasvin sisälle", toisin kuin yleisessä käytössä olevien sensorien avulla, joilla voidaan mitata kasvin ympäristöä, mutta ei varsinaista kasvin tilaa. Hyperspektrikuvauksen lisäksi Dr. Golami kertoo käyttävänsä lämpökameroita, joilla voidaan havainnoida kasvin lämpötilaa.
+	Nämä [mittaus, sensorointi, havainnointi]järjestelmät on liitetty älykkääseen jakelun (eng. distribution) tukijärjestelmään.
+	Älykäs jakelujärjestelmä sekä edistynyt sensorijärjestelmä erottaa kehitettävän järjestelmän nyt käytössä olevista.
+	"Älykkäällä" Dr. Golami tarkoittaa järjestelmää, joka kykenee oppimaan ihmisen toiminnasta ja matkimaan viljelijän päätöksentekoa. Yksi järjestelmän ominaisuuksista (eng. capability) on asennuksen jälkeen tietyn aikavälin kestävä kasvihuoneen tilan tarkkailu sensorien tuottaman datan perusteella. Tämän sensorien havainnoista tuotetun datan avulla järjestelmä "näkee" mitä viljelijä tekee, pyrkii oppimaan viljelijän toiminnasta ja tarkkailee kasvien tarpeita. Jonkin ajan kuluttua, jos viljelijä voi aina luottaa järjestelmän päätöksiin, viljelijä voi pyytää järjestelmää ottamaan toiminnan hallintaansa.
+	...
+	multiple crop types?
+	when commercially available?
+	have you tested this system w/ growers?
+	what type of greenhouse operation targeted?
+	final thoughts?
+
+--------------------------------------------------------------------------------------------------
