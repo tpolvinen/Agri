@@ -433,7 +433,7 @@ Kootut ja valitut avainsanat valituista teksteistä:
 	...jatketaan kohdasta: 13 Mar 2018 20:09 Vineland PDF: An Automation Technology Strategy for the Canadian Horticulture Sector
 		An Automation Technology Strategy for the Canadian Horticulture Sector
 			horticulture; farm; crop; labour cost; production cost; automation; big data; Decision support system; system of systems; adoption barrier; efficiency; 
-		Greenhouse Mngmt
+		Greenhouse Mngmt (= The state of automation in horticulture)
 			greenhouse automation; robotics; horticulture; hyperspectral imaging; intelligent system; machine learning; 
 ---------------------------------------------------------------------------------------------------
 
@@ -449,6 +449,7 @@ Greenhouse Mngmt
 	Evernote: Greenhouse Mngmt
 	Zotero: Collection: AIoT Citation key: _state_????
 	Valittu koska: asiantuntijahaastattelu työn aiheen tärkeästä osasta (kasvihuonerobotiikka, koneoppiminen, big data)
+	http://vinelandresearch.com/sites/default/files/greenhouse_management_-_the_state_of_automation_in_horticulture.pdf
 	Haastateltu Dr. David Gholami, Research Scientist & Expert Systems Specialist at Vineland, kertoo autoteollisuudessa sekä öljy- ja kaasuteollisuudessa (eng. oil and gas) käytettävien automaatiojärjestelmien olevan maataloudessa sekä puutarhaviljelyssä (eng. horticulture) käytettävien vastaavia huomattavasti edistyksellisempiä. Hän on teollisuudesta puutarhaviljelyyn alaa vaihtaessaan huomannut, että useita teollisuusautomaation sovelluksia voitaisiin ottaa käyttöön, siirtää (eng. transfer) myös puutarhaviljelyyn. Hän mainitsee, että tähän liittyy useita haasteita, mutta automaatiosovellukset ovat silti siirrettävissä puutarhaviljelyn käyttöön.
 	Dr. Gholami työskentelee haastattelun tekohetkellä älykkään kasvihuonekastelun ja kasvitautien havainnoinnin parissa. Perinteisessä kasvihuoneviljelyssä hänen mukaansa viljelijän tulee itse tarkistaa kasvien kasteluntarve ja aikarajoitteiden takia viljelijä joutuu tekemään päätökset kastelusta rajallisen otannan perusteella. Yleisesti käytössä oleva kasteluautomaatio on ajoitusperusteinen, mutta kehitteillä oleva älykäs kasteluautomaatio pyrkii selvittämään kasvien kastelutarpeen sekä nyt yleisessä käytössä olevien sensorien (lämpö, kosteus, maakosteus jne.) että muilta teollisuudenaloilta tuotavien teknologioiden kuten hyperspektrikuvauksen avulla. Hyperspektrikuvauksella voidaan havainnoida kasvin stressitilaa ja kasvin sisältämän veden määrää. Tällöin voidaan Dr. Gholamin mukaan "katsoa kasvin sisälle", toisin kuin yleisessä käytössä olevien sensorien avulla, joilla voidaan mitata kasvin ympäristöä, mutta ei varsinaista kasvin tilaa. Hyperspektrikuvauksen lisäksi Dr. Gholami kertoo käyttävänsä lämpökameroita, joilla voidaan havainnoida kasvin lämpötilaa.
 	Nämä [mittaus, sensorointi, havainnointi]järjestelmät on liitetty älykkääseen jakelun (eng. distribution) tukijärjestelmään.
