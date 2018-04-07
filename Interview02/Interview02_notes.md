@@ -133,5 +133,18 @@ Ja varmasti seurataan sitten tilannetta. Kyllähän meidän pitäisi enemmän ke
 
 On, mutta maatiloja on hirveän erilaisia.
 
-[00:30:29] Sanoit, että lohkolta saisi tuottoa tasaisesti niin minulle kerrottiin (oliko Liisa Pesonen?)  
+[00:30:29] Sanoit, että lohkolta saisi tuottoa tasaisesti niin minulle kerrottiin (oliko Liisa Pesonen?) ja annettiin %-lukuja kuinka paljon enemmän suomalaiselta pellolta saataisiin irti, mutta sitä ei vaan tehdä, ei vaan oteta käyttöön. Millainen aavistus sinulla on, jos Ruotsissa saadaan N-sensorin avulla 4 %?
+
+[00:30:53] Laskennallisesti otettaessa niin, siellä on monta kymmentä koetta tehty tästä, Saksassa sellainen 6 %  sadonlisää. Mutta ne voivat olla ihan valideja lukuja suomessakin, totta kai riippuu yksittäisestä lohkosta, paljonko siellä on vaihtelua ja mikä siellä on lannoitusstrategia, mutta kun toimintaa kehitetään pienissä paloissa jos ajatellaan toiminnan kannattavuutta. Silloin lähtisin miettimään sitä miten saisin parannettua sitä, voinko näitä gäppejä sulkea ja mikä on paras työkalu siihen. Kun ymmärretään mikä on paras työkalu, enää on vain yksi vaihtoehto, eli N-sensori. [00:31:46] Teknologian käyttöönottoa voi lähestyä kahdella tavalla, eli on se uusi vekotin jonka haluan, kokeilla sitä, tai tarvelähtöisesti. Että haluan parantaa viljanviljelyä, mitä minä tarvitsen siihen. Mutta prosenttilukuja, sitä on erittäin vaikea sanoa.
+
+[00:32:09] Sitä kuitenkin olisi siellä?
+
+[00:32:11] On, ja sitten siinä on myös lannoitesäästö. Eli kun lannoitepanoksia, typpipanoksia kohdistetaan oikein niin sitten säästetään kyllä. Sen pystyy meidän urakoitsijatkin ja viljelijät sanomaan, että he näkevät sen kun he näkevät paljonko tavaraa jää levittimeen. Se on helpompi, koska aika monella ei ole satotasomittaria ja mihin sitä vertaa. Koska edelliseen vuoteen ei voi verrata. Koska typen dynamiikka on eri eri vuonna riippuen kasvuolosuhteista. Sen takia sitä ei voi verrata edellisiin vuosiin.
+
+[00:32:48] Satokaudet eivät ole veljeksiä?
+
+[00:32:51] Ei. Jos maasta vapautuu ohrakasvustolle samasta kohtaa sata kiloa tänä vuonna niin se on voinut olla viime vuonna vaikka kuusi-seitsemänkymmentä kiloa. Vaikka tekee kaiken samoin? Vaikka tekee kaiken samoin.
+
+[00:33:05] 
+
 
