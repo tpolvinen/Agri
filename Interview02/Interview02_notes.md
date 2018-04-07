@@ -145,6 +145,20 @@ On, mutta maatiloja on hirveän erilaisia.
 
 [00:32:51] Ei. Jos maasta vapautuu ohrakasvustolle samasta kohtaa sata kiloa tänä vuonna niin se on voinut olla viime vuonna vaikka kuusi-seitsemänkymmentä kiloa. Vaikka tekee kaiken samoin? Vaikka tekee kaiken samoin.
 
-[00:33:05] 
+[00:33:05]  Tämä on tavattoman ärsyttävää insinöörimielelle. 
+
+[00:33:13] Mutta silloin tarvitaan se osaaminen, se datan louhinta ja sen fiksaaminen siitä, että me tiedetään että mitä se miinus 40 kilon tai plus 40 kilon muutos tarkoittaa lannoitussuosituksissa. Koska se vaikuttaa sekä satotasoon että kannattavuuteen. Mutta noin, jos en väärin muista, olisiko noin 50 % viljelijöistä eivät edes laske paljonko viljatonnin tuotantokustannus on. Eli siinä on vielä työtä, että kustannusrakenne tulee tietoisuuteen.
+
+[00:33:57] Luuletko, että tilamäärien pienentyessä ja tilakokojen kasvaessa siitä tulisi tarkempaa liiketoimintaa ja näitä alettaisiin laskemaan enemmän?
+
+[00:34:06] Varmasti, voisin kuvitella. Kyllähän on tiloja jotka ovat raudanlujia ammattilaisia sekä markkinataloudessa ja he tekevät sitä, tottakai, yritystoimintana. Pienemmille tiloille jos hehtaari menee siihen 40 - 50 hehtaariin keskiarvo niin varmaan täsmäviljejyn teknologiaratkaisut on erilaisia kuin tiloilla joissa on 2, 3, 400 hehtaaria. Ei sinne, ne voi olla hyvin erilaisia ne paketit minkälaisia sensoreita, minkälaisia laitteita tullaan käyttämään. Se muuttuu. Ja se hyötysuhde käytetystä teknologiasta voi olla hyvinkin erilainen.
+
+[00:35:04] Oletko nähnyt visiointeja millainen voisi olla maatalouden digitalisaation, ei loppupeli, mutta mitä nyt ajatellaan?
+
+[00:35:21] Hyvä varmaan olisi sellainen, jos ei ajatella että traktorit itse lähtee pellolle, vielä, se on se että viljelijän kännykkään voi tulla tekstiviesti että, jos on vielä kännykät silloin, tai johonkin käyttöliittymään, sensorit sanoo, että nyt on lisälannoituksen aika tai sensorit sanoo että nyt on tälläinen, että liikkeelle. Sinne on vielä vähän matkaa. Mutta näinhän se menee, kyllä mekin tehdään mallinnuksen kanssa paljon työtä Yarassa, eli me mallinnetaan erilaisia malleja, kerätään paljon dataa ja saadaan sitten esim. typpisuosituksiin ja ajankohtiin dataa. Niin jossain vaiheessa, miksei. Ja totta kai tämä tieto ui myös siihen tilahallintaan, suosituksiin ja erilaisiin ohjelmistoihin.
+
+[00:36:17] Näkisitkö voisiko se data uida, tai se tieto, myös farm managementista eteenpäin vaikka muuhun tuootantoketjuun vaikka kuluttajalle asti? Että kuluttaja voisi nähdä että kuluttaja voisi nähdä että tämä on tuotettu näillä tuotantopanoksilla?
+
+[00:36:37] No jos haluttaisi, niin miksei, jos on järjestelmä. En tiedä jauhopaketissa on vaikka QR-koodi joihinkin alustoihin, niin että päästään katsomaan mistä tilasta niin miksei, jos QR-koodia vielä käytetään, mutta miksei, jos halutaan koko ketjussa seurata tätä asiaa.  
 
 
