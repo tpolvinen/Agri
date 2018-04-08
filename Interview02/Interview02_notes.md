@@ -221,4 +221,34 @@ On, mutta maatiloja on hirveän erilaisia.
 
 [00:53:52] Kyllä, kaikkihan nämä, rajapinnat, tietojen siirtäminen eri järjestelmistä toiseen, niin kyllähän se tulee toteutumaan jossain aikavälissä jos näin halutaan.
 
+[00:53:52] Kyllä, kaikkihan nämä, rajapinnat, tietojen siirtäminen eri järjestelmistä toiseen, niin kyllähän se tulee toteutumaan jossain aikavälissä jos näin halutaan. Varmasti viiden vuoden päästä tällaiset järjestelmät on ihan arkipäivää.
+
+[00:54:14] Kuulin edellisessä haastattelussa, että 10 vuotta sitten ajattelu oli hyvin siiloutunutta, mutta nyt ollaan herätty ettei kellään ole liiketoimintaa jos toiminta ei ole standardin mukaista ja avointa.
+
+[00:54:32] Avoimuudella avoimuudella että kaikki saa kaikkea vai sitä erilaiset liiketoiminnot yhdistyy saman sateenvarjon alle ja tieto liikkuu siellä avoimesti?
+
+[00:54:43] Enemmän uskon että haetaan sitä, että meillä olisi avoimesti ja yhdessä kehitetty standardi siihen datan käsittelyyn joka sitten mahdollistaisi liiketoiminnan ekosysteemin siihen päälle.
+
+[00:55:03] Siinä on varmasti jumppaa, mutta en itse pysty tuohon antaa, en tiedä mitä tuolla maailmalla standardeissa päätetään, eli en pysty antaa mitään virallista kommenttia.
+
+[00:55:15] Monet valmistajat näyttävät olevan mukana ISOBUSin kehittämisessä.
+
+[00:55:22] ISOBUS on yksi tietysti, että pystytään työlaitteita hallitsemaan.
+
+[00:55:31] Muita vastaavia on sitten ilmeisesti tulossa?
+
+[00:55:33] On ja sitten se että saadaan tieto liikkumaan sinne ISOBUSille. Sekin on vielä haaste kun dataa tulee niin paljon että kun se saadaan vielä ohjelmistokäskyksi jollain muotoa, niin siinä on vielä työtä.
+
+[00:56:11] Miltä maaseudun tulevaisuus näyttää, pitkälle automatisoituna jos me saadaan vastaava teknologia käyttöön niin tilakoon kasvaessa voiko olla urakoitsijoita jotka käyvät tiloillasi
+
+[00:56:36] Onhan tällaisia tiloja jo ja kun tilalla alkaa olla 5 - 600 hehtaaria niin tilat varmasti käyttävät urakointipalveluita tietyissä koneketjuissa esimerkiksi jo sen mittasuhteet vaatii sitä, että...varmasti näissä kaikenlaiset ajosuunnittelut on jo tätä päivää ja ne tulee varmasti yleistymään. En ole ennustaja, mutta jos historiaa katsoo niin kyllähän rakennemuutos on menossa siihen suuntaan että tilamäärä pienenee mutta tilakoko suurenee. Mutta meillä on kotoisia haasteita, meillä on pirstaleiset lohkot siellä sun täällä mutta ehkä juuri siitä syystä haastaa meitä kehittämään tehokkuutta parantavia juttuja. Ettei pudota muun maailman kelkasta.
+
+[00:57:38] Kyse voi olla maatalouden henkiinjäämisestä?
+
+[00:57:42] Jos ei mene eteenpäin niin taantuu.
+
+[00:57:51] Kello on 13:30 ja me lopetetaan tähän, kiitos!
+
+[00:57:56] Haastattelu päättyy, äänite loppuu.
+
 
