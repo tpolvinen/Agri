@@ -159,6 +159,38 @@ On, mutta maatiloja on hirveän erilaisia.
 
 [00:36:17] Näkisitkö voisiko se data uida, tai se tieto, myös farm managementista eteenpäin vaikka muuhun tuootantoketjuun vaikka kuluttajalle asti? Että kuluttaja voisi nähdä että kuluttaja voisi nähdä että tämä on tuotettu näillä tuotantopanoksilla?
 
-[00:36:37] No jos haluttaisi, niin miksei, jos on järjestelmä. En tiedä jauhopaketissa on vaikka QR-koodi joihinkin alustoihin, niin että päästään katsomaan mistä tilasta niin miksei, jos QR-koodia vielä käytetään, mutta miksei, jos halutaan koko ketjussa seurata tätä asiaa.  
+[00:36:37] No jos haluttaisi, niin miksei, jos on järjestelmä. En tiedä jauhopaketissa on vaikka QR-koodi joihinkin alustoihin, niin että päästään katsomaan mistä tilasta niin miksei, jos QR-koodia vielä käytetään, mutta miksei, jos halutaan koko ketjussa seurata tätä asiaa. Datan keruulla ja juuri puhutuilla järjestelmillä ja niiden välisellä kommunikaatiolla onhan tämä ihan mahdollinen visio.
+
+[00:37:18] Sanoit, että paljon keskitytään N-sensoriin, mutta mitä muita yleisiä datan keruumetodeita teillä on, tai sinulle tulee mieleen, mikä on teillä tutkimuksessa eniten käytössä?
+
+[00:37:31] Ei varmaan suoranaista datan keruuta ole
+
+[00:37:37] Tai tehdään dataa?
+
+[00:37:40] Näihin liittyen me otetaan kasvustonäytteitä eri kasvuasteella eri lannoitusstrategioilla, mitataan klorofyllipitoisuutta ja lasketaan näistä erilaisia arvoja ulos typen käytön tehokkuutta, typen hyötysuhdetta, oikeastaan kaikkien ravinteiden hyötysuhdetta, ja suunnitellaan tämän datan pohjalta kokeita, koska halutaan katsoa miten me analysoidaan dataa ja ovatko johtopäätöksemme oikeita ihan kenttäolosuhteissa, niin silloin me testataan niitä. Perustutkimusta.
+
+[00:38:30] eri teknologioiden luettelemista... [00:38:59] Onko teillä Yaralla sellaista järjestelmää, mihin voitaisiin ottaa kaikki eri datan lähteet mukaan?
+
+[00:39:24] Ei meillä ole valmista alustaa tälläiselle, että olisi joku Management Program, missä tuotaisi ja vietäisi karttoja, mutta onhan meillä käytössä tavalliset tutkimusohjelmistot, mutta...niin, kun ne kartat ovat valmis tuote, mikä näkyy viljelijälle, data on erikseen kartan takana. Mutta jos sitä dataa mietitään, niin kyllähän me sitä kerätään ja ne on sitten meillä N-sensorista, N-testereistä ja joistain muistakin tuotteista.
+
+[00:40:16] Miten näkisit, takaavatko nämä teknologiat paremman ruokaturvan?
+
+[00:40:42] Joo, miten ruokaturva sitten määritellään, jos se on sitä että viljelijä pystyy vähentämään omaa riskiä viljantuotannossa, ja sitä kautta se heijastelee sinne ruokaturvaankin, ilman muuta, koska se pystyy sekä siinä hetkessä että tuntien lohkonsa historiat, joka on siis saatu näistä järjestelmistä ulos, tai sensoreista ulos, niin pystyy hallitsemaan sitä kasvintuotantoa. Pystyy vaikuttamaan lajikevalintaan, tietää kuinka paljon typpeä vapautuu, miten kasvit tuleentuu, ja näin kyllä pystyy. Tottakai, ja sit sadon määrään ja laatuunkin. Lähinnä se on...ruokaturva yhtenä palikkana mutta varmaan suurempana sen viljelijän jokapäiväisessä arjessa on se että hän pystyy tuottamaan sellaista viljaa josta saa parhaimman hinnan jota häneltä halutaan ostaa. Jota elintarvikepumppu sitten haluaa ostaa. Siihen on hyvä työkalu, ja sitä kautta ruokaturvaankin.
+
+[00:41:59] Visioin tässä myös ilmastonmuutoksen ja väestönkasvun aiheuttamien paineiden vaikutusta maataloudelle.
+
+[00:42:20] Se on hyvänä työvälineenä kun mietitään mitkä ne riskit on esimerkiksi viljanviljelyssä. Riskit sadon onnistumisesta mutta myös ne taloudelliset riskit. Että pystyy kuinka paljon kannattavampaa on käyttää tälläisiä teknologioita kuin olla käyttämättä, eli käytännössä vähentää riskiä siitä, että se tuotanto ei ole niin tehokasta.
+
+[00:42:59] Palaan mielessäni koko ajan kysymykseen miksi tätä ei jo käytetä?
+
+[00:43:05] Kyllähän sitä käytetään, mutta sitä ei käytetä vaan Suomessa, esimerkiksi Ruotsissa on 220-230 laitetta jo, laskennallisesti 80 % Ruotsin vehnän systeemi [ ? ] pinta-alasta ajetaan sensorilla. Mutta suomessa sitä ei vielä niin käytetä.
+
+[00:43:25] Katselin millainen yleistilanne voisi olla Suomessa verrattuna pohjoismaihin, Eurooppaan, Amerikkaan, 
+
+[00:43:33] Siinä on varmasti se, että N-sensorin hinta mielletään korkeaksi yksittäisenä investointina, tai yksittäisenä eränä. Se Uskon, ainakin jos sitä sensoria ei ole käyttänyt niin se nähdään pienenä peikkona. Ruotsissa tiedetään, että kaikilla joilla sensori on niin eivät he ole pitäneet sitä hintaa, se on saatu.
+
+[00:44:07] Luuletko että voiko siinä olla taustalla se, että suomalaisten peltopinta-alaa pidetään niin pienenä että täsmäviljely ei muka kannattaisi?
+
+
 
 
