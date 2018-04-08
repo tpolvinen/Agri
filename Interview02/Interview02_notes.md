@@ -191,6 +191,34 @@ On, mutta maatiloja on hirveän erilaisia.
 
 [00:44:07] Luuletko että voiko siinä olla taustalla se, että suomalaisten peltopinta-alaa pidetään niin pienenä että täsmäviljely ei muka kannattaisi?
 
+[00:44:18] Joo, kyllä. Niiden puolesta jotka ovat argumentoineet minulle, että heillä on niin pienet pinta-alat että heidän ei kannata ostaa, niin olen sanonut vastaan ettei kannatakaan. Ottakaa se urakointipalveluna. Eli ei se omistaminen N-sensorin tapauksessa, jos sinulla on pienet hehtaarit niin hanki se urakointina. Tai vuokraa laite. Sen voi yhtä hyvin vuokrata ja hoitaa asian sillä.
 
+[00:45:00] Kiitos urakointi-sanasta, se toi taas kysymyksen: Jos meillä on täsmäviljelyteknologiaa, joka tuottaa dataa, jolla pystytään näitä toimenpiteitä niin näkisitkö sen kuinka hyvänä ideana ottaa se käyttöön jo pelkästään sillä perusteella että voidaan antaa urakoitsijalle täsmälliset työtiedostot. Hiljainen tieto voidaan siirtää urakoitsijan työn ohjaukseen.
+
+[00:45:46] Joo, tottakai, jos löydetään ne tekijät, jotka siihen työtiedostoon laitetaan. Mutta N-sensorin kanssa se on turha, koska N-sensoria käytettäessä työ tehdään olemassa olevan kasvuston mukaan. Mutta sitten on muita asioita, joissa en ole asiantuntija kuten maanrakenteen muutokset, maan muokkauksen teho, voidaanko sitä teknisesti säätää. Sekin on sellainen ongoing juttu, oikeastaan. Yleisissä agronomisissa asioissa se voi olla sellainen pohja, jossa voidaan vuosi toisensa jälkeen katsoa karttaa ja miettiä miksi tuo on aina ongelmallinen kohta. Niin sitten voi ajatella onko se ojitusjuttu, sitä voi ruveta tutkimaan tarkemmin. Mutta se työ, mihin N-sensori on suunniteltu, on se typen senhetkiseen hallintaan. Silloin se kartta on sellainen sivutuote.
+
+[00:47:20] Se on kiva asia nähdä
+
+[00:47:22] Kyllä, se on hyvä asia ja jos näkee että tuossa on uiva kohta niin sitten sille voi tehdä jotain. Ja kannattaakin tehdä. Mutta itse siihen ravinteiden hyötysuhteiseen sillä työhetkellä ei tarvitse tuoda mistään mitään, koska se kasvi kertoo.
+
+[00:48:28] Minkälainen kilpailutilanne on, ylipäätään?
+
+[00:48:41] Mitä itse tiedän, niin meillä on suomen markkinassa joitain muita laitteita, sensoreita, mutta en pidä sitä, eihän meillä ole yleistynyt esimerkiksi, meillä on paljon karttoja, sateliittikarttoja, väärävärikuvia, kaikkea tällaista, mutta se kilpailu ei, kun nämä eivät ole kaksi samaa tuotetta, vaan ne ovat kuin yö ja päivä.
+
+[00:49:33] Voisivatko eri valmistajien laitteet komplementoida toisiaan tai kohdistavat toimintojaan eri kohtiin?
+
+[00:49:38] Niin, jos ferrarin kilpailija on mersu...tai mikä nyt on korrektia esimerkkiä käyttää, niin, kilpailijana on polkupyörä niin onko se sitten kilpailua, ehkä. Se ei ole mielestäni relevantti kysymys, tietysti markkinataloudesta puhutaan, mutta enemmänkin se, että saisi enemmänkin tätä teknologiaa käyttöön. Sen markkinatilanteen ja kilpailutilanteen ratkaisee se käytettävyys. Tällä hetkellä meidän 18:sta yksiköllä taidamme olla kuitenkin isoin toimija. Jos ajatellaan ihan käytännön toteutusta että viljelijä jakaa lannoituksensa käyttäen sensoriteknologiaa. Sittenhän onhan meillä paljon dronekuvausta meillä on sateliitteja, mutta ne on kuvia, ne ei, en tiedä, että niistä olisi ikinä tehty tehtävä jota käytetään levityksen tukena.
+
+[00:51:03] Siinä ilmeisesti on ihminen vielä hyvin vahvasti välissä?
+
+[00:51:07] Joo, koska siinä tulkitaan indeksiä ja ihmisen on tulkittava mikä on nollan arvo ja mikä yhden arvo. Siihen tarvitaan jo asiantuntijuutta. Muuten voidaan itse asiassa mennä kohti huonompaa tehokkuutta jos ei tiedetä mitä ne luvut tarkoittaa. Ja me tiedetään kun me ollaan se koetoiminta tehty.
+
+[00:51:31] Onko tiedossa datan jakamisesta, onko järjestelmiä, joilla viljelijät tai konsortiot tai ekosysteemit muita toimijoita, vaikka laitevalmistajia, voisivat vertailemaan, myymään ja ostamaan datasettejään. Omassa visiossani Viljelijä 1 voisi tehdä mittauksia ja laittaa sitten ne naapurin Viljelijä 2:n kanssa vierekkäin, tarkistella niitä verkossa?
+
+[00:52:12] En tiedä olemassaolevaa, mutta visiona miksei. Jos ajatellaan, vaikka naapurin taikka referenssiä. Miksei, onhan tuollaisia jo Excelillä. Esimerkiksi vaikka Yara Norja, tekee Excelissä tällaista anonyymiä vertailua, että dataa ja tietoa on olemassa, mutta se että sillä on joku paikka missä sitä käsitellään oli se sitten farm management system tai farmer's platform tahansa niin...koodarit koodaa. Sittenhän sitä pystytään tekemään oikeastaan mitä vaan. Edinburghissa viime kesänä [2017] täsmäviljelykonferinssissa niin oli tässä workshopissa mietittiin mitkä on täsmäviljelyn yleistymisen haasteita, niin kyllä kun jotain keksitään niin sen että viljelijät jos he haluavat tällaisen niin heille ehdotetaan tällaista lähtevät sinne mukaan niin eihän siinä ole periaatteessa mitään esteitä ellei ole poliittisia tai lainsäädännöllisiä esteitä, mutta kehitysvaihdosta [ ? ] Tässä vaiheessa me vielä visioidaan enemmän kuin meillä on mahdollisuus toteuttaa. Ilman muuta se on mahdollista. 
+
+[00:53:49] Niin kuin tuo olisi kuin pala kerrallaan?
+
+[00:53:52] Kyllä, kaikkihan nämä, rajapinnat, tietojen siirtäminen eri järjestelmistä toiseen, niin kyllähän se tulee toteutumaan jossain aikavälissä jos näin halutaan.
 
 
