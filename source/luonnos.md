@@ -135,8 +135,35 @@ III) Millaisia IoT-teknologioita haastateltavalla toimijalla on joko käytettäv
 * Millaisia toiveita tai tarpeita haastateltavalla on IoT-teknologioille?
 
 ## Työhypoteesit:
+
+Saturaatioon ei todennäköisesti päästä haastattelujen tuloksissa, koska opinnäytetyön rajattu laajuus ei mahdollista useiden samaan erikoisalaan perehtyneiden asiantuntijoiden haastatteluja. Samasta syystä haastattelukierroksia voidaan toteuttaa vain yksi.
+
 # Aineisto ja (tutkimus)menetelmät
 ## Tutkimusmenetelmät
+
+Tutkimuksen luotettavuutta pyritään parantamaan käyttämällä aineistotriangulaatiota: kirjallisuuskatsauksen tuloksia vertaillaan haastattelujen tuloksiin sekä tuodaan esille ammattijulkaisuissa, laitevalmistajien sekä muiden toimijoiden tiedotteissa, lehtiartikkeleissa jne. ilmestyneitä asiaan liittyviä asioita.
+
+Lisäksi tutkimuksen luotettavuutta pyritään parantamaan luettamalla haastatteluista tehdyt johtopäätökset muistiinpanoineen haastateltavalla.
+
+Haastattelujen litteroinnissa käytetään yleiskielistä litterointia (tai voitaisiin käyttää myös propositiotason litterointia).
+
+Työn alussa ilmiöön tutustuttaessa tehtiin useita hakuja aiheeseen liittyvillä avainsanoilla, selattiin erilaisten organisaatioiden ja julkaisujen verkkosivuja, haettiin asiantuntijakontakteja eri tapahtumista jne. Löydöt merkittiin muistiin mahdollista myöhempää käyttöä varten.
+
+Haastateltavia etsittiin tapahtumista saatujen kontaktien, aineistosta löytyneiden asiantuntijoiden ja omien tuttavuuksien kautta. Lisäksi käytettiin "snowballing" -menetelmää, jossa keskusteluissa informanttia pyydettiin suosittelemaan muita asiantuntijoita haastateltaviksi.
+
+Varsinainen kirjallisuuden haku aloitettiin Haaga-Helian kirjaston hhfinna-tietokantahaulla hakulauseella 
+iot AND (agriculture OR horticulture OR "plant production" OR greenhouse) -> ei tuloksia
+iot AND agriculture  -> ei tuloksia
+iot  -> useita tuloksia (39 2018-04-10)
+    Valittiin kirja Internet of things : principles and paradigms; Buyya, Rajkumar
+        koska yleistieto
+    Valittiin opinnäytetyö Internet of Things tulevaisuuden visiona; Nieminen, Daniela
+        koska yleistieto
+    Tutkittavaksi: * IEEE * World Forum on Internet of Things (WF-IoT)
+        koska voidaan tarkastella ilmiöden esiintymistä
+
+Haetaan kirjallisuuskatsauksia, joiden tutkimusmenetelmien perusteella voidaan hakea tehokkaammin.
+
 # Tulokset
 ## Tutkimusongelma I:n vastaukset
 ## Tutkimusongelma II:n vastaukset

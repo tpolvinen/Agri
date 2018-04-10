@@ -9,7 +9,7 @@ modified: '2018-03-26T09:55:00+03:00'
 
 ## Katsauksen tarkoitus
 
-on tutustuttaa maatalouteen tai kasvintuotantoon perehtymätön lukija IoT-teknologioiden mahdollisuuksiin kasvintuotannossa sekä alan keskeisiin toimijoihin. Lisäksi katsaus pyrkii tuomaan esiin uusien teknologioiden mahdollistamia liiketoimintamalleja alan toimijoille sekä verkostoimaan erilaisista, toisiaan täydentävistä lähtökohdista kasvintuotantoa lähestyviä toimijoita.
+on tutustuttaa maatalouteen tai kasvintuotantoon perehtymätön lukija IoT-teknologioiden tilanteeseen ja mahdollisuuksiin kasvintuotannossa. Lisäksi katsaus pyrkii tuomaan esiin uusia teknologioita ja niiden mahdollistamia liiketoimintamalleja alan toimijoille. Työn aikana pyritään verkostoimaan erilaisista, toisiaan täydentävistä lähtökohdista kasvintuotantoa lähestyviä toimijoita.
 
 ## Pohdintaa
 
@@ -34,13 +34,26 @@ Jos haluan tietää, millaisia IoT-teknologiasovelluksia kasvintuotannossa on, h
         * Mitkä ratkaisut tulevat eniten esille, mitkä vähemmän ja miksi?
         * Millaista tutkimusta tehdään?
 
+## Tutkimusongelma
+
+En tiedä maatalouden ja kasvintuotannon IoT-ratkaisuista ja kehityksen tilanteesta juuri mitään.
+Oletan asiota vaistomaisesti oman alani (IT) ja kokemusteni perusteella.
 
 ## Tutkimuskysymykset
+
+* Mitä
+* Miten, kuinka
+* Miksi
+* Paljonko
+
+Mikä on AIoT kasvintuotannossa?
 
 Millaista tutkimusta löytyy?
 	-millaiset tutkimuskohteet ovat eniten esillä?
 	-millaisia teknologiasovelluksia on esillä?
 	-mikä näyttää olevan löydetyn tutkimuksen kehityksen suunta ja luonne?
+
+Millaisia hankkeita löytyy?
 
 Millaisia tuotteita (tai muita ratkaisuita) löytyy?
 	-millaiset tuotteet ovat eniten esillä?
@@ -49,9 +62,7 @@ Millaisia tuotteita (tai muita ratkaisuita) löytyy?
 	-millaiset ratkaisut ovat päässeet tuotteiksi asti?
 		-per kasvihuone, pelto, puutarha
 		-miten kasvihuone-, pelto- ja puutarhatuotannon erot vaikuttavat ratkaisuihin?
+    -mitkä ovat tuotteiden hyödyt ja haitat? Entä riskit?
 
 Miten kasvintuotannossa hyödynnetään IoT-teknologioita?
-	-sama kuin edellä, lisäksi:
-	-millaiset ratkaisut ovat päässeet tuotteiksi asti ja tuotteista oikeaan käyttöön?
-		-per kasvihuone, pelto, puutarha
-		-miten kasvihuone-, pelto- ja puutarhatuotannon erot vaikuttavat tuotteisiin?
+	-sama kuin edellä
