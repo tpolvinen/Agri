@@ -1,7 +1,14 @@
 Haastattelu
+
 Liisa Pesonen
-8.11.2017
+Luke
 Vuorimiehentie 2
+Espoo
+
+2017-11-08T10:06:00+02:00
+
+171108_1006.mp3
+
 
 Maatalouden IoTssä?
 

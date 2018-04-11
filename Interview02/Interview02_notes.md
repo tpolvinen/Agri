@@ -5,10 +5,10 @@ Yara
 Bertil Jungin aukio 9
 Espoo
 
-23.11.2017
-klo 12:31 + 57.57
+2017-11-23T12:31:00+2:00
 
 171123_1231.mp3
+
 
 [00:02:41] IoT-määrittelyä
 
