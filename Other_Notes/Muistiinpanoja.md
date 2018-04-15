@@ -482,3 +482,16 @@ ieeexplore.ieee.org
 		"Agriculture Internet of Things" tuloksia 3
 	edistynyt haku, ei rajoituksia, vuodet 2015-2017
 		((agricultur*) AND "internet of things") tuloksia 415
+
+	komentohaku
+		Displaying results 1-25 of 12,087 for ("Abstract":"Internet of Things" OR "Web of Things" AND "literature survey")
+		-> haettu tuloksista agricultur* -lisähakusanalla:
+		Displaying results 1-25 of 288 for ("Abstract":"Internet of Things" OR "Web of Things" AND "literature survey") agricultur* 
+		-> tuloksissa oli useita kiinnostavia hakutuloksia, mutta ensimmäisten joukossa ei selkeästi kirjallisuuskatsauksia. Haukulauseessa on todennäköisesti vikaa.
+
+	edistynyt haku
+		Displaying results 1-25 of 45 for ((("Internet of Things") OR "web of Things") AND "literature review") 
+		-> haetaan tuloksista hakusanalla agricultur*
+		Displaying 1 of 1 result for ((("Internet of Things") OR "web of Things") AND "literature review") agricultur*
+			A Smart Meteorological Service Model Based on Big Data: A Value Creation Perspective
+				-jossa jonkinmoinen literature review mukana, luetaan millainen!
