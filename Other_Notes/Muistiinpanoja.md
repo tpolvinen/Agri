@@ -472,3 +472,13 @@ Katsotaan mitä Science Direct antaa kohdassa "Recommended articles" kirjallisuu
 	https://www.sciencedirect.com/science?_ob=ArticleListURL&_method=list&_ArticleListID=-1257143123&_sort=v&_st=17&view=c&_origin=related_art&panel=citeRelatedArt&_mlktType=Journal&md5=25d13962fffaeef0aace7cf7b129b528&searchtype=a
 
 Hunger for Food Business
+
+--------------------------------------------------------------------------------------------------
+"Internet of Farming" vai "Agricultural Internet of Things"?
+ieeexplore.ieee.org
+	perushaku, ei rajoituksia, vuodet 2015-2017
+		"Internet of Farming" tuloksia 0
+		"Agricultural Internet of Things" tuloksia 7
+		"Agriculture Internet of Things" tuloksia 3
+	edistynyt haku, ei rajoituksia, vuodet 2015-2017
+		((agricultur*) AND "internet of things") tuloksia 415
