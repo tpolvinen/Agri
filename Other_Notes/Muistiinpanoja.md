@@ -541,7 +541,6 @@ Perushaku
 			Buyya, R. & Dastjerdi, A. V. 2016. Internet of things: Principles and paradigms. Cambridge, MA: Morgan Kauffman.
 			Gilchrist, A. 2016. Industry 4.0: The industrial internet of things. [New York]: Apress.
 			Vermesan, O, & Friess, P (eds) 2011, Internet of Things - Global Technological and Societal Trends from Smart Environments and Spaces to Green Ict, River Publishers, Aalborg. Available from: ProQuest Ebook Central. [16 April 2018]. https://ebookcentral.proquest.com/lib/haaga/detail.action?docID=3400141#
-
 	"esineiden internet"
 		- valitaan yleistä IoTtä käsittelevät kirjat, nimen mukaan suljetaan pois tiettyyn teknologiaratkaisuihin tai liiketoimintaan keskittyvät teokset. Samoin jätetään tässä vaiheessa pois konferenssit, kuten 2014 International Conference on the Internet of Things (IOT) sekä Internet of Things (WF-IoT), 2014 IEEE World Forum on
 			Buyya, R. & Dastjerdi, A. V. 2016. Internet of things: Principles and paradigms. Cambridge, MA: Morgan Kauffman.
@@ -549,6 +548,10 @@ Perushaku
 
 --------------------------------------------------------------------------------------------------
 
+Science Direct -kantaa voi selata myös aiheittain!
+https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/plant-production
+https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/plant-factory
 
+--------------------------------------------------------------------------------------------------
 Kirjallisuuskatsauksessa A review on the practice of big data analysis in agriculture
 käytettiin 

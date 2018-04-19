@@ -5,11 +5,37 @@ Tags: IoT, IIoT, AIoT, maatalous, kasvintuotanto, kasvitehdas
 Category: IT
 Date: 2017-10-12 18:40
 Template: ../template/template.docx
-bibliography: ../bib/agri.bib
+bibliography: ../bib/AIoT.bib
 csl: ../style/harvard1.csl
 ...
 
+<17-04-2018  10:59>
+
+Testataan uutta bibliografiaa:
+
+Tässä on jotain asiaa, joka on lähteestä @BusinessClassApril.
+
+Tässä se on kirjoitettu sulkeisiin (@BusinessClassApril).
+
+Tässä viitteeseen on lisätty kaksi sivunumeroa (@BusinessClassApril, 2, 22).
+
+
+<17-04-2018  11:15>
+
+Tulos ei nyt ollut kovin hyvä: viite menee automaattisesti sulkeisiin kirjoitettujen lisäksi ja ilman tekijän nimeä viittaukseen tulee "Anon n.d."
+
+-> kokeillaan oikealla kirjaviittauksella:
+
+Tässä on asiaa kirjasta, lähdeviittaus tähän perään @buyya2016internet. Huom. piste perässä kans.
+
+Tässä se on kirjoitettu sulkeisiin (@buyya2016internet).
+
+Tässä viitteeseen on lisätty kaksi sivunumeroa (@buyya2016internet, 2, 22).
+
 # Tiivistelmä
+
+Tässä opinnäytetyössä käytetään lähdeviittausten tyylinä Södertörns högskola - Harvard -tyyliä.
+
 # Johdanto
 -- Omia huomioita 17.11.2017: Olen jotenkin olettanut, että totta kai maataloudessa oltaisiin jo omaksuttu paljon enemmän IoT-teknologioita, samaaan tapaan kuin muualla teollisuudessa. Jokin alan vieraudessa on vaikuttanut minuun. Ehkä työni ensimmäinen hämmästynyt kysymys oli: "Sitä tietoa ei siis saa sieltä koneesta ulos?" Viljelijöiden harkitsevuus uusien teknologioiden käyttöönotossa ei ole takapajuisuutta, ymmärtämättömyyttä tai typeryyttä, vaan sille on hyvä syy: teknologian tulee todistettavasti olla tuottavaa jotta sen käyttöönottoa edes voitaisiin harkita. Niin kuin missä tahansa liiketoiminnassa tai tuotannossa. Kentän hajanaisuus, järjestelmäintegration vaikeus ja hitaus ovat hidastaneet laajamittaista käyttöönottoa huomattavasti peltotuotannossa, osin myös puutarhatuotannossa. Kyse ei ilmeiseti olekaan alan takapajuisuudesta tai merkityksettömyydestä. --
 
