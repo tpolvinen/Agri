@@ -34,6 +34,13 @@ Tässä viitteeseen on lisätty kaksi sivunumeroa (@buyya2016internet, 2, 22).
 
 # Tiivistelmä
 
+Tämä on tutkimustyyppinen opinnäytetyö, jossa toteutetaan laadullinen tutkimus.
+Laadullisen tutkimuksen tutkimusote valittiin kolmesta syystä: 1) tutkimusaiheesta ei löydetty merkittävää määrää tutkimusta työn alkuvaiheessa tutustuttaessa tutkittavaan ilmiöön, 2) kasvintuotannon ala on tekijälle tuntematon ja 3) työn alkuvaiheessa havaittiin, että kasvintuotannossa IoT-ratkaisuiden käyttöönotto on laajassa mittakaavassa alkuvaiheessa ja ala on tältä osin muutosvaiheessa. 
+Käytettävät tutkimusmenetelmät ovat kuvaileva (narratiivinen) kirjallisuuskatsaus sekä teemahaastattelut.
+Kirjallisuuskatsauksen ja teemahaastattelujen tuottamaa tietoa käsitellään sisällönanalyysin keinoin käyttäen myös narratiivisen tutkimuksen keinoja.
+Teemahaastattelun tutkimusmenetelmää käytetään yhdessä kuvailevan kirjallisuuskatsauksen kanssa trianguloimaan tutkimusaihetta.
+Aineiston keruumenetelmiä oli useita. Varsinaista tutkimustyötä edelsi ilmiöön tutustuminen erilaisilla keruumenetelmiä testattaessa, käyden asiantuntijakeskusteluja, vierailemalla alan tapahtumissa, keräämällä kontakteja ja haastatteluja tehden. Varsinaisen tutkimustyön aluksi haettiin IoT:tä yleistasolla ja ilmiönä käsittelevää kirjallisuutta. Seuraavaksi käytettiin sateenvarjokatsausta, jolla haettiin ilmiötä käsitteleviä kirjallisuuskatsauksia. Valittujen kirjallisuuskatsausten pohjalta muotoiltiin omat hakumetodit ja valittiin osa lähteistä. Omien hakumetodien tuloksista on valittu tekijän harkinnan mukaan aihetta parhaiten kuvaavat. Lisäksi ollaan käytetty aiheeseen tutustuttaessa löydettyjä lähteitä jos ne ovat tekijän harkinnan mukaan olleet tähdellisiä aiheen käsittelylle ja ymmärryksen luomiselle.
+
 Tässä opinnäytetyössä käytetään lähdeviittausten tyylinä Södertörns högskola - Harvard -tyyliä.
 
 # Johdanto
@@ -162,7 +169,7 @@ III) Millaisia IoT-teknologioita haastateltavalla toimijalla on joko käytettäv
 
 ## Työhypoteesit:
 
-Saturaatioon ei todennäköisesti päästä haastattelujen tuloksissa, koska opinnäytetyön rajattu laajuus ei mahdollista useiden samaan erikoisalaan perehtyneiden asiantuntijoiden haastatteluja. Samasta syystä haastattelukierroksia voidaan toteuttaa vain yksi.
+Saturaatioon ei todennäköisesti päästä haastattelujen tuloksissa, koska opinnäytetyön rajattu laajuus ei mahdollista useiden samaan erikoisalaan perehtyneiden asiantuntijoiden haastatteluja. Samasta syystä haastattelukierroksia voidaan toteuttaa vain yksi, jolloin kerättyä tietoa ei voi pitää kovin syvällisenä. Tiedon syventäminen joudutaan jättämään jatkotutkimukselle.
 
 # Aineisto ja (tutkimus)menetelmät
 ## Tutkimusmenetelmät
