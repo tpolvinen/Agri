@@ -180,7 +180,7 @@ Lisäksi tutkimuksen luotettavuutta pyritään parantamaan luettamalla haastatte
 
 Haastattelujen litteroinnissa käytetään yleiskielistä litterointia. Yleiskielistä litterointia tarkempaa sanatarkkaa litterointia on käytetty, jos sanojen poistamisella litteroinnista on arvioitu olevan tarkoitusta mahdollisesti muuttava vaikutus.
 
-Tutkimuksen alustavassa vaiheessa ilmiöön tutustuttaessa tehtiin useita hakuja aiheeseen liittyvillä avainsanoilla, selattiin erilaisten organisaatioiden ja julkaisujen verkkosivuja, haettiin asiantuntijakontakteja eri tapahtumista jne. Löydöt merkittiin muistiin mahdollista myöhempää käyttöä varten.
+Tutkimuksen alustavassa vaiheessa ilmiöön tutustuttaessa tehtiin useita hakuja aiheeseen liittyvillä asiasanoilla, selattiin erilaisten organisaatioiden ja julkaisujen verkkosivuja, haettiin asiantuntijakontakteja eri tapahtumista jne. Löydöt merkittiin muistiin mahdollista myöhempää käyttöä varten.
 
 Haastateltavia etsittiin tapahtumista saatujen kontaktien, aineistosta löytyneiden asiantuntijoiden ja omien tuttavuuksien kautta. Lisäksi käytettiin "snowballing" -menetelmää, jossa keskusteluissa informanttia pyydettiin suosittelemaan muita asiantuntijoita haastateltaviksi.
 
@@ -224,6 +224,7 @@ Perushaku
 IoT:tä käsittelevät kirjat valittiin tutkittaviksi edellisistä tuloksista. Tuloksista valittiin tutkittaviksi saatavilla olevat englanninkieliset kirjat, joissa tekstihaulla löydettiin tekstistä sana "agriculture" useita kertoja. Näin tutkittaviksi valikoituivat kirjat: Internet of things: Principles and paradigms; Industry 4.0: The industrial internet of things; Internet of Things - Global Technological and Societal Trends. Lopuksi kirjat valittiin silmäilyn perusteella tarkemmin luettaviksi.
 
 Seuraavaksi haettiin Haaga-Helian kirjaston tarjoamista tietokannoista ne, joista voitiin olettaa löytyvän IT-alan julkaisuja. Hauissa käytettiin hakusanoina "IoT", "Internet of Things", "Agriculture", "Smart Farming"
+*Näitä pitää vielä täsmentää* *Osa kannoista puuttuu vielä!!!*
 
 Passport
     -Population Change as a Megatrend Driver; Technology as a Megatrend Driver
@@ -235,11 +236,20 @@ Doria
 Elsevier ScienceDirect Freedom Collection
     -tärppäsi: agro-industrial-kirjallisuuskatsaus; big data analysis in agriculture-kirjallisuuskatsaus; jne.
 
+Löydettyjä kirjallisuuskatsauksia käytetään seuraavasti:
+Tiedon kattavuutta pyritään parantamaan hakemalla sateenvarjokatsauksen omaisesti aihetta käsitteleviä kirjallisuuskatsauksia. Hakutuloksista valituista kirjallisuuskatsauksista käydään läpi tutkimusmetodit joista löytyviä hakumenetelmiä käytetään hyväksi soveltuvin osin tämän työn seuraavissa tiedonhakuvaiheessa.
 
-Tiedon kattavuutta pyritään parantamaan hakemalla sateenvarjokatsauksen omaisesti aihetta käsitteleviä kirjallisuuskatsauksia. Hakutuloksista valituista kirjallisuuskatsauksista käydään läpi tutkimusmetodit joista löytyviä hakumenetelmiä käytetään hyväksi soveltuvin osin tämän työn seuraavassa tiedonhakuvaiheessa.
-
-
-
+SEURAAVAKSI: 
+Sateenkaarikatsauksen loppuun vienti:
+    Katsausten asiasanat yhteen, haku niillä katsausten metodeista parhaisiin kantoihin. Lisäksi käydään läpi kannoista kuhunkin katsaukseen liittyvät julkaisut, esim. Science Direct:in "Recommended articles"
+Valituista katsauksista otetaan asiasanat ja mallit hakulauseisiin/metodeihin. Asiasanoihin lisätään sellaiset, jotka ovat tulleet aikaisemmissa vaiheissa esille ja joiden oletetaan olevan keskeisiä tutkittavalle ilmiölle tai jollekin sen osalle. Kirjoitetaan löydökset.
+Tehdään varsinaiset hakulauseet ja valitaan kannat. Tehdään haut. Valitaan tuloksista sopivat metodilla Mutu-X. Kirjoitetaan löydökset.
+Käydään läpi haastattelujen litteroinnit ja kirjoitetaan löydökset. Tarkistetaan oikeellisuus haastateltavien kanssa.
+Lisätään mahd. mukaan aikaisemmista vaiheista mukaan tulleet lähteet ja kirjoitetaan löydökset.
+Kirjoitetaan tulokset.
+Refaktoroidaan haastatteluprotokolla jos se tarvitaan mukaan työhön.
+Refaktoroidaan tutkimusongelma ja -kysymykset.
+Kirjoitetaan Johtopäätökset ja suositukset
 
 # Tulokset
 ## Tutkimusongelma I:n vastaukset
