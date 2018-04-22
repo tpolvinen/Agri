@@ -178,24 +178,68 @@ Tutkimuksen luotettavuutta pyritään parantamaan käyttämällä aineistotriang
 
 Lisäksi tutkimuksen luotettavuutta pyritään parantamaan luettamalla haastatteluista tehdyt johtopäätökset muistiinpanoineen haastateltavalla.
 
-Haastattelujen litteroinnissa käytetään yleiskielistä litterointia (tai voitaisiin käyttää myös propositiotason litterointia).
+Haastattelujen litteroinnissa käytetään yleiskielistä litterointia. Yleiskielistä litterointia tarkempaa sanatarkkaa litterointia on käytetty, jos sanojen poistamisella litteroinnista on arvioitu olevan tarkoitusta mahdollisesti muuttava vaikutus.
 
-Työn alussa ilmiöön tutustuttaessa tehtiin useita hakuja aiheeseen liittyvillä avainsanoilla, selattiin erilaisten organisaatioiden ja julkaisujen verkkosivuja, haettiin asiantuntijakontakteja eri tapahtumista jne. Löydöt merkittiin muistiin mahdollista myöhempää käyttöä varten.
+Tutkimuksen alustavassa vaiheessa ilmiöön tutustuttaessa tehtiin useita hakuja aiheeseen liittyvillä avainsanoilla, selattiin erilaisten organisaatioiden ja julkaisujen verkkosivuja, haettiin asiantuntijakontakteja eri tapahtumista jne. Löydöt merkittiin muistiin mahdollista myöhempää käyttöä varten.
 
 Haastateltavia etsittiin tapahtumista saatujen kontaktien, aineistosta löytyneiden asiantuntijoiden ja omien tuttavuuksien kautta. Lisäksi käytettiin "snowballing" -menetelmää, jossa keskusteluissa informanttia pyydettiin suosittelemaan muita asiantuntijoita haastateltaviksi.
 
-Varsinainen kirjallisuuden haku aloitettiin Haaga-Helian kirjaston hhfinna-tietokantahaulla hakulauseella 
-iot AND (agriculture OR horticulture OR "plant production" OR greenhouse) -> ei tuloksia
-iot AND agriculture  -> ei tuloksia
-iot  -> useita tuloksia (39 2018-04-10)
-    Valittiin kirja Internet of things : principles and paradigms; Buyya, Rajkumar
-        koska yleistieto
-    Valittiin opinnäytetyö Internet of Things tulevaisuuden visiona; Nieminen, Daniela
-        koska yleistieto
-    Tutkittavaksi: * IEEE * World Forum on Internet of Things (WF-IoT)
-        koska voidaan tarkastella ilmiöden esiintymistä
+Varsinainen kirjallisuuden haku aloitettiin Haaga-Helian kirjaston hhfinna-tietokantahaulla Haettu HHFinnasta <16-04-2018>  https://haaga-helia.finna.fi/
 
-Haetaan kirjallisuuskatsauksia, joiden tutkimusmenetelmien perusteella voidaan hakea tehokkaammin.
+Tarkennettu haku
+    IoT AND Agriculture + kokoteksti saatavilla
+        Ei tuloksia
+    IoT AND Agriculture
+        Ei tuloksia
+    IoT AND Agricultural + kokoteksti saatavilla
+        Ei tuloksia
+    IoT AND Agricultural
+        Ei tuloksia
+    IoT
+        29 tulosta
+        - valitaan yleistä IoTtä käsittelevät kirjat, nimen mukaan suljetaan pois tiettyyn teknologiaratkaisuihin keskittyvät teokset. Samoin jätetään tässä vaiheessa pois konferenssijulkaisut.
+            Enterprise IoT, Slama, Dirk et al.
+                Ei saatavilla: Page Not Found <16-04-2018  21:44>
+
+Perushaku
+    IoT
+        Kirjoja 49, Kokoteksti saatavilla 40  (kaikista aineistotyypeistä)
+        - valitaan yleistä IoTtä käsittelevät kirjat, nimen mukaan suljetaan pois tiettyyn teknologiaratkaisuihin tai liiketoimintaan keskittyvät teokset. Samoin jätetään tässä vaiheessa pois konferenssijulkaisut.
+            Enterprise IoT, Slama, Dirk et al.
+                Page Not Found <16-04-2018  22:08>
+            Buyya, R. & Dastjerdi, A. V. 2016. Internet of things: Principles and paradigms. Cambridge, MA: Morgan Kauffman.
+        Opinnäytetöistä valittu
+            Nieminen, D. & ammattikorkeakoulu, H. 2015. Internet of Things tulevaisuuden visiona. Haaga-Helia ammattikorkeakoulu.
+    "Internet of Things" <16-04-2018  22:59>
+        Kirjoja 135, Kokoteksti saatavilla 144 (kaikista aineistotyypeistä)
+        - valitaan yleistä IoTtä käsittelevät kirjat, nimen mukaan suljetaan pois tiettyyn teknologiaratkaisuihin tai liiketoimintaan keskittyvät teokset. Samoin jätetään tässä vaiheessa pois konferenssijulkaisut.
+            Buyya, R. & Dastjerdi, A. V. 2016. Internet of things: Principles and paradigms. Cambridge, MA: Morgan Kauffman.
+            Gilchrist, A. 2016. Industry 4.0: The industrial internet of things. [New York]: Apress.
+            Vermesan, O, & Friess, P (eds) 2011, Internet of Things - Global Technological and Societal Trends from Smart Environments and Spaces to Green Ict, River Publishers, Aalborg. Available from: ProQuest Ebook Central. [16 April 2018]. https://ebookcentral.proquest.com/lib/haaga/detail.action?docID=3400141#
+    "esineiden internet"
+        - valitaan yleistä IoTtä käsittelevät kirjat, nimen mukaan suljetaan pois tiettyyn teknologiaratkaisuihin tai liiketoimintaan keskittyvät teokset. Samoin jätetään tässä vaiheessa pois konferenssijulkaisut.
+            Buyya, R. & Dastjerdi, A. V. 2016. Internet of things: Principles and paradigms. Cambridge, MA: Morgan Kauffman.
+            Gilchrist, A. 2016. Industry 4.0: The industrial internet of things. [New York]: Apress.
+
+IoT:tä käsittelevät kirjat valittiin tutkittaviksi edellisistä tuloksista. Tuloksista valittiin tutkittaviksi saatavilla olevat englanninkieliset kirjat, joissa tekstihaulla löydettiin tekstistä sana "agriculture" useita kertoja. Näin tutkittaviksi valikoituivat kirjat: Internet of things: Principles and paradigms; Industry 4.0: The industrial internet of things; Internet of Things - Global Technological and Societal Trends. Lopuksi kirjat valittiin silmäilyn perusteella tarkemmin luettaviksi.
+
+Seuraavaksi haettiin Haaga-Helian kirjaston tarjoamista tietokannoista ne, joista voitiin olettaa löytyvän IT-alan julkaisuja. Hauissa käytettiin hakusanoina "IoT", "Internet of Things", "Agriculture", "Smart Farming"
+
+Passport
+    -Population Change as a Megatrend Driver; Technology as a Megatrend Driver
+
+ProQuest
+
+Doria
+
+Elsevier ScienceDirect Freedom Collection
+    -tärppäsi: agro-industrial-kirjallisuuskatsaus; big data analysis in agriculture-kirjallisuuskatsaus; jne.
+
+
+Tiedon kattavuutta pyritään parantamaan hakemalla sateenvarjokatsauksen omaisesti aihetta käsitteleviä kirjallisuuskatsauksia. Hakutuloksista valituista kirjallisuuskatsauksista käydään läpi tutkimusmetodit joista löytyviä hakumenetelmiä käytetään hyväksi soveltuvin osin tämän työn seuraavassa tiedonhakuvaiheessa.
+
+
+
 
 # Tulokset
 ## Tutkimusongelma I:n vastaukset

@@ -529,7 +529,7 @@ Tarkennettu haku
 Perushaku
 	IoT
 		Kirjoja 49, Kokoteksti saatavilla 40  (kaikista aineistotyypeistä)
-		- valitaan yleistä IoTtä käsittelevät kirjat, nimen mukaan suljetaan pois tiettyyn teknologiaratkaisuihin tai liiketoimintaan keskittyvät teokset. Samoin jätetään tässä vaiheessa pois konferenssit, kuten 2014 International Conference on the Internet of Things (IOT) sekä Internet of Things (WF-IoT), 2014 IEEE World Forum on
+		- valitaan yleistä IoTtä käsittelevät kirjat, nimen mukaan suljetaan pois tiettyyn teknologiaratkaisuihin tai liiketoimintaan keskittyvät teokset. Samoin jätetään tässä vaiheessa pois konferenssit*
 			Enterprise IoT, Slama, Dirk et al.
 				Page Not Found <16-04-2018  22:08>
 			Buyya, R. & Dastjerdi, A. V. 2016. Internet of things: Principles and paradigms. Cambridge, MA: Morgan Kauffman.
@@ -537,15 +537,16 @@ Perushaku
 			Nieminen, D. & ammattikorkeakoulu, H. 2015. Internet of Things tulevaisuuden visiona. Haaga-Helia ammattikorkeakoulu.
 	"Internet of Things" <16-04-2018  22:59>
 		Kirjoja 135, Kokoteksti saatavilla 144 (kaikista aineistotyypeistä)
-		- valitaan yleistä IoTtä käsittelevät kirjat, nimen mukaan suljetaan pois tiettyyn teknologiaratkaisuihin tai liiketoimintaan keskittyvät teokset. Samoin jätetään tässä vaiheessa pois konferenssit, kuten 2014 International Conference on the Internet of Things (IOT) sekä Internet of Things (WF-IoT), 2014 IEEE World Forum on
+		- valitaan yleistä IoTtä käsittelevät kirjat, nimen mukaan suljetaan pois tiettyyn teknologiaratkaisuihin tai liiketoimintaan keskittyvät teokset. Samoin jätetään tässä vaiheessa pois konferenssit*
 			Buyya, R. & Dastjerdi, A. V. 2016. Internet of things: Principles and paradigms. Cambridge, MA: Morgan Kauffman.
 			Gilchrist, A. 2016. Industry 4.0: The industrial internet of things. [New York]: Apress.
 			Vermesan, O, & Friess, P (eds) 2011, Internet of Things - Global Technological and Societal Trends from Smart Environments and Spaces to Green Ict, River Publishers, Aalborg. Available from: ProQuest Ebook Central. [16 April 2018]. https://ebookcentral.proquest.com/lib/haaga/detail.action?docID=3400141#
 	"esineiden internet"
-		- valitaan yleistä IoTtä käsittelevät kirjat, nimen mukaan suljetaan pois tiettyyn teknologiaratkaisuihin tai liiketoimintaan keskittyvät teokset. Samoin jätetään tässä vaiheessa pois konferenssit, kuten 2014 International Conference on the Internet of Things (IOT) sekä Internet of Things (WF-IoT), 2014 IEEE World Forum on
+		- valitaan yleistä IoTtä käsittelevät kirjat, nimen mukaan suljetaan pois tiettyyn teknologiaratkaisuihin tai liiketoimintaan keskittyvät teokset. Samoin jätetään tässä vaiheessa pois konferenssit*
 			Buyya, R. & Dastjerdi, A. V. 2016. Internet of things: Principles and paradigms. Cambridge, MA: Morgan Kauffman.
 			Gilchrist, A. 2016. Industry 4.0: The industrial internet of things. [New York]: Apress.
 
+*kuten 2014 International Conference on the Internet of Things (IOT) sekä Internet of Things (WF-IoT), 2014 IEEE World Forum on
 --------------------------------------------------------------------------------------------------
 
 Science Direct -kantaa voi selata myös aiheittain!
@@ -553,5 +554,24 @@ https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/plant-
 https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/plant-factory
 
 --------------------------------------------------------------------------------------------------
+
 Kirjallisuuskatsauksessa A review on the practice of big data analysis in agriculture
-käytettiin 
+käytettiin...
+
+--------------------------------------------------------------------------------------------------
+
+<21-04-2018  23:29>
+Researchgate https://www.researchgate.net/publication/320443021_IOF2020_Fostering_business_and_software_ecosystems_for_large-scale_uptake_of_IoT_in_food_and_farming/related
+
+	Nämä vaikuttavat hyviltä:
+		https://www.researchgate.net/publication/312164156_Internet_of_Things_in_agriculture
+			-kirjallisuuskatsaus Verdouw: Internet of Things in agriculture !
+			-related project: https://www.researchgate.net/project/AgriXchange-A-common-data-exchange-system-for-agricultural-systems
+			-muut Related research... https://www.researchgate.net/publication/312164156_Internet_of_Things_in_agriculture/related ...mitä on PALJON.
+
+		https://www.researchgate.net/publication/304900564_Internet_of_Food_and_Farm_2020
+
+		https://www.researchgate.net/publication/320473452_Big_Data_on_a_Farm-Smart_Farming
+
+
+

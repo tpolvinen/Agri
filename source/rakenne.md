@@ -150,6 +150,7 @@ LÄHTEET
 LIITTEET
 
 <20-04-2018  15:33> Toiseksi malliksi sisällys kirjallisuuskatsauksesta:
+    *Täällä on kivasti luku 4 vastaamassa tutkimuskysymyksiin*
 LUT
 Petra Helmiö
 Open source in Industrial Internet of Things: A systematic literature review
