@@ -99,6 +99,12 @@ Alakukku (Maataloustieteen päivät 2016)
 Ohja Sensing-cloud: Leveraging the benefits for agricultural applications
     Sensor-cloud, Virtualization, System model of sensor-cloud, Sensor-cloud for agricultural applications
 
+Nikkilä
+    FMIS, RIF, spatial inference, precision agriculture
+
+Elovaara
+    OPC UA, aggregating servers, data mapping, ISOBUS, FMIS
+
 ## Kaikki asiasanat yhdessä
 ### Katsausten omat asiasanat
 open source, Internet of Things, Industrial Internet of Things, IoT, IIoT, literature review
@@ -128,9 +134,75 @@ Sensor-cloud, Virtualization, System model of sensor-cloud, Sensor-cloud for agr
 
 ## Asiasanojen valintaperusteet
 
+Asiasanojen valinnassa käytettiin vain englanninkielisiä sanoja, koska arvioitiin myös suomenkielisten artikkelien löytyvän niiden avulla. *Tämä saattaa osoittautua vääräksi, mutta tietoa on tässä vaiheessa <23-04-2018  23:33> jo tarpeeksi tämän opinnäytetyön tarpeisiin.*
+
 Kirjojen yhteydestä löydetyt asiasanat jätettiin pois, koska kirjojen relevanteiksi katsotut asiasanat toistuivat muualla. Lisäksi tutkimuksen seuraavissa vaiheissa ei enää haettu IoT:tä yleisesti käsittelevää kirjallisuutta.
 
 Samoin pois jätettiin asiasanat, jotka eivät selkeästi liity kasvintuotannon IoT:n teknologiaratkaisuihin.
 
-Kirjallisuuskatsausten hakuun käytettiin asiasanoja kirjallisuuskatsauksista
+Kirjallisuuskatsausten hakuun käytettiin asiasanoja kirjallisuuskatsauksista. Useiten toistuvat asiasanat IoT ja Internet of Things valittiin ensimmäiseksi ryhmäksi. Toiseksi ryhmäksi valittiin kirjallisuuskatsauksia koskevat asiasanat literature review, Systematic literature review, Survey. Kolmanteen asiasanaryhmään valittiin sellaiset asiasanat, joiden arvioitiin toistuvan kirjallisuuskatsauksissa ja joita ei valittu edellisiin ryhmiin. Kolmanteen ryhmään lisättiin vielä Precision Agriculture:   
+    Agriculture
+    Agro-industry
+    Big data analysis
+    Consumer Information
+    Environmental monitoring
+    IIoT
+    Industrial Internet of Things
+    Precision Farming
+    Precision Agriculture
+    Smart Farming
 
+Artikkelien hakuun käytettiin kirjallisuuskatsausten hakulauseissa käytettyjä hakusanoja, joista valittiin arviolta keskeisimmät kasvintuotannon IoT-ratkaisuiden näkökulmasta. Näihin lisättiin muissa aikaisemmissa vaiheissa löydetyt asiasanat, joiden arvioitiin mahdollisesti parantavan hakutulosten kattavuutta.
+    Agribusiness
+    Agricultural industry
+    Agricultural products
+    Agriculture
+    Agriculture technology
+    Agroindustry
+    Big Data
+    Cereals
+    Climate
+    Cloud Computing
+    Crop
+    Drones
+    Drought
+    Environmental monitoring
+    Equipment status
+    Farm
+    Farming
+    Feed production
+    Fertilizers
+    Flooding
+    Food production
+    Forecast
+    Fruit
+    Fruit storage
+    Greenhouses
+    Harvesting
+    Horticulture
+    Industrial
+    Internet of things
+    IoT
+    IoT applications
+    Irrigation
+    Pest
+    Plant
+    Plant Production
+    Precision Agriculture
+    Precision Farming
+    Product Traceability
+    Seed
+    Sensor discovery
+    Sensor integration
+    Sensor-cloud
+    Sensor-cloud for agricultural applications
+    Smart Agriculture
+    Smart Environments
+    Smart Farming
+    Telemetry applications
+    Ubiquitous sensing
+    Vegetable
+    Water
+    Weather
+    Web of Things
+    Wireless Sensor Networks
