@@ -92,10 +92,6 @@ Nope.
 
 ---------------------------------------------------------------------------------------------------
 
-Haettu ProQuest-tietokannasta 2018-03-30 hakusanoilla smart farming
-
----------------------------------------------------------------------------------------------------
-
 Haettu Doria-tietokannasta 2018-03-30 hakusanoilla iot
 
 Information Security In The Internet Of Things – A Systematic Literature Review  Jouni Pänkäläinen
@@ -547,6 +543,7 @@ Perushaku
 			Gilchrist, A. 2016. Industry 4.0: The industrial internet of things. [New York]: Apress.
 
 *kuten 2014 International Conference on the Internet of Things (IOT) sekä Internet of Things (WF-IoT), 2014 IEEE World Forum on
+
 --------------------------------------------------------------------------------------------------
 
 Science Direct -kantaa voi selata myös aiheittain!

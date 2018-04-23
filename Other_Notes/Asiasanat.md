@@ -130,5 +130,7 @@ Sensor-cloud, Virtualization, System model of sensor-cloud, Sensor-cloud for agr
 
 Kirjojen yhteydestä löydetyt asiasanat jätettiin pois, koska kirjojen relevanteiksi katsotut asiasanat toistuivat muualla. Lisäksi tutkimuksen seuraavissa vaiheissa ei enää haettu IoT:tä yleisesti käsittelevää kirjallisuutta.
 
+Samoin pois jätettiin asiasanat, jotka eivät selkeästi liity kasvintuotannon IoT:n teknologiaratkaisuihin.
 
+Kirjallisuuskatsausten hakuun käytettiin asiasanoja kirjallisuuskatsauksista
 

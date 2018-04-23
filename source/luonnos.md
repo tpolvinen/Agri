@@ -9,37 +9,16 @@ bibliography: ../bib/AIoT.bib
 csl: ../style/harvard1.csl
 ...
 
-<17-04-2018  10:59>
+<23-04-2018  17:03> bibliografian testaus:
+ckey    @elovaaraAggregatingOPCUA2015
+(ckey)    (@elovaaraAggregatingOPCUA2015)
+(ckey 3, 33)    (@elovaaraAggregatingOPCUA2015 3, 33)
+ckey    buyya2016internet
+(ckey)  (@buyya2016internet)
+(ckey 3, 33)    (@buyya2016internet 3, 33)
 
-Testataan uutta bibliografiaa:
-
-Tässä on jotain asiaa, joka on lähteestä @BusinessClassApril.
-
-Tässä se on kirjoitettu sulkeisiin (@BusinessClassApril).
-
-Tässä viitteeseen on lisätty kaksi sivunumeroa (@BusinessClassApril, 2, 22).
-
-
-<17-04-2018  11:15>
-
-Tulos ei nyt ollut kovin hyvä: viite menee automaattisesti sulkeisiin kirjoitettujen lisäksi ja ilman tekijän nimeä viittaukseen tulee "Anon n.d."
-
--> kokeillaan oikealla kirjaviittauksella:
-
-Tässä on asiaa kirjasta, lähdeviittaus tähän perään @buyya2016internet. Huom. piste perässä kans.
-
-Tässä se on kirjoitettu sulkeisiin (@buyya2016internet).
-
-Tässä viitteeseen on lisätty kaksi sivunumeroa (@buyya2016internet, 2, 22).
 
 # Tiivistelmä
-
-Tämä on tutkimustyyppinen opinnäytetyö, jossa toteutetaan laadullinen tutkimus.
-Laadullisen tutkimuksen tutkimusote valittiin kolmesta syystä: 1) tutkimusaiheesta ei löydetty merkittävää määrää tutkimusta työn alkuvaiheessa tutustuttaessa tutkittavaan ilmiöön, 2) kasvintuotannon ala on tekijälle tuntematon ja 3) työn alkuvaiheessa havaittiin, että kasvintuotannossa IoT-ratkaisuiden käyttöönotto on laajassa mittakaavassa alkuvaiheessa ja ala on tältä osin muutosvaiheessa. 
-Käytettävät tutkimusmenetelmät ovat kuvaileva (narratiivinen) kirjallisuuskatsaus sekä teemahaastattelut.
-Kirjallisuuskatsauksen ja teemahaastattelujen tuottamaa tietoa käsitellään sisällönanalyysin keinoin käyttäen myös narratiivisen tutkimuksen keinoja.
-Teemahaastattelun tutkimusmenetelmää käytetään yhdessä kuvailevan kirjallisuuskatsauksen kanssa trianguloimaan tutkimusaihetta.
-Aineiston keruumenetelmiä oli useita. Varsinaista tutkimustyötä edelsi ilmiöön tutustuminen erilaisilla keruumenetelmiä testattaessa, käyden asiantuntijakeskusteluja, vierailemalla alan tapahtumissa, keräämällä kontakteja ja haastatteluja tehden. Varsinaisen tutkimustyön aluksi haettiin IoT:tä yleistasolla ja ilmiönä käsittelevää kirjallisuutta. Seuraavaksi käytettiin sateenvarjokatsausta, jolla haettiin ilmiötä käsitteleviä kirjallisuuskatsauksia. Valittujen kirjallisuuskatsausten pohjalta muotoiltiin omat hakumetodit ja valittiin osa lähteistä. Omien hakumetodien tuloksista on valittu tekijän harkinnan mukaan aihetta parhaiten kuvaavat. Lisäksi ollaan käytetty aiheeseen tutustuttaessa löydettyjä lähteitä jos ne ovat tekijän harkinnan mukaan olleet tähdellisiä aiheen käsittelylle ja ymmärryksen luomiselle.
 
 Tässä opinnäytetyössä käytetään lähdeviittausten tyylinä Södertörns högskola - Harvard -tyyliä.
 
@@ -140,13 +119,17 @@ FAO - News Article: Scarcity and degradation of land and water: growing threat
 ## Taustaa
 
 <23-04-2018  13:22>
-Maatalouteen kohdistuu jatkuvasti kovenevia tehokkuusvaatimuksia, samalla kun teknologinen kehitys mahdollistaa tehokkaampia viljelyprosesseja. Lisäksi maataloudelle ja ruokaturvalle asettaa haasteita ilmastonmuutos ja väestönkasvu. Näihin vaatimuksiin ja haasteisiin pyritään osaltaan vastaamaan digitalisoimalla maatalouden prosesseja samankaltaisesti kuin muussa teollisuudessa.
+Maatalouteen kohdistuu jatkuvasti kovenevia tehokkuusvaatimuksia, samalla kun teknologinen kehitys mahdollistaa tehokkaampia viljelyprosesseja. Lisäksi maataloudelle ja ruokaturvalle asettaa haasteita ilmastonmuutos ja väestönkasvu. Näihin vaatimuksiin ja haasteisiin pyritään osaltaan vastaamaan digitalisoimalla maatalouden prosesseja kuin muilla teollisuuden aloilla.
+
+*IIoT Industry 4.0:sta sivut 2-5*
+
+*Sitten miten maatalous liittyy IIoT:hen*
 
 <23-04-2018  12:15>
 *Perustuen Joona Elovaaran "Aggregating OPC UA Server for Remote Access to Agricultural Work Machines" diplomityön osioon 1.1 Background:*
 Agroteknologian viime vuosien nopea kehitys on mahdollistunut muilla alueilla tapahtuneen teknologiakehityksen myötä. Prosessien automatisointi, reaaliaikainen ohjaus ja konenäköjärjestelmät ovat keskeisiä agroteknologian kehitykseen vaikuttaneita teknologiakehityksen alueita *(Ronkainen, 2014)*. Täsmäviljelyn (Precision Agriculture, PA [http://www.aumanet.fi/tasmaviljely/maaritelma.html]) ja määränsäätöautomatiikan (Variable Rate Application VRA) laajentuva käyttö on myös osaltaan nopeuttanut maataloustyökoneiden teknologian kehitystä *(Ronkainen, 2014)*.
 
-Työkoneiden kehityksen myötä maatilojen toiminnan hallinta on monimutkaistunut. Viljelijän tulee tehdä päätöksiä viljelytoimien laadusta, sisällöstä, ajankohdasta ja järjestyksestä ottaen samalla huomioon sekä ympäristönsuojelun että maataloustukien säädökset, lisäksi huolehtien liiketoiminnastaan ja tilansa työkoneista ja muusta infrastruktuurista. Tätä toimintaa ja päätöksentekoa tukemaan on kehitetty erilaisia tiedonhallinnan järjestelmiä, joita kutsutaan Farm Management Information System:eiksi (FMIS). FMIS on määritelmällisesti järjestelmä, joka kerää, käsittelee, tallentaa ja välittää dataa tiedon muodossa, jota tarvitaan maatilan operatiivisten toimintojen suorittamisessa *(Sørensen et al. 2010a)*.
+Työkoneiden kehityksen myötä maatilojen toiminnan hallinta on monimutkaistunut. Viljelijän tulee tehdä päätöksiä viljelytoimien laadusta, sisällöstä, ajankohdasta ja järjestyksestä ottaen samalla huomioon sekä ympäristönsuojelun että maataloustukien säädökset, lisäksi huolehtien liiketoiminnastaan ja tilansa työkoneista ja muusta infrastruktuurista. Tätä toimintaa ja päätöksentekoa tukemaan on kehitetty erilaisia tiedonhallinnan järjestelmiä, joita kutsutaan Farm Management Information System:eiksi (FMIS). (@elovaaraAggregatingOPCUA2015) FMIS on määritelmällisesti järjestelmä, joka kerää, käsittelee, tallentaa ja välittää dataa tiedon muodossa, jota tarvitaan maatilan operatiivisten toimintojen suorittamisessa *(Sørensen et al. 2010a)-Elsevier, ei pääsyä*.
 
 Useimpien traktorien ja työkoneiden ollessa sähköisesti hallittuja ja niihin asennettujen sensorien tuottaessa dataa, voitaisiin tämä data kerätä ja jalostaa tiedoksi esimerkiksi koneiden huollosta, rikkoutumisista ja työsuorituksista. Tämän tiedon avulla voitaisiin parantaa täsmäviljelyn ja työkoneiden hallinnan käytänteitä.
 
@@ -187,6 +170,13 @@ Saturaatioon ei todennäköisesti päästä haastattelujen tuloksissa, koska opi
 
 # Aineisto ja (tutkimus)menetelmät
 ## Tutkimusmenetelmät
+
+Tämä on tutkimustyyppinen opinnäytetyö, jossa toteutetaan laadullinen tutkimus.
+Laadullisen tutkimuksen tutkimusote valittiin kolmesta syystä: 1) tutkimusaiheesta ei löydetty merkittävää määrää tutkimusta työn alkuvaiheessa tutustuttaessa tutkittavaan ilmiöön, 2) kasvintuotannon ala on tekijälle tuntematon ja 3) työn alkuvaiheessa havaittiin, että kasvintuotannossa IoT-ratkaisuiden käyttöönotto on laajassa mittakaavassa alkuvaiheessa ja ala on tältä osin muutosvaiheessa. 
+Käytettävät tutkimusmenetelmät ovat kuvaileva (narratiivinen) kirjallisuuskatsaus sekä teemahaastattelut.
+Kirjallisuuskatsauksen ja teemahaastattelujen tuottamaa tietoa käsitellään sisällönanalyysin keinoin käyttäen myös narratiivisen tutkimuksen keinoja.
+Teemahaastattelun tutkimusmenetelmää käytetään yhdessä kuvailevan kirjallisuuskatsauksen kanssa trianguloimaan tutkimusaihetta.
+Aineiston keruumenetelmiä oli useita. Varsinaista tutkimustyötä edelsi ilmiöön tutustuminen erilaisilla keruumenetelmiä testattaessa, käyden asiantuntijakeskusteluja, vierailemalla alan tapahtumissa, keräämällä kontakteja ja haastatteluja tehden. Varsinaisen tutkimustyön aluksi haettiin IoT:tä yleistasolla ja ilmiönä käsittelevää kirjallisuutta. Seuraavaksi käytettiin sateenvarjokatsausta, jolla haettiin ilmiötä käsitteleviä kirjallisuuskatsauksia. Valittujen kirjallisuuskatsausten pohjalta muotoiltiin omat hakumetodit ja valittiin osa lähteistä. Omien hakumetodien tuloksista on valittu tekijän harkinnan mukaan aihetta parhaiten kuvaavat. Lisäksi ollaan käytetty aiheeseen tutustuttaessa löydettyjä lähteitä jos ne ovat tekijän harkinnan mukaan olleet tähdellisiä aiheen käsittelylle ja ymmärryksen luomiselle.
 
 Tutkimuksen luotettavuutta pyritään parantamaan käyttämällä aineistotriangulaatiota: kirjallisuuskatsauksen tuloksia vertaillaan haastattelujen tuloksiin sekä tuodaan esille ammattijulkaisuissa, laitevalmistajien sekä muiden toimijoiden tiedotteissa, lehtiartikkeleissa jne. ilmestyneitä asiaan liittyviä asioita.
 
@@ -251,7 +241,7 @@ Aaltodoc https://aaltodoc.aalto.fi/?locale-attribute=fi
             (IoT OR "Internet of Things") AND (Agriculture OR "Smart Farming")
                 630 hakutulosta <23-04-2018  10:26>
                     -pitää rajata jotenkin tarkemmin, nyt ei ole tutkijalla varmuutta että hakulauseen syntaksi menisi perille...
-            Iot
+            IoT
                 241 hakutulosta <23-04-2018  11:38>
                     Rajattu: Rajattu: Tiivistelmä sisältää: agriculture
                         4 hakutulosta
@@ -262,6 +252,10 @@ Aaltodoc https://aaltodoc.aalto.fi/?locale-attribute=fi
                     Rajattu: Rajattu: Tiivistelmä sisältää: "Smart Farming"
                         24 hakutulosta
                             Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+            "Precision Farming" 
+                1 tulosta <23-04-2018  17:41>
+                    Elovaara, Joona: Aggregating OPC UA Server for Remote Access to Agricultural Work Machines
+                        Valittu lähteeksi taustaan yleistietojen perusteella
             "Smart Farming"
                 Ei tuloksia <23-04-2018  10:43> (ilman lainausmerkkejä tuli 1693, mutta ihan mistä vaan aiheesta)
             "Internet of Things"
@@ -270,7 +264,7 @@ Aaltodoc https://aaltodoc.aalto.fi/?locale-attribute=fi
                         4 hakutulosta
                             Silmäilyn perusteella valittu
                                 Suortti, Samuli: The Role of Software Platform and Actors in Software Ecosystems: A Case Study in Agriculture
-                                    Keskittyy maatalousohjelmistoekosysteemeihin, kokotekstikoodaus -ehkä sitä voisi käyttää myös tässä työssä?
+                                    Ei lähteeksi, koska keskittyy maatalousohjelmistoekosysteemeihin, kokotekstikoodaus -ehkä kokotekstikoodausta voisi käyttää myös tässä työssä?
                     Rajattu: Tiivistelmä sisältää: "Smart Farming"
                         30 hakutulosta <23-04-2018  11:30>
                             Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
@@ -284,22 +278,131 @@ Aaltodoc https://aaltodoc.aalto.fi/?locale-attribute=fi
                             Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
     Lisensiaatintyöt
         Hakulauseella
-            "Internet of Things"
+            IoT <23-04-2018  17:48>
+            113 hakutulosta
+                Rajattu: Tiivistelmä sisältää: agriculture
+                    1 hakutulosta
+                        Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+                Rajattu: Tiivistelmä sisältää: "Precision Farming"
+                    2 hakutulosta
+                        Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+                Rajattu: Tiivistelmä sisältää: "Smart Farming"
+                    4 hakutulosta
+                        Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+            "Internet of Things" <23-04-2018  17:59>
                 4 hakutulosta
                     Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+    Väitöskirjat
+        Insinööritieteiden korkeakoulu / ENG
+            Hakulauseella
+                IoT <23-04-2018  18:01>
+                    428 hakutulosta
+                        Rajattu: Tiivistelmä sisältää: agriculture
+                        13 hakutulosta
+                            Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+                        Rajattu: Tiivistelmä sisältää: "Precision Farming"
+                        24 hakutulosta
+                            Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+                        Rajattu: Tiivistelmä sisältää: "Smart Farming"
+                        5 hakutulosta
+                            Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+                "Internet of Things" <23-04-2018  18:15>
+                    3 hakutulosta
+                        Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+        Perustieteiden korkeakoulu / SCI
+            Hakulauseella
+                IoT <23-04-2018  18:24>
+                    1135 hakutulosta
+                        Rajattu: Tiivistelmä sisältää: agriculture
+                        6 hakutulosta
+                            Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+                        Rajattu: Tiivistelmä sisältää: "Precision Farming"
+                        53 hakutulosta
+                            Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+                        Rajattu: Tiivistelmä sisältää: "Smart Farming"
+                        23 hakutulosta
+                            Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+                "Internet of Things" <23-04-2018  18:45>
+                    25 hakutulosta
+                        Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+        Sähkötekniikan korkeakoulu / ELEC
+            Hakulauseella
+                IoT <23-04-2018  18:52>
+                    753 hakutulosta
+                        Rajattu: Tiivistelmä sisältää: agriculture
+                        7 hakutulosta
+                            Silmäilyn perusteella valittu, koska yleistieto tiivistelmässä tukee haastattelujen tietoja.
+                                Nikkilä, Raimo: Automated control of compliance with production standards in precision agriculture
+                        Rajattu: Tiivistelmä sisältää: "Precision Farming"
+                        32 hakutulosta
+                            Sama kuin ed. (Nikkilä)
+                            Silmäilyn perusteella mikään muu hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+                        Rajattu: Tiivistelmä sisältää: "Smart Farming"
+                        14 hakutulosta
+                            Sama kuin ed. (Nikkilä)
+                            Silmäilyn perusteella mikään muu hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+                "Internet of Things" 
+                    26 hakutulosta
+                        Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+    Hakulauseella
+        IoT <23-04-2018  19:39>
+            3150 hakutulosta
+                Rajattu: Tiivistelmä sisältää: agriculture
+                30 hakutulosta
+                    Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+                Rajattu: Tiivistelmä sisältää: "Precision Farming"
+                132 hakutulosta
+                    Nikkilä, Raimo: Automated control of compliance with production standards in precision agriculture
+                    Silmäilyn perusteella mikään muu hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+                Rajattu: Tiivistelmä sisältää: "Smart Farming"
+                44 hakutulosta
+                    Nikkilä, Raimo: Automated control of compliance with production standards in precision agriculture
+                    Silmäilyn perusteella mikään muu hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+        "Internet of Things" <23-04-2018  19:34>
+            61 hakutulosta
+                Rajattu: Tiivistelmä sisältää: agriculture
+                Ei hakutuloksia
+                Rajattu: Tiivistelmä sisältää: "Precision Farming"
+                6 hakutulosta
+                    Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+                Rajattu: Tiivistelmä sisältää: "Smart Farming"
+                10 hakutulosta
+                    Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+        
+Academic Search Elite (EBSCO)
+    Advanced Search
+        Hakulauseella
+            AB "Internet of Things" AND AB agriculture OR AB "precision agriculture" OR AB "smart farming"
+            Rajattu: kokoteksti <23-04-2018  20:45>
+                64 hakutulosta
 
+ACM Digital Library
+(+"internet of things") AND (+agriculture) <23-04-2018  21:05> 13 hakutulosta
+https://ezproxy.haaga-helia.fi:2293/results.cfm?query=recordAbstract:(%252B%22internet%20of%20things%22)%20%20AND%20(%252Bagriculture)&within=owners.owner=HOSTED&filtered=&dte=&bfr=
 
+Business Premium (ProQuest)
+ab("internet of things") AND ab(agriculture) <23-04-2018  21:04> 20 hakutulosta
+https://ezproxy.haaga-helia.fi:3401/results/FD71B7E0CE7C4852PQ/1?accountid=27436
 
-
-Passport
-    -Population Change as a Megatrend Driver; Technology as a Megatrend Driver
-
-ProQuest
+Dart
 
 Doria
 
 Elsevier ScienceDirect Freedom Collection
     -tärppäsi: agro-industrial-kirjallisuuskatsaus; big data analysis in agriculture-kirjallisuuskatsaus; jne.
+
+Google Scholar
+
+IEEE Xplore - IEEE/IEE Electronic Library
+
+Passport
+    -Population Change as a Megatrend Driver; Technology as a Megatrend Driver
+
+Sage Journals Online (Sage Premier) 
+
+Theseus
+
+
 
 Löydettyjä kirjallisuuskatsauksia käytetään seuraavasti:
 Tiedon kattavuutta pyritään parantamaan hakemalla sateenvarjokatsauksen omaisesti aihetta käsitteleviä kirjallisuuskatsauksia. Hakutuloksista valituista kirjallisuuskatsauksista käydään läpi tutkimusmetodit joista löytyviä hakumenetelmiä käytetään hyväksi soveltuvin osin tämän työn seuraavissa tiedonhakuvaiheessa.
