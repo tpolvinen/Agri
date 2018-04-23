@@ -44,6 +44,7 @@ Aineiston keruumenetelmiä oli useita. Varsinaista tutkimustyötä edelsi ilmiö
 Tässä opinnäytetyössä käytetään lähdeviittausten tyylinä Södertörns högskola - Harvard -tyyliä.
 
 # Johdanto
+
 -- Omia huomioita 17.11.2017: Olen jotenkin olettanut, että totta kai maataloudessa oltaisiin jo omaksuttu paljon enemmän IoT-teknologioita, samaaan tapaan kuin muualla teollisuudessa. Jokin alan vieraudessa on vaikuttanut minuun. Ehkä työni ensimmäinen hämmästynyt kysymys oli: "Sitä tietoa ei siis saa sieltä koneesta ulos?" Viljelijöiden harkitsevuus uusien teknologioiden käyttöönotossa ei ole takapajuisuutta, ymmärtämättömyyttä tai typeryyttä, vaan sille on hyvä syy: teknologian tulee todistettavasti olla tuottavaa jotta sen käyttöönottoa edes voitaisiin harkita. Niin kuin missä tahansa liiketoiminnassa tai tuotannossa. Kentän hajanaisuus, järjestelmäintegration vaikeus ja hitaus ovat hidastaneet laajamittaista käyttöönottoa huomattavasti peltotuotannossa, osin myös puutarhatuotannossa. Kyse ei ilmeiseti olekaan alan takapajuisuudesta tai merkityksettömyydestä. --
 
 Kirjoittajan tietämyksen mukaan kasvintuotannossa käytettävistä IoT-ratkaisuista on viime vuosien (2010 - 2018) aikana julkaistu runsaasti tutkimuksia ja erilaisia artikkeleita. Opinnäytetyön esitöissä kävi ilmi, että kirjoittajalla tai oppilaitoksen opettajilla (/henkilökunnalla?) ei ole kovin vahvaa ymmärrystä tai kokemusta maataloudessa käytettävistä IoT-ratkaisuista. Koska maatalouden esineiden internet (AIoT) on voimakkaasti kasvava teollisen esineiden internetin (IIoT) osa (LÄHDE???) ja se voi vaikuttaa huomattavasti ruoantuotannon kehitykseen (LÄHDE???) kirjoittaja arvioi, että AIoT:n tilanteesta kannattaa olla tietoinen. Lisäksi kirjoittaja arvelee, että AIoT:n teknologiaratkaisuiden kehittämisessä tullaan tarvitsemaan asiantuntijoita joilla on sekä maatalouden että ICT-alan ymmärrystä.
@@ -137,6 +138,19 @@ FAO - News Article: Scarcity and degradation of land and water: growing threat
 
 # Teoriatausta
 ## Taustaa
+
+<23-04-2018  13:22>
+Maatalouteen kohdistuu jatkuvasti kovenevia tehokkuusvaatimuksia, samalla kun teknologinen kehitys mahdollistaa tehokkaampia viljelyprosesseja. Lisäksi maataloudelle ja ruokaturvalle asettaa haasteita ilmastonmuutos ja väestönkasvu. Näihin vaatimuksiin ja haasteisiin pyritään osaltaan vastaamaan digitalisoimalla maatalouden prosesseja samankaltaisesti kuin muussa teollisuudessa.
+
+<23-04-2018  12:15>
+*Perustuen Joona Elovaaran "Aggregating OPC UA Server for Remote Access to Agricultural Work Machines" diplomityön osioon 1.1 Background:*
+Agroteknologian viime vuosien nopea kehitys on mahdollistunut muilla alueilla tapahtuneen teknologiakehityksen myötä. Prosessien automatisointi, reaaliaikainen ohjaus ja konenäköjärjestelmät ovat keskeisiä agroteknologian kehitykseen vaikuttaneita teknologiakehityksen alueita *(Ronkainen, 2014)*. Täsmäviljelyn (Precision Agriculture, PA [http://www.aumanet.fi/tasmaviljely/maaritelma.html]) ja määränsäätöautomatiikan (Variable Rate Application VRA) laajentuva käyttö on myös osaltaan nopeuttanut maataloustyökoneiden teknologian kehitystä *(Ronkainen, 2014)*.
+
+Työkoneiden kehityksen myötä maatilojen toiminnan hallinta on monimutkaistunut. Viljelijän tulee tehdä päätöksiä viljelytoimien laadusta, sisällöstä, ajankohdasta ja järjestyksestä ottaen samalla huomioon sekä ympäristönsuojelun että maataloustukien säädökset, lisäksi huolehtien liiketoiminnastaan ja tilansa työkoneista ja muusta infrastruktuurista. Tätä toimintaa ja päätöksentekoa tukemaan on kehitetty erilaisia tiedonhallinnan järjestelmiä, joita kutsutaan Farm Management Information System:eiksi (FMIS). FMIS on määritelmällisesti järjestelmä, joka kerää, käsittelee, tallentaa ja välittää dataa tiedon muodossa, jota tarvitaan maatilan operatiivisten toimintojen suorittamisessa *(Sørensen et al. 2010a)*.
+
+Useimpien traktorien ja työkoneiden ollessa sähköisesti hallittuja ja niihin asennettujen sensorien tuottaessa dataa, voitaisiin tämä data kerätä ja jalostaa tiedoksi esimerkiksi koneiden huollosta, rikkoutumisista ja työsuorituksista. Tämän tiedon avulla voitaisiin parantaa täsmäviljelyn ja työkoneiden hallinnan käytänteitä.
+
+
 ## AIoT:n käytännön sovelluksia ja tutkimustuloksia
 ### AIoT-täsmäviljely peltokasvituotannossa
 
@@ -182,7 +196,7 @@ Haastattelujen litteroinnissa käytetään yleiskielistä litterointia. Yleiskie
 
 Tutkimuksen alustavassa vaiheessa ilmiöön tutustuttaessa tehtiin useita hakuja aiheeseen liittyvillä asiasanoilla, selattiin erilaisten organisaatioiden ja julkaisujen verkkosivuja, haettiin asiantuntijakontakteja eri tapahtumista jne. Löydöt merkittiin muistiin mahdollista myöhempää käyttöä varten.
 
-Haastateltavia etsittiin tapahtumista saatujen kontaktien, aineistosta löytyneiden asiantuntijoiden ja omien tuttavuuksien kautta. Lisäksi käytettiin "snowballing" -menetelmää, jossa keskusteluissa informanttia pyydettiin suosittelemaan muita asiantuntijoita haastateltaviksi.
+Haastateltavia etsittiin tapahtumista saatujen kontaktien, aineistosta löytyneiden asiantuntijoiden ja omien verkostojen kautta.  Lisäksi käytettiin "snowballing" -menetelmää, jossa keskusteluissa informanttia pyydettiin suosittelemaan muita asiantuntijoita haastateltaviksi.
 
 Varsinainen kirjallisuuden haku aloitettiin Haaga-Helian kirjaston hhfinna-tietokantahaulla Haettu HHFinnasta <16-04-2018>  https://haaga-helia.finna.fi/
 
@@ -205,26 +219,77 @@ Perushaku
     IoT
         Kirjoja 49, Kokoteksti saatavilla 40  (kaikista aineistotyypeistä)
         - valitaan yleistä IoTtä käsittelevät kirjat, nimen mukaan suljetaan pois tiettyyn teknologiaratkaisuihin tai liiketoimintaan keskittyvät teokset. Samoin jätetään tässä vaiheessa pois konferenssijulkaisut.
-            Enterprise IoT, Slama, Dirk et al.
+            * Enterprise IoT, Slama, Dirk et al.
                 Page Not Found <16-04-2018  22:08>
-            Buyya, R. & Dastjerdi, A. V. 2016. Internet of things: Principles and paradigms. Cambridge, MA: Morgan Kauffman.
+            * Buyya, R. & Dastjerdi, A. V. 2016. Internet of things: Principles and paradigms. Cambridge, MA: Morgan Kauffman.
         Opinnäytetöistä valittu
-            Nieminen, D. & ammattikorkeakoulu, H. 2015. Internet of Things tulevaisuuden visiona. Haaga-Helia ammattikorkeakoulu.
+            * Nieminen, D. & ammattikorkeakoulu, H. 2015. Internet of Things tulevaisuuden visiona. Haaga-Helia ammattikorkeakoulu.
     "Internet of Things" <16-04-2018  22:59>
         Kirjoja 135, Kokoteksti saatavilla 144 (kaikista aineistotyypeistä)
         - valitaan yleistä IoTtä käsittelevät kirjat, nimen mukaan suljetaan pois tiettyyn teknologiaratkaisuihin tai liiketoimintaan keskittyvät teokset. Samoin jätetään tässä vaiheessa pois konferenssijulkaisut.
-            Buyya, R. & Dastjerdi, A. V. 2016. Internet of things: Principles and paradigms. Cambridge, MA: Morgan Kauffman.
-            Gilchrist, A. 2016. Industry 4.0: The industrial internet of things. [New York]: Apress.
-            Vermesan, O, & Friess, P (eds) 2011, Internet of Things - Global Technological and Societal Trends from Smart Environments and Spaces to Green Ict, River Publishers, Aalborg. Available from: ProQuest Ebook Central. [16 April 2018]. https://ebookcentral.proquest.com/lib/haaga/detail.action?docID=3400141#
+            * Buyya, R. & Dastjerdi, A. V. 2016. Internet of things: Principles and paradigms. Cambridge, MA: Morgan Kauffman.
+            * Gilchrist, A. 2016. Industry 4.0: The industrial internet of things. [New York]: Apress.
+            * Vermesan, O, & Friess, P (eds) 2011, Internet of Things - Global Technological and Societal Trends from Smart Environments and Spaces to Green Ict, River Publishers, Aalborg. Available from: ProQuest Ebook Central. [16 April 2018]. https://ebookcentral.proquest.com/lib/haaga/detail.action?docID=3400141#
     "esineiden internet"
         - valitaan yleistä IoTtä käsittelevät kirjat, nimen mukaan suljetaan pois tiettyyn teknologiaratkaisuihin tai liiketoimintaan keskittyvät teokset. Samoin jätetään tässä vaiheessa pois konferenssijulkaisut.
-            Buyya, R. & Dastjerdi, A. V. 2016. Internet of things: Principles and paradigms. Cambridge, MA: Morgan Kauffman.
-            Gilchrist, A. 2016. Industry 4.0: The industrial internet of things. [New York]: Apress.
+            * Buyya, R. & Dastjerdi, A. V. 2016. Internet of things: Principles and paradigms. Cambridge, MA: Morgan Kauffman.
+            * Gilchrist, A. 2016. Industry 4.0: The industrial internet of things. [New York]: Apress.
 
-IoT:tä käsittelevät kirjat valittiin tutkittaviksi edellisistä tuloksista. Tuloksista valittiin tutkittaviksi saatavilla olevat englanninkieliset kirjat, joissa tekstihaulla löydettiin tekstistä sana "agriculture" useita kertoja. Näin tutkittaviksi valikoituivat kirjat: Internet of things: Principles and paradigms; Industry 4.0: The industrial internet of things; Internet of Things - Global Technological and Societal Trends. Lopuksi kirjat valittiin silmäilyn perusteella tarkemmin luettaviksi.
+IoT:tä käsittelevät kirjat valittiin tutkittaviksi edellisistä tuloksista. Tuloksista valittiin tutkittaviksi saatavilla olevat englanninkieliset kirjat, joissa tekstihaulla löydettiin tekstistä sana "agriculture" useita kertoja. Näin tutkittaviksi valikoituivat kirjat: 
+* Internet of things: Principles and paradigms; 
+* Industry 4.0: The industrial internet of things; 
+* Internet of Things - Global Technological and Societal Trends. 
+Lopuksi kirjat valittiin silmäilyn perusteella tarkemmin luettaviksi.
 
-Seuraavaksi haettiin Haaga-Helian kirjaston tarjoamista tietokannoista ne, joista voitiin olettaa löytyvän IT-alan julkaisuja. Hauissa käytettiin hakusanoina "IoT", "Internet of Things", "Agriculture", "Smart Farming"
+Seuraavaksi haettiin Haaga-Helian kirjaston tarjoamista tietokannoista ne, joista voitiin olettaa löytyvän IT-alan julkaisuja. Hauissa käytettiin hakusanoina "IoT", "Internet of Things", "Agriculture", "Precision Farming", "Smart Farming"
 *Näitä pitää vielä täsmentää* *Osa kannoista puuttuu vielä!!!*
+
+Aaltodoc https://aaltodoc.aalto.fi/?locale-attribute=fi 
+    Kandidaatintöihin ei ollut pääsyä
+    Maisterivaiheen opinnäytetyöt
+        Hakulauseella
+            (IoT OR "Internet of Things") AND (Agriculture OR "Smart Farming")
+                630 hakutulosta <23-04-2018  10:26>
+                    -pitää rajata jotenkin tarkemmin, nyt ei ole tutkijalla varmuutta että hakulauseen syntaksi menisi perille...
+            Iot
+                241 hakutulosta <23-04-2018  11:38>
+                    Rajattu: Rajattu: Tiivistelmä sisältää: agriculture
+                        4 hakutulosta
+                            Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+                    Rajattu: Rajattu: Tiivistelmä sisältää: "Precision Farming"
+                        5 hakutulosta
+                            Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+                    Rajattu: Rajattu: Tiivistelmä sisältää: "Smart Farming"
+                        24 hakutulosta
+                            Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+            "Smart Farming"
+                Ei tuloksia <23-04-2018  10:43> (ilman lainausmerkkejä tuli 1693, mutta ihan mistä vaan aiheesta)
+            "Internet of Things"
+                280 hakutulosta <23-04-2018  10:48>
+                    Rajattu: Tiivistelmä sisältää: agriculture
+                        4 hakutulosta
+                            Silmäilyn perusteella valittu
+                                Suortti, Samuli: The Role of Software Platform and Actors in Software Ecosystems: A Case Study in Agriculture
+                                    Keskittyy maatalousohjelmistoekosysteemeihin, kokotekstikoodaus -ehkä sitä voisi käyttää myös tässä työssä?
+                    Rajattu: Tiivistelmä sisältää: "Smart Farming"
+                        30 hakutulosta <23-04-2018  11:30>
+                            Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+            Agriculture
+                630 hakutulosta <23-04-2018  12:00>
+                    Rajattu: Tiivistelmä sisältää: IoT
+                        4 hakutulosta
+                            Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+                    Rajattu: Tiivistelmä sisältää:  "Internet of Things"
+                        44 hakutulosta
+                            Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+    Lisensiaatintyöt
+        Hakulauseella
+            "Internet of Things"
+                4 hakutulosta
+                    Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+
+
+
 
 Passport
     -Population Change as a Megatrend Driver; Technology as a Megatrend Driver
@@ -240,7 +305,7 @@ Löydettyjä kirjallisuuskatsauksia käytetään seuraavasti:
 Tiedon kattavuutta pyritään parantamaan hakemalla sateenvarjokatsauksen omaisesti aihetta käsitteleviä kirjallisuuskatsauksia. Hakutuloksista valituista kirjallisuuskatsauksista käydään läpi tutkimusmetodit joista löytyviä hakumenetelmiä käytetään hyväksi soveltuvin osin tämän työn seuraavissa tiedonhakuvaiheessa.
 
 SEURAAVAKSI: 
-Sateenkaarikatsauksen loppuun vienti:
+Sateenvarjokatsauksen loppuun vienti:
     Katsausten asiasanat yhteen, haku niillä katsausten metodeista parhaisiin kantoihin. Lisäksi käydään läpi kannoista kuhunkin katsaukseen liittyvät julkaisut, esim. Science Direct:in "Recommended articles"
 Valituista katsauksista otetaan asiasanat ja mallit hakulauseisiin/metodeihin. Asiasanoihin lisätään sellaiset, jotka ovat tulleet aikaisemmissa vaiheissa esille ja joiden oletetaan olevan keskeisiä tutkittavalle ilmiölle tai jollekin sen osalle. Kirjoitetaan löydökset.
 Tehdään varsinaiset hakulauseet ja valitaan kannat. Tehdään haut. Valitaan tuloksista sopivat metodilla Mutu-X. Kirjoitetaan löydökset.
