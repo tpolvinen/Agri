@@ -231,7 +231,7 @@ IoT:tä käsittelevät kirjat valittiin tutkittaviksi edellisistä tuloksista. T
 * Internet of Things - Global Technological and Societal Trends. 
 Lopuksi kirjat valittiin silmäilyn perusteella tarkemmin luettaviksi.
 
-Seuraavaksi haettiin Haaga-Helian kirjaston tarjoamista tietokannoista ne, joista voitiin olettaa löytyvän IT-alan julkaisuja. Hauissa käytettiin hakusanoina "IoT", "Internet of Things", "Agriculture", "Precision Farming", "Smart Farming"
+Seuraavaksi alustavaan järjestelmälliseen hakuun valittiin Haaga-Helian kirjaston tarjoamista tietokannoista ne, joista voitiin olettaa löytyvän IT-alan julkaisuja, koska katsausta tehdään lähtökohtaisesti IT-alalla toimivalle yleisölle. Hauissa käytettiin hakusanoina "IoT", "Internet of Things", "Agriculture", "Precision Farming", "Smart Farming"
 *Näitä pitää vielä täsmentää* *Osa kannoista puuttuu vielä!!!*
 
 Aaltodoc https://aaltodoc.aalto.fi/?locale-attribute=fi 
@@ -375,6 +375,7 @@ Academic Search Elite (EBSCO)
             AB "Internet of Things" AND AB agriculture OR AB "precision agriculture" OR AB "smart farming"
             Rajattu: kokoteksti <23-04-2018  20:45>
                 64 hakutulosta
+                    Silmäilyn perusteella ...
 
 ACM Digital Library
 (+"internet of things") AND (+agriculture) <23-04-2018  21:05> 13 hakutulosta
@@ -402,6 +403,7 @@ Sage Journals Online (Sage Premier)
 
 Theseus
 
+Researchgate
 
 
 Löydettyjä kirjallisuuskatsauksia käytetään seuraavasti:

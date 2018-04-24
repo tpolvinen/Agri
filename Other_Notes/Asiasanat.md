@@ -152,7 +152,7 @@ Kirjallisuuskatsausten hakuun käytettiin asiasanoja kirjallisuuskatsauksista. U
     Precision Agriculture
     Smart Farming
 
-Artikkelien hakuun käytettiin kirjallisuuskatsausten hakulauseissa käytettyjä hakusanoja, joista valittiin arviolta keskeisimmät kasvintuotannon IoT-ratkaisuiden näkökulmasta. Näihin lisättiin muissa aikaisemmissa vaiheissa löydetyt asiasanat, joiden arvioitiin mahdollisesti parantavan hakutulosten kattavuutta.
+Artikkelien hakuun käytettiin kirjallisuuskatsausten hakulauseissa käytettyjä hakusanoja, joista valittiin arviolta keskeisimmät kasvintuotannon IoT-ratkaisuiden näkökulmasta. Näihin lisättiin muissa aikaisemmissa vaiheissa löydetyt asiasanat, joiden arvioitiin mahdollisesti parantavan hakutulosten kattavuutta:
     Agribusiness
     Agricultural industry
     Agricultural products
