@@ -399,17 +399,44 @@ ACM Digital Library
         Hakulauseella
             recordAbstract:(+Internet +of +Things +agriculture +smart +agriculture +smart +farming +precision +farming +Plant +Production +Greenhouses +Plant +factories +Food +production +Horticulture +Irrigation +Crop +Cereals +Fruit +Vegetable +Farm +Farming)
                 Ei hakutuloksia. Muutetaan hakulausetta.
+            recordAbstract:(+"Internet of Things" +agriculture) <25-04-2018  20:46>
+                11 hakutulosta
+                    Silmäilyn perusteella valittu:
+                        Moisescu: Cyber physical systems based model-driven development for precision agriculture
+                            Kuvaa maatalouden järjestelmien järjestelmän kompleksisuutta. Lähteissä ollutta IBM-artikkelia ei heti löydetty annetulla osoitteella, mutta IBM:llä on paljon maatalouteen liittyvää tutkimusta [https://www.ibm.com/search?lang=en&cc=us&q=agriculture] "Mello U., Lloyd Treinish, Precision agriculture Using predictive weather analytics to feed future generations, 2016 http://www.research.ibm.com/articles/precision_agriculture.shtml"
 
-(+"internet of things") AND (+agriculture) <23-04-2018  21:05> 13 hakutulosta
-https://ezproxy.haaga-helia.fi:2293/results.cfm?query=recordAbstract:(%252B%22internet%20of%20things%22)%20%20AND%20(%252Bagriculture)&within=owners.owner=HOSTED&filtered=&dte=&bfr=
+            recordAbstract:(+"Internet of Things" +"Precision Agriculture" +"Smart Farming")
+                1659 hakutulosta
+            recordAbstract:(+"Internet of Things" +"Precision Agriculture" +"Smart Farming") 
+                1 hakutulos
+                    Silmäilyn perusteella hakutulos ei käsittele kasvintuotannon IoT-ratkaisuja yleisellä tasolla, vaan keskittyy verkkoteknologiaan.
+            recordAbstract:(+"Internet of Things" +"Precision Agriculture")
+                7 hakutulosta
+                    Silmäilyn perusteella hakutulokset vastaavat aiempia tuloksia tai eivät käsittele kasvintuotannon IoT-ratkaisuja.
+            recordAbstract:(+"Internet of Things" +"Smart farming") <25-04-2018  22:11>
+                1 hakutulos
+                    Hakutulos on sama kuin aikaisemmissa tuloksissa tarkasteltu: ei käsittele kasvintuotannon IoT-ratkaisuja yleisellä tasolla, vaan keskittyy verkkoteknologiaan.
+
 
 Business Premium (ProQuest)
-ab("internet of things") AND ab(agriculture) <23-04-2018  21:04> 20 hakutulosta
-https://ezproxy.haaga-helia.fi:3401/results/FD71B7E0CE7C4852PQ/1?accountid=27436
+    Advanced Search
+        Database: Science and Technology
+            Full text
+            Hakulauseella
+                ab("internet of things") AND ab(agriculture) <25-04-2018  22:16> 
+                    2 hakutulosta
+                        Helios Wire to Launch Satellite-Enabled Machine to Machine (M2M) Connectivity to Democratize the Internet of Things (IoT)
+                            Uutinen, sateliitti kapean kaistanleveyden IoT & M2M -ratkaisuille
 
 Dart
+    Hakulauseella
+        "Internet of Things" agriculture <25-04-2018  22:43>
+            5 hakutulosta
+                Hakutulokset eivät käsittele kasvintuotannon IoT:tä yleisellä tasolla, vaan keskittyvät tiettyihin teknologioihin. Osassa agriculture mainitaan vain tiivistelmässä eräänä IoT-sovellusten alana.
+        "Internet of Things" "Precision Agriculture" <25-04-2018  23:00>
+            2 hakutulosta
+                Hakutulokset eivät käsittele kasvintuotannon IoT:tä yleisellä tasolla, vaan keskittyvät tiettyihin teknologioihin.
 
-Doria
 
 Elsevier ScienceDirect Freedom Collection
     -tärppäsi: agro-industrial-kirjallisuuskatsaus; big data analysis in agriculture-kirjallisuuskatsaus; jne.
@@ -419,9 +446,17 @@ Google Scholar
 IEEE Xplore - IEEE/IEE Electronic Library
 
 Passport
+    Aikaisemmin löytynyt, mutta millä haulla?
     -Population Change as a Megatrend Driver; Technology as a Megatrend Driver
 
-Sage Journals Online (Sage Premier) 
+Sage Journals Online (Sage Premier)
+    Advanced Search
+        Full access
+        Hakulauseella
+            [Abstract "internet of things"] AND [Abstract agriculture] <25-04-2018  23:26>
+                5 hakutulosta
+                    Hakutulokset eivät käsittele kasvintuotannon IoT:tä yleisellä tasolla, vaan keskittyvät tiettyihin teknologioihin.
+
 
 Theseus
 
