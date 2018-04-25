@@ -372,12 +372,34 @@ Aaltodoc https://aaltodoc.aalto.fi/?locale-attribute=fi
 Academic Search Elite (EBSCO)
     Advanced Search
         Hakulauseella
-            AB "Internet of Things" AND AB agriculture OR AB "precision agriculture" OR AB "smart farming"
-            Rajattu: kokoteksti <23-04-2018  20:45>
-                64 hakutulosta
-                    Silmäilyn perusteella ...
+            AB "Internet of Things" AND AB agriculture OR AB "precision agriculture" OR AB "smart agriculture" OR AB "smart farming" OR AB "precision farming" 
+            Rajattu: kokoteksti <24-04-2018  13:23>
+                89 hakutulosta
+
+            (AB "Internet of Things" OR IoT) AND (AB agriculture OR AB "precision agriculture" OR AB "smart agriculture" OR AB "smart farming" OR AB "precision farming" OR AB "Plant Production" OR AB Greenhouses OR AB "Plant factories" OR AB "Food production" OR AB Horticulture OR AB Irrigation OR AB Crop OR AB Cereals OR AB Fruit OR AB Vegetable  OR AB Farm OR AB Farming)
+            Rajattu: kokoteksti <24-04-2018  17:15>
+                9 hakutulosta
+                    Silmäilyn perusteella valitut:
+                        Lin: Research and Application Progress of Agricultural Big Data Technology and Resources. 
+                            esimerkkejä Big Datan käytöstä maataloudessa.
+                        Electronic Design: 3 Ways the IoT Revolutionizes Farming
+                            karjanseuranta, täsmäviljely, itsenäiset traktorit
+                        Lv: Construction of Cucumber Powdery Mildew Early Warning System...
+                            Lämpötilan ja kosteuden mittaus, laskettu tautiennuste, ei aktuointia.
+                        eWeek Preimesberger: IoT Platform Maker infiswift Aims to Modernize Farming
+                            Alustatoimittaja, jolla on erikoistunut maatalouden IoT-alusta, muiden muassa.
+                        Professional Engineering Blake: From the factory to the fields
+                            Taustaa, peltorobotiikan kehitys per Bosh BoniRob, Autonomous Tractor Company: traktori oppii työstä, Panasonic: tomaatinpoimintarobotti
+                        industryandbusiness.ca: Business re-imagined: IIoT is set to transform energy, agriculture
+                            Taustaa, Accenturen Accenture Precision Agriculture Service, Accenture Connected Crop Solution (ks. muut Accenture-lähteet Evernotessa)
+
 
 ACM Digital Library
+    Advanced Search
+        Hakulauseella
+            recordAbstract:(+Internet +of +Things +agriculture +smart +agriculture +smart +farming +precision +farming +Plant +Production +Greenhouses +Plant +factories +Food +production +Horticulture +Irrigation +Crop +Cereals +Fruit +Vegetable +Farm +Farming)
+                Ei hakutuloksia. Muutetaan hakulausetta.
+
 (+"internet of things") AND (+agriculture) <23-04-2018  21:05> 13 hakutulosta
 https://ezproxy.haaga-helia.fi:2293/results.cfm?query=recordAbstract:(%252B%22internet%20of%20things%22)%20%20AND%20(%252Bagriculture)&within=owners.owner=HOSTED&filtered=&dte=&bfr=
 
