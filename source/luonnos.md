@@ -441,7 +441,33 @@ Dart
 Elsevier ScienceDirect Freedom Collection
     -tärppäsi: agro-industrial-kirjallisuuskatsaus; big data analysis in agriculture-kirjallisuuskatsaus; jne.
 
-Google Scholar
+Google Scholar https://scholar.google.fi/
+    Rajattu: vuodet 2010 ->
+    Hakulauseella
+        ("Internet of Things") AND (agriculture OR horticulture OR "plant production"  OR "plant factory" OR "precision agriculture" OR "smart farming" OR "vertical farming" OR "plant factory" OR farm OR greenhouses) <26-04-2018  21:02>
+            noin 18700 hakutulosta
+                Verdouw: Internet of Things in agriculture
+                    Kirjallisuuskatsaus
+                    @ Researchgate
+                        Similar research:
+                            Verdouw: IOF2020: Fostering business and software ecosystems for large-scale uptake of IoT in food and farming
+                            Verdouw: Virtualization of food supply chains with the internet of things
+                            Wolfert: Big Data in Smart Farming – A review
+                Xu: Internet of Things in Industries: A Survey
+                    Kirjallisuuskatsaus
+                    @ IEEE
+                Bo: The Application of Cloud Computing and the Internet of Things in Agriculture and Forestry
+                    Katsaus/tutkimus
+                    @ IEEE
+                Sundmaeker: Vision and Challenges for Realizing the Internet of Things
+                    Clusterbook HUOM! Paljon yhteisjulkaisuja Verdouwn kanssa.
+                    @ Researchgate
+                Dloldo: The internet of things in agriculture for sustainable rural development
+                    Katsaus IoT-teknologiaratkaisuiden mahdollisuuksiin edistää eteläisen Afrikan maataloutta; samankaltaisia teemoja kuin meilläkin.
+                    @ IEEE
+                
+
+
 
 IEEE Xplore - IEEE/IEE Electronic Library
 

@@ -581,6 +581,9 @@ Academic Search Elite (EBSCO)
 			(AB "Internet of Things" OR IoT) AND (AB agriculture OR AB "precision agriculture" OR AB "smart agriculture" OR AB "smart farming" OR AB "precision farming" OR AB "precision farming" OR AB "Web of Things" OR AB "IoT applications" OR AB "Plant Production" OR AB "Agriculture technology" OR AB "Agricultural industry" OR AB Agribusiness OR AB "Agricultural products" OR AB Agroindustry OR AB "Big Data" OR AB Greenhouses OR AB "Smart Environments" OR AB "Plant factories" OR AB "Product Traceability" OR AB Drones OR AB "Cloud Computing" OR AB "Environmental monitoring" OR AB "Wireless Sensor Networks" OR AB "Sensor discovery" OR AB "Sensor integration" OR AB "Sensor-cloud" OR AB "Sensor-cloud for agricultural applications" OR AB "Equipment status" OR AB Telemetry OR AB "Telemetry applications" OR AB "Ubiquitous sensing" OR AB "Food production" OR AB Horticulture OR AB Irrigation OR AB Crop OR AB Cereals OR AB Fruit OR AB Vegetable OR AB Climate OR AB Drought OR AB Farm OR AB Farming OR AB "Feed production" OR AB Fertilizers OR AB Flooding OR AB Forecast OR AB "Fruit storage" OR AB Harvesting OR AB Industrial OR AB Pest OR AB Plant OR AB Seed OR AB Water OR AB Weather)
 			Rajattu: kokoteksti <24-04-2018  14:02>
 				283 hakutulosta
-					
+
+--------------------------------------------------------------------------------------------------
+
+
 
 
