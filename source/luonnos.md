@@ -456,11 +456,51 @@ Sage Journals Online (Sage Premier)
             [Abstract "internet of things"] AND [Abstract agriculture] <25-04-2018  23:26>
                 5 hakutulosta
                     Hakutulokset eivät käsittele kasvintuotannon IoT:tä yleisellä tasolla, vaan keskittyvät tiettyihin teknologioihin.
+            [Abstract "internet of things"] AND [Abstract greenhouse] <26-04-2018  08:32>
+                3 Hakutulosta
+                    Design and Implementation of an Intelligent Environmental-Control System: Perception, Network, and Application with Fused Data Collected from Multiple Sensors in a Greenhouse at Jiangsu, China
+                        Prototyyppi ilman lämpötilan, -kosteuden, valaistuksen, alustan kosteuden ja hiilidioksidipitoisuuden mittaamiseen, tulosten tallentamiseen ja tarkasteluun. Ei aktuointia.
+            [Abstract "internet of things"] AND [All "vertical farming"]
+                1 hakutulos
+                    A Smart Service Model Based on Ubiquitous Sensor Networks Using Vertical Farm Ontology
+                        Suppea ontologia: vertical farming IoT-laitteilla
+            [Abstract "internet of things"] AND [[Abstract agriculture] OR [Abstract "plant factory"] OR [Abstract "precision agriculture"] OR [Abstract "smart farming"] OR [Abstract "vertical farming"] OR [Abstract "plant factory"] OR [Abstract farm] OR [Abstract greenhouse]]
+                10 hakutulosta <26-04-2018  12:56>
+                    Osa hakutuloksista on samoja kuin aikaisemmissa hauissa, osa käsittelee vain tiettyä teknologiaa kasvintuotannon IoT:ssä ja osa ei käsittele kasvintuotannon IoT-ratkaisuja.
 
 
 Theseus
+    Koko Theseus
+        Hakulauseella
+            "Internet of Things" AND agriculture OR "plant factory" OR "precision agriculture" OR "smart farming" OR "vertical farming" OR "plant factory" OR farm OR greenhouse <26-04-2018  13:10>
+                788 hakutulosta
+
+            "Internet of Things" AND agriculture <26-04-2018  13:17>
+                61 hakutulosta
+
+            ("Internet of Things") AND (agriculture OR "plant factory" OR "precision agriculture" OR "smart farming" OR "vertical farming" OR "plant factory" OR farm OR greenhouse) <26-04-2018  13:19>
+                84 hakutulosta
+                    Silmäilyn perusteella valittu:
+                        Riikonen: Big data päätöksenteon apuvälineenä kasvinviljelytilalla
+                            Tiedoilla mahd. arvioida tilan onnistumista, datan omistajuus, analyysi Agronet-keskusteluista: pinnallista ja enemmän kiinnostaa satelliittikuvaus ISOBUS paikkatieto, paremmat katelaskelmat, ympäristövaikutusarviointi, vaatii politiikkaa testausta pilotointia, heikot mahdollisuudet, tiedonjako voimavaraksi.
+                        Laajalahti: Alkutuotannon kyberjohtamisen toimintaympäristö
+                            Tämä on mukana jo aikaisemmin hankituissa materiaaleissa.
+
+
 
 Researchgate
+
+
+"internet of things"
+iot
+agriculture
+"Precision Agriculture"
+"Smart Farming"
+"vertical farming"
+"Plant Factory"
+farm
+greenhouse
+
 
 
 Löydettyjä kirjallisuuskatsauksia käytetään seuraavasti:
