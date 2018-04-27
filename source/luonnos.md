@@ -445,7 +445,7 @@ Google Scholar https://scholar.google.fi/
     Rajattu: vuodet 2010 ->
     Hakulauseella
         ("Internet of Things") AND (agriculture OR horticulture OR "plant production"  OR "plant factory" OR "precision agriculture" OR "smart farming" OR "vertical farming" OR "plant factory" OR farm OR greenhouses) <26-04-2018  21:02>
-            noin 18700 hakutulosta
+            Noin 18700 hakutulosta, joista käyty läpi 100 ensimmäistä hakukoneen Sort by relevance-lajittelun mukaan.
                 Verdouw: Internet of Things in agriculture
                     Kirjallisuuskatsaus
                     @ Researchgate
@@ -466,6 +466,18 @@ Google Scholar https://scholar.google.fi/
                     Katsaus IoT-teknologiaratkaisuiden mahdollisuuksiin edistää eteläisen Afrikan maataloutta; samankaltaisia teemoja kuin meilläkin.
                     @ IEEE
                 Vermesan: Internet of Things - Converging Technologies for Smart Environments and Integrated Ecosystems
+                    Kokoelma, luvut hyvin IoT:n perspektiivien mukaan, maatalous mainittu sovelluskategorioissa - käytetään ainakin kategoriat sitomaan AIoT muuhun kenttään.
+                    @ Researchgate
+                Farhan: A survey on the challenges and opportunities of the Internet of Things (IoT)
+                    Keskeisiä IoT:n kehityshaasteita: network, security, fault tolerance, softw. development, new & complex dependencies
+                Madakam: Internet of Things (IoT): A Literature Review 
+                    poimittu https://www.postscapes.com/internet-of-things-history/
+                Rose: The Internet of Things (IoT): An Overview
+                    https://www.internetsociety.org/resources/doc/2015/iot-overview
+                Khodadadi: Internet of Things: An Overview
+                    Perusteita, samaa kuin Principles & Paradigms
+                    @ Researchgate
+
 
 
 
