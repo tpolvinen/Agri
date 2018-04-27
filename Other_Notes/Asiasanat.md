@@ -152,57 +152,57 @@ Kirjallisuuskatsausten hakuun käytettiin asiasanoja kirjallisuuskatsauksista. U
     Precision Agriculture
     Smart Farming
 
-Artikkelien hakuun käytettiin kirjallisuuskatsausten hakulauseissa käytettyjä hakusanoja, joista valittiin arviolta keskeisimmät kasvintuotannon IoT-ratkaisuiden näkökulmasta. Näihin lisättiin muissa aikaisemmissa vaiheissa löydetyt asiasanat, joiden arvioitiin mahdollisesti parantavan hakutulosten kattavuutta.
-    Agribusiness
-    Agricultural industry
-    Agricultural products
-    Agriculture
-    Agriculture technology
-    Agroindustry
-    Big Data
-    Cereals
-    Climate
-    Cloud Computing
-    Crop
-    Drones
-    Drought
-    Environmental monitoring
-    Equipment status
-    Farm
-    Farming
-    Feed production
-    Fertilizers
-    Flooding
-    Food production
-    Forecast
-    Fruit
-    Fruit storage
-    Greenhouses
-    Harvesting
-    Horticulture
-    Industrial
-    Internet of things
-    IoT
-    IoT applications
-    Irrigation
-    Pest
-    Plant
-    Plant Production
-    Precision Agriculture
-    Precision Farming
-    Product Traceability
-    Seed
-    Sensor discovery
-    Sensor integration
-    Sensor-cloud
-    Sensor-cloud for agricultural applications
-    Smart Agriculture
-    Smart Environments
-    Smart Farming
-    Telemetry applications
-    Ubiquitous sensing
-    Vegetable
-    Water
-    Weather
-    Web of Things
-    Wireless Sensor Networks
+Artikkelien hakuun käytettiin kirjallisuuskatsausten hakulauseissa käytettyjä hakusanoja, joista valittiin arviolta keskeisimmät kasvintuotannon IoT-ratkaisuiden näkökulmasta. Näihin lisättiin muissa aikaisemmissa vaiheissa löydetyt asiasanat, joiden arvioitiin mahdollisesti parantavan hakutulosten kattavuutta:
+Agribusiness
+Agricultural industry
+Agricultural products
+Agriculture
+Agriculture technology
+Agroindustry
+Big Data
+Cereals
+Climate
+Cloud Computing
+Crop
+Drones
+Drought
+Environmental monitoring
+Equipment status
+Farm
+Farming
+Feed production
+Fertilizers
+Flooding
+Food production
+Forecast
+Fruit
+Fruit storage
+Greenhouses
+Harvesting
+Horticulture
+Industrial
+Internet of things
+IoT
+IoT applications
+Irrigation
+Pest
+Plant
+Plant Production
+Precision Agriculture
+Precision Farming
+Product Traceability
+Seed
+Sensor discovery
+Sensor integration
+Sensor-cloud
+Sensor-cloud for agricultural applications
+Smart Agriculture
+Smart Environments
+Smart Farming
+Telemetry applications
+Ubiquitous sensing
+Vegetable
+Water
+Weather
+Web of Things
+Wireless Sensor Networks

@@ -477,8 +477,25 @@ Google Scholar https://scholar.google.fi/
                 Khodadadi: Internet of Things: An Overview
                     Perusteita, samaa kuin Principles & Paradigms
                     @ Researchgate
-
-
+    Hakulauseella
+        ("Internet of Things") AND (agriculture OR horticulture OR "plant production"  OR "plant factory" OR "precision agriculture" OR "smart farming" OR "vertical farming" OR "plant factory" OR farm OR greenhouses) AND ("literature review" OR survey) <27-04-2018  20:33>
+            Noin 12000 hakutulosta, joista käyty läpi 100 ensimmäistä hakukoneen Sort by relevance-lajittelun mukaan.
+                Artikkelin Wortmann: Internet of Things lähteistä:Atzori: The Internet of Things: A survey
+                    Perusteos
+                Taylor: Farming the Web of Things
+                    Case smart farming, datan jako
+                Motlagh: Low-Altitude Unmanned Aerial Vehicles-Based Internet of Things Services: Comprehensive Survey and Future Perspectives
+                    Katsaus UAV/droneihin
+                    @ IEEE
+                Stoces: Internet of things (iot) in agriculture-selected aspects
+                    perusteita, pääasiassa OEM-sovellukset maataloudessa
+                    @ ProQuest
+                Farooq: A Review on Internet of Things (IoT)
+                    perusteita, smart farming mainittu
+                    @ IEEE
+                Shaikh: Enabling Technologies for Green Internet of Things
+                    vihreän IoT:n perusteet, smart agriculture mainittu
+                    @ IEEE 
 
 
 IEEE Xplore - IEEE/IEE Electronic Library
