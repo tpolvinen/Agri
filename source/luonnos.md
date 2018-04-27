@@ -465,7 +465,7 @@ Google Scholar https://scholar.google.fi/
                 Dloldo: The internet of things in agriculture for sustainable rural development
                     Katsaus IoT-teknologiaratkaisuiden mahdollisuuksiin edistää eteläisen Afrikan maataloutta; samankaltaisia teemoja kuin meilläkin.
                     @ IEEE
-                
+                Vermesan: Internet of Things - Converging Technologies for Smart Environments and Integrated Ecosystems
 
 
 
