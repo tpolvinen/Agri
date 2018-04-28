@@ -368,6 +368,8 @@ Aaltodoc https://aaltodoc.aalto.fi/?locale-attribute=fi
                 Rajattu: Tiivistelmä sisältää: "Smart Farming"
                 10 hakutulosta
                     Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
+    * Nikkilä, Raimo: Automated control of compliance with production standards in precision agriculture
+
         
 Academic Search Elite (EBSCO)
     Advanced Search
@@ -438,9 +440,6 @@ Dart
                 Hakutulokset eivät käsittele kasvintuotannon IoT:tä yleisellä tasolla, vaan keskittyvät tiettyihin teknologioihin.
 
 
-Elsevier ScienceDirect Freedom Collection
-    -tärppäsi: agro-industrial-kirjallisuuskatsaus; big data analysis in agriculture-kirjallisuuskatsaus; jne.
-
 Google Scholar https://scholar.google.fi/
     Rajattu: vuodet 2010 ->
     Hakulauseella
@@ -465,7 +464,7 @@ Google Scholar https://scholar.google.fi/
                 Dloldo: The internet of things in agriculture for sustainable rural development
                     Katsaus IoT-teknologiaratkaisuiden mahdollisuuksiin edistää eteläisen Afrikan maataloutta; samankaltaisia teemoja kuin meilläkin.
                     @ IEEE
-                Vermesan: Internet of Things - Converging Technologies for Smart Environments and Integrated Ecosystems
+                Fantana: Internet of Things - Converging Technologies for Smart Environments and Integrated Ecosystems
                     Kokoelma, luvut hyvin IoT:n perspektiivien mukaan, maatalous mainittu sovelluskategorioissa - käytetään ainakin kategoriat sitomaan AIoT muuhun kenttään.
                     @ Researchgate
                 Farhan: A survey on the challenges and opportunities of the Internet of Things (IoT)
@@ -497,8 +496,6 @@ Google Scholar https://scholar.google.fi/
                     vihreän IoT:n perusteet, smart agriculture mainittu
                     @ IEEE 
 
-
-IEEE Xplore - IEEE/IEE Electronic Library
 
 Passport
     Aikaisemmin löytynyt, mutta millä haulla?
@@ -542,8 +539,17 @@ Theseus
                             Tämä on mukana jo aikaisemmin hankituissa materiaaleissa.
 
 
+IBM
+    IBM:llä on paljon maatalouteen liittyvää tutkimusta [https://www.ibm.com/search?lang=en&cc=us&q=agriculture] "Mello U., Lloyd Treinish, Precision agriculture Using predictive weather analytics to feed future generations, 2016 http://www.research.ibm.com/articles/precision_agriculture.shtml"
+
+Elsevier ScienceDirect Freedom Collection
+    -tärppäsi: agro-industrial-kirjallisuuskatsaus; big data analysis in agriculture-kirjallisuuskatsaus; jne.
+    Advanced Search -> Expert search
+
+IEEE Xplore - IEEE/IEE Electronic Library
 
 Researchgate
+
 
 
 "internet of things"
@@ -556,6 +562,11 @@ agriculture
 farm
 greenhouse
 
+Mitä nyt on tehty ja mitä seuraavaksi:
+    Käytetty hieman erilaisia hakulauseita eri kantoihin niiden vaatimusten ja toimintojen mukaan.
+    Tuloksena kohtuullinen määrä tieteellisiä lähteitä.
+    Lähteistä pitää seuraavaksi tarkistaa onko kirjallisuuskatsauksia saturoiva tai muuten riittävä määrä. Katsauksia ollaan haettu erikseen vasta Google Scholarin avulla. Kirjoitetaan havainnot katsauksista. Lähdetään liikkeelle Talaveran kirjallisuuskatsauksesta: mitä kantoja kannattaa hakea? Google Scholar, IEEE, Scopus. Kamilaris et al. käytti IEEE, ScienceDirect, Web of Science, Google Scholar. Verdouw et al. käytti Scopusta, Google Scholaria "*We searched in the Scopus database for papers that on the one hand include Internet of Things or IoT in the title and on the other hand agriculture, farming or food in the title, abstract or the keywords section. In addition, we used generic references on IoT and enabling technologies by using Google scholar especially searching for review articles that provide an overview of the application of specific enabling technologies in the agricultural domain.*"
+
 
 
 Löydettyjä kirjallisuuskatsauksia käytetään seuraavasti:
@@ -566,6 +577,7 @@ Sateenvarjokatsauksen loppuun vienti:
     Katsausten asiasanat yhteen, haku niillä katsausten metodeista parhaisiin kantoihin. Lisäksi käydään läpi kannoista kuhunkin katsaukseen liittyvät julkaisut, esim. Science Direct:in "Recommended articles"
 Valituista katsauksista otetaan asiasanat ja mallit hakulauseisiin/metodeihin. Asiasanoihin lisätään sellaiset, jotka ovat tulleet aikaisemmissa vaiheissa esille ja joiden oletetaan olevan keskeisiä tutkittavalle ilmiölle tai jollekin sen osalle. Kirjoitetaan löydökset.
 Tehdään varsinaiset hakulauseet ja valitaan kannat. Tehdään haut. Valitaan tuloksista sopivat metodilla Mutu-X. Kirjoitetaan löydökset.
+Käydään läpi CEMA, IoF2020, AEF sekä muut mahdollisesti vastaan tulleiden toimijoiden julkaisut. Kirjoitetaan havainnot.
 Käydään läpi haastattelujen litteroinnit ja kirjoitetaan löydökset. Tarkistetaan oikeellisuus haastateltavien kanssa.
 Lisätään mahd. mukaan aikaisemmista vaiheista mukaan tulleet lähteet ja kirjoitetaan löydökset.
 Kirjoitetaan tulokset.
