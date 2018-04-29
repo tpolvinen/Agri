@@ -377,7 +377,6 @@ Academic Search Elite (EBSCO)
             AB "Internet of Things" AND AB agriculture OR AB "precision agriculture" OR AB "smart agriculture" OR AB "smart farming" OR AB "precision farming" 
             Rajattu: kokoteksti <24-04-2018  13:23>
                 89 hakutulosta
-
             (AB "Internet of Things" OR IoT) AND (AB agriculture OR AB "precision agriculture" OR AB "smart agriculture" OR AB "smart farming" OR AB "precision farming" OR AB "Plant Production" OR AB Greenhouses OR AB "Plant factories" OR AB "Food production" OR AB Horticulture OR AB Irrigation OR AB Crop OR AB Cereals OR AB Fruit OR AB Vegetable  OR AB Farm OR AB Farming)
             Rajattu: kokoteksti <24-04-2018  17:15>
                 9 hakutulosta
@@ -406,7 +405,6 @@ ACM Digital Library
                     Silmäilyn perusteella valittu:
                         Moisescu: Cyber physical systems based model-driven development for precision agriculture
                             Kuvaa maatalouden järjestelmien järjestelmän kompleksisuutta. Lähteissä ollutta IBM-artikkelia ei heti löydetty annetulla osoitteella, mutta IBM:llä on paljon maatalouteen liittyvää tutkimusta [https://www.ibm.com/search?lang=en&cc=us&q=agriculture] "Mello U., Lloyd Treinish, Precision agriculture Using predictive weather analytics to feed future generations, 2016 http://www.research.ibm.com/articles/precision_agriculture.shtml"
-
             recordAbstract:(+"Internet of Things" +"Precision Agriculture" +"Smart Farming")
                 1659 hakutulosta
             recordAbstract:(+"Internet of Things" +"Precision Agriculture" +"Smart Farming") 
@@ -526,10 +524,8 @@ Theseus
         Hakulauseella
             "Internet of Things" AND agriculture OR "plant factory" OR "precision agriculture" OR "smart farming" OR "vertical farming" OR "plant factory" OR farm OR greenhouse <26-04-2018  13:10>
                 788 hakutulosta
-
             "Internet of Things" AND agriculture <26-04-2018  13:17>
                 61 hakutulosta
-
             ("Internet of Things") AND (agriculture OR "plant factory" OR "precision agriculture" OR "smart farming" OR "vertical farming" OR "plant factory" OR farm OR greenhouse) <26-04-2018  13:19>
                 84 hakutulosta
                     Silmäilyn perusteella valittu:
@@ -540,7 +536,66 @@ Theseus
 
 
 IBM
-    IBM:llä on paljon maatalouteen liittyvää tutkimusta [https://www.ibm.com/search?lang=en&cc=us&q=agriculture] "Mello U., Lloyd Treinish, Precision agriculture Using predictive weather analytics to feed future generations, 2016 http://www.research.ibm.com/articles/precision_agriculture.shtml"
+    (IBM:llä on paljon maatalouteen liittyvää tutkimusta [https://www.ibm.com/search?lang=en&cc=us&q=agriculture] "Mello U., Lloyd Treinish, Precision agriculture Using predictive weather analytics to feed future generations, 2016 http://www.research.ibm.com/articles/precision_agriculture.shtml")
+    Hakulauseella 
+        agriculture <29-04-2018  19:05>
+            1910 hakutulosta
+        "Internet of Things" AND agriculture OR "plant factory" OR "precision agriculture" OR "smart farming" OR "vertical farming" OR "plant factory" OR farm OR greenhouse <29-04-2018  19:09>
+            125307 hakutulosta 
+        ("Internet of Things") AND (agriculture OR "plant factory" OR "precision agriculture" OR "smart farming" OR "vertical farming" OR "plant factory" OR farm OR greenhouse)  <29-04-2018  19:11>
+            964 hakutulosta
+                Käyty läpi 100 ensimmäistä 
+                Valittu silmäilyn perusteella:
+                    [https://www.ibm.com/blogs/internet-of-things/tag/agriculture/]
+                        IBM Internet of Things blog: Agricultural Internet of Things technology applications
+                            Tulevaisuudenkuvia, mahdollisuuksia:
+                                Water supply management; Precision agriculture; Integrated Pest Management or Control (IPM/C); Food production and safety; Livestock management; Examples of new applications
+                        IBM Internet of Things blog: How farm equipment manufacturers are using data to inform field service and improve results for farmers
+                            Tulevaisuudenkuvia, mahdollisuuksia:
+                                machine data; reduced downtime-dealer consolidation-Smart Farming; Equipment triangle (manuf.-dealers-farmers); mobile service apps/tech
+                                    On machine data: MSI Data: The Evolution of the Internet of Things in Field Service [http://www.msidata.com/evolution-of-the-internet-of-things]
+                                        Harvard Business Review: [https://hbr.org/2014/11/how-smart-connected-products-are-transforming-competition]
+                                            Perusteet kaikkeen.
+                                    On Smart Farming: MSI Data: How the Internet of Things is Revolutionizing Field Service
+                                        Huollon muutokset IoT:n vaikutuksista
+                                        [http://cdn2.hubspot.net/hubfs/159855/FINAL-IoT-Guide.pdf?t=1524950648667]
+                                        [http://msidata.hs-sites.com/iot-revolutionizing-field-service-landing-page?__hstc=39109500.90f479e12ff9ca26b22e2533c202fc05.1490299566175.1490299566175.1490711657181.2&__hssc=39109500.3.1490711657181&__hsfp=2953483894]
+                                    On Equipment triangle: miten kukin hyötyy
+                        IBM Internet of Things blog:  Plastic bean-shaped sensors monitor crops for precision agriculture
+                            Teknologiasovellus: papusensori, lähde [https://www.agweb.com/article/magic-beans-monitor-grain-bins-really-naa-chris-bennett/]
+                                Haettu agweb.com hakulauseella
+                                    Internet of Things <29-04-2018  21:38>
+                                    Rajattu: Keywords: Internet of Things; New Era of Ag; Precision Agriculture
+                                        13 hakutulosta
+                                            [https://www.agweb.com/search/?keyword=%22internet%20of%20things%22#keyword=%22internet%20of%20things%22&keywords=Internet%20of%20Things,New%20Era%20of%20Ag,Precision%20Agriculture,Sensors&mpp=72]
+                                            Käydään läpi myöhemmin!
+                        IBM Internet of Things blog: How IoT and weather come together to support the global food system
+                            Haastattelu Watson-asiantuntijalta, ruokaturva, tosielämän ratkaisuja
+                        IBM Internet of Things blog: Transforming the agricultural industry
+                            Perusteita, linkki 2016 Global Opportunity Report:iin jossa Smart Farming oli paras mahdollisuus (capacity/benefits)
+                                [http://www.globalopportunitynetwork.org/the-2016-global-opportunity-report.pdf]
+                                    Hyviä perusteluja Smart Farmingille.
+                                    [http://www.globalopportunitynetwork.org/report-2017/soil-depletion/]
+                                        Vuoden 2017 raportissa
+                                            [http://globalopportunitynetwork.org/the-2017-global-opportunity-report.pdf]
+                                            maaperän köyhtymisestä, soil-free agriculture
+                        IBM Watson Blog: Five ways agriculture could benefit from artificial intelligence - Watson
+                            IoT:n potentiaalin realisointi; kuvannustiedon käyttö; työvoima; parhaat tavat voiton maksimointiin; AI-ohjattu viljelyneuvoja chatbot
+                        IBM Think Blog: Here Come the Drones: Creating Buzz in the Ag Industry
+                            Droneja maatalouskäyttöön 2015, perusteita
+                        IBM Internet of Things blog: A sustainable planet in a connected world. The role of the Internet of Things.
+                            Ruokaturvasta globaalisti, viinitila EZ Farmin avulla
+                        IBM Client Success Field Notes: Cognitive precision farming helps increase yields to feed future generations
+                            Perusteluita: ruuan tarve, datasta tietoon, miten koneoppiminen on parempi kuin vain ohjelmoitu
+
+
+
+
+
+
+
+
+
 
 Elsevier ScienceDirect Freedom Collection
     -tärppäsi: agro-industrial-kirjallisuuskatsaus; big data analysis in agriculture-kirjallisuuskatsaus; jne.
