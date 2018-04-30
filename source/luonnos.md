@@ -333,6 +333,7 @@ Aaltodoc https://aaltodoc.aalto.fi/?locale-attribute=fi
                         7 hakutulosta
                             Silmäilyn perusteella valittu, koska yleistieto tiivistelmässä tukee haastattelujen tietoja.
                                 Nikkilä, Raimo: Automated control of compliance with production standards in precision agriculture
+                                    Täsmäviljelyn adoption tilannetta s. 35
                         Rajattu: Tiivistelmä sisältää: "Precision Farming"
                         32 hakutulosta
                             Sama kuin ed. (Nikkilä)
@@ -477,8 +478,9 @@ Google Scholar https://scholar.google.fi/
     Hakulauseella
         ("Internet of Things") AND (agriculture OR horticulture OR "plant production"  OR "plant factory" OR "precision agriculture" OR "smart farming" OR "vertical farming" OR "plant factory" OR farm OR greenhouses) AND ("literature review" OR survey) <27-04-2018  20:33>
             Noin 12000 hakutulosta, joista käyty läpi 100 ensimmäistä hakukoneen Sort by relevance-lajittelun mukaan.
-                Artikkelin Wortmann: Internet of Things lähteistä:Atzori: The Internet of Things: A survey
-                    Perusteos
+                Artikkelin Wortmann: Internet of Things lähteistä:
+                    Atzori: The Internet of Things: A survey
+                        Perusteos, keskeiset teknologiat lyhyesti.
                 Taylor: Farming the Web of Things
                     Case smart farming, datan jako
                 Motlagh: Low-Altitude Unmanned Aerial Vehicles-Based Internet of Things Services: Comprehensive Survey and Future Perspectives
@@ -600,6 +602,38 @@ IBM
 Elsevier ScienceDirect Freedom Collection
     -tärppäsi: agro-industrial-kirjallisuuskatsaus; big data analysis in agriculture-kirjallisuuskatsaus; jne.
     Advanced Search -> Expert search
+        ("Internet of Things") AND (agriculture OR "plant factory" OR "precision agriculture" OR "smart farming" OR "vertical farming" OR "plant factory" OR farm OR greenhouse) <29-04-2018  23:22>
+            Rajattu: vuodet 2010 - nykyhetki
+                SYSTEM PROBLEM
+        ("Internet of Things") AND (agriculture OR "plant factory" OR "precision agriculture" OR "smart farming" OR "vertical farming" OR "plant factory") <29-04-2018  23:23>
+            Rajattu: vuodet 2010 - nykyhetki
+                SYSTEM PROBLEM
+        Kamilaris: A review on the practice of big data analysis in agriculture
+            Haettu, koska aikaisemmissa muistiinpanoissa. <30-04-2018  10:35>
+            Recommended articles:
+                Wolfert: Big Data in Smart Farming – A review
+    Advanced Search
+        Hakulauseella
+            TITLE-ABSTR-KEY("internet of things") and TITLE-ABSTR-KEY(agriculture OR "plant factory" OR "precision agriculture" OR "smart farming" OR "vertical farming" OR "plant factory" OR farm OR greenhouse).
+            Rajattu 2010 - nykyhetki
+                42 hakutulosta
+                    Silmäilyn perusteella valittu:
+
+                        Pivoto: Scientific development of smart farming technologies and their application in Brazil
+
+                        Pham: How data analytics is transforming agriculture
+
+                        O'Grady: Modelling the smart farm
+
+                        Wolfert: Big Data in Smart Farming – A review
+
+                        Tzounis: Internet of Things in agriculture, recent advances and future challenges
+
+                        Teknologiasovelluksia:
+
+                        Brampounakis: Management and control applications in Agriculture domain via a Future Internet Business-to-Business platform
+
+
 
 IEEE Xplore - IEEE/IEE Electronic Library
 
@@ -639,6 +673,17 @@ Kirjoitetaan tulokset.
 Refaktoroidaan haastatteluprotokolla jos se tarvitaan mukaan työhön.
 Refaktoroidaan tutkimusongelma ja -kysymykset.
 Kirjoitetaan Johtopäätökset ja suositukset
+
+Mahdollinen rakenne:
+    Lähteiden hankinta
+    Metodit
+    Jaottelu
+    Kirjallisuuskatsaukset
+    Muut katsaukset
+    Teknologiasovellukset (tieteelliset lähteet)
+        Tekn.sov. puutarhatuotannossa
+        Tekn.sov. peltotuotannossa
+
 
 # Tulokset
 ## Tutkimusongelma I:n vastaukset
