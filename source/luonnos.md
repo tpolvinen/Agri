@@ -591,14 +591,6 @@ IBM
                             Perusteluita: ruuan tarve, datasta tietoon, miten koneoppiminen on parempi kuin vain ohjelmoitu
 
 
-
-
-
-
-
-
-
-
 Elsevier ScienceDirect Freedom Collection
     -tärppäsi: agro-industrial-kirjallisuuskatsaus; big data analysis in agriculture-kirjallisuuskatsaus; jne.
     Advanced Search -> Expert search
@@ -634,6 +626,8 @@ Elsevier ScienceDirect Freedom Collection
                                 Älykäs puutarharobotti
 
 IEEE Xplore - IEEE/IEE Electronic Library
+    Advanced Search
+
 
 Researchgate
 
@@ -676,7 +670,21 @@ Mahdollinen rakenne:
     Lähteiden hankinta
     Metodit
     Jaottelu
-    Kirjallisuuskatsaukset
+    Kirjallisuuskatsaukset:
+        Atzori: Internet of Things in Industries: A Survey 2010
+        Talavera: Review of IoT applications in agro-industrial and environmental fields 2017
+        Verdouw: Internet of Things in agriculture 2016
+        Madakam: Internet of Things (IoT): A Literature Review 2015
+        Farooq: A Review on Internet of Things (IoT) 2015
+        Kamilaris: A review on the practice of big data analysis in agriculture 2017
+        Wolfert: Big Data in Smart Farming – A review
+        Pivoto: Scientific development of smart farming technologies and their application in Brazil
+    Katsaukset:
+        Tzounis: Internet of Things in agriculture, recent advances and future challenges 2017
+        Gubbi: Internet of Things (IoT): A vision, architectural elements, and future directions 2013
+        Shaikh: Enabling Technologies for Green Internet of Things
+
+
     Muut katsaukset
     Teknologiasovellukset (tieteelliset lähteet)
         Tekn.sov. puutarhatuotannossa
