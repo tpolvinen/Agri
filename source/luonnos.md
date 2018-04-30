@@ -618,22 +618,20 @@ Elsevier ScienceDirect Freedom Collection
             Rajattu 2010 - nykyhetki
                 42 hakutulosta
                     Silmäilyn perusteella valittu:
-
-                        Pivoto: Scientific development of smart farming technologies and their application in Brazil
-
-                        Pham: How data analytics is transforming agriculture
-
-                        O'Grady: Modelling the smart farm
-
-                        Wolfert: Big Data in Smart Farming – A review
-
-                        Tzounis: Internet of Things in agriculture, recent advances and future challenges
-
+                        Tutkimusta:
+                            Pivoto: Scientific development of smart farming technologies and their application in Brazil
+                            Pham: How data analytics is transforming agriculture
+                            O'Grady: Modelling the smart farm
+                            Wolfert: Big Data in Smart Farming – A review
+                            Tzounis: Internet of Things in agriculture, recent advances and future challenges
                         Teknologiasovelluksia:
-
-                        Brampounakis: Management and control applications in Agriculture domain via a Future Internet Business-to-Business platform
-
-
+                            Brampounakis: Management and control applications in Agriculture domain via a Future Internet Business-to-Business platform
+                            Musat: Advanced services for efficient management of smart farms
+                                Kasvihuoneviljelyyn alusta, myös yhteydenpitoon muiden viljelijöiden kanssa(?)
+                            Popović: Architecting an IoT-enabled platform for precision agriculture and ecological monitoring: A case study
+                                Kasvihuoneviljelyyn alustan arkkitehtuuri
+                            Kumar: Smart Autonomous Gardening Rover with Plant Recognition Using Neural Networks
+                                Älykäs puutarharobotti
 
 IEEE Xplore - IEEE/IEE Electronic Library
 
