@@ -626,8 +626,77 @@ Elsevier ScienceDirect Freedom Collection
                                 Älykäs puutarharobotti
 
 IEEE Xplore - IEEE/IEE Electronic Library
-    Advanced Search
+    Command Search
+        Hakulauseella
+            (("Internet of Things") AND (agriculture OR "plant factory" OR "precision agriculture" OR "smart farming" OR "vertical farming" OR "plant factory" OR farm OR greenhouse)) <01-05-2018  15:25>
+            Rajattu: vuodet 2010 - nykyhetki
+                445 hakutulosta, joista käyty läpi 125 ensimmäistä hakukoneen Sort by relevance-lajittelun mukaan.
+                    Silmäilyn perusteella valittu:
+                        Gomes: GreenMon: An Efficient Wireless Sensor Network Monitoring Solution for Greenhouses
+                            Teknologiaratkaisu: sensorit langattoman verkon yli kasvihuoneessa
+                        Bhattacharya: (IBM Research–Africa): Toward Quantified Small-Scale Farms in Africa (2016)
+                            Kunnon teknologiasovellus isolla konseptilla
+                        Bing: The Research of lOT of Agriculture based on Three Layers Architecture (2016)
+                            Teknologiasovellus, monitorointia CO2, lämpö, kosteus, valo, alustan PH, alustan kosteus, sovelluksessa viljelyFAQ,  hyvillä tuloksilla
+                        Venkatesan: Design of a smart gateway solution based on the exploration of specific challenges in IoT (2017)
+                            Kunnon perusteita, pirstaleinen kenttä, josta ehdotus erilaisten laitteiden yleisgatewaylle
+                        Awate: Fruit Disease Detection using Color, Texture Analysis and ANN (2015)
+                            Teknologiasovellus, ehdotus sovelluksesta kuvatunnistus kasvitaudeille, ei ehkä muuta kuin tunnistus
+                        Carrasquilla-Batista: IoT applications: on the path of Costa Rica’s commitment to becoming carbon-neutral (2017)
+                            Kunnon taustaa, miten IoTtä sovelletaan levänkasvatukseen ja kasvihuonetuotantoon, miksi
 
+Kesken:
+https://ezproxy.haaga-helia.fi:2207/document/7943528/
+    Internet of Things — Propagation modelling for precision agriculture applications
+https://ezproxy.haaga-helia.fi:2207/document/8301662/
+    IOT-based drone for improvement of crop quality in agricultural field
+https://ezproxy.haaga-helia.fi:2207/document/8304434/
+    WiField, an IEEE 802.11-based agricultural sensor data gathering and logging platform
+https://ezproxy.haaga-helia.fi:2207/document/8082603/
+    Challenges and Opportunities for Sensor and Actuator Networks in Indian Agriculture
+        Kunnon perusteita, miksi...
+https://ezproxy.haaga-helia.fi:2207/document/8114645/
+    IoT-based System to Forecast Crop Frost
+        Hallaennustusjärjestelmä per IoT-sensoriverkko, hyvä esimerkki oikeasta ongelmasta
+https://ezproxy.haaga-helia.fi:2207/document/7855968/
+    Agricultural crop monitoring using IOT - a study
+        Kirjallisuuskatsaus
+https://ezproxy.haaga-helia.fi:2207/document/8030481/
+    IoT in Agriculture: Designing a Europe-Wide Large-Scale Pilot
+        Kunnon taustaa "A system-of-systems architectural approach is proposed, with an emphasis on the interoperability aspects which are critical for the uptake of IoT technologies in the agrifood sector."
+https://ezproxy.haaga-helia.fi:2207/document/8126005/
+    Computer vision based robotic weed control system for precision agriculture
+        Konenäkö, kitkentärobotin onnistunut prototyyppi
+https://ezproxy.haaga-helia.fi:2207/document/7780266/
+    Ipanera: An Industry 4.0 based architecture for distributed soil-less food production systems
+        Aquaponisen kasvatusjärjestelmän vedenkontrollointi per Industry 4.0
+https://ezproxy.haaga-helia.fi:2207/document/8273687/
+    Automated irrigation with advanced seed germination and pest control
+        Teknologiasovellus, WTF, äänen käyttö kasvun edistämisessä
+https://ezproxy.haaga-helia.fi:2207/document/7562740/
+    Developing a human-centric agricultural model in the IoT environment
+        Perus,  ehdotus yleiseksi AIoT-arkkitehtuuriksi, layerit, palvelut, tulevia tutkimuskohteita
+https://ezproxy.haaga-helia.fi:2207/document/6805713/
+    Big data application to the vegetable production and distribution system
+        BDn ja IoTn käyttöä japanilaisen NEDOn hankkeessa, kyberturvallisuus ja tietoturva
+https://ezproxy.haaga-helia.fi:2207/xpls/icp.jsp?arnumber=7106951&tag=1
+    Do-it-Yourself Digital Agriculture applications with semantically enhanced IoT platform
+        "Semantic enhancements to IoT platforms address challenges of interoperability, data fusion, integration of heterogeneous IoT silos, annotation of data streams, just to name a few."
+https://ezproxy.haaga-helia.fi:2207/xpls/icp.jsp?arnumber=7406276
+    Remote Agriculture Automation Using Wireless Link and IoT Gateway Infrastructure
+        "data delivery system between remote sensors and actuators... loT gateway infrastructure..."
+https://ezproxy.haaga-helia.fi:2207/document/6878963/
+    Wireless Sensor Network in precision agriculture application
+        Kasvihuoneeseen sensorit ja kastelun kontrollointi, saavutettu tehoa
+
+Hyviä edellisistä poimittuna:
+Stewart: Internet of Things — Propagation modelling for precision agriculture applications
+Dowling: WiField, an IEEE 802.11-based agricultural sensor data gathering and logging platform
+Brewster: IoT in Agriculture: Designing a Europe-Wide Large-Scale Pilot
+Jayaraman: Do-it-Yourself Digital Agriculture applications with semantically enhanced IoT platform
+Nakutis: Remote Agriculture Automation Using Wireless Link and IoT Gateway Infrastructure
+
+VAIN ABSTRACT PDF-TIEDOSTOSSA: Abraham: An Internet of Things (IoT)-based aquaponics facility (2017)
 
 Researchgate
 
