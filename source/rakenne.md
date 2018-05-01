@@ -24,11 +24,66 @@ oppari.md
 # Johtopäätökset ja suositukset
 # Lähteet
 
+
+# TIIVISTELMÄ
+# JOHDANTO
+## Yleisjohdanto (sis. Tavoitteet, tutkimusongelma, rajaus, käsitteet)
+## Puutarhatuotanto-johdanto
+## Peltotuotanto-johdanto
+# TEORIATAUSTA
+## Kasvintuotanto
+### Kasvintuotannon määrittely
+### Kasvintuotannon historia (aiheeseen liittyen)
+## Internet of Things, asioiden internet
+### IoTn määrittely
+### IoTn historia
+## Agricultural Internet of Things, maatalouden asioiden internet
+*Osana IIoTä*
+### AIoT kasvintuotannossa
+### AIoT peltokasvituotannossa
+### AIoT puutarhatuotannossa
+# TUTKIMUS
+## Tutkimuksen tavoitteet
+### Tutkimusongelmat
+### Tutkimuskysymykset
+### Työhypoteesit
+## Aineisto ja (tutkimus)menetelmät
+### Kirjallisuuskatsaus *ks. KYAMK Lonka Karoliina: LAPSEN DIABETEKSEN... 2014*
+#### Kirjallisuuskatsauksen vaiheet
+##### Keskeisten käsitteiden valinta
+(##### Tutkimussuunnitelma ja tutkimuskysymysten määrittäminen?)
+##### Alkuperäistutkimusten haku
+##### Alkuperäistutkimusten valinta
+*AIoT kirjallisuuskatsaukset*
+*AIoT tieteelliset julkaisut*
+*AIoT muut julkaisut*
+##### Alkuperäistutkimusten laadun arviointi
+##### Alkuperäistutkimusten analysointi ja tutkimustulosten esittäminen
+##### Kirjallisuuskatsauksen luotettavuus
+### Teemahaastattelut
+*teemahaastattelujen kuvaus, haastattelukysymysten valinta, haastateltavien valinta, haastattelujen toteutus*
+# TUTKIMUSTULOKSET
+## Kirjallisuuskatsauksen tulokset
+## Haastattelujen tulokset
+## Haastatteluista saatujen tulosten vertailu kirjallisuuskatsauksen tuloksiin
+## Tutkimuskysymyksien vastaukset
+# POHDINTA
+## Luotettavuus
+## Hyödynnettävyys
+# LÄHTEET
+# LIITTEET
+
+
+Uudestaan! Tällä kertaa Helmiön sys.k.kats. mukaan:
+...
+
+
+
 *<19-04-2018  11:15>*
 *Tässä opinnäytetyössä käsitellään Teoriataustassa teoreettisen tiedon hankinta kirjallisuudesta, Empiirisessä osassa haastattelut ja niistä saadut tiedot.*
 *ONGELMA? Miten saadaan haastattelujen tiedot dialogiin kirjallisuuden tietojen kanssa?*
 *Rakenne ei tunnu intuitiiviselta, koska tutkimusongelmat ja -kysymykset sekä tutkimusmenetelmät ovat "läsnä" jo Tietoperustassa.*
-*RATKAISUEHDOTUS: Tietoperustassa käsitellään IoT yleisellä tasolla historioineen ja käsitteineen, Empiirisessä osassa käsitellään sekä kirjallisuuskatsauksen että haastattelujen teko. <19-04-2018  22:17> Luetaan malleiksi valitut kirjallisuuskatsaukset sekä muut opinnäytetyöt ja pyritään soveltamaan niissä käytettyjä rakenteita.*
+*RATKAISUEHDOTUS: Tietoperustassa käsitellään IoT yleisellä tasolla historioineen ja käsitteineen sekä kirjallisuuskatsauksen tulokset, Empiirisessä osassa käsitellään haastattelujen teko ja tulokset. <19-04-2018  22:17> Luetaan malleiksi valitut kirjallisuuskatsaukset sekä muut opinnäytetyöt ja pyritään soveltamaan niissä käytettyjä rakenteita.*
 
 *<19-04-2018  22:35> Jokaisessa kohdassa metassa tulisi olla kysymys "Miksi tämä on tässä?" ja  perusteltu vastaus. Vastaus määrittelee mitä kohdassa on tarpeellista kertoa.*
 
