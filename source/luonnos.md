@@ -176,7 +176,7 @@ Laadullisen tutkimuksen tutkimusote valittiin kolmesta syystä: 1) tutkimusaihee
 Käytettävät tutkimusmenetelmät ovat kuvaileva (narratiivinen) kirjallisuuskatsaus sekä teemahaastattelut.
 Kirjallisuuskatsauksen ja teemahaastattelujen tuottamaa tietoa käsitellään sisällönanalyysin keinoin käyttäen myös narratiivisen tutkimuksen keinoja.
 Teemahaastattelun tutkimusmenetelmää käytetään yhdessä kuvailevan kirjallisuuskatsauksen kanssa trianguloimaan tutkimusaihetta.
-Aineiston keruumenetelmiä oli useita. Varsinaista tutkimustyötä edelsi ilmiöön tutustuminen erilaisilla keruumenetelmiä testattaessa, käyden asiantuntijakeskusteluja, vierailemalla alan tapahtumissa, keräämällä kontakteja ja haastatteluja tehden. Varsinaisen tutkimustyön aluksi haettiin IoT:tä yleistasolla ja ilmiönä käsittelevää kirjallisuutta. Seuraavaksi käytettiin sateenvarjokatsausta, jolla haettiin ilmiötä käsitteleviä kirjallisuuskatsauksia. Valittujen kirjallisuuskatsausten pohjalta muotoiltiin omat hakumetodit ja valittiin osa lähteistä. Omien hakumetodien tuloksista on valittu tekijän harkinnan mukaan aihetta parhaiten kuvaavat. Lisäksi ollaan käytetty aiheeseen tutustuttaessa löydettyjä lähteitä jos ne ovat tekijän harkinnan mukaan olleet tähdellisiä aiheen käsittelylle ja ymmärryksen luomiselle.
+Aineiston keruumenetelmiä oli useita. Varsinaista tutkimustyötä edelsi ilmiöön tutustuminen erilaisia keruumenetelmiä testattaessa, keräämällä kontakteja, käyden asiantuntijakeskusteluja, vierailemalla alan tapahtumissa ja haastatteluja tehden. Varsinaisen tutkimustyön aluksi haettiin IoT:tä yleistasolla ja ilmiönä käsittelevää kirjallisuutta. Seuraavaksi käytettiin sateenvarjokatsausta, jolla haettiin ilmiötä käsitteleviä kirjallisuuskatsauksia. Valittujen kirjallisuuskatsausten pohjalta muotoiltiin omat hakumetodit ja valittiin osa lähteistä. Omien hakumetodien tuloksista on valittu tekijän harkinnan mukaan aihetta parhaiten kuvaavat. Lisäksi ollaan käytetty aiheeseen tutustuttaessa löydettyjä lähteitä jos ne ovat tekijän harkinnan mukaan olleet tähdellisiä aiheen käsittelylle ja ymmärryksen luomiselle.
 
 Tutkimuksen luotettavuutta pyritään parantamaan käyttämällä aineistotriangulaatiota: kirjallisuuskatsauksen tuloksia vertaillaan haastattelujen tuloksiin sekä tuodaan esille ammattijulkaisuissa, laitevalmistajien sekä muiden toimijoiden tiedotteissa, lehtiartikkeleissa jne. ilmestyneitä asiaan liittyviä asioita.
 
@@ -193,7 +193,13 @@ Haastateltavia etsittiin tapahtumista saatujen kontaktien, aineistosta löytynei
 Mitä nyt on tehty ja mitä seuraavaksi:
     Käytetty hieman erilaisia hakulauseita eri kantoihin niiden vaatimusten ja toimintojen mukaan.
     Tuloksena kohtuullinen määrä tieteellisiä lähteitä.
-    Lähteistä pitää seuraavaksi tarkistaa onko kirjallisuuskatsauksia saturoiva tai muuten riittävä määrä. Katsauksia ollaan haettu erikseen vasta Google Scholarin avulla. Kirjoitetaan havainnot katsauksista. Lähdetään liikkeelle Talaveran kirjallisuuskatsauksesta: mitä kantoja kannattaa hakea? Google Scholar, IEEE, Scopus. Kamilaris et al. käytti IEEE, ScienceDirect, Web of Science, Google Scholar. Verdouw et al. käytti Scopusta, Google Scholaria "*We searched in the Scopus database for papers that on the one hand include Internet of Things or IoT in the title and on the other hand agriculture, farming or food in the title, abstract or the keywords section. In addition, we used generic references on IoT and enabling technologies by using Google scholar especially searching for review articles that provide an overview of the application of specific enabling technologies in the agricultural domain.*"
+    Lähteistä pitää seuraavaksi tarkistaa onko kirjallisuuskatsauksia saturoiva tai muuten riittävä määrä. Katsauksia ollaan haettu erikseen vasta Google Scholarin avulla. Kirjoitetaan havainnot katsauksista.
+
+Kirjallisuuskatsausten käyttämät tietokannat:
+    Talaveran: Google Scholar, IEEE, Scopus
+    Kamilaris: IEEE, ScienceDirect, Web of Science, Google Scholar
+    Verdouw: Scopus, Google Scholar 
+    "*We searched in the Scopus database for papers that on the one hand include Internet of Things or IoT in the title and on the other hand agriculture, farming or food in the title, abstract or the keywords section. In addition, we used generic references on IoT and enabling technologies by using Google scholar especially searching for review articles that provide an overview of the application of specific enabling technologies in the agricultural domain.*"
 
 
 
@@ -222,14 +228,17 @@ Mahdollinen rakenne:
         Talavera: Review of IoT applications in agro-industrial and environmental fields 2017
         Verdouw: Internet of Things in agriculture 2016
         Madakam: Internet of Things (IoT): A Literature Review 2015
-        Farooq: A Review on Internet of Things (IoT) 2015
         Kamilaris: A review on the practice of big data analysis in agriculture 2017
         Wolfert: Big Data in Smart Farming – A review
-        Pivoto: Scientific development of smart farming technologies and their application in Brazil
+        Xu: Internet of Things in Industries: A Survey 2014
+        Rose: The Internet of Things (IoT): An Overview
+
     Katsaukset:
+        Pivoto: Scientific development of smart farming technologies and their application in Brazil
+        Farooq: A Review on Internet of Things (IoT) 2015
         Tzounis: Internet of Things in agriculture, recent advances and future challenges 2017
         Gubbi: Internet of Things (IoT): A vision, architectural elements, and future directions 2013
-        Shaikh: Enabling Technologies for Green Internet of Things
+        Shaikh: Enabling Technologies for Green Internet of Things 2017
 
 
     Muut katsaukset
