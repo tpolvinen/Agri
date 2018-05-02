@@ -237,7 +237,7 @@ Mahdollinen rakenne:
 
 ## Kirjallisuuskatsaukset:
 
-* Atzori: Internet of Things in Industries: A Survey 2010
+* Atzori: The Internet of Things: A survey 2010
 * Talavera: Review of IoT applications in agro-industrial and environmental fields
 * Verdouw: Internet of Things in agriculture
 * Madakam: Internet of Things (IoT): A Literature Review
