@@ -48,7 +48,7 @@ oppari.md
 ### Tutkimuskysymykset
 ### Työhypoteesit
 ## Aineisto ja (tutkimus)menetelmät
-### Kirjallisuuskatsaus *ks. KYAMK Lonka Karoliina: LAPSEN DIABETEKSEN... 2014*
+### Kirjallisuuskatsaus *mallina KYAMK Lonka Karoliina: LAPSEN DIABETEKSEN... 2014*
 #### Kirjallisuuskatsauksen vaiheet
 ##### Keskeisten käsitteiden valinta
 (##### Tutkimussuunnitelma ja tutkimuskysymysten määrittäminen?)
@@ -60,6 +60,8 @@ oppari.md
 ##### Alkuperäistutkimusten laadun arviointi
 ##### Alkuperäistutkimusten analysointi ja tutkimustulosten esittäminen
 ##### Kirjallisuuskatsauksen luotettavuus
+*Miten kaupalliset tuotteet yms., esim Soilscout ja Agrismart otetaan mukaan?*
+*Miten organisaatiot ja niiden julkaisut, esim. Luke ja IoF2020 otetaan mukaan?*
 ### Teemahaastattelut
 *teemahaastattelujen kuvaus, haastattelukysymysten valinta, haastateltavien valinta, haastattelujen toteutus*
 # TUTKIMUSTULOKSET
