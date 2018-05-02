@@ -512,6 +512,7 @@ Nakutis: Remote Agriculture Automation Using Wireless Link and IoT Gateway Infra
 
 VAIN ABSTRACT PDF-TIEDOSTOSSA: Abraham: An Internet of Things (IoT)-based aquaponics facility (2017)
 
+
 Researchgate
 
 
@@ -525,3 +526,32 @@ agriculture
 "Plant Factory"
 farm
 greenhouse
+
+
+## Kirjallisuuskatsaukset:
+
+* Atzori: Internet of Things in Industries: A Survey 2010
+* Talavera: Review of IoT applications in agro-industrial and environmental fields
+* Verdouw: Internet of Things in agriculture
+* Madakam: Internet of Things (IoT): A Literature Review
+* Kamilaris: A review on the practice of big data analysis in agriculture
+* Wolfert: Big Data in Smart Farming – A review
+* Xu: Internet of Things in Industries: A Survey
+* Rose: The Internet of Things (IoT): An Overview
+
+## Katsaukset:
+
+* Pivoto: Scientific development of smart farming technologies and their application in Brazil
+* Farooq: A Review on Internet of Things (IoT) 2015
+* Tzounis: Internet of Things in agriculture, recent advances and future challenges 2017
+* Gubbi: Internet of Things (IoT): A vision, architectural elements, and future directions 2013
+* Shaikh: Enabling Technologies for Green Internet of Things 2017
+* Khodadadi: Internet of Things: An Overview
+* Bo: The Application of Cloud Computing and the Internet of Things in Agriculture and Forestry
+* Sundmaeker: Vision and Challenges for Realizing the Internet of Things
+* Dlodlo: The internet of things in agriculture for sustainable rural development (2015)
+* Stočes: Internet of things (iot) in agriculture-selected aspects 2016
+* Motlagh: Low-Altitude Unmanned Aerial Vehicles-Based Internet of Things Services: Comprehensive Survey and Future Perspectives 2016
+* Fahran: A survey on the challenges and opportunities of the Internet of Things (IoT) 2017
+* Fantana: Internet of Things - Converging Technologies for Smart Environments and Integrated Ecosystems 2013
+* Sreekantha: Agricultural Crop Monitoring  using IOT- A Study 2017
