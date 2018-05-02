@@ -527,6 +527,11 @@ agriculture
 farm
 greenhouse
 
+## Kirjallisuus:
+
+* Internet of things: Principles and paradigms
+* Industry 4.0: The industrial internet of things 
+* Internet of Things - Global Technological and Societal Trends
 
 ## Kirjallisuuskatsaukset:
 
@@ -555,3 +560,13 @@ greenhouse
 * Fahran: A survey on the challenges and opportunities of the Internet of Things (IoT) 2017
 * Fantana: Internet of Things - Converging Technologies for Smart Environments and Integrated Ecosystems 2013
 * Sreekantha: Agricultural Crop Monitoring  using IOT- A Study 2017
+
+## Järjestöjen julkaisut
+...
+
+## Teknologiasovellukset/prototyypit/ehdotukset tutkimuksessa
+...
+
+## Kaupalliset tuotteet ja julkaisut
+...
+

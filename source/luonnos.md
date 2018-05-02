@@ -206,45 +206,71 @@ Kirjallisuuskatsausten käyttämät tietokannat:
 Löydettyjä kirjallisuuskatsauksia käytetään seuraavasti:
 Tiedon kattavuutta pyritään parantamaan hakemalla sateenvarjokatsauksen omaisesti aihetta käsitteleviä kirjallisuuskatsauksia. Hakutuloksista valituista kirjallisuuskatsauksista käydään läpi tutkimusmetodit joista löytyviä hakumenetelmiä käytetään hyväksi soveltuvin osin tämän työn seuraavissa tiedonhakuvaiheessa.
 
-SEURAAVAKSI: 
-Sateenvarjokatsauksen loppuun vienti:
-    Katsausten asiasanat yhteen, haku niillä katsausten metodeista parhaisiin kantoihin. Lisäksi käydään läpi kannoista kuhunkin katsaukseen liittyvät julkaisut, esim. Science Direct:in "Recommended articles"
-Valituista katsauksista otetaan asiasanat ja mallit hakulauseisiin/metodeihin. Asiasanoihin lisätään sellaiset, jotka ovat tulleet aikaisemmissa vaiheissa esille ja joiden oletetaan olevan keskeisiä tutkittavalle ilmiölle tai jollekin sen osalle. Kirjoitetaan löydökset.
-Tehdään varsinaiset hakulauseet ja valitaan kannat. Tehdään haut. Valitaan tuloksista sopivat metodilla Mutu-X. Kirjoitetaan löydökset.
-Käydään läpi CEMA, IoF2020, AEF sekä muut mahdollisesti vastaan tulleiden toimijoiden julkaisut. Kirjoitetaan havainnot.
-Käydään läpi haastattelujen litteroinnit ja kirjoitetaan löydökset. Tarkistetaan oikeellisuus haastateltavien kanssa.
-Lisätään mahd. mukaan aikaisemmista vaiheista mukaan tulleet lähteet ja kirjoitetaan löydökset.
-Kirjoitetaan tulokset.
-Refaktoroidaan haastatteluprotokolla jos se tarvitaan mukaan työhön.
-Refaktoroidaan tutkimusongelma ja -kysymykset.
-Kirjoitetaan Johtopäätökset ja suositukset
+## SEURAAVAKSI:
+
+<02-05-2018  21:27>
+
+1. Sateenvarjokatsauksen loppuun vienti:
+    Luetaan kirjallisuuskatsaukset, merkitään teemat ja aiheet niiltä osin kun tiedon arvellaan olevan tarpeellista omalle työlle. Merkitään muistiin myös assosiaatiot muihin lähteisiin.
+    Seuraavaksi sama kirjoille.
+    Seuraavaksi sama muille katsauksille.
+    Asetellaan muistiinpanot luonnokseen.
+    Muokataan rakennetta samalla.
+2. Sitten teknologiasovellukset ja muut lähteet, jotka löydettiin dokumetoiduissa hauissa.
+3. Käydään läpi CEMA, IoF2020, AEF, Luke sekä muut mahdollisesti vastaan tulleiden toimijoiden julkaisut. Kirjoitetaan havainnot.
+4. Käydään läpi haastattelujen litteroinnit ja kirjoitetaan löydökset. Tarkistetaan oikeellisuus haastateltavien kanssa.
+5. Lisätään mahd. mukaan aikaisemmista vaiheista mukaan tulleet lähteet ja kirjoitetaan löydökset. Kirjoitetaan tulokset.
+6. Refaktoroidaan haastatteluprotokolla jos se tarvitaan mukaan työhön.
+7. Refaktoroidaan tutkimusongelma ja -kysymykset.
+8. Kirjoitetaan Johtopäätökset ja suositukset
 
 Mahdollinen rakenne:
     Lähteiden hankinta
     Metodit
     Jaottelu
-    Kirjallisuuskatsaukset:
-        Atzori: Internet of Things in Industries: A Survey 2010
-        Talavera: Review of IoT applications in agro-industrial and environmental fields 2017
-        Verdouw: Internet of Things in agriculture 2016
-        Madakam: Internet of Things (IoT): A Literature Review 2015
-        Kamilaris: A review on the practice of big data analysis in agriculture 2017
-        Wolfert: Big Data in Smart Farming – A review
-        Xu: Internet of Things in Industries: A Survey 2014
-        Rose: The Internet of Things (IoT): An Overview
 
-    Katsaukset:
-        Pivoto: Scientific development of smart farming technologies and their application in Brazil
-        Farooq: A Review on Internet of Things (IoT) 2015
-        Tzounis: Internet of Things in agriculture, recent advances and future challenges 2017
-        Gubbi: Internet of Things (IoT): A vision, architectural elements, and future directions 2013
-        Shaikh: Enabling Technologies for Green Internet of Things 2017
+## Kirjallisuus:
 
+* Internet of things: Principles and paradigms
+* Industry 4.0: The industrial internet of things 
+* Internet of Things - Global Technological and Societal Trends
 
-    Muut katsaukset
-    Teknologiasovellukset (tieteelliset lähteet)
-        Tekn.sov. puutarhatuotannossa
-        Tekn.sov. peltotuotannossa
+## Kirjallisuuskatsaukset:
+
+* Atzori: Internet of Things in Industries: A Survey 2010
+* Talavera: Review of IoT applications in agro-industrial and environmental fields
+* Verdouw: Internet of Things in agriculture
+* Madakam: Internet of Things (IoT): A Literature Review
+* Kamilaris: A review on the practice of big data analysis in agriculture
+* Wolfert: Big Data in Smart Farming – A review
+* Xu: Internet of Things in Industries: A Survey
+* Rose: The Internet of Things (IoT): An Overview
+
+## Katsaukset:
+
+* Pivoto: Scientific development of smart farming technologies and their application in Brazil
+* Farooq: A Review on Internet of Things (IoT) 2015
+* Tzounis: Internet of Things in agriculture, recent advances and future challenges 2017
+* Gubbi: Internet of Things (IoT): A vision, architectural elements, and future directions 2013
+* Shaikh: Enabling Technologies for Green Internet of Things 2017
+* Khodadadi: Internet of Things: An Overview
+* Bo: The Application of Cloud Computing and the Internet of Things in Agriculture and Forestry
+* Sundmaeker: Vision and Challenges for Realizing the Internet of Things
+* Dlodlo: The internet of things in agriculture for sustainable rural development (2015)
+* Stočes: Internet of things (iot) in agriculture-selected aspects 2016
+* Motlagh: Low-Altitude Unmanned Aerial Vehicles-Based Internet of Things Services: Comprehensive Survey and Future Perspectives 2016
+* Fahran: A survey on the challenges and opportunities of the Internet of Things (IoT) 2017
+* Fantana: Internet of Things - Converging Technologies for Smart Environments and Integrated Ecosystems 2013
+* Sreekantha: Agricultural Crop Monitoring  using IOT- A Study 2017
+
+## Järjestöjen julkaisut
+...
+
+## Teknologiasovellukset/prototyypit/ehdotukset tutkimuksessa
+...
+
+## Kaupalliset tuotteet ja julkaisut
+...
 
 
 # Tulokset
