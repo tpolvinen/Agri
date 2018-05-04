@@ -238,7 +238,37 @@ Mahdollinen rakenne:
 ## Kirjallisuuskatsaukset:
 
 * Atzori: The Internet of Things: A survey 2010
-* Talavera: Review of IoT applications in agro-industrial and environmental fields
+* Talavera: Review of IoT applications in agro-industrial and environmental fields @talaveraReviewIoTApplications2017
+    Muistiinpanot:
+        Systemaattinen kirjallisuuskatsaus
+        Tutkimuskysymykset:
+            1. What are the main technological solutions of the Internet of Things in agro-industrial and environmental fields?
+            2. Which infrastructure and technology are using the main solutions of IoT in agro-industrial and environmental fields?
+        Tiivistelmä:
+            Tarkoituksena selvittää sovellusalueet, trendit, arkkitehtuurit, avoimet haasteet.
+            Vuosilta 2006 - 2016.
+            Sovellusalueet: tarkkailu, kontrollointi, logistiikka, ennustus.
+            Analysoitu sensoreiden, aktuaattoreiden, virtalähteiden, edge computing -mallien, viestintäteknologioiden, tallennusratkaisuiden, visualisaatiostrategioiden mukaan.
+            Lopuksi koottu IoT-arkkitehtuuriksi.
+        Taustaa:
+            Internetin laajamittainen käyttö on kahden viime vuosikymmenen aikana tuottanut globaalisti lukemattoman määrän etuja ja hyötyä ihmisille ja organisaatioille. Voidaan väittää, että näistä tärkein on kyky (ja mahdollisuus) kuluttaa ja tuottaa dataa sekä palveluita reaaliaikaisesti. Viime aikoina esineiden internet (Internet of Things, IoT) lupaa tuottaa samat edut (ja hyödyt) jokapäiväisille esineille. Tämä voi mahdollistaa meille sekä havainnointikykymme laajentamisen että ympäristömme muokkaamisen/kontrolloinnin.
+            Havainnoinnin ja hallinnan kontekstissa maatalousteollinen ala (?) on ihanteellinen tarkastelun kohde, koska toiminnassa on tarpeen jatkuvasti havainnoida ja hallita/kontrolloida/vaikuttaa laajoja alueita. IoT mahdollistaa uusia toimintamalleja tehdasautomaation ulkopuolelle kun kerättyä dataa syötetään koneoppimisalgoritmeille ennusteiden tekoon (Saville et al., 2015) ja näitä ennusteita voidaan käyttää päätöksenteon helpottamiseen ja suunnitteluun niin omistajien, johtajien kuin lainsäätäjienkin toiminnassa.
+            IoT:tä voidaan käyttää maataloustuotannon eri tasoilla/vaiheissa (Medela et al., 2013). IoT:tä voidaan käyttää arvioidessa maaperän tilaa, ilmastoa/säätilaa ja kasvien tai eläinten biomassaa. IoT:tä voidaan käyttää arvioidessa ja säätäessä/kontrolloidessa tuotteiden kuljetuksessa lämpötilaa, kosteutta, tärinää ja iskuja (Pang et al., 2015). IoT:tä voidaan käyttää tuotteiden tilan arviointiin ja seurantaan sekä tuotteiden määrään hyllyillä tai kylmätiloissa. IoT:tä voidaan käyttää välittämään loppukäyttäjälle/kuluttajalle tietoa tuotteen alkuperästä ja ominaisuuksista.
+            IoT:n soveltaminen maatalouteen voi osaltaan edistää maaseutuyhteisön kehitystä aikaisempaakin asiantuntevammaksi (informed), yhdistyneemmäksi (connected), edistyneemmäksi (developed) ja sopeutumiskykyisemmäksi (adaptable).
+            IoT-paradigman alla edulliset/halvat (low-cost) elektoniset laitteet voivat edistää ihmisten kanssakäymistä (interaction) fyysisen maailman kanssa. Internetin kautta saatavilla olevan laskentatehon ja ohjelmistojen avulla voidaan tuottaa arvokasta analytiikkaa. Tulevina vuosina IoT voi olla tärkeä työkalu maatalouden järjestelmien kanssa toimiville ihmisille kuten tavaratoimittajille, viljejijöille, mekaanikoille, jälleenmyyjille, liiketoiminnan harjoittajille, kuluttajille ja valtiohallinnon edustajille.
+        Tutkimusmetodit:
+            Tehtiin useita hakuja erilaisiin digitaalisiin kirjastoihin ja hakukoineisiin. Hakutulokset koottiin manuaalisesti jotta parhaat tietolähteet saataisiin valikoitua tutkimuskysymyksiin vastauksen saamiseksi.  Tulosten analysoinnin jälkeen valittiin digitaaliset kirjastot ja hakukoneet tieteellisen ja teknisen sisällön perusteella, lisäksi ottaen huomioon tietoalueet (?) jotka sopivat tutkimuksen tavoitteeseen.
+            Määriteltiin avainsanat/asiasanat ja hakuprosessi. Avainsanat valittiin tutkimuskysymyksistä muodostaen kaksi avainsanaryhmää. Avainsanaryhmissä oli kootut avainsanat synonyymeineen tai samaa tarkoittavine termeineen. Ryhmä 1 sisälsi IoT:hen liittyvät ja ryhmä 2 maatalouteen liittyvät.
+
+    Soita Hydenille
+    laita meiliä dodolle
+    Kontaktoi tuotantotukku
+
+
+
+
+
+    
 * Verdouw: Internet of Things in agriculture
 * Madakam: Internet of Things (IoT): A Literature Review
 * Kamilaris: A review on the practice of big data analysis in agriculture
