@@ -240,6 +240,12 @@ Mahdollinen rakenne:
 * Atzori: The Internet of Things: A survey 2010
 * Talavera: Review of IoT applications in agro-industrial and environmental fields @talaveraReviewIoTApplications2017
     Muistiinpanot:
+    Tässä kirjallisuuskatsauksessa esitettiin AIoT:n sovellusalueiksi käsiteltyjen tutkimusten perusteella: tarkkailu (monitoring) 62 %; kontrollointi (control) 25 %; logistiikka (logistics) 7 %; ennustus (prediction) 6 %.
+    Kustakin kategoriasta alikategorioineen on kuvailu esimerkein.
+    Löydöksien perusteella on kuvailtu AIoT:n käyttöönottoon vaikuttavat esteet (limitations) ja avoimet haasteet: Stronger standardization; Better power management; Security; Design using modular hardware and software; Improve unit cost; Aim for a good compatibility with legacy infrastructure; Consider scalability early on; Adopt good practices of software engineering; Improve robustness for field deployments; User-centered design; Contribute to the IoT the ecosystem; Sustainable practices.
+    Lopuksi esitetään AIoT-arkkitehtuurimalli, joka vetää yhteen suurimman osan kirjallisuuskatsauksessa käsitellyistä tutkimuksista. Arkkitehtuurin neljä päätasoa ovat: physical; communication; service; application.
+    Tekijöiden mukaan käsitellyt tutkimukset tarjoavat kompaktin näköalan (view) maatalouden ongelmien ratkaisemiseksi ehdotettuista teknologiasovelluksista vuosien 2006 - 2016 ajalta. Tekijät olivat havainneet suurimman osan ehdotettuista teknologiasovelluksista käyttävän heterogeenisiä komponentteja ja langattomia verkkoja. Tekijöiden mukaan on järkevää olettaa että tulevaisuudessa vastaavien ratkaisujen kuitenkin tulee täysimittaisesti käyttää hyväkseen pilvipalveluita ja uusia yhteystapoja (ways of connectivity) saavuttaakseen todella yhdistetyn ja älykkään (truly connected and smart) IoT-ekosysteemin edut.  
+
         Systemaattinen kirjallisuuskatsaus
         Tutkimuskysymykset:
             1. What are the main technological solutions of the Internet of Things in agro-industrial and environmental fields?
@@ -273,7 +279,7 @@ Mahdollinen rakenne:
                         Tarkkailu-kategorian tutkimusten käsittelemät teknologiasovellukset keskittyivät tarkkailemaan useita erityyppisiä fyysisiä muuttujia sen mukaan, mihin alikategoriaan ne kuuluivat. Tarkkailu-kategorian alikategorioita havaittiin olevan: ilmanlaadun tarkkailu (air monitoring) 34.5 %, maaperän tarkkailu (soil monitoring) 27.3 %, vedenlaadun tarkkailu (water monitoring) 16.4%, kasvien tarkkailu (plant monitoring) 10.9 % sekä muut (others) 10.9 % johon kuuluivat sellaiset teknologiasovellukset kuten kalanviljely (aquaculture) ja eläinten tarkkailu (animal monitoring). Monet tässä kirjallisuuskatsauksessa viitatuista tutkimuksista käsitelivät useampia alikategorioita.
                             Tarkkailu-kategorian alikategoriat:
                             ilmanlaadun tarkkailu (air monitoring) 34.5 %
-
+                                Tämän alikategorian teknologiasovellukset pyrkivät ajoittaiseen tai jatkuvaan ympäristöarvojen (environmental parameters) tai saastumisen (pollution levels) mittaamiseen negatiivisten tai vahingollisten vaikutusten ennaltaehkäisemiseksi. Tässä alikategorian teknologiasovelluksissa pyrittiin myös ennustamaan ekosysteemin tai biosfäärin kokonaisuuden muutoksia. Esimerkkinä Watthanawisuth et al. (2009), jossa kuvailtiin AIoT-järjestelmä mikroilmaston reaaliaikaisen mittaus 
                             maaperän tarkkailu (soil monitoring) 27.3 %
 
                             vedenlaadun tarkkailu (water monitoring) 16.4%
