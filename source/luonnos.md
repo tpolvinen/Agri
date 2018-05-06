@@ -247,7 +247,7 @@ Mahdollinen rakenne:
         Tiivistelmä:
             Tarkoituksena selvittää sovellusalueet, trendit, arkkitehtuurit, avoimet haasteet.
             Vuosilta 2006 - 2016.
-            Sovellusalueet: tarkkailu, kontrollointi, logistiikka, ennustus.
+            Sovellusalueet: tarkkailu (monitoring) 62 %, kontrollointi (control) 25 %, logistiikka (logistics) 7 %, ennustus (prediction) 6 %.
             Analysoitu sensoreiden, aktuaattoreiden, virtalähteiden, edge computing -mallien, viestintäteknologioiden, tallennusratkaisuiden, visualisaatiostrategioiden mukaan.
             Lopuksi koottu IoT-arkkitehtuuriksi.
         Taustaa:
@@ -258,7 +258,34 @@ Mahdollinen rakenne:
             IoT-paradigman alla edulliset/halvat (low-cost) elektoniset laitteet voivat edistää ihmisten kanssakäymistä (interaction) fyysisen maailman kanssa. Internetin kautta saatavilla olevan laskentatehon ja ohjelmistojen avulla voidaan tuottaa arvokasta analytiikkaa. Tulevina vuosina IoT voi olla tärkeä työkalu maatalouden järjestelmien kanssa toimiville ihmisille kuten tavaratoimittajille, viljejijöille, mekaanikoille, jälleenmyyjille, liiketoiminnan harjoittajille, kuluttajille ja valtiohallinnon edustajille.
         Tutkimusmetodit:
             Tehtiin useita hakuja erilaisiin digitaalisiin kirjastoihin ja hakukoineisiin. Hakutulokset koottiin manuaalisesti jotta parhaat tietolähteet saataisiin valikoitua tutkimuskysymyksiin vastauksen saamiseksi.  Tulosten analysoinnin jälkeen valittiin digitaaliset kirjastot ja hakukoneet tieteellisen ja teknisen sisällön perusteella, lisäksi ottaen huomioon tietoalueet (?) jotka sopivat tutkimuksen tavoitteeseen.
-            Määriteltiin avainsanat/asiasanat ja hakuprosessi. Avainsanat valittiin tutkimuskysymyksistä muodostaen kaksi avainsanaryhmää. Avainsanaryhmissä oli kootut avainsanat synonyymeineen tai samaa tarkoittavine termeineen. Ryhmä 1 sisälsi IoT:hen liittyvät ja ryhmä 2 maatalouteen liittyvät.
+            Määriteltiin avainsanat/asiasanat ja hakuprosessi. Avainsanat valittiin tutkimuskysymyksistä muodostaen kaksi avainsanaryhmää. Avainsanaryhmissä oli kootut avainsanat synonyymeineen tai samaa tarkoittavine termeineen. Ryhmä 1 sisälsi IoT:hen liittyvät ja ryhmä 2 maatalouteen liittyvät. Digitaalisten kirjastojen edistyneiden hakutoimintojen tukemien loogisten operaattoreiden avulla koostettiin hakulauseet, jotka perustuivat tutkimuskysymyksiin ja jotka yhdistivät avainsanaryhmät. Yleistä hakulauseiden rakennetta käytettiin hakujen tekoon valittuihin tietolähteisiin.
+            Laatuvaatimukset tarkasteltaville artikkeleille (papers) olivat: vertaisarviointi, englanninkielisyys, julkaisuvuosi 2006-2016. Jos aihe ei ollut relevantti tai tämän tutkimuksen rajauksen ulkopuolella, se poistettiin. Sitten käytettiin ICtä ja QCtä määrän pienentämiseksi. 
+        Toteutus:
+            Lopulta 3578:sta hakutuloksesta valittiin 72. Suurin osa valikoiduista tutkimuksista oli julkaistu vuosina 2012 - 2016. Vuosien 2012 - 2014 välillä oli lähes neljänneksen (noin 5 kpl.) vuosittainen kasvu, vuoden 2016 ollessa tutkimusajankohtana vielä kesken.
+        Vastaukset tutkimuskysymyksiin:
+            Ensimmäinen tutkimuskysymys:
+                *"What are the main technological solutions of the Internet of Things in agro-industrial and environmental fields?"*
+                Valittujen tutkimusten havaittiin jakautuvan neljään sovellusaueeseen seuraavasti: tarkkailu (monitoring) 62 %, kontrollointi (control) 25 %, logistiikka (logistics) 7 %, ennustus (prediction) 6 %.
+                    Mittaus/Tarkkailu-kategoria:
+                        Fyysisten ja ympäristöparametrien keruuta esimerkiksi sadosta ja langattomia sensoriverkkoja (Wireless Sensor Network, WSN) käyttävistä tiloista. Tarkkailukategorian tutkimusten kohteina olevien teknologiasovellusten pääasiallinen tarkoitus oli informaation keruu ilman operaattoria ja sen siirto palvelimelle tai tallennuspalveluun käsittelyä ja visualisointia varten. Integroidut tarkkailutyökalut mahdollistavat sekä jatkuvan viestinnän käytetyn WSN:n kanssa että tallennetun datan tarkastelun (accessing) Internetin yli.
+                        Tarkkailun avulla IoT-perustainen älykäs maanviljelytoiminta lisää arvoa viljelijöille auttamalla relevantin/merkityksellisen tiedon keruussa sadosta ja tilan toiminnasta käyttämällä sensorilaitteita. Osa tutkimusten käsittelemistä IoT-järjestelmistä kykeni näyttämään, käsittelemään ja analysoimaan etäistä dataa (?! remote data) käyttämällä pilvipalveluita uusien näkemysten ja suositusten antamiseen paremman päätöksenteon mahdollistamiseksi.
+                        Tarkkailu-kategorian tutkimusten käsittelemät teknologiasovellukset voitiin jakaa kolmeen arkkitehtuuritasoon (Zou, 2014): I) WSN:n tukema havaintokerros (perception layer) II) verkkotaso (network layer), missä sensoreilta saatu informaatio siirretään pitkiä matkoja ja III) sovellustaso (application layer) joka pitää sisällään web-palvelimen ja tietokannan.
+                        Tarkkailu-kategorian tutkimusten käsittelemät teknologiasovellukset keskittyivät tarkkailemaan useita erityyppisiä fyysisiä muuttujia sen mukaan, mihin alikategoriaan ne kuuluivat. Tarkkailu-kategorian alikategorioita havaittiin olevan: ilmanlaadun tarkkailu (air monitoring) 34.5 %, maaperän tarkkailu (soil monitoring) 27.3 %, vedenlaadun tarkkailu (water monitoring) 16.4%, kasvien tarkkailu (plant monitoring) 10.9 % sekä muut (others) 10.9 % johon kuuluivat sellaiset teknologiasovellukset kuten kalanviljely (aquaculture) ja eläinten tarkkailu (animal monitoring). Monet tässä kirjallisuuskatsauksessa viitatuista tutkimuksista käsitelivät useampia alikategorioita.
+                            Tarkkailu-kategorian alikategoriat:
+                            ilmanlaadun tarkkailu (air monitoring) 34.5 %
+
+                            maaperän tarkkailu (soil monitoring) 27.3 %
+
+                            vedenlaadun tarkkailu (water monitoring) 16.4%
+
+                            kasvien tarkkailu (plant monitoring) 10.9 %
+
+                            muut (others) 10.9 %
+
+            Toinen tutkimuskysymys:
+            *"Which infrastructure and technology are using the main solutions of IoT in agro-industrial and environmental fields?"*
+                Tähän! 
+
 
     Soita Hydenille
     laita meiliä dodolle
