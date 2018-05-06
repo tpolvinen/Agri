@@ -293,16 +293,38 @@ Mahdollinen rakenne:
                                 muut (others) 10.9 %
                                     Katsauksessa mainittiin myös eläinten tarkkailun ratkaisut, jotka eivät kuulu tämän opinnäytetyön rajauksen piiriin.
 
+                    Kontrollointi-kategoria
+                        Kontrollointi-kategoriaan valitut tutkimukset käsittelivät ohjattavaan ympäristöön asennettuja etätoimilaitteita (remote actuator). Toisin kuin tarkkailu-kategorian ratkaisuissa, joissa tiedon kulku on yksisuuntainen, tämän kategorian ratkaisuissa tiedon kulku on kaksisuuntainen. Tällöin komentoja voidaan lähettää palvelimelta tai käyttöpalvelusta (data center) langattomaan sensori- ja aktuaattori/toimilaiteverkkoon (Wireless Sensor and Actuator Network, WSAN) aktuaattorien/toimilaitteiden kontrolloimiseksi prosessin tai ympäristön muuttamiseksi.
+                        Katsauksessa käsitellyissä tutkimuksissa komentoja lähetettiin joko käyttäjän toimesta käyttöliittymän avulla tai analytiikkamodulien tukeman päätöksentekoalgoritmin tuloksena. Useat järjestelmät pyrkivät veden, lannoitteiden ja kasvinsuojeluaineiden käytön optimointiin. Tähän optimointiin pyrittiin sääennustepalveluiden ja paikallisen (on-site) WSN:n tuottaman informaation perusteella.
+                        Tämän kategorian ratkaisut voivat auttaa viljelijöitä optimoimaan kasteluveden käyttöä säätämällä kastelun ajastusta ja määrää kasvien todellisen tarpeen mukaiseksi. Kontrollointijärjestelmät oli ohjelmoitu sopeutuviksi, esimerkisi keskeyttämään kastelu sateen sattuessa. Kokonaisuudessaan käsitellyt ratkaisut voivat säästää rahaa ja samalla tarjota arvokasta tietoa kasteluveden, lannoitteiden, kasvinsuojeluaineiden ja sähkön kulutuksesta.
+                        Ratkaisuissa käytettyjen aktuaattori/toimilaitteiden tyyppi vaihteli huomattavasti riippuen alakategoriasta johon tarkasteltu järjestelmä kuului. Katsauksen Kontrollointi-kategorian alakategoriat olivat: kastelu (irrigation) 72.22 %, lannoitus (fertilizers) 5.56 %, kasvinsuojelu (pesticides) 5.56%, valaistus (illumination) 5.56 %, pääsyn hallinta (access control) 5.56 %. Osa katsauksessa käsitellyistä ratkaisuista käytti aktuaattoreita/toimilaitteita logistiikassa (logistics) 5.56 %.
+                        Kontrollointi-kategorian alakategoriat:
+                            kastelu (irrigation) 72.22 %
+                                Esimerkkinä WSN-perustaisesta tarkkuuskasteluratkaisusta (precision irrigation) katsauksessa mainittiin **Kanoun et al.(2014)** esittämä ratkaisu, jossa automaattisen kastelujärjestelmän avulla pyrittiin vähentämään kasteluveden käyttöä, säästämään energiaa, aikaa ja rahaa. Järjestelmä rakennettiin kolmesta TelosB mote -laitteista: I) yksi maaperän kosteuden ja lämpötilan mittaamisessa, II) yksi ympäristöparametrien (ilman lämpötila, ilmankosteus, tuulen nopeus, kirkkaus) mittaamisessa, III) ja yksi kasteluventtiilin kontrolloinnissa. Sensorien tuottama data lähetettiin tallennettavaksi perusasemalle (base station) ja siirrettiin sieltä viljelijän PC:lle, josta voitiin kontrolloida järjestelmän toimintaa.
+                                Toinen esimerkki IoT-avusteisesta kastelujärjestelmän toteutuksesta oli **Jiao et al. (2014)** esittelemä tomaattikasvihuoneen WSN-perustainen ratkaisu, joka sisälsi ympäristön tarkkailun ja tarkkuustihkukastelun. Järjestelmää kuvailtiin katsauksessa omaksi kolmitasoiseksi IoT-ekosysteemikseen, jonka tasot olivat mittaus (sensing), tiedonsiirto (transmission) ja sovellus (application). WSN:ia käytettiin kasvatustilan reaaliaikaiseen sensorointiin ja myöhemmin siirtämiseen etäpalvelimelle (remote server management system).
+                                Kolmas esimerkki kastelujärjestelmistä oli **Shuwen and Changli (2015)** kuvailema ZigBee-verkkoratkaisuun perustuva kaukaisen peltokastelun ratkaisu, jossa aurinkokennoja voimanlähteenä käyttävä kastelunhallintajärjestelmä sisälsi myös ilman lämpötilan, kosteuden ja maaperän kosteuden tarkkailun.
+                            lannoitus (fertilizers) 5.56 % ja kasvinsuojelu (pesticides) 5.56%
+                                Katsauksessa käsitellyt IoT-ratkaisut tässä alikategoriassa keskittyivät käytänteisiin ravinteiden käytön tehostamiseksi, tehokkuuden lisäämiseksi, sadon laadun parantamiseksi ja määrän lisäämiseksi sekä taloudellisen tuloksen parantamiseksi.
+                                Esimerkkinä **Pahuja et al. (2013)**, missä tekijät kehittivät mikroilmaston tarkkailu- ja hallintajärjestelmän kasvihuoneille. Järjestelmä käytti WSN:ia kasveihin liittyvän sensoridatan keräämiseen ja analysointiin. Analyysin tuloksia käytettiin kasvihuoneen ilmaston, lannoituksen, kastelun ja tuholaistorjunnan ohjaamiseen. 
+                            valaistus (illumination) 5.56 %
+                                Esimerkkinä valaistuksen hallinnasta katsauksessa mainittiin **Yoo et al. (2007)**, missä kuvailtiin WSN-perustainen ratkaisu melonien ja kaalien kasvihuonekasvatuksen tueksi. Järjestelmä tarkkaili kasvuprosessia halliten kasvatusympäristöä. Tarkkailtuja ympäristöparametreja olivat muun muassa vallitseva valo, lämpötila ja kosteus. Melonien kasvatuksessa järjestelmä kykeni kontrolloimaan kasvihuoneen valaistusta releen avulla.  
+                            pääsyn hallinta (access control) 5.56 %
+                                **Roy et al. (2015)** esittivät tunkeutumisen havaitsemisjärjestelmän, joka havaitessaan tunkeutujan pellolla suorittaa hälytyksen viljejijän talossa ja lähettää tekstiviestin viljelijän matkapuhelimeen.
+                            logistiikka (logistics) 5.56 %
+                    Ennustus-kategoria
+                        environmental conditions (42.86%), production estimation(42.86%), and crop growth (14.29%).
+                    Logistiikka-kategoria
+                        production (55.6%), commerce (22.2%) and transport(22.2%).
+                    
+
             Toinen tutkimuskysymys:
             *"Which infrastructure and technology are using the main solutions of IoT in agro-industrial and environmental fields?"*
-                Tähän! 
-
+                IoT-ratkaisut jaettiin seitsemään ryhmään:
+                    *(i) sensing variables, (ii) actuator devices, (iii) power sources, (iv) communication technologies, (v) edge computing technologies (Shi et al., 2016), (vi) storage strategies, and (vii) visualization strategies*
 
     Soita Hydenille
     laita meiliä dodolle
     Kontaktoi tuotantotukku
-
-
 
 
 
