@@ -26,7 +26,7 @@ Tässä opinnäytetyössä käytetään lähdeviittausten tyylinä Södertörns 
 
 -- Omia huomioita 17.11.2017: Olen jotenkin olettanut, että totta kai maataloudessa oltaisiin jo omaksuttu paljon enemmän IoT-teknologioita, samaaan tapaan kuin muualla teollisuudessa. Jokin alan vieraudessa on vaikuttanut minuun. Ehkä työni ensimmäinen hämmästynyt kysymys oli: "Sitä tietoa ei siis saa sieltä koneesta ulos?" Viljelijöiden harkitsevuus uusien teknologioiden käyttöönotossa ei ole takapajuisuutta, ymmärtämättömyyttä tai typeryyttä, vaan sille on hyvä syy: teknologian tulee todistettavasti olla tuottavaa jotta sen käyttöönottoa edes voitaisiin harkita. Niin kuin missä tahansa liiketoiminnassa tai tuotannossa. Kentän hajanaisuus, järjestelmäintegration vaikeus ja hitaus ovat hidastaneet laajamittaista käyttöönottoa huomattavasti peltotuotannossa, osin myös puutarhatuotannossa. Kyse ei ilmeiseti olekaan alan takapajuisuudesta tai merkityksettömyydestä. --
 
-Kirjoittajan tietämyksen mukaan kasvintuotannossa käytettävistä IoT-ratkaisuista on viime vuosien (2010 - 2018) aikana julkaistu runsaasti tutkimuksia ja erilaisia artikkeleita. Opinnäytetyön esitöissä kävi ilmi, että kirjoittajalla ei ole kovin vahvaa ymmärrystä tai kokemusta maataloudessa käytettävistä IoT-ratkaisuista. Koska maatalouden esineiden internet (AIoT) on voimakkaasti kasvava teollisen esineiden internetin (IIoT) osa (LÄHDE???) ja se voi vaikuttaa huomattavasti ruoantuotannon kehitykseen (LÄHDE???) kirjoittaja arvioi, että AIoT:n tilanteesta kannattaa olla tietoinen. Lisäksi kirjoittaja arvelee, että AIoT:n teknologiaratkaisuiden kehittämisessä tullaan tarvitsemaan asiantuntijoita joilla on sekä maatalouden että ICT-alan ymmärrystä.
+Kirjoittajan tietämyksen mukaan kasvintuotannossa käytettävistä IoT-ratkaisuista on viime vuosien (2010 - 2018) aikana julkaistu runsaasti tutkimuksia ja erilaisia artikkeleita. Opinnäytetyön esitöissä kävi ilmi, että kirjoittajalla ei ole kovin vahvaa ymmärrystä tai kokemusta maataloudessa käytettävistä IoT-ratkaisuista. Koska maatalouden esineiden internet (Agricultural Internet of Things, AIoT) on voimakkaasti kasvava teollisen esineiden internetin (Industrial Internet of Things, IIoT) osa **(LÄHDE???)** ja se voi vaikuttaa huomattavasti ruoantuotannon kehitykseen **(LÄHDE???)** tekijä arvioi, että AIoT:n tilanteesta kannattaa olla tietoinen. Lisäksi tekijä arvelee, että AIoT:n teknologiaratkaisuiden kehittämisessä tullaan tarvitsemaan asiantuntijoita joilla on sekä maatalouden että ICT-alan ymmärrystä.
 
 Tämä opinnäytetyö pyrkii tuottamaan ajankohtaisen yleiskatsauksen kasvintuotannossa käytettäviin IoT-teknologiasovelluksiin.
 
@@ -127,9 +127,9 @@ Maatalouteen kohdistuu jatkuvasti kovenevia tehokkuusvaatimuksia, samalla kun te
 
 <23-04-2018  12:15>
 *Perustuen Joona Elovaaran "Aggregating OPC UA Server for Remote Access to Agricultural Work Machines" diplomityön osioon 1.1 Background:*
-Agroteknologian viime vuosien nopea kehitys on mahdollistunut muilla alueilla tapahtuneen teknologiakehityksen myötä. Prosessien automatisointi, reaaliaikainen ohjaus ja konenäköjärjestelmät ovat keskeisiä agroteknologian kehitykseen vaikuttaneita teknologiakehityksen alueita *(Ronkainen, 2014)*. Täsmäviljelyn (Precision Agriculture, PA [http://www.aumanet.fi/tasmaviljely/maaritelma.html]) ja määränsäätöautomatiikan (Variable Rate Application VRA) laajentuva käyttö on myös osaltaan nopeuttanut maataloustyökoneiden teknologian kehitystä *(Ronkainen, 2014)*.
+Agroteknologian viime vuosien nopea kehitys on mahdollistunut muilla alueilla tapahtuneen teknologiakehityksen myötä. Prosessien automatisointi, reaaliaikainen ohjaus ja konenäköjärjestelmät ovat keskeisiä agroteknologian kehitykseen vaikuttaneita teknologiakehityksen alueita *(Ronkainen, 2014)*. Täsmäviljelyn (Precision Agriculture, PA [http://www.aumanet.fi/tasmaviljely/maaritelma.html]) ja määränsäätöautomatiikan (Variable Rate Application VRA) laajentuva käyttö on myös osaltaan nopeuttanut maataloustyökoneiden teknologian kehitystä **(Ronkainen, 2014)**.
 
-Työkoneiden kehityksen myötä maatilojen toiminnan hallinta on monimutkaistunut. Viljelijän tulee tehdä päätöksiä viljelytoimien laadusta, sisällöstä, ajankohdasta ja järjestyksestä ottaen samalla huomioon sekä ympäristönsuojelun että maataloustukien säädökset, lisäksi huolehtien liiketoiminnastaan ja tilansa työkoneista ja muusta infrastruktuurista. Tätä toimintaa ja päätöksentekoa tukemaan on kehitetty erilaisia tiedonhallinnan järjestelmiä, joita kutsutaan Farm Management Information System:eiksi (FMIS). (@elovaaraAggregatingOPCUA2015) FMIS on määritelmällisesti järjestelmä, joka kerää, käsittelee, tallentaa ja välittää dataa tiedon muodossa, jota tarvitaan maatilan operatiivisten toimintojen suorittamisessa *(Sørensen et al. 2010a)-Elsevier, ei pääsyä*.
+Työkoneiden kehityksen myötä maatilojen toiminnan hallinta on monimutkaistunut. Viljelijän tulee tehdä päätöksiä viljelytoimien laadusta, sisällöstä, ajankohdasta ja järjestyksestä ottaen samalla huomioon sekä ympäristönsuojelun että maataloustukien säädökset, lisäksi huolehtien liiketoiminnastaan ja tilansa työkoneista ja muusta infrastruktuurista. Tätä toimintaa ja päätöksentekoa tukemaan on kehitetty erilaisia tiedonhallinnan järjestelmiä, joita kutsutaan Farm Management Information System:eiksi (FMIS). (@elovaaraAggregatingOPCUA2015) FMIS on määritelmällisesti järjestelmä, joka kerää, käsittelee, tallentaa ja välittää dataa tiedon muodossa, jota tarvitaan maatilan operatiivisten toimintojen suorittamisessa **(Sørensen et al. 2010a)-Elsevier, ei pääsyä**.
 
 Useimpien traktorien ja työkoneiden ollessa sähköisesti hallittuja ja niihin asennettujen sensorien tuottaessa dataa, voitaisiin tämä data kerätä ja jalostaa tiedoksi esimerkiksi koneiden huollosta, rikkoutumisista ja työsuorituksista. Tämän tiedon avulla voitaisiin parantaa täsmäviljelyn ja työkoneiden hallinnan käytänteitä.
 
@@ -312,9 +312,23 @@ Mahdollinen rakenne:
                                 **Roy et al. (2015)** esittivät tunkeutumisen havaitsemisjärjestelmän, joka havaitessaan tunkeutujan pellolla suorittaa hälytyksen viljejijän talossa ja lähettää tekstiviestin viljelijän matkapuhelimeen.
                             logistiikka (logistics) 5.56 %
                     Ennustus-kategoria
-                        environmental conditions (42.86%), production estimation(42.86%), and crop growth (14.29%).
+                        Ennustus-kategoriaan valittut tutkimukset keskittyivät viljelijän päätöksenteossa tarvittavan tiedon ja työkalujen tuottamiseen. Esitettyjen ratkaisujen arkkitehtuurissa oli tähän tarkoitukseen erityiset modulit. Ratkaisujen ennustamat muuttujat ryhmiteltiin seuraavalla tavalla: ympäristön tila (environmental conditions) 42.86 %, tuotannon arviointi (production estimation) 42.86 %, satoisuus **(?)** (crop growth) 14.29 %.
+                        Ennustus-kategorian alikategoriat:
+                            ympäristön tila (environmental conditions) 42.86 %
+                                **Khandani and Kalantari (2009)** kuvailivat suunnittelumenetelmän jonka avulla voitiin määritellä alueellinen näytteenotto maaperän kosteussensoreille WSN:in sisällä. Tietokannasta johon oli tallennettu historiadataa maaperän kosteuden mittauksista tiheällä mittausvälillä määriteltiin kaksiulotteinen korrelaatio läheisten sensorien mittauksille. Tätä korrelaatiota käytettiin myöhemmin suurimman alueellisen näytteenoton löytämiseen, jolla voidaan varmistaa käyttäjän määrittelemä suurin vaihtelu arviossa missä tahansa määritellyn tilan pisteessä.
+                                **Luan et al. (2015)** kuvailivat järjestelmän, jossa integroitiin kuivuuden tarkkailu ja ennustus sekä kastelun ennustus IoT-ratkaisua käyttäen.
+                            tuotannon arviointi (production estimation) 42.86 %
+                                **Lee et al. (2013)** esittelivät IoT-pohjaisen maataloustuotannon järjestelmän jolla pyritään tasaamaan tuotteiden kysyntää ja tarjontaa. Tähän päästiin mittaamalla ympäristömuuttujia ja kehittämällä ennustusjärjestelmä kasvun ja satoisuuden ennustamiseen.
+                            satoisuus **(?)** (crop growth) 14.29 %
+                                **Lee et al. (2012)** esittelivät järjestelmän, jolla pyritään viljelymaan dynaamiseen analysointiin mobiilien sensorien avulla. Järjestelmä pyrki luomaan hallintasuunnitelmia rypäleiden kasvatukselle sekä muille viininviljelyn toiminnoille. 
                     Logistiikka-kategoria
-                        production (55.6%), commerce (22.2%) and transport(22.2%).
+                        Logistiikka-kategoriaan valittut tutkimukset keskittyivät fyysisten kokonaisuuksien virtaukseen ja siihen liittyvään informaatioon tuottajalta kuluttajalle kulutuskysynnän tyydyttämiseksi. Tähän sisältyy maataloustuotanto, hankinta, kuljetus, varastointi, lastaus, käsittely, pakkaus, jakelu sekä niihin liittyvät toiminnot. Maatalouden logistiikan tavoitteisiin kuuluivat muun muassa maataloustuotteiden arvon lisäys, jakelukustannuksien vähentäminen, kuljetustehokkuuden lisäys, tarpeettoman hävikin vähentäminen sekä jossakin määrin riskien välttäminen **(Liping, 2012)**. Käsiteltyjen logistiikan kategorian tutkimukset ryhmiteltiin seuraavalla tavalla: tuotanto (production) 55.6 %, kaupankäynti (commerce) 22.2 %, kuljetus (transport) 22.2 %.
+                            tuotanto (production) 55.6 %
+                                **Feng et al. (2012)** esittelivät älykkään järjestelmän omenapuutarhan tarkkailuun joka toteutti dataan perustuvia ehdotuksia. Järjestelmä pyrki vähentämään omenapuutarhojen hallinnointikulujen vähentämiseen, omenoiden laadun parantamiseen sekä yksityiskohtaisen, kattavaan ja tarkkaan sähköiseen informaatioon istutustöitä, tuholaisvaroituksia ja omenien tuotannon laaduntarkkailuun. Järjestelmään kuului WSN, jossa käytettiin ZigBee-verkkoratkaisua, GPRS-mobiiliyhteyksiä sekä IoT-teknologioita joiden avulla tuotettiin yksityiskohtaista  
+                            kaupankäynti (commerce) 22.2 %
+                                **Li et al. (2013)**
+                            kuljetus (transport) 22.2 %
+                                **Pang et al. (2015)**
                     
 
             Toinen tutkimuskysymys:
@@ -326,7 +340,8 @@ Mahdollinen rakenne:
     laita meiliä dodolle
     Kontaktoi tuotantotukku
 
-
+tautivaroitus
+tuholaisvaroitus
 
     
 * Verdouw: Internet of Things in agriculture
