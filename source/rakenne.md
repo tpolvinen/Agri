@@ -55,13 +55,15 @@ oppari.md
 ##### Alkuperäistutkimusten haku
 ##### Alkuperäistutkimusten valinta
 *AIoT kirjallisuuskatsaukset*
-*AIoT tieteelliset julkaisut*
+*AIoT muut katsaukset ja vastaavat*
+*AIoT tutkimukset, tieteelliset julkaisut -ovatko konferenssipaperit tieteellisiä julkaisuja?*
+(*mahd. Harmaa kirjallisuus*)
+*AIoT Järjestöt, organisaatiot esim. Luke ja IoF2020*
+*AIoT Valmistajat, yhtiöt*
 *AIoT muut julkaisut*
 ##### Alkuperäistutkimusten laadun arviointi
 ##### Alkuperäistutkimusten analysointi ja tutkimustulosten esittäminen
 ##### Kirjallisuuskatsauksen luotettavuus
-*Miten kaupalliset tuotteet yms., esim Soilscout ja Agrismart otetaan mukaan?*
-*Miten organisaatiot ja niiden julkaisut, esim. Luke ja IoF2020 otetaan mukaan?*
 ### Teemahaastattelut
 *teemahaastattelujen kuvaus, haastattelukysymysten valinta, haastateltavien valinta, haastattelujen toteutus*
 # TUTKIMUSTULOKSET
