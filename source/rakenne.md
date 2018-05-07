@@ -34,10 +34,10 @@ oppari.md
 ## Kasvintuotanto
 ### Kasvintuotannon määrittely
 ### Kasvintuotannon historia (aiheeseen liittyen)
-## Internet of Things, asioiden internet
+## Internet of Things, esineiden internet
 ### IoTn määrittely
 ### IoTn historia
-## Agricultural Internet of Things, maatalouden asioiden internet
+## Agricultural Internet of Things, maatalouden esineiden internet
 *Osana IIoTä*
 ### AIoT kasvintuotannossa
 ### AIoT peltokasvituotannossa
@@ -79,8 +79,33 @@ oppari.md
 
 
 Uudestaan! Tällä kertaa Helmiön sys.k.kats. mukaan:
-...
+# TIIVISTELMÄ
+# JOHDANTO
+# TAUSTAA JA ? (Related work suomeksi?)
+## KASVINTUOTANTO
+## INTERNET OF THINGS, esineiden internet
+## AGRICULTURAL INTERNET OF THINGS, maatalouden esineiden internet
+# TUTKIMUSMENETELMÄT
+## TUTKIMUKSEN SUUNNITTELU
+## TutkimuskysymySTEN MÄÄRITTELY
+## HAKUSTRATEGIA JA TIETOLÄHTEET
+## PRIMARY STUDY ???
+### VALINTAPERUSTEET
+## TUTKIMUKSEN TOTEUTUS
+## TUTKIMUKSEN LUOTETTAVUUS
+# TUTKIMUSTULOKSET
+# POHDINTA
+# LÄHTEET
+# LIITTEET
 
+
+Otsikko ja abstrakti
+Tutkimuskysymykset ja tavoitteet
+Tutkimuksen tausta ja teoreettiset lähtökohdat
+Tutkimusmenetelmät ja aineisto
+Tohtoriopintojen ja väitöstutkimuksen aikataulu ja rahoitus
+Tutkimuksen merkitys
+Lähteet
 
 
 *<19-04-2018  11:15>*
