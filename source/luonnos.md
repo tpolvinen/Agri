@@ -380,27 +380,32 @@ Mahdollinen rakenne:
                     **Wang and Yue (2017)** esittelivät aikaisen varoituksen (early-warning) järjestelmän ruuan turvallisuuden seurantaan, joka automaattisesti varoittaa tuotteiden laaturiskeistä ja tapahtumista/tapauksista (incident) jakamalla ja keskittämällä tietoa toimitusketjuissa.
                     **Capello et al. (2016)** kehittivät IoT-perustaisen B2B-tarkkailupalvelun joka tarjoaa kosteus-, lämpötila- ja geolokaatiotietoja ruuan varastoinnista ja kuljetuksesta ilman ns. vendor lock:ia eli yhteen toimittajaan sidottua infrastrutuuria. 
         Pohdinta:
-            Stronger standardization
-                **(Pang et al., 2015)**
-            Better power management
-                **(Jain et al.,2008; Chen et al., 2014; Islam et al., 2014; Diedrichs et al., 2014)**
-            Security
-                **(Jiang and Zhang, 2013)**
-            Design using modular hardware and software
-                **(Pang et al., 2015)**
-            Improve unit cost
-                **(Pang et al., 2015)**
-            Aim for a good compatibility with legacy infrastructure
-            Consider scalability early on
-                **(Diedrichs et al., 2014)**
-            Adopt good practices of software engineering
-                **(Hussain et al., 2006; Jayaraman et al., 2015a)**
-            Improve robustness for field deployments
-            User-centered design
-            Contribute to the IoT the ecosystem
-                **(Chen et al., 2015)**
-            Sustainable practices
-
+            IoT:n rajoitukset ja avoimet haasteet maataloudessa (Limitations and open challenges)
+                Analysoituaan katsauksessa käsitellyissä tutkimuksissa kuvaillut vaikeudet ja rajoitteet tekijät kokosivat listan löydetyista rajoituksista ja avoimista haasteista. Lista kokoaa muutamia näkemyksiä jotka pyrkivät kontribuoimaan IoT:n laajamittaiseen käyttöönottoon maatalouden alalla.
+                    Vahva standardisaatio (Stronger standardization)
+                        Eri valmistajien laitteiden ja järjestelmien välinen toiminta paranisi ja koko IoT-stackin tietoturva vahvistuisi, alkaen kentällä olevista laiteista pilvipalveluihin ja loppukäyttäjän käyttöliittymiin asti. **(Pang et al., 2015)**
+                    Parempi virranhallinta (Better power management)
+                        Virrankulutus on useiden lähteiden mukaan katsauksen kirjoituksen hetkellä suurin IoT-laitteiden elinkaarta rajoittava tekijä **(Jain et al.,2008; Chen et al., 2014; Islam et al., 2014; Diedrichs et al., 2014)**. Elinkaarta voitaisiin tekijöiden mukaan pidentää kunkin elektronisen modulin virrankulutusta vähentämällä, lisäämällä energiakeräimiä sekä käyttämällä vaihtoehtoisia tehonsäilytysmekanismeja (?) akkujen sijaan.
+                    Tieto- ja kyberturvallisuus (Security)
+                        **(Jiang and Zhang, 2013)** kuvailevat tietoturvaongelman IoT:n käyttöönoton keskeiseksi haasteeksi maataloudessa. Lisäksi katsauksessa käsitellyistä tutkimuksista vain muutama otti tietoturvan huomioon ylipäätään ja niissäkin sovellettiin hajanaisia strategioita tietoturvariskien lieventämiseksi. Katsauksen tekijöiden mukaan maatalouden IoT-sovelluksissa on selkeä tarve ratkaisuille, jotka huomioivat kokonaisvaltaisen tietoturvan (end-to-end information security) sekä kentän laitteiden fyysisen eheyden.
+                    Modulaarisen laitteistojen ja ohjelmistojen kehittäminen (Design using modular hardware and software)
+                        **(Pang et al., 2015)** mukaan modulaariset suunnitteluratkaisut sekä laitteiston että ohjelmiston kehityksessä mahdollistavat suuremmassa määrin sekä uudelleenkäytön että käyttäjäkohtaisen räätälöinnin.
+                    Yksikköhintojen alentaminen (Improve unit cost)
+                        Vaikka sulautettujen järjestelmien yksikköhinnat ovat laskeneet, korkealuokkaisten sensorien ja toimilaitteiden yksikköhinnoille ei ole käynyt samoin. Jotta satoja, mahdollisesti tuhansia laiteyksikköjä (node) käsittävien IoT-ratkaisuiden käyttöönotto mahdollistuisi, tulee laitteistojen yleiskustannusten, internetyhteyksien ja kansainvälisten data roaming -maksujen edelleen laskea **(Pang et al., 2015)**.
+                    Pyritään yhteensopivuuteen vanhan, olemassaolevan infrastruktuurin kanssa (Aim for a good compatibility with legacy infrastructure)
+                        Samoin kuin teollisuusautomaatiossa, on tärkeää kehittää ratkaisuita jotka sopivat asiakkaan olemassaolevaan infrastruktuuriin kuten erikoislaitteisiin, työkoneisiin ja ohjelmistoihin.
+                    Huomioidaan skaalautuvuus jo alkuvaiheessa (Consider scalability early on)
+                        **(Diedrichs et al., 2014)** mukaan laitemäärien kasvun myötä suurissa järjestelmäasennuksissa datan synkronisointi ja datan luotettavuus muodostuvat kriittisiksi.
+                    Ohjelmistokehityksen parhaiden käytänteiden käyttönotto (Adopt good practices of software engineering)
+                        **(Hussain et al., 2006; Jayaraman et al., 2015a)** mukaan asennettujen IoT-ratkaisujen mittakaavan ja kestävyyden kasvaessa aika ja vaiva tuotetun datan analysoinnissa, ohjelmakoodin parantelussa sekä uusien ominaisuuksien lisäämisessä kasvavat räjähdysmäisesti jos ohjelmistoa ei ole hyvin suunniteltu ja dokumentoitu.
+                    Kentälle asennettavien laitteiden lujatekoisuuden parantaminen (Improve robustness for field deployments)
+                        Kaupallisten IoT-ratkaisuiden tulisi kestää huomattavia muutoksia lämpötilassa, kosteudessa ja valaistuksessa kestääkseen vuodenaikojen muutokset sekä maailmanlaajuisen ilmastovaihtelevuuden.
+                    Käyttäjälähtöinen suunnittelu (User-centered design)
+                        IoT-laitteiden asentamisen ja hallinnan tulisi olla selkeää ja yksinkertaista tavallisille käyttäjille. Lisäksi laitteen tulisi vaatia vain vähän tai ei ollenkaan ihmisen tekemää huoltoa elinkaarensa aikana sekä laitteiden käyttämän tietoliikenneratkaisun tulisi olla tarpeeksi älykäs uudelleenmäärittelemään tai parantamaan itse itsensä laiterikon sattuessa.
+                    IoT-ekosysteemin edistäminen (Contribute to the IoT the ecosystem)
+                        **(Chen et al., 2015)** mukaan kirjallisuudessa on huomattava aukko miten kehittää ja sopeuttaa IoT-ratkaisujen yksinkertaisia prototyyppejä tosielämän ratkaisuiksi. 
+                    Kestävät käytänteet (Sustainable practices)
+                        Vaikka vain vaatimattomimmat ennusteet IoT-laitteiden käyttöönotosta toteutuisivat, laitteiden kierrätysstrategia tulisi suunnitella osana uutta ratkaisua ja sen elinkaarta ympäristövaikutusten minimoimiseksi.
 
     Soita Hydenille
     laita meiliä dodolle
