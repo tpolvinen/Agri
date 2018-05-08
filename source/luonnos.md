@@ -365,6 +365,42 @@ Mahdollinen rakenne:
                     **Pham et al., 2016** esittelivät IoT-puitekehyksen (framework) maaseudun kehittämiselle implementoimalla maatalouden sovelluksia avoimen lähdekoodin laitteita ja pitkän kantaman tietoliikennelaitteita. LoRa oli tähän luonteva valinta johtuen maaseudun kylien kaukaisesta sijainnista sekä edullisesta infrastruktuurista.
                 Energianhallinta (energy management)
                     **Borgia (2014)** mukaan IoT-projektien keskeisiä laitevaatimuksia on energiatehokkuus. Erityisesti laitteet, jotka eivät ole yhteydessä sähköverkkoon, jotka asennetaan ulkotiloihin ja joita ei huolleta säännöllisesti.
+                    **(Shaikh and Zeadally, 2016)** mukaan erityisesti WSN-sovelluksissa tämänhetkinen haaste on kehittää usean voimanlähteen energiakeräimiä sekä ultra-tehokkaita sensoreita akuttomien ratkaisuiden mahdollistamiseksi.
+                    Katsauksen tekijöiden mukaan nämä ovat erityisen tärkeitä maatalouden ongelmien ratkaisuille IoT-teknologioilla koska akkujen lataus ei ole käytännöllistä ja ympäristön energialähteitä on saatavilla.
+                    **Wang et al. (2016)** esittelivät uudenlaisen älykkään IoT-projektien energianhallinnan hallintastrategian aurinkoenergialla toimiville laitteille. Tällä pyritään hankkimaan laitteen tarvitsema energia suoraan aurinkokennosta ja välttämään muuntajien ja akkujen tarve, jolloin hyötysuhde paranee, paino/tilavuussuhde pienenee ja hinta laskee. Toinen katsauksen tekijöiden mukaan todennäköisesti kasvava trendi on ns. self-power (?) laitteiden yleistyminen kuten **Lu et al. (2016)** suunnittelema maaperän kosteuden sensorilaite maavyöryjen tarkkailuun. Tässä tapauksessa laite käytti maaperän kosteutta energianlähteenä, jolloin laite soveltui laajamittaiseen levitykseen/käyttöön.
+                    **Marjanovic´ et al. (2016)** kuvailivat pilviperustaisen päätöksentekomekaniikan sensoridatan hankintaan jota voidaan käyttää yhteistyömallisesti (collaborative) hajautettuja sensoreita käyttävien järjestelmien kanssa. Sensorilaitteet voivat olla esimerkiksi mobiililaitteita ja näin voidaan tehokkaasti tarkkailla suuria maantieteellisiä alueita. Järjestelmä valitsi mitkä sensorilaitteet latasivat tiedon palveluun, välttäen näin päällekkäisen/redundanttisen datan lataamisen muilta läheisiltä sensorilaitteilta. Samalla järjestelmä pystyi ylläpitämään alueellisen mittauksen laadun ja vähentämään sensorilaitteiden akkujen/virrankulutusta.
+                Tarkkailu (monitoring)
+                    Äskettäin saataville tulleissa ympäristön tarkkailu- ja mittausratkaisuissa on tarjolla uusia ominaisuuksia päätöksenteon ja hallinnoinnin tueksi.
+                    **Wong and Kerkez (2016)** esittelivät Web-palvelun ja reaaliaikaisen data-arkkitehtuurin mukautuvalla kontrollerilla joka päivittää jokaisen sensorinoden (?) WSN:n sisällä aikaisemmin määritellyn käytänteen mukaisesti.
+                    **Sarangi et al. (2016)** esittelivät kehikon (framework) automaattisen kasvitautineuvontapalvelun, joka integroi IoT web repositoryn (?) maatalousneuvonnan puhelinpalvelun kanssa. Implementoitu järjestelmä käsittelee viljelijän lähettämiä kuvia kasvitaudista ja antaa diagnoosin sekä toimenpidesuosituksen kyseisen kasvitaudin hoitamiseksi.
+                Logistiikka (logistics)
+                    Ruuan turvallisuuden ja laaduntarkkailun IoT-ratkaisut logistiikassa ovat leviämässä/syntymässä vastauksena yritysten ja kuluttajien vaatimuksiin reaaliaikaisesta tiedosta ruokaketjusta sekä "pellolta lautaselle" jäljitettävyydestä.
+                    **Ruan and Shi (2016)** esittelivät IoT-kehikon hedelmien tuoreuden arviointiin verkkokaupan toimituksissa. Verkkokauppatoimitukset kohtaavat uutena vähittäismyynnin muotona uniikkeja haasteita tuotteiden pilaantuvuuden ja kalliin logistiikan kanssa.
+                    **Liu et al. (2016)** esittelivät pilottiprojektin ruuan turvallisuuden tarkkailuun IoT:tä käyttäen koko tuotteen elinkaaren läpi, auttaen viranomaisia ja kuluttajia jäljittämään ruuan alkuperän sekä helpottamaan päätöksentekoa ennen ostamista. 
+                    **Wang and Yue (2017)** esittelivät aikaisen varoituksen (early-warning) järjestelmän ruuan turvallisuuden seurantaan, joka automaattisesti varoittaa tuotteiden laaturiskeistä ja tapahtumista/tapauksista (incident) jakamalla ja keskittämällä tietoa toimitusketjuissa.
+                    **Capello et al. (2016)** kehittivät IoT-perustaisen B2B-tarkkailupalvelun joka tarjoaa kosteus-, lämpötila- ja geolokaatiotietoja ruuan varastoinnista ja kuljetuksesta ilman ns. vendor lock:ia eli yhteen toimittajaan sidottua infrastrutuuria. 
+        Pohdinta:
+            Stronger standardization
+                **(Pang et al., 2015)**
+            Better power management
+                **(Jain et al.,2008; Chen et al., 2014; Islam et al., 2014; Diedrichs et al., 2014)**
+            Security
+                **(Jiang and Zhang, 2013)**
+            Design using modular hardware and software
+                **(Pang et al., 2015)**
+            Improve unit cost
+                **(Pang et al., 2015)**
+            Aim for a good compatibility with legacy infrastructure
+            Consider scalability early on
+                **(Diedrichs et al., 2014)**
+            Adopt good practices of software engineering
+                **(Hussain et al., 2006; Jayaraman et al., 2015a)**
+            Improve robustness for field deployments
+            User-centered design
+            Contribute to the IoT the ecosystem
+                **(Chen et al., 2015)**
+            Sustainable practices
+
 
     Soita Hydenille
     laita meiliä dodolle
