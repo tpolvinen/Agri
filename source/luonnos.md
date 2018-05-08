@@ -268,7 +268,7 @@ Mahdollinen rakenne:
             Laatuvaatimukset tarkasteltaville artikkeleille (papers) olivat: vertaisarviointi, englanninkielisyys, julkaisuvuosi 2006-2016. Jos aihe ei ollut relevantti tai tämän tutkimuksen rajauksen ulkopuolella, se poistettiin. Sitten käytettiin ICtä ja QCtä määrän pienentämiseksi. 
         Toteutus:
             Lopulta 3578:sta hakutuloksesta valittiin 72. Suurin osa valikoiduista tutkimuksista oli julkaistu vuosina 2012 - 2016. Vuosien 2012 - 2014 välillä oli lähes neljänneksen (noin 5 kpl.) vuosittainen kasvu, vuoden 2016 ollessa tutkimusajankohtana vielä kesken.
-        Vastaukset tutkimuskysymyksiin:
+        Tulokset - Vastaukset tutkimuskysymyksiin:
             Ensimmäinen tutkimuskysymys:
                 *"What are the main technological solutions of the Internet of Things in agro-industrial and environmental fields?"*
                 Valittujen tutkimusten havaittiin jakautuvan neljään sovellusaueeseen seuraavasti: tarkkailu (monitoring) 62 %, kontrollointi (control) 25 %, logistiikka (logistics) 7 %, ennustus (prediction) 6 %.
@@ -289,7 +289,7 @@ Mahdollinen rakenne:
                                     Vedenlaadun alikategoriassa esitetyt järjestelmät pyrkivät tarkkailemaan veden saastuneisuutta tai veden laatua mittaamalla kemikaalipitoisuuksia, pH:ta ja lämpötilaa. Esimerkkinä mainitaan **Postolache et al. (2013)** ehdottama IoT-järjestelmä, jossa sähkönjohtavuuden, lämpötilan ja sameuden mittauksilla toteutettiin vedenlaadun tarkkailua. Ratkaisussa tarkkailtiin useita veden laadun parametreja matalissa vesistöissä kaupunkialueilla ja järjestelmässä käytettiin edullisia mittauslaitteita yhdistettynä WSN-arkkitehtuuriin.
                                     Toisena esimerkkinä mainitaan **(Xijun et al., 2009)** esittämä kastelujärjestelmään rakennettu WSN-perustainen vedenkorkeuden (water level) ja sademäärän tarkkailua tekevä ratkaisu.
                                 kasvien tarkkailu (plant monitoring) 10.9 %
-                                    Kasvien tarkkailun esimerkkinä katsauksessa mainitaan LOFAR-agro Project **(Langendoen et al.,2006)** joka pyrki perunan suojeluun phytophthora-sientä vastaan mikroilmaston tarkkailulla laajamittaisen WSN-ratkaisun avulla. Järjestelmällä pyrittiin kehittämään käytänne perunasadon suojelemiseksi sieniperäistä kasvitautia vastaan käyttämällä kerätyn datan perusteella. **Fourati et al. (2014)** tekijät esittävät web-pohjaisen kosteutta, Auringon säteilyä, lämpötilaa ja sadetta mittaavan tukijärjestelmän oliivien kastelujärjestelmälle, jonka tiedonsiirto perustui WSN-ratkaisuun.
+                                    Kasvien tarkkailun esimerkkinä katsauksessa mainitaan LOFAR-agro Project **(Langendoen et al.,2006)** joka pyrki perunan suojeluun phytophthora-sientä vastaan mikroilmaston tarkkailulla laajamittaisen WSN-ratkaisun avulla. Järjestelmällä pyrittiin kehittämään käytänne perunasadon suojelemiseksi sieniperäistä kasvitautia vastaan käyttämällä kerätyn datan perusteella. **Fourati et al. (2014)** tekijät esittävät web-pohjaisen kosteutta, auringonsäteilyä, lämpötilaa ja sadetta mittaavan tukijärjestelmän oliivien kastelujärjestelmälle, jonka tiedonsiirto perustui WSN-ratkaisuun.
                                 muut (others) 10.9 %
                                     Katsauksessa mainittiin myös eläinten tarkkailun ratkaisut, jotka eivät kuulu tämän opinnäytetyön rajauksen piiriin.
 
@@ -311,6 +311,7 @@ Mahdollinen rakenne:
                             pääsyn hallinta (access control) 5.56 %
                                 **Roy et al. (2015)** esittivät tunkeutumisen havaitsemisjärjestelmän, joka havaitessaan tunkeutujan pellolla suorittaa hälytyksen viljejijän talossa ja lähettää tekstiviestin viljelijän matkapuhelimeen.
                             logistiikka (logistics) 5.56 %
+                                Ei ollut, ilmeisesti omassa kategoriassaan, eikä alikategoriana.
                     Ennustus-kategoria
                         Ennustus-kategoriaan valittut tutkimukset keskittyivät viljelijän päätöksenteossa tarvittavan tiedon ja työkalujen tuottamiseen. Esitettyjen ratkaisujen arkkitehtuurissa oli tähän tarkoitukseen erityiset modulit. Ratkaisujen ennustamat muuttujat ryhmiteltiin seuraavalla tavalla: ympäristön tila (environmental conditions) 42.86 %, tuotannon arviointi (production estimation) 42.86 %, satoisuus **(?)** (crop growth) 14.29 %.
                         Ennustus-kategorian alikategoriat:
@@ -324,17 +325,46 @@ Mahdollinen rakenne:
                     Logistiikka-kategoria
                         Logistiikka-kategoriaan valittut tutkimukset keskittyivät fyysisten kokonaisuuksien virtaukseen ja siihen liittyvään informaatioon tuottajalta kuluttajalle kulutuskysynnän tyydyttämiseksi. Tähän sisältyy maataloustuotanto, hankinta, kuljetus, varastointi, lastaus, käsittely, pakkaus, jakelu sekä niihin liittyvät toiminnot. Maatalouden logistiikan tavoitteisiin kuuluivat muun muassa maataloustuotteiden arvon lisäys, jakelukustannuksien vähentäminen, kuljetustehokkuuden lisäys, tarpeettoman hävikin vähentäminen sekä jossakin määrin riskien välttäminen **(Liping, 2012)**. Käsiteltyjen logistiikan kategorian tutkimukset ryhmiteltiin seuraavalla tavalla: tuotanto (production) 55.6 %, kaupankäynti (commerce) 22.2 %, kuljetus (transport) 22.2 %.
                             tuotanto (production) 55.6 %
-                                **Feng et al. (2012)** esittelivät älykkään järjestelmän omenapuutarhan tarkkailuun joka toteutti dataan perustuvia ehdotuksia. Järjestelmä pyrki vähentämään omenapuutarhojen hallinnointikulujen vähentämiseen, omenoiden laadun parantamiseen sekä yksityiskohtaisen, kattavaan ja tarkkaan sähköiseen informaatioon istutustöitä, tuholaisvaroituksia ja omenien tuotannon laaduntarkkailuun. Järjestelmään kuului WSN, jossa käytettiin ZigBee-verkkoratkaisua, GPRS-mobiiliyhteyksiä sekä IoT-teknologioita joiden avulla tuotettiin yksityiskohtaista  
+                                **Feng et al. (2012)** esittelivät älykkään järjestelmän omenapuutarhan tarkkailuun joka toteutti dataan perustuvia ehdotuksia. Järjestelmä pyrki vähentämään omenapuutarhojen hallinnointikulujen vähentämiseen, omenoiden laadun parantamiseen sekä yksityiskohtaisen, kattavaan ja tarkkaan sähköiseen informaatioon istutustöitä, tuholaisvaroituksia ja omenien tuotannon laaduntarkkailuun. Järjestelmään kuului WSN, jossa käytettiin ZigBee-verkkoratkaisua, GPRS-mobiiliyhteyksiä sekä IoT-teknologioita joiden avulla tuotettiin yksityiskohtaista dataa omenoiden kasvusta maatalousosuuskunnille päätöksenteon tueksi. 
                             kaupankäynti (commerce) 22.2 %
-                                **Li et al. (2013)**
+                                **Li et al. (2013)** esittelivät IoT-perustaisen tietojärjestelmän jossa käytettiin hajautettua arkkitehtuuria. Järjestelmä seurasi ja jäljitti koko tuotantoprosessin hajautettujen IoT-palvelinten avulla. Lisäksi kehitettiin tiedonhakujärjestelmä joka pystyi implementoimaan, keräämään, standardisoimaan, hallitsemaan, paikantamaan ja hakemaan (query) liiketoimintadataa tuotannosta. Järjestelmä mahdollisti myös tuotteiden laatu- ja alkuperätietojen haun kuluttajille.
                             kuljetus (transport) 22.2 %
-                                **Pang et al. (2015)**
-                    
+                                **Pang et al. (2015)** esittelivät IoT-arkkitehtuurin ruoantuotannon arvoketjulle. Esitetyssä ratkaisussa seurattiin logistiikan toimintaa melonien 46 päivää kestävässä kuljetuksessa Brasiliasta Ruotsiin. Sensorit mittasivat kuljetuksen ympäristömuuttujista lämpötilan, kosteuden ja mekaanisen rasituksen (tärinä, kallistus, isku) lisäksi hapen, hiilidioksidin ja etyleenin pitoisuuksia.
 
             Toinen tutkimuskysymys:
             *"Which infrastructure and technology are using the main solutions of IoT in agro-industrial and environmental fields?"*
-                IoT-ratkaisut jaettiin seitsemään ryhmään:
+                Infrastruktuurit ja teknologiat valituissa IoT-ratkaisuissa jaettiin seitsemään ryhmään:
                     *(i) sensing variables, (ii) actuator devices, (iii) power sources, (iv) communication technologies, (v) edge computing technologies (Shi et al., 2016), (vi) storage strategies, and (vii) visualization strategies*
+                    (i) sensing variables 
+                        Noin 26 % käsitellyistä tutkimuksista mittasi lämpötilaa, 16 % kosteutta, 11 % fysikaaliskemiallisia ominaisuuksia ja 10 % säteilyä. Lämpötilan ja fysikaaliskemian sensorit olivat jakautuneet kaikkiin alikategorioihin. 55 % sensoreista oli ilmanlaadun mittaukseen. Tämän perusteella ilman lämpötilaa, ilmankosteutta, maaperän kosteutta ja auringonsäteilyä voidaan pitää universaaleina muuttujina maatalouden sovelluksissa.
+                    (ii) actuator devices
+                        Aktuaattori- tai toimilaitteita oli käsitellyistä tutkimuksissa käytössä huomattavasti vähemmän kuin sensoreita. Suurin osa toimilaitteista oli käytössä kontrolloinnin ja logistiikan kategorioissa. 60 % toimilaitteista oli käytössä kasteluprosesseissa.
+                    (iii) power sources
+                        Tarkkailu-kategorian sovelluksista suurin osa käytti aurinkopaneeleilla ladattavia akkuja, joka on yksinkertainen ja kestävä (sustainable) ratkaisu.
+                        Kontrollointi-kategorian sovelluksista, joissa tyypillisesti vaativat enemmän energiaa, suurin osa käytti verkkovirtaa. Uudenaikaisempia energialähteitä kuten sähkömagneettisen tai tärinän energiankeräimiä (harvesters) ei löytynyt käsitellyistä tutkimuksista. Katsauksen tekijöiden mukaan tämä osoittaa kyseisten energiaratkaisuiden kypsyyden ja suosion puutetta maatalouden sovelluksissa.
+                    (iv) communication technologies
+                        Viestintätekniikoista 40 % perustui langattomiin henkilökohtaisien verkkojen (Wireless Personal Area Network, WPAN) protokolliin kuten Bluetooth ja ZigBee, kolmanneksi yleisimpänä ollessa Wireless Metropolitan Area Network (WMAN). 36 % perustui vastaavasti matkapuhelinverkon ratkaisuihin (GPRS/GSM/3G/4G). Likiyhteystekniikat (near-field communication) on alkanut ilmaantua joihinkin ratkaisuihin pelto/kenttäsovelluksissa (field).
+                    (v) edge computing technologies (Shi et al., 2016)
+                        Reuna-laskennan teknologiasovelluksista mikrokontrolleripohjaisia ratkaisuja oli katsauksessa käsitellyissä sovelluksissa yli puolessa. Yhden kortin tietokoneet (Single Board Computers, SBC) eivät katsauksen tekijöiden mukaan ole vielä sopivia maatalouden sovelluksiin, ilmeisesti niiden harvinaisuuden perusteella käsitellyissä sovelluksissa.
+                    (vi) storage strategies
+                        Tiedon tallennusstrategioissa suurin osa käsitellyissä tutkimuksissa käytetyistä ratkaisuista oli omia ratkaisuita. Pilvipalveluita tiedon tallentamiseen käytti vain 7.32 % katsauksessa käsitellyistä tutkimuksista.
+                    (vii) visualization strategies
+                        Visualisaatiostrategiat jakaantuvat web-, mobiili- ja paikallisiin ratkaisuihin neljässä kategoriassa: tarkkailu, kontrollointi, ennustus, logistiikka. Katsauksen tekijöiden mukaan voi sanoa, että web-pohjaiset ratkaisut ovat tiedon näyttämiseen selkeästi yleisimpiä kaikissa kategorioissa.
+                Suurin osa katsauksessa käsitellyistä tutkimuksista ei nimenomaisesti ota kantaa tietoturvaan. Katsauksen tekijät ovat kuitenkin löytäneet joitakin asiaa sivuavia tutkimuksia. 
+                **(Jardak et al., 2009)** kuvailivat WSN-suunnitelun (design) joka implementoi RANdom SAmple Consensus (RANSAC) -filtterin vahingollisen/pahantahtoisen tai viallisen sensorinoden aiheuttaman epäjohdonmukaisen tietoliikenteen eliminoimiseksi verkossa.
+                **Sun et al. (2012)** esittelivät padonhallintajärjestelmän jossa käytäjien tulee kirjautua järjestelmään oikeuksien tarkistamiseksi.
+                **Tao et al. (2014)** käyttivät AppWeb-sulautettua Web-palvelinta IoT Gatewaylle älykkäässä viljasiilon hallintajärjestelmässä. Tällöin voitiin käyttää hyväksi Secure Sockets Layer (SSL) -protokollaa salatun tietoliikenneyhteyden luomiseksi. Tämä oli katsauksen tekijöiden mukaan tärkeää yhteyden toimiessa langattoman verkon ylitse.
+                **Kuroda et al. (2015)** esittelivät WSN-ratkaisun, jossa helppokäyttöinen ja turvallinen tietoliikenneyhteys toteutettiin käyttämällä Zero-admin:in salaus- ja salauksenpurkutoiminnallisuuksia sensorinodejen (?) ja coordinator node:n (?) välillä.
+        Viimeaikaiset julkaisut:
+            Toukokuun 2016 ja heinäkuun 2017 välillä saatavilla olleita ja edustavia tutkimuksia.
+            Alueilla/kategorioissa communications, energy management, monitoring, logistics.
+                Tietoliikenne (communications)
+                    **Barrachina-Muñoz et al. (2017)** mukaan pienitehoiset (low-power) WAN (LPWAN) -teknologiat kuten SigFox, LoRa, kapean kaistanleveyden IoT jne. ovat kasvattaneet suosiotaan IoT-sovelluksissa pienen virrankulutuksensa, laajan kattavuusalueen ja suhteellisen edullisuutensa (verrattuna pidemmän kantaman ratkaisuihin).
+                    **Sinha et al. (2017)** mukaan LoRa on paras vaihtoehto älykkäiden maatalousratkaisuiden tarpeisiin.
+                    **Lukas et al. (2015)** tekijät suunnittelivat pitkän kattavuusalueen tarkkailujärjestelmän kaukaloille LoRa-lähettimille perustuvalla WSN-ratkaisulla. Tällöin veden saatavuutta karjalle voitiin tarkkailla yhden tai kolmen kilometrin etäisyydeltä.
+                    **Pham et al., 2016** esittelivät IoT-puitekehyksen (framework) maaseudun kehittämiselle implementoimalla maatalouden sovelluksia avoimen lähdekoodin laitteita ja pitkän kantaman tietoliikennelaitteita. LoRa oli tähän luonteva valinta johtuen maaseudun kylien kaukaisesta sijainnista sekä edullisesta infrastruktuurista.
+                Energianhallinta (energy management)
+                    **Borgia (2014)** mukaan IoT-projektien keskeisiä laitevaatimuksia on energiatehokkuus. Erityisesti laitteet, jotka eivät ole yhteydessä sähköverkkoon, jotka asennetaan ulkotiloihin ja joita ei huolleta säännöllisesti.
 
     Soita Hydenille
     laita meiliä dodolle
