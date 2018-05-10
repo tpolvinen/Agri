@@ -301,7 +301,7 @@ Mahdollinen rakenne:
                         Ratkaisuissa käytettyjen aktuaattori/toimilaitteiden tyyppi vaihteli huomattavasti riippuen alakategoriasta johon tarkasteltu järjestelmä kuului. Katsauksen Kontrollointi-kategorian alakategoriat olivat: kastelu (irrigation) 72.22 %, lannoitus (fertilizers) 5.56 %, kasvinsuojelu (pesticides) 5.56%, valaistus (illumination) 5.56 %, pääsyn hallinta (access control) 5.56 %. Osa katsauksessa käsitellyistä ratkaisuista käytti aktuaattoreita/toimilaitteita logistiikassa (logistics) 5.56 %.
                         Kontrollointi-kategorian alakategoriat:
                             kastelu (irrigation) 72.22 %
-                                Esimerkkinä WSN-perustaisesta tarkkuuskasteluratkaisusta (precision irrigation) katsauksessa mainittiin **Kanoun et al.(2014)** esittämä ratkaisu, jossa automaattisen kastelujärjestelmän avulla pyrittiin vähentämään kasteluveden käyttöä, säästämään energiaa, aikaa ja rahaa. Järjestelmä rakennettiin kolmesta TelosB mote -laitteista: I) yksi maaperän kosteuden ja lämpötilan mittaamisessa, II) yksi ympäristöparametrien (ilman lämpötila, ilmankosteus, tuulen nopeus, kirkkaus) mittaamisessa, III) ja yksi kasteluventtiilin kontrolloinnissa. Sensorien tuottama data lähetettiin tallennettavaksi perusasemalle (base station) ja siirrettiin sieltä viljelijän PC:lle, josta voitiin kontrolloida järjestelmän toimintaa.
+                                Esimerkkinä WSN-perustaisesta tarkkuuskasteluratkaisusta (precision irrigation) katsauksessa mainittiin **Kanoun et al.(2014)** esittämä ratkaisu, jossa automaattisen kastelujärjestelmän avulla pyrittiin vähentämään kasteluveden käyttöä, säästämään energiaa, aikaa ja rahaa. Järjestelmä rakennettiin kolmesta TelosB mote -laitteista: I) yksi maaperän kosteuden ja lämpötilan mittaamisessa, II) yksi ympäristöparametrien (ilman lämpötila, ilmankosteus, tuulen nopeus, kirkkaus) mittaamisessa, III) ja yksi kasteluventtiilin kontrolloinnissa. Sensorien tuottama data lähetettiin tallennettavaksi tukiasemalle (base station) ja siirrettiin sieltä viljelijän PC:lle, josta voitiin kontrolloida järjestelmän toimintaa.
                                 Toinen esimerkki IoT-avusteisesta kastelujärjestelmän toteutuksesta oli **Jiao et al. (2014)** esittelemä tomaattikasvihuoneen WSN-perustainen ratkaisu, joka sisälsi ympäristön tarkkailun ja tarkkuustihkukastelun. Järjestelmää kuvailtiin katsauksessa omaksi kolmitasoiseksi IoT-ekosysteemikseen, jonka tasot olivat mittaus (sensing), tiedonsiirto (transmission) ja sovellus (application). WSN:ia käytettiin kasvatustilan reaaliaikaiseen sensorointiin ja myöhemmin siirtämiseen etäpalvelimelle (remote server management system).
                                 Kolmas esimerkki kastelujärjestelmistä oli **Shuwen and Changli (2015)** kuvailema ZigBee-verkkoratkaisuun perustuva kaukaisen peltokastelun ratkaisu, jossa aurinkokennoja voimanlähteenä käyttävä kastelunhallintajärjestelmä sisälsi myös ilman lämpötilan, kosteuden ja maaperän kosteuden tarkkailun.
                             lannoitus (fertilizers) 5.56 % ja kasvinsuojelu (pesticides) 5.56%
@@ -413,15 +413,6 @@ Mahdollinen rakenne:
                     Tietoliikennekerroksen tarkoituksena on siirtää informaatiota fyysiseltä kerrokselta Internetiin, keräten dataa IoT gateway:iltä perustuen joko Ethernetiin tai mobiiliverkkoihin kuten GPRS, 3G, 4G, NB-IoT ja 5G. Tämä kerros pitää sisällään field gatewayt ja lähettimet, jotka käyttävät verkkoratkaisuita kuten ZigBee, Bluetooth, NFC, WiFi, LoRA tai Sigfox.
                     Palvelukerros käsittelee datan vastaanoton (data ingestion) tietoliikennekerrokselta, datan tallennuksen, analytiikan, visualisoinnin ja tietoturvan. Lopuksi sovelluskerros kuluttaa (consumes) palveluita aikaisemmilta arkkitehtuurin kerroksilta ja mahdollistaa käyttäjälle tarkkailun, hallinnan/kontrolloinnin, ennusteiden laatimisen ja logistiikan.
 
- 
-    Soita Hydenille
-    laita meiliä dodolle
-    Kontaktoi tuotantotukku
-
-tautivaroitus
-tuholaisvaroitus
-
-    
 * Verdouw: Internet of Things in agriculture
 @verdouwInternetThingsAgriculture2016a
     Muistiinpanot:
@@ -543,9 +534,10 @@ tuholaisvaroitus
 
 ## Katsaukset:
 
+* Sundmaeker: Internet of Food and Farm 2020
+* Tzounis: Internet of Things in agriculture, recent advances and future challenges 2017
 * Pivoto: Scientific development of smart farming technologies and their application in Brazil
 * Farooq: A Review on Internet of Things (IoT) 2015
-* Tzounis: Internet of Things in agriculture, recent advances and future challenges 2017
 * Gubbi: Internet of Things (IoT): A vision, architectural elements, and future directions 2013
 * Shaikh: Enabling Technologies for Green Internet of Things 2017
 * Khodadadi: Internet of Things: An Overview
@@ -560,6 +552,13 @@ tuholaisvaroitus
 
 ## Järjestöjen julkaisut
 ...
+Beecham Research
+IBM
+IoF2020
+Postscapes
+AEF
+CEMA
+
 
 ## Teknologiasovellukset/prototyypit/ehdotukset tutkimuksessa
 ...
