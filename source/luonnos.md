@@ -476,42 +476,67 @@ tuholaisvaroitus
 
     Application areas
         Generally, it can be concluded that the area of food supply chains is addressed most frequently, followed by arable farming
-            Agriculture in general
-                Useat julkaisut (papers) keskittyivät täsmäviljelyyn TAI tuotantoympäristön havainnointiin ja seuraamiseen/monitorointiin.
-                Muissa pyritään suunnittelemaan yleinen hallinnon tietojärjestelmä IoT-perustaisena.
-                Muita havaittuja teemoja olivat tuotteiden laadun parantaminen, ruoan turvallisuus ja jäljitettävyys, veden hallinta (management), maaseudun kehitys, kaupunkiviljely, kuluttajavuorovaikutus.
-            Arable farming
-
-            Agri-food supply chain
-
-            Greenhouse horticulture
-
-            Open air horticulture (incl. orchards)
+            * Agriculture in general
+            * Arable farming
+            * Agri-food supply chain
+            * Greenhouse horticulture
+            * Open air horticulture (incl. orchards)
 
         "From the applications in the areas above several generic themes can be identified, in particular precision farming in arable- livestock farming and horticulture, food traceability, food safety and quality management and consumer interaction."
-
-            Precision farming
-
-            Food traceability systems
-
-            Food safety and quality management systems
-
-            Consumers
+            * Precision farming
+            * Food traceability systems
+            * Food safety and quality management systems
+            * Consumers
 
     Mahdollistavat teknologiat (Enabling technologies)
         "An IoT architecture can be subdivided into a device layer, network layer, and application layer (based on **6, 141**."
-            Device layer
-
-            Network layer
-
-            Application layer
+            * Device layer
+            * Network layer
+            * Application layer
 
     Challenges ahead
+        Tarkasteltua kirjallisuutta dominoi julkaisut jotka esittelevät IoT-järjestelmäsuunnitelman tai jotka raportoivat IoT-implementoinneista prototyyppeinä tai pilotteina.
+        Katsauksessa käsiteltiin myös useita eksporatiivisia papereita, jotka käsittelevät IoT:n mahdollisuuksia maataloudessa yleisesti tai jollain nimenomaisella sovellusalueella.
+        Katsauksessa todettiin, että tekijöille saatavilla olevista papereista mikään ei sisältänyt systemaattista analyysiä IoT:n ongelmista ja haasteista maataloudessa.
+        Havaitut tai käsitellyt haasteet viittaavat siihen, että nykyiset IoT-sovellukset ja teknologioiat maatalouden alalla ovat usei pirstaleisia, vailla saumatonta integraatiota ja erityisesti edistyneemmät sovellukset ovat kokeellisissa vaiheissa. Toiminnalliset sovellukset ovat pääasiassa aikaisten omaksujien käytössä ja keskittyvät perustoiminnallisuuksiin hienorakeisella tasolla (?).
+
+        Tärkeitä haasteita nykyisessä tilanteessa on:
+            * Valtavan IoT-laitteiden ja datan heterogeenisyyden yhteentoimivuuden varmistaminen avoimilla IoT-arkkitehtuureilla, alustoilla ja standardeilla.
+            * Yhteentoimivien IoT-teknologioiden skaalaus aikaisten omaksujien ulkopuolelle, erityisesti nykyisten sovellusten yksinkertaistamisella sekä edullisuuden parantamisella loppukäyttäjille, varmistaen sopivuuden ja käytettävyyden suurimmalle osalle viljelijöitä ja ruoka-alan yrityksiä. Tästä syystä myös pienille yrityksille sopivia, systemaattisen ekonomisen analyysin kustannuksista ja hyödyistä sisältäviä, liiketoimintamalleja tarvitaan.
+            * IoT-teknologioiden edelleen kehitys laajan käytettävyyden saavuttamiseksi maatalouden monimuotoisessa käyttöympäristössä, esimerkiksi erilaiset ilmasto-olosuhteet, erilaiset satokasvit ja maaperät.
+            * IoT-laitteiden kehittäminen vaativiin olosuhteisiin ja luonnon objekteille (kasvit, eläimet, maapinta-ala, pilaantuvat ruokatuotteet) joihin itseensä laitteiden upottaminen/yhdistäminen on rajattua. Erityisesti laittelle, joissa sovelletaan viimeaikaista teknologista kehitystä, koska kypsempien teknologioiden sovelluksessa maatalouteen on jo paljon onnistumisia ja kehitystä.
+            * Stabiilin ja luotettavan langattoman kehittäminen kaukaisille alueille, joihin on usein rajattu kenttä ja kaistanleveys.
+            * Energiatehokkaiden IoT-teknologioiden kehittäminen, mukaanlukien laitteiden ja yhteyksien kehittäminen maaseudun tarpeisiin.
+            * Analytiikan kehittäminen yhdistämään esineiden data kolmannen osapuolen historia- ja ennustedatan kanssa, kuten satelliittidata, maaperä-, vesi- ja ilma-analyysit, logistiikkajärjestelmät, hintatietojen, vähittäismyynnin datan, kuluttajatietojen, ruokavaliotietojen jne.
+            * Luotettavan tietoturvan, yksityisyydensuojan ja datan omistajuuden ratkaisujen saatavuus, jotka soveltuvat dynaamisten ja monimutkaisten sidosryhmien verkostojen tarpeisiin kun sidosryhmiin kuuluu valtava määrä hyvin pieniä yrityksiä, suuria monikansallisia konserneja ja viranomaisia joiden kaikkien tulee toimia yhteistyössä.
+
 
     Conclusions
+        Katsauksen mukaan AIoT on saanut runsaasti huomiota tieteelliseltä yhteisöltä, erityisesti Kiinassa.
+        Yleisimmin käsitellyt aiheet olivat ruoan tuotantoketju sekä peltokasvituotanto.
+        Tuotantoketjun suuri esiintyminen tuloksissa voidaan selittää ruoan turvallisuuden ja ruoan laaduntarkkailun tärkeydellä.
+        Peltokasvituotannon esiintyminen tuloksissa voidaan selittää sillä, että IoT:n on usein katsottu täsmäviljelyn konseptin seuraavana kehitysvaiheena.
+        Tarkasteltua kirjallisuutta dominoi tutkimiseen liittyvät, eksporatiiviset paperit/julkaisut, jotka esittelevät IoT-järjestelmiä jotka on suunniteltu tai toteutettu prototyyppeinä tai pilotteina.
+        Tarkastellut paperit/julkaisut keskittyivät sensorointiin/mittaamiseen ja monitorointiin/tarkkailuun, aktuointia ja etäkontrollointia ei ollut käsitelty laajasti.
+        Tietoliikenneyhteyksistä painotus oli erilaisissa langattomissa verkkosovelluksissa/verkoissa.
+
+        Nämä havainnot osoittavat, että vaikka IoT kerää paljon huomiota, se on edelleen alkuvaiheessa maatalouden alalla.
+        Sovellukset ovat usei pirstaleisia, vailla saumatonta integraatiota ja erityisesti edistyneemmät sovellukset ovat kokeellisissa vaiheissa.
+        Keskeisimpiin/tärkeimpiin avoimiin haasteisiin kuuluvat:
+            * Olemassaolevien IoT-ratkaisuiden integraatio avoimilla IoT-arkkitehtuureilla, alustoilla ja standardeilla.
+            * Yhteentoimivien IoT-teknologioiden skaalaus aikaisten omaksujien ulkopuolelle, erityisesti nykyisten sovellusten yksinkertaistamisella sekä loppukäyttäjien maksamien hintojen alentamisella.
+            * IoT-teknologioiden edelleen kehitys laajan käytettävyyden saavuttamiseksi maatalouden monimuotoisessa käyttöympäristössä, esimerkiksi erilaiset ilmasto-olosuhteet, erilaiset satokasvit ja maaperät.
+        Suurin osa yleiskäyttöisistä teknologiakomponenteista (generic technology components) näiden haasteiden ratkaisemiseksi oletetaan olevan olemassa.
+
+        Maatalouden muuttuminen kytkettyjen esineiden älykkäiden tietoverkkojen toimi/teollisuudenalaksi tulee odotettavasti muuttamaan viljely- ja muita prosesseja ennennäkemättömällä tavalla, tuottaen uusia kontrollointimekanismeja ja liiketoimintamalleja.
+        Tekijät uskovat IoT:n muuttavan alaa, rajusti parantaen tuottavuutta ja kestävyyttä.
+        IoT auttaa viljelijöitä muuttamaan kohti datavetoista viljelyä, jota tukevat päätöksentekotyökalut ajankohtaisella ja tarkalla datalla.
+        Tämän seurauksena/tuloksena maatilat voivat poiketa perinteisestä tuotanto-orientoituneesta, kustannushintavetoisesta (cost price driven), anonyymistä lähestymistavasta kohti arvoperustaista, informaatiorikasta lähestymistapaa jossa kysyntä ja tarjonta on jatkuvasti kohdennettu toisiinsa. Lopulta maatilat ja ruokatuotantoketjut voivat tulla itsemukautuviksi järjestelmiksi joissa älykkäät, itsenäiset objektit, mukaanlukien maataloustyökoneet, voivat toimia, päättää ja jopa oppia ilman paikan päällä tapahtuvaa tai etänä tehtävää ihmisen puuttumista.
+
 
 * Madakam: Internet of Things (IoT): A Literature Review
 * Kamilaris: A review on the practice of big data analysis in agriculture
+    Big Dataan tullaan mm. sensorien kautta, kun BD-tekniikat mahdollistavat aikaisemmin mahdottoman tiedonkäsittelyn.
 * Wolfert: Big Data in Smart Farming – A review
 * Xu: Internet of Things in Industries: A Survey
 * Rose: The Internet of Things (IoT): An Overview
