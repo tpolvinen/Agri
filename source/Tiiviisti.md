@@ -13,6 +13,30 @@ Aiheeseen tutustumisen jälkeen tehtiin systemaattisempi tiedonhaku löydettyjen
 
 -tähän hakumenetelmät, valintaperusteet jne.
 
+---------------------------------------------------------------------------------------------------
+
+## Tiedon hankinta
+Opinnäytetyön toteuttamisessa valittiin tutkimuskysymyksiin
+
+...tietoa hankittiin yksilöteemahaastatteluilla ja kuvailevalla kirjallisuuskatsauksella.
+
+### Yksilöteemahaastattelut
+Koska opinnäytetyön tarkoituksena on tehdä laadullinen yleiskatsaus kohtuullisen pienellä työmäärällä,  yksilöteemahaastattelu valittiin metodin [?] mahdollistaessa:
+1. Erilaisten informanttien haastattelun saman haastatteluprotokollan mukaan.
+2. Kunkin informantin oman erityisosaamisen ja kokemusten käsittelyn.
+3. Haastattelijan ja informantin keskinäisen yhteistyön ennen haastattelua sekä itse haastattelutilanteessa.
+ 
+Teemahaastatteluja tulisi yleisesti tehdä syvällisemmän tiedon hankkimiseksi useita kierroksia, mutta opinnäytetyön rajatun työmäärän ja ajan puitteissa päädyttiin tekemään vain yksi haastattelukierros mahdollisimman monen eri keskeisiä tahoja/sidosryhmiä edustavien informanttien kanssa.
+
+Haastatteluissa saatavia tietoja verrattiin työn edetessä kirjallisuuteen sekä muihin lähteisiin pyrittäessä varmistamaan tietojen oikeellisuus ja [todellisuusvastaavuus/korrelaatio?]. Samalla tietoja käytettiin osaltaan uusien lähteiden hankintaan sekä käsitteiden keräämiseen pyrittäessä parantamaan kirjallisuuskatsauksen kattavuutta ja [oikeisiin asioihin ja ilmiöihin keskittymistä?].
+
+### Kuvaileva kirjallisuuskatsaus
+Samoin kuin teemahaastattelujen tapauksessa, kuvaileva kirjallisuuskatsaus valittiin [metodin/tutkimusotteen?] mahdollistaessa:
+1. Paitsi tieteellisten julkaisujen myös ammattilehtien, valmistajien omien julkaisujen ja muiden vastaavien aiheeseen liittyvien lähteiden käsittelyn.
+2. Ilmiöihin liittyvien yhteyksien vapaan kuvailun ja haastatteluista saatujen tietojen kanssa dialogiin asettelun.
+
+---------------------------------------------------------------------------------------------------
+
 ## Kirjallisuuskatsaukset:
 
 #### Talavera: Review of IoT applications in agro-industrial and environmental fields @talaveraReviewIoTApplications2017
@@ -135,6 +159,8 @@ Kävi ilmi että:
 	* Viime vuosina tämä ajatusmalli on ilmeisesti muuttunut ja on sanottu, että koko ala on huomannut, ettei yhden toimittajan ole mahdollista tuottaa yleiskäyttöistä järjestelmää, jolla kaikki maatilan toiminnot voitaisiin toteuttaa. Vastaava järjestelmä voidaan kyllä rakentaa tarkasti tyypitettyyn toimintaympäristöön jossa kaikki koneet on hankittu yhdeltä valmistajalta, mutta käytännössä tällainen tilanne on harvinainen.
     * ...
 
+---------------------------------------------------------------------------------------------------
+
 Maatalous/kasvituotanto ja IoT ovat yhdistymisen alkuvaiheessa, vaikka kaikki tarvittavat teknologiat ovat jo saatavilla.
 On sanottu (?) että ollaan maatalouden vallankumouksen reunalla. Vaikka tällä odotetulla vallankumouksella voi olla huomattavat vaikutukset ruoantuotantoon sekä koko arvo- ja tuotantoketjuun pellolta lautaselle asti, niin tekijällä ei ollut ennen työn aloitusta siitä minkäänlaista havaintoa. Teollisesta esineiden internetistä (Industrial Internet of Things, IIoT) on uutisoitu, mutta maatalouden esineiden internetistä ei ilmeisesti olla laajasti tietoisia. Tämä voi johtua siitä, että laajamittaista käyttöönottoa ei ole vielä tapahtunut ja näin ollen asiasta ei juuri uutisoida alan ulkopuolella.
 
@@ -146,9 +172,36 @@ Tällä teknologiakehityksellä voi olla todella merkittävät vaikutukset
 
 Jotta lukija ymmärtäisi ilmiön kokonaisuudessaan, käydään lyhyesti läpi IoT:n, IIoT:n, AIoT:n ja kasvintuotannon historiaa.
 
--tähän IoT:n historia
+---------------------------------------------------------------------------------------------------
+
+-tähän IoT:n historia ja määritelmä
+
+International Telecommunication Union, “Overview of the Internet of things,” Ser. Y Glob. Inf. infrastructure, internet Protoc. Asp. next-generation networks - Fram. Funct. Archit. Model., p. 22, 2012.
+[Y.2060 : Overview of the Internet of things](https://www.itu.int/rec/T-REC-Y.2060-201206-I) 21.4.2018
+
+International Telecommunication Union:in (ITU) suosituksen Y.2060 Overview of the Internet of things määrittelyn mukaan *IoT* on globaali tietoyhteiskunnan infrastruktuuri, joka mahdollistaa edistyneitä palveluita yhdistämällä (interconnecting) sekä fyysisiä että virtuaalisia esineitä (things); perustuen tieto- ja viestintäteknologioihin jotka ovat yhteentoimivia ja voivat olla joko olemassaolevia tai vasta kehittyviä. 
+
+Lisäksi määrittelyssä on huomautettu, että:
+1. IoT voi tarjota palveluita kaikenlaisille sovelluksille käyttämällä hyväkseen esineiden tunnistamisen, tiedon tuottamisen (data capture) ja käsittelyn antamia mahdollisuuksia; samalla varmistaen että tietoturvan ja yksityisyyden suojan asettamat vaatimukset täyttyvät.
+2. IoT voidaan laajemmasta näkökulmasta katsoen nähdä visiona, jolla on sekä teknologisia että yhteiskunnallisia vaikutuksia.
+
+Samassa suosituksessa IoT:n kontekstissa *laitteen* määrittelyssä on laitteella vähintään kyky kommunikaatioon ja mahdollisesti kyky havainnointiin (sensing), toimintaan (actuation), tiedon tuottamiseen, tallentamiseen ja käsittelyyn (capture, storage, processing).
+
+Suosituksen määrittelyyn *esine*eksi  IoT:n kontekstissa on merkitty vaatimukset esineen fyysisestä tai virtuaalisesta olemassaolosta, tunnistettavuudesta ja integroitavuudesta tietoverkkoihin.
+
+Tämän suosituksen määrittelyyn perustuen IoT koostuu sekä *laitteista* että *esineistä*, jotka yhdessä olevat tunnistettavia, integroitavissa tietoverkkoihin joiden ylitse ne pystyvät kommunikoimaan ja mahdollisesti  havainnoimaan ympäristöään (sensing), toimimaan (actuation) sekä tiedon tuottamiseen, tallentamiseen ja käsittelyyn (capture, storage, processing).
+
+
+---------------------------------------------------------------------------------------------------
+
 -tähän IIoT:n historia 
+
+---------------------------------------------------------------------------------------------------
+
 -tähän AIoT:n historia
+
+---------------------------------------------------------------------------------------------------
+
 -tähän kasvintuotannon/maatalouden vallankumoukset, miksi viimeisin "green revolution" on osoittautumassa kestämättömäksi (mahd. viittaus FAO-raporttiin ja muualle, tästä oli puhetta ööh jossain). Täsmäviljelyn kehitys ja vaatimukset sensoreille ja sitten datalle, analytiikalle, Farm Management System:eille
 -tähän kuvaus kentän hajanaisuudesta, hankkeista, uudet ja vanhat toimijat
 
