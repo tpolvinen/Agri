@@ -535,6 +535,14 @@ Mahdollinen rakenne:
 ## Katsaukset:
 
 * Sundmaeker: Internet of Food and Farm 2020
+    Muistiinpanot:
+
+        "Surprise: Agriculture is doing more with IoT innovation than most other industries" - Jahangir Mohammed @SurpriseAgricultureDoing2014
+
+        Maatalous on elintärkeä Euroopan ruokkimiseksi terveellä tavalla, mutta Euroopalla on myös tärkeä rooli maailman ruoantuotannossa. Euroopan maataloussektorilla on laajat sosiaaliset ja kaupalliset vaikutukset 
+
+
+
 * Tzounis: Internet of Things in agriculture, recent advances and future challenges 2017
 * Pivoto: Scientific development of smart farming technologies and their application in Brazil
 * Farooq: A Review on Internet of Things (IoT) 2015
@@ -553,18 +561,59 @@ Mahdollinen rakenne:
 ## Järjestöjen julkaisut
 ...
 Beecham Research
-IBM
 IoF2020
+    [http://www.iof2020.eu]
+    [http://www.iof2020.eu/latest/news/2018/05/satellites-offer-farm-support-from-outer-space]
+    [http://www.iof2020.eu/latest/news/2018/04/how-technologies-contribute-to-healthier-crops]
+    [http://www.iof2020.eu/latest/news/2018/03/how-iot-in-agriculture-provides-extensive-environmental-benefits]
+    [http://www.iof2020.eu/latest/news/2018/04/improved-decision-making-for-farmers-and-fishermen]
+        The DataBio consortium includes 48 partners from 17 countries. [https://www.databio.eu/en/]
+    [http://www.iof2020.eu/latest/news/2018/03/dss-for-agriculture]
+        "We have yet to fully exploit the potential of information technologies. ... decision support systems (DSS) which already have an important place within the precision agriculture approach."
+    [http://www.iof2020.eu/latest/news/2018/03/crucial-connectivity-for-rural-areas]
+    [http://www.iof2020.eu/latest/news/2018/02/preventing-droughts-with-iot]
+        "Smart water management technologies using data derived from sensors to monitor fields in real-time can help to mitigate the severity of droughts in the future."
+    [http://www.iof2020.eu/latest/news/2018/02/precision-farming-in-your-backyard]
+        FarmBot; Täsmäviljelyä takapihalla, ei tarvita suuria lohkoja. :)
+    [http://www.iof2020.eu/latest/news/2018/01/how-to-feed-9-billion-people]
+        Asian esittelyyn, linkit FAO-raporttiin, keskeiset tehtävät/strategiat.
+            "Combining those strategies and supporting them with the power of the Internet of Things (IoT) could ensure global food availability. At the same time, it would allow to lower water use and water pollution, decrease the emissions of CO2 and avoid further damage to biodiversity. Adopting of technologies such as precision farming can unlock the potential of boosting yields and better managing of resources. It can also improve farmers’ decision-making thanks to real-time data obtained from connected sensors in fields. And most importantly, it would better enable us to feed 9 billion people."
+    [http://www.iof2020.eu/latest/news/2018/01/urban-farming-a-response-to-rural-depopulation]
+    [http://www.iof2020.eu/latest/news/2017/12/cloud-computing]
+            "IoT devices generate large amounts of data when applied to agricultural settings, where their primary objective is to monitor/assess weather conditions, soil moisture, plant growth or animal health, amongst others."
+            "report titled ‘Global IoT Market in Smart Farming 2017-2021’"
+    [http://www.iof2020.eu/latest/news/2017/11/bridging-the-skills-gap]
+        Industry 4.0 -> Agriculture 4.0
+        McKinsey instituutin tutkimus näytti, että " farming had the lowest ICT penetration rate of all industries"
+        Miksi ei?
+            * laajakaista puuttuu
+            * korkeat hankintakustannukset, kuten variable rate systems (lannoitus, kasvinsuojelu)
+            * "low generational renewal in farming"
+            * DIGITEKNOLOGIOIDEN KÄYTTÖTAIDOT joiden avulla teknologioiden hankintakustannukset saadaan katettua.
+        Traktorien opastus/automaattiohjauksen hankinta on ok, variable rate -järjestelmät harvinaisia, koska kompleksisia käyttää.
+            Employment in agriculture (% of total employment) (modeled ILO estimate)
+            [https://data.worldbank.org/indicator/SL.AGR.EMPL.ZS?locations=DE&name_desc=false]
+            Saksan maatalous työllistää arvion mukaan vuonna 2017 1.285 % väestöstä, kun se vuonna 1991 oli 4.106 %. Suomessa vastaavat luvut ovat vuonna 2017 3.88 % ja vuonna 1991 8.891 %.
+        " the number of young people with a comprehensive understanding of farming has seen a substantial decline." Opettajilla on haasteita opettaa viljelylukutaidottomia oppilaita ja samaan aikaan tarjota oppilaille mahdollisuuksia päästä kiinni digitalisaation vallankumoukseen.
 Postscapes
 AEF
-CEMA
+
 
 
 ## Teknologiasovellukset/prototyypit/ehdotukset tutkimuksessa
 ...
 
 ## Kaupalliset tuotteet ja julkaisut
-...
+
+Valtra / AGCO
+IBM
+Intel
+Accenture
+CEMA
+
+Uusia <11-05-2018  16:27>  
+    John Deere Precision Planting
+    Oracle
 
 
 # Tulokset
