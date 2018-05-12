@@ -3,13 +3,127 @@
 Iso tarina:
 Lähti liikkeelle kysymyksestä: "Sitä dataa ei siis saa siitä koneesta ulos?"
 Tämä hämmästytti, joten asiaan tutustuttiin pintapuolisesti ja havaittiin, ettei mitään tiedetä mutta tilanne vaikuttaa mielenkiintoiselta: on tulossa uusia teknologioita ja toimintatapoja. Saman tien ei tullut esiin selkeää kokonaiskuvaa alan standardeista ja käytänteistä esineiden internetin (Internet of Things, IoT) käytössä, joten asiaa päätettiin tutkia tarkemmin. 
-Lähtökohtaisesti määriteltiin IoT:n olevan järjestelmiä/ratkaisuita, joissa toteutui jatkuvasti kiertävä tiedon tuottamisen, siirtämisen, tallennuksen, analytiikan, päätöksenteon ja aktuoinnin/ohjaamisen/kontrolloinnin täysautomaattinen ketju ilman ihmisen puuttumista ja ohjausta prosessissa. 
+Lähtökohtaisesti määriteltiin IoT:n olevan järjestelmiä/ratkaisuita, joissa toteutui jatkuvasti kiertävä tiedon tuottamisen, siirtämisen, tallennuksen, analytiikan, päätöksenteon ja aktuoinnin/ohjaamisen/kontrolloinnin täysautomaattinen ketju ilman ihmisen puuttumista ja ohjausta prosessissa.
+
+-tähän miten tutkimuskysymykset valittiin
+
 Aluksi tiedon hankkiminen oli hankalaa ja hyvät lähteet olivat harvassa. Käytetyn IoT-määrittelyn mukaisten ratkaisujen löytäminen alkoi vaikuttaa lähes mahdottomalta.  Ajan kuluessa, kontaktien karttuessa ja hakumenetelmiä opetellessa parempia lähteitä alkoi löytyä. Omat hakutulokset paranivat, kontakteilta saatiin hyviä lähteitä sekä hyviksi todettujen lähteiden viittauksien kautta löytyi yhä enemmän tietoa.
 Kokonaiskuva alkoi hitaasti hahmottua samojen asioiden/analyysien/mielipiteiden tullessa vastaan useista eri lähteistä.
-Kun tutustumiseen oli käytetty 
+Aiheeseen tutustumisen jälkeen tehtiin systemaattisempi tiedonhaku löydettyjen kirjallisuuskatsausten pohjalta.
+
+-tähän hakumenetelmät, valintaperusteet jne.
+
+## Kirjallisuuskatsaukset:
+
+#### Talavera: Review of IoT applications in agro-industrial and environmental fields @talaveraReviewIoTApplications2017
+
+AIoT:tä käytetään 
+tarkkailu (monitoring) 62 %; 
+kontrollointi (control) 25 %; 
+logistiikka (logistics) 7 %; 
+ennustus (prediction) 6 %.
+
+AIoT:n teknologiat
+(i) sensing variables, 
+(ii) actuator devices, 
+(iii) power sources, 
+(iv) communication technologies, 
+(v) edge computing technologies (Shi et al., 2016), 
+(vi) storage strategies, and 
+(vii) visualization strategies
+
+AIoT:n omaksumisen/käyttöönoton esteet ja avoimet haasteet: 
+Vahva standardisaatio
+Parempi virranhallinta
+Tieto- ja kyberturvallisuus
+Modulaarisen laitteistojen ja ohjelmistojen kehittäminen
+Yksikköhintojen alentaminen
+Pyritään yhteensopivuuteen vanhan, olemassaolevan infrastruktuurin kanssa
+Huomioidaan skaalautuvuus jo alkuvaiheessa
+Ohjelmistokehityksen parhaiden käytänteiden käyttönotto
+Kentälle/käyttöön asennettavien laitteiden lujatekoisuuden parantaminen
+Käyttäjälähtöinen suunnittelu
+IoT-ekosysteemin edistäminen
+Kestävät käytänteet
+
+### Verdouw: Internet of Things in agriculture @verdouwInternetThingsAgriculture2016a
+
+Ruokaturva, 
+väestönkasvu, 
+elintason nousu, 
+maan kantokyky ylitetty nykyisillä viljelymenetelmillä,
+Globalisaatio, ilmastonmuutos, polttoaineperusteisesta taloudesta bioperustaiseen talouteen siirtyminen, maankäyttöön, makeaan veteen ja työvoimaan kohdistuva kilpailu monimutkaistaa haastetta maailman ruokkimiseen ilman suurempaa saastuttamista tai resurssien liikakäyttöä/liikaottoa.
+
+IoT-laitteet voivat helpottaa haasteisiin vastaamista:
+Tuotannon parempaa tarkkailua/havainnointia/monitorointia/sensorointia
+Parempi ymmärrys maatilan olosuhteista
+Edistyneempi ja etänä toteutettava kontrollointi
+Ruoan laadun tarkkailu ja jäljitettävyys
+Lisäämällä kuluttajatietoisuutta
+
+IoT-määrittely:
+IoT on seuraava Internetin vaihe, jossa myös fyysiset esineet (things) kommunikoivat.
+“a world-wide network of interconnected objects uniquely addressable, based on standard communication protocols” **4**
+aajentunut kohti maailmanlaajuista älylaitteiden verkkoa jossa laitteet ovat tilannetietoisia (context-sensitive) ja voidaan tunnistaa, tuntea (sense) ja kontrolloida etäisesti käyttäen sensoreita ja aktuaattoreita **6-8**.
+IoT:ssä jokainen laite/esine on yksilöllisesti tunnistettavissa, varustettu sensoreilla ja kytketty reaaliaikaisesti internetiin.
+IoT:n odotetaan olevan seuraava Internetin vallankumous.
+
+IoT-arkkitehtuuri:
+Fyysinen kerros
+    Valmiudet fyysisten objektien automaattiseen tunnistukseen, havainnointiin, aktuointiin.
+    RFID:tä on käytetty elintarvikeketjun jäljitettävyyden valvonnassa. Tutkimusten mukaan teknologian käyttöönotto on vielä vähäistä vaikka se on saanut suurta huomiota kirjallisuudessa.
+    Lämpötilan, kosteuden, valon, hiilidioksidin, pH-arvojen anturointia.
+    Älypuhelimilla voidaan tehdä muun muassa viivakoodien ja RFID:n lukemista, maatalouden sovelluksissa yleisimmin älypuhelinten käyttämät sensorit ovat GPS ja kamerat.
+    Satelliittien, ilma-alusten, maahan pystytettyjen alustojen avulla tapahtuva kaukohavainnointi on ollut täsmäviljelyn tärkeä tutkimusaihe jo pitkään. Pienet miehittämättömät ilma-alukset (drone), ovat enenevissä määrin käytössä korkean resoluution paikka- ja aikatietojen kuvantamistiedon hankinnassa.
+    Aktuaattoreita käytetään...
 
 
-*Tämän voisi laittaa yhteenvetoon loppuun?*
+
+
+Verkkokerros
+    Valmiudet verkottumiseen, verkkoyhteyksiin/liitettävyyteen, tiedonsiirtoon objektien informaation kommunikaatioon turvallisesti ja tehokkaasti.
+    ...
+
+
+
+
+
+Sovelluskerros
+
+IoT:tä käsittelevät julkaisut:
+Määrä selkeässä kasvussa,
+Tieteellisissä julkaisuissa julkaistujen artikkeleiden määrä oli vuonna 2015 noussut aiemmasta, mutta samana vuonna kaikkien tieteellisten julkaisujen määrä oli vähentynyt. -> AIoT:n tutkimus voi olla kypsymässä.
+Kirjojen luvuista ei yhtään maatalouden kirjasarjoissa.
+Tieteellisissä julkaisuissa julkaistujen artikkeleiden joukossa oli sekä maatalouden että IT-alan julkaisuissa julkaistuja.
+Aasialaiset dominoivat, erityisesti kiinalaiset.
+Muilla mantereilla IoT on ollut muiden kuin maatalouden tutkimusaiheena.
+
+Avoimet haasteet
+
+Suurin osa tutkimuksista esittelee IoT-järjestelmäsuunnitelman tai raportoi IoT-implementoinneista prototyyppeinä tai pilotteina.
+Paljon selvitystutkimuksia
+
+AIoT:ä tutkitaan eniten (yhteensä 168):
+68 Food supply chains
+33 Arable farming
+26 Agriculture in general
+14 Greenhouse horticulture
+8 Open air horticulture, including orchards
+5 Food consumption
+3 Leisure agriculture
+
+Yleiset havaitut teemat:
+Täsmäviljely sekä pelto- että puutarhaviljelyssä
+Ruoan jäljitettävyyden järjestelmät
+Ruoan turvallisuuden ja laaduntarkkailun järjestelmät
+Kuluttajavuorovaikutus
+
+
+
+
+---------------------------------------------------------------------------------------------------
+
+*Tämän voisi ehkä laittaa yhteenvetoon loppuun? Vai jaetaanko havainnot per kirj.katsaukset, paperit, muut, valmistajat, muut organisaatiot*
 Kävi ilmi että:
 	* Maatalouden ala -uusien teknologioiden omaksumisen ja käyttöönoton näkökulmasta- on pirstaleinen.
 	* Kasvihuonetuotannossa on ollut kohtuullisen helppoa soveltaa teollisuuden muilla aloilla kehittämää valmista tuotantoautomatiikkaa ja käyttää vastaavia tietojärjestelmiä mallina.

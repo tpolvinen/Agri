@@ -399,7 +399,7 @@ Mahdollinen rakenne:
                         **(Diedrichs et al., 2014)** mukaan laitemäärien kasvun myötä suurissa järjestelmäasennuksissa datan synkronisointi ja datan luotettavuus muodostuvat kriittisiksi.
                     Ohjelmistokehityksen parhaiden käytänteiden käyttönotto (Adopt good practices of software engineering)
                         **(Hussain et al., 2006; Jayaraman et al., 2015a)** mukaan asennettujen IoT-ratkaisujen mittakaavan ja kestävyyden kasvaessa aika ja vaiva tuotetun datan analysoinnissa, ohjelmakoodin parantelussa sekä uusien ominaisuuksien lisäämisessä kasvavat räjähdysmäisesti jos ohjelmistoa ei ole hyvin suunniteltu ja dokumentoitu.
-                    Kentälle asennettavien laitteiden lujatekoisuuden parantaminen (Improve robustness for field deployments)
+                    Kentälle/käyttöön asennettavien laitteiden lujatekoisuuden parantaminen (Improve robustness for field deployments)
                         Kaupallisten IoT-ratkaisuiden tulisi kestää huomattavia muutoksia lämpötilassa, kosteudessa ja valaistuksessa kestääkseen vuodenaikojen muutokset sekä maailmanlaajuisen ilmastovaihtelevuuden.
                     Käyttäjälähtöinen suunnittelu (User-centered design)
                         IoT-laitteiden asentamisen ja hallinnan tulisi olla selkeää ja yksinkertaista tavallisille käyttäjille. Lisäksi laitteen tulisi vaatia vain vähän tai ei ollenkaan ihmisen tekemää huoltoa elinkaarensa aikana sekä laitteiden käyttämän tietoliikenneratkaisun tulisi olla tarpeeksi älykäs uudelleenmäärittelemään tai parantamaan itse itsensä laiterikon sattuessa.
@@ -473,11 +473,34 @@ Mahdollinen rakenne:
             * Greenhouse horticulture
             * Open air horticulture (incl. orchards)
 
+        "agriculture in general, 
+        several papers focus on 
+        precision agriculture [63, 67] or 
+        sensing and monitoring the production environment [64, 65, 68-71]. Others try to design a
+        general management information system based on IoT [55, 72, 73]. Other relevant themes that are touched upon are: 
+        product quality improvement [45], 
+        food safety and traceability [65, 74, 75], 
+        water management [60, 71], 
+        rural development [76], 
+        urban agriculture [77] and 
+        consumer interaction [37]."
+
+        "arable farming 
+        many papers are somehow dealing with 
+        monitoring & control using advanced IoT devices [16, 38, 78-86] sometimes supported by
+        predictive crop growth models [79, 87, 88]. Many are also focusing 
+        getting information in general from fields or farmlands [38, 81, 88-92]. Using these approaches, several papers are specifically applying IoT for 
+        sustainability management including ecology, biodiversity and natural resources, e.g. water [19, 43, 78, 82, 93, 94]. Some papers are dealing with 
+        IoT and precision agriculture in general [95-98] and other themes that are occasionally mentioned are 
+        pest management by early warning systems [16, 99], 
+        agricultural machinery [100] and 
+        data management [101]."
+
         "From the applications in the areas above several generic themes can be identified, in particular precision farming in arable- livestock farming and horticulture, food traceability, food safety and quality management and consumer interaction."
-            * Precision farming
+            * Precision farming (in arable farming and horticulture)
             * Food traceability systems
             * Food safety and quality management systems
-            * Consumers
+            * Consumer interaction
 
     Mahdollistavat teknologiat (Enabling technologies)
         "An IoT architecture can be subdivided into a device layer, network layer, and application layer (based on **6, 141**."
