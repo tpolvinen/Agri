@@ -40,11 +40,11 @@ Opinnäytetyön laajuuden rajallisuuden vuoksi aihealueeksi on rajattu kasvituot
 
 
 
-Ilmastonmuutos, ekosysteemipalvelujen heikkeneminen, resurssien niukkeneminen, ruoan ja energian lisääntyvä tarve, nopea sosiaalinen eriarvoistuminen, maahanmuutto ja ihmisten etääntyminen ruoan alkuperästä
+"Ilmastonmuutos, ekosysteemipalvelujen heikkeneminen, resurssien niukkeneminen, ruoan ja energian lisääntyvä tarve, nopea sosiaalinen eriarvoistuminen, maahanmuutto ja ihmisten etääntyminen ruoan alkuperästä"
 *(Evernote: Abstract: Hyvin sanottu! Parasta ruokaa - hyvää elämää)*
 --Samalla kuluttajien vaatimukset lähiruoalle, läpinäkyvälle tuotantiketjulle ja luomulle-- lähde?
 
-Alkutuotannon kehittyessä yhä riippuvaisemmaksi internetiin kytketystä tietotekniikasta ja automaatiosta järjestelmien kyberturvallisuus on otettava huomioon. Kyberturvallisuuden puutteista aiheutuva uhka on sitä suurempi mitä pidemmälle kehityksessä edetään.
+"Alkutuotannon kehittyessä yhä riippuvaisemmaksi internetiin kytketystä tietotekniikasta ja automaatiosta järjestelmien kyberturvallisuus on otettava huomioon. Kyberturvallisuuden puutteista aiheutuva uhka on sitä suurempi mitä pidemmälle kehityksessä edetään."
 *(Evernote: Kyberturvallisuus on elintärkeä myös maataloudessa - Luonnonvarakeskus)* 
 
 IoTn historia on hienosti kuvattu Mina Nasirin gradussa Internet of Things as an enabler in disruptive innovation for sustainability
@@ -215,8 +215,7 @@ Tiedon kattavuutta pyritään parantamaan hakemalla sateenvarjokatsauksen omaise
 <02-05-2018  21:27>
 
 1. Sateenvarjokatsauksen loppuun vienti:
-    Luetaan kirjallisuuskatsaukset, merkitään teemat ja aiheet niiltä osin kun tiedon arvellaan olevan tarpeellista omalle työlle. Merkitään muistiin myös assosiaatiot muihin lähteisiin.
-    Seuraavaksi sama kirjoille.
+    Luetaan kirjat, merkitään teemat ja aiheet niiltä osin kun tiedon arvellaan olevan tarpeellista omalle työlle. Merkitään muistiin myös assosiaatiot muihin lähteisiin.
     Seuraavaksi sama muille katsauksille.
     Asetellaan muistiinpanot luonnokseen.
     Muokataan rakennetta samalla.
