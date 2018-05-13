@@ -1,6 +1,54 @@
-<12-05-2018  11:14>
+# JOHDANTO
+## Yleisjohdanto (sis. Tavoitteet, tutkimusongelma, rajaus, käsitteet)
+## Puutarhatuotanto-johdanto
+## Peltotuotanto-johdanto
+# TEORIATAUSTA
+## Kasvintuotanto
+### Kasvintuotannon määrittely
+### Kasvintuotannon historia (aiheeseen liittyen)
+## Internet of Things, esineiden internet
+### IoTn määrittely
+### IoTn historia
+### Industrial Internet of Things, teollinen esineiden internet
+### Agricultural Internet of Things, maatalouden esineiden internet
+#### AIoT kasvintuotannossa
+#### AIoT peltokasvituotannossa
+#### AIoT puutarhatuotannossa (& muu kasvintuotanto)
+# TUTKIMUS
+## Tutkimuksen tavoitteet
+### Tutkimusongelmat
+### Tutkimuskysymykset
+### Työhypoteesit
+## Aineisto ja (tutkimus)menetelmät
+### Kirjallisuuskatsaus *mallina KYAMK Lonka Karoliina: LAPSEN DIABETEKSEN... 2014*
+#### Kirjallisuuskatsauksen vaiheet
+##### Keskeisten käsitteiden valinta
+(##### Tutkimussuunnitelma ja tutkimuskysymysten määrittäminen?)
+##### Alkuperäistutkimusten haku
+##### Alkuperäistutkimusten valinta
+*AIoT kirjallisuuskatsaukset*
+*AIoT muut katsaukset ja vastaavat*
+*AIoT tutkimukset, tieteelliset julkaisut -ovatko konferenssipaperit tieteellisiä julkaisuja?*
+(*mahd. Harmaa kirjallisuus*)
+*AIoT Järjestöt, organisaatiot esim. Luke ja IoF2020*
+*AIoT Valmistajat, yhtiöt*
+*AIoT muut julkaisut*
+##### Alkuperäistutkimusten laadun arviointi
+##### Alkuperäistutkimusten analysointi ja tutkimustulosten esittäminen
+##### Kirjallisuuskatsauksen luotettavuus
+### Teemahaastattelut
+*teemahaastattelujen kuvaus, haastattelukysymysten valinta, haastateltavien valinta, haastattelujen toteutus*
+# TUTKIMUSTULOKSET
+## Kirjallisuuskatsauksen tulokset
+## Haastattelujen tulokset
+## Haastatteluista saatujen tulosten vertailu kirjallisuuskatsauksen tuloksiin
+## Tutkimuskysymyksien vastaukset
+# POHDINTA
+## Luotettavuus
+## Hyödynnettävyys
+# LÄHTEET
+# LIITTEET
 
-Iso tarina:
 Lähti liikkeelle kysymyksestä: "Sitä dataa ei siis saa siitä koneesta ulos?"
 Tämä hämmästytti, joten asiaan tutustuttiin pintapuolisesti ja havaittiin, ettei mitään tiedetä mutta tilanne vaikuttaa mielenkiintoiselta: on tulossa uusia teknologioita ja toimintatapoja. Saman tien ei tullut esiin selkeää kokonaiskuvaa alan standardeista ja käytänteistä esineiden internetin (Internet of Things, IoT) käytössä, joten asiaa päätettiin tutkia tarkemmin. 
 Lähtökohtaisesti määriteltiin IoT:n olevan järjestelmiä/ratkaisuita, joissa toteutui jatkuvasti kiertävä tiedon tuottamisen, siirtämisen, tallennuksen, analytiikan, päätöksenteon ja aktuoinnin/ohjaamisen/kontrolloinnin täysautomaattinen ketju ilman ihmisen puuttumista ja ohjausta prosessissa.

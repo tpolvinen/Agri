@@ -25,7 +25,6 @@ oppari.md
 # Lähteet
 
 
-# TIIVISTELMÄ
 # JOHDANTO
 ## Yleisjohdanto (sis. Tavoitteet, tutkimusongelma, rajaus, käsitteet)
 ## Puutarhatuotanto-johdanto
@@ -37,11 +36,11 @@ oppari.md
 ## Internet of Things, esineiden internet
 ### IoTn määrittely
 ### IoTn historia
-## Agricultural Internet of Things, maatalouden esineiden internet
-*Osana IIoTä*
-### AIoT kasvintuotannossa
-### AIoT peltokasvituotannossa
-### AIoT puutarhatuotannossa
+### Industrial Internet of Things, teollinen esineiden internet
+### Agricultural Internet of Things, maatalouden esineiden internet
+#### AIoT kasvintuotannossa
+#### AIoT peltokasvituotannossa
+#### AIoT puutarhatuotannossa (& muu kasvintuotanto)
 # TUTKIMUS
 ## Tutkimuksen tavoitteet
 ### Tutkimusongelmat
@@ -87,9 +86,9 @@ Uudestaan! Tällä kertaa Helmiön sys.k.kats. mukaan:
 ## AGRICULTURAL INTERNET OF THINGS, maatalouden esineiden internet
 # TUTKIMUSMENETELMÄT
 ## TUTKIMUKSEN SUUNNITTELU
-## TutkimuskysymySTEN MÄÄRITTELY
+## TUTKIMUSKYSYMYSTEN MÄÄRITTELY
 ## HAKUSTRATEGIA JA TIETOLÄHTEET
-## PRIMARY STUDY ???
+## KIRJALLISUUSKATSAUS
 ### VALINTAPERUSTEET
 ## TUTKIMUKSEN TOTEUTUS
 ## TUTKIMUKSEN LUOTETTAVUUS
