@@ -478,6 +478,19 @@ Löytyykö vielä parhaan tavoitetilan kuvauksia edes spekulointeina, tulevaisuu
 
 ---------------------------------------------------------------------------------------------------
 
+Kaikissa näissä on sensori-, tiedonsiirto-, pilvi- ja analytiikkateknologioiden halventuminen ollut keskeinen tekijä niiden tuonnissa kasvituotannon alalle, jossa suuri osa tuottajia on pienehköjä yrityksiä joilla on kaikille hankinnoille oltava selkeä liiketaloudellinen peruste. Läheskään aina ei vielä näin ole IoT-teknologioiden kanssa, vai?
+
+Peltokasvituotannossa
+ei todennäköisesti tulla viljelypäätöksien tekoa luovuttamaan tietojärjestelmien tehtäväksi, mutta integroitu ja yhdistetty FMS tai vastaava voisi antaa hyviä suosituksia, jotka voitaisiin lähettää työkoneille toteutettaviksi, joko urakoitsijalle tai omille koneille, jotka voivat nekin olla osa viljelijöiden keskinäistä "konekantaa" ja niiden käyttöä valvoisi älykäs Fleet Management System, joka osaisi puhua valmistajien huoltojen ja vastaavien kanssa.
+Lisäksi olennainen osa järjestelmää -tai järjestelmien järjestelmää tai sitä seuraavaa ekosysteemiä (?)- on sen yhteys markkinoille, koko arvo- ja tuotantoketjuun ja muihin tuottajiin, koko kasvituotannon ekosysteemiin, mistä saadaan älykästä tietoa siihen mitä halutaan tuotannosta, milloin ja missä. Samoin voidaan antaa tarjolle arvoeriä. Miten tämä eroaa maanviljelyksen Alibabasta? Älykkäällä analysoinnilla, koneoppimisella ja optimoinnilla sekä sillä, että ihmiset eivät enää tekisi kauppaa keskenään, edes organisaatioiden edustajina vaan koneet tekevät sen automaattisesti, ihmisille jää korkeamman tason päätösten teko, luova ajattelu ja ohjaus.
+
+Puutarhatuotannossa sama, mutta työkalut ovat itse puutarhoissa enemmän kiinteästi asennettuja tekniikkaratkaisuita kuin peltokasvituotannossa. ...
+
+Kasvihuonetuotannossa
+on tehdasmaisin, kiintein ja suojatuin ympäristö, johon on helpompi soveltaa teollisuuden kehittämiä ratkaisuita automatiikassa ja tietoverkoissa. ...
+
+---------------------------------------------------------------------------------------------------
+
 *Tämän voisi ehkä laittaa yhteenvetoon loppuun? Vai jaetaanko havainnot per kirj.katsaukset, paperit, muut, valmistajat, muut organisaatiot*
 Kävi ilmi että:
 	* Maatalouden ala -uusien teknologioiden omaksumisen ja käyttöönoton näkökulmasta- on pirstaleinen.
