@@ -57,10 +57,14 @@ Opinnäytetyön laajuuden rajallisuuden vuoksi aihealueeksi on rajattu kasvituot
 ## Puutarhatuotanto-johdanto
 
 Yleistä lätinää puutarhatuotannosta. Määrittely, luonne.
+Kevyesti luonnehdittu tavoitetila.
+Lyhyesti millaisia sovelluksia nyt on.
 
 ## Peltokasvituotanto-johdanto
 
 Yleistä lätinää peltokasvituotannosta. Määrittely, luonne.
+Kevyesti luonnehdittu tavoitetila.
+Lyhyesti millaisia sovelluksia nyt on.
 
 *Perustuen Joona Elovaaran "Aggregating OPC UA Server for Remote Access to Agricultural Work Machines" diplomityön osioon 1.1 Background:*
 Työkoneiden kehityksen myötä maatilojen toiminnan hallinta on monimutkaistunut. Viljelijän tulee tehdä päätöksiä viljelytoimien laadusta, sisällöstä, ajankohdasta ja järjestyksestä ottaen samalla huomioon sekä ympäristönsuojelun että maataloustukien säädökset, lisäksi huolehtien liiketoiminnastaan ja tilansa työkoneista ja muusta infrastruktuurista. Tätä toimintaa ja päätöksentekoa tukemaan on kehitetty erilaisia tiedonhallinnan järjestelmiä, joita kutsutaan Farm Management Information System:eiksi (FMIS). (@elovaaraAggregatingOPCUA2015) FMIS on määritelmällisesti järjestelmä, joka kerää, käsittelee, tallentaa ja välittää dataa tiedon muodossa, jota tarvitaan maatilan operatiivisten toimintojen suorittamisessa **(Sørensen et al. 2010a)-Elsevier, ei pääsyä**.
@@ -466,10 +470,11 @@ Yhteenvetona: tässä on kaikki. :)
 
 
 
+---------------------------------------------------------------------------------------------------
 
+Kenttä on pirstaleinen ja parhaat prototyypit, pilottitoteutukset ja pitkälle viedyt kokeilut ovat vieläkin erillään, eivätkä muodosta yhtenäistä kokonaisuutta, järjestelmien järjestelmää tai siitä seuraavia kehitysvaiheita.
 
-
--tähän hakumenetelmät, valintaperusteet jne.
+Löytyykö vielä parhaan tavoitetilan kuvauksia edes spekulointeina, tulevaisuudenkuvina lähteistä? Miten IoF:n esimerkkitapaukset, entä IBM, Accenture jne.?
 
 ---------------------------------------------------------------------------------------------------
 
