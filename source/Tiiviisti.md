@@ -2,6 +2,9 @@
 
 *<13-05-2018  12:09> Tämä on nyt vain yleistä lätinää eikä mikään johdanto! Uusiks.*
 
+-- Omia huomioita 17.11.2017: Olen jotenkin olettanut, että totta kai maataloudessa oltaisiin jo omaksuttu paljon enemmän IoT-teknologioita, samaaan tapaan kuin muualla teollisuudessa. Jokin alan vieraudessa on vaikuttanut minuun. Ehkä työni ensimmäinen hämmästynyt kysymys oli: "Sitä tietoa ei siis saa sieltä koneesta ulos?" Viljelijöiden harkitsevuus uusien teknologioiden käyttöönotossa ei ole takapajuisuutta, ymmärtämättömyyttä tai typeryyttä, vaan sille on hyvä syy: teknologian tulee todistettavasti olla tuottavaa jotta sen käyttöönottoa edes voitaisiin harkita. Niin kuin missä tahansa liiketoiminnassa tai tuotannossa. Kentän hajanaisuus, järjestelmäintegration vaikeus ja hitaus ovat hidastaneet laajamittaista käyttöönottoa huomattavasti peltotuotannossa, osin myös puutarhatuotannossa. Kyse ei ilmeiseti olekaan alan takapajuisuudesta tai merkityksettömyydestä. --
+-- <15-05-2018  12:15> ...vaan viljelijöiden omasta harkinnasta liiketoiminnan harjoittajina ja yrittäjinä: jokaiselle omaksuttavalle ja käyttöön otettavalle teknologiaratkaisulle tulee löytyä selkeä taloudellinen peruste. Tämän lisäksi uuden teknologian tulee soveltua yrityksen toimintatapoihin ja liiketoimintaprosesseihin, eli maatilojen viljelykäytänteisiin ja tapoihin tehdä asioita ja hoitaa tilaa. --
+
 Lähti liikkeelle kysymyksestä: "Sitä dataa ei siis saa siitä koneesta ulos?"
 Tämä hämmästytti, joten asiaan tutustuttiin pintapuolisesti ja havaittiin, ettei mitään tiedetä mutta tilanne vaikuttaa mielenkiintoiselta: on tulossa uusia teknologioita ja toimintatapoja. Saman tien ei tullut esiin selkeää kokonaiskuvaa alan standardeista ja käytänteistä esineiden internetin (Internet of Things, IoT) käytössä, joten asiaa päätettiin tutkia tarkemmin. 
 Lähtökohtaisesti määriteltiin IoT:n olevan järjestelmiä/ratkaisuita, joissa toteutui jatkuvasti kiertävä tiedon tuottamisen, siirtämisen, tallennuksen, analytiikan, päätöksenteon ja aktuoinnin/ohjaamisen/kontrolloinnin täysautomaattinen ketju ilman ihmisen puuttumista ja ohjausta prosessissa.
@@ -132,6 +135,24 @@ Olisiko levätehtaista teknologialähdettä? "Haastavaa...Vuodenaikojen ja sää
 *Tähän tavarat puutarhatuotannosta, jotka menevät suoraan kasvihuoneisiin ja -tehtaisiin*f
 
 # TEORIATAUSTA
+
+## Metodologiaa (ei opparitekstiin)
+
+"käsitellään ilmiötä selittäviä teorioita...esitellään ne tieteelliset työt, teoriat ja mallit, joilla ilmiötä on aikaisemmin selitetty"
+Teoriatausta-luvussa pyritään hahmottelemaan kasvintuotannon IoT-ratkaisuista tähän asti tehty tutkimus, tai mitä aiheesta on jo kirjoitettu.
+
+MUTTAKUN: Nasirin gradussa on ilmiöiden kuvailu 
+Chapter 2 is Business Sustainability
+Chapter 3 is Innovation for Sustainability
+Chapter 4 is about IOT as Expression of Disruptive Innovation
+Chapter 5 is about IOT in Disruptive Innovation for Sustainability. This chapter will answer to the second and third sub-question
+Chapter 6 is about the Practical Perspective
+Chapter 7 is Discussion ...first part is the results which draw a comparison between findings from literature review among different scientific articles and SITRA’s perspective...
+Chapter 8 is Conclusion which finalizes this thesis with the findings
+
+"...voidaan ymmärtää myös niin, että sillä tarkoitetaan sitä, mitä aiheesta on kirjoitettu...voidaan ymmärtää siksi kirjoitteluksi, mitä ilmiön osalta kirjallisuudesta ja tieteestä löytyy."
+
+## Taustaa
 
 Maatalous/kasvituotanto ja IoT ovat yhdistymisen alkuvaiheessa, vaikka kaikki tarvittavat teknologiat ovat jo saatavilla.
 On sanottu (?) että ollaan maatalouden vallankumouksen reunalla. Vaikka tällä odotetulla vallankumouksella voi olla huomattavat vaikutukset ruoantuotantoon sekä koko arvo- ja tuotantoketjuun pellolta lautaselle asti, niin tekijällä ei ollut ennen työn aloitusta siitä minkäänlaista havaintoa. Teollisesta esineiden internetistä (Industrial Internet of Things, IIoT) on uutisoitu, mutta maatalouden esineiden internetistä ei ilmeisesti olla laajasti tietoisia. Tämä voi johtua siitä, että laajamittaista käyttöönottoa ei ole vielä tapahtunut ja näin ollen asiasta ei juuri uutisoida alan ulkopuolella.
