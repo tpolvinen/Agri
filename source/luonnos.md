@@ -9,7 +9,7 @@ bibliography: ../bib/AIoT.bib
 csl: ../style/harvard1.csl
 ...
 
-bibliografian testaus:
+# bibliografian testaus:
 Pelkkänä: ckey    @elovaaraAggregatingOPCUA2015
 Sulkeissa: (ckey)    (@elovaaraAggregatingOPCUA2015)
 Sulkeissa, sivunumeroilla: (ckey 3, 33)    (@elovaaraAggregatingOPCUA2015 3, 33)
@@ -17,6 +17,8 @@ Pelkkänä: ckey    buyya2016internet
 Sulkeissa: (ckey)  (@buyya2016internet)
 Sulkeissa, sivunumeroilla: (ckey 3, 33)    (@buyya2016internet 3, 33)
 
+# HUOM: 
+"Meta (poistettava otsikko)" -otsikot, samoin kuin muutkin "...(poistettava otsikko)" -otsikot, ovat luonnoksessa mukana helpottamassa osioiden käsittelyä luonnostelu- ja kirjoitusvaiheissa. Nämä otsikot poistetaan ja niiden alla oleva teksti jää korkeamman tason otsikon alle.*
 
 # TIIVISTELMÄ
 
@@ -26,10 +28,7 @@ Tässä opinnäytetyössä käytetään lähdeviittausten tyylinä Södertörns 
 
 # JOHDANTO
 
-*Kirjoitetaan kun muut luvut ovat valmiit.*
-
- <15-05-2018  12:25> Siirretty Tiiviisti.md:hen.
-
+*Kirjoitetaan kun muut luvut ovat valmiit. <15-05-2018  12:25> Siirretty Tiiviisti.md:hen työstettäväksi.*
 
 # TEORIATAUSTA
 
@@ -41,20 +40,22 @@ Ensin tutustutaan osailmiöhin IoT, IIoT, AIoT ja kasvintuotanto, joiden määri
 ## Taustaa (poistettava otsikko)
 
 
-## Kasvintuotanto
+## Kasvintuotanon taustaa
 
 
-## Internet of Things, esineiden internet
+## Esineiden internetin eli Internet of Things:in taustaa
 
 
 # TUTKIMUS
 
+## Meta (poistettava otsikko)
+Tässä luvussa pyritään kuvailemaan toteutetun tutkimuksen tavoitteet, menetelmät ja eteneminen.
 
 ## MAHD. Kuvaileva kirjallisuuskatsaus
-*Tarvitaanko tähän yleistä kuvailua kuvailevasta kirjallisuuskatsauksesta?*
+*Tarvitaanko tähän yleistä kuvailua kuvailevasta kirjallisuuskatsauksesta tutkimusotteena?*
 
 ## MAHD. Teemahaastattelu
-*Tarvitaanko tähän yleistä kuvailua teemahaastatteluista?*
+*Tarvitaanko tähän yleistä kuvailua teemahaastatteluista tutkimusotteena?*
 
 ## Tutkimuksen tavoitteet
 
@@ -64,9 +65,26 @@ Ensin tutustutaan osailmiöhin IoT, IIoT, AIoT ja kasvintuotanto, joiden määri
 
 # TUTKIMUSTULOKSET
 
+## Meta (poistettava otsikko)
+
+Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset *(koska kuvaileva, havainnot?)*. Kirjallisuuskatsauksen sekä teemahaastattelujen tulokset tarkastellaan ensin erikseen, jonka jälkeen kaikista tuloksista tehdään yhteenveto. Lopuksi esitellään vastaukset tutkimuskysymyksiin tuloksista tehtyjen havaintojen ja johtopäätösten perusteella.
 
 ## Kirjallisuuskatsauksen tulokset
 
+Kirjallisuuskatsauksessa löydettyjä kirjallisuuskatsauksia käytettiin sateenvarjokatsauksen tapaan. Kirjallisuuskatsausten tutkimus- ja hakumenetelmiä käytettiin malleina paranneltaessa omia vastaavia sekä katsausten tutkimustuloksia käytettiin verrokkeina omien havaintojen tarkistamisessa.
+
+Muiden katsausten, koosteiden ja vastaavien julkaisujen tuloksia, havaintoja ja tekstejä käytettiin niin ikään omien hakutulosten ja havaintojen verrokkeina sekä...
+
+Kirjallisuuskatsausten havainnot:
+Taustat
+IoT-määrittelyt
+Arkkitehtuurit
+IoT-ratkaisut auttavat
+Kirjallisuuden kuvailu
+Avoimet haasteet
+
+@talaveraReviewIoTApplications2017
+@verdouwInternetThingsAgriculture2016a
 
 ## Haastattelujen tulokset
 
@@ -79,6 +97,8 @@ Ensin tutustutaan osailmiöhin IoT, IIoT, AIoT ja kasvintuotanto, joiden määri
 
 # POHDINTA
 
+## Meta (poistettava otsikko)
+...
 
 ## Luotettavuus
 

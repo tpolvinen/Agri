@@ -409,7 +409,7 @@ Haastatteluissa saatavia tietoja verrattiin työn edetessä kirjallisuuteen sek�
 
 @talaveraReviewIoTApplications2017
 
-jakoivat kirjallisuuskatsausessa käsitellyt tutk
+jakoivat kirjallisuuskatsausessa käsitellyt tutkimukset:
 sovellusalueet, 
 käyttöönottoon vaikuttavat esteet ja avoimet haasteet, 
 ehdotus arkkitehtuurista (4 tasoa)
