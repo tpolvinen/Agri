@@ -901,3 +901,236 @@ Muistiinpanot:
         Tekijät uskovat IoT:n muuttavan alaa, rajusti parantaen tuottavuutta ja kestävyyttä.
         IoT auttaa viljelijöitä muuttamaan kohti datavetoista viljelyä, jota tukevat päätöksentekotyökalut ajankohtaisella ja tarkalla datalla.
         Tämän seurauksena/tuloksena maatilat voivat poiketa perinteisestä tuotanto-orientoituneesta, kustannushintavetoisesta (cost price driven), anonyymistä lähestymistavasta kohti arvoperustaista, informaatiorikasta lähestymistapaa jossa kysyntä ja tarjonta on jatkuvasti kohdennettu toisiinsa. Lopulta maatilat ja ruokatuotantoketjut voivat tulla itsemukautuviksi järjestelmiksi joissa älykkäät, itsenäiset objektit, mukaanlukien maataloustyökoneet, voivat toimia, päättää ja jopa oppia ilman paikan päällä tapahtuvaa tai etänä tehtävää ihmisen puuttumista.
+
+--------------------------------------------------------------------------------------------------
+
+# Selaimesta <15-05-2018  10:55>
+
+## IEEE haku (("Internet of Things") AND (agriculture OR "plant factory" OR "precision agriculture" OR "smart farming" OR "vertical farming" OR "plant factory" OR farm OR greenhouse))
+
+[https://ezproxy.haaga-helia.fi:2207/search/searchresult.jsp?queryText=((.QT.Internet%20of%20Things.QT.)%20AND%20(agriculture%20OR%20.QT.plant%20factory.QT.%20OR%20.QT.precision%20agriculture.QT.%20OR%20.QT.smart%20farming.QT.%20OR%20.QT.vertical%20farming.QT.%20OR%20.QT.plant%20factory.QT.%20OR%20farm%20OR%20greenhouse))&matchBoolean=true&pageNumber=5&searchField=Search_All]
+
+...
+
+Research on Traceability of Agricultural Products Based on Internet of Things
+Yongbin Zhao; Ning Cao
+2017 IEEE International Conference on Computational Science and Engineering (CSE) and IEEE International Conference on Embedded and Ubiquitous Computing (EUC)
+Year: 2017, Volume: 2
+Pages: 414 - 417
+
+Web-based monitoring of an automated fertigation system: An IoT application
+Shah Abd Hafiz Zainal Abidin; S. Noorjannah Ibrahim
+2015 IEEE 12th Malaysia International Conference on Communications (MICC)
+Year: 2015
+Pages: 1 - 5
+
+SMARTLEAF: sensing and control of plant growth conditions
+Carlos Miguel Carranza Villalobos; Paola Vanessa Zamora Alvarado; Sergio Arturo Morales Hernández
+2016 IEEE Central America and Panama Student Conference (CONESCAPAN)
+Year: 2016
+Pages: 1 - 6
+
+...
+
+## Prototyyppejä, kokeiluja, ehdotuksia
+
+### Internet of Things — Propagation modelling for precision agriculture applications
+
+[https://ezproxy.haaga-helia.fi:2207/document/7943528/]
+
+...advancement in IEEE 802.15.4 Wireless Sensor Network (WSN) technology has dramatically increased the volume and range of applications available under the umbrella of the Internet of Things (IoTs).
+
+... simple environmental data collectors to highly specific multimedia real-time applications demanding high Quality of Service (QoS) guarantees.
+
+...delivering QoS guarantees is difficult to achieve when deployed in a hostile environment such as that found in the Precision Agriculture (PA) industry.
+
+...models deliver the first phase of a Dynamic Network Management System for maintaining QoS guarantees in heterogeneous wireless networks.
+
+Verkon suunnittelusta, kokeita metsässä.
+
+### IOT-based drone for improvement of crop quality in agricultural field
+
+[https://ezproxy.haaga-helia.fi:2207/document/8301662/]
+
+Dronet ovat avuksi täsmäviljelyssä, ei juuri muuta asiaa. Yleistä lätinää: tulevilla teknologioilla tullaan tekemään juttuja.
+
+### WiField, an IEEE 802.11-based agricultural sensor data gathering and logging platform
+
+[https://ezproxy.haaga-helia.fi:2207/document/8304434/]
+
+WiField-järjestelmän protoilua oikeasti pellolla, Australia, puuvillantuotanto.
+
+A new agricultural sensor data logging platform (WiField) is described, based on IEEE 802.11 WiFi technology. It is low-cost, low-power, and achieves long (>2km) range communication to on-farm WiFi access points.
+
+WiField devices include interfaces for many sensor types; weather, infrastructure (tank and irrigation water levels), and soil status sensing. The interfaces and example corresponding sensors include SDI-12 (capacitive soil moisture probes), soil tension (matric potential), analog voltage and current, UART (water depth sensing using ultrasonic transducers with a digital interface), RS-422 (integrated weather stations), one-wire (DS18B20 temperature sensors) and pulse (flow meters, wind and rain sensors). It integrates solar charging of rechargeable batteries, or can be run off disposable batteries for at least an entire growing season due to design choices that minimize power consumption. It is designed to upload data to cloud services in real-time. The data is then processed in the cloud and interactive graphs are produced, so multiple users can access up-to-date information in order to make optimized, timely farming decisions. The use of the WiField devices in a cotton farming operation is described, for scheduling irrigations and determining crop water use through the soil profile.
+
+... Discussion: ... A natural extension of the WiField platform would be to add farm automation capabilities. This could be used to control irrigation actuators and channel gates. The loop from sensing to control could then be closed, allowing the optimization of automated irrigation systems. Such optimization is already a topic of active research [11], and the WiFi platform here could contribute because of its low cost and ease of connection to cloud-based analytics. ...
+
+#### Introduction
+
+There is increasing demand to improve agricultural productivity, with the world's population set to reach 9 billion by the middle of this century [1]. At the same time, there are competing demands on limited resources such as land and water. This has led to multi-disciplinary research on improving crop yields relative to inputs, such as water and fertilizer, while improving environmental sustainability. This research has involved agricultural scientists, geneticists, irrigation engineers, hydrologists, chemical engineers, among others. There is a demand to improve overall cropping productivity across fields, farms and countries.
+
+A crucial factor in this work is gathering data on the drivers of crop growth, including water, weather and soil properties. Being able to collect and process such data as cheaply, accurately and robustly as possible will enable more growers access to optimize day-to-day farming decisions. It will also provide researchers with the information needed to study crop yield versus inputs, thus allowing the overall productivity and profitability of farming operations to be maximized.
+
+Advances in electronics, communications, data analysis and visualization provides opportunities to greatly improve the volume and usefulness of data being gathered. The internet-of-things (IoT) revolution is of particular interest, as it is enabling low cost, low power consumption and highly scalable sensor networks to be deployed [2]. Example sensor data of interest is environmental data such as wind speed, solar radiation and rainfall; soil data such as moisture content, oxygen status and temperature; and plant data that indicate stress such as leaf temperature and sap flow. Having online access to this kind of data is enabling smarter farming decisions in terms of the timing and quantity of irrigation, fertilization and herbicide application. This can lead to improved outcomes in terms of yield, profit, and environmental management.
+
+Agricultural data has historically been gathered using expensive and dedicated sensors and loggers. Data had to be downloaded periodically and manually over wired interfaces, such as RS-232. This was cumbersome and inefficient, and did not facilitate real-time monitoring and sharing of data. More recently, sensors with wireless upload capability have been deployed. Some of these devices have a cellular connection per sensor. This results in high cellular subscription costs if many sensors are needed, and there are difficulties providing reliable connectivity in many farming areas with poor cellular coverage. Other systems use mesh or machine-to-machine networks such as Zigbee (based on IEEE 802.15.4), with a central gateway to the internet. Such networks have limited data rates, which means they are only useful for sensors with low bandwidth requirements. In addition, the end devices are not directly accessible through the internet, so remote software upgrade and debugging is difficult. When device updates are needed, expensive and time consuming travel to farm sites is required. Available wireless protocols are described in [3] and summarized in Table I. There are a number of upcoming longer range and lower power protocols such as LoRa [4] and 802.11 ah [5], which will be attractive in agricultural settings.
+
+The IEEE 802.11 a/b/n protocol (WiFi) has traditionally been considered too expensive, power hungry and short-range to be useful for agriculture sensor networks [6]. However, we see a number of distinct advantages of this technology. Firstly, WiFi is the wireless protocol of the internet - it is widely available in portable devices including those used in farming scenarios. Secondly, it supports high data-rates, which is becoming increasingly important in farming applications such as wireless cameras monitoring irrigation flow, and interaction with drone and satellite imagery. Such applications are not possible with low data-rate networks such as Zigbee. Thirdly, the transmission range is very workable in the outdoor on-farm scenario as will be demonstrated later in this paper. Thus, given that WiFi supports many applications of interest to farms, not only the wireless sensor network application, we considered it an attractive proposal to base a wireless data logging platform on it. It will be demonstrated that the perceived disadvantages of the WiFi protocol for farming applications can be overcome using thoughtful system and device design.
+
+This paper describes a new data gathering platform using WiFi, named WiField. It uses various techniques to provide a low-cost, low-power and flexible solution. It enables gathering data from a wide range of sensors, including soil properties and weather.
+
+...  Many devices have been deployed on farms both in Australia and South-East Asia, and the real-time data is being used by researchers and growers to study and improve crop productivity. Goanna Telemetry Systems1 are now providing the technology to commercial farming operations, monitoring soil moisture, rainfall, canopy temperature, water and fuel levels (rice paddy, storage, channel, tank), and weather stations.
+
+
+### Challenges and Opportunities for Sensor and Actuator Networks in Indian Agriculture
+
+[https://ezproxy.haaga-helia.fi:2207/document/8082603/]
+
+Yleistä silmäilyä teknologioihin, verkkostandardit ISO 11783, IEEE 1451, 6LoWPAN
+
+... This paper talks about various commercial solutions and emerging technologies, that can be integrated together to provide a pragmatic solution for the farm management. A brief description about prototype model for agro-ecological monitoring is also presented.
+
+### IoT-based System to Forecast Crop Frost
+
+[https://ezproxy.haaga-helia.fi:2207/document/8114645/]
+
+Prototyyppi hallavaroitusjärjestelmästä
+
+...The proposed system consists of an IoT-based network architecture in charge of the acquisition of weather attributes directly taken from the crop field. Additionally, our solution integrates a data processing system that forecasts crop frost considering not only the real weather attributes recovered from the network but also weather forecasts obtained from specialized services. The implemented prototype has been evaluated in a real farmland located in Murcia (Spain). The results demonstrate the viability of our system to accurately forecast the occurrence of frosts in a certain area and opens new research challenges that need to be addressed before obtaining a fully operational forecasting system.
+
+## JATKUU MYÖHEMMIN
+
+
+--------------------------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------------------------
+
+## SEURAAVAKSI:
+
+<02-05-2018  21:27>
+
+1. Sateenvarjokatsauksen loppuun vienti:
+    Luetaan kirjat, merkitään teemat ja aiheet niiltä osin kun tiedon arvellaan olevan tarpeellista omalle työlle. Merkitään muistiin myös assosiaatiot muihin lähteisiin.
+    Seuraavaksi sama muille katsauksille.
+    Asetellaan muistiinpanot luonnokseen.
+    Muokataan rakennetta samalla.
+2. Sitten teknologiasovellukset ja muut lähteet, jotka löydettiin dokumetoiduissa hauissa.
+3. Käydään läpi CEMA, IoF2020, AEF, Luke sekä muut mahdollisesti vastaan tulleiden toimijoiden julkaisut. Kirjoitetaan havainnot.
+4. Käydään läpi haastattelujen litteroinnit ja kirjoitetaan löydökset. Tarkistetaan oikeellisuus haastateltavien kanssa.
+5. Lisätään mahd. mukaan aikaisemmista vaiheista mukaan tulleet lähteet ja kirjoitetaan löydökset. Kirjoitetaan tulokset.
+6. Refaktoroidaan haastatteluprotokolla jos se tarvitaan mukaan työhön.
+7. Refaktoroidaan tutkimusongelma ja -kysymykset.
+8. Kirjoitetaan Johtopäätökset ja suositukset
+
+Mahdollinen rakenne:
+    Lähteiden hankinta
+    Metodit
+    Jaottelu
+
+## Kirjallisuus:
+
+* Internet of things: Principles and paradigms
+* Industry 4.0: The industrial internet of things 
+* Internet of Things - Global Technological and Societal Trends
+
+## Kirjallisuuskatsaukset:
+
+* Atzori: The Internet of Things: A survey 2010
+
+* Talavera: Review of IoT applications in agro-industrial and environmental fields @talaveraReviewIoTApplications2017
+
+* Verdouw: Internet of Things in agriculture
+@verdouwInternetThingsAgriculture2016a
+
+* Madakam: Internet of Things (IoT): A Literature Review
+* Kamilaris: A review on the practice of big data analysis in agriculture
+    Big Dataan tullaan mm. sensorien kautta, kun BD-tekniikat mahdollistavat aikaisemmin mahdottoman tiedonkäsittelyn.
+* Wolfert: Big Data in Smart Farming – A review
+* Xu: Internet of Things in Industries: A Survey
+* Rose: The Internet of Things (IoT): An Overview
+
+## Katsaukset:
+
+* Sundmaeker: Internet of Food and Farm 2020
+    Muistiinpanot:
+
+        "Surprise: Agriculture is doing more with IoT innovation than most other industries" - Jahangir Mohammed @SurpriseAgricultureDoing2014
+
+        Maatalous on elintärkeä Euroopan ruokkimiseksi terveellä tavalla, mutta Euroopalla on myös tärkeä rooli maailman ruoantuotannossa. Euroopan maataloussektorilla on laajat sosiaaliset ja kaupalliset vaikutukset 
+
+
+
+* Tzounis: Internet of Things in agriculture, recent advances and future challenges 2017
+* Pivoto: Scientific development of smart farming technologies and their application in Brazil
+* Farooq: A Review on Internet of Things (IoT) 2015
+* Gubbi: Internet of Things (IoT): A vision, architectural elements, and future directions 2013
+* Shaikh: Enabling Technologies for Green Internet of Things 2017
+* Khodadadi: Internet of Things: An Overview
+* Bo: The Application of Cloud Computing and the Internet of Things in Agriculture and Forestry
+* Sundmaeker: Vision and Challenges for Realizing the Internet of Things
+* Dlodlo: The internet of things in agriculture for sustainable rural development (2015)
+* Stočes: Internet of things (iot) in agriculture-selected aspects 2016
+* Motlagh: Low-Altitude Unmanned Aerial Vehicles-Based Internet of Things Services: Comprehensive Survey and Future Perspectives 2016
+* Fahran: A survey on the challenges and opportunities of the Internet of Things (IoT) 2017
+* Fantana: Internet of Things - Converging Technologies for Smart Environments and Integrated Ecosystems 2013
+* Sreekantha: Agricultural Crop Monitoring  using IOT- A Study 2017
+
+## Järjestöjen julkaisut
+...
+Beecham Research
+IoF2020
+    [http://www.iof2020.eu]
+    [http://www.iof2020.eu/latest/news/2018/05/satellites-offer-farm-support-from-outer-space]
+    [http://www.iof2020.eu/latest/news/2018/04/how-technologies-contribute-to-healthier-crops]
+    [http://www.iof2020.eu/latest/news/2018/03/how-iot-in-agriculture-provides-extensive-environmental-benefits]
+    [http://www.iof2020.eu/latest/news/2018/04/improved-decision-making-for-farmers-and-fishermen]
+        The DataBio consortium includes 48 partners from 17 countries. [https://www.databio.eu/en/]
+    [http://www.iof2020.eu/latest/news/2018/03/dss-for-agriculture]
+        "We have yet to fully exploit the potential of information technologies. ... decision support systems (DSS) which already have an important place within the precision agriculture approach."
+    [http://www.iof2020.eu/latest/news/2018/03/crucial-connectivity-for-rural-areas]
+    [http://www.iof2020.eu/latest/news/2018/02/preventing-droughts-with-iot]
+        "Smart water management technologies using data derived from sensors to monitor fields in real-time can help to mitigate the severity of droughts in the future."
+    [http://www.iof2020.eu/latest/news/2018/02/precision-farming-in-your-backyard]
+        FarmBot; Täsmäviljelyä takapihalla, ei tarvita suuria lohkoja. :)
+    [http://www.iof2020.eu/latest/news/2018/01/how-to-feed-9-billion-people]
+        Asian esittelyyn, linkit FAO-raporttiin, keskeiset tehtävät/strategiat.
+            "Combining those strategies and supporting them with the power of the Internet of Things (IoT) could ensure global food availability. At the same time, it would allow to lower water use and water pollution, decrease the emissions of CO2 and avoid further damage to biodiversity. Adopting of technologies such as precision farming can unlock the potential of boosting yields and better managing of resources. It can also improve farmers’ decision-making thanks to real-time data obtained from connected sensors in fields. And most importantly, it would better enable us to feed 9 billion people."
+    [http://www.iof2020.eu/latest/news/2018/01/urban-farming-a-response-to-rural-depopulation]
+    [http://www.iof2020.eu/latest/news/2017/12/cloud-computing]
+            "IoT devices generate large amounts of data when applied to agricultural settings, where their primary objective is to monitor/assess weather conditions, soil moisture, plant growth or animal health, amongst others."
+            "report titled ‘Global IoT Market in Smart Farming 2017-2021’"
+    [http://www.iof2020.eu/latest/news/2017/11/bridging-the-skills-gap]
+        Industry 4.0 -> Agriculture 4.0
+        McKinsey instituutin tutkimus näytti, että " farming had the lowest ICT penetration rate of all industries"
+        Miksi ei?
+            * laajakaista puuttuu
+            * korkeat hankintakustannukset, kuten variable rate systems (lannoitus, kasvinsuojelu)
+            * "low generational renewal in farming"
+            * DIGITEKNOLOGIOIDEN KÄYTTÖTAIDOT joiden avulla teknologioiden hankintakustannukset saadaan katettua.
+        Traktorien opastus/automaattiohjauksen hankinta on ok, variable rate -järjestelmät harvinaisia, koska kompleksisia käyttää.
+            Employment in agriculture (% of total employment) (modeled ILO estimate)
+            [https://data.worldbank.org/indicator/SL.AGR.EMPL.ZS?locations=DE&name_desc=false]
+            Saksan maatalous työllistää arvion mukaan vuonna 2017 1.285 % väestöstä, kun se vuonna 1991 oli 4.106 %. Suomessa vastaavat luvut ovat vuonna 2017 3.88 % ja vuonna 1991 8.891 %.
+        " the number of young people with a comprehensive understanding of farming has seen a substantial decline." Opettajilla on haasteita opettaa viljelylukutaidottomia oppilaita ja samaan aikaan tarjota oppilaille mahdollisuuksia päästä kiinni digitalisaation vallankumoukseen.
+Postscapes
+AEF
+
+
+
+## Teknologiasovellukset/prototyypit/ehdotukset tutkimuksessa
+...
+
+## Kaupalliset tuotteet ja julkaisut
+
+Valtra / AGCO
+IBM
+Intel
+Accenture
+CEMA
+
+Uusia <11-05-2018  16:27>  
+    John Deere Precision Planting
+    Oracle
