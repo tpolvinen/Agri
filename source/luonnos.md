@@ -42,8 +42,22 @@ Ensin tutustutaan osailmiöhin IoT, IIoT, AIoT ja kasvintuotanto, joiden määri
 
 ## Kasvintuotanon taustaa
 
+### Kasvintuotannon määrittely
+*Tähän kasvintuotannon määritelmä*
+
+### Kasvintuotannon historiaa
+
+*vallankumoukset, nykytilanteeseen johtavat kehityspolut*
+
+### Peltokasvituotanto, taustaa
+
+### Puutarhatuotanto, taustaa
+
+### Kasvihuonetuotanto, taustaa
 
 ## Esineiden internetin eli Internet of Things:in taustaa
+
+*Tähän IoT:n määritelmät, historia*
 
 
 # TUTKIMUS
@@ -76,6 +90,9 @@ Kirjallisuuskatsauksessa löydettyjä kirjallisuuskatsauksia käytettiin sateenv
 Muiden katsausten, koosteiden ja vastaavien julkaisujen tuloksia, havaintoja ja tekstejä käytettiin niin ikään omien hakutulosten ja havaintojen verrokkeina sekä...
 
 Kirjallisuuskatsausten havainnot:
+
+@talaveraReviewIoTApplications2017
+
 Taustat
 IoT-määrittelyt
 Arkkitehtuurit
@@ -83,8 +100,12 @@ IoT-ratkaisut auttavat
 Kirjallisuuden kuvailu
 Avoimet haasteet
 
-@talaveraReviewIoTApplications2017
+Kirjallisuuskatsauksessa käsitellyistä tutkimuksissa AIoT:tä käytetään eniten tarkkailuun (monitoring) 62 %. Toiseksi suurin osuus oli kontrollointi (control) 25 %, logistiikan (logistics) 7 % ja ennusteiden (prediction) 6 % ollessa esillä tutkimuksissa, mutta huomattavasti pienemmällä osuudella.
+
+
 @verdouwInternetThingsAgriculture2016a
+
+
 
 ## Haastattelujen tulokset
 
