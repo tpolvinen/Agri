@@ -233,7 +233,7 @@ Kuvaileva kirjallisuuskatsaus valittiin *metodin/tutkimusotteen?* mahdollistaess
 1. Paitsi tieteellisten julkaisujen myös ammattilehtien, valmistajien omien julkaisujen ja muiden vastaavien aiheeseen liittyvien lähteiden käsittelyn.
 2. Ilmiöihin liittyvien yhteyksien vapaan kuvailun ja haastatteluista saatujen tietojen kanssa dialogiin asettelun.
 
-Koska opinnäytetyön tarkoituksena on tehdä laadullinen yleiskatsaus rajatulla työmäärällä,  yksilöteemahaastattelu valittiin metodin [?] mahdollistaessa:
+Koska opinnäytetyön tarkoituksena on tehdä laadullinen yleiskatsaus rajatulla työmäärällä,  yksilöteemahaastattelu valittiin menetelmän [?] mahdollistaessa:
 1. Erilaisten informanttien haastattelun saman haastatteluprotokollan mukaan.
 2. Kunkin informantin oman erityisosaamisen ja kokemusten käsittelyn.
 3. Haastattelijan ja informantin keskinäisen yhteistyön ennen haastattelua sekä itse haastattelutilanteessa.
@@ -311,7 +311,7 @@ Kirjallisuuskatsauksen ja teemahaastattelujen tuottamaa tietoa käsitellään si
 
 Teemahaastattelun tutkimusmenetelmää käytetään yhdessä kuvailevan kirjallisuuskatsauksen kanssa trianguloimaan tutkimusaihetta.
 
-Aineiston keruumenetelmiä oli useita. Varsinaista tutkimustyötä edelsi ilmiöön tutustuminen erilaisia keruumenetelmiä testattaessa, keräämällä kontakteja, käyden asiantuntijakeskusteluja, vierailemalla alan tapahtumissa ja haastatteluja tehden. Varsinaisen tutkimustyön aluksi haettiin IoT:tä yleistasolla ja ilmiönä käsittelevää kirjallisuutta. Seuraavaksi käytettiin sateenvarjokatsausta, jolla haettiin ilmiötä käsitteleviä kirjallisuuskatsauksia. Valittujen kirjallisuuskatsausten pohjalta muotoiltiin omat hakumetodit ja valittiin osa lähteistä. Omien hakumetodien tuloksista on valittu tekijän harkinnan mukaan aihetta parhaiten kuvaavat. Lisäksi ollaan käytetty aiheeseen tutustuttaessa löydettyjä lähteitä jos ne ovat tekijän harkinnan mukaan olleet tähdellisiä aiheen käsittelylle ja ymmärryksen luomiselle.
+Aineiston keruumenetelmiä oli useita. Varsinaista tutkimustyötä edelsi ilmiöön tutustuminen erilaisia keruumenetelmiä testattaessa, keräämällä kontakteja, käyden asiantuntijakeskusteluja, vierailemalla alan tapahtumissa ja haastatteluja tehden. Varsinaisen tutkimustyön aluksi haettiin IoT:tä yleistasolla ja ilmiönä käsittelevää kirjallisuutta. Seuraavaksi käytettiin sateenvarjokatsausta, jolla haettiin ilmiötä käsitteleviä kirjallisuuskatsauksia. Valittujen kirjallisuuskatsausten pohjalta muotoiltiin omat hakumenetelmät ja valittiin osa lähteistä. Omien hakumenetelmien tuloksista on valittu tekijän harkinnan mukaan aihetta parhaiten kuvaavat. Lisäksi ollaan käytetty aiheeseen tutustuttaessa löydettyjä lähteitä jos ne ovat tekijän harkinnan mukaan olleet tähdellisiä aiheen käsittelylle ja ymmärryksen luomiselle.
 
 Tutkimuksen luotettavuutta pyritään parantamaan käyttämällä aineistotriangulaatiota: kirjallisuuskatsauksen tuloksia vertaillaan haastattelujen tuloksiin sekä tuodaan esille ammattijulkaisuissa, laitevalmistajien sekä muiden toimijoiden tiedotteissa, lehtiartikkeleissa jne. ilmestyneitä asiaan liittyviä asioita.
 
@@ -359,6 +359,8 @@ Käytetty hieman erilaisia hakulauseita eri kantoihin niiden vaatimusten ja toim
 
 *Tähän Talaveran katsauksesta + hakuliitteestä metodia*
 
+Aikaisemman vaiheen tuloksista valittiin joukko keskeisimmiksi arvioituja asiasanoja. Nämä asiasanat yhdistettiin löydettyjen kirjallisuuskatsausten tutkimusmenetel
+
 *Tuloksena kohtuullinen määrä tieteellisiä lähteitä.*
 Lähteiden joukosta on valittu aihetta käsittelevät kirjallisuuskatsaukset, joita käytetään sateenvarjokatsauksen omaisesti. Tällä pyritään varmistamaan, että kirjallisuudessa selkeästi havaitut teemat/asiat tulevat huomioiduksi myös tässä työssä sekä alkuperäistutkimusten hakumenetelmät ja käsitteet/asiasanat ovat laadukkaita ja aiheelle sopivia.
 
@@ -369,7 +371,7 @@ Kirjallisuuskatsausten käyttämät tietokannat:
     "*We searched in the Scopus database for papers that on the one hand include Internet of Things or IoT in the title and on the other hand agriculture, farming or food in the title, abstract or the keywords section. In addition, we used generic references on IoT and enabling technologies by using Google scholar especially searching for review articles that provide an overview of the application of specific enabling technologies in the agricultural domain.*"
 
 Löydettyjä kirjallisuuskatsauksia käytetään seuraavasti:
-Tiedon kattavuutta pyritään parantamaan hakemalla sateenvarjokatsauksen omaisesti aihetta käsitteleviä kirjallisuuskatsauksia. Hakutuloksista valituista kirjallisuuskatsauksista käydään läpi tutkimusmetodit joista löytyviä hakumenetelmiä käytetään hyväksi soveltuvin osin tämän työn seuraavissa tiedonhakuvaiheessa.
+Tiedon kattavuutta pyritään parantamaan hakemalla sateenvarjokatsauksen omaisesti aihetta käsitteleviä kirjallisuuskatsauksia. Hakutuloksista valituista kirjallisuuskatsauksista käydään läpi tutkimusmenetelmät joista löytyviä hakumenetelmiä käytetään hyväksi soveltuvin osin tämän työn seuraavissa tiedonhakuvaiheessa.
 
 ##### Keskeisten käsitteiden valinta
 
