@@ -663,6 +663,22 @@ Prototyyppi hallavaroitusjärjestelmästä
 
 ## SEURAAVAKSI:
 
+<17-05-2018  00:09>
+1. Keskeiset kirjallisuuskatsaukset muistiinpanoiksi luonnos/hahmotelmatekstiin.
+2. Haastattelujen litteroinnit muistiinpanoiksi luonnos/hahmotelmatekstiin.
+	3. Luonnostelmaan edellisistä saadut tulokset.
+	4. Lonnostelmaan alustava pohdinta, tutkimusmenetelmät, taustaa ja johdanto.
+
+Näistä voi kirjoittaa kokoon ensimmäisen versiot, josta nähdään onko suunta oikea.
+
+5. Loput kirjallisuuskatsaukset relevanteilta osin samoin muistiinpanoiksi luonnos/hahmotelmatekstiin.
+6. Muut katsaukset samalla mallilla.
+7. Keskeisimmät tieteelliset julkaisut, konferenssipaperit ja muut vastaavat, samoin.
+8. Organisaatioiden, järjestöjen, hankkeiden ja vastaavien julkaisut, samoin.
+9. Yhtiöiden, konevalmistajien ja vastaavien (Valtra, John Deere, IBM, Accenture…) julkaisut, samoin.
+10. Luonnostelmaan taas näistä kaikista saadut tulokset.
+11. Uusi pohdinta,  taustaa ja johdanto, tarvittavilta osin myös tutkimusmenetelmät.
+
 <02-05-2018  21:27>
 
 1. Sateenvarjokatsauksen loppuun vienti:

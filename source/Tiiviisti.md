@@ -519,12 +519,16 @@ Kuluttajavuorovaikutus
 *AIoT muut katsaukset ja vastaavat*
 *AIoT tutkimukset, tieteelliset julkaisut -ovatko konferenssipaperit tieteellisiä julkaisuja?*
 (*mahd. Harmaa kirjallisuus*)
-*AIoT Järjestöt, organisaatiot esim. Luke ja IoF2020*
+*AIoT Järjestöt, organisaatiot esim. Luke ja IoF2020, ehkä FAO*
 *AIoT Valmistajat, yhtiöt*
 *AIoT muut julkaisut*
 
 
 ## Haastattelujen tulokset
+
+### Haastattelu 1
+
+
 
 ## Haastatteluista saatujen tulosten vertailu kirjallisuuskatsauksen tuloksiin
 
