@@ -71,7 +71,7 @@ Toivottavasti Suomeen tulisi myös vastaavia järjestelmiä, koska tilojen kanna
 
 [00:40:33] OpenAG Data Alliance OADA ratkoo tiedon jakamisen ongelmia ja tuottaa standardeja.
 
-[00:40:50] Farm Mobile, [00:41:14] Farmer's Business Network FBN --Cropmarketing by inputs, financing, pricing, kaikessa tehdään yhteistyötä maatilojen välillä (FBN, Farm Mobile). Nämä kilpailuttavat yhdessä lannotteita ja kasvinsuojeluaineita. MTEC (ent. Laskentakeskus) on ottanut tämän idean ja toteuttanut Farmidiili -palvelun. Näistä voi seurata ja nähdä mikä tällaisessa järjestelyssä on hyvää ja huonoa.
+[00:40:50] Farmobile, [00:41:14] Farmer's Business Network FBN --Cropmarketing by inputs, financing, pricing, kaikessa tehdään yhteistyötä maatilojen välillä (FBN, Farmobile). Nämä kilpailuttavat yhdessä lannotteita ja kasvinsuojeluaineita. MTEC (ent. Laskentakeskus) on ottanut tämän idean ja toteuttanut Farmidiili -palvelun. Näistä voi seurata ja nähdä mikä tällaisessa järjestelyssä on hyvää ja huonoa.
 
 [00:42:54] Olisiko tulossa Eurooppaan, pohjoismaihin, Suomeen vastaavaa? Olisi ihme, jos pienet suomalaiset maatilat eivät hyötyisi tästä. Juuri kannattavuutta saataisiin arvon tunnistamisella. Monet maatilat ovat vain myyneet aina samalle toimijalle, esim. Hankkijalle, eikä kilpailuteta. Viljamarkkina ei ole ehkä halunnutkaan etsiä parasta hintaa. Jos viljelijät osaisivat tunnistaa laatuerät, niin laatuerille osattaisiin kilpailuttaa sen hyvän hinnan. Niin alkutuotantoonkin saataisiin ehkä lisäarvosta pieniä lisätuloja. Viljan laatuluokituksia on, mutta mittauksen tekee ostaja.
 

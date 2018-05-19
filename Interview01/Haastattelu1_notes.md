@@ -49,4 +49,65 @@ Perusautomatiikka on siis jo olemassa mutta systeemiautomaation eteen on tehtäv
 
 Tehdasutomaatiossa ja kotieläintuotannossa voidaan saada sensoreilta tarpeeksi eheää dataa, jotta sitä voidaan käyttää koneoppimiseen, mutta peltoviljelyssä järjestelmäintegraation kanssa on jouduttu työskentelemään niin pitkään, että vasta nyt eri järjestelmät alkavat toimia yhdessä. Tämän jälkeen voidaan jatkaa kehitystyötä varsinaisen datan käsittelelmisen kanssa kun eheää dataa on saatavilla.
 
-[00:38:34] ja siitä eteenpäin puuttuu vielä (?).
+OpenAG Data Alliance OADA ratkoo tiedon jakamisen ongelmia ja tuottaa standardeja.
+    * Farmer: Currently wrangling a myriad of data and forms, Farmers can join OADA in support gaining greater insight to data securely and efficiently.
+    * Academic: Leveraging vast amount of data for research and advancement is a challenge for universities. Learn how OADA can technology can help.
+    * Service Provider: Connecting producers, processors, advisors, software and equipment can be challenging.  OADA  helps to securely bridge the gaps.
+    * Developer: Join the team in creating the foundation for value creation that will drive the necessary exponential growth in the emerging ag data market. (Github "The Open Ag Data Alliance is an open project designed to bring interoperability, security, and privacy to agricultural data." [https://github.com/OADA])
+Farmobile [https://www.farmobile.com]
+Farmer's Business Network FBN [https://www.farmersbusinessnetwork.com]
+
+Sekä Farmobile että Farmer's Business Network kilpailuttavat tuotantopanoksia kuten lannoitteita ja kasvinsuojeluaineita viljelijöiden puolesta yhteishankintana, tuoden useiden yksittäisten viljelijöiden hankinnat yhteen. Mtech Digital Solutions Oy [https://www.mtech.fi/fi], entinen Suomen Maatalouden Laskentakeskus Oy soveltaa samankaltaista toimintamallia FarmiDiili-palvelussaan [https://www.mtech.fi/fi/farmidiili].
+
+Pienet suomalaiset maatilat hyvin todennäköisesti hyötyisivät Farmobile:n ja Farmer's Business Network:in kaltaisista palveluista, koska tuotannon kannattavuutta voidaan parantaa juuri arvon tunnistamisella. Viljelijä voisi parantaa tuotteensa arvon tunnistamista kilpailuttamalla ostajia. Tähän asti monet maatilat ovat myyneet tuotteensa aina samalle toimijalle kuten Hankkijalle ilman kilpailutusta, eikä viljamarkkina ole ehkä halunnutkaan etsiä parasta hintaa. Jos viljelijät osaisivat tunnistaa laatuerät, niin näille erille voitaisiin kilpailuttamalla saada parempi hinta ja näin parantaa tuotannon kannattavuutta. Tämä parantaisi myös viljelijän asemaa myyntineuvotteluissa, sillä vaikka viljan laatujärjestelmiä on olemassa niin mittauksen ja laatuluokituksen tekee ostaja.
+
+Tilojen määrän vähentyessä jäljelle jäävistä yhä suurempi osa tekee liiketoimintaa enemmän tosissaan, mikä voi alentaa uusien asioiden käyttöönoton kynnystä. Toisaalta suomalaiset viljelijät ovat tehneet investointeja hyvin harkiten ja välttämällä suuria kertainvestointeja. Samalla viljelijät ovat pyrkineet keskittämään hankintansa todistetusti toimivaan tekniikkaan ja sovittamaan toimintansa kulloinkin vallitseviin suhdanteisiin. Toimivuuden todistamiseen tarvitaan edelläkävijöitä jotka kokeilevat uusia tekniikoita ja jakavat kokemuksiaan. Kannustavalle neuvonnalle olisi tarvetta erityisesti uusien teknologioiden omaksumisessa ja tiedonjakamisessa. Samoin käytännönläheisen tiedon levittäminen ja neuvonta kustannuslaskelmien teossa, jotta voitaisiin arvioida perustellusti mikä kannattaa milläkin tilan toiminnassa.
+
+[00:46:54] Kokeillaan tästä eteenpäin lyhyesti:
+
+Avoimet standardit mahdollistavat liiketoimintalähtöisen valinnan investointien ajankohdalle, olosuhteiden otollisuuden mukaisesti.
+Digitaalisaation ja IoT:n myötä on mahdollista nähdä liiketoiminta uudesta näkökulmasta, niiden mahdollistaessa uusia vaihtoehtoja.
+Verkottuminen voi tuoda kilpailuttamiseen neuvotteluvoimaa.
+Tällä hetkellä ollaan siirtymässä ruutupaperilta dataan. Seuraavaksi viljelijöiden tulisi saada tuottamansa data omiin käsiinsä ja palvelut, jotka mahdollistaisivat tiedon vaihdannan, analytiikan, vertailut ja yhteisen liiketoiminnan. Tämä toimisi lähtökohtana markkinaperusteisille investointipäätöksille.
+
+Uusia standardiperusteisia teknologioita voidaan ottaa käyttöön asteittain pienissä paloissa. Standardien kuten ISOBUS etu on, että niitä on kehitetty pitkään ja maatalouden teollisuus on niihin sitoutunut.
+Voi tulla teknologioita, jolla asiat voi tehdä helpommin kuin CAN-väylää käyttäen, mutta omaksuminen tapahtuu hitaasti. *Laitteiden myyminen käyttöön on hidasta, koska käyttöikä on pitkä, yhteensopivuus pitäisi olla, investoinnin pitäisi oikeasti tuottaa paremmin juuri sillä tilalla ja tilat ovat valtavan erilaisia.* Tällä hetkellä tutkitaan standardisoinnissa teollista ethernettiä CAN-väylän sijaan. Jos uudet standardit tulevat käyttämään sitä, tulisi sen silti olla yhteensopiva ja käyttökelpoinen vanhojen laitteiden kanssa, esim. 30 vuotta vanha traktori.
+
+*Ei voi tehdä isoja investointeja -> pala kerrallaan -> pitää olla taaksepäin yhteensopiva -> käyttöikä voi olla 30 vuotta ja silti sen pitää toimia yhteen uusimman tekniikan kanssa -> standardin laatiminen on aikaavievää ja vaikeaa!*
+
+Standardien mukaiset laitteet ovat tietoturvallisempia teollisuuden kehittäessä myös sitä.
+Teollisuus ymmärtää, että asiakkaat loppuvat jos tietoturvasta ei pidetä huolta.
+Kun standardiin on sitoutunut koko teollisuus ja sitä on kehitetty 20-30 vuotta, niin myös viljelijät voivat siihen sitoutua *ja investoida standardin mukaiseen koneeseen*
+
+[00:49:28] ->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
