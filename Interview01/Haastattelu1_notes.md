@@ -99,6 +99,21 @@ Tämä prosessien hallinta olisi myös varautumista lmastonmuutoksen myötä uhk
 Vaikka tekniset ratkaisut voivat kuulostaa ympäristöihmisille teknokraattisilta ja vierailta, niillä voidaan parantaa tuotannon luontoystävällisyyttä.
 Historiallisesti ollaan toteutettu täsmäviljelyä jo hevosaikaan talikolla ja hiljaisella tiedolla, vähäisin panoksin. Tehostumisen ja nyt pinta-alaperustaisen EU-tuen myötä maatilojen koon on pakko ollut kasvaa, yhden ihmisen tulee voida käsitellä yhä suurempi peltopinta-ala samassa aikaikkunassa kuin aiemmin. Tämä on tarkoittanut, että koneiden koko on suurentunut, lohkoista on tehty suurempia, lohkoja on käsitelty samoilla tasasäädöillä, jolloin ollaan menetetty tuntuma ja täsmä viljelystä. "Nyt otetaan takaisin sitä tarkkuutta, mitä talikolla levitettäessä aikanaan toteutettiin."
 
+Ilman dataa ei oikein voi säätää mitään.
+Pienillä tiloilla ei ole ollut tähän asti mahdollisuuksia ottaa suuressa määrin käyttöön täsmäviljelyn ratkaisuita, jotka ovat olleet liian suuria investointeja ja liian vaikeakäyttöisiä.
+Toivon, että digitalisoinnin, pilvi- ja IoT-teknologioiden avulla saadaan ratkaisuista niin helppokäyttöisiä, että voidaan saavuttaa lisää hyötyjä kuten työn tehostuminen uuden liiketoiminnan myötä jotta täsmäviljelystä tulee kannnattavaa ja normaalia.
+Tämä on Smart Farming:ia, kutsutaan agriculture 4.0:ksi. Agriculture 3.0 jäi huonosti käytäntöön otetuksi välivaiheeksi ja on tarvittu nimenomaan tämä seuraava vaihe, missä smart/äly jotta myös edellisen vaiheen edut voidaan saada käyttöön.
+
+Viljelijät eivät lähde toteuttamaan täsmäviljelyä, koska sillä ei ole ollut juuri heille taloudellista perustetta.
+Osa viljelijöistä on edelläkävijöitä täsmäviljelyssä, mutta laajaan käyttöönottoon tarvitaan agriculture 4.0:n älykkäiden järjestelmien tuomat edut.
+
+Peltoviljelyssä ei tehdasmainen automaatioteknologioiden sovellus onnistu, toisin kuin kasvihuonetuotannossa. Kasvihuonetuotannossa voidaan soveltaa suoraan tehdasautomaatiota jo konseptitasolla.
+
+Langattoman viestinnän vaatiman kehitysajan takia peltoviljely on jäljessä. Peltoviljelyssä ei voi vetää kaapeleita koneisiin.
+Peltoviljelyssä mahdollistavat teknologiat ovat olleet mobiiliviestintä, mobiiliautomaatio, GPS, paikkatietojärjestelmät.
+*Käykö yksiin kirjallisuuskatsausten mahdollistajien kanssa?*
+
+
 
 
 
