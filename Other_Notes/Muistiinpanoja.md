@@ -799,6 +799,7 @@ IBM
 Intel
 Accenture
 CEMA
+365FarmNet https://www.365farmnet.com/en/
 
 Uusia <11-05-2018  16:27>  
     John Deere Precision Planting
