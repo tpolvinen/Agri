@@ -113,6 +113,21 @@ Langattoman viestinnän vaatiman kehitysajan takia peltoviljely on jäljessä. P
 Peltoviljelyssä mahdollistavat teknologiat ovat olleet mobiiliviestintä, mobiiliautomaatio, GPS, paikkatietojärjestelmät.
 *Käykö yksiin kirjallisuuskatsausten mahdollistajien kanssa?*
 
+Suomessa käytössä olevat maatalouden telemetriasovellukset perustuvat *matka*puhelinverkkoihin. Toiminnallisuuden takia, koska pellot ovat Suomessa pirstaleisia, pieniä ja hajallaan. Maatilan oman verkon rakentaminen olisi epäkäytännöllistä, mutta pihapiirissä saattaa olla wlan-verkko.
+
+Soilscout oli poikkeuksellinen oman verkkonsa kanssa, mutta sekin tukeutuu matkapuhelinverkkoon jos wlan ei yllä.
+Suomessa ollaan lähtökohtaisesti perustettu telemetriaratkaisut matkapuhelinverkolle.
+Drooneilla tehtävän kuvantamisen ja sen analytiikan kanssa on tarve saada kuvien analyysin käytännössä saman tien kun ollaan vielä pellolla. 5G-tekniikoista voisi olla hyötyä ison datamäärän viemisessä pilveen ja takaisin, jotta voitaisiin saada analyysi pellosta 10 minuutissa.
+
+3G ei sekään vielä kanna joka paikkaan mihin pitäisi, mikä on iso ongelma. Erityisesti suomalainen ongelma on maan pituus, peltojen pirstaleisuus ja sijainnit laaksopaikoilla, joissa kuuluvuus voi olla huono. Ukkoverkot voisi olla tähän potentiaalinen ratkaisu.
+
+Varmaankin ollaan menossa siihen, että tilojen määrän vähentyessä yksi tila hoitaa yhä suuremmalla alueella olevia peltoja automaation avulla. Sinne voisi tulla varastoja ja pientä prosessointia peltokeskittymän lähelle.
+Valvonnan telemetriapalveluille voi tulla vielä suuri kysyntä.
+
+
+
+
+
 
 
 
