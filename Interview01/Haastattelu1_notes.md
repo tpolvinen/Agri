@@ -124,11 +124,34 @@ Drooneilla tehtävän kuvantamisen ja sen analytiikan kanssa on tarve saada kuvi
 Varmaankin ollaan menossa siihen, että tilojen määrän vähentyessä yksi tila hoitaa yhä suuremmalla alueella olevia peltoja automaation avulla. Sinne voisi tulla varastoja ja pientä prosessointia peltokeskittymän lähelle.
 Valvonnan telemetriapalveluille voi tulla vielä suuri kysyntä.
 
+Viljelijät ovat nähneet tärkeäksi suoran yhteyden kuluttajiin. Lähiruoalla on kysyntää, samoin tiedolle ruoan alkuperästä ja tuotantomenetelmistä. Ruokaketju on suppilomainen, digitalisaation avulla voitaisiin kehittää keskusteluyhteyksiä *ja tiedonsiirtoa*.
+On visioitu ja digitaalisia yhteiskehittämisalustoja kuten VTT:n Owela, missä viljelijät voivat kehittää toimintaansa suorassa vuorovaikutuksessa kuluttajien kanssa. Tämän avulla voidaan myös lisätä kuluttajien tietoisuutta tuotteiden kulurakenteesta ja siitä, millainen osa hinnasta päätyy viljelijälle. Kuluttajat voivat vaikuttaa ruokaketjun tasa-arvoisuuteen valinnoillaan.
 
+Tiedonvälityksen kanavia voisi käyttää myös viestimään millaisia lannoitteita ja kasvinsuojeluaineita, millaista työtä siihen on tehty. Tämä olisi oikeaa dataa eikä vain mielikuvia.
+Vielä ei ole dataa. Voi olla hankalaa tuottaa kuluttajille ymmärrystä lannoituksesta lasketuille indikaattoreille, kun lannoitteiden käytöstä kuluttajilla yleensä ei ole ymmärrystä.
+Pitäisi pystyä selkeään kommunikointiin indikaattoreilla missä tuote on hyvä ja missä ei.
+Hinnoittelun pitäisi myös perustua dataan: laadulle laadun mukainen hinta.
 
+IoT-teknologian avulla voitaisiin mahdollistaa joustava mitattuun laatuun perustuva hinnoittelu. Jos data olisi jaossa, viljelijän prosessi voitaisiin viestiä tuotteeseen. Tällöin viljelijää ja hänen toimintaansa ei itse tarvitsisi tuntea, vaan sen saisi näkyville.
 
+Ongelmana on, että laatueriäkin myydään bulkkina ja suora yhteys kuluttajien ja viljelijöiden välillä tervehdyttäisi tilannetta. 
+Virtuaalimarkkinat mahdollistaisivat vaikka pop-up -laatuerän markkinoille tuottamisen. 
+Eikä suppilo voisi enää sanella ehtoja, kun vaihtoehtoisiakin reittejä olisi laatutavaran myymiselle parempaan hintaan. 
+Silloin keskuskaupatkin joutuisivat kilpailemaan laatutavaran saannista. Tämä tervehdyttäisi kuvion.
 
+Tämä ei kuitenkaan saa vaarantaa elintarvikejärjestelmien turvallisuutta.
+10-15 % tilojen tuotosta voisi olla oikeasti kilpailutettavaa laadukasta tuotantoa. Siitä viljelijät voisivat saada paremman tuoton.
 
+IoT-teknologiat ja digitalisaatio maataloudessa on tärkeässä roolissa ruokaturvan ylläpitämisessä. Smart Farming auttaa myös huoltovarmuuden parantamisessa.
+Tietoisuuden kasvaminen millaista ruokaa missäkin varastossa on, auttaa ruokaturvasta vastaavaa viranomaista tekemään päätöksiä varsinkin kriisitilanteessa.
+Paljon parempia ja nopeampia päätöksiä voidaan tehdä niukkojen resurssien allokoinnissa kun tieto on yksityiskohtaista ja digitaalisessa muodossa.
+
+Tietoon perustuvalla maanviljelyllä ilmastonmuutoksen aiheuttamiin muutostrendeihin päästäisiin kiinni. Esim. silmämääräisesti arvioituna satokoko voi muuttua huomaamatta.
+Hyönteisinvaasion päästään nopeammin käsiksi, samoin se voitaisiin mahdollisesti myös taltuttaa tai rajata nopeammin, kun nähdään missä oloissa invaasio tapahtuu.
+Väestönkasvuun voidaan vastata paremmin, kun olemme oman ruokamme tuottaja, emmekä kuluta muiden ruokaa, mikä on moraalinen velvollisuus. Jos oma tuotantomme on kannattamatonta, ei sitä enää jatketa, mikä vähentää ruoan tuotantoa *ja nostaa mahdollisesti ruoan hintaa markkinoilla vieden sitä heikoimpien ulottuvilta*.
+"Näen, että digitaalisuus tuo uusia liiketoimitamahdollisuuksia, jotta maatilat olisivat oikeasti kilpailukykyisiä ja kannattavia. Kannattavampia kuin tänä päivänä. Se olisi kaikin puolin tärkeätä."
+
+IoT-teknologioiden, digitalisaation, tietoon perustuvalla maanviljelyllä voidaan vastata joustavammin haasteisiin. "Pystytään reagoimaan kun on tietoa. Jos ei ole tietoa, ei voida reagoida."
 
 
 
