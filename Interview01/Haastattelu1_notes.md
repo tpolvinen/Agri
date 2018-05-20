@@ -79,7 +79,31 @@ Standardien mukaiset laitteet ovat tietoturvallisempia teollisuuden kehittäess�
 Teollisuus ymmärtää, että asiakkaat loppuvat jos tietoturvasta ei pidetä huolta.
 Kun standardiin on sitoutunut koko teollisuus ja sitä on kehitetty 20-30 vuotta, niin myös viljelijät voivat siihen sitoutua *ja investoida standardin mukaiseen koneeseen*
 
-[00:49:28] ->
+[00:49:28]
+
+Yleensä maatalousteknologian tutkimuksessa on 15 vuoden aikajänne, ehkä pidempikin.
+Laajaan käytäntöön tulee hitaasti, koska ratkaisujen pitää sopia ja toimia niin monelle.
+Poikkeuksia voi ilmetä, mutta ne eivät ole kokonaisuuden kannalta merkittäviä. Vain yksittäisten tiettyjen yritysten saavutuksia.
+Oman näkemykseni mukaan pyritään datan töihin laittamiseen: datan kerääminen, hyödyntäminen ja prosessien haltuunottoon.
+Prosessien tulee olla samaan tapaan hallussa peltotuotannossa, kasvihuonetuotannossa kuin tehtaissa.
+Prosessista tulisi tietää mihinkin kohtaan peltoa laitetaan ja paljonko siitö jäi käyttämättä, emissioriskit, saavutetut määrä ja laatu. Lisäksi meillä on tuotteen tarina sille nimenomaiselle tuotteelle mikä siitä kohtaa peltoa tuli. 
+Tarinalla voidaan saada lisäarvoa markkinoilla.
+Elintarvikeverkkoihin kytkeyessä tuote voi saada lisäarvoa.
+Sivuvirtojen paremmalla hallinnalla, johon liittyvät myös kierrätyslannoitteet ja muut kierrätysprosessit maataloudessa.
+Tuotteita voidaan käyttää myös energiatuotannossa, peltotuotteita tekstiiliteollisuudessa.
+Tuotteista voidaan saada myös eliksiirejä kemian tuotannossa.
+Oman näkemykseni mukaan prosessien paremmalla hallinnalla tuotannossa tarvittavia panoksia osataan säätää paremmin ja tarkemmin. 
+Mahdollisesti myös ekologian ymmärrys paranee, kuten maaperän mikrobien roolin huomioon ottaminen kestävyydelle, satoisuudelle ja riskien minimoinnille. Hyväkuntoisesta pellosta tulee aina jotain säästä huolimatta.
+Tämä prosessien hallinta olisi myös varautumista lmastonmuutoksen myötä uhkaaviin tauti- ja hyönteisinvaasioihin. Silloin tilannehallinta olisi paljon parempi. Prosesseja osattaisiin hallita ja riskejä torjua, jolloin tuotanto olisi paljon kestävämpi.
+*Vaikka uudet teknologiat voivat alkuvaiheen käyttöönotto- ja kokeiluvaiheissa näyttää herkästi rikkoutuvilta ja epäluotettavilta, niillä voidaan saavuttaa kestävämpi tuotanto. Kunhan kokemuksia kertyy ja ratkaisuista kehitetään luotettavia.*
+Vaikka tekniset ratkaisut voivat kuulostaa ympäristöihmisille teknokraattisilta ja vierailta, niillä voidaan parantaa tuotannon luontoystävällisyyttä.
+Historiallisesti ollaan toteutettu täsmäviljelyä jo hevosaikaan talikolla ja hiljaisella tiedolla, vähäisin panoksin. Tehostumisen ja nyt pinta-alaperustaisen EU-tuen myötä maatilojen koon on pakko ollut kasvaa, yhden ihmisen tulee voida käsitellä yhä suurempi peltopinta-ala samassa aikaikkunassa kuin aiemmin. Tämä on tarkoittanut, että koneiden koko on suurentunut, lohkoista on tehty suurempia, lohkoja on käsitelty samoilla tasasäädöillä, jolloin ollaan menetetty tuntuma ja täsmä viljelystä. "Nyt otetaan takaisin sitä tarkkuutta, mitä talikolla levitettäessä aikanaan toteutettiin."
+
+
+
+
+
+
 
 
 
