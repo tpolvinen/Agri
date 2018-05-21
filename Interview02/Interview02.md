@@ -48,7 +48,7 @@ Kyllä, kun monet yritykset tekevät omaansa, niin silloin standardisointi on...
 
 Onhan niitä olemassa jo, mutta laajamittainen käyttöön saaminen on riippuvainen alustojen kehityksestä ja saatavuudesta. Ihan niin nopeasti kuin koodarit koodaa.
 
- [00:11:46] Tarkoitatko että sensoriteknologia on jo, -Se on olemassa.- Toivotaan, että saadaan tietoverkko siihen, millä datamäärä saataisiin kannettua, se olisi paketissa?
+[00:11:46] Tarkoitatko että sensoriteknologia on jo, -Se on olemassa.- Toivotaan, että saadaan tietoverkko siihen, millä datamäärä saataisiin kannettua, se olisi paketissa?
 
 Kyllä, mutta jos ajatellaan USBia niin liikkuu se vielä silläkin. Mitä pidetään datan liikkumisena onko se pilvi vai usbi vai mikä.
 
