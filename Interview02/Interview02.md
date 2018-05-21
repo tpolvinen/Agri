@@ -91,7 +91,7 @@ Joo.
 
 Datassa isessään ei ole mitään...data on itsessään varmasti oikeaa. Jos on kalibroitu ja vertailukelpoista niin data on dataa. Mutta mitä datasta johdetaan, se on varmaan se isompi asia että me voidaan kuvata esim. kasvinviljelyssä erilaisia spektrejä ja onhan se oikeaa dataa, mutta mitkä ovat ne johtopäätökset ja meidän suositukset tuotantopanoksissa. Se vaatii jo koetoiminnan sinne tueksi ja sitten erilaisia kalibrointeja.  
 
-Jos datasta puhutaan, niin se on tarpeeksi eheää, mutta mitä siitä datasta johdetaan niin se on sitten hankalampi homma. Tai ei hankalampi, se vaan vaatii sen työn. Eli käytännössä mitä N-sensori ajattelee niin kaikki ne suositukset ja kaikki typpialgoritmit, vaihtelualgoritmit, niin ne perustuvat meidän koetoimintaan. Eli meillä on lukuisia ja lukuisia kalibrointikokeita ja lukuisia työtunteja ja kasvustonäytteitä  algoritmien takana. Suositukset jotka me sinne laitetaan ovat meidän itse testaamia.
+Jos datasta puhutaan, niin se on tarpeeksi eheää, mutta mitä siitä datasta johdetaan niin se on sitten hankalampi homma. Tai ei hankalampi, se vaan vaatii sen työn. Eli käytännössä mitä N-sensori ajattelee niin kaikki ne suositukset ja kaikki typpialgoritmit, vaihtelualgoritmit, niin ne perustuvat meidän koetoimintaan. Eli meillä on lukuisia ja lukuisia kalibrointikokeita ja lukuisia työtunteja ja kasvustonäytteitä algoritmien takana. Suositukset jotka me sinne laitetaan ovat meidän itse testaamia.
 
 [00:20:40] onko tässä taustalla sellainen prosessi uusien tutkimustulosten tullessa että käyttäjille annetaan valinta suositusten välillä, jotka perustuvat eri tutkimuksiin -vai onko suositus keskitetty?
 

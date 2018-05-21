@@ -3,6 +3,11 @@ Haastattelu 2 muistiinpanot
 tilanhallintajärjestelmä Farm Management System FMS
 viljelysuunnitteluohjelma
 rajapinta
+satopotentiaali
+satovaste
+satotappio
+sadonlisä
+
 
 Kasvintuotannossa ei olla ottamassa ihmistä pois päätöksenteosta, missään vaiheessa. Koneilla voidaan kyllä avustaa ja antaa mahdollisuus kanavoida resursseja paremmin.
 
@@ -48,13 +53,38 @@ Jos suomalaisessa maanviljelyssä ei saada otettua käyttöön uutta teknologiaa
 Esimerkiksi teknologian käyttöönotosta Yaran N-sensorin avulla saadaan Saksassa 6 % suurempia satoja ja samalla säästöjä panoksissa, Ruotsissa saman lukeman ollessa 4 %. Voisi ajatella, että *yhteisillä markkinoilla kilpaillessa* Suomessa tämä hävitään joka vuosi. 
 Lisäksi suomessa ei aina pystytä implementoimaan uusinta teknologiaa aikaisemman teknologisen kehitysvaiheen ollessa vielä kesken tai puuttuessa kokonaan. *!*
 
-Teknologiakehittäjien haasteena on käytettävyys *ja käyttäjäystävällisyys*. 
+Teknologiakehittäjien haasteena on käytettävyys *ja käyttäjäystävällisyys*. Viljelijän tulee pystyä helposti käyttämään tuotetta tai järjestelmää *tehokkaasti ja saaden siitä täyden hyödyn* oman osaamisensa avulla. Käyttöliittymien tulee olla yksinkertaisia ja yksiselitteisiä sekä tuotetun tiedon oikeaa, jotta sitä voidaan käyttää päätöksenteon ja suunnittelun tukena.
+Vaikka tarjolla on monenlaisia teknologioita, niiden tuottaman tiedon merkityksen *ja kausaliteettien* tulisi olla tarjoajan tiedossa *mutta näin ei aina taida olla?* 
+*Ilmeisesti tällä hetkellä järjestelmät voivat tuottaa tietoa päätöksenteon tueksi, mutta eivät vielä oppia toiminnasta, eivätkä ehdottaa viljelypäätöksiä, eivätkä tehdä päätöksiä autonomisesti?*
+
+Tuotetun datan eheydessä ei ole puutteita tai vikaa sinänsä, jos data on itsessään tuotettu kalibroiduilla sensoreilla ja data on vertailukelpoista.
+Datasta tehdyt johtopäätökset ja niiden tekemisen metodit ovat tärkeämpi asia.
+Kasvinviljelyssä on mahdollista kuvantaa erilaisia spektrejä ja saada tuloksena oikeaa dataa, mutta johtopäätöksien tekeminen ja niiden perusteella suositusten antaminen tuotantopanoksien käyttöön vaatii taustalle koetoimintaa tueksi (sekä erilaisia kalibrointeja).
+
+Johtopäätöksien tekeminen vaatii taustatyötä, mikä on vaikka N-sensorin tapauksessa muun muassa typpi- ja vaihtelualgoritmien kehittäminen. Ne perustuvat koetoimintaan, johon perustuvat johtopäätökset ja suositukset ovat testattuja.
+
+Yaran N-sensoria voidaan käyttää typen levittämiseen ja sen avulla saavutetaan tuloksia viljelyn kannattavuuteen, mutta vain jos viljelyn perusasiat ovat kunnossa. Hienokaan laite ei voi korjata puutteita viljelyn perusasioissa.
+Viljelyn perusasioiden parantamisen tukena on Yaran verkkosivuilla muun muassa laskureita.
+Koska kasvit ovat elävä organismi ja niitä pystytään mallintamaan vain rajallisesti, on hyvin tärkeää harkita tarkkaan mitä toimintoja ja päätöksiä prosesseista voidaan antaa koneiden tehtäviksi. Lisäksi viljelijän päätöksenteon tukena toimii parhaiten toinen ihminen.
+
+Tuotteiden ja teknologioiden käyttöönoton levinneisyyden ratkaisee lopulta kokeilut käytännössä. Toimimattomat ratkaisut hylätään.
+
+Suositusten väärinymmärryksen riski vältetään Yaran N-sensorin tapauksessa yksinkertaisella käyttöliittymällä, joka näyttää mitatun lannoitetarpeen typpikiloa per hehtaari -lukemana. Tällöin tiedon tulva ei näy käyttäjälle eikä viljelijällä ole tarvetta tutkia taustalla olevaa dataa, indeksejä ja algoritmeja. Näytettävästä tiedosta tulee tehdä ymmärrettävää ja väärinymmärryksestä johtuvasta ylireagoinnista ei ole vaaraa.
+Jos tiedetään miten eri tuotantopanokset vaikuttavat esimerkiksi satoon, voidaan arvioida laskennallisesti satopotentiaali ja satovaste. Näiden perusteella voidaan arvioida lisälannoituksen tarve tiettynä ajankohtana ja millainen satotappio voidaan kärsiä jos lisälannoitusta ei tehdä.
+
+Sensoriteknologia antaa mahdollisuuksia ulosmitata lohkolta saatavan satovasteen potentiaali tasaisesti. Tämä on menossa eteenpäin viljelijöiden keskuudessa.
+Toisaalta jos ei ole omaksuttu aikaisempaa teknologiakehitystä eli jaettua lannoitusta *(onko tämä variable rate?)* niin ei todennäköisesti omaksuta sensoriteknologian mahdollistamaa jaetun lannoituksen hallintaakaan. *Termit on nyt vähän hämärässä, tarkistettava!* 
+
+Viljelijät eivät oman näkemykseni mukaan todennäköisesti tee suuria teknologiaharppauksia tai hyppäyksiä kehitysvaiheiden yli.
+
+Viljelijöiden ja teknologiatoimittajien tulisi keskustella enemmän vallitsevasta tilanteesta ja teknologioiden tuomista mahdollisuuksista.
+
+Sadonlisää 
 
 
 
 
-
-
+MIKÄ ON TÄRKEÄÄ MINUN TUTKIMUKSELLENI?! VALITAAN SEN MUKAAN JA TÄYDENNETÄÄN MYÖHEMMIN!
 
 
 
