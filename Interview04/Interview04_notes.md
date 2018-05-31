@@ -109,12 +109,52 @@ Tilojen koko tulee varmasti kasvamaan, mutta Suomessa maatalousmaan hajanaisuus 
 
 Hajautetut suuret tilat eivät tuskin olisi kannattavia. 
 
-*tutkimus*
+*tutkimus, uhat*
 Tutkimme juuri nyt maatalouden tietoturvaa ja ylipäätänsä laitteistojärjestelmien kyberturvallisuutta, joka tulee olemaan maatiloilla kasvava ongelma.
-Myös maatalouden verkkoon kytkettyjä laitteita koskevat samat tietoturvauhat kuin muitakin teollisia järjestelmiä.
+Myös maatalouden verkkoon kytkettyjä laitteita koskevat samat tietoturvauhat kuin muitakin intertetiin kytkettyjä teollisia järjestelmiä.
 Kiristyshaittaohjelmalla voi hyvinkin haitata maatilan toimintaa, samoin kuin Saksan rautateitä. Vaikka taloudelliset tappiot voivat olla yksittäisellä tilalla tuotannon keskeytymisestä olla pienemmät kuin rautatieliikenteen pysähtymiten vastaavat, eläinten jatkuvan hoidon lamaantuminen tarkoittaa välittömästi eläinsuojelu-uhkaa. Loppujen lopuksi se on jostakin näkökulmasta katsoen vakavampi asia kuin ihmisten pääsy ajoissa töihin.
 
-[00:44:01] *IoT-uhat, vaikeudet*
+IoT-maailma on aika villi.
+IoT-laite ei tyypillisesti itsessään ole minkään arvoinen ilman siihen kytkettyä palvelua. Palvelun ollessa laitteen valmistajan oma niin laitteista voi tulla käyttökelvottomia valmistajan tehdessä konkurssin. Esimerkiksi Juiceron mehupuristimilla ei voinut enää tehdä mitään yrityksen tehtyä konkurssin ja lopetettua puristimiin sopivia hedelmäpusseja toimittaneen palvelun. Toinen mahdollinen esimerkki on kodinhallintajärjestelmä, jonka palvelun kautta voi käynnistää vaikka saunan lämmityksen tai sytyttää valot. Kun se palvelu, jolla näitä toimintoja hallitaan, ajetaan alas niin voiko sen jälkeen ylipäätään kodissa sytyttää valoja?
+
+Ei ole varmuutta nyt hankittavan laitteen toiminnasta tulevaisuudessa, mikä on IoT-pöhinän systemaattinen uhka.
+Jos ei ole varmuutta laitteen toimivuudesta sen elinkaaren ajan sitä ei voi käyttää toimintakriittisen järjestelmän osana, ei ainakaan niin, että järjestelmä ei enää toimi laitteen toiminnan lakatessa.
+Maatalouden toimintaympäristössä on erityisiä haasteita laitteiden rakenteille, joiden tulisi kestää likaa ja kulutusta. Lato tai karjasuoja on paljon likaisempi paikka kuin asunto tai muut sisätilat yleensä. Lisäksi laitteiden tulee kestää lämpötilan ja kosteuden vaihteluita, rottia lehmiä. Rotat voivat pureskella laitteita ja johtoja, lehmä voi nuolaista laitetta.
+
+*uudet toimintatavat*
+Maatilojen tekemä yhteistyö voisi saada uusia toimintamalleja.
+Tällä hetkellä maatilat tekevät järjestäytymätöntä yhteistyötä niin, että edistyneemmän viljejijän toimintatapa voi levitä naapuritilojen käyttöön. Samankaltaista yhteistyötä voitaisiin tehdä teknologisilla alustoilla.
+Alustaratkaisuiden kehittämisen haasteena on miten palvelusta voisi kehittää sellainen, että se oikeasti kiinnostaisi viljejijöitä. Periaatteessa tälläinen ratkaisu olisi viljejijöitä kiinnostava, koska he tekevät jo paljon yhteistyötä, tietojen vaihtoa jne.
+
+Palvelusta tulisi voida tehdä mukavampi käyttää kuin Whatsapp. Se on huono, mutta niin yleinen ja yleiskäyttöinen.
+Yhtä asiaa kuten tautipaineen havainnointia ja siitä viestittämistä varten tehtyjä sovelluksia tulisi niin monta, että yhden huonon sovelluksen käyttö on käytännöllisempää kuin monien *hyvien (?)*. Muutamia esimerkkejä: tautipainepalvelu, *yleinen toiminnan*suunnittelupalvelu, viljanostopalvelu, viljanmyyntipalvelu, lannoitteidenostopalvelu, ruiskutuskemikaalienostopalvelu, ruiskutuskemikaaliensuunnittelupalvelu jne.
+Järjestelmäintegraation lisäksi sovellusten ja palveluiden kirjo on muodostunut isoksi ongelmaksi, sekä miten nämä kaikki erilaiset toiminnallisuudet paketoitaisiin yhteen niin, että se olisi viljelijälle käytettävä. Tällä hetkellä tämän virkaa hoitaa maatalous- tai viljelyneuvoja, jolle voi soittaa. Se käyttöliittymä on edelleen hyvä ja älykäs monimuotoisiin *jos koodarille pitää speksata tarkkaan mitä pitää toteuttaa, monimuotoista järjestelmää on äärettömän kallis ja vaikeaa toteuttaa. Ehkä koneoppimisella?* asiantuntijajärjestelmiin ja monimuotoisiin tarpeisiin. Miten saataisiin kehitettyä käyttöliittymä, joka toimisi muutenkin kuin puhelinsoitolla asiantuntijapalveluun?
+
+*urbaaniviljely*
+Loppujen lopuksi viljelyssä syötteitä tulisi olla vähemmän kuin samaa tuotetta tehtäisiin muualla ja tuotaisiin se paikan päälle.
+
+Salaatti tarvitsee sähköllä tuotettua valoa, vettä ja ravinteita. Ravinteita tarvitaan salaattiin vähemmän kuin tuotetussa salaatissa on, koska syötteitä tulee muualtakin *(?)*.
+Kasvihuone- ja urbaaniviljelyssä ongelma on saada toiminnasta kannattavaa lopputuotteen vaatimilla syötteillä.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
