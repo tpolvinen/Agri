@@ -5,6 +5,7 @@ ISOBUS-standardi
 viljelysuunnittelujärjestelmä
 viljelysuunnitteluohjelmisto
 vendor lock
+Arvoerä
 AEF
 subscription-lisenssimalli
 UAV Unmanned Aviation Vehicle (?)

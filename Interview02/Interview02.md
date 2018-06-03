@@ -40,7 +40,7 @@ Kyllä, ja sitten niitä rajapintoja sitten eri järjestelmien kanssa haetaan. Y
 
 Kun tähän digitaaliseen maatalousmarkkinaan mennään tuotekehityksellä niin tottakai tulevaisuuden trendejä ennakoidaan.
 
-[00:09:22] Integraatio ja järjestelmärajapinnat, datavirtojen standardointi on  vielä työn alla.
+[00:09:22] Integraatio ja järjestelmärajapinnat, datavirtojen standardointi on vielä työn alla.
 
 Kyllä, kun monet yritykset tekevät omaansa, niin silloin standardisointi on...en kyllä ole asiantuntija sanomaan miten, miksi se on näin kehittynyt. Mutta Yara ja N-sensorin sensoritekniikan idea on ollut työkalu lisälannoitukseen ja lannoituksen tehokkuuteen. 20 vuotta sitten sen tullessa markkinoille ei ajateltu sen toimivan pilvessä ja siellä on rajapinta sun suunnitteluohjelmiin tai muihin järjestelmiin. Se ei ole teknisesti rakennettu sitä varten. Sitä työtä aletaan nyt tekemään Yarassa. 
 
