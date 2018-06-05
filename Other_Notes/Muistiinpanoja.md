@@ -658,21 +658,42 @@ Prototyyppi hallavaroitusjärjestelmästä
 --------------------------------------------------------------------------------------------------
 <05-06-2018  11:01>
 
-* Haastateltavan kuvailu AIoT:n ja maatalouden yleistilanteesta
-* Datan omistajuus ja saatavuus
+* Haastateltavan kuvailu AIoT:n ja maatalouden yleistilanteesta (1 2 3)
+	- tilamäärän peineneminen, tilakokojen kasvu (3)
+* Holistinen FMS (3)
+* Datan omistajuus ja saatavuus (1 2 3)
 * Datan jakamisen ja välittämisen alustajärjestelmät, mahdollisuudet jne.
+	- datan kerääminen erilaisista datalähteistä (2) ja järjestelmistä
+	- työtiedostojen vienti urakoitsijoille (1 2)
+	- dataa yhteisöllisesti jakavat palvelut/alustat (1 3)
+	- datavirtoja ja dataa jakavia järjestelmiä/alustoja (1)
 * Tiedon liikkuminen tuotantoketjussa (mahd. kuluttajalle asti) 
-	- tuottajien ja kuluttajien yhteys
-	- dataperustainen hinnoittelu 
+	- tuottajien ja kuluttajien yhteys (1)
+	- dataperustainen hinnoittelu (1)
 * Maatalouden alan laitevalmistajien välinen yhteistoiminta
-* AIoT-teknologioiden mahdollistama tuotannon lisäarvon mahdollisuudet, käyttöönoton motiivit
-* AIoT-teknologioiden käyttöönoton laajuus
-* AIoT:n rooli ruokaturvan parantamisessa
+	- eri valmistajien laitteet yhdessä (2)
+	- standardien käyttöönoton levinneisyys (2)
+	- laitevalmistajien asennemuutos (2) ja yhteistyö/kilpailu (1 3)
+* AIoT-teknologioiden vaikutukset (3)
+	- tuotannon lisäarvon mahdollisuudet (1?)
+ 	- käyttöönoton motiivit (1)
+	- työmäärän vähentäminen (2)
+	- arvoerillä lisäarvoa tuotannolle (1)
+	- hiljaisen tiedon välittäminen ja taitojen korvaaminen teknologialla (1)
+* AIoT-teknologioiden käyttöönoton laajuus (3)
+	- osa ei ota käyttöön, huolimatta sadonlisästä (2)
+	- teknologiset edistyksen tason vaihtelut (2)
+	- eteneminen käyttöönotossa pienin askelin (1)
+* AIoT-teknologioiden avoimet haasteet
+	- tietoliikenneyhteyksien merkitys ja haasteet (1 3)
+	- järjestelmäintegraatio (2 3)
+	- datan määrä, muoto, luotettavuus (2)
+	- huollon haasteet (3)
+	- protosta tuotteeksi (3)
+* AIoT:n rooli ruokaturvan parantamisessa (1 2 3)
 	- väestönkasvu ja ilmastonmuutos, ympäristön muutokset
 * Ihmisen/käyttäjän rooli AIoT-järjestelmien ohjaamisessa ja päätöksenteossa
-* AIoT-teknologioiden tavoitetila, tulevaisuuskuvat
-* Tietoliikenneyhteyksien merkitys ja haasteet
-* 
+* AIoT-teknologioiden tavoitetila, tulevaisuuskuvat (1 3
 
 
 Tutkimuskysymys ii:sta:
