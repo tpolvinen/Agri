@@ -656,6 +656,60 @@ Prototyyppi hallavaroitusjärjestelmästä
 
 
 --------------------------------------------------------------------------------------------------
+<05-06-2018  11:01>
+
+* Haastateltavan kuvailu AIoT:n ja maatalouden yleistilanteesta
+* Datan omistajuus ja saatavuus
+* Datan jakamisen ja välittämisen alustajärjestelmät, mahdollisuudet jne.
+* Tiedon liikkuminen tuotantoketjussa (mahd. kuluttajalle asti) 
+	- tuottajien ja kuluttajien yhteys
+	- dataperustainen hinnoittelu 
+* Maatalouden alan laitevalmistajien välinen yhteistoiminta
+* AIoT-teknologioiden mahdollistama tuotannon lisäarvon mahdollisuudet, käyttöönoton motiivit
+* AIoT-teknologioiden käyttöönoton laajuus
+* AIoT:n rooli ruokaturvan parantamisessa
+	- väestönkasvu ja ilmastonmuutos, ympäristön muutokset
+* Ihmisen/käyttäjän rooli AIoT-järjestelmien ohjaamisessa ja päätöksenteossa
+* AIoT-teknologioiden tavoitetila, tulevaisuuskuvat
+* Tietoliikenneyhteyksien merkitys ja haasteet
+* 
+
+
+Tutkimuskysymys ii:sta:
+	Miten AIoT:tä hyödynnetään kasvintuotannossa?
+	Per peltotuotanto, per puutarha/kasvihuonetuotanto
+	Kuinka laajaa käyttöönotto on?
+	Millaisia vaikutuksia AIoT-ratkaisuilla on?
+	Millaisia mahdollisuuksia AIoT-ratkaisut tuovat?
+
+Haastattelujen kysymysluonnoksista:
+	AIoT / maatalouden digitalisaation yleistilanne
+	AIoT vaikutus ruokaturvaan (ja muut tulevaisuuden haasteet: ilmastonmuutos ja väestönkasvu)
+	Kehityskulku tuotteiden ekosysteemiin, nykyinen tilanne ja mitä puuttuu vielä
+	Kentän / alan pirstaleisuus
+	Onko yleiskäyttöistä / holistista Farm Management System:iä olemassa
+	ISOBUS ja sen osuus AIoT:ssä ja maatalouden digitalisaatiossa
+	Omadata, datan omistajuus
+
+	* Yleiskuva
+	* Käyttöönoton tilanne
+	* Uhkat ja heikkoudet
+	* Keskeiset toimijat, kilpailutilanne
+	* Tulevaisuuskuva
+
+	Järjestelmien vs. koneiden pirstaleisuus/siiloutuneisuus/eristyneisyys
+	Läpinäkyvyys kuluttajalle asti / arvo- ruoka- tuotantoketjussa
+	Koneen ominaisuuksista datan tuoton ominaisuuksiin
+	Onko viljelijälle saatavilla holistista järjestelmää, oman datan käsittelyyn
+	Onko omaa dataa saatavilla, esim. rajapinnasta ja/tai automaattisesti
+	Tietoliikenneyhteyksien haasteet / tila
+	Mitä AIoT muuttaa
+		Onko mahdollisuus uusille liiketoimintamalleille/-käytännöille, joustavalle hinnoittelulle
+
+	Interview3
+		Standardisaation tilanne
+
+
 
 <03-06-2018  16:14>
 Kysymykset haastatteluista -> teemat otsikoiksi Haastattelujen tulokset -osioon:
@@ -807,12 +861,28 @@ Interview1
 		Voisiko tämä uudistaa ruokatuotantoa
 	Ruokaturvan parantaminen
 		väestönkasvu ja ilmastonmuutos, ympäristön muutokset
-	
+
 
 --------------------------------------------------------------------------------------------------
 
 Tutkimus on painottunut haastattelujen osalta peltotuotantoon. 
 Jatkotutkimuksessa puutarha- ja kasvihuonetuotannon asiantuntijoiden haastattelu olisi suositeltavaa kasvintuotannon kentän IoT-ratkaisuiden kokonaiskäsityksen syventämiseksi.
+
+--------------------------------------------------------------------------------------------------
+
+<04-06-2018  10:08>
+Täsmäviljelyä sekä pellolla että kasvihuoneessa:
+	Vaikka automaatio on yleisempää ja pidemmälle kehittynyttä kasvihuonetuotannossa, sensorien tuottaman tiedon perusteella tehtävät viljelypäätökset ja toimet täsmäviljelyssä ovat yhtä lailla täsmäviljelyä sekä pellolla että kasvihuoneessa.
+
+--------------------------------------------------------------------------------------------------
+
+Täsmäviljelyn määritelmä jostain
+
+
+AIoT osana täsmäviljelyä?
+AIoT osana IIoT:ä ja Industry 4.0:aa
+IIoT osana IoT:ä
+
 
 --------------------------------------------------------------------------------------------------
 
