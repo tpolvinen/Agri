@@ -12,7 +12,7 @@ Espoo
 
 Maatalouden IoTssä?
 
-1 käytäntöön asteitain case-by-case sovellus sovellukselta -myös haaste, ei ole mikä tahansa teollisuusprosessin digitalisointi.
+Käytäntöön asteitain case-by-case sovellus sovellukselta -myös haaste, ei ole mikä tahansa teollisuusprosessin digitalisointi.
 
 Kun se tapahtuu niin pikkuhiljaa kun tarjolle tulee sensoreita ja palveluja ja sovelluksia jotka ovat yhden toimittajan ja tarkoitettu vain johonkin tiettyyn osaan prosessia tai johonkin tiettyyn käyttöön. Seuraavaksi tulee joku toinen (tarkoittaako uuden palvelun/laitteen hankintaa vai rinnalle/seuraavaan prosessin kohtaan tulevaa?)
 

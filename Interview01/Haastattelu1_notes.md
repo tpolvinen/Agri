@@ -110,46 +110,46 @@ Osa viljelijöistä on edelläkävijöitä täsmäviljelyssä, mutta laajaan kä
 
 H1.36 Peltoviljelyssä ei tehdasmainen automaatioteknologioiden sovellus onnistu, toisin kuin kasvihuonetuotannossa. Kasvihuonetuotannossa voidaan soveltaa suoraan tehdasautomaatiota jo konseptitasolla.
 
-37 Langattoman viestinnän vaatiman kehitysajan takia peltoviljely on jäljessä. Peltoviljelyssä ei voi vetää kaapeleita koneisiin.
+H1.37 Langattoman viestinnän vaatiman kehitysajan takia peltoviljely on jäljessä. Peltoviljelyssä ei voi vetää kaapeleita koneisiin.
 Peltoviljelyssä mahdollistavat teknologiat ovat olleet mobiiliviestintä, mobiiliautomaatio, GPS, paikkatietojärjestelmät.
 *Käykö yksiin kirjallisuuskatsausten mahdollistajien kanssa?*
 
 38 Suomessa käytössä olevat maatalouden telemetriasovellukset perustuvat *matka*puhelinverkkoihin. Toiminnallisuuden takia, koska pellot ovat Suomessa pirstaleisia, pieniä ja hajallaan. Maatilan oman verkon rakentaminen olisi epäkäytännöllistä, mutta pihapiirissä saattaa olla wlan-verkko.
 
-39 Soilscout oli poikkeuksellinen oman verkkonsa kanssa, mutta sekin tukeutuu matkapuhelinverkkoon jos wlan ei yllä.
+H1.39 Soilscout oli poikkeuksellinen oman verkkonsa kanssa, mutta sekin tukeutuu matkapuhelinverkkoon jos wlan ei yllä.
 Suomessa ollaan lähtökohtaisesti perustettu telemetriaratkaisut matkapuhelinverkolle.
 Drooneilla tehtävän kuvantamisen ja sen analytiikan kanssa on tarve saada kuvien analyysin käytännössä saman tien kun ollaan vielä pellolla. 5G-tekniikoista voisi olla hyötyä ison datamäärän viemisessä pilveen ja takaisin, jotta voitaisiin saada analyysi pellosta 10 minuutissa.
 
-40 3G ei sekään vielä kanna joka paikkaan mihin pitäisi, mikä on iso ongelma. Erityisesti suomalainen ongelma on maan pituus, peltojen pirstaleisuus ja sijainnit laaksopaikoilla, joissa kuuluvuus voi olla huono. Ukkoverkot voisi olla tähän potentiaalinen ratkaisu.
+H1.40 3G ei sekään vielä kanna joka paikkaan mihin pitäisi, mikä on iso ongelma. Erityisesti suomalainen ongelma on maan pituus, peltojen pirstaleisuus ja sijainnit laaksopaikoilla, joissa kuuluvuus voi olla huono. Ukkoverkot voisi olla tähän potentiaalinen ratkaisu.
 
-41 Varmaankin ollaan menossa siihen, että tilojen määrän vähentyessä yksi tila hoitaa yhä suuremmalla alueella olevia peltoja automaation avulla. Sinne voisi tulla varastoja ja pientä prosessointia peltokeskittymän lähelle.
+H1.41 Varmaankin ollaan menossa siihen, että tilojen määrän vähentyessä yksi tila hoitaa yhä suuremmalla alueella olevia peltoja automaation avulla. Sinne voisi tulla varastoja ja pientä prosessointia peltokeskittymän lähelle.
 Valvonnan telemetriapalveluille voi tulla vielä suuri kysyntä.
 
-42 Viljelijät ovat nähneet tärkeäksi suoran yhteyden kuluttajiin. Lähiruoalla on kysyntää, samoin tiedolle ruoan alkuperästä ja tuotantomenetelmistä. Ruokaketju on suppilomainen, digitalisaation avulla voitaisiin kehittää keskusteluyhteyksiä *ja tiedonsiirtoa*.
+H1.42 Viljelijät ovat nähneet tärkeäksi suoran yhteyden kuluttajiin. Lähiruoalla on kysyntää, samoin tiedolle ruoan alkuperästä ja tuotantomenetelmistä. Ruokaketju on suppilomainen, digitalisaation avulla voitaisiin kehittää keskusteluyhteyksiä *ja tiedonsiirtoa*.
 On visioitu ja digitaalisia yhteiskehittämisalustoja kuten VTT:n Owela, missä viljelijät voivat kehittää toimintaansa suorassa vuorovaikutuksessa kuluttajien kanssa. Tämän avulla voidaan myös lisätä kuluttajien tietoisuutta tuotteiden kulurakenteesta ja siitä, millainen osa hinnasta päätyy viljelijälle. Kuluttajat voivat vaikuttaa ruokaketjun tasa-arvoisuuteen valinnoillaan.
 
-43 Tiedonvälityksen kanavia voisi käyttää myös viestimään millaisia lannoitteita ja kasvinsuojeluaineita, millaista työtä siihen on tehty. Tämä olisi oikeaa dataa eikä vain mielikuvia.
+H1.43 Tiedonvälityksen kanavia voisi käyttää myös viestimään millaisia lannoitteita ja kasvinsuojeluaineita, millaista työtä siihen on tehty. Tämä olisi oikeaa dataa eikä vain mielikuvia.
 Vielä ei ole dataa. Voi olla hankalaa tuottaa kuluttajille ymmärrystä lannoituksesta lasketuille indikaattoreille, kun lannoitteiden käytöstä kuluttajilla yleensä ei ole ymmärrystä.
 Pitäisi pystyä selkeään kommunikointiin indikaattoreilla missä tuote on hyvä ja missä ei.
 Hinnoittelun pitäisi myös perustua dataan: laadulle laadun mukainen hinta.
 
-44 IoT-teknologian avulla voitaisiin mahdollistaa joustava mitattuun laatuun perustuva hinnoittelu. Jos data olisi jaossa, viljelijän prosessi voitaisiin viestiä tuotteeseen. Tällöin viljelijää ja hänen toimintaansa ei itse tarvitsisi tuntea, vaan sen saisi näkyville.
+H1.44 IoT-teknologian avulla voitaisiin mahdollistaa joustava mitattuun laatuun perustuva hinnoittelu. Jos data olisi jaossa, viljelijän prosessi voitaisiin viestiä tuotteeseen. Tällöin viljelijää ja hänen toimintaansa ei itse tarvitsisi tuntea, vaan sen saisi näkyville.
 
-45 Ongelmana on, että laatueriäkin myydään bulkkina ja suora yhteys kuluttajien ja viljelijöiden välillä tervehdyttäisi tilannetta. 
+H1.45 Ongelmana on, että laatueriäkin myydään bulkkina ja suora yhteys kuluttajien ja viljelijöiden välillä tervehdyttäisi tilannetta. 
 Virtuaalimarkkinat mahdollistaisivat vaikka pop-up -laatuerän markkinoille tuottamisen. 
 Eikä suppilo voisi enää sanella ehtoja, kun vaihtoehtoisiakin reittejä olisi laatutavaran myymiselle parempaan hintaan. 
 Silloin keskuskaupatkin joutuisivat kilpailemaan laatutavaran saannista. Tämä tervehdyttäisi kuvion.
 
-46 Tämä ei kuitenkaan saa vaarantaa elintarvikejärjestelmien turvallisuutta.
+H1.46 Tämä ei kuitenkaan saa vaarantaa elintarvikejärjestelmien turvallisuutta.
 10-15 % tilojen tuotosta voisi olla oikeasti kilpailutettavaa laadukasta tuotantoa. Siitä viljelijät voisivat saada paremman tuoton.
 
-47 IoT-teknologiat ja digitalisaatio maataloudessa on tärkeässä roolissa ruokaturvan ylläpitämisessä. Smart Farming auttaa myös huoltovarmuuden parantamisessa.
+H1.47 IoT-teknologiat ja digitalisaatio maataloudessa on tärkeässä roolissa ruokaturvan ylläpitämisessä. Smart Farming auttaa myös huoltovarmuuden parantamisessa.
 Tietoisuuden kasvaminen millaista ruokaa missäkin varastossa on, auttaa ruokaturvasta vastaavaa viranomaista tekemään päätöksiä varsinkin kriisitilanteessa.
 Paljon parempia ja nopeampia päätöksiä voidaan tehdä niukkojen resurssien allokoinnissa kun tieto on yksityiskohtaista ja digitaalisessa muodossa.
 
-48 Tietoon perustuvalla maanviljelyllä ilmastonmuutoksen aiheuttamiin muutostrendeihin päästäisiin kiinni. Esim. silmämääräisesti arvioituna satokoko voi muuttua huomaamatta.
+H1.48 Tietoon perustuvalla maanviljelyllä ilmastonmuutoksen aiheuttamiin muutostrendeihin päästäisiin kiinni. Esim. silmämääräisesti arvioituna satokoko voi muuttua huomaamatta.
 Hyönteisinvaasion päästään nopeammin käsiksi, samoin se voitaisiin mahdollisesti myös taltuttaa tai rajata nopeammin, kun nähdään missä oloissa invaasio tapahtuu.
 Väestönkasvuun voidaan vastata paremmin, kun olemme oman ruokamme tuottaja, emmekä kuluta muiden ruokaa, mikä on moraalinen velvollisuus. Jos oma tuotantomme on kannattamatonta, ei sitä enää jatketa, mikä vähentää ruoan tuotantoa *ja nostaa mahdollisesti ruoan hintaa markkinoilla vieden sitä heikoimpien ulottuvilta*.
 "Näen, että digitaalisuus tuo uusia liiketoimitamahdollisuuksia, jotta maatilat olisivat oikeasti kilpailukykyisiä ja kannattavia. Kannattavampia kuin tänä päivänä. Se olisi kaikin puolin tärkeätä."
 
-49 IoT-teknologioiden, digitalisaation, tietoon perustuvalla maanviljelyllä voidaan vastata joustavammin haasteisiin. "Pystytään reagoimaan kun on tietoa. Jos ei ole tietoa, ei voida reagoida."
+H1.49 IoT-teknologioiden, digitalisaation, tietoon perustuvalla maanviljelyllä voidaan vastata joustavammin haasteisiin. "Pystytään reagoimaan kun on tietoa. Jos ei ole tietoa, ei voida reagoida."
