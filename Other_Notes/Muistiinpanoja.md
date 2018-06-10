@@ -1056,3 +1056,138 @@ Uusia <11-05-2018  16:27>
     Oracle
 
 
+---------------------------------------------------------------------------------------------------
+
+<09-06-2018  17:16>
+
+# Haastattelujen tulokset teemoittain
+
+## Haastateltavan kuvailu AIoT:n ja maatalouden yleistilanteesta
+
+H1.1 Maatalouden kenttä on hyvin hajanainen ja pirstaleinen.
+
+H3.1 Hyvin sekava yleistilanne. Keskuskoneista tilakohtaisiin PC-mikroihin ja nyt takaisin verkkoon, samoin kuin yleisissä sovelluksissa.
+
+H3.2 Uusi tilanne on, että laitteet ovat liittymässä tilan tuotantokoneisiin, mistä kerätään tuotantotietoa ja laitteita ohjataan kerätyn tiedon perusteella.
+Verkottuminen on alussa mutta selkeä suunta.
+
+H3.3 Laitteisiin on tulossa enemmän anturointia ja verkkoliikenne toimii muutoin kuin SMS-viesteillä.
+
+H5.1 Maatalouden IoT-ratkaisuissa ollaan murroksen partaalla, jossa analogisista hevosvoimia tuottavista laitteista ollaan siirtymässä digitaalisiin *tietoa tuottaviin ja käsitteleviin* laitteisiin.
+
+H5.1 Maatalouden toimintaan ollaan nyt vaatimassa samankaltaisia toiminnallisuuksia kuin muualla, esim. mobiilikäyttöliitymät, -sovellukset, sosiaalinen verkostoituminen laitteiden ja sovellusten avulla.
+
+H5.3 Maatalouden alalla ollaan IoT-teknologian murroskohdassa ja vasta harjoittelemassa ensimmäisten teknologiasovellusten käyttöä. Laitteet ovat tässä vaiheessa keskenään yhteensopimattomia, telemetriatuotteet toimivat selkeästi erillään FMS-ratkaisuista.
+
+H4.1 Tällä hetkellä maatalouden IoT-teknologioissa on jo valmiina useita erillisiä teknologiaratkaisuita, joita voidaan ottaa käyttöön ja riippuen maatalouden osa-alueesta jossain määrin on otettu käyttöön.
+"Vapaa, avoin, järjestelmien välinen yhteistyö ja dataintegraatio on vielä vaikeaa."
+
+H1.1 Teknologioita otetaan käyttöön yksittäin, tapaus tapaukselta, eikä viljelyprosessien digitalisointi toimi samalla tavoin kuin teollisuuden prosessien kanssa. On hyvin vaikeaa tehdä kattavia yksittäisiä ratkaisuja jonka voisi ostaa kerralla ja joka kattaisi koko viljelyprosessin.
+
+H4.2 Verrattuna tilanteeseen neljä vuotta sitten, nyt saadaan enemmän kytkettyä laitteita vapaasti toisiinsa.
+On suuria ongelmia saada kiinteät laitteet, liikkuvat työkoneet, viljelysuunnitteluohjelmistot, sensorijärjestelmät ja ulkopuolisten tahojen tarjoamat datalähde tai -analyysipalvelut toimimaan yhdessä, jakamaan dataa ja tietoa niin, että sitä pystyisi helposti käyttämään maatilan toiminnan parantamisessa.
+
+H3.4 Tällä hetkellä käytössä olevat laitteet osaavat puhua toisilleen hyvin vähän.
+Tätä tarkoitusta varten ei ole oikeastaan muita standardeja kuin ISOBUS.
+Muitten kuin ISOBUS-standardia käyttävien laitteiden käytössä on ratkaisuja, jotka ovat sovelmia muista standardeista eivätkä ne ratkaisut ole millään tavalla toimialan de facto -standardeja.
+Järjestelmien välisessä tiedonsiirrossa on käytössä jäsentymättömiä Comma Separated Value (CSV) -pohjaisia ratkaisuita.
+
+H4.5 ISOBUS-standardi on ratkaissut pitkälle työkoneiden yhteenliitettävyyden ongelman ja nyt kehityskulku on menossa kohti seuraavaa vaihetta, missä työkoneet liitetään osaksi jotain isompaa järjestelmää.
+
+H2.5 Tällä hetkellä keskitytään eri tahojen eri tarkoituksiin keräämien tietojen yhdistämiseen, tiedolliseen käyttämiseen ja jakamiseen eri toimijoiden kesken.
+
+H2.5 Peltokasvintuotannon tavoitetila mihin pyritään on monien teknisten rajoitteiden takana. Dataa pystytään keräämään suuria määriä, mutta sen siirtämiseen ei ole infrastuktuuria.
+Oman ymmärrykseni mukaan reaaliaikainen järjestelmien välinen (pellolta kerätyn) datan siirto ei suuren datamäärän takia vielä ole teknisesti mahdollista.
+
+H1.3 Kasvihuoneet ovat myös samankaltaisia tehdasmaisia laitoksia, niiden tapauksessa ollaan voitu soveltaa olemassaolevan teollisuusautomatiikan ratkaisuja, joihin automatiikan ja tietoverkkojen asennus ja käyttö on ollut verrattain helppoa. Tosin teollisuusautomaatiota on tässä tapauksessa jouduttu muokkaamaan käyttäjäystävällisemmäksi, jotta viljelijä voi hallita järjestelmää omalla osaamisellaan eikä hänellä tarvitse olla käyttöinsinöörin taitoja.
+
+H4.17 Kasvihuonetuotannon ja kasvitehtaiden IoT-ratkaisuiden kehitys käy kuumana, mutta itse odotan muita kuin salaatin kasvatusta.
+
+H1.4 Suomessa on pitkälle tutkittu suljettuja kasvihuoneita, jotka ovat myös hyvin pitkälle automatisoituja ja monikerrosviljelyratkaisuita. (Monikerrosviljelyllä tarkoitetaan useissa päällekkäisissä tasoissa tapahtuvaa viljelyä, mikä eroaa tavallisen kasvihuoneen yhdessä tasossa tapahtuvasta viljelystä.) Nämä ratkaisut voidaan rinnastaa tehdasautomaatioon ja useat monikerrosviljelyratkaisut perustuvat teollisuusautomaation ratkaisuihin. Samoin kuin muussa teollisuusautomaatiossa, nämä monikerrosviljelyjärjestelmät voivat (yleensä) havaita itse siinä ilmeneviä vikoja ja lähettää huoltokutsuja tarvittaessa.
+
+H1.36 Peltoviljelyssä ei tehdasmainen automaatioteknologioiden sovellus onnistu, toisin kuin kasvihuonetuotannossa. Kasvihuonetuotannossa voidaan soveltaa suoraan tehdasautomaatiota jo konseptitasolla.
+
+H5.15 Tärkeintä olisi asiakkaiden saaminen tekemään käyttöönottoja ja käyttökokemuksien perusteella tehdä tuotekehitystä. Asiakas- ja käyttäjälähtöisellä kehittämisellä voidaan päästä nyt nousevan ensimmäisen digitalisaation aallonharjan ylitse. 
+Tämän aallonharjan ylitse pääsyn vaatimien ponnistelujen jälkeen voidaan jatkaa kehittämistä saatujen kokemusten ja näkemysten viitoittamaan suuntaan.
+
+H5.15 Maanviljelijöiden digitalisaatioharppaus etenee pienillä askelilla kunkin viljejijän oman harkinnan ja oman toiminnan yksilöllisten tarpeiden mukaisesti. Toiminnasta kukin viljejijä havainnoi millaisia hyötyjä ja etuja uudet teknologiasovellukset tarjoavat.
+
+H1.2 Osa viljelijöistä aktiivisesti etsii ja ottaa käyttöön uusia teknogioita toimintansa tehostamiseksi, osa taas ei ottaisi niitä käyttöön vaikka niitä tarjottaisiin valmiina ratkaisuina.
+
+H1.2 Maatilat ovat yksittäistapauksia: tuotantosuunniltaan, tilakooltaan, henkilöstöltään, historialtaan, teknologiatasoltaan, teknologiaorientoitumiseltaan hyvin erilaisia. Kentällä on otettu digitaalisia työkaluja käyttöön hyvin vaihtelevasti.
+
+H5.1 Toiminnan digitalisaatioon, telemetriaan, Farm Managementiin, laitteiden käytön projekteja on yhtä aikaa menossa useilla keskeisillä laite/konevalmistajilla. Nämä osa-alueet edustavat uuden aallon huippua ja niiden on katsottu olevan tärkeitä.
+
+H5.1 Asiakkaat haluavat ymmärtää miten heidän omaa toimintaansa voidaan parantaa, miten nykyisestä peltopinta-alasta pystyttäisi hankkimaan enemmän, tehokkaammin, pienemmillä kustannuksilla ollen ensimmäisinä toimijoina uudella markkina-alueella.
+
+H5.1 Laitteiden tuottama data -> mitä toimintoja on suoritettu, miten laitteita on käytetty.
+FMS -> päätellään miten toimintaa ja prosesseja voitaisiin parantaa
+
+H5.1 Miten tehdään enemmän ja miten tehdään tehokkaammin - nämä lähestymistavat ovat selkeimmin esillä.
+
+H1.10 Täsmäviljelyssä pyritään asettamaan jokaiseen pellon neliöön vain sen tarvitsema panos eikä yhtään enempää, jolloin suurilla peltopinta-aloilla toimittaessa voidaan täsmäviljelyn vaatiman järjestelmähankinnan hankintakustannukset kattaa jo kolmessa vuodessa saavutettavilla lannoitesäästöillä. Tämä on tullut mahdolliseksi tarvittavien teknologioiden leviämisen ja hintojen alenemisen myötä, jolloin niistä on tullut ns. perusteknologiaa.
+
+H5.2 Valtra on lähtenyt kaupallistamaan ensimmäistä traktorien ja huollon toimintojen telemetriaan perustuvaa IoT-ratkaisua, mikä on saanut hyvän vastaanoton ja jota asiakkaat ovat pitäneet ehdottoman tarpeellisena.
+
+H5.2 Pyritään helpottamaan viljelijän työtä myös muistuttamalla tarpeellisista toimenpiteistä, jotka päivittäisessä työskentelyssä liittyvät kasvibiologian, koneiden operoinnin ja huollon, meteorologian, liiketoiminnan soveltaviin toimintoihin.
+
+H1.11 Pienillä peltopinta-aloilla toimittaessa tulee täsmäviljelyn vaatima lisäinvestointi koneiden hinnassa kattaa työn tehostamisella. Työtehoa saadaan yleensä lisättyä työkoneiden automaattiohjauksella ja telemetriatoimintojen avulla toimivan ennakoivan huollon sekä vikadiagnostiikan avulla. Telemetriapalveluista saadaan myös analytiikan avulla tietoa paitsi koneiden myös tuotantoprosessien tilasta, jolloin toimintaa voidaan optimoida parempien tulosten saavuttaamiseksi. Tällaisia etuja on aikaisemmin saatu vain full-liner -järjestelmien avulla, mutta nyt vastaavia tietoja tuottavia järjestelmiä on tullut markkinoille myös full-liner -ratkaisuiden ulkopuolelle. Oman työn tehostumisen lisäksi säästöjä voidaan saavuttaa myös tehokkaammalla urakoitsijoiden käytöllä, kun töiden ohjeistaminen tehdään digitaalisesti esimerkiksi työtiedostoilla. 
+
+H5.2 Valtra/AGCO pyrkii ratkaisulla lähempään kumppanuuteen IoT-ratkaisuiden molemminpuolisten etujen kautta.
+
+H4.4 Viljelijän toiminnan luonteen muuttumiseen tulee kiinnittää huomiota. Rooli peltotöiden suorittajasta on muuttumassa "manageriksi" ja tilan toiminnan hallinnoijaksi.
+Tällöin viljelijä on aika kaukana itse pellosta ja pellolla vallitsevasta tilanteesta robotin suorittaessa peltotyön viljelijän puolesta. Tämä vaikuttaa pitemmällä tähtäimellä viljelijän ammattitaitoon ja lyhyellä aikavälillä viljelijän tilannetietoisuuteen pelloilla vallitsevasta tilanteesta.
+
+H1.33 ... Historiallisesti ollaan toteutettu täsmäviljelyä jo hevosaikaan talikolla ja hiljaisella tiedolla, vähäisin panoksin. Tehostumisen ja nyt pinta-alaperustaisen EU-tuen myötä maatilojen koon on pakko ollut kasvaa, yhden ihmisen tulee voida käsitellä yhä suurempi peltopinta-ala samassa aikaikkunassa kuin aiemmin. Tämä on tarkoittanut, että koneiden koko on suurentunut, lohkoista on tehty suurempia, lohkoja on käsitelty samoilla tasasäädöillä, jolloin ollaan menetetty tuntuma ja täsmä viljelystä. "Nyt otetaan takaisin sitä tarkkuutta, mitä talikolla levitettäessä aikanaan toteutettiin."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

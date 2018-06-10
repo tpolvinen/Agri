@@ -590,22 +590,23 @@ H2.30 Voin kuvitella, että tilakokojen kasvaessa ja tilojen määrän pienentye
 
 
 ##### H3
-1 Hyvin sekava yleistilanne. Keskuskoneista tilakohtaisiin PC-mikroihin ja nyt takaisin verkkoon, samoin kuin yleisissä sovelluksissa.
 
-2 Uusi tilanne on, että laitteet ovat liittymässä tilan tuotantokoneisiin, mistä kerätään tuotantotietoa ja laitteita ohjataan kerätyn tiedon perusteella.
+H3.1 Hyvin sekava yleistilanne. Keskuskoneista tilakohtaisiin PC-mikroihin ja nyt takaisin verkkoon, samoin kuin yleisissä sovelluksissa.
+
+H3.2 Uusi tilanne on, että laitteet ovat liittymässä tilan tuotantokoneisiin, mistä kerätään tuotantotietoa ja laitteita ohjataan kerätyn tiedon perusteella.
 Verkottuminen on alussa mutta selkeä suunta.
 
-3 Laitteisiin on tulossa enemmän anturointia ja verkkoliikenne toimii muutoin kuin SMS-viesteillä.
+H3.3 Laitteisiin on tulossa enemmän anturointia ja verkkoliikenne toimii muutoin kuin SMS-viesteillä.
 
-4 Tällä hetkellä käytössä olevat laitteet osaavat puhua toisilleen hyvin vähän.
+H3.4 Tällä hetkellä käytössä olevat laitteet osaavat puhua toisilleen hyvin vähän.
 Tätä tarkoitusta varten ei ole oikeastaan muita standardeja kuin ISOBUS.
 Muitten kuin ISOBUS-standardia käyttävien laitteiden käytössä on ratkaisuja, jotka ovat sovelmia muista standardeista eivätkä ne ratkaisut ole millään tavalla toimialan de facto -standardeja.
 Järjestelmien välisessä tiedonsiirrossa on käytössä jäsentymättömiä Comma Separated Value (CSV) -pohjaisia ratkaisuita.
 
-5 Nämä CSV-pohjaiset ratkaisut ovat joko laitevalmistajien itse kehittämiä ratkaisuita tai yleiseen käyttöön otettuja tapoja toimia, joita ei ole suunniteltu yleiseen käyttöön. Osa niistä on muodostunut ilman tuottamusta, ikään kuin tahattomasti toimijoiden omaksuessa ratkaisuita ottamatta huomioon ratkaisuiden elinkaarta.
+H3.5 Nämä CSV-pohjaiset ratkaisut ovat joko laitevalmistajien itse kehittämiä ratkaisuita tai yleiseen käyttöön otettuja tapoja toimia, joita ei ole suunniteltu yleiseen käyttöön. Osa niistä on muodostunut ilman tuottamusta, ikään kuin tahattomasti toimijoiden omaksuessa ratkaisuita ottamatta huomioon ratkaisuiden elinkaarta.
 Esimerkkinä peltoviljelyn maanäytetiedostojen tiedostoformaatti, jota käytetään tiedostojen siirrossa kentältä laboratorioon. Tiedostoformaatti kehitettiin joskus 80- ja 90-lukujen taitteessa ja oli tarkoitettu vain tietyn organisaation sisäiseen käytöön. Se on kuitenkin jäänyt alan standardiksi, vaikka sitä ei ole määritelty missään eikä kukaan ole kirjoittanut sitä auki.
 
-6 Toinen esimerkki on viljavuuspalvelun siirtotiedostoformaatti, jonka kehittäjät kuolivat kaikki samassa onnettomuudessa, eikä kehitystä enää saatu yhden tahon johdon alle.
+H3.6 Toinen esimerkki on viljavuuspalvelun siirtotiedostoformaatti, jonka kehittäjät kuolivat kaikki samassa onnettomuudessa, eikä kehitystä enää saatu yhden tahon johdon alle.
 
 
 ##### H4
@@ -643,7 +644,7 @@ Eli miten tehdään enemmän tai miten tehdään tehokkaammin lopputuotetta. Nä
 Maanviljelytoimintaan ollaan vaatimassa samankaltaista toiminnallisuutta kuin muualla on yleistynyt, kuten mobiilikäyttöliittymät, appit, sosiaalinen verkostoituminen laitteiden avulla/kautta. 
 Uusiin vaatimuksiin ovat voimakkaasti panostamassa AGCO, Valtra-Fendt, Massey Ferguson, Challenger. Toiminnan digitalisaatioon, telemetriaan, Farm Managementiin, laitteiden käytön projekteja on yhtä aikaa menossa. Nämä osa-alueet edustavat uuden aallon huippua ja niiden on katsottu olevan tärkeitä.
 
-5.2 *pirstaleinen kenttä, täsmäviljelyn viipyminen, kehitysarvio*
+H5.2 *pirstaleinen kenttä, täsmäviljelyn viipyminen, kehitysarvio*
 AGCOn osalta Valtra on lähdössä kaupallistamaan ensimmäistä telemetria- ja IoT-ratkaisua, mikä on saanut todella hyvän vastaanoton. Asiakkaat ovat vaatimassa tätä ratkaisua käyttöönsä ja asiakkaiden arvioiden mukaan tämä ratkaisu ei ole vain hyödyllinen lisä vaan toiminnalle vastaisuudessa ehdottoman tarpeellinen.
 Asiakkaiden havaittua telemetriaratkaisun hyödyt sellainen halutaan kaikkiin laitteisiin.
 Viljelijälle pyritään tuottamaan ikään kuin sihteeri olkapäälle muistuttamaan tarvittavista toimenpiteistä, koska maanviljelijän työssä tulee ymmärtää biologiaa/kasvitiedettä, koneiden huoltoa ja operointia, meteorologiaa, liiketoimintaa jne. ja kaikkiin näihin liittyviä toimintoja tulee hallita päivittäisessä työskentelyssä, jolloin on tarvetta kaikille helpottaville ratkaisuille. Paitsi, että näillä ratkaisuillamme viljelijän työtä voidaan helpottaa, voimme AGCOna, laite- ja ratkaisutoimittajana päästä lähemmäs viljelijää partnerina jolloin voimme myös tehdä parempaa ja asiakaslähtöisempää tuotekehitystä. *IoT-teknologiaratkaisuilla voidaan tehdä tuotekehitystä myös datan perusteella, asiakaspalautteen ja oman työn lisäksi.*
@@ -748,7 +749,7 @@ Nykyään ihminen ei yksinkertaisesti halua rakentaa omaa analytiikkaa eikä sii
 IoT-ratkaisuiden tulisi tukea datan analytiikkaa/toiminnan kehittämistä/?, niiden tulisi olla helppokäyttöisiä ja tarvittava tieto tulisi tulla esille silloin kuin sitä tarvitaan.
 
 #### Datan jakamisen ja välittämisen alustajärjestelmät, mahdollisuudet jne.
-    
+
     - datan kerääminen erilaisista datalähteistä (2 5) ja järjestelmistä
     - työtiedostojen vienti urakoitsijoille (1 2)
     - dataa yhteisöllisesti jakavat palvelut/alustat (1 3 4 5)
