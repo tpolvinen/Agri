@@ -546,7 +546,7 @@ Haastatteluissa saatavia tietoja verrattiin työn edetessä kirjallisuuteen sek�
 
 ### Haastattelujen teemat
 
-#### Haastateltavan kuvailu AIoT:n ja maatalouden yleistilanteesta (1 2 3 4 5)
+#### Haastateltavan kuvailu AIoT:n ja maatalouden yleistilanteesta (1 2 3 4 5) 1634
 
 ##### H1
 
@@ -662,7 +662,7 @@ Sitä mukaa kun markkinoille tuotetaan uusia IoT-ratkaisuita valmistajat oppivat
 Asiakas- ja käyttäjälähtöisellä kehittämisellä voidaan päästä nyt nousevan ensimmäisen digitalisaation aallonharjan ylitse. 
 Tämän aallonharjan ylitse pääsyn vaatimien ponnistelujen jälkeen voidaan jatkaa kehittämistä saatujen kokemusten ja näkemysten viitoittamaan suuntaan.
 
-#### Holistinen FMS (3 5)
+#### Holistinen FMS (3 5) 827
 
 ##### H1
 
@@ -715,7 +715,7 @@ Tämäkään ei ole vielä asiakaskohtaista *vaan yleinen tarpeeksi suurelle osa
 Ollaan siis vielä kaukana holistisesta järjestelmästä, johon kaikki osajärjestelmät olisivat yhteydessä.
 Epäilen, että viljelijälle voi olla haasteellista kerätä tietoa useista järjestelmistä ja yhdistellä niitä kokonaiskuvan hahmottamiseksi. FMS-järjestelmät tulevat varmaan olemaan lähimpänä kokonaiskuvan tuottavaa tietojen esittämistä. *Tämä vaikuttaa vain yhden maatilan tilannetiedolta, mutta miten osana ruokaketjua ja globaalia ruokamarkkinaa?*
 
-#### Datan omistajuus ja saatavuus (1 2 3 4 5)
+#### Datan omistajuus ja saatavuus (1 2 3 4 5) 344
 
 ##### H2
 
@@ -748,7 +748,7 @@ En usko, että kellään maanviljelijällä olisi aikaa kehittää omaa analytii
 Nykyään ihminen ei yksinkertaisesti halua rakentaa omaa analytiikkaa eikä siihen olisi aikaakaan.
 IoT-ratkaisuiden tulisi tukea datan analytiikkaa/toiminnan kehittämistä/?, niiden tulisi olla helppokäyttöisiä ja tarvittava tieto tulisi tulla esille silloin kuin sitä tarvitaan.
 
-#### Datan jakamisen ja välittämisen alustajärjestelmät, mahdollisuudet jne.
+#### Datan jakamisen ja välittämisen alustajärjestelmät, mahdollisuudet jne. 468
 
     - datan kerääminen erilaisista datalähteistä (2 5) ja järjestelmistä
     - työtiedostojen vienti urakoitsijoille (1 2)
@@ -801,7 +801,7 @@ Datalähtöisellä sertifioinnilla voitaisiin saada erilaisten laatumerkkien toi
 H5.5 *tiedon vertaisjakoa, onko siihen järjestelmää kehitteillä*
 Meneillään olevassa agrirouter -hankkeessa/projektissa pyritään yhdistämään erilaiset toimijat, FMSit, IoT-toiminnot, telemetriatoimittajat, ISOBUS-koneet sellaiseen muotoon missä asiakas saisi suurimman hyödyn. Agrirouteria ollaan edistämässä globaaliksi ratkaisuksi.
 
-#### Tiedon liikkuminen tuotantoketjussa (mahd. kuluttajalle asti)
+#### Tiedon liikkuminen tuotantoketjussa (mahd. kuluttajalle asti) 569
 
     - tuottajien ja kuluttajien yhteys (1)
     - dataperustainen hinnoittelu (1)
@@ -845,7 +845,7 @@ Jotta kuluttajat yleensä jaksaisivat tarkastella tuotantotietoa, tulisi se näy
 Itse arvioisin, että passiivinen kuluttaja voisi jaksaa lukea tuotteen pakkauksesta tiedot millä tilalla se on tuotettu, kuinka pitkä matka sitä kaikkiaan on kuljetettu, kokonaishiilijalanjälki, hiilidioksidijalanjälki ja vesijalanjälki.
 
 
-#### Maatalouden alan laitevalmistajien välinen yhteistoiminta
+#### Maatalouden alan laitevalmistajien välinen yhteistoiminta 694
 
     - eri valmistajien laitteet yhdessä (2 4)
     - standardien käyttöönoton levinneisyys (2)
@@ -885,7 +885,7 @@ H5.10 *valmistajien konsortiotyö, ISOBUS*
 Laite/työkone/traktorivalmistajien välisellä yhteistyöllä on tavoitteena esimerkiksi ISOBUS-standardin kehitystyössä *(oma, huono sanavalinta)* rakentaa toimintaympäristö *(tai ekosysteemi?)* jossa voidaan rakentaa digitaalisia ratkaisuita ja teknologiasovelluksia.
 Etenemisen tilanteesta tai suunnitellusta aikataulusta ei minulla ole tietoa.
 
-#### AIoT-teknologioiden vaikutukset (3)
+#### AIoT-teknologioiden vaikutukset (3) 927
 
     - tuotannon lisäarvon mahdollisuudet (1?)
     - käyttöönoton motiivit (1)
@@ -973,7 +973,7 @@ Tulevaisuudessa kehitystyön *(vai olisiko teknologiakehityksen?)* seuraavassa v
 ... Keinoälyn voisi myös antaa tehdä päätöksiä viljelyaikana ja antaa sen hoitaa toimintaa.
 Nämä koneoppimisen ja keinoälyn avulla automatisoidut järjestelmät voivat olla hyvinkin lähitulevaisuuden maanviljelyn asioita.
 
-#### AIoT-ratkaisut
+#### AIoT-ratkaisut 435
 
 *voi olla, että menee yleiskuvauksen alle, mutta nyt erikseen, koska tut.kys.ii*
 
@@ -1010,7 +1010,7 @@ Liittymien kuukausimaksujen ollessa 10 € kuukaudessa näiden laitteiden vuosik
 IP-verkossa hinta on käytännössä vain verkon rakentamisen kertakustannus, kun käytössä ei ole datamäärään perustuvaa veloitusta.
 
 
-#### AIoT-teknologioiden käyttöönoton laajuus (3 5)
+#### AIoT-teknologioiden käyttöönoton laajuus (3 5) 250
 
     - osa ei ota käyttöön, huolimatta sadonlisästä (2)
     - teknologiset edistyksen tason vaihtelut (2)
@@ -1046,7 +1046,7 @@ Peltoviljelyssä sensoriverkkoja on käytössä oikeastaan vain tutkimuskäytös
 Puutarha- tai perunanviljelyssä käytetään enemmän tilakohtaisia sääasemia kuin perusviljanviljelyssä. Erikoisviljelyssä taas sääasemien käyttöä on vähän enemmän.
 
 
-#### AIoT-teknologioiden avoimet haasteet
+#### AIoT-teknologioiden avoimet haasteet 2103
 
     - tietoliikenneyhteyksien merkitys ja haasteet (1 3 4 5)
     - järjestelmäintegraatio (2 3)
@@ -1208,7 +1208,7 @@ Ratkaisevan tärkeää on saada kaikki laitteet toimimaan reaaliaikaisesti yhdes
 H5.18 *eri datalähteistä keräävä järjestelmä*
 Tietääkseni sellaista järjestelmää, joka keräisi tietoa erilaisista datalähteistä kuten kuvantamistietoa drooneilta, traktoreilta, työkoneilta jne. ja yhdistäisi niitä, ei ole olemassa.
 
-#### AIoT:n rooli ruokaturvan parantamisessa (1 2 3 4 5)
+#### AIoT:n rooli ruokaturvan parantamisessa (1 2 3 4 5) 409
 
 ##### H1
 
@@ -1248,7 +1248,7 @@ Digitalisaation avulla voidaan tehostaa tuotantoa niin, että samalla työmäär
 jos suurin osa viljelijöistä ottaa käyttöön uusia digitaalisia työkaluja voimme nähdä hyvinkin suuria muutoksia maanviljelyksessä.
 ...
 
-#### Ihmisen/käyttäjän rooli AIoT-järjestelmien ohjaamisessa ja päätöksenteossa
+#### Ihmisen/käyttäjän rooli AIoT-järjestelmien ohjaamisessa ja päätöksenteossa 135
 
 ##### H2
 
@@ -1264,7 +1264,7 @@ Toisaalta mitä enemmän käytetään dataa ja mitä enemmän kone tekee ihmisen
 
 
 
-#### AIoT-teknologioiden tavoitetila, tulevaisuuskuvat (1 3 4)
+#### AIoT-teknologioiden tavoitetila, tulevaisuuskuvat (1 3 4) 1181
 
 ##### H1
 
@@ -1382,7 +1382,7 @@ Digitaalisuus on tullut jäädäkseen ja sen vaikuttaa *kaikkeen toimintaan maat
 H5.19 *ohjelmistoratkaisuiden pirstaleisuus, muuta, mitä maataloudessa tapahtuu*
 IoT on voimakkaasti tulossa toimintaan ja kaikki merkittävät laitevalmistajat ovat kehittämässä omia IoT-ratkaisuitaan.
 
-#### Muut teemat
+#### Muut teemat 277
 
 ##### H2
 
