@@ -22,7 +22,9 @@ Näitä kaikkia yhdistävää holistista järjestelmää ei tietääkseni ole ku
     1.7 Full-liner-ratkaisuita on -suljettu ympäristö & loukku -mahdollistaa tehokkaan täsmän ja viljelyprosessit.
 
     4.6 Full-linereilla integraatio on ollut paljon syvempää.
-    4.6 Harvoilla tiloilla on käytössä full-liner (huom. myös loukku). *onko harvoilla ylipäätään mahdollista hankkia full-liner, entä onko käytännöllistä?*
+    4.6 Harvoilla tiloilla on käytössä full-liner (huom. myös loukku).
+
+    1.8 Full-liner -järjestelmät ovat hyvin kalliita investointeja joihin on varaa vain hyvin suurilla maatiloilla, minkä takia kokonaisvaltaisia peltoviljelyn järjestelmiä on käytössä harvoilla toimijoilla. Lisäksi full-liner -ratkaisut eivät sovi kaikkien käyttöön, esimerkiksi John Deeren valikoimassa ei ole kylvölannoitinta jota käytetään pohjoismaissa. Tällöin pohjoismaiset viljelijät eivät pysty toimimaan John Deeren full-liner -ratkaisun puitteissa, vaan joutuvat hankkimaan käyttöönsä myös muiden valmistajien työkoneita kuten kylvölannoittimen.
 
 1.20 Suomessa ei tuotantojärjestelmiä analysointiin pilvessä -> automaattinen vaikuttaminen viljely-ympäristöön. Ei tietoa kansainvälisistä. Teollisuusautomaatiota hyödyntävissä laitoksissa voi olla mahdollista. *tulevaisuuskuvaan* AIn kehittyessä voisi datasta tehdä toimenpiteitä - tai annetaan suosituksia kuitattavaksi, automaation toteutettavaksi *(samoin kuin H2ssa)*.
 

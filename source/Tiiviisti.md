@@ -608,6 +608,36 @@ Esimerkkinä peltoviljelyn maanäytetiedostojen tiedostoformaatti, jota käytet�
 
 H3.6 Toinen esimerkki on viljavuuspalvelun siirtotiedostoformaatti, jonka kehittäjät kuolivat kaikki samassa onnettomuudessa, eikä kehitystä enää saatu yhden tahon johdon alle.
 
+H3.20 Myytävinä tuotteina maatalouden IoT-ratkaisuita on aika vähän. Tällä hetkellä kentällä on käytössä ratkaisuita, joissa saattaa olla joitain varsinaisten IoT-ratkaisuiden piirteitä ja toiminnallisuuksia.
+Viljelysuunnittelun teko pellolla toimii PC-ohjelmana, mihin on kokeellisesti liitetty omia sääasemia mutta ei muita laitteita.
+Traktoreiden automaatioteknologia tietokoneineen (vaihteisto-, moottori-, nostolaite-, ajotietokone) on integroitu itse traktoriin niin tiukasti, ettei käyttäjä edes huomaa käyttävänsä useita verkotettuja tietokoneita traktoria käyttäessään.
+
+H3.21 Valtran huollon sovellus, jolla huolto voi havainnoida traktoreita ja tarvittaessa antaa etätukea ja ohjata kentällä olevia huollon työntekijöitä, on kyllä IoT-ratkaisu.
+Meneillään olevasta IoT-buumista huolimatta sellaisia laitteita, jotka olisi alunperin suunniteltu IoT-laitteiksi joilla on oma nettiosoite, josta voidaan kerätä dataa ja jonka toimintaan voidaan vaikuttaa *verkon yli*, on aika vähän.
+Laitteiden välillä liikkuu kyllä dataa, mutta muutenkin kuin IP-verkon kautta kuten muistilaitteilla siirrettynä paikasta toiseen.
+
+H3.22 Olen itse lähestynyt IoT-asioita lähinnä laitelähtöisesti, ns. rautatasolla. Pidän IoT-laitteen ominaisuuksina sen tietoisuutta sen tietoverkkoon kytkeytymistä sekä sen kykyä lähettää ja vastaanottaa viestejä tietoverkkon yli.
+Hyvin yksinkertainen esimerkki voisi olla lämpötilaa mittaava laite, johon voidaan viitata IP-osoitteella ja saada laitteesta vastauksena tiedon sen olemassaolosta, toiminnallisuudesta ja mittauslukemia.
+
+H3.23 Tällä hetkellä on käytössä paljon lämpötila-antureita, mutta niistä laitteista saadaan ulos *jänniteviesti*/volttiviesti ja ne laitteet eivät voi viestiä verkon yli ja sitä voisin pitää jonkinlaisena rajana.
+Sovelluksen voi rakentaa alemman layerin/*tason* päälle.
+Johtamisen mielessä laitteeseen ja sen toimintaan pitää pystyä vaikuttamaan.
+Sovellus voi käyttää yhtä tai useampaa IoT-laitetta, joista se voi tallentaa tietoa *ja*/tai lähettää ohjeita toteutettaviksi.
+
+H3.24 Tällaiset laitteet ovat vielä harvassa, mutta niiden yleistymistä odotetaan tapahtuvaksi lähiaikoina.
+Esimerkiksi navetan ilmastointilaitteen tilasta olisi hyödyllistä sekä saada tieto että sen toimintaan vaikuttaa verkon ylitse. Samoin ruokintalaitteen toimintaan olisi hyödyllistä voida vaikuttaa sekä sen tilaa ja toimintaa tarkkailla.
+Viljakuivurin toimintaa olisi erityisen hyödyllista voida hallita etäisesti, koska sen käyttösesonki on lyhyt *mutta viljelijälle kiireinen*.
+
+H3.25 Viljakuivureissa on sovellettu automatiikkaa 70-luvulta lähtien. Alkuun toiminnallisuus on ollut relepohjaista ja säädettävät anturit ovat ohjanneet automatiikan toimintaa.
+Tällä hetkellä suurimmassa osassa viljakuivureiden automatiikoissa käytetään ohjelmoitavaa logiikkaa, mutta anturointi voi olla vielä voltti/jänniteviesteillä havaintoja välittävää johtojen päässä olevaa tekniikkaa, eikä IoT-tekniikkaa jossa tieto liikkuisi verkon yli. *?*
+
+H3.26 Maatalousautomaatiossa on tällä hetkellä aika monissa laitteissa käytössä SMS-viestit, joiden avulla ollaan helposti saatu laite kommunikoimaan käyttäjille laitteen tilasta.
+
+H3.27 Jokaisella laitteella on käytännössä tällöin oma liittymä.
+Maatilalla navetassa voi helposti olla 10 eri valmistajien laitetta, joilla on jokaisella oma liittymä ja SIM-kortti, esimerkiksi ilmanvaihdolle on oma, palohälyttimelle oma, ruokinta-automaatille oma, lypsyrobotille oma, toiselle lypsyrobotille toinen jne.
+Liittymien kuukausimaksujen ollessa 10 € kuukaudessa näiden laitteiden vuosikustannukset muodostuvat viljelijälle jo huomattaviksi, erityisesti verrattaessa yksittäisten SMS-viestien hintaa IP-verkossa liikkuvien viestien hintaan.
+IP-verkossa hinta on käytännössä vain verkon rakentamisen kertakustannus, kun käytössä ei ole datamäärään perustuvaa veloitusta.
+
 
 ##### H4
 
@@ -973,43 +1003,6 @@ Tulevaisuudessa kehitystyön *(vai olisiko teknologiakehityksen?)* seuraavassa v
 ... Keinoälyn voisi myös antaa tehdä päätöksiä viljelyaikana ja antaa sen hoitaa toimintaa.
 Nämä koneoppimisen ja keinoälyn avulla automatisoidut järjestelmät voivat olla hyvinkin lähitulevaisuuden maanviljelyn asioita.
 
-#### AIoT-ratkaisut 435
-
-*voi olla, että menee yleiskuvauksen alle, mutta nyt erikseen, koska tut.kys.ii*
-
-##### H3
-
-H3.20 Myytävinä tuotteina maatalouden IoT-ratkaisuita on aika vähän. Tällä hetkellä kentällä on käytössä ratkaisuita, joissa saattaa olla joitain varsinaisten IoT-ratkaisuiden piirteitä ja toiminnallisuuksia.
-Viljelysuunnittelun teko pellolla toimii PC-ohjelmana, mihin on kokeellisesti liitetty omia sääasemia mutta ei muita laitteita.
-Traktoreiden automaatioteknologia tietokoneineen (vaihteisto-, moottori-, nostolaite-, ajotietokone) on integroitu itse traktoriin niin tiukasti, ettei käyttäjä edes huomaa käyttävänsä useita verkotettuja tietokoneita traktoria käyttäessään.
-
-H3.21 Valtran huollon sovellus, jolla huolto voi havainnoida traktoreita ja tarvittaessa antaa etätukea ja ohjata kentällä olevia huollon työntekijöitä, on kyllä IoT-ratkaisu.
-Meneillään olevasta IoT-buumista huolimatta sellaisia laitteita, jotka olisi alunperin suunniteltu IoT-laitteiksi joilla on oma nettiosoite, josta voidaan kerätä dataa ja jonka toimintaan voidaan vaikuttaa *verkon yli*, on aika vähän.
-Laitteiden välillä liikkuu kyllä dataa, mutta muutenkin kuin IP-verkon kautta kuten muistilaitteilla siirrettynä paikasta toiseen.
-
-H3.22 Olen itse lähestynyt IoT-asioita lähinnä laitelähtöisesti, ns. rautatasolla. Pidän IoT-laitteen ominaisuuksina sen tietoisuutta sen tietoverkkoon kytkeytymistä sekä sen kykyä lähettää ja vastaanottaa viestejä tietoverkkon yli.
-Hyvin yksinkertainen esimerkki voisi olla lämpötilaa mittaava laite, johon voidaan viitata IP-osoitteella ja saada laitteesta vastauksena tiedon sen olemassaolosta, toiminnallisuudesta ja mittauslukemia.
-
-H3.23 Tällä hetkellä on käytössä paljon lämpötila-antureita, mutta niistä laitteista saadaan ulos *jänniteviesti*/volttiviesti ja ne laitteet eivät voi viestiä verkon yli ja sitä voisin pitää jonkinlaisena rajana.
-Sovelluksen voi rakentaa alemman layerin/*tason* päälle.
-Johtamisen mielessä laitteeseen ja sen toimintaan pitää pystyä vaikuttamaan.
-Sovellus voi käyttää yhtä tai useampaa IoT-laitetta, joista se voi tallentaa tietoa *ja*/tai lähettää ohjeita toteutettaviksi.
-
-H3.24 Tällaiset laitteet ovat vielä harvassa, mutta niiden yleistymistä odotetaan tapahtuvaksi lähiaikoina.
-Esimerkiksi navetan ilmastointilaitteen tilasta olisi hyödyllistä sekä saada tieto että sen toimintaan vaikuttaa verkon ylitse. Samoin ruokintalaitteen toimintaan olisi hyödyllistä voida vaikuttaa sekä sen tilaa ja toimintaa tarkkailla.
-Viljakuivurin toimintaa olisi erityisen hyödyllista voida hallita etäisesti, koska sen käyttösesonki on lyhyt *mutta viljelijälle kiireinen*.
-
-H3.25 Viljakuivureissa on sovellettu automatiikkaa 70-luvulta lähtien. Alkuun toiminnallisuus on ollut relepohjaista ja säädettävät anturit ovat ohjanneet automatiikan toimintaa.
-Tällä hetkellä suurimmassa osassa viljakuivureiden automatiikoissa käytetään ohjelmoitavaa logiikkaa, mutta anturointi voi olla vielä voltti/jänniteviesteillä havaintoja välittävää johtojen päässä olevaa tekniikkaa, eikä IoT-tekniikkaa jossa tieto liikkuisi verkon yli. *?*
-
-H3.26 Maatalousautomaatiossa on tällä hetkellä aika monissa laitteissa käytössä SMS-viestit, joiden avulla ollaan helposti saatu laite kommunikoimaan käyttäjille laitteen tilasta.
-
-H3.27 Jokaisella laitteella on käytännössä tällöin oma liittymä.
-Maatilalla navetassa voi helposti olla 10 eri valmistajien laitetta, joilla on jokaisella oma liittymä ja SIM-kortti, esimerkiksi ilmanvaihdolle on oma, palohälyttimelle oma, ruokinta-automaatille oma, lypsyrobotille oma, toiselle lypsyrobotille toinen jne.
-Liittymien kuukausimaksujen ollessa 10 € kuukaudessa näiden laitteiden vuosikustannukset muodostuvat viljelijälle jo huomattaviksi, erityisesti verrattaessa yksittäisten SMS-viestien hintaa IP-verkossa liikkuvien viestien hintaan.
-IP-verkossa hinta on käytännössä vain verkon rakentamisen kertakustannus, kun käytössä ei ole datamäärään perustuvaa veloitusta.
-
-
 #### AIoT-teknologioiden käyttöönoton laajuus (3 5) 250
 
     - osa ei ota käyttöön, huolimatta sadonlisästä (2)
@@ -1034,7 +1027,7 @@ H2.26 ... Kannattavuuden parantamista ja toiminnan kehittämistä tulisi tehdä 
 
 H2.35 Suomessa Yaran N-sensorin käyttö on harvinaisempaa kuin Ruotsissa. Ruotsissa on noin 220-230 laitetta käytössä ja laskennallisesti 80 % vehnän pinta-alasta ajetaan N-sensorin kanssa.
 
-H2.39 Viljelijät voivat käyttää sensoriteknologiaa lannoituksen jakoon mutta en itse ole tietoinen, että dooneilla tai satelliteilla tehdystä kuvantamistiedoista ja kartoista olisi vielä tehty levitystä tukevaa tehtävää.
+H2.39 Viljelijät voivat käyttää sensoriteknologiaa lannoituksen jakoon mutta en itse ole tietoinen, että drooneilla tai satelliteilla tehdystä kuvantamistiedoista ja kartoista olisi vielä tehty levitystä tukevaa tehtävää.
 
 
 ##### H3
@@ -1488,6 +1481,8 @@ H5.9 ... FMS-järjestelmät tulevat varmaan olemaan lähimpänä kokonaiskuvan t
 
 H5.13 *verkkoyhteydet pellolla, maaseudulla*
 ... Brasilian viljelijät saattavat tuottaa jopa prosentin koko maailman tuotannosta jonkin tietyn (?) osalta, mutta heillä ei ole mahdollisuuksia päästä digitalisaatioon käsiksi internet- ja puhelinyhteyksien puutteen takia. *huomattavan osan maailman maataloustuotannosta tekevien viljelijöiden toimintaa ei ole mahdollista tehostaa tietoliikenneyhteyksien puutteen takia*
+
+H1.31 ... Voi tulla teknologioita, jolla asiat voi tehdä helpommin kuin CAN-väylää käyttäen, mutta omaksuminen tapahtuu hitaasti. *Laitteiden myyminen käyttöön on hidasta, koska käyttöikä on pitkä, yhteensopivuus pitäisi olla, investoinnin pitäisi oikeasti tuottaa paremmin juuri sillä tilalla ja tilat ovat valtavan erilaisia.* ...
 
 ## Luotettavuus
 
