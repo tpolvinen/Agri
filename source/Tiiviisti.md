@@ -915,7 +915,7 @@ H5.10 *valmistajien konsortiotyö, ISOBUS*
 Laite/työkone/traktorivalmistajien välisellä yhteistyöllä on tavoitteena esimerkiksi ISOBUS-standardin kehitystyössä *(oma, huono sanavalinta)* rakentaa toimintaympäristö *(tai ekosysteemi?)* jossa voidaan rakentaa digitaalisia ratkaisuita ja teknologiasovelluksia.
 Etenemisen tilanteesta tai suunnitellusta aikataulusta ei minulla ole tietoa.
 
-#### AIoT-teknologioiden vaikutukset (3) 927
+#### AIoT-teknologioiden vaikutukset (3) 972
 
     - tuotannon lisäarvon mahdollisuudet (1?)
     - käyttöönoton motiivit (1)
@@ -1002,6 +1002,9 @@ H5.16 *koneoppiminen, seuraava kehitysvaihe, toistuvan työn automatisointi, res
 Tulevaisuudessa kehitystyön *(vai olisiko teknologiakehityksen?)* seuraavassa vaiheessa koneoppimisen ja keinoälyn avulla voidaan automatisoida yhä enemmän toistuvia työsuoritteita.
 ... Keinoälyn voisi myös antaa tehdä päätöksiä viljelyaikana ja antaa sen hoitaa toimintaa.
 Nämä koneoppimisen ja keinoälyn avulla automatisoidut järjestelmät voivat olla hyvinkin lähitulevaisuuden maanviljelyn asioita.
+
+5.14 ... Digitalisaation avulla voidaan tehostaa tuotantoa niin, että samalla työmäärällä tai resursseilla voidaan saada saman verran tai enemmän tuloksia. Selkeät tulokset todennäköisesti motivoisivat digitaalisten työkalujen käyttöön ottaneita toimijoita kehittämään toimintaansa edelleen.
+jos suurin osa viljelijöistä ottaa käyttöön uusia digitaalisia työkaluja voimme nähdä hyvinkin suuria muutoksia maanviljelyksessä.
 
 #### AIoT-teknologioiden käyttöönoton laajuus (3 5) 250
 
@@ -1189,7 +1192,7 @@ Ratkaisevan tärkeää on saada kaikki laitteet toimimaan reaaliaikaisesti yhdes
 H5.18 *eri datalähteistä keräävä järjestelmä*
 Tietääkseni sellaista järjestelmää, joka keräisi tietoa erilaisista datalähteistä kuten kuvantamistietoa drooneilta, traktoreilta, työkoneilta jne. ja yhdistäisi niitä, ei ole olemassa.
 
-#### AIoT:n rooli ruokaturvan parantamisessa (1 2 3 4 5) 409
+#### AIoT:n rooli ruokaturvan parantamisessa (1 2 3 4 5) 364
 
 ##### H1
 
@@ -1201,8 +1204,6 @@ H1.48 Tietoon perustuvalla maanviljelyllä ilmastonmuutoksen aiheuttamiin muutos
 Hyönteisinvaasion päästään nopeammin käsiksi, samoin se voitaisiin mahdollisesti myös taltuttaa tai rajata nopeammin, kun nähdään missä oloissa invaasio tapahtuu.
 Väestönkasvuun voidaan vastata paremmin, kun olemme oman ruokamme tuottaja, emmekä kuluta muiden ruokaa, mikä on moraalinen velvollisuus. Jos oma tuotantomme on kannattamatonta, ei sitä enää jatketa, mikä vähentää ruoan tuotantoa. ...
 
-
-
 ##### H2 
 
 H2.33 Ruokaturvan parantamiseen nämä teknologiat voivat osallistua vähentämällä viljantuotannossa viljelijän toiminnassa ilmeneviä riskejä, jolloin sadoista saataisiin varmempia. Samoin voidaan viljelijän toiminnassa saada järjestelmistä tarkkaa tietoa lohkojen historiasta ja nykytilanteesta, mikä parantaa tilannehallintaa kasvintuotannossa.
@@ -1210,7 +1211,6 @@ Tiedon avulla voidaan tehdä parempaa lajikevalintaa, tunnetaan typen vapautumis
 Ruokaturvan varmistaminen on viljelijän toiminnassa mukana, mutta vielä merkittävämpi rooli toiminnassa on sellaisen viljan tuottaminen, mistä hän saa parhaan hinnan ja mitä häneltä halutaan ostaa.
 
 H2.34 Viljanviljelyn riskiarvioita tehdessä voidaan arvioida sadon epäonnistumisen riski ja siitä johtuvat taloudelliset riskit. Silloin voidaan arvioida onko kannattavampaa ottaa näitä teknologioita käyttöön kuin olisi olla käyttämättä, koska näillä teknologioilla voidaan vähentää tuotannon tehon laskun riskiä, myös ilmastonmuutoksen aiheuttaessa muutoksia.
-
 
 ##### H3
 
@@ -1224,24 +1224,9 @@ Ruokaketjun valvonnan tarvetta on lisännyt ruoan hinnan halpeneminen, koska ruo
 
 H5.14 *ruokaturva, ilmastonmuutos, väestönkasvu*
 Suomen osalta kaikki mikä parantaa maatalouden tuottavuutta parantaa myös omavaraisuutta ja sitä kautta omaa ruokaturvaamme.
-Jotta voisimme varmistaa ruokaturvamme oman ruoantuotantomme tulee olla yksittäisille toimijoille kannattavaa ja työn sellaista, että se motivoi maanviljelijää kehittämään omaa toimintaansa. Tällöin ruokatuotantomme kehittyisi jatkuvasti, voisimme vastata tuleviin ja nykyisiin haasteisiin paremmin/tehokkaammin ja sitä kautta oma ruokaturvamme paranisi.
-Digitalisaation avulla voidaan tehostaa tuotantoa niin, että samalla työmäärällä tai resursseilla voidaan saada saman verran tai enemmän tuloksia. Selkeät tulokset todennäköisesti motivoisivat digitaalisten työkalujen käyttöön ottaneita toimijoita kehittämään toimintaansa edelleen.
-jos suurin osa viljelijöistä ottaa käyttöön uusia digitaalisia työkaluja voimme nähdä hyvinkin suuria muutoksia maanviljelyksessä.
-...
-
-#### Ihmisen/käyttäjän rooli AIoT-järjestelmien ohjaamisessa ja päätöksenteossa 135
-
-##### H2
-
-H2.40 Ihminen on toiminnassa vahvasti mukana ja tulkitsee indeksin arvoa. Tässä tulkinnassa tarvitaan asiantuntijuutta jonka avulla tiedostetaan lukujen merkitykset ja tarkoitukset. Ilman sitä kokeisiin, tutkimukseen ja kokemukseen perustuvaa asiantuntijuutta *koneellisesti tulkittuna* voidaan mennä jopa huonompaan suuntaan.
+Jotta voisimme varmistaa ruokaturvamme oman ruoantuotantomme tulee olla yksittäisille toimijoille kannattavaa ja työn sellaista, että se motivoi maanviljelijää kehittämään omaa toimintaansa. Tällöin ruokatuotantomme kehittyisi jatkuvasti, voisimme vastata tuleviin ja nykyisiin haasteisiin paremmin/tehokkaammin ja sitä kautta oma ruokaturvamme paranisi. ...
 
 
-##### H4
-
-H4.3 Vaikka IoT-ratkaisun/järjestelmän määrittelyssä ollaan joissain tapauksissa korvattu ihmisen tekemä valvonta, päätöksenteko ja toimeenpano automaattisilla koneiden toiminteilla, niin suuri osa IoT-ratkaisuiksi *merkityistä/määritellyistä* järjestelmistä on käytännössä sensoridatan lukemista ja ihmisten vastuulle on jäänyt ainakin lähes, jos ei kaikki päätöksenteko ja toiminta.
-Tämä johtuu juuri järjestelmien välisen kommunikaation puutteesta.
-Toisaalta ihmiselle jäävä päätösvalta ei ole pelkästään huono asia.
-Toisaalta mitä enemmän käytetään dataa ja mitä enemmän kone tekee ihmisen puolesta päätöksiä, niin sitä enemmän pitää kiinnittää huomiota käyttäjän oman asiantuntemuksen ylläpitoon. Käyttäjän nojautuminen täysin automaattisen järjestelmän varaan voi helposti aiheuttaa käyttäjän oman asiantuntemuksen puutteen ja sitä kautta kokonaisprosessin ymmärryksen vähenemisen tai häviämisen.
 
 
 
@@ -1307,8 +1292,6 @@ Käyttöön jäävät karsiutumisen jälkeen merkityksellisimmät ratkaisut kunh
 Traktoreissa automaatiota on jo ja seuraavaksi se on leviämässä työkoneisiin, missä suuremmat koneet ja monipuolisimmat säädöt tullaan automatisoimaan traktorin yhteyteen. ...
 
 
-
-
 ##### H4
 
 H4.19 *kasvatusresepteillä toimiva kasvihuone tms. MIT Food Computer*
@@ -1364,6 +1347,13 @@ H5.19 *ohjelmistoratkaisuiden pirstaleisuus, muuta, mitä maataloudessa tapahtuu
 IoT on voimakkaasti tulossa toimintaan ja kaikki merkittävät laitevalmistajat ovat kehittämässä omia IoT-ratkaisuitaan.
 
 #### Muut teemat 277
+
+##### H4
+
+H4.3 *Ihmisen/käyttäjän rooli AIoT-järjestelmien ohjaamisessa ja päätöksenteossa* Vaikka IoT-ratkaisun/järjestelmän määrittelyssä ollaan joissain tapauksissa korvattu ihmisen tekemä valvonta, päätöksenteko ja toimeenpano automaattisilla koneiden toiminteilla, niin suuri osa IoT-ratkaisuiksi *merkityistä/määritellyistä* järjestelmistä on käytännössä sensoridatan lukemista ja ihmisten vastuulle on jäänyt ainakin lähes, jos ei kaikki päätöksenteko ja toiminta.
+Tämä johtuu juuri järjestelmien välisen kommunikaation puutteesta.
+Toisaalta ihmiselle jäävä päätösvalta ei ole pelkästään huono asia.
+Toisaalta mitä enemmän käytetään dataa ja mitä enemmän kone tekee ihmisen puolesta päätöksiä, niin sitä enemmän pitää kiinnittää huomiota käyttäjän oman asiantuntemuksen ylläpitoon. Käyttäjän nojautuminen täysin automaattisen järjestelmän varaan voi helposti aiheuttaa käyttäjän oman asiantuntemuksen puutteen ja sitä kautta kokonaisprosessin ymmärryksen vähenemisen tai häviämisen.
 
 ##### H2
 
