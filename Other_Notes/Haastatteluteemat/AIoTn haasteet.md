@@ -99,6 +99,13 @@ Referenssipisteitä voidaan asettaa pellolle, mutta ne ovat periaatteessa turhaa
 Kasvinviljelyssä on mahdollista kuvantaa erilaisia spektrejä ja saada tuloksena oikeaa dataa, mutta johtopäätöksien tekeminen ja niiden perusteella suositusten antaminen tuotantopanoksien käyttöön vaatii taustalle koetoimintaa tueksi (sekä erilaisia kalibrointeja).
 
 2.19 *asiantuntijuushaaste* Johtopäätöksien tekeminen vaatii taustatyötä, mikä on vaikka N-sensorin tapauksessa muun muassa typpi- ja vaihtelualgoritmien kehittäminen. Ne perustuvat koetoimintaan, johon perustuvat johtopäätökset ja suositukset ovat testattuja.
+
+H2.28 Vaikka viljelijä tekisi kaiken samoin joka vuosi, maasta voi vapautua ohrakasvustolle tietystä kohtaa peltoa 100 kiloa typpeä yhtenä vuonna ja toisena vuonna 60-70 kiloa.
+
+H2.29 Koska olosuhteet ja kasvukaudet vaihtelevat, tarvitaan osaamista, datan louhintaa ja algoritmien kehitystyötä aikaisemman tiedon pohjalta.
+Koska lannoitussuositus vaikuttaa sekä sekä satotasoon että kannattavuuteen, tulee suosituksia tehdessä tietää mitä vaikka 40 kilon muutos tarkoittaa ja mihin kaikkeen se vaikuttaa.
+Toisaalta muistaakseni noin puolet viljelijöistä ei laske viljatonnin tuotantokustannuksia, joten kustannusrakenteen tietoisuuteen tuomisessa on vielä paljon tehtävää työtä.
+
 2.36 *ei-tuottoa-haaste* Yaran N-sensorin hankintahinta nähdään Suomessa vielä korkeana ainakin yksittäisenä investointina tai eränä.
 
 2.40 *asiantuntijuushaaste* Ihminen on toiminnassa vahvasti mukana ja tulkitsee indeksin arvoa. Tässä tulkinnassa tarvitaan asiantuntijuutta jonka avulla tiedostetaan lukujen merkitykset ja tarkoitukset. Ilman sitä kokeisiin, tutkimukseen ja kokemukseen perustuvaa asiantuntijuutta *koneellisesti tulkittuna* voidaan mennä jopa huonompaan suuntaan.

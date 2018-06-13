@@ -1239,7 +1239,7 @@ Laajaan käytäntöön tulee hitaasti, koska ratkaisujen pitää sopia ja toimia
 Poikkeuksia voi ilmetä, mutta ne eivät ole kokonaisuuden kannalta merkittäviä. Vain yksittäisten tiettyjen yritysten saavutuksia.
 Oman näkemykseni mukaan pyritään datan töihin laittamiseen: datan kerääminen, hyödyntäminen ja prosessien haltuunottoon.
 Prosessien tulee olla samaan tapaan hallussa peltotuotannossa, kasvihuonetuotannossa kuin tehtaissa.
-Prosessista tulisi tietää mihinkin kohtaan peltoa laitetaan ja paljonko siitö jäi käyttämättä, emissioriskit, saavutetut määrä ja laatu. Lisäksi meillä on tuotteen tarina sille nimenomaiselle tuotteelle mikä siitä kohtaa peltoa tuli. 
+Prosessista tulisi tietää mihinkin kohtaan peltoa laitetaan ja paljonko siitä jäi käyttämättä, emissioriskit, saavutetut määrä ja laatu. Lisäksi meillä on tuotteen tarina sille nimenomaiselle tuotteelle mikä siitä kohtaa peltoa tuli. 
 Tarinalla voidaan saada lisäarvoa markkinoilla.
 Elintarvikeverkkoihin kytkeyessä tuote voi saada lisäarvoa.
 Sivuvirtojen paremmalla hallinnalla, johon liittyvät myös kierrätyslannoitteet ja muut kierrätysprosessit maataloudessa.
@@ -1315,7 +1315,7 @@ H4.22 Hajautetut suuret tilat eivät tuskin olisi kannattavia.
 ##### H5
 
 H5.3 *haasteena laiteintegraatio (?), farm mngmnt, päätöksenteon apu, datan perusteella*
-Ollaan vääjäämättä menossa siihen, että FMS tulee antamaan suosituksia helpottamaan viljelijän *toimintaa ja* päätöksentekoa. Järjestelmät voivat laskea *johtopäätöksiä* monen muuttuvan tekijän perusteella ja datan perusteella ymmärtää miten viljejijän työtä voidaan helpottaa sekä millaisilla toimilla saadaan paras tulos juuri kyseisessä toimintaympäristössä.
+Ollaan vääjäämättä menossa siihen, että FMS tulee antamaan suosituksia helpottamaan viljelijän *toimintaa ja* päätöksentekoa. Järjestelmät voivat laskea *johtopäätöksiä* monen muuttuvan tekijän perusteella ja datan perusteella ymmärtää miten viljelijän työtä voidaan helpottaa sekä millaisilla toimilla saadaan paras tulos juuri kyseisessä toimintaympäristössä.
 FMS, laitteista kerätty data ja muu tieto tulevat varmasti yhdistymään ja niitä tullaan käyttämään yhdessä. ...
 
 H5.7 *tulevaisuudenkuva/visio, aikavälillä mikä*
@@ -1347,22 +1347,6 @@ H5.19 *ohjelmistoratkaisuiden pirstaleisuus, muuta, mitä maataloudessa tapahtuu
 IoT on voimakkaasti tulossa toimintaan ja kaikki merkittävät laitevalmistajat ovat kehittämässä omia IoT-ratkaisuitaan.
 
 #### Muut teemat 277
-
-##### H4
-
-H4.3 *Ihmisen/käyttäjän rooli AIoT-järjestelmien ohjaamisessa ja päätöksenteossa* Vaikka IoT-ratkaisun/järjestelmän määrittelyssä ollaan joissain tapauksissa korvattu ihmisen tekemä valvonta, päätöksenteko ja toimeenpano automaattisilla koneiden toiminteilla, niin suuri osa IoT-ratkaisuiksi *merkityistä/määritellyistä* järjestelmistä on käytännössä sensoridatan lukemista ja ihmisten vastuulle on jäänyt ainakin lähes, jos ei kaikki päätöksenteko ja toiminta.
-Tämä johtuu juuri järjestelmien välisen kommunikaation puutteesta.
-Toisaalta ihmiselle jäävä päätösvalta ei ole pelkästään huono asia.
-Toisaalta mitä enemmän käytetään dataa ja mitä enemmän kone tekee ihmisen puolesta päätöksiä, niin sitä enemmän pitää kiinnittää huomiota käyttäjän oman asiantuntemuksen ylläpitoon. Käyttäjän nojautuminen täysin automaattisen järjestelmän varaan voi helposti aiheuttaa käyttäjän oman asiantuntemuksen puutteen ja sitä kautta kokonaisprosessin ymmärryksen vähenemisen tai häviämisen.
-
-##### H2
-
-H2.28 Vaikka viljelijä tekisi kaiken samoin joka vuosi, maasta voi vapautua ohrakasvustolle tietystä kohtaa peltoa 100 kiloa typpeä yhtenä vuonna ja toisena vuonna 60-70 kiloa.
-
-H2.29 Koska olosuhteet ja kasvukaudet vaihtelevat, tarvitaan osaamista, datan louhintaa ja algoritmien kehitystyötä aikaisemman tiedon pohjalta.
-Koska lannoitussuositus vaikuttaa sekä sekä satotasoon että kannattavuuteen, tulee suosituksia tehdessä tietää mitä vaikka 40 kilon muutos tarkoittaa ja mihin kaikkeen se vaikuttaa.
-Toisaalta muistaakseni noin puolet viljelijöistä ei laske viljatonnin tuotantokustannuksia, joten kustannusrakenteen tietoisuuteen tuomisessa on vielä paljon tehtävää työtä.
-
 
 ##### H3
 

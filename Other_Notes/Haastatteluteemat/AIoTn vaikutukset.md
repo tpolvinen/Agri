@@ -14,6 +14,11 @@ Asiakas- ja käyttäjälähtöisellä kehittämisellä voidaan päästä nyt nou
 5.3 Ollaan vääjäämättä menossa siihen, että FMS tulee antamaan suosituksia helpottamaan viljelijän *toimintaa ja* päätöksentekoa. Järjestelmät voivat laskea *johtopäätöksiä* monen muuttuvan tekijän perusteella ja datan perusteella ymmärtää miten viljejijän työtä voidaan helpottaa sekä millaisilla toimilla saadaan paras tulos juuri kyseisessä toimintaympäristössä.
 ... Mutta ollaan jo siinä tilanteessa, että laitteilta saadaan tieto FMSlle missä ne ovat liikkuneet, polttoaineenkulutus jne. jolloin holistisesta järjestelmästä voitaisiin saada yleisnäkymä maatilan toiminnasta.
 
+H4.3 *Ihmisen/käyttäjän rooli AIoT-järjestelmien ohjaamisessa ja päätöksenteossa* Vaikka IoT-ratkaisun/järjestelmän määrittelyssä ollaan joissain tapauksissa korvattu ihmisen tekemä valvonta, päätöksenteko ja toimeenpano automaattisilla koneiden toiminteilla, niin suuri osa IoT-ratkaisuiksi *merkityistä/määritellyistä* järjestelmistä on käytännössä sensoridatan lukemista ja ihmisten vastuulle on jäänyt ainakin lähes, jos ei kaikki päätöksenteko ja toiminta.
+Tämä johtuu juuri järjestelmien välisen kommunikaation puutteesta.
+Toisaalta ihmiselle jäävä päätösvalta ei ole pelkästään huono asia.
+Toisaalta mitä enemmän käytetään dataa ja mitä enemmän kone tekee ihmisen puolesta päätöksiä, niin sitä enemmän pitää kiinnittää huomiota käyttäjän oman asiantuntemuksen ylläpitoon. Käyttäjän nojautuminen täysin automaattisen järjestelmän varaan voi helposti aiheuttaa käyttäjän oman asiantuntemuksen puutteen ja sitä kautta kokonaisprosessin ymmärryksen vähenemisen tai häviämisen.
+
 5.14 *ruokaturva, ilmastonmuutos, väestönkasvu*
 ... Digitalisaation avulla voidaan tehostaa tuotantoa niin, että samalla työmäärällä tai resursseilla voidaan saada saman verran tai enemmän tuloksia. Selkeät tulokset todennäköisesti motivoisivat digitaalisten työkalujen käyttöön ottaneita toimijoita kehittämään toimintaansa edelleen. ...
 Vaikka nykyisillä tuotantotavoilla ja ammattitaidolla yksittäinen viljelijä voi hyvinkin pärjätä vastaisuudessakin, tuotannossa voi silti olla huomaamattaa jääneitä pullonkauloja, jotka voitaisiin havaita datan analysoinnilla. Samoin voi olla, ettei tehtyjen viljelypäätösten todellista kausaliteettia voida hahmottaa.
@@ -53,6 +58,7 @@ Omasta mielestäni riskejä digitalisaatiossa on hyvin vähän. Järjestelmät v
 ... Itse arvaan, että kasvatetaan korkean hinnan nopeasti kasvavia lajikkeita, esimerkiksi salaattia jota voi markkinoida steriilisti kasvatettuna ja josta voi saada korkeamman hinnan. ...
 
 4.18 Konttiviljelmistä on ollut kaikenlaisia kokeiluita ja sovelluksia, mutta niillä voitaisiin *ainakin teoriassa* mahdollistaa tuoreen ravinnon tuottamisen katastrofialueilla, missä tuoreiden elintarvikkeiden saatavuus on heikko ja niiden kuljettaminen paikan päälle voi olla vaikeaa mm. kylmäketjun puuttuessa.
+
 4.26 *uudet toimintatavat*
 Maatilojen tekemä yhteistyö voisi saada uusia toimintamalleja.
 Tällä hetkellä maatilat tekevät järjestäytymätöntä yhteistyötä niin, että edistyneemmän viljejijän toimintatapa voi levitä naapuritilojen käyttöön. Samankaltaista yhteistyötä voitaisiin tehdä teknologisilla alustoilla. ...
