@@ -23,3 +23,29 @@ Loppujen lopuksi viljelyssä syötteitä tulisi olla vähemmän kuin samaa tuote
 
 H4.29 Salaatti tarvitsee sähköllä tuotettua valoa, vettä ja ravinteita. Ravinteita tarvitaan salaattiin vähemmän kuin tuotetussa salaatissa on, koska syötteitä tulee muualtakin *(?)*.
 Kasvihuone- ja urbaaniviljelyssä ongelma on saada toiminnasta kannattavaa lopputuotteen vaatimilla syötteillä.
+
+--- 
+
+H3.5 ... Esimerkkinä peltoviljelyn maanäytetiedostojen tiedostoformaatti, jota käytetään tiedostojen siirrossa kentältä laboratorioon. Tiedostoformaatti kehitettiin joskus 80- ja 90-lukujen taitteessa ja oli tarkoitettu vain tietyn organisaation sisäiseen käytöön. Se on kuitenkin jäänyt alan standardiksi, vaikka sitä ei ole määritelty missään eikä kukaan ole kirjoittanut sitä auki.
+
+H3.6 Toinen esimerkki on viljavuuspalvelun siirtotiedostoformaatti, jonka kehittäjät kuolivat kaikki samassa onnettomuudessa, eikä kehitystä enää saatu yhden tahon johdon alle.
+
+H4.2 ... Traktoreiden automaatioteknologia tietokoneineen (vaihteisto-, moottori-, nostolaite-, ajotietokone) on integroitu itse traktoriin niin tiukasti, ettei käyttäjä edes huomaa käyttävänsä useita verkotettuja tietokoneita traktoria käyttäessään.
+
+H3.22 Olen itse lähestynyt IoT-asioita lähinnä laitelähtöisesti, ns. rautatasolla. Pidän IoT-laitteen ominaisuuksina sen tietoisuutta sen tietoverkkoon kytkeytymistä sekä sen kykyä lähettää ja vastaanottaa viestejä tietoverkkon yli.
+Hyvin yksinkertainen esimerkki voisi olla lämpötilaa mittaava laite, johon voidaan viitata IP-osoitteella ja saada laitteesta vastauksena tiedon sen olemassaolosta, toiminnallisuudesta ja mittauslukemia.
+
+H3.23 Tällä hetkellä on käytössä paljon lämpötila-antureita, mutta niistä laitteista saadaan ulos *jänniteviesti*/volttiviesti ja ne laitteet eivät voi viestiä verkon yli ja sitä voisin pitää jonkinlaisena rajana.
+Sovelluksen voi rakentaa alemman layerin/*tason* päälle.
+Johtamisen mielessä laitteeseen ja sen toimintaan pitää pystyä vaikuttamaan.
+Sovellus voi käyttää yhtä tai useampaa IoT-laitetta, joista se voi tallentaa tietoa *ja*/tai lähettää ohjeita toteutettaviksi.
+
+H3.24 ... Esimerkiksi navetan ilmastointilaitteen tilasta olisi hyödyllistä sekä saada tieto että sen toimintaan vaikuttaa verkon ylitse. Samoin ruokintalaitteen toimintaan olisi hyödyllistä voida vaikuttaa sekä sen tilaa ja toimintaa tarkkailla. ...
+
+H3.25 Viljakuivureissa on sovellettu automatiikkaa 70-luvulta lähtien. Alkuun toiminnallisuus on ollut relepohjaista ja säädettävät anturit ovat ohjanneet automatiikan toimintaa.
+Tällä hetkellä suurimmassa osassa viljakuivureiden automatiikoissa käytetään ohjelmoitavaa logiikkaa, mutta anturointi voi olla vielä voltti/jänniteviesteillä havaintoja välittävää johtojen päässä olevaa tekniikkaa, eikä IoT-tekniikkaa jossa tieto liikkuisi verkon yli. *?*
+
+H3.27 Jokaisella laitteella on käytännössä tällöin oma liittymä.
+Maatilalla navetassa voi helposti olla 10 eri valmistajien laitetta, joilla on jokaisella oma liittymä ja SIM-kortti, esimerkiksi ilmanvaihdolle on oma, palohälyttimelle oma, ruokinta-automaatille oma, lypsyrobotille oma, toiselle lypsyrobotille toinen jne.
+Liittymien kuukausimaksujen ollessa 10 € kuukaudessa näiden laitteiden vuosikustannukset muodostuvat viljelijälle jo huomattaviksi, erityisesti verrattaessa yksittäisten SMS-viestien hintaa IP-verkossa liikkuvien viestien hintaan.
+IP-verkossa hinta on käytännössä vain verkon rakentamisen kertakustannus, kun käytössä ei ole datamäärään perustuvaa veloitusta.

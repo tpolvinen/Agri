@@ -1,11 +1,5 @@
 # Holistinen FMS
 
-@aHaastattelu2017
-@bHaastattelu2017
-@cHaastattelu2017
-@dHaastattelu2018
-@eHaastattelu2018
-
 1.6 aikaisemmin: vaikeuksia saada dataa, kaukana datan siirron määräämisestä, kaukana rajapinnoista, kaukana lataamisesta omaan järjestelmään, monitorointitietoa saatavilla, yhden toimittajan loukku (teollisuusautomaatiossa ollut OK)
 
 5.9 Epäilen, että viljelijälle voi olla haasteellista kerätä tietoa useista järjestelmistä ja yhdistellä niitä kokonaiskuvan hahmottamiseksi. FMS-järjestelmät tulevat varmaan olemaan lähimpänä kokonaiskuvan tuottavaa tietojen esittämistä.
