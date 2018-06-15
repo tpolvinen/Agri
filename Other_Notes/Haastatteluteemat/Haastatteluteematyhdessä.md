@@ -40,7 +40,7 @@ H1.33 ... Historiallisesti ollaan toteutettu täsmäviljelyä jo hevosaikaan tal
 
 1.11 Pienillä peltopinta-aloilla toimittaessa tulee täsmäviljelyn vaatima lisäinvestointi koneiden hinnassa kattaa työn tehostamisella. Työtehoa saadaan yleensä lisättyä työkoneiden automaattiohjauksella ja telemetriatoimintojen avulla toimivan ennakoivan huollon sekä vikadiagnostiikan avulla. Telemetriapalveluista saadaan myös analytiikan avulla tietoa paitsi koneiden myös tuotantoprosessien tilasta, jolloin toimintaa voidaan optimoida parempien tulosten saavuttaamiseksi. Tällaisia etuja on aikaisemmin saatu vain full-liner -järjestelmien avulla, mutta nyt vastaavia tietoja tuottavia järjestelmiä on tullut markkinoille myös full-liner -ratkaisuiden ulkopuolelle. Oman työn tehostumisen lisäksi säästöjä voidaan saavuttaa myös tehokkaammalla urakoitsijoiden käytöllä, kun töiden ohjeistaminen tehdään digitaalisesti esimerkiksi työtiedostoilla.
 
-1.12 Pienillä tiloilla voidaan toteuttaa täsmäviljelyä viljelijän oman hiljaisen tiedon avulla ilman täsmäviljelyssä käytettäviä tietojärjestelmiä, mutta tehtäviä ulkoistettaessa täsmäviljelyn vaatimien ohjeiden määrä on suuri. Työkoneiden ja prosessien datan keräämisellä ja pilvipalveluun tallentamisella viljelijän omaa hiljaista tietoa voidaan hyödyntää myös urakoitsijan hoitaessa töitä.
+    1.12 Pienillä tiloilla voidaan toteuttaa täsmäviljelyä viljelijän oman hiljaisen tiedon avulla ilman täsmäviljelyssä käytettäviä tietojärjestelmiä, mutta tehtäviä ulkoistettaessa täsmäviljelyn vaatimien ohjeiden määrä on suuri. Työkoneiden ja prosessien datan keräämisellä ja pilvipalveluun tallentamisella viljelijän omaa hiljaista tietoa voidaan hyödyntää myös urakoitsijan hoitaessa töitä.
 
 2.30 Voin kuvitella, että tilakokojen kasvaessa ja tilojen määrän pienentyessä maanviljelystä tulee enemmän liiketoimintamaisempaa ja kustannusrakenteitakin lasketaan tarkemmin.
 
@@ -112,8 +112,7 @@ Tätä tarkoitusta varten ei ole oikeastaan muita standardeja kuin ISOBUS. ...
 
 2.5 ... Tällä hetkellä keskitytään eri tahojen eri tarkoituksiin keräämien tietojen yhdistämiseen, tiedolliseen käyttämiseen ja jakamiseen eri toimijoiden kesken.
 
-2.6 ... Ollaan siirtymässä koko ajan lähemmäs kokonaisvaltaista tilanhallintajärjestelmää ja
-Agritechnica -messuilla esiteltiin MyYara -viljelijäportaaliohjelmisto, jossa on esim. Saksan markkinoihin räätälöity viljelysuunnitteluohjelma, johon voi syöttää N-sensor-kartat ja N-tester-lukemat. ...
+2.6 ... Ollaan siirtymässä koko ajan lähemmäs kokonaisvaltaista tilanhallintajärjestelmää ja Agritechnica -messuilla esiteltiin MyYara -viljelijäportaaliohjelmisto, jossa on esim. Saksan markkinoihin räätälöity viljelysuunnitteluohjelma, johon voi syöttää N-sensor-kartat ja N-tester-lukemat. ...
 
 *osaksi isompaa järjestelmää-kehitys lähtee yksittäisten viljelijöiden digiharppauksilla, pienin askelin*
 
@@ -177,11 +176,14 @@ Puutarha- tai perunanviljelyssä käytetään enemmän tilakohtaisia sääasemia
 2.25 Viljelijöiden ja teknologiatoimittajien tulisi keskustella enemmän vallitsevasta tilanteesta ja teknologioiden tuomista mahdollisuuksista.
 
 2.23 Sensoriteknologia antaa mahdollisuuksia ulosmitata lohkolta saatavan satovasteen potentiaali tasaisesti. Tämä on menossa eteenpäin viljelijöiden keskuudessa.
-Toisaalta jos ei ole omaksuttu aikaisempaa teknologiakehitystä eli jaettua lannoitusta *(onko tämä variable rate?)* niin ei todennäköisesti omaksuta sensoriteknologian mahdollistamaa jaetun lannoituksen hallintaakaan.
+Toisaalta jos ei ole omaksuttu aikaisempaa teknologiakehitystä eli jaettua lannoitusta *(onko tämä variable rate? Ei taida olla, vaan eriin jaettu kokonaislannoitus.)* niin ei todennäköisesti omaksuta sensoriteknologian mahdollistamaa jaetun lannoituksen hallintaakaan.
 
 H2.24 Viljelijät eivät oman näkemykseni mukaan todennäköisesti tee suuria teknologiaharppauksia tai hyppäyksiä kehitysvaiheiden yli.
 
 2.39 Viljelijät voivat käyttää sensoriteknologiaa lannoituksen jakoon mutta en itse ole tietoinen, että drooneilla tai satelliteilla tehdystä kuvantamistiedoista ja kartoista olisi vielä tehty levitystä tukevaa tehtävää.
+
+
+*rakanteen tulisi viedä luontevasti hajanaiselta tilanteelta laitevalmistajien yhteistyöhön*
 
 ## Laitevalmistajien yhteistyö
 
@@ -211,6 +213,8 @@ Kun standardiin on sitoutunut koko teollisuus ja sitä on kehitetty 20-30 vuotta
 
 
 ### Holistinen FMS
+*on seuraava kehitysaskel, siksi erityisen mielenkiintoinen ja ajankohtainen aihe*
+*holistinen viljelyn- tai tilanhallintajärjestelmä (eng. Farm Management System FMS) on system of systems, tarkasta ja ehkä lisää graafi, mikä olisi seuraava merkittävä kehitysaskel kohti ekosysteemiä, ehkä globaalia ruokatuotannon järjestelmää*
 
 1.6 aikaisemmin: vaikeuksia saada dataa, kaukana datan siirron määräämisestä, kaukana rajapinnoista, kaukana lataamisesta omaan järjestelmään, monitorointitietoa saatavilla, yhden toimittajan loukku (teollisuusautomaatiossa ollut OK)
 
@@ -222,6 +226,9 @@ Näitä kaikkia yhdistävää holistista järjestelmää ei tietääkseni ole ku
 1.7 pääasiallinen pelto-ongelma on yhden toimittajan mahdotonta toteuttaa kokonaisvaltaista järjestelmää *Nikanderin lista eri sovelluksista* toimintaympäristön hallintaan. Hajanainen käyttöympäristö.
 
 3.8 Kokonaisvaltaiset FMSt ovat kehityskaaren ensimmäisellä neljänneksellä.
+3.8 Agritechnica-messuilla oli useita dataa yhteen tuovia/integraatiota tekeviä yrityksiä. ISOBUS oli yhteinen tekijä.
+3.9 Integraatioratkaisut olivat ilmeisesti pitkällä kehityksessä.
+3.9 Integraatioratkaisuihin oli ilmeisesti investoitu huomattavasti ja myyntiin panostettiin messuilla selkeästi.
 
 5.9 Ollaan kaukana kokonaisvaltaista tilanhallintajärjestelmästä, johon kaikki osajärjestelmät olisivat yhteydessä.
 
@@ -236,27 +243,25 @@ Näitä kaikkia yhdistävää holistista järjestelmää ei tietääkseni ole ku
 
 1.22 Nykyisissä järjestelmissä on jo älyä, rajoittuen pieniin operatiivisiin asioihin. *Tämä on hyvä!*
 
-5.3 ...ollaan tilanteessa, missä tieto laitteilta menee laitteiden tietoja keräävään järjestelmään: missä liikkuneet, polttoaineenkulutus jne. Kokonaisvaltaisesta järjestelmästä voitaisiin saada yleisnäkymä maatilan toiminnasta. *entä tulevaisuudessa, yleisnäkymä globaalista ruokatuotannosta ja -logistiikasta?*
-
 1.22 Perusautomatiikka on, systeemiautomaatio vaatii töitä, jotta sitä voisi käyttää AIn kanssa työn ohjaamiseen & analytiikkaan ylätason päätöksenteon apuna
 
 2.7 Järjestelmien välisiä rajapintoja ollaan rakentamassa. Esim. Yara + 365FarmNet.
 
+5.3 ...ollaan tilanteessa, missä tieto laitteilta menee laitteiden tietoja keräävään järjestelmään: missä liikkuneet, polttoaineenkulutus jne. Kokonaisvaltaisesta järjestelmästä voitaisiin saada yleisnäkymä maatilan toiminnasta. *entä tulevaisuudessa, yleisnäkymä globaalista ruokatuotannosta ja -logistiikasta?*
+
 5.9 Jotta järjestelmä, joka on keskittynyt laitteiden telemetriadatan keräämiseen, voisi toimia johonkin muuhun keskittyneen järjestelmän kanssa, tulisi molempiin järjestelmiin kehittää samoja ominaisuuksia, jolloin kolmas osapuoli voisi tehdä käyttöliittymän jolla molempien järjestelmien tietoja voitaisiin analysoida. -ei vielä asiakaskohtaista, asiakkaan pitäisi voida itse räätälöidä mitä tietoja haluaa näkyville.
 
+5.5 Meneillään olevassa agrirouter -hankkeessa/projektissa pyritään yhdistämään erilaiset toimijat, FMSit, IoT-toiminnot, telemetriatoimittajat, ISOBUS-koneet sellaiseen muotoon missä asiakas saisi suurimman hyödyn. Agrirouteria ollaan edistämässä globaaliksi ratkaisuksi.
+
 5.9 Agrirouter ja muut pyrkivät yhdistämään dataa ja tekemään datan liikuttelun mahdolliseksi. Tässä on omat haasteensa ratkaistavana ennen kuin kaikkia näitä (?) tietoja pystyy yhdistelemään keskenään. *Dataa yhdistelevät ratkaisut eivät taida olla kokonaisvaltaisia tilanhallintajärjestelmiä?*
-
-3.8 Agritechnica-messuilla oli useita dataa yhteen tuovia/integraatiota tekeviä yrityksiä. ISOBUS oli yhteinen tekijä.
-3.9 Integraatioratkaisut olivat ilmeisesti pitkällä kehityksessä.
-3.9 Integraatioratkaisuihin oli ilmeisesti investoitu huomattavasti ja myyntiin panostettiin messuilla selkeästi.
-
-5.3 *tulevaisuuskuvaan* Tulevaisuudessa mennään vääjäämättä FMSn antamiin viljejysuosituksiin, helpottamaan päätöksentekoa.
-5.3 *tulevaisuuskuvaan* Järjestelmät laskevat suosituksiin miten töitä helpotetaan ja miten saadaan paras tulos juuri siinä ympäristössä. *viljelytutkimus ja fenotyyppaus tulevat ikään kuin kentälle?*
-5.3 FMS + kerätty data laitteilta + muu tieto tulevat varmasti yhdistymään ja niitä tullaan käyttämään yhdessä.
 
 5.9 Ei ole tietoa aikavälistä millon kokonaisvaltaisia tilajärjestelmiä voisi tulla käyttöön.
 
 5.9 Voi olla, että kokonaisvaltainen tilanhallintajärjestelmä tulee olemaan 3-4 järjestelmän kokonaisuus, mikä kattaa tilan tarvitsemat toiminnallisuudet.
+
+5.3 *tulevaisuuskuvaan* Tulevaisuudessa mennään vääjäämättä FMSn antamiin viljejysuosituksiin, helpottamaan päätöksentekoa.
+5.3 *tulevaisuuskuvaan* Järjestelmät laskevat suosituksiin miten töitä helpotetaan ja miten saadaan paras tulos juuri siinä ympäristössä. *viljelytutkimus ja fenotyyppaus tulevat ikään kuin kentälle?*
+5.3 FMS + kerätty data laitteilta + muu tieto tulevat varmasti yhdistymään ja niitä tullaan käyttämään yhdessä.
 
 
 ## Data
@@ -276,7 +281,7 @@ Yara ja Kemira ovat yrittäneet tuottaa lentämällä otetuista kuvista vastaava
 4.12 Tiedän viljelijöitä, jotka jakavat kaiken viljelytoiminnassaan syntyneen datan johonkin palveluun, mutta he ovat yksittäistapauksia. 
 Viljelytoiminnassa syntynytta dataa ei mitenkään systemaattisesti käytetä hyväksi.
 
-5.5 Meneillään olevassa agrirouter -hankkeessa/projektissa pyritään yhdistämään erilaiset toimijat, FMSit, IoT-toiminnot, telemetriatoimittajat, ISOBUS-koneet sellaiseen muotoon missä asiakas saisi suurimman hyödyn. Agrirouteria ollaan edistämässä globaaliksi ratkaisuksi.
+*5.5 agrirouter-kappale siirretty Holistinen FMS-teemaan*
 
 3.18 Pohdittaessa datan myyntiä tällaisen palvelun/alustan kautta kannattaa arvioida, kuka olisi siitä valmis maksamaan.
 Viljelijällä on usein sopimukseen kirjattu velvollisuus antaa viljelyyn liittyvä data mukaan. Tällöin datalla ei saa lisää hintaa vaan sen luovuttaminen on velvollisuus.
@@ -287,7 +292,11 @@ Teollisuuden sisällä tieto voisi liikkua ja laatusertifikaatin toteutumisen va
 Kuluttajalle laadun viestiminen olisi helppoa.
 Monet sertifikaatit ovat tällä hetkellä aika kömpelöitä, esimerkiksi päätös luomutuotannosta tulee tehdä ennen tuotantoa, koska byrokratia on raskas. Luomutuotantoa tarkkaillaan sitten tilan omalla kirjanpidolla ja pistokokeilla. Luomun tuottamiseksi voisi olla ketterämpi vaihtoehto siinä, että viljelijä havaitsee, ettei tänä kesänä tarvitsekaan ruiskuttaa kasvinsuojeluaineita ja jatkuvasti toimintaa seuraavilla laitteilla voitaisiin luomun vaatimusten toteutuminen näyttää toteen.
 Datalähtöisellä sertifioinnilla voitaisiin saada erilaisten laatumerkkien toiminta joustavammiksi.
+
 ### Datan omistajuus
+
+*miksei tässä teemassa ole mitään H1stä?*
+*tämä ei tunnu kovin kattavalta tai muutenkaan tyydyttävältä, menee ehkä liikaa toimijoiden omiin juttuihin*
 
 4.9 Kun viljelysuunnitteluohjelmat siirtyvät yhä enemmän paikallisista ohjelmista pilvipalveluihin viljejijän toiminnassaan tuottaman datan omistajuudesta ei aina ole varmuutta.
 En tiedä onko suomessa yleisessä käytössä olevasta Wisu-sovelluksesta enää edes saatavilla paikallista versiota.
@@ -418,6 +427,7 @@ Tulevaisuudessa kehitystyön *(vai olisiko teknologiakehityksen?)* seuraavassa v
 Nämä koneoppimisen ja keinoälyn avulla automatisoidut järjestelmät voivat olla hyvinkin lähitulevaisuuden maanviljelyn asioita.
 
 5.14 ... jos suurin osa viljelijöistä ottaa käyttöön uusia digitaalisia työkaluja voimme nähdä hyvinkin suuria muutoksia maanviljelyksessä.
+
 ## Ruokaturva
 
 H1.47 IoT-teknologiat ja digitalisaatio maataloudessa on tärkeässä roolissa ruokaturvan ylläpitämisessä. Smart Farming auttaa myös huoltovarmuuden parantamisessa.
