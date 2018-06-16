@@ -134,8 +134,10 @@ Comma Separated Value (CSV)
 Monikerrosviljely = useissa päällekkäisissä tasoissa tapahtuvaa viljelyä, mikä eroaa tavallisen kasvihuoneen yhdessä tasossa tapahtuvasta viljelystä.
 Jaettu lannoitus
 Drooni, UAV, pienoiskopteri, neliroottoripienoiskopteri
+vendor lock, yhden valmistajan loukku
 
 # KAUHEAT SANAT
+MUTTA
 MYÖS
 TÄLLÖIN
 TÄMÄN JOHDOSTA/VAIKUTUKSESTA
@@ -192,9 +194,28 @@ Vastaavasti B.B. kertoi haastattelussa, että esimerkiksi Yaran N-sensorin käyt
 
 Sensoriteknologia antaa mahdollisuuksia ulosmitata lohkolta saatavan satovasteen potentiaali tasaisesti ja sensoriteknologian omaksuminen on laajenemassa viljelijöiden keskuudessa. Toisaalta uutta teknologiaa ei todennäköisesti omaksuta jos aiempi kehitysvaihe on vielä ottamatta käyttöön. *eikö A.A. puhunut juuri tästä?* Viljelijät eivät oman näkemykseni mukaan todennäköisesti tee suuria teknologiaharppauksia tai hyppäyksiä kehitysvaiheiden ylitse. Esimerkkinä peltoviljelyn lannoituksen tapauksesta B.B. mainitsi tämän aikaisemman kehitysvaiheen olleen jaetun lannoituksen omaksuminen ja uusi kehitysvaihe vastaavasti on jaetun lannoituksen hallinta uusien teknologioiden avulla. Ylipäätään AIoT-teknologioiden omaksunnan tilanteesta B.B. kertoi, että viljelijät voivat käyttää sensoriteknologiaa lannoituksen jakoon mutta hän ei itse ole tietoinen, että UAVillä/drooneilla tai sateliiteilla tehdystä kuvantamistiedoista ja kartoista olisi vielä tehty levitystä tukevaa tehtävää. (@bHaastattelu2017)
 
+*190 muistiinpanosanaa -> 223 sanaa >:(*
+
 ### Laitevalmistajien yhteistyö
 
+Koska maataloudessa toimintaympäristö on hyvin hajanainen, A.A.n mukaan mikään yksittäinen toimija ei ole halunnut tehdä suurinvestointeja oman standardinsa kehittämiseen ja riskeerata niin suurta tappiota kilpailutilanteessa muiden toimijoiden kanssa. Samalla ollaan huomattu, että niin sanottu full-liner -ratkaisu, missä kaikki maatilan laitteet ja työkoneet on hankittu samalta valmistajalta, ei sovellu kaikkien tilojen käyttöön tai ole investointina mahdollinen. (@aHaastattelu2017)
 
+Kilpailun sijaan on päädytty lähtökohtaisesti kehittämään toimintaympäristön standardeja yhdessä jakaen tuotekehityksen kustannukset. Vielä noin 10 vuotta sitten valmistajat uskoivat yleisesti suljettujen järjestelmien luovan kilpailuetua ja lisäävän liiketoimintaa. Nyt toimijat ovat havainneet kentän olevan niin hajanainen, että liiketoiminta on mahdollista vain avoimen yhteistoiminnan kautta. Avoimesti kehitetty mahdollisimman toimiva standardi on A.A.n näkemyksen mukaan tekninen alusta, jota kehittää ekosysteemi erilaisia toimijoita. Sitten kun standardin tekniset ongelmat on ratkottu ja pullonkaulat avattu sen ympärille kehittyy sitä hyödyntävä liiketoiminan ekosysteemi. (@aHaastattelu2017) Samoin E.E. kertoo, että laitevalmistajien välisellä yhteistyöllä on tavoitteena esimerkiksi ISOBUS-standardin tuotekehityksessä rakentaa yhteinen toimintaympäristö jossa voidaan rakentaa uusia digitaalisia ratkaisuita ja teknologiasovelluksia (@eHaastattelu2018).
+
+ISOBUS-standardin kehittämistä johtaa AEF, jonka työryhmät toteuttavat standardin osien kehittämistä. A.A.n mukaan standardi takaa laitteiden toiminnan käytännössä muiden standardin mukaisten laitteiden kanssa. Laitteiden välinen kommunikaatio on saatu toimimaan, mutta tiedonsiirto työkoneen CAN-väylästä pilvipalveluun tai maatilan datavarastoihin on vielä työn alla. Voi vaikuttaa siltä, että maatalous olisi jäljessä muihin teollisuudenaloihin verrattuna mutta tämä johtuu osin alan pirstaleisuudesta ja ISOBUS-standardin kehittämisessä on pitkään jouduttu keskittymään traktorien ja työkoneiden väliseen kommunikointiin. (@aHaastattelu2017)
+
+D.D.n mukaan luultavasti merkittävin yritys avoimien tiedonkäsittelystandardien kehittämiseksi ja niin sanotun vendor lockin välttämiseksi on AEF:n yritys saada vuonna 2018 ISOBUS-standardilla kytketyt koneet yhdistettyä viljelysuunnitteluohjelmistoihin. Tästä integraatiosta on tulossa osa ISOBUS-standardia ja sitä valmistelemassa on useita keskieurooppalaisia ohjelmistosuunnittelun yrityksiä. Suomalaisista toimijoista ainakin Agrineuvoksen kehittäjät ovat seuraamassa tämän integraation kehitystä. D.D. arvioi, että he seuraavat tilannetta toistaiseksi ja kun standardista tulee riittävän stabiili he tekevät päätöksiä siitä, missä määrin ottavat standardin käyttöön omassa toiminnassaan.
+
+Maatalouden laitevalmistajien kilpailussa ollaan siirtymässä yhä enemmän koneen fyysisistä ominaisuuksista palveluiden ominaisuuksiin ja siihen, millaista lisäarvoa käyttäjä voi saada palvelun tuottaman tiedon avulla. Avointen standardien avulla valmistajat, jotka eivät voi tarjota full liner -ratkaisua, voivat tarjota samankaltaista lisäarvoa koneidensa hankkineille käyttäjille kuin suuret fill-liner:eiden valmistajat. Pienet valmistajat voivat keskittyä tekemään parhaan mahdollisen koneen tiettyyn tarkoitukseen ja joka on avoimien standardien avulla yhteensopiva modernien automaatio- ja pilvijärjestelmien kanssa. Näin yhteensopivuuden avulla sille voidaan luvata samanlaiset edut kuin full-liner:eiden kokonaisjärjestelmillä on. Esimerkiksi kylvökoneen arvolupaus on suurempi, jos se toimii osana urakoitsijan konevalikoimaa tai yrittäjien keskinäistä koneketjua. Esimerkiksi yksittäinen kylvökone voi tehdä mekaaniset toimintonsa hyvin, mutta se on sinänsä vain yksittäinen kylvökone ja sen arvolupaus rajoittuu siihen itseensä. Ollessaan kytketty suurempaan kokonaisuuteen kylvökone voi tuottaa enemmän liiketoimintaa, arvoa ja tuottoa. (@aHaastattelu2017)
+
+
+*nämä kaksi kappaletta on vielä kirjoitettava uusiksi:*
+Uusien standardiperusteisien teknologioiden etu on, että niitä voidaan ottaa käyttöön asteittain pienissä paloissa. Standardien kuten ISOBUS etu on, että niitä on kehitetty pitkään ja maatalouden teollisuus on niihin sitoutunut.
+Voi tulla teknologioita, jolla asiat voi tehdä helpommin kuin CAN-väylää käyttäen, mutta omaksuminen tapahtuu hitaasti. Tällä hetkellä tutkitaan standardisoinnissa teollista ethernettiä CAN-väylän sijaan. Jos uudet standardit tulevat käyttämään sitä, tulisi sen silti olla yhteensopiva ja käyttökelpoinen vanhojen laitteiden kanssa, esim. 30 vuotta vanha traktori. (@aHaastattelu2017)
+
+H1.32 Standardien mukaiset laitteet ovat tietoturvallisempia teollisuuden kehittäessä myös sitä.
+Teollisuus ymmärtää, että asiakkaat loppuvat jos tietoturvasta ei pidetä huolta.
+Kun standardiin on sitoutunut koko teollisuus ja sitä on kehitetty 20-30 vuotta, niin myös viljelijät voivat siihen sitoutua (@aHaastattelu2017)
 
 
 A.A. 
