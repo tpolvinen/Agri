@@ -136,6 +136,9 @@ Jaettu lannoitus
 Drooni, UAV, pienoiskopteri, neliroottoripienoiskopteri
 vendor lock, yhden valmistajan loukku
 
+Epävarmat termit **lihavoitu**.
+Omat muistiinpanot sun muut *kursiivilla*.
+Todennäköisesti poistettava teksti ~~yliviivattu~~
 
 ### Yleistilanne
 
@@ -177,6 +180,12 @@ A.A. avaa viljelijöiden yksilöllisten tarpeiden taustaa korostamalla maatiloje
 E.E. kertoi, että AIoTn ja maatalouden digitalisaation projekteihin panostetaan voimakkaasti useissa yrityksissä. Telemetriatuotteiden, tilanhallintajärjestelmien ja laitteiden käytön osa-alueet on yleisesti katsottu prioriteeteiksi ja ne edustavat maatalouden uuden teknologia-aallon huippua. Tämän aallon mukana Valtra on lähdössä kaupallistamaan ensimmäistä telemetria- ja IoT-ratkaisua, mikä on saanut hyvän vastaanoton. Asiakkaiden arvioiden mukaan tämä ratkaisu ei ole vain hyödyllinen lisä vaan toiminnalle vastaisuudessa ehdottoman tarpeellinen. Ratkaisulla pyritään helpottamaan viljelijän työtä toimintaympäristössä, missä hänen tulee ymmärtää kasvibiologiaa ja meteorologiaa, koneiden huoltoa ja operointia, liiketoimintaa jne. sekä hallita näihin liittyviä toimintoja päivittäisessä työskentelyssä. Samalla Valtra laitevalmistajana pyrkii laitteiden tuottaman tiedon perusteella läheisempään yhteistyöhön viljelijän kanssa. Lisäksi pyritään tekemään aikaisempaa parempaa ja asiakaslähtöisempää tuotekehitystä. Näin IoT-ympäristön kehittymisestä on hyötyä koko maataloudelle, samoin kuin siitä on molemminpuolinen hyöty sekä laitevalmistajille että heidän asiakkailleen. (@eHaastattelu2018)
 
 Uusien teknologiaratkaisuiden levitessä ja tilakokojen kasvaessa D.D. kehotti kiinnittämään huomiota viljelijän toiminnan luonteen muuttumiseen: rooli peltotöiden suorittajasta on muuttumassa "manageriksi" ja tilan toiminnan hallinnoijaksi. Robotin suorittaessa peltotyön viljelijän puolesta viljelijä voi päätyä kauemmas itse pellosta ja pellolla vallitsevasta tilanteesta. Tämä voi vaikuttaa i) pitkällä tähtäimellä negatiivisesti viljelijän ammattitaitoon ja ii) lyhyellä aikavälillä viljelijän tilannetietoisuuteen pelloilla vallitsevasta tilanteesta. (@dHaastattelu2018)
+
+*433 -> 465 sanaa per 5 tomaattia, aamupäivä*
+*830 muistiinpanosanaa = 480 sanaa, 11 tomaattia, 1 päivä*
+*tot. muistiinpanosanaa 9300 sanaa -> 11 päivää*
+
+*Eiku tsempattiin: 1745 -> 1123 sanaa per 17,2 tomaattia, 1 pitkä päivä = 15 h*
 
 #### AIoTn käyttöönoton/omaksumisen laajuus/tilanne (Suomessa)
 
@@ -250,6 +259,38 @@ Laatusertifikaattien valvontaan tarkoitettu sovellus toisaalta voisi olla D.D.n 
 
 ### Datan omistajuus
 
+Kun viljelysuunnitteluohjelmat siirtyvät yhä enemmän paikallisista ohjelmista pilvipalveluihin viljejijän toiminnassaan tuottaman datan omistajuudesta ei aina ole varmuutta. Siinä missä aikaisemmin käyttäjän omalle koneelle tallentannettu tieto oli täysin käyttäjän omassa hallinnassa, niin nyt palveluntarjoajan tietojärjestelmään tallennettuun tietoon käyttäjällä on vain pääsy. D.D.n ymmärryksen mukaan kaikki merkittävät suomalaiset viljelysuunnitteluohjelmat ovat menossa kohti pilvimallia, jossa tietoja käsitellään verkkoselaimen tai vastaavan sovelluksen läpi. Tällöin kysymys datan omistajuudensta muodostuu yhä merkittävämmäksi. (@dHaastattelu2018)
+
+B.B.n mukaan he eivät ole vielä kohdanneet viljelijöiden kanssa toimiessaan datan omistajuuskysymystä. Hänen mukaansa heidän toiminnassaan asiakas omistaa aina tuottamansa datan, eivätkä he kerää asiakkaan tuottamaa tietoa, vaan asiakas tuottaa ja käyttää dataansa itse.  Suurin osa toimijoista jotka pyrkivät datan siirtelemiseen tai hakevat pääsyä dataan ovat heidän tapauksessaan ohjelmistotuottajia, jotka pyrkivät yhteistyöhön laitevalmistajien kanssa. Pieni osa datan käsittelystä kiinnostuneita toimijoista on yksittäisiä viljelijöitä, jotka käyttävät tilanhallintajärjestelmiä ja pohtivat voisiko dataa liikutella tai tuoda sitä muuten käytettäväksi eri järjestelmien välille. (@bHaastattelu2017)
+
+Haastattelussa E.E. toi esille näkökulman datan omistajuudesta ja viljelijöiden käytännön tarpeista: Asiakas omistaa kaiken datan, mitä heidän järjestelmänsä käsittelee. Asiakas voi heidän järjestelmästään ottaa oman datansa käsiteltäväksi vaikka taulukkolaskentasovellukseen, mutta heidän käyttöliittymänsä tarjoaa paremmat mahdollisuudet tiedon analysointiin ja vertailuun. Käyttöliittymän avulla voidaan datasta jalostaa raportteja ja analyyseja, mutta ilman käyttöliittymää data ei ole hyödynnettävissä. Hänen oman näkemyksensä mukaan on hyvin epätodennäköistä, että viljelijöillä olisi aikaa tai motivaatiota kehittää omaa analytiikkaa tuottamastaan datasta jos suinkin on saatavilla käyttöliittymä, josta tarvittavat asiat voi nähdä helposti. Lisäksi käyttöliittymä voi ohjata käyttäjää tunnistamaan viljelijän toiminnassa olevat pullonkaulat ja näin ohjata viljelijää keskittämään resursseja toimenpiteisiin, joista on hänen omalle toiminnalleen suurimmat hyödyt. Ylipäätään AIoT-ratkaisuiden tuottaman datan käsittelyssä korostuvat käyttäjien tarpeet helppokäyttöisyydestä ja tarvittavan tiedon tulemisesta esille oikea-aikaisesti. (@eHaastattelu2018)
+
+
+### Datan liikkuminen tuotantoketjussa
+
+Tuotantoketjun mittaroinnissa pyritään usein ympäristöystävällisempään ja/tai tehokkaampaan toimintaan. C.C.n näkemyksen mukaan tuotantoketjun tuottamaa dataa hyödynnettäessä tulisi ottaa huomioon tuotantoketjun kokonaisuus eikä keskittyä vain tietyn mittarin seuraamiseen, oli sitten kyse ympäristöystävällisyyden tai tuotantotehon mittaroinnista. (@cHaastattelu2017)
+
+Tuotantoketjun datan ensisijainen tarvitsija on viljelijä itse, joka sen avulla pyrkii parantamaan päätöksentekoa omassa viljelyprosessissaan (@cHaastattelu2017). Viljelyprosesseista kerätystä datasta kertyy tuotantotapatieto, joka voi käsittää mitä kylvetään, mihin paikkaan, mihin kellonaikaan, sääolosuhteet jne. Lisäksi sadonkorjuusta saadaan tieto mistä kohtaa peltoa sato on korjattu ja korjattuun satoon voidaan lisätä tunnistetieto ja tuotantotapatiedot. Tällöin voidaan laskea korjatulle erälle hiilijalanjälki, lisätä tieto miten, millaisia -- ja jos -- kasvisuojeluaineita on käytetty ja lopuksi myydä se omana arvoeränä. Osa tuotannosta voitaisiin edelleen myydä bulkkituotantona kuin ennenkin, mutta osalle sadosta voitaisiin tavoitella parmpaa hintaa. (@aHaastattelu2017)
+
+Datan toissijainen tarvitsija on tuotantoketju, joka tarvitsee tuotantoinformaation pystyäkseen todistamaan tuotteen alkuperän ja tuotantoprosessin oikeellisuuden (@cHaastattelu2017). A.A.n mukaan kuluttajalle asti tiedot tuottava ja läpinäkyvä tuotantoketju mahdollistuisi jos käytettävissä olisi standardit joiden mukaisesti datavirtaa käsiteltäisiin. Samalla mahdollistuisi tehokas tiedon jako ja verkostomainen toiminta erilaisten toimijoiden kesken. Tällaisen tehokkaan verkostomaisen toiminnan edellyttyksenä olevat standardit ovat vasta kehitteillä. A.A.n oman näkemyksen mukaan kentällä on edelläkävijöinä toimijoita, jotka soveltavat uusia toimintamalleja käytäntöön ja määrittelevät omalta osaltaan kehitettävien standardien toimintaa. Näitä standardeja kehitetään liiketoiminnan lähtökohdista sekä liiketoiminnan yhteyteen, tarkoituksena kehittää toimintaa entistä kustannustehokkaammaksi ja sujuvammin toimivaksi. (@aHaastattelu2017)
+
+Vaikka teknologia mahdollistaisi sadosta erillisten arvoerien tuottannon, ongelmaksi voi tulla paitsi logistiikka erän käsittelyssä, myös miten viljelijä voi löytää pienelle erikoistuneelle erälle ostajan. A.A. hahmotteli visiona, miten viljelijät voisivat verkostoitua sopivan palvelun kautta, vertailla tuottamiensa erien tietoja ja myydä samankaltaiset erät yhdistämällä ne suuremmaksi eräksi. Tällaisia palveluita ei vielä ole saatavilla, mutta tällöin markkinoilta voitaisiin etsiä ostaja suuremmalle erälle, joka voisi olla koottu vaikka koko Suomen tai pohjoismaiden alueelta. Samalla tavalla ostajat voisivat verkostoitua palvelujen kautta hankkimaan yhdessä sovittujen määritelmien mukaisia eriä. (@aHaastattelu2017)
+
+A.A. kertoi, että viljelijät ovat nähneet tärkeäksi suoran yhteyden kuluttajiin. Lähiruoalla on kysyntää, samoin tiedolle ruoan alkuperästä ja tuotantomenetelmistä. Tuotantoketju on tällä hetkellä suppilomainen parin keskeisen toimijan hallitessa jakelua, mutta digitalisaation avulla voitaisiin kehittää keskusteluyhteyksiä suppilon leveiden päiden eli tuottajien ja kuluttajien välille. keskusteluyhteyksiä varten maatalouden käyttöön on visioitu digitaalisia yhteiskehittämisalustoja kuten VTT:n Owela, missä viljelijät voivat kehittää toimintaansa suorassa vuorovaikutuksessa kuluttajien kanssa. Tällaisten kehitysalustojen avulla voitaisiin myös lisätä kuluttajien tietoisuutta tuotteiden kulurakenteesta ja siitä, millainen osa hinnasta päätyy viljelijälle. Paremman tietämyksen avulla kuluttajat voivat vaikuttaa tuotantoketjun tasa-arvoisuuteen valinnoillaan. (@aHaastattelu2017)
+
+Vaikka tuotantoketjun tiedot saataisiin kuluttajien saataville, voisi tietojen ymmärtäminen silti osoittautua haasteelliseksi. A.A. arveli, että kuluttajille voi olla vaikea ymmärtää lannoituksesta laskettuja indikaattoreita ilman hyvää ymmärrystä lannoitteiden käytöstä. Hänen mukaansa käytettävillä indikaattoreilla pitäisi pystyä selkeään kommunikointiin missä tuote on hyvä ja missä ei. Lisäksi tuotteiden hinnoittelun pitäisi myös perustua dataan, jotta tuotteelle voitaisiin antaa sen todellisen laadun mukainen hinta. (@aHaastattelu2017)
+
+D.D. puolestaan arveli tuotantoketjun tietojen kuluttajille tuomisen tarkoituksenmukaisuuden ja todellisen tarpeen olevan käytännössä vähäisiä. Hänen mukaansa suuren yleisön kiinnostus lähiruokaa ja REKO-ruokarinkejä kohtaan on hiipunut ja tämä sovellus voisi olla samankaltainen ilmiö, joka toteutuessaan jäisi jonkin ajan kuluessa vain pienen harrastajapiirin käyttöön. Jotta kuluttajat yleensä jaksaisivat tarkastella tuotantotietoa, tulisi se näyttää heille täysin vaivattomasti vaikka lisätyn todellisuuden avulla ja todennäköisesti Google Glass:in tapaisen laitteen avulla. Lisäksi näytettävien tietojen tulisi olla yksiselitteisiä ja tietoja tulisi olla vain muutamia, kuten millä tilalla se on tuotettu, kuinka pitkä matka sitä kaikkiaan on kuljetettu, kokonaishiilijalanjälki, hiilidioksidijalanjälki ja vesijalanjälki. Älypuhelinsovelluksena tälläinen sovellus voitaisiin toteuttaa, mutta universaalia sovellusta voi olla vaikea kehittää useiden eri toimijoiden kuten S- ja K-ryhmän sovellusten yleensä kilpaillessa keskenään. (@eHaastattelu2018)
+
+*4115 - 245 - 79 = 3791 sanaa kasassa, noin 11,5 sivua*
+*<17-06-2018  21:18>*
+*ollaan muistiinpanoissa kohdassa 4128 per 9260 sanaa, noin 45 %*
+*kirjoitukseen meni tänään noin 10,5 tomaattia, tuloksena 1405 sanaa*
+*editointiin meni aamupäivällä vähän yli 3 tomaattia*
+
+## AIoTn vaikutukset
+
+
 
 
 A.A. 
@@ -264,9 +305,6 @@ E.E.
 @eHaastattelu2018
 
 
-
-### Datan liikkuminen tuotantoketjussa
-## AIoTn vaikutukset
 ## Ruokaturva
 *50 % jo! :D*
 ## AIoTn haasteet
@@ -283,11 +321,7 @@ SAMOIN (KUIN)
 jnk. MUKAAN
 KUITENKIN
 
-*433 -> 465 sanaa per 5 tomaattia, aamupäivä*
-*830 muistiinpanosanaa = 480 sanaa, 11 tomaattia, 1 päivä*
-*tot. muistiinpanosanaa 9300 sanaa -> 11 päivää*
 
-*Eiku tsempattiin: 1745 -> 1123 sanaa per 17,2 tomaattia, 1 pitkä päivä = 15 h*
 
 ## Haastatteluista saatujen tulosten vertailu kirjallisuuskatsauksen tuloksiin
 

@@ -45,7 +45,7 @@ H1.33 ... Historiallisesti ollaan toteutettu täsmäviljelyä jo hevosaikaan tal
 2.30 Voin kuvitella, että tilakokojen kasvaessa ja tilojen määrän pienentyessä maanviljelystä tulee enemmän liiketoimintamaisempaa ja kustannusrakenteitakin lasketaan tarkemmin.
 
 1.29 Tilojen määrän vähentyessä jäljelle jäävistä yhä suurempi osa tekee liiketoimintaa enemmän tosissaan, mikä voi alentaa uusien asioiden käyttöönoton kynnystä. 
-    Toisaalta suomalaiset viljelijät ovat tehneet investointeja hyvin harkiten ja välttämällä suuria kertainvestointeja. Samalla viljelijät ovat pyrkineet keskittämään hankintansa todistetusti toimivaan tekniikkaan ja sovittamaan toimintansa kulloinkin vallitseviin suhdanteisiin. ...
+    ~~Toisaalta suomalaiset viljelijät ovat tehneet investointeja hyvin harkiten ja välttämällä suuria kertainvestointeja. Samalla viljelijät ovat pyrkineet keskittämään hankintansa todistetusti toimivaan tekniikkaan ja sovittamaan toimintansa kulloinkin vallitseviin suhdanteisiin. ...~~
 
 *tähän aasinsilta tekniikasta ja laitteista, joita hankitaan ja joihin on tulossa uutta*
 
@@ -78,15 +78,15 @@ Verkottuminen on alussa mutta selkeä suunta.
 1.1 ... Teknologioita otetaan käyttöön yksittäin, tapaus tapaukselta, eikä viljelyprosessien digitalisointi toimi samalla tavoin kuin teollisuuden prosessien kanssa.
 
 3.20 Myytävinä tuotteina maatalouden IoT-ratkaisuita on aika vähän. Tällä hetkellä kentällä on käytössä ratkaisuita, joissa saattaa olla joitain varsinaisten IoT-ratkaisuiden piirteitä ja toiminnallisuuksia.
-    Viljelysuunnittelun teko pellolla toimii PC-ohjelmana, mihin on kokeellisesti liitetty omia sääasemia mutta ei muita laitteita.
+    ~~Viljelysuunnittelun teko pellolla toimii PC-ohjelmana, mihin on kokeellisesti liitetty omia sääasemia mutta ei muita laitteita.~~
 
 3.24 Tällaiset *oikeat IoT-* laitteet ovat vielä harvassa, mutta niiden yleistymistä odotetaan tapahtuvaksi lähiaikoina.
 ...
-    Viljakuivurin toimintaa olisi erityisen hyödyllista voida hallita etäisesti, koska sen käyttösesonki on lyhyt *mutta viljelijälle kiireinen*.
+    ~~Viljakuivurin toimintaa olisi erityisen hyödyllista voida hallita etäisesti, koska sen käyttösesonki on lyhyt *mutta viljelijälle kiireinen*.~~
 
-    3.21 Valtran huollon sovellus, jolla huolto voi havainnoida traktoreita ja tarvittaessa antaa etätukea ja ohjata kentällä olevia huollon työntekijöitä, on kyllä IoT-ratkaisu.
+    ~~3.21 Valtran huollon sovellus, jolla huolto voi havainnoida traktoreita ja tarvittaessa antaa etätukea ja ohjata kentällä olevia huollon työntekijöitä, on kyllä IoT-ratkaisu.~~
 Meneillään olevasta IoT-buumista huolimatta sellaisia laitteita, jotka olisi alunperin suunniteltu IoT-laitteiksi joilla on oma nettiosoite, josta voidaan kerätä dataa ja jonka toimintaan voidaan vaikuttaa *verkon yli*, on aika vähän.
-    Laitteiden välillä liikkuu kyllä dataa, mutta muutenkin kuin IP-verkon kautta kuten muistilaitteilla siirrettynä paikasta toiseen.
+    ~~Laitteiden välillä liikkuu kyllä dataa, mutta muutenkin kuin IP-verkon kautta kuten muistilaitteilla siirrettynä paikasta toiseen.~~
 
 4.2 Verrattuna tilanteeseen neljä vuotta sitten, nyt saadaan enemmän kytkettyä laitteita vapaasti toisiinsa. ...
 4.1 ... *Osat ovat vielä erillään.*
@@ -115,7 +115,7 @@ Tätä tarkoitusta varten ei ole oikeastaan muita standardeja kuin ISOBUS. ...
 2.5 ... Tällä hetkellä keskitytään eri tahojen eri tarkoituksiin keräämien tietojen yhdistämiseen, tiedolliseen käyttämiseen ja jakamiseen eri toimijoiden kesken.
 
 2.6 ... Ollaan siirtymässä koko ajan lähemmäs kokonaisvaltaista tilanhallintajärjestelmää ja
-    Agritechnica -messuilla esiteltiin MyYara -viljelijäportaaliohjelmisto, jossa on esim. Saksan markkinoihin räätälöity viljelysuunnitteluohjelma, johon voi syöttää N-sensor-kartat ja N-tester-lukemat. ...
+    ~~Agritechnica -messuilla esiteltiin MyYara -viljelijäportaaliohjelmisto, jossa on esim. Saksan markkinoihin räätälöity viljelysuunnitteluohjelma, johon voi syöttää N-sensor-kartat ja N-tester-lukemat. ...~~
 
 *osaksi isompaa järjestelmää-kehitys lähtee yksittäisten viljelijöiden digiharppauksilla, pienin askelin*
 
@@ -125,11 +125,11 @@ Tämä voi alkaa esimerkiksi yhden telemetriatuotteen käyttöönotolla josta he
 ...
 
 1.2 Maatilat ovat yksittäistapauksia: tuotantosuunniltaan, tilakooltaan, henkilöstöltään, historialtaan, teknologiatasoltaan, teknologiaorientoitumiseltaan hyvin erilaisia. 
-    Kentällä on otettu digitaalisia työkaluja käyttöön hyvin vaihtelevasti. 
+    ~~Kentällä on otettu digitaalisia työkaluja käyttöön hyvin vaihtelevasti.~~ 
 Osa viljelijöistä aktiivisesti etsii ja ottaa käyttöön uusia teknogioita toimintansa tehostamiseksi, osa taas ei ottaisi niitä käyttöön vaikka niitä tarjottaisiin valmiina ratkaisuina.
 
 5.? Asiakkaat haluavat ymmärtää miten heidän omaa toimintaansa voidaan parantaa, miten nykyisestä peltopinta-alasta pystyttäisi hankkimaan enemmän, tehokkaammin, pienemmillä kustannuksilla 
-    ollen ensimmäisinä toimijoina uudella markkina-alueella.
+    ~~ollen ensimmäisinä toimijoina uudella markkina-alueella.~~
 Puhutaan kahdesta eri tavasta: 
 1. Miten laitteen tuottamaa dataa voitaisiin hyödyntää, miten maanviljelystä on tehty sekä miten laitteita on käytetty.
 2. Farm Management Software (FMS) missä voidaan päättelemällä miten toimintaa/prosesseja voitaisiin parantaa.
@@ -142,7 +142,7 @@ Asiakas- ja käyttäjälähtöisellä kehittämisellä voidaan päästä nyt nou
 Tämän aallonharjan ylitse pääsyn vaatimien ponnistelujen jälkeen voidaan jatkaa kehittämistä saatujen kokemusten ja näkemysten viitoittamaan suuntaan.
 
 5.2 AGCOn osalta Valtra on lähdössä kaupallistamaan ensimmäistä telemetria- ja IoT-ratkaisua, mikä on saanut todella hyvän vastaanoton. Asiakkaat ovat vaatimassa tätä ratkaisua käyttöönsä ja asiakkaiden arvioiden mukaan tämä ratkaisu ei ole vain hyödyllinen lisä vaan toiminnalle vastaisuudessa ehdottoman tarpeellinen.
-    Asiakkaiden havaittua telemetriaratkaisun hyödyt sellainen halutaan kaikkiin laitteisiin.
+    ~~Asiakkaiden havaittua telemetriaratkaisun hyödyt sellainen halutaan kaikkiin laitteisiin.~~
 Viljelijälle pyritään tuottamaan ikään kuin sihteeri olkapäälle muistuttamaan tarvittavista toimenpiteistä, koska maanviljelijän työssä tulee ymmärtää biologiaa/kasvitiedettä, koneiden huoltoa ja operointia, meteorologiaa, liiketoimintaa jne. ja kaikkiin näihin liittyviä toimintoja tulee hallita päivittäisessä työskentelyssä, jolloin on tarvetta kaikille helpottaville ratkaisuille. Paitsi, että näillä ratkaisuillamme viljelijän työtä voidaan helpottaa, voimme AGCOna, laite- ja ratkaisutoimittajana päästä lähemmäs viljelijää partnerina jolloin voimme myös tehdä parempaa ja asiakaslähtöisempää tuotekehitystä. *IoT-teknologiaratkaisuilla voidaan tehdä tuotekehitystä myös datan perusteella, asiakaspalautteen ja oman työn lisäksi.*
 IoT-ympäristön kehittymisestä on hyötyä koko maataloudelle, samoin kuin siitä on molemminpuolinen hyöty sekä meille että asiakkaillemme.
 
@@ -163,12 +163,12 @@ Samoin kuin muussa teollisuusautomaatiossa, nämä monikerrosviljelyjärjestelm�
 
 1.5 On tärkeää huomata, että tehdasmaisessa toimintaympäristössä yksi toimija on voinut valmistaa kattavan kokonaisratkaisun tai 2-3 toimijaa ovat voineet muodostaa pienen ekosysteemin, joiden tuotteet muodostavat keskenään vastaavan kokonaisratkaisun. Tämänkaltaisen ratkaisun ei tarvitse olla yhteensopiva tai toimia minkään muun toimittajan järjestelmien kanssa, mikä tekee tuotekehityksestä paljon helpompaa.
 
-    4.17 Kasvihuonetuotannon ja kasvitehtaiden IoT-ratkaisuiden kehitys käy kuumana, mutta itse odotan muita kuin salaatin kasvatusta.
+    ~~4.17 Kasvihuonetuotannon ja kasvitehtaiden IoT-ratkaisuiden kehitys käy kuumana, mutta itse odotan muita kuin salaatin kasvatusta.~~
 
 
 
 
-    1.36 Peltoviljelyssä ei tehdasmainen automaatioteknologioiden sovellus onnistu, toisin kuin kasvihuonetuotannossa. Kasvihuonetuotannossa voidaan soveltaa suoraan tehdasautomaatiota jo konseptitasolla.
+    ~~1.36 Peltoviljelyssä ei tehdasmainen automaatioteknologioiden sovellus onnistu, toisin kuin kasvihuonetuotannossa. Kasvihuonetuotannossa voidaan soveltaa suoraan tehdasautomaatiota jo konseptitasolla.~~
 
 4.4 Viljelijän toiminnan luonteen muuttumiseen tulee kiinnittää huomiota. Rooli peltotöiden suorittajasta on muuttumassa "manageriksi" ja tilan toiminnan hallinnoijaksi.
 Tällöin viljelijä on aika kaukana itse pellosta ja pellolla vallitsevasta tilanteesta robotin suorittaessa peltotyön viljelijän puolesta. Tämä vaikuttaa pitemmällä tähtäimellä viljelijän ammattitaitoon ja lyhyellä aikavälillä viljelijän tilannetietoisuuteen pelloilla vallitsevasta tilanteesta.
@@ -209,7 +209,7 @@ H2.24 Viljelijät eivät oman näkemykseni mukaan todennäköisesti tee suuria t
 
 4.7 Luultavasti merkittävin yritys avoimien tiedonkäsittelystandardien kehittämiseksi ja ns. vendor lockin välttämiseksi on AEF:n yritys saada tänä vuonna ISOBUS-standardilla kytketyt koneet yhdistettyä viljelysuunnitteluohjelmistoihin. Tästä integraatiosta on tulossa osa ISOBUS-standardia ja sitä valmistelemassa on 4 tai 5 keskieurooppalaista ohjelmistosuunnittelun yritystä. Suomalaisista toimijoista ainakin Agrineuvoksen kehittäjät ovat seuraamassa integraation kehittämistä. Luulen, että he seuraavat tilannetta ja kun standardista tulee riittävän stabiili he tekevät päätöksiä missä määrin ottavat standardin käyttöön omassa toiminnassaan.
 
-    1.15 Valmistajat voivat standardien mukaan toimiessaan rakentaa omia edistyneempiä tai erikoistuneempia ominaisuuksia, jotka toimivat heidän laitteissaan heidän määrittelemissä puitteissa, esimerkiksi tietyn merkin traktorin kanssa voidaan saman merkin työkoneesta saada käyttöön enemmän kuin jos työkonetta käytettäisiin toisen valmistajan traktorin kanssa. Käyttökohteita ja -tarpeita on niin suuri kirjo, että toiminnallisuuksia pitääkin räätälöidä ja näiden erikoistoimintojen sisällöllä voidaan erottua kilpailijoista. 
+    ~~1.15 Valmistajat voivat standardien mukaan toimiessaan rakentaa omia edistyneempiä tai erikoistuneempia ominaisuuksia, jotka toimivat heidän laitteissaan heidän määrittelemissä puitteissa, esimerkiksi tietyn merkin traktorin kanssa voidaan saman merkin työkoneesta saada käyttöön enemmän kuin jos työkonetta käytettäisiin toisen valmistajan traktorin kanssa. Käyttökohteita ja -tarpeita on niin suuri kirjo, että toiminnallisuuksia pitääkin räätälöidä ja näiden erikoistoimintojen sisällöllä voidaan erottua kilpailijoista.~~
 Kilpailussa ollaan siirtymässä yhä enemmän koneen fyysisistä ominaisuuksista palveluiden ominaisuuksiin ja siihen, millaista lisäarvoa käyttäjälle tulee palvelun tuottaman tiedon avulla. Avointen standardien avulla valmistajat, jotka eivät voi tarjota full-liner -ratkaisua, voivat tarjota samankaltaista lisäarvoa koneidensa hankkineille käyttäjille kuin suuret fill-liner:eiden valmistajat. Tällöin valmistajat voivat keskittyä tekemään parhaan mahdollisen koneen, joka on avoimien standardien avulla yhteensopiva modernien automaatio - ja pilvijärjestelmien kanssa ja jolle voidaan tällöin luvata full-liner:eiden kokonaisjärjestelmien edut. Esimerkiksi kylvökoneen arvolupaus on suurempi, jos se toimii osana urakoitsijan konevalikoimaa tai yrittäjien keskinäistä ketjua. Yksittäinen kylvökone voi tehdä mekaaniset toimintonsa hyvin, mutta se on vain se yksittäinen kylvökone ja sen arvolupaus rajoittuu siihen itseensä. Ollessaan kytketty suurempaan kokonaisuuteen kylvökone voi tuottaa enemmän liiketoimintaa, arvoa ja tuottoa.
 
 
@@ -241,12 +241,12 @@ Näitä kaikkia yhdistävää holistista järjestelmää ei tietääkseni ole ku
 
 5.9 Ollaan kaukana kokonaisvaltaista tilanhallintajärjestelmästä, johon kaikki osajärjestelmät olisivat yhteydessä.
 
-    1.7 Full-liner-ratkaisuita on -suljettu ympäristö & loukku -mahdollistaa tehokkaan täsmän ja viljelyprosessit.
+    ~~1.7 Full-liner-ratkaisuita on -suljettu ympäristö & loukku -mahdollistaa tehokkaan täsmän ja viljelyprosessit.~~
 
-    4.6 Full-linereilla integraatio on ollut paljon syvempää.
-    4.6 Harvoilla tiloilla on käytössä full-liner (huom. myös loukku).
+    ~~4.6 Full-linereilla integraatio on ollut paljon syvempää.~~
+    ~~4.6 Harvoilla tiloilla on käytössä full-liner (huom. myös loukku).~~
 
-    1.8 Full-liner -järjestelmät ovat hyvin kalliita investointeja joihin on varaa vain hyvin suurilla maatiloilla, minkä takia kokonaisvaltaisia peltoviljelyn järjestelmiä on käytössä harvoilla toimijoilla. Lisäksi full-liner -ratkaisut eivät sovi kaikkien käyttöön, esimerkiksi John Deeren valikoimassa ei ole kylvölannoitinta jota käytetään pohjoismaissa. Tällöin pohjoismaiset viljelijät eivät pysty toimimaan John Deeren full-liner -ratkaisun puitteissa, vaan joutuvat hankkimaan käyttöönsä myös muiden valmistajien työkoneita kuten kylvölannoittimen.
+    ~~1.8 Full-liner -järjestelmät ovat hyvin kalliita investointeja joihin on varaa vain hyvin suurilla maatiloilla, minkä takia kokonaisvaltaisia peltoviljelyn järjestelmiä on käytössä harvoilla toimijoilla. Lisäksi full-liner -ratkaisut eivät sovi kaikkien käyttöön, esimerkiksi John Deeren valikoimassa ei ole kylvölannoitinta jota käytetään pohjoismaissa. Tällöin pohjoismaiset viljelijät eivät pysty toimimaan John Deeren full-liner -ratkaisun puitteissa, vaan joutuvat hankkimaan käyttöönsä myös muiden valmistajien työkoneita kuten kylvölannoittimen.~~
 
 1.20 Suomessa ei tuotantojärjestelmiä analysointiin pilvessä -> automaattinen vaikuttaminen viljely-ympäristöön. Ei tietoa kansainvälisistä. Teollisuusautomaatiota hyödyntävissä laitoksissa voi olla mahdollista. *tulevaisuuskuvaan* AIn kehittyessä voisi datasta tehdä toimenpiteitä - tai annetaan suosituksia kuitattavaksi, automaation toteutettavaksi *(samoin kuin H2ssa)*.
 
@@ -296,9 +296,10 @@ Ei ole selkeää kenelle myytävä data olisi tarpeellista ja miten tämä data 
 
 4.14 Sovelluksena sertifikaattien tarkkailu voisi olla lähempänä toteutumista kuin kuluttajalle vietävä tuotantotieto.
 Teollisuuden sisällä tieto voisi liikkua ja laatusertifikaatin toteutumisen valvonta jatkuvaa.
-    Kuluttajalle laadun viestiminen olisi helppoa.
+    ~~Kuluttajalle laadun viestiminen olisi helppoa.~~
 Monet sertifikaatit ovat tällä hetkellä aika kömpelöitä, esimerkiksi päätös luomutuotannosta tulee tehdä ennen tuotantoa, koska byrokratia on raskas. Luomutuotantoa tarkkaillaan sitten tilan omalla kirjanpidolla ja pistokokeilla. Luomun tuottamiseksi voisi olla ketterämpi vaihtoehto siinä, että viljelijä havaitsee, ettei tänä kesänä tarvitsekaan ruiskuttaa kasvinsuojeluaineita ja jatkuvasti toimintaa seuraavilla laitteilla voitaisiin luomun vaatimusten toteutuminen näyttää toteen.
 Datalähtöisellä sertifioinnilla voitaisiin saada erilaisten laatumerkkien toiminta joustavammiksi.
+
 
 ### Datan omistajuus
 
@@ -306,7 +307,7 @@ Datalähtöisellä sertifioinnilla voitaisiin saada erilaisten laatumerkkien toi
 *tämä ei tunnu kovin kattavalta tai muutenkaan tyydyttävältä, menee ehkä liikaa toimijoiden omiin juttuihin*
 
 4.9 Kun viljelysuunnitteluohjelmat siirtyvät yhä enemmän paikallisista ohjelmista pilvipalveluihin viljejijän toiminnassaan tuottaman datan omistajuudesta ei aina ole varmuutta.
-En tiedä onko suomessa yleisessä käytössä olevasta Wisu-sovelluksesta enää edes saatavilla paikallista versiota.
+    ~~En tiedä onko suomessa yleisessä käytössä olevasta Wisu-sovelluksesta enää edes saatavilla paikallista versiota.~~
 
 4.9 Aikaisemmin käyttäjän omalle koneelle tallentannettu tieto oli täysin käyttäjän omassa hallinnassa, mutta palveluntarjoajan tietojärjestelmään tallennettuun tietoon käyttäjällä on vain pääsy.
 
@@ -314,7 +315,8 @@ En tiedä onko suomessa yleisessä käytössä olevasta Wisu-sovelluksesta enä�
 
 2.12 ei vielä kohdattu viljelijöiden kanssa datan omistajuuskysymystä. Asiakas omistaa tuottamansa datan. Emme kerää dataa, vaan asiakkaamme tuottaa ja käyttää dataansa itse.
 
-2.13 Suurin osa toimijoista, jotka pyrkivät datan siirtelemiseen tai pääsyä dataan ovat ohjelmistotaloja pyrkimässä yhteistyöhön laitevalmistajan kanssa -lisää ominaisuuksia ja yhteensopivuuksia softaan ja pyrkivät käyttämään satelliitti- tai NDVI-kuvantamispalveluita.
+2.13 Suurin osa toimijoista, jotka pyrkivät datan siirtelemiseen tai pääsyä dataan ovat ohjelmistotaloja pyrkimässä yhteistyöhön laitevalmistajan kanssa 
+    ~~-lisää ominaisuuksia ja yhteensopivuuksia softaan ja pyrkivät käyttämään satelliitti- tai NDVI-kuvantamispalveluita.~~
 
 2.13 On yksittäisiä viljelijöitä jotka käyttävät FMS-ratkaisuita ja jotka pohtivat voisiko dataa liikutella tai tuoda sitä jotenkin käytettäväksi eri järjestelmien välille.
 
@@ -324,19 +326,20 @@ Käyttöliittymän avulla voidaan datasta jalostaa raportteja ja analyyseja.
 Ilman käyttöliittymää datan hyödynnettävyys on nolla.
 Asiakas omistaa kaiken datan, mitä järjestelmämme käsittelee.
 Yksityisyyden suoja ja GDPR on otettu todella tarkasti huomioon.
-Asiakas voi halutessaan ottaa datansa vaikka Exceliin itse käsiteltäväksi, mutta meidän käyttöliittymämme tarjoaa paremmat mahdollisuudet tiedon analysointiin niin pitkällä kuin lyhyellä aikavälillä sekä tietojen vertailuun.
+Asiakas voi halutessaan ottaa datansa vaikka Exceliin itse käsiteltäväksi, mutta meidän käyttöliittymämme tarjoaa 
 En usko, että kellään maanviljelijällä olisi aikaa kehittää omaa analytiikkaa tuottamastaan datasta jos suinkin on saatavilla käyttöliittymä, josta tarvittavat asiat näkee helposti. Lisäksi käyttöliittymä voi ohjata käyttäjää tunnistamaan toiminnassaan olevat pullonkaulat ja näin ohjata viljelijää keskittämään resursseja toimenpiteisiin, joista on hänen omalle toiminnalleen suurimmat hyödyt.
-Nykyään ihminen ei yksinkertaisesti halua rakentaa omaa analytiikkaa eikä siihen olisi aikaakaan.
+    ~~Nykyään ihminen ei yksinkertaisesti halua rakentaa omaa analytiikkaa eikä siihen olisi aikaakaan.~~
 IoT-ratkaisuiden tulisi tukea datan analytiikkaa/toiminnan kehittämistä/?, niiden tulisi olla helppokäyttöisiä ja tarvittava tieto tulisi tulla esille silloin kuin sitä tarvitaan.
 
+
 ### Datan liikkuminen tuotantoketjussa
+
+3.41 Tuotantoketjun mittaroinnissa pyritään usein ympäristöystävällisempään ja/tai tehokkaampaan toimintaan. Tulee ottaa huomioon kokonaisuus eikä keskittyä vain tietyn mittarin seuraamiseen.
 
 3.19 Datan ensisijainen tarvitsija on viljelijä itse, joka sen avulla pystyisi parantamaan päätöksentekoa omassa viljelyprosessissaan. 
 Datan toissijainen tarvitsija on arvo-/tuotanto/ruokaketju, joka tarvitsee tuotantoinformaation pystyäkseen todistamaan tuotteen alkuperän ja tuotantoprosessin oikeellisuuden.
 
-1.17 Prosesseista kerätyn datasta kertyyy tuotantotapatieto, joka voi käsittää mitä kylvetään, mihin paikkaan, mihin kellonaikaan, sääolosuhteet jne. Lisäksi sadonkorjuusta saadaan tieto mistä kohtaa peltoa sato on korjattu ja korjattuun satoon voidaan lisätä tunnistetieto ja tuotantotapatiedot. Tällöin voidaan laskea korjatulle erälle hiilijalanjälki, lisätä tieto miten, millaisia ja jos kasvisuojeluaineita on käytetty ja lopuksi myydä se omana arvoeränä. Osa tuotannosta voitaisiin edelleen myydä bulkkituotantona kuin ennenkin, mutta osalle sadosta voitaisiin tavoitella parmpaa hintaa.
-
-3.41 Tuotantoketjun mittaroinnissa pyritään usein ympäristöystävällisempään ja/tai tehokkaampaan toimintaan. Tulee ottaa huomioon kokonaisuus eikä keskittyä vain tietyn mittarin seuraamiseen.
+1.17 Prosesseista kerätyn datasta kertyy tuotantotapatieto, joka voi käsittää mitä kylvetään, mihin paikkaan, mihin kellonaikaan, sääolosuhteet jne. Lisäksi sadonkorjuusta saadaan tieto mistä kohtaa peltoa sato on korjattu ja korjattuun satoon voidaan lisätä tunnistetieto ja tuotantotapatiedot. Tällöin voidaan laskea korjatulle erälle hiilijalanjälki, lisätä tieto miten, millaisia ja jos kasvisuojeluaineita on käytetty ja lopuksi myydä se omana arvoeränä. Osa tuotannosta voitaisiin edelleen myydä bulkkituotantona kuin ennenkin, mutta osalle sadosta voitaisiin tavoitella parmpaa hintaa.
 
 1.13 Kuluttajalle asti näkyvä tuotantoketju mahdollistuisi jos olisi standardit joiden mukaisesti datavirtaa käsiteltäisiin. Samalla mahdollistuisi tehokas tiedon jako ja verkostomainen toiminta erilaisten toimijoiden kesken ... Tehokkaan verkostomaisen toiminnan edellyttyksenä olevat standardit ovat vasta kehitteillä. Näkemykseni mukaan kentällä on edelläkävijöinä toimijoita, jotka soveltavat uusia toimintamalleja käytäntöön ja määrittelevät kehitettävien standardien toimintaa. Standardeja kehitetään liiketoiminnan lähtökohdista ja liiketoiminnan yhteyteen tarkoituksena kehittää toimintaa entistä kustannustehokkaammaksi ja sujuvammin toimivaksi.
 
@@ -352,8 +355,10 @@ Hinnoittelun pitäisi myös perustua dataan: laadulle laadun mukainen hinta.
 4.13 *kuluttajalle asti näkyvä tuotantodata* 
 Käytännössä kuluttajien toteutuva datan tutkinta voi jäädä vähäiseksi.
 Suuren yleisön kiinnostus lähiruokaa ja REKO-ruokarinkejä kohtaan on hiipunut ja tämä sovellus voi olla samankaltainen ilmiö, joka toteutuessaan jäisi jonkin ajan kuluessa pienen harrastajapiirin käyttöön.
-Jotta kuluttajat yleensä jaksaisivat tarkastella tuotantotietoa, tulisi se näyttää heille täysin vaivattomasti vaikka lisätyn todellisuuden avulla ja todennäköisesti Google Glass:in tapaisen laitteen avulla. Kännykän kaivaminen esille tiedon etsintää varten vaikuttaa liian vaivalloiselta.
-Älypuhelinsovelluksena tälläinen voitaisiin toteuttaa, mutta universaalia sovellusta voi olla vaikea kehittää useiden eri toimijoiden kuten S- ja K-ryhmän sovellusten kilpaillessa keskenään. Vielä pirstaleisemmaksi tilanne menisi, jos sovellukset olisivat tuottajakohtaisia.
+Jotta kuluttajat yleensä jaksaisivat tarkastella tuotantotietoa, tulisi se näyttää heille täysin vaivattomasti vaikka lisätyn todellisuuden avulla ja todennäköisesti Google Glass:in tapaisen laitteen avulla. 
+    ~~Kännykän kaivaminen esille tiedon etsintää varten vaikuttaa liian vaivalloiselta.~~
+Älypuhelinsovelluksena tälläinen voitaisiin toteuttaa, mutta universaalia sovellusta voi olla vaikea kehittää useiden eri toimijoiden kuten S- ja K-ryhmän sovellusten kilpaillessa keskenään. 
+    ~~Vielä pirstaleisemmaksi tilanne menisi, jos sovellukset olisivat tuottajakohtaisia.~~
 Itse arvioisin, että passiivinen kuluttaja voisi jaksaa lukea tuotteen pakkauksesta tiedot millä tilalla se on tuotettu, kuinka pitkä matka sitä kaikkiaan on kuljetettu, kokonaishiilijalanjälki, hiilidioksidijalanjälki ja vesijalanjälki.
 
 
