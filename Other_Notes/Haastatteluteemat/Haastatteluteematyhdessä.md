@@ -213,7 +213,6 @@ H2.24 Viljelijät eivät oman näkemykseni mukaan todennäköisesti tee suuria t
 Kilpailussa ollaan siirtymässä yhä enemmän koneen fyysisistä ominaisuuksista palveluiden ominaisuuksiin ja siihen, millaista lisäarvoa käyttäjälle tulee palvelun tuottaman tiedon avulla. Avointen standardien avulla valmistajat, jotka eivät voi tarjota full-liner -ratkaisua, voivat tarjota samankaltaista lisäarvoa koneidensa hankkineille käyttäjille kuin suuret fill-liner:eiden valmistajat. Tällöin valmistajat voivat keskittyä tekemään parhaan mahdollisen koneen, joka on avoimien standardien avulla yhteensopiva modernien automaatio - ja pilvijärjestelmien kanssa ja jolle voidaan tällöin luvata full-liner:eiden kokonaisjärjestelmien edut. Esimerkiksi kylvökoneen arvolupaus on suurempi, jos se toimii osana urakoitsijan konevalikoimaa tai yrittäjien keskinäistä ketjua. Yksittäinen kylvökone voi tehdä mekaaniset toimintonsa hyvin, mutta se on vain se yksittäinen kylvökone ja sen arvolupaus rajoittuu siihen itseensä. Ollessaan kytketty suurempaan kokonaisuuteen kylvökone voi tuottaa enemmän liiketoimintaa, arvoa ja tuottoa.
 
 
-
 1.31 Uusia standardiperusteisia teknologioita voidaan ottaa käyttöön asteittain pienissä paloissa. Standardien kuten ISOBUS etu on, että niitä on kehitetty pitkään ja maatalouden teollisuus on niihin sitoutunut.
 Voi tulla teknologioita, jolla asiat voi tehdä helpommin kuin CAN-väylää käyttäen, mutta omaksuminen tapahtuu hitaasti. Tällä hetkellä tutkitaan standardisoinnissa teollista ethernettiä CAN-väylän sijaan. Jos uudet standardit tulevat käyttämään sitä, tulisi sen silti olla yhteensopiva ja käyttökelpoinen vanhojen laitteiden kanssa, esim. 30 vuotta vanha traktori.
 
@@ -269,8 +268,6 @@ Näitä kaikkia yhdistävää holistista järjestelmää ei tietääkseni ole ku
 
 5.9 Voi olla, että kokonaisvaltainen tilanhallintajärjestelmä tulee olemaan 3-4 järjestelmän kokonaisuus, mikä kattaa tilan tarvitsemat toiminnallisuudet.
 
-5.3 *tulevaisuuskuvaan* Tulevaisuudessa mennään vääjäämättä FMSn antamiin viljejysuosituksiin, helpottamaan päätöksentekoa.
-5.3 *tulevaisuuskuvaan* Järjestelmät laskevat suosituksiin miten töitä helpotetaan ja miten saadaan paras tulos juuri siinä ympäristössä. *viljelytutkimus ja fenotyyppaus tulevat ikään kuin kentälle?*
 5.3 FMS + kerätty data laitteilta + muu tieto tulevat varmasti yhdistymään ja niitä tullaan käyttämään yhdessä.
 
 
@@ -633,6 +630,8 @@ Tällaista sensoripakettia odotan ehkä eniten komponenttipuolelta (?).
 3.37 Maatalouden tulisi tutkia mitä on tehty teollisuudessa ja soveltaa siellä jo kehitettyjä, yleisessä käytössä olevia ratkaisuita.
 
 *tehdasautomaation kaltaisia järjestelmiä on kasvihuoneissa ->*
+
+1.20 ... tuotantojärjestelmiä analysointiin pilvessä -> automaattinen vaikuttaminen viljely-ympäristöön. ... *tulevaisuuskuvaan* AIn kehittyessä voisi datasta tehdä toimenpiteitä - tai annetaan suosituksia kuitattavaksi, automaation toteutettavaksi *(samoin kuin H2ssa)*.
 
 4.19 Kasvihuonetuotanto on nykyään hyvin automatisoitua, mutta optimointivaraa voi vielä olla.
 Itse odotan kerrosviljelyratkaisuita, joissa voisi viljellä peruselintarvikkeita kannattavasti.
