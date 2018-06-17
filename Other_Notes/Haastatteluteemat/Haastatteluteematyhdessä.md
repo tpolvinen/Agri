@@ -281,12 +281,12 @@ Yleensä myydään palveluna, jossa kuvasta analysoimalla muodostetaan toimenpid
 Yara ja Kemira ovat yrittäneet tuottaa lentämällä otetuista kuvista vastaavaa palvelua, mutta ongelma on vasteaika, joka Suomessa pitäisi saada muutaman päivän pituiseksi nopeasti lumen sulamisen jäljeen alkavan kasvukauden takia. Keski-Euroopassa vastaava aika on muutamia viikkoja, jolloin ehditään hyvin odottaa hyvää pilvetöntä säätä sateliittikuvausta varten.
 *mitä muuta taustaa olisi?*
 
+4.12 Tiedän viljelijöitä, jotka jakavat kaiken viljelytoiminnassaan syntyneen datan johonkin palveluun, mutta he ovat yksittäistapauksia. 
+Viljelytoiminnassa syntynytta dataa ei mitenkään systemaattisesti käytetä hyväksi.
+
 2.41 Tällä hetkellä tiedossani ei ole järjestelmää, joka toimisi viljelijöiden tai muiden toimijoiden datasettien vertailun alustana ja osto- ja myyntikanavana. Visiona tämä on kuitenkin mahdollinen.
 
 3.17 Minulla ei ole tiedossa, että kaupallisena tuotteena olisi olemassa palvelua, jossa voisi jakaa tai omatoimisesti analysoida kasvintuotannossa/maataloudessa tuotettavaa dataa. Visioita tällaisesta palvelusta olen kyllä lukenut.
-
-4.12 Tiedän viljelijöitä, jotka jakavat kaiken viljelytoiminnassaan syntyneen datan johonkin palveluun, mutta he ovat yksittäistapauksia. 
-Viljelytoiminnassa syntynytta dataa ei mitenkään systemaattisesti käytetä hyväksi.
 
 *5.5 agrirouter-kappale siirretty Holistinen FMS-teemaan*
 
@@ -296,7 +296,7 @@ Ei ole selkeää kenelle myytävä data olisi tarpeellista ja miten tämä data 
 
 4.14 Sovelluksena sertifikaattien tarkkailu voisi olla lähempänä toteutumista kuin kuluttajalle vietävä tuotantotieto.
 Teollisuuden sisällä tieto voisi liikkua ja laatusertifikaatin toteutumisen valvonta jatkuvaa.
-Kuluttajalle laadun viestiminen olisi helppoa.
+    Kuluttajalle laadun viestiminen olisi helppoa.
 Monet sertifikaatit ovat tällä hetkellä aika kömpelöitä, esimerkiksi päätös luomutuotannosta tulee tehdä ennen tuotantoa, koska byrokratia on raskas. Luomutuotantoa tarkkaillaan sitten tilan omalla kirjanpidolla ja pistokokeilla. Luomun tuottamiseksi voisi olla ketterämpi vaihtoehto siinä, että viljelijä havaitsee, ettei tänä kesänä tarvitsekaan ruiskuttaa kasvinsuojeluaineita ja jatkuvasti toimintaa seuraavilla laitteilla voitaisiin luomun vaatimusten toteutuminen näyttää toteen.
 Datalähtöisellä sertifioinnilla voitaisiin saada erilaisten laatumerkkien toiminta joustavammiksi.
 
@@ -336,7 +336,7 @@ Datan toissijainen tarvitsija on arvo-/tuotanto/ruokaketju, joka tarvitsee tuota
 
 1.17 Prosesseista kerätyn datasta kertyyy tuotantotapatieto, joka voi käsittää mitä kylvetään, mihin paikkaan, mihin kellonaikaan, sääolosuhteet jne. Lisäksi sadonkorjuusta saadaan tieto mistä kohtaa peltoa sato on korjattu ja korjattuun satoon voidaan lisätä tunnistetieto ja tuotantotapatiedot. Tällöin voidaan laskea korjatulle erälle hiilijalanjälki, lisätä tieto miten, millaisia ja jos kasvisuojeluaineita on käytetty ja lopuksi myydä se omana arvoeränä. Osa tuotannosta voitaisiin edelleen myydä bulkkituotantona kuin ennenkin, mutta osalle sadosta voitaisiin tavoitella parmpaa hintaa.
 
-H3.41 Tuotantoketjun mittaroinnissa pyritään usein ympäristöystävällisempään ja/tai tehokkaampaan toimintaan. Tulee ottaa huomioon kokonaisuus eikä keskittyä vain tietyn mittarin seuraamiseen.
+3.41 Tuotantoketjun mittaroinnissa pyritään usein ympäristöystävällisempään ja/tai tehokkaampaan toimintaan. Tulee ottaa huomioon kokonaisuus eikä keskittyä vain tietyn mittarin seuraamiseen.
 
 1.13 Kuluttajalle asti näkyvä tuotantoketju mahdollistuisi jos olisi standardit joiden mukaisesti datavirtaa käsiteltäisiin. Samalla mahdollistuisi tehokas tiedon jako ja verkostomainen toiminta erilaisten toimijoiden kesken ... Tehokkaan verkostomaisen toiminnan edellyttyksenä olevat standardit ovat vasta kehitteillä. Näkemykseni mukaan kentällä on edelläkävijöinä toimijoita, jotka soveltavat uusia toimintamalleja käytäntöön ja määrittelevät kehitettävien standardien toimintaa. Standardeja kehitetään liiketoiminnan lähtökohdista ja liiketoiminnan yhteyteen tarkoituksena kehittää toimintaa entistä kustannustehokkaammaksi ja sujuvammin toimivaksi.
 

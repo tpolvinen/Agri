@@ -136,16 +136,6 @@ Jaettu lannoitus
 Drooni, UAV, pienoiskopteri, neliroottoripienoiskopteri
 vendor lock, yhden valmistajan loukku
 
-# KAUHEAT SANAT
-MUTTA
-MYÖS
-TÄLLÖIN
-TÄMÄN JOHDOSTA/VAIKUTUKSESTA
-AVULLA
-SAMOIN (KUIN)
-jnk. MUKAAN
-KUITENKIN
-
 
 ### Yleistilanne
 
@@ -240,6 +230,28 @@ E.E. arvioi, että kaikkien näiden erilaisten tietojen yhdistelyssä on vielä 
 Vaikka useita maatalouden dataa integroivia hankkeita on käynnissä ja erilaisten järjestelmien tuottamat tiedot tulevat vielä varmasti yhdistymään, vielä ei ole tietoa millä aikavälillä kokonaisvaltaisia tilanhallintajärjestelmiä voisi tulla saataville ja yleiseen käyttöön. Kehityskulku voi myös johtaa siihen, että kokonaisvaltainen tilanhallintajärjestelmä tulee olemaan kolmen tai neljän järjestelmän kokonaisuus, mikä kattaa kyseisen tilan tarvitsemat toiminnallisuudet. (@eHaastattelu2018)
 
 
+## Data
+
+Datan käsittelyyn liittyviä keskeisiä haastatteluteemoja oli kolme: datan jakaminen ja julkaisu ja niihin liittyvät ratkaisut,  datan omistajuus ja datan liikkuminen tuotantoketjussa. Kukin näistä teemoista käsitellään omassa osiossaan.
+
+C.C. havainnollisti maatalouden datan käsittelyn erityisiä vaatimuksia esimerkillä kevään täydennyslannoituksen pohjaksi tarvittavasta kuvantamistiedosta. Kevään typpilannoituksen kohdentamisesta pyritään tekemään päätös satelliittikuvien perusteella. Siinä missä Keski-Euroopassa ja USA:ssa tehdään usein kevään täydennyslannoitus satelliittikuvien perusteella, Suomessa sateliittikuvia käytetään vähemmän. Kuvaus voidaan tehdä jo ennen kuin kasvu on lähtenyt käyntiin ja yleensä se myydään viljelijälle palveluna, jossa kuvasta analysoimalla muodostetaan toimenpide. Yara ja Kemira ovat yrittäneet tuottaa lentämällä otetuista kuvista vastaavaa palvelua, mutta ongelma on vasteaika, joka Suomessa pitäisi saada muutaman päivän pituiseksi nopeasti lumen sulamisen jäljeen alkavan kasvukauden takia. Keski-Euroopassa vastaava aika on muutamia viikkoja, jolloin ehditään hyvin odottaa hyvää pilvetöntä säätä sateliittikuvausta varten. (@cHaastattelu2017)
+
+
+### Datan jakaminen ja julkaisu
+
+D.D. kertoi tietävänsä viljelijöitä, jotka jakavat kaiken viljelytoiminnassaan syntyneen datan johonkin palveluun, mutta he ovat hänen mukaansa yksittäistapauksia. Hänen mukaansa viljelytoiminnassa syntynytta dataa ei yleisesti käytetä hyväksi millään systemaattisella tavalla. (@dHaastattelu2018)
+
+Sellaista järjestelmää, joka toimisi viljelijöiden tai muiden toimijoiden datasettien vertailun alustana sekä osto- ja myyntikanavana ei haastattelun ajankohtana ollut B.B.n tiedossa. Hän kuitenkin arveli, että visiona se olisi mahdollinen. (@bHaastattelu2017) Samoin C.C.n tietojen mukaan kaupallisena tuotteena ei ole palvelua, jossa voisi jakaa tai omatoimisesti analysoida maataloudessa tuotettavaa dataa. Hän on kuitenkin lukenut visioita tällaisesta palvelusta. (@cHaastattelu2017)
+
+C.C. huomautti liittyen tuotantotapatietojen myyntiin, että pohdittaessa datan myyntiä tällaisen palvelun tai alustan kautta kannattaa arvioida, kuka siitä olisivalmis maksamaan. Viljelijällä on usein sopimukseen kirjattu velvollisuus antaa viljelyyn liittyvä data tuotteen mukana. Tällöin datalla ei voi saada lisää hintaa vaan sen luovuttaminen on velvollisuus. Lisäksi ei ole ylipäätään selkeää kenelle myytävä data olisi tarpeellista ja miten tämä data voisi tuottaa taloudellista lisäarvoa niin, että sen ostaminen olisi perusteltua. Näiden puuttuessa ei ole muodostunut talousmekanismeja maatalouden datan markkinoille. (@cHaastattelu2017)
+
+Laatusertifikaattien valvontaan tarkoitettu sovellus toisaalta voisi olla D.D.n mukaan mahdollinen. Tieto tuotantotavoista voisi liikkua jatkuvasti tuotantoketjussa ja näin laatusertifikaatin toteutumisen valvonta voisi olla jatkuvaa. Monet sertifikaatit ovat tällä hetkellä aika kömpelöitä, esimerkiksi päätös luomutuotannosta tulee tehdä ennen tuotantoa koska byrokratia on raskas. Luomutuotantoa tarkkaillaan päätöksen jälkeen tilan omalla kirjanpidolla ja pistokokeilla. Luomun tuottamiseksi voisi olla ketterämpi vaihtoehto siinä, että viljelijä havaitsee ettei tänä kesänä tarvitsekaan ruiskuttaa kasvinsuojeluaineita. Tällöin jatkuvasti toimintaa seuraavilla laitteilla voitaisiin luomun vaatimusten toteutuminen näyttää toteen. Tällaisella datalähtöisellä sertifioinnilla voitaisiin saada erilaisten laatumerkkien toiminta joustavammiksi. (@dHaastattelu2018)
+
+
+### Datan omistajuus
+
+
+
 A.A. 
 @aHaastattelu2017
 B.B. 
@@ -253,12 +265,24 @@ E.E.
 
 
 
-## Data
-### Datan jakaminen
-### Datan omistajuus
 ### Datan liikkuminen tuotantoketjussa
 ## AIoTn vaikutukset
 ## Ruokaturva
+*50 % jo! :D*
+## AIoTn haasteet
+## Tavoitetila ja tulevaisuus
+## Muut
+
+# KAUHEAT SANAT
+MUTTA
+MYÖS
+TÄLLÖIN
+TÄMÄN JOHDOSTA/VAIKUTUKSESTA
+AVULLA
+SAMOIN (KUIN)
+jnk. MUKAAN
+KUITENKIN
+
 *433 -> 465 sanaa per 5 tomaattia, aamupäivä*
 *830 muistiinpanosanaa = 480 sanaa, 11 tomaattia, 1 päivä*
 *tot. muistiinpanosanaa 9300 sanaa -> 11 päivää*
