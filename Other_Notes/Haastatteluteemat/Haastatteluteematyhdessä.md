@@ -65,7 +65,7 @@ Verkottuminen on alussa mutta selkeä suunta.
 4.1 Maatalouden IoT:ssä ja digitalisaatiossa on tällä hetkellä jo valmiina useita kokonaisuuden osia ("leegopalikoita") joita voidaan ottaa käyttöön ja riippuen maatalouden osa-alueesta jossain määrin on otettu käyttöön. *Osat ovat vielä erillään.* ...
 
 5.3 *haasteena laiteintegraatio (?), farm mngmnt, päätöksenteon apu, datan perusteella*
-... Tällä hetkellä ollaan murroskohdassa ja vasta harjoittelemassa ensimmäisten IoT-ratkaisuiden käyttöä maanviljejyksen alalla, jolloin laitteet ovat keskenään erilaisia *(epäyhteensopivia)* ja esimerkiksi telemetriatuotteet ovat selkeästi eri kategoriassa kuin FMS-tuotteet *eivätkä keskustele keskenään*. ...
+... Tällä hetkellä ollaan murroskohdassa ja vasta harjoittelemassa ensimmäisten IoT-ratkaisuiden käyttöä maanviljelyksen alalla, jolloin laitteet ovat keskenään erilaisia *(epäyhteensopivia)* ja esimerkiksi telemetriatuotteet ovat selkeästi eri kategoriassa kuin FMS-tuotteet *eivätkä keskustele keskenään*. ...
 
 
 
@@ -120,7 +120,7 @@ Tätä tarkoitusta varten ei ole oikeastaan muita standardeja kuin ISOBUS. ...
 *osaksi isompaa järjestelmää-kehitys lähtee yksittäisten viljelijöiden digiharppauksilla, pienin askelin*
 
 5.15 Oman näkemykseni mukaan asiakkaiden tekemä harppaus digitaaliseen toimintaympäristöön ja siitä saadut kokemukset/palaute on tärkein osa tätä kokonaisuutta. Käyttöönotosta ja käytöstä saatujen kokemusten ja asiakaspalautteen pohjalta voidaan ohjata valmistajan omaa tuotekehitystä oikeaan suuntaan. 
-Maanviljelijöiden digitalisaatioharppaus etenee pienillä askelilla kunkin viljejijän oman harkinnan ja oman toiminnan yksilöllisten tarpeiden mukaisesti.
+Maanviljelijöiden digitalisaatioharppaus etenee pienillä askelilla kunkin viljelijän oman harkinnan ja oman toiminnan yksilöllisten tarpeiden mukaisesti.
 Tämä voi alkaa esimerkiksi yhden telemetriatuotteen käyttöönotolla josta he lähevät laajentamaan digitaalisten teknologioiden käyttöä omassa toiminnassaan. Samalla he kasvattavat omaa osaamistaan ja havaitsevat uusien teknologioiden hyötyjä ja millaisia etuja ne tarjoavat *juuri heille*.
 ...
 
@@ -306,7 +306,7 @@ Datalähtöisellä sertifioinnilla voitaisiin saada erilaisten laatumerkkien toi
 *miksei tässä teemassa ole mitään H1stä?*
 *tämä ei tunnu kovin kattavalta tai muutenkaan tyydyttävältä, menee ehkä liikaa toimijoiden omiin juttuihin*
 
-4.9 Kun viljelysuunnitteluohjelmat siirtyvät yhä enemmän paikallisista ohjelmista pilvipalveluihin viljejijän toiminnassaan tuottaman datan omistajuudesta ei aina ole varmuutta.
+4.9 Kun viljelysuunnitteluohjelmat siirtyvät yhä enemmän paikallisista ohjelmista pilvipalveluihin viljelijän toiminnassaan tuottaman datan omistajuudesta ei aina ole varmuutta.
     ~~En tiedä onko suomessa yleisessä käytössä olevasta Wisu-sovelluksesta enää edes saatavilla paikallista versiota.~~
 
 4.9 Aikaisemmin käyttäjän omalle koneelle tallentannettu tieto oli täysin käyttäjän omassa hallinnassa, mutta palveluntarjoajan tietojärjestelmään tallennettuun tietoon käyttäjällä on vain pääsy.
@@ -368,40 +368,52 @@ Itse arvioisin, että passiivinen kuluttaja voisi jaksaa lukea tuotteen pakkauks
 
 *täällä tulee näkyville H5ssä esiin tullut "tehdään laadukkaampaa tai tehdään enemmän": ensin H1ssä laadun tunnistaminen ja kuluttajayhteys, sitten H2ssa suoraa sadonlisää 4 %.*
 
-1.30 Avoimet standardit mahdollistavat liiketoimintalähtöisen valinnan investointien ajankohdalle, olosuhteiden otollisuuden mukaisesti.
+    1.30 ~~Avoimet standardit mahdollistavat liiketoimintalähtöisen valinnan investointien ajankohdalle, olosuhteiden otollisuuden mukaisesti.~~
 Digitaalisaation ja IoT:n myötä on mahdollista nähdä liiketoiminta uudesta näkökulmasta, niiden mahdollistaessa uusia vaihtoehtoja.
 Verkottuminen voi tuoda kilpailuttamiseen neuvotteluvoimaa.
 Tällä hetkellä ollaan siirtymässä ruutupaperilta dataan. Seuraavaksi viljelijöiden tulisi saada tuottamansa data omiin käsiinsä ja palvelut, jotka mahdollistaisivat tiedon vaihdannan, analytiikan, vertailut ja yhteisen liiketoiminnan. Tämä toimisi lähtökohtana markkinaperusteisille investointipäätöksille.
+
+5.14 *ruokaturva, ilmastonmuutos, väestönkasvu*
+... Digitalisaation avulla voidaan tehostaa tuotantoa niin, että samalla työmäärällä tai resursseilla voidaan saada saman verran tai enemmän tuloksia. Selkeät tulokset todennäköisesti motivoisivat digitaalisten työkalujen käyttöön ottaneita toimijoita kehittämään toimintaansa edelleen. ...
+
+2.16 Esimerkiksi teknologian käyttöönotosta Yaran N-sensorin avulla saadaan Saksassa 6 % suurempia satoja ja samalla säästöjä panoksissa, Ruotsissa saman lukeman ollessa 4 %. ...
+
+H2.26 Sadonlisää on saatavissa, prosenttiluvut ovat lohkokohtaisia ja riippuvat lohkon sisäisistä vaihteluista, lannoitusstrategiasta. ...
+
+H2.27 Sadonlisän lisäksi on mahdollista saavuttaa lannoitesäästöjä. ...
+
+H2.38 Urakointina voidaan ulkoistaa täsmäviljelytyöt, jotka on aikaisemmin pitänyt tehdä oman hiljaisen tiedon varassa mutta jotka on uudella teknologialla saatu dokumentoitua ja tallennettua urakoitsijalle annettavaan työtiedostoon. ...
+
+5.3 Ollaan vääjäämättä menossa siihen, että FMS tulee antamaan suosituksia helpottamaan viljelijän *toimintaa ja* päätöksentekoa. Järjestelmät voivat laskea *johtopäätöksiä* monen muuttuvan tekijän perusteella ja datan perusteella ymmärtää miten viljelijän työtä voidaan helpottaa sekä millaisilla toimilla saadaan paras tulos juuri kyseisessä toimintaympäristössä.
+
+H2.38 ... Useamman vuoden historiatietoja voidaan myös vertailla ja pyrkiä selvittämään kasvuun liittyviä ongelmia, vaikka miksi juuri tuo kohta pellossa tuottaa aina huonoa satoa tai on muuten ongelmainen.
+
+5.15 *mikä on omasta mielestäsi tärkeintä, entä mihin olet itse tutustunut/kohdannut*
+... Tarjolla on monia erilaisia ratkaisuita ja oman näkemykseni mukaan lähes mikä tahansa digitalisaatio- tai IoT-ratkaisu tai -tuote tuottaa käyttäjälleen hyötyjä lähes välittömästi jo kokeilun perusteella, vaikka se maksaisikin joitain satoja euroja. ...
 
 4.8 Maanviljelyn digitalisaation ja IoT-ratkaisujen tarjoamien hyötyjen/etujen tuomasta kannattavuudesta on vaikea sanoa mitään ja se on pitkään ollut ongelmana: yleisesti nähdään, että teknologiaratkaisuilla on paljon potentiaalia mutta mukaan lähtemisen riskit ovat olemassa ja siihen vaadittaisiin kohtuullisia investointeja.
 Uuden teknologian integroiminen *omaan toimintaan* vaatii sekä rahaa että aikaa, varsinkin jos samalla konekantaa joudutaan uusimaan ja/tai ottamaan käyttöön uusia ohjelmistoja. 
 Koska suomalaisten viljelijöihen taloudellinen tila ei tällä hetkellä ole mitenkään erityisen hyvä, eritysesti subscription-lisenssimallin ohjelmistojen käyttöönoton kynnys on aika korkea.
 
-5.15 *mikä on omasta mielestäsi tärkeintä, entä mihin olet itse tutustunut/kohdannut*
-... Tarjolla on monia erilaisia ratkaisuita ja oman näkemykseni mukaan lähes mikä tahansa digitalisaatio- tai IoT-ratkaisu tai -tuote tuottaa käyttäjälleen hyötyjä lähes välittömästi jo kokeilun perusteella, vaikka se maksaisikin joitain satoja euroja.
-Sitä mukaa kun markkinoille tuotetaan uusia IoT-ratkaisuita valmistajat oppivat miten asiakkaat haluavat niitä käyttää.
+5.15 *mikä on omasta mielestäsi tärkeintä, entä mihin olet itse tutustunut/kohdannut* ... Sitä mukaa kun markkinoille tuotetaan uusia IoT-ratkaisuita valmistajat oppivat miten asiakkaat haluavat niitä käyttää.
 Asiakas- ja käyttäjälähtöisellä kehittämisellä voidaan päästä nyt nousevan ensimmäisen digitalisaation aallonharjan ylitse.  ...
 
-5.3 Ollaan vääjäämättä menossa siihen, että FMS tulee antamaan suosituksia helpottamaan viljelijän *toimintaa ja* päätöksentekoa. Järjestelmät voivat laskea *johtopäätöksiä* monen muuttuvan tekijän perusteella ja datan perusteella ymmärtää miten viljejijän työtä voidaan helpottaa sekä millaisilla toimilla saadaan paras tulos juuri kyseisessä toimintaympäristössä.
-... Mutta ollaan jo siinä tilanteessa, että laitteilta saadaan tieto FMSlle missä ne ovat liikkuneet, polttoaineenkulutus jne. jolloin holistisesta järjestelmästä voitaisiin saada yleisnäkymä maatilan toiminnasta.
+
+
 
 H4.3 *Ihmisen/käyttäjän rooli AIoT-järjestelmien ohjaamisessa ja päätöksenteossa* Vaikka IoT-ratkaisun/järjestelmän määrittelyssä ollaan joissain tapauksissa korvattu ihmisen tekemä valvonta, päätöksenteko ja toimeenpano automaattisilla koneiden toiminteilla, niin suuri osa IoT-ratkaisuiksi *merkityistä/määritellyistä* järjestelmistä on käytännössä sensoridatan lukemista ja ihmisten vastuulle on jäänyt ainakin lähes, jos ei kaikki päätöksenteko ja toiminta.
 Tämä johtuu juuri järjestelmien välisen kommunikaation puutteesta.
 Toisaalta ihmiselle jäävä päätösvalta ei ole pelkästään huono asia.
 Toisaalta mitä enemmän käytetään dataa ja mitä enemmän kone tekee ihmisen puolesta päätöksiä, niin sitä enemmän pitää kiinnittää huomiota käyttäjän oman asiantuntemuksen ylläpitoon. Käyttäjän nojautuminen täysin automaattisen järjestelmän varaan voi helposti aiheuttaa käyttäjän oman asiantuntemuksen puutteen ja sitä kautta kokonaisprosessin ymmärryksen vähenemisen tai häviämisen.
 
-5.14 *ruokaturva, ilmastonmuutos, väestönkasvu*
-... Digitalisaation avulla voidaan tehostaa tuotantoa niin, että samalla työmäärällä tai resursseilla voidaan saada saman verran tai enemmän tuloksia. Selkeät tulokset todennäköisesti motivoisivat digitaalisten työkalujen käyttöön ottaneita toimijoita kehittämään toimintaansa edelleen. ...
-Vaikka nykyisillä tuotantotavoilla ja ammattitaidolla yksittäinen viljelijä voi hyvinkin pärjätä vastaisuudessakin, tuotannossa voi silti olla huomaamattaa jääneitä pullonkauloja, jotka voitaisiin havaita datan analysoinnilla. Samoin voi olla, ettei tehtyjen viljelypäätösten todellista kausaliteettia voida hahmottaa.
-Omasta mielestäni olisi hyödyllistä ohjata tuotettu tieto Suomessa ja EUssa päätöksiä tekevien ihmisten käyttöön, jolloin voitaisiin etsiä toimenpiteitä mitattuihin ja todellisiin tarpeisiin. *oikeassa mittakaavassa* *jolloin päätöksentekijät voisivat perustaa päätöksensä mitattuun dataan*
-Datan perusteella voitaisiin tehdä siis maanviljelijöille parempia päätöksiä ainakin Suomen mittakaavassa.
 
-1.28 Pienet suomalaiset maatilat hyvin todennäköisesti hyötyisivät Farmobile:n ja Farmer's Business Network:in kaltaisista palveluista, koska tuotannon kannattavuutta voidaan parantaa juuri arvon tunnistamisella. Viljelijä voisi parantaa tuotteensa arvon tunnistamista kilpailuttamalla ostajia. Tähän asti monet maatilat ovat myyneet tuotteensa aina samalle toimijalle kuten Hankkijalle ilman kilpailutusta, eikä viljamarkkina ole ehkä halunnutkaan etsiä parasta hintaa. Jos viljelijät osaisivat tunnistaa laatuerät, niin näille erille voitaisiin kilpailuttamalla saada parempi hinta ja näin parantaa tuotannon kannattavuutta. Tämä parantaisi myös viljelijän asemaa myyntineuvotteluissa, sillä vaikka viljan laatujärjestelmiä on olemassa niin mittauksen ja laatuluokituksen tekee ostaja.
+5.15 ... Vaikka nykyisillä tuotantotavoilla ja ammattitaidolla yksittäinen viljelijä voi hyvinkin pärjätä vastaisuudessakin, tuotannossa voi silti olla huomaamattaa jääneitä pullonkauloja, jotka voitaisiin havaita datan analysoinnilla. Samoin voi olla, ettei tehtyjen viljelypäätösten todellista kausaliteettia voida hahmottaa.
+    ~~Omasta mielestäni olisi hyödyllistä ohjata tuotettu tieto Suomessa ja EUssa päätöksiä tekevien ihmisten käyttöön, jolloin voitaisiin etsiä toimenpiteitä mitattuihin ja todellisiin tarpeisiin. *oikeassa mittakaavassa* *jolloin päätöksentekijät voisivat perustaa päätöksensä mitattuun dataan* Datan perusteella voitaisiin tehdä siis maanviljelijöille parempia päätöksiä ainakin Suomen mittakaavassa.~~
 
-1.45 Ongelmana on, että laatueriäkin myydään bulkkina ja suora yhteys kuluttajien ja viljelijöiden välillä tervehdyttäisi tilannetta. 
-Virtuaalimarkkinat mahdollistaisivat vaikka pop-up -laatuerän markkinoille tuottamisen. 
-Eikä suppilo voisi enää sanella ehtoja, kun vaihtoehtoisiakin reittejä olisi laatutavaran myymiselle parempaan hintaan. 
-Silloin keskuskaupatkin joutuisivat kilpailemaan laatutavaran saannista. Tämä tervehdyttäisi kuvion.
+1.28 Pienet suomalaiset maatilat hyvin todennäköisesti hyötyisivät Farmobile:n ja Farmer's Business Network:in kaltaisista palveluista, koska tuotannon kannattavuutta voidaan parantaa juuri arvon tunnistamisella. 
+    ~~Viljelijä voisi parantaa tuotteensa arvon tunnistamista kilpailuttamalla ostajia. Tähän asti monet maatilat ovat myyneet tuotteensa aina samalle toimijalle kuten Hankkijalle ilman kilpailutusta, eikä viljamarkkina ole ehkä halunnutkaan etsiä parasta hintaa. Jos viljelijät osaisivat tunnistaa laatuerät, niin näille erille voitaisiin kilpailuttamalla saada parempi hinta ja näin parantaa tuotannon kannattavuutta. Tämä parantaisi myös viljelijän asemaa myyntineuvotteluissa, sillä vaikka viljan laatujärjestelmiä on olemassa niin mittauksen ja laatuluokituksen tekee ostaja.~~
+
+1.45 ~~Ongelmana on, että laatueriäkin myydään bulkkina ja suora yhteys kuluttajien ja viljelijöiden välillä tervehdyttäisi tilannetta. Virtuaalimarkkinat mahdollistaisivat vaikka pop-up -laatuerän markkinoille tuottamisen. Eikä suppilo voisi enää sanella ehtoja, kun vaihtoehtoisiakin reittejä olisi laatutavaran myymiselle parempaan hintaan. Silloin keskuskaupatkin joutuisivat kilpailemaan laatutavaran saannista. Tämä tervehdyttäisi kuvion.~~
 
 1.46 10-15 % tilojen tuotosta voisi olla oikeasti kilpailutettavaa laadukasta tuotantoa. Siitä viljelijät voisivat saada paremman tuoton.
 
@@ -410,21 +422,6 @@ Erillisten arvoerien tuottaminen voisi olla mahdollista, mutta vaatisi toiminta-
 Tietenkin voisi olla *näiden teknologioiden avulla* yksittäiselle vijelijälle mahdollista näyttää toteen asiakkaalleen että tuotteet on viljelty tietyillä tavoilla ekologisesti, terveellisesti jne.
 Laajempi käyttöönotto ja omaksuminen vaatii vähintään aikaa eikä välttämättä sittenkään ota tuulta purjeisiinsa, vaikka kyseinen innovaatio olisi kuinka edistyksellinen ja tarjoaisi huomattavia etuja. Vaikka teknologia on mahdollistaja, lopulta käyttöön jäävän ratkaisun valikoitumista ohjaavat liiketoiminta, käytettävyys ja muut vastaavat ominaisuudet ja olosuhteet.
 
-2.16 Esimerkiksi teknologian käyttöönotosta Yaran N-sensorin avulla saadaan Saksassa 6 % suurempia satoja ja samalla säästöjä panoksissa, Ruotsissa saman lukeman ollessa 4 %. ...
-
-H2.26 Sadonlisää on saatavissa, prosenttiluvut ovat lohkokohtaisia ja riippuvat lohkon sisäisistä vaihteluista, lannoitusstrategiasta. ...
-
-H2.27 Sadonlisän lisäksi on mahdollista saavuttaa lannoitesäästöjä. ...
-
-H2.38 Urakointina voidaan ulkoistaa täsmäviljelytyöt, jotka on aikaisemmin pitänyt tehdä oman hiljaisen tiedon varassa mutta jotka on uudella teknologialla saatu dokumentoitua ja tallennettua urakoitsijalle annettavaan työtiedostoon. ... Useamman vuoden historiatietoja voidaan myös vertailla ja pyrkiä selvittämään kasvuun liittyviä ongelmia, vaikka miksi juuri tuo kohta pellossa tuottaa aina huonoa satoa tai on muuten ongelmainen.
-
-5.12 *yleiskuva, swot per IoT-teknologiat, mitä hankaluuksia on*
-Omasta mielestäni digitalisaatio tuo nykyiseen toimintaympäristöön pääasiallisesti vain parannuksia.
-Viljelijälle voidaan tuottaa dataa, jonka avulla hän voi kasvattaa viljamääriä, tehostaa koneiden käyttöä, minimoida tiettyjen aineiden käyttöä. Nämä ovat kaikki parannuksia.
-Lisäksi voidaan helpottaa viljelijän työskentelyä tai antaa hänelle aikaa keskittyä vaikka perhe-elämään.
-Logistiikkaa voidaan parantaa, mikä on tärkeää Suomessa missä pellot sijaitsevat hajallaan, jolloin voidaan säästää polttoainetta ja vähentää liikenteen päästöjä.
-Omasta mielestäni riskejä digitalisaatiossa on hyvin vähän. Järjestelmät voidaan suojata tietoturvauhkia vastaan ja riskit minimoida. Kunhan riskit minimoidaan tehokkaasti, ne jäävät loppujen lopulta aika pieniksi.
-
 4.17 *kasvitehtaat, kasvihuone-IoT*
 ... Itse arvaan, että kasvatetaan korkean hinnan nopeasti kasvavia lajikkeita, esimerkiksi salaattia jota voi markkinoida steriilisti kasvatettuna ja josta voi saada korkeamman hinnan. ...
 
@@ -432,7 +429,7 @@ Omasta mielestäni riskejä digitalisaatiossa on hyvin vähän. Järjestelmät v
 
 4.26 *uudet toimintatavat*
 Maatilojen tekemä yhteistyö voisi saada uusia toimintamalleja.
-Tällä hetkellä maatilat tekevät järjestäytymätöntä yhteistyötä niin, että edistyneemmän viljejijän toimintatapa voi levitä naapuritilojen käyttöön. Samankaltaista yhteistyötä voitaisiin tehdä teknologisilla alustoilla. ...
+Tällä hetkellä maatilat tekevät järjestäytymätöntä yhteistyötä niin, että edistyneemmän viljelijän toimintatapa voi levitä naapuritilojen käyttöön. Samankaltaista yhteistyötä voitaisiin tehdä teknologisilla alustoilla. ...
 
 1.48 "Näen, että digitaalisuus tuo uusia liiketoimitamahdollisuuksia, jotta maatilat olisivat oikeasti kilpailukykyisiä ja kannattavia. Kannattavampia kuin tänä päivänä. Se olisi kaikin puolin tärkeätä."
 
@@ -442,6 +439,13 @@ Tällä hetkellä maatilat tekevät järjestäytymätöntä yhteistyötä niin, 
 Tulevaisuudessa tuotekehityksen seuraavassa vaiheessa koneoppimisen ja keinoälyn avulla voidaan automatisoida yhä enemmän toistuvia työsuoritteita.
 ... Keinoälyn voisi myös antaa tehdä päätöksiä viljelyaikana ja antaa sen hoitaa toimintaa.
 Nämä koneoppimisen ja keinoälyn avulla automatisoidut järjestelmät voivat olla hyvinkin lähitulevaisuuden maanviljelyn asioita.
+
+5.12 *yleiskuva, swot per IoT-teknologiat, mitä hankaluuksia on*
+Omasta mielestäni digitalisaatio tuo nykyiseen toimintaympäristöön pääasiallisesti vain parannuksia.
+Viljelijälle voidaan tuottaa dataa, jonka avulla hän voi kasvattaa viljamääriä, tehostaa koneiden käyttöä, minimoida tiettyjen aineiden käyttöä. Nämä ovat kaikki parannuksia.
+Lisäksi voidaan helpottaa viljelijän työskentelyä tai antaa hänelle aikaa keskittyä vaikka perhe-elämään.
+Logistiikkaa voidaan parantaa, mikä on tärkeää Suomessa missä pellot sijaitsevat hajallaan, jolloin voidaan säästää polttoainetta ja vähentää liikenteen päästöjä.
+Omasta mielestäni riskejä digitalisaatiossa on hyvin vähän. Järjestelmät voidaan suojata tietoturvauhkia vastaan ja riskit minimoida. Kunhan riskit minimoidaan tehokkaasti, ne jäävät loppujen lopulta aika pieniksi.
 
 5.14 ... jos suurin osa viljelijöistä ottaa käyttöön uusia digitaalisia työkaluja voimme nähdä hyvinkin suuria muutoksia maanviljelyksessä.
 
@@ -551,7 +555,7 @@ Tilanne monimutkaistuu otettaessa käyttöön tilan tarvitsemaa teknologista eko
 
 2.32 *alustahaaste* Tiedon liikkuminen tuotantoketjussa *(ruokaketjussa, arvoketjussa?)* kuluttajalle asti voisi toteutua jos siihen saataisiin alustajärjestelmä.
 
-H4.26 *alustahaaste* ... Alustaratkaisuiden kehittämisen haasteena on miten palvelusta voisi kehittää sellainen, että se oikeasti kiinnostaisi viljejijöitä. Periaatteessa tälläinen ratkaisu olisi viljejijöitä kiinnostava, koska he tekevät jo paljon yhteistyötä, tietojen vaihtoa jne.
+H4.26 *alustahaaste* ... Alustaratkaisuiden kehittämisen haasteena on miten palvelusta voisi kehittää sellainen, että se oikeasti kiinnostaisi viljelijöitä. Periaatteessa tälläinen ratkaisu olisi viljelijöitä kiinnostava, koska he tekevät jo paljon yhteistyötä, tietojen vaihtoa jne.
 
 H4.27 *alustahaaste* *käytettävyyshaaste* Palvelusta tulisi voida tehdä mukavampi käyttää kuin Whatsapp. Se on huono, mutta niin yleinen ja yleiskäyttöinen.
 Yhtä asiaa kuten tautipaineen havainnointia ja siitä viestittämistä varten tehtyjä sovelluksia tulisi niin monta, että yhden huonon sovelluksen käyttö on käytännöllisempää kuin monien *hyvien (?)*. Muutamia esimerkkejä: tautipainepalvelu, *yleinen toiminnan*suunnittelupalvelu, viljanostopalvelu, viljanmyyntipalvelu, lannoitteidenostopalvelu, ruiskutuskemikaalienostopalvelu, ruiskutuskemikaaliensuunnittelupalvelu jne.
