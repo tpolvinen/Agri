@@ -290,6 +290,8 @@ Haastattelussa E.E. toi esille näkökulman datan omistajuudesta ja viljelijöid
 *kirjoitukseen meni tänään noin 10,5 tomaattia, tuloksena 1405 sanaa*
 *editointiin meni aamupäivällä vähän yli 3 tomaattia*
 
+*<18-06-2018  10:55> aamupäivän editointi tehty, meni 5 tomaattia.*
+
 ## AIoTn vaikutukset
 
 
