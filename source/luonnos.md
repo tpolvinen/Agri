@@ -336,6 +336,18 @@ Myös E.E. oli samoilla linjoilla ruokaturvasta kuin muut haastateltavat. Hänen
 
 ## AIoTn haasteet
 
+### Tietoliikenteen haasteet
+
+D.D.n mukaan syrjäseutujen tietoliikenneverkkojen luotettavuus ja nopeus on maatalouden näkökulmasta merkittävä haaste. Pilvipalveluiden yleistyminen myös maatalouden käytössa asettaa kasvavia vaatimuksia tietoliikenneyhteyksien luotettavuudelle (@dHaastattelu2018). A.A. mainitsi, että Suomessa ollaan lähtökohtaisesti perustettu telemetriaratkaisut matkapuhelinverkolle ja C.C.n mukaan SMS-viestiratkaisu on ollut valmistajille tämän maan toimintaympäristössä luotettava valinta (@aHaastattelu2017; @aHaastattelu2017). Lisäksi D.D. arveli, että **UAV-laitteilla** tuotetun datan määrä voi olla syrjäseutujen tietoliikenneverkkojen kaistanleveydelle liian suuri (@dHaastattelu2018). Myös C.C.n mukaan käytännössä verkot eivät kanna **droonien** kuvauksien tuottamaa datan määriä, vaikka teoriassa se onkin mahdollista. Valokuituverkoissa tämä kyllä onnistuu, mutta radioverkoissa verkot ovat ahtaat ja matkapuhelinverkon nopeuden kasvattaminen riittäväksi haja-asutusalueella, missä mastoväli on suuri, on erittäin haastavaa. (@cHaastattelu2017)
+
+A.A.n mukaan tehtäessä kuvantamista ja sen analytiikkaa **drooneilla** on tarve saada kuvien analyysin tulokset käytännössä saman tien kun ollaan vielä pellolla. 5G-tekniikoista voisi olla hyötyä ison datamäärän viemisessä pilveen ja takaisin, jotta voitaisiin saada analyysi pellosta noin 10 minuutin kuluessa. (@aHaastattelu2017) Toisaalta C.C.n mukaan tulevat 5G-ratkaisut lisäävät nopeutta lyhyillä matkoilla, eivätkä pitkillä matkoilla (@cHaastattelu2017). A.A. kertoi, että 3G ei sekään vielä kanna joka paikkaan mihin pitäisi, mikä on hänen mukaansa iso ongelma. Erityisesti suomalainen ongelma on maan pituus, peltojen pirstaleisuus ja sijainnit laaksopaikoilla, joissa kuuluvuus voi olla huono. (@aHaastattelu2017)
+
+Aikaisemmin maatiloilla olleet verkot ovat olleet hyvin vaatimattomia, mutta valokuituyhteyksien myötä voidaan maatiloilla hypätä verkkoyhteyksissä kehityksen kärkeen. C.C.n mukaan haasteena on verkkoyhteyksien hitausongelman ratkettua maatiloille rakennettujen verkkojen suunnittelematon rakenne. Verkkoja ollaan rakennettu ja laajennettu kulloisenkin tarpeen mukaan lisäämällä ominaisuuksia, mikä tekee verkoista vaikeasti turvattavia. Verkon komponenttien ollessa ilman ylläpitoa ja huonosti suunniteltuna verkko voi olla haavoittuva. (@cHaastattelu2017)
+
+Globaalisti tietoliikennehaasteet ovat huomattavia. E.E.n mukaan erityisesti globaalin wifi- tai mobiiliverkon puuttuminen aiheuttaa ongelmia. Australiassa on useita peltoalueita, joilla ei ole minkäänlaista yhteyttä, samoin kuin Brasiliassa. Suomen ja Euroopan tietoliikenneyhteydet ovat yleisesti hyvät, mutta Euroopan ulkopuolella tietoliikenneyhteyksien haasteet tulevat nopeasti vastaan. Brasilian viljelijät saattavat tuottaa merkittävän osuuden koko maailman tuotannosta tietystä tuotannosta, mutta heillä ei ole mahdollisuuksia päästä digitalisaatioon käsiksi internet- ja puhelinyhteyksien puutteen takia. Tämä tarkoittaa huomattavia menetyksiä verrattuna siihen, mitä voitaisiin saavuttaa jos tietoliikenneyhteydet olisivat kyseisillä alueilla yhtä hyvät kuin Euroopassa. E.E.n mukaan olisi ratkaisevan tärkeää on saada kaikki laitteet toimimaan reaaliaikaisesti yhdessä. Tämän yhteistoiminnan mahdollistamiseksi ollaan kehittämässä ratkaisuita sateliitti- ja 5G-verkon avulla.
+
+### Tietoturvan haasteet
+
 
 A.A. 
 @aHaastattelu2017
@@ -348,9 +360,12 @@ D.D.
 E.E. 
 @eHaastattelu2018
 
-*<19-06-2018  11:06>*
-*editointiin meni aamupäivällä 4 tomaattia*
 
+*5786 - 245 - 79 -114 = 5348 sanaa kasassa, noin 16,2 sivua*
+*<19-06-2018  22:12>*
+*ollaan muistiinpanoissa kohdassa 5889 per 9260 sanaa, noin 63 %*
+*kirjoitukseen meni tänään vähän alle 4 tomaattia (koska elämä), tuloksena 657 sanaa*
+*editointiin meni aamupäivällä 4 tomaattia*
 
 ## Tavoitetila ja tulevaisuus
 ## Muut

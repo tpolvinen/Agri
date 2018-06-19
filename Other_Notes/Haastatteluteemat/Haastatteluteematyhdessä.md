@@ -495,7 +495,8 @@ Valokuituverkoissa tämä kyllä onnistuu, mutta radioverkoissa verkot ovat ahta
 
 3.16 *verkkohaaste* Tulevat 5G-ratkaisut eivät lisää nopeutta pitkillä matkoilla vaan lyhyillä matkoilla.
 
-1.40 *verkkohaaste* 3G ei sekään vielä kanna joka paikkaan mihin pitäisi, mikä on iso ongelma. Erityisesti suomalainen ongelma on maan pituus, peltojen pirstaleisuus ja sijainnit laaksopaikoilla, joissa kuuluvuus voi olla huono. Ukkoverkot voisi olla tähän potentiaalinen ratkaisu.
+1.40 *verkkohaaste* 3G ei sekään vielä kanna joka paikkaan mihin pitäisi, mikä on iso ongelma. Erityisesti suomalainen ongelma on maan pituus, peltojen pirstaleisuus ja sijainnit laaksopaikoilla, joissa kuuluvuus voi olla huono. 
+    ~~Ukkoverkot voisi olla tähän potentiaalinen ratkaisu.~~
 
 3.28 *verkkohaaste* ... Aikaisemmin maatiloilla olleet verkot ovat olleet hyvin vaatimattomia, mutta valokuituyhteyksien myötä voidaan maatiloilla hypätä verkkoyhteyksissä kehityksen kärkeen.
 Haasteena on verkkoyhteyksien hitausongelman ratkettua maatiloille rakennettujen verkkojen suunnittelematon rakenne. Verkkoja ollaan rakennettu ja laajennettu kulloisenkin tarpeen mukaan lisäämällä ominaisuuksia, mikä tekee verkoista vaikeasti turvattavia (ks. alkutuotannon kyberturvallisuus). Verkon komponenttien ollessa ilman ylläpitoa ja huonosti suunniteltuna verkko voi olla haavoittuva.
@@ -504,7 +505,8 @@ Haasteena on verkkoyhteyksien hitausongelman ratkettua maatiloille rakennettujen
 Suomen ja Euroopan tietoliikenneyhteydet ovat yleisesti hyvät, mutta Euroopan ulkopuolella tietoliikenneyhteyksien haasteet tulevat nopeasti vastaan.
 Brasilian viljelijät saattavat tuottaa prosentin koko maailman tuotannosta jonkin tietyn (?) osalta, mutta heillä ei ole mahdollisuuksia päästä digitalisaatioon käsiksi internet- ja puhelinyhteyksien puutteen takia. *huomattavan osan maailman maataloustuotannosta tekevien viljelijöiden toimintaa ei ole mahdollista tehostaa tietoliikenneyhteyksien puutteen takia*
 Tämä tarkoittaa huomattavia menetyksiä verrattuna siihen, mitä voitaisiin saavuttaa jos tietoliikenneyhteydet olisivat kyseisillä alueilla yhtä hyvät kuin Euroopassa.
-Ratkaisevan tärkeää on saada kaikki laitteet toimimaan reaaliaikaisesti yhdessä ja sen mahdollistamiseksi haetaan ratkaisuita sateliitti- ja 5G-verkon avulla. Olemme tällä hetkellä digitalisaation murroksessa.
+Ratkaisevan tärkeää on saada kaikki laitteet toimimaan reaaliaikaisesti yhdessä ja sen mahdollistamiseksi haetaan ratkaisuita sateliitti- ja 5G-verkon avulla. 
+    ~~Olemme tällä hetkellä digitalisaation murroksessa.~~
 
 4.23 *tietoturvahaaste* Tutkimme juuri nyt maatalouden tietoturvaa ja ylipäätänsä laitteistojärjestelmien kyberturvallisuutta, joka tulee olemaan maatiloilla kasvava ongelma.
 Myös maatalouden verkkoon kytkettyjä laitteita koskevat samat tietoturvauhat kuin muitakin intertetiin kytkettyjä teollisia järjestelmiä.
