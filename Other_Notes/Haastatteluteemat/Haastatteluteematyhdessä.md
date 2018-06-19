@@ -135,6 +135,8 @@ Puhutaan kahdesta eri tavasta:
 2. Farm Management Software (FMS) missä voidaan päättelemällä miten toimintaa/prosesseja voitaisiin parantaa.
 Eli miten tehdään enemmän tai miten tehdään tehokkaammin lopputuotetta. Nämä lähestymistavat ovat selkeästi esillä.
 
+H2.34 Viljanviljelyn riskiarvioita tehdessä voidaan arvioida sadon epäonnistumisen riski ja siitä johtuvat taloudelliset riskit. Silloin voidaan arvioida onko kannattavampaa ottaa näitä teknologioita käyttöön kuin olisi olla käyttämättä, koska näillä teknologioilla voidaan vähentää tuotannon tehon laskun riskiä, myös ilmastonmuutoksen aiheuttaessa muutoksia.
+
 5.1 ... Uusiin vaatimuksiin ovat voimakkaasti panostamassa AGCO, Valtra-Fendt, Massey Ferguson, Challenger. Toiminnan digitalisaatioon, telemetriaan, Farm Managementiin, laitteiden käytön projekteja on yhtä aikaa menossa. Nämä osa-alueet edustavat uuden aallon huippua ja niiden on katsottu olevan tärkeitä.
 
 5.15 ... Sitä mukaa kun markkinoille tuotetaan uusia IoT-ratkaisuita valmistajat oppivat miten asiakkaat haluavat niitä käyttää.
@@ -371,7 +373,18 @@ Itse arvioisin, että passiivinen kuluttaja voisi jaksaa lukea tuotteen pakkauks
     1.30 ~~Avoimet standardit mahdollistavat liiketoimintalähtöisen valinnan investointien ajankohdalle, olosuhteiden otollisuuden mukaisesti.~~
 Digitaalisaation ja IoT:n myötä on mahdollista nähdä liiketoiminta uudesta näkökulmasta, niiden mahdollistaessa uusia vaihtoehtoja.
 Verkottuminen voi tuoda kilpailuttamiseen neuvotteluvoimaa.
-Tällä hetkellä ollaan siirtymässä ruutupaperilta dataan. Seuraavaksi viljelijöiden tulisi saada tuottamansa data omiin käsiinsä ja palvelut, jotka mahdollistaisivat tiedon vaihdannan, analytiikan, vertailut ja yhteisen liiketoiminnan. Tämä toimisi lähtökohtana markkinaperusteisille investointipäätöksille.
+Tällä hetkellä ollaan siirtymässä ruutupaperilta dataan. Seuraavaksi viljelijöiden tulisi saada tuottamansa data omiin käsiinsä ja palvelut, jotka mahdollistaisivat tiedon vaihdannan, analytiikan, vertailut ja yhteisen liiketoiminnan. ~~Tämä toimisi lähtökohtana markkinaperusteisille investointipäätöksille.~~
+
+1.48 "Näen, että digitaalisuus tuo uusia liiketoimitamahdollisuuksia, jotta maatilat olisivat oikeasti kilpailukykyisiä ja kannattavia. Kannattavampia kuin tänä päivänä. Se olisi kaikin puolin tärkeätä."
+
+4.26 *uudet toimintatavat*
+Maatilojen tekemä yhteistyö voisi saada uusia toimintamalleja.
+Tällä hetkellä maatilat tekevät järjestäytymätöntä yhteistyötä niin, että edistyneemmän viljelijän toimintatapa voi levitä naapuritilojen käyttöön. Samankaltaista yhteistyötä voitaisiin tehdä teknologisilla alustoilla. ...
+
+4.17 *kasvitehtaat, kasvihuone-IoT*
+... Itse arvaan, että kasvatetaan korkean hinnan nopeasti kasvavia lajikkeita, esimerkiksi salaattia jota voi markkinoida steriilisti kasvatettuna ja josta voi saada korkeamman hinnan. ...
+
+4.18 Konttiviljelmistä on ollut kaikenlaisia kokeiluita ja sovelluksia, mutta niillä voitaisiin *ainakin teoriassa* mahdollistaa tuoreen ravinnon tuottamisen katastrofialueilla, missä tuoreiden elintarvikkeiden saatavuus on heikko ja niiden kuljettaminen paikan päälle voi olla vaikeaa mm. kylmäketjun puuttuessa.
 
 5.14 *ruokaturva, ilmastonmuutos, väestönkasvu*
 ... Digitalisaation avulla voidaan tehostaa tuotantoa niin, että samalla työmäärällä tai resursseilla voidaan saada saman verran tai enemmän tuloksia. Selkeät tulokset todennäköisesti motivoisivat digitaalisten työkalujen käyttöön ottaneita toimijoita kehittämään toimintaansa edelleen. ...
@@ -422,23 +435,12 @@ Erillisten arvoerien tuottaminen voisi olla mahdollista, mutta vaatisi toiminta-
 Tietenkin voisi olla *näiden teknologioiden avulla* yksittäiselle vijelijälle mahdollista näyttää toteen asiakkaalleen että tuotteet on viljelty tietyillä tavoilla ekologisesti, terveellisesti jne.
 Laajempi käyttöönotto ja omaksuminen vaatii vähintään aikaa eikä välttämättä sittenkään ota tuulta purjeisiinsa, vaikka kyseinen innovaatio olisi kuinka edistyksellinen ja tarjoaisi huomattavia etuja. Vaikka teknologia on mahdollistaja, lopulta käyttöön jäävän ratkaisun valikoitumista ohjaavat liiketoiminta, käytettävyys ja muut vastaavat ominaisuudet ja olosuhteet.
 
-4.17 *kasvitehtaat, kasvihuone-IoT*
-... Itse arvaan, että kasvatetaan korkean hinnan nopeasti kasvavia lajikkeita, esimerkiksi salaattia jota voi markkinoida steriilisti kasvatettuna ja josta voi saada korkeamman hinnan. ...
 
-4.18 Konttiviljelmistä on ollut kaikenlaisia kokeiluita ja sovelluksia, mutta niillä voitaisiin *ainakin teoriassa* mahdollistaa tuoreen ravinnon tuottamisen katastrofialueilla, missä tuoreiden elintarvikkeiden saatavuus on heikko ja niiden kuljettaminen paikan päälle voi olla vaikeaa mm. kylmäketjun puuttuessa.
 
-4.26 *uudet toimintatavat*
-Maatilojen tekemä yhteistyö voisi saada uusia toimintamalleja.
-Tällä hetkellä maatilat tekevät järjestäytymätöntä yhteistyötä niin, että edistyneemmän viljelijän toimintatapa voi levitä naapuritilojen käyttöön. Samankaltaista yhteistyötä voitaisiin tehdä teknologisilla alustoilla. ...
 
-1.48 "Näen, että digitaalisuus tuo uusia liiketoimitamahdollisuuksia, jotta maatilat olisivat oikeasti kilpailukykyisiä ja kannattavia. Kannattavampia kuin tänä päivänä. Se olisi kaikin puolin tärkeätä."
 
 1.49 IoT-teknologioiden, digitalisaation, tietoon perustuvalla maanviljelyllä voidaan vastata joustavammin haasteisiin. "Pystytään reagoimaan kun on tietoa. Jos ei ole tietoa, ei voida reagoida."
 
-5.16 *koneoppiminen, seuraava kehitysvaihe, toistuvan työn automatisointi, resurssien vapautus*
-Tulevaisuudessa tuotekehityksen seuraavassa vaiheessa koneoppimisen ja keinoälyn avulla voidaan automatisoida yhä enemmän toistuvia työsuoritteita.
-... Keinoälyn voisi myös antaa tehdä päätöksiä viljelyaikana ja antaa sen hoitaa toimintaa.
-Nämä koneoppimisen ja keinoälyn avulla automatisoidut järjestelmät voivat olla hyvinkin lähitulevaisuuden maanviljelyn asioita.
 
 5.12 *yleiskuva, swot per IoT-teknologiat, mitä hankaluuksia on*
 Omasta mielestäni digitalisaatio tuo nykyiseen toimintaympäristöön pääasiallisesti vain parannuksia.
@@ -451,25 +453,25 @@ Omasta mielestäni riskejä digitalisaatiossa on hyvin vähän. Järjestelmät v
 
 ## Ruokaturva
 
-H1.47 IoT-teknologiat ja digitalisaatio maataloudessa on tärkeässä roolissa ruokaturvan ylläpitämisessä. Smart Farming auttaa myös huoltovarmuuden parantamisessa.
+H1.47 IoT-teknologiat ja digitalisaatio maataloudessa on tärkeässä roolissa ruokaturvan ylläpitämisessä. 
+    ~~Smart Farming auttaa myös huoltovarmuuden parantamisessa.~~
 Tietoisuuden kasvaminen millaista ruokaa missäkin varastossa on, auttaa ruokaturvasta vastaavaa viranomaista tekemään päätöksiä varsinkin kriisitilanteessa.
 Paljon parempia ja nopeampia päätöksiä voidaan tehdä niukkojen resurssien allokoinnissa kun tieto on yksityiskohtaista ja digitaalisessa muodossa.
 
 H1.48 Tietoon perustuvalla maanviljelyllä ilmastonmuutoksen aiheuttamiin muutostrendeihin päästäisiin kiinni. Esim. silmämääräisesti arvioituna satokoko voi muuttua huomaamatta.
 Hyönteisinvaasion päästään nopeammin käsiksi, samoin se voitaisiin mahdollisesti myös taltuttaa tai rajata nopeammin, kun nähdään missä oloissa invaasio tapahtuu. ...
+1.48 ... Väestönkasvuun voidaan vastata paremmin, kun olemme oman ruokamme tuottaja, emmekä kuluta muiden ruokaa, mikä on moraalinen velvollisuus. Jos oma tuotantomme on kannattamatonta, ei sitä enää jatketa, mikä vähentää ruoan tuotantoa. ...
 
 H2.33 Ruokaturvan parantamiseen nämä teknologiat voivat osallistua vähentämällä viljantuotannossa viljelijän toiminnassa ilmeneviä riskejä, jolloin sadoista saataisiin varmempia. Samoin voidaan viljelijän toiminnassa saada järjestelmistä tarkkaa tietoa lohkojen historiasta ja nykytilanteesta, mikä parantaa tilannehallintaa kasvintuotannossa.
 Tiedon avulla voidaan tehdä parempaa lajikevalintaa, tunnetaan typen vapautumisen määrät, kasvien tuleentumisen eteneminen ja tämän kautta parantamaan sadon määrää ja laatua ja sitä kautta ruokaturvaa.
-Ruokaturvan varmistaminen on viljelijän toiminnassa mukana, mutta vielä merkittävämpi rooli toiminnassa on sellaisen viljan tuottaminen, mistä hän saa parhaan hinnan ja mitä häneltä halutaan ostaa.
+    ~~Ruokaturvan varmistaminen on viljelijän toiminnassa mukana, mutta vielä merkittävämpi rooli toiminnassa on sellaisen viljan tuottaminen, mistä hän saa parhaan hinnan ja mitä häneltä halutaan ostaa.~~
 
-H2.34 Viljanviljelyn riskiarvioita tehdessä voidaan arvioida sadon epäonnistumisen riski ja siitä johtuvat taloudelliset riskit. Silloin voidaan arvioida onko kannattavampaa ottaa näitä teknologioita käyttöön kuin olisi olla käyttämättä, koska näillä teknologioilla voidaan vähentää tuotannon tehon laskun riskiä, myös ilmastonmuutoksen aiheuttaessa muutoksia.
+*H2.34 siirretty tästä alkuun <19-06-2018  13:11>* 
 
 H3.39 Ruokaturvasta puhuttaessa tulisi määritellä, onko meillä ruokaturvassa ongelmaa, kuinka vakava ongelma on ja millaista ongelmaa ylipäätään ollaan näillä IoT-teknologioilla ratkaisemassa.
 Ruokaturvassa ongelma on ruoan liikkumat pitkät matkat, jolloin ruoalle tarvitaan identiteetti jolloin voidaan seurata mistä mikäkin ruokaerä on tullut.
 Samalla kun valvontaa rakennetaan, tulisi arvioida todellinen valvonnan tarve ja syyt.
 Ruokaketjun valvonnan tarvetta on lisännyt ruoan hinnan halpeneminen, koska ruokaa käsiteltäisiin todennäköisesti paremmin jos se olisi arvokkaampaa jolloin valvonnan tarve olisi pienempi.
-
-1.48 ... Väestönkasvuun voidaan vastata paremmin, kun olemme oman ruokamme tuottaja, emmekä kuluta muiden ruokaa, mikä on moraalinen velvollisuus. Jos oma tuotantomme on kannattamatonta, ei sitä enää jatketa, mikä vähentää ruoan tuotantoa. ...
 
 5.14 *ruokaturva, ilmastonmuutos, väestönkasvu*
 Suomen osalta kaikki mikä parantaa maatalouden tuottavuutta parantaa myös omavaraisuutta ja sitä kautta omaa ruokaturvaamme.
