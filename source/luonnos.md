@@ -346,8 +346,30 @@ Aikaisemmin maatiloilla olleet verkot ovat olleet hyvin vaatimattomia, mutta val
 
 Globaalisti tietoliikennehaasteet ovat huomattavia. E.E.n mukaan erityisesti globaalin wifi- tai mobiiliverkon puuttuminen aiheuttaa ongelmia. Australiassa on useita peltoalueita, joilla ei ole minkäänlaista yhteyttä, samoin kuin Brasiliassa. Suomen ja Euroopan tietoliikenneyhteydet ovat yleisesti hyvät, mutta Euroopan ulkopuolella tietoliikenneyhteyksien haasteet tulevat nopeasti vastaan. Brasilian viljelijät saattavat tuottaa merkittävän osuuden koko maailman tuotannosta tietystä tuotannosta, mutta heillä ei ole mahdollisuuksia päästä digitalisaatioon käsiksi internet- ja puhelinyhteyksien puutteen takia. Tämä tarkoittaa huomattavia menetyksiä verrattuna siihen, mitä voitaisiin saavuttaa jos tietoliikenneyhteydet olisivat kyseisillä alueilla yhtä hyvät kuin Euroopassa. E.E.n mukaan olisi ratkaisevan tärkeää on saada kaikki laitteet toimimaan reaaliaikaisesti yhdessä. Tämän yhteistoiminnan mahdollistamiseksi ollaan kehittämässä ratkaisuita sateliitti- ja 5G-verkon avulla.
 
+
+*5786 - 245 - 79 -114 = 5348 sanaa kasassa, noin 16,2 sivua*
+*<19-06-2018  22:12>*
+*ollaan muistiinpanoissa kohdassa 5889 per 9260 sanaa, noin 63 %*
+*kirjoitukseen meni tänään vähän alle 4 tomaattia (koska elämä), tuloksena 657 sanaa*
+*editointiin meni aamupäivällä 4 tomaattia*
+*Kurtz: Are my methods unsound?  Willard: I don't see any method at all, sir.*
+
 ### Tietoturvan haasteet
 
+Tietoturva ja laitteistojärjestelmien kyberturvallisuus tulee olemaan maatiloilla kasvava ongelma. D.D. muistutti haastattelussaan, että myös maatalouden verkkoon kytkettyjä laitteita koskevat samat tietoturvauhat kuin muitakin intertetiin kytkettyjä teollisia järjestelmiä. Esimerkkinä hän kertoi, että kiristyshaittaohjelmalla voi hyvinkin haitata maatilan toimintaa, aivan samoin kuin vaikka Saksan rautateitä. Vaikka taloudelliset tappiot voisivat olla yksittäisellä tilalla tuotannon keskeytymisestä pienemmät kuin rautatieliikenteen pysähtymisen vastaavat, eläinten vaatiman jatkuvan hoidon lamaantuminen tarkoittaa välittömästi eläinsuojelu-uhkaa. (@dHaastattelu2018)
+
+### Elinkaarihaasteet
+
+C.C.n mukaan maatilolla käytössä olevan automatiikan haasteita ovat elinkaaren pituus ja *toiminnan jatkuvuuden* luotettavuus. Viime aikaisessa tutkimuksessa oli havaittu maatiloilla käytössä olevien laitteiden *toimintavarmuuden* uhaksi ylläpidon puutteen tai komponenttien vanhenemisen niin, ettei varaosia enää ole saatavilla. Käytännössä *valmistajan* 10 vuoden yleinen tuotevastuu on aika lyhyt verrattuna laitteiden elinkaareen, jolloin käytössä oleva tuote voi jäädä ylläpidon ulkopuolelle. Ohjelmistohuollossa kohdataan kysymys tekijänoikeuksista: mitä tapahtuu kun valmistaja lopettaa ohjelmiston tuotannon tai menee konkurssiin? Oikeudet ohjelmistoihin jäävät konkurssissa usein jollekin taholle kuten konkurssipesälle, jolla ei ole intressiä kehittää ja ylläpitää ohjelmistoja. Tällöin on epävarmaa mitä itse tuotteelle tapahtuu. Verrattuna mekaanisiin laitteisiin kuten akseleihin joita ollaan voitu ryhtyä tuottamaan omalla sorvilla jos valmistaja ei enää tuota osia, ohjelmistojen tapauksessa ei ole selkeää kuka voisi aikaisempiin versioihin perustuen jatkokehittää niistä uusia versioita. (@cHaastattelu2017)
+
+Tuotteen ja ohjelmiston elinkaaren kysymys tulee esille kun tarkastellaan syitä miksi prototyypeistä ja erilaisista kokeiluista on vaikeaa jatkokehittää valmiita tuotteita: yleinen tuotevastuu on osittain syynä siihen, että ...
+
+*5786 + 219 - 245 - 79 -114 = 5567 sanaa kasassa, noin 16,8 sivua*
+*<20-06-2018  21:46>*
+*ollaan muistiinpanoissa kohdassa 6159 per 9260 sanaa, noin 67 %*
+*kirjoitukseen meni tänään 2 tomaattia (koska työ & elämä), tuloksena 245 sanaa*
+*editointiin meni aamupäivällä -- tomaattia*
+*Kurtz: Are my methods unsound?  Willard: I don't see any method at all, sir.*
 
 A.A. 
 @aHaastattelu2017
@@ -359,13 +381,6 @@ D.D.
 @dHaastattelu2018
 E.E. 
 @eHaastattelu2018
-
-
-*5786 - 245 - 79 -114 = 5348 sanaa kasassa, noin 16,2 sivua*
-*<19-06-2018  22:12>*
-*ollaan muistiinpanoissa kohdassa 5889 per 9260 sanaa, noin 63 %*
-*kirjoitukseen meni tänään vähän alle 4 tomaattia (koska elämä), tuloksena 657 sanaa*
-*editointiin meni aamupäivällä 4 tomaattia*
 
 ## Tavoitetila ja tulevaisuus
 ## Muut

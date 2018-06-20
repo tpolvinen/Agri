@@ -514,7 +514,7 @@ Kiristyshaittaohjelmalla voi hyvinkin haitata maatilan toimintaa, samoin kuin Sa
 
 3.29 *elinkaarihaaste* Maatilolla käytössä olevan automatiikan haasteita on elinkaaren pituus/pitkäikäisyys ja luotettavuus.
 Havaitsimme tutkimuksessamme uhaksi ylläpidon puutteen tai komponenttien vanhenemisen niin, ettei varaosia enää ole saatavilla.
-Osassa ruokinta-automaatteja täytyy käyttää Windows 95:ttä, koska laite ei toimi millään muulla. Laitteissa voi olla emolevytason vaatimuksia riittävän hitaasta toiminnasta jotta ohjaustietokone voi palvella laitteen asiakasta. Tällöin eivät edes Windows 7:n yhteensopivuusominaisuudet riitä jos ja kun sovelluskehityksessä on oikaistu ja sivuutettu Microsoftin suunnitteluohjeet. Esimerkiksi käyttäjähallinta-asiat on voitu jättää pois sovelluksesta, jolloin sovellus ei ole yhteensopiva ja konkreettisesti ei toimi uudemman Windows-version kanssa.
+    ~~Osassa ruokinta-automaatteja täytyy käyttää Windows 95:ttä, koska laite ei toimi millään muulla. Laitteissa voi olla emolevytason vaatimuksia riittävän hitaasta toiminnasta jotta ohjaustietokone voi palvella laitteen asiakasta. Tällöin eivät edes Windows 7:n yhteensopivuusominaisuudet riitä jos ja kun sovelluskehityksessä on oikaistu ja sivuutettu Microsoftin suunnitteluohjeet. Esimerkiksi käyttäjähallinta-asiat on voitu jättää pois sovelluksesta, jolloin sovellus ei ole yhteensopiva ja konkreettisesti ei toimi uudemman Windows-version kanssa.~~
 
 H3.30 *elinkaarihaaste* 10 vuoden yleinen tuotevastuu on aika lyhyt ja käytössä oleva tuote on voinut jäädä ylläpidon ulkopuolelle.
 Pitäisi herätä siihen, että 10 vuotta on tuotteen elinkaaressa lyhyt aika. Lainsäädännössäkin pitäisi velvoittaa valmistaja takaamaan varaosahuolto ja ylläpito.
