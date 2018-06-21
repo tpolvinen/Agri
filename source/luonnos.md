@@ -360,16 +360,42 @@ Tietoturva ja laitteistojärjestelmien kyberturvallisuus tulee olemaan maatiloil
 
 ### Elinkaarihaasteet
 
-C.C.n mukaan maatilolla käytössä olevan automatiikan haasteita ovat elinkaaren pituus ja *toiminnan jatkuvuuden* luotettavuus. Viime aikaisessa tutkimuksessa oli havaittu maatiloilla käytössä olevien laitteiden *toimintavarmuuden* uhaksi ylläpidon puutteen tai komponenttien vanhenemisen niin, ettei varaosia enää ole saatavilla. Käytännössä *valmistajan* 10 vuoden yleinen tuotevastuu on aika lyhyt verrattuna laitteiden elinkaareen, jolloin käytössä oleva tuote voi jäädä ylläpidon ulkopuolelle. Ohjelmistohuollossa kohdataan kysymys tekijänoikeuksista: mitä tapahtuu kun valmistaja lopettaa ohjelmiston tuotannon tai menee konkurssiin? Oikeudet ohjelmistoihin jäävät konkurssissa usein jollekin taholle kuten konkurssipesälle, jolla ei ole intressiä kehittää ja ylläpitää ohjelmistoja. Tällöin on epävarmaa mitä itse tuotteelle tapahtuu. Verrattuna mekaanisiin laitteisiin kuten akseleihin joita ollaan voitu ryhtyä tuottamaan omalla sorvilla jos valmistaja ei enää tuota osia, ohjelmistojen tapauksessa ei ole selkeää kuka voisi aikaisempiin versioihin perustuen jatkokehittää niistä uusia versioita. (@cHaastattelu2017)
-
-Tuotteen ja ohjelmiston elinkaaren kysymys tulee esille kun tarkastellaan syitä miksi prototyypeistä ja erilaisista kokeiluista on vaikeaa jatkokehittää valmiita tuotteita: yleinen tuotevastuu on osittain syynä siihen, että ...
+C.C.n mukaan maatilolla käytössä olevan automatiikan haasteita ovat elinkaaren pituus ja *toiminnan jatkuvuuden* luotettavuus. Viime aikaisessa tutkimuksessa oli havaittu maatiloilla käytössä olevien laitteiden *toimintavarmuuden* uhaksi ylläpidon puutteen tai komponenttien vanhenemisen niin, ettei varaosia enää ole saatavilla. Käytännössä 10 vuoden yleinen tuotevastuu on aika lyhyt verrattuna laitteiden elinkaareen, jolloin käytössä oleva tuote voi jäädä ylläpidon ulkopuolelle. Ohjelmistohuollossa kohdataan kysymys tekijänoikeuksista: mitä tapahtuu kun valmistaja lopettaa ohjelmiston tuotannon tai menee konkurssiin? Oikeudet ohjelmistoihin jäävät konkurssissa usein jollekin taholle kuten konkurssipesälle, jolla ei ole intressiä kehittää ja ylläpitää ohjelmistoja. Tällöin on epävarmaa mitä itse tuotteelle tapahtuu. Verrattuna mekaanisiin laitteisiin kuten akseleihin joita ollaan voitu ryhtyä tuottamaan omalla sorvilla jos valmistaja ei enää tuota osia, ohjelmistojen tapauksessa ei ole selkeää kuka voisi aikaisempiin versioihin perustuen jatkokehittää niistä uusia versioita. (@cHaastattelu2017)
 
 *5786 + 219 - 245 - 79 -114 = 5567 sanaa kasassa, noin 16,8 sivua*
 *<20-06-2018  21:46>*
 *ollaan muistiinpanoissa kohdassa 6159 per 9260 sanaa, noin 67 %*
 *kirjoitukseen meni tänään 2 tomaattia (koska työ & elämä), tuloksena 245 sanaa*
 *editointiin meni aamupäivällä -- tomaattia*
-*Kurtz: Are my methods unsound?  Willard: I don't see any method at all, sir.*
+
+Prototyypeistä on vaikeaa edetä tuotteeksi asti osittain tuotevastuun takia ja tuotteen elinkaaren kysymys tulee taas esille. Ohjelmistotuotanto on uusi tuotannon ala ja toisin kuin mekaanisia tuotteita, ohjelmistotuotteita on helppoa muuttaa ja päivittää. Nykyään traktorista on tullut ohjelmistoalusta, jonka päällä tehdään asioita -- toisin kun aikaisemmin jolloin se oli vain rautaa ja sähköjohtoja. Ohjelmistoalan kypsymättömyys näkyy vaikeuksina tukea pitkän elinkaaren tuotteita. Lainsäädännöllisesti tulisi reilun pelin hengessä paitsi turvata tekijänoikeudet myös varmistaa, ettei tuotetta voisi käyttää ohjelmistopäivitysten pakkomyyntiin. Tällöin valmistajan lopettaessa ylläpidon voisi olla olemassa säädetty toimintatapa kolmannen osapuolen ylläpidon ja kehittämistyöhön ryhtymiseen. Tämä voisi toimia samoin kuin patentit on julkaistava voimassaolon päätyttyä, voisi ohjelmistoissa olla samankaltainen toimintamalli. Haastateltavalla ei ollut tiedossa, milloin voitaisiin nähdä ensimmäinen traktori jonka ohjelmisto perustuu avoimeen lähdekoodiin, mutta hänen mukaansa kuka tahansa voisi sellaista ruveta rakentamaan. (@cHaastattelu2017)
+
+Tuotteiden pitkien elinkaarien asettamat haasteet näkyvät D.D.n mukaan myös siinä, että IoT-laitteet eivät tyypillisesti itsessään ole minkään arvoisia ilman niihin kytkettyjä palveluita *ensimmäinen IoT-laite oli kokisautomaatti, joka kyllä toimi hyvin ilman palvelua... ;-)*. Palvelun ollessa laitteen valmistajan oma, voi tapahtua niin että laitteista voi tulla käyttökelvottomia valmistajan tehdessä konkurssin. Nykyisen IoT-laitteiden nopean yleistymisen kauden systemaattinen uhka on epävarmuus nyt hankittavan laitteen toiminnasta tulevaisuudessa. Jos  laitteen toimivuudesta ei ole varmuutta sen elinkaaren ajan niin sitä ei voi käyttää toimintakriittisen järjestelmän osana -- ei ainakaan niin, että järjestelmä ei enää toimi laitteen toiminnan lakatessa. (@dHaastattelu2018)
+
+*mihin tämä laitetaan?*
+    ... Maatalouden toimintaympäristössä on erityisiä haasteita laitteiden rakenteille, joiden tulisi kestää likaa ja kulutusta. Lato tai karjasuoja on paljon likaisempi paikka kuin asunto tai muut sisätilat yleensä. Lisäksi laitteiden tulee kestää lämpötilan ja kosteuden vaihteluita, rottia lehmiä. Rotat voivat pureskella laitteita ja johtoja, lehmä voi nuolaista laitetta.
+
+### integraatiohaaste
+
+A.A. kertoi, että peltoviljelyssä järjestelmäintegraation kanssa on jouduttu työskentelemään niin pitkään, että vasta nyt eri järjestelmät alkavat toimia yhdessä. Vasta tämän jälkeen voidaan jatkaa tuotekehitystä varsinaisen datan käsittelelmisen kanssa kun laitteiden tuottamaa dataa on saatavilla. (@aHaastattelu2017) 
+
+B.B.n mukaan suurin osa viljelijöistä on vielä aika kaukana esimerkiksi Yaran N-sensorilla tehtyjen karttojen ja muitten lohkotietojen yhdistämisestä. Lisäksi ratkaisut, jotka mahdollistaisivat maatalouden toimintaympäristössä suurten datamäärien analysoinnin ja muuttamisen ohjelmistokäskyksi vaativat vielä paljon työtä. (@bHaastattelu2017) Samoin E.E. kertoi, että hänen tietojensa mukaan markkinoilla ei vielä ole sellaista järjestelmää, joka keräisi ja yhdistäisi tietoa erilaisista datalähteistä kuten **drooneilta**, traktoreilta, työkoneilta jne. (@eHaastattelu2018).
+
+### alustahaaste
+
+Järjestelmien väliset rajapinnat, integraatiot ja datavirtojen standardointi ovat B.B.n mukaan vielä työn alla. Samoin liiketoiminnan ekosysteemin rakentuminen uusien standardien ympärille tulee vaatimaan vielä paljon työtä. Kokonaisuudessaan laajamittainen yhteen toimivien järjestelmien käyttöönotto on riippuvainen alustojen kehityksestä ja saatavuudesta. Jos alustoja järjestelmien yhteistoiminnalle kehitetään ja tuodaan saataville niin niitä tullaan varmasti ottamaan käyttöön. Esimerkiksi tiedon liikkuminen tuotantoketjussa *(ruokaketjussa, arvoketjussa?)* kuluttajalle asti voisi toteutua jos saataville tulisi siihen sopiva alustajärjestelmä. (@bHaastattelu2017)
+
+*6460 - 438 = 6022 sanaa kasassa, noin 18,2 sivua*
+*<21-06-2018  21:24>*
+*ollaan muistiinpanoissa kohdassa 6661 per 9260 sanaa, noin 72 %*
+*kirjoitukseen meni tänään 4 tomaattia (koska työ & väsy), tuloksena 427 sanaa*
+*editointiin meni aamupäivällä -- tomaattia*
+
+    maatilat jo tekevät järjestäytymätöntä yhteistyötä että siinä vaiheessa kun se yksi "johtoviljelijä" alkaa tehdä jotakin niin se aktivoi naapuriviljejijöitä. Samalla tavalla pystyisi tällaista yhteistyötä tekemään teknologisilla alustoilla.
+
+Alustaratkaisuiden kehittämisen haasteena on  mukaan miten palvelusta voisi kehittää sellainen, että se oikeasti kiinnostaisi viljelijöitä. Periaatteessa tälläinen ratkaisu olisi viljelijöitä kiinnostava, koska he tekevät jo paljon yhteistyötä, tietojen vaihtoa jne.
+
+
 
 A.A. 
 @aHaastattelu2017

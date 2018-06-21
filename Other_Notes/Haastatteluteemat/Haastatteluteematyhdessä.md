@@ -517,7 +517,7 @@ Havaitsimme tutkimuksessamme uhaksi ylläpidon puutteen tai komponenttien vanhen
     ~~Osassa ruokinta-automaatteja täytyy käyttää Windows 95:ttä, koska laite ei toimi millään muulla. Laitteissa voi olla emolevytason vaatimuksia riittävän hitaasta toiminnasta jotta ohjaustietokone voi palvella laitteen asiakasta. Tällöin eivät edes Windows 7:n yhteensopivuusominaisuudet riitä jos ja kun sovelluskehityksessä on oikaistu ja sivuutettu Microsoftin suunnitteluohjeet. Esimerkiksi käyttäjähallinta-asiat on voitu jättää pois sovelluksesta, jolloin sovellus ei ole yhteensopiva ja konkreettisesti ei toimi uudemman Windows-version kanssa.~~
 
 H3.30 *elinkaarihaaste* 10 vuoden yleinen tuotevastuu on aika lyhyt ja käytössä oleva tuote on voinut jäädä ylläpidon ulkopuolelle.
-Pitäisi herätä siihen, että 10 vuotta on tuotteen elinkaaressa lyhyt aika. Lainsäädännössäkin pitäisi velvoittaa valmistaja takaamaan varaosahuolto ja ylläpito.
+    ~~Pitäisi herätä siihen, että 10 vuotta on tuotteen elinkaaressa lyhyt aika. Lainsäädännössäkin pitäisi velvoittaa valmistaja takaamaan varaosahuolto ja ylläpito.~~
 Ohjelmistohuollossa tullaan myös tekijänoikeuskysymykseen. Mitä tapahtuu kun valmistaja lopettaa tai menee konkurssiin? Oikeudet ohjelmistoihin jäävät usein jollekin taholle kuten konkurssipesälle, jolla ei ole intressiä kehittää ohjelmistoja -niin mitä tehdään silloin itse tuotteelle? Jos tuote on ollut mekaaninen laite kuten akseli, niin niitä on voinut ruveta pyörittämään sorvissa mutta ohjelmistojen kanssa ei ole selkeää kuka voi aikaisempiin versioihin perustuen jatkokehittää siitä uusia versioita.
 
 H3.32 *elinkaarihaaste* Prototyypeistä on vaikeaa edetä tuotteeksi asti osittain tuotevastuun takia. Tuotteen ja ohjelmiston elinkaaren kysymys tulee taas esille.
@@ -533,23 +533,25 @@ Samoin kuin patentit on julkaistava voimassaolon päätyttyä, voisi ohjelmistoi
 En osaa sanoa, milloin nähdään ensimmäinen traktori, jonka ohjelmisto perustuu avoimeen lähdekoodiin, mutta kuka tahansa voisi sellaista ruveta rakentamaan.
 
 4.24 *elinkaarihaaste* IoT-maailma on aika villi.
-IoT-laite ei tyypillisesti itsessään ole minkään arvoinen ilman siihen kytkettyä palvelua. Palvelun ollessa laitteen valmistajan oma niin laitteista voi tulla käyttökelvottomia valmistajan tehdessä konkurssin. Esimerkiksi Juiceron mehupuristimilla ei voinut enää tehdä mitään yrityksen tehtyä konkurssin ja lopetettua puristimiin sopivia hedelmäpusseja toimittaneen palvelun. Toinen mahdollinen esimerkki on kodinhallintajärjestelmä, jonka palvelun kautta voi käynnistää vaikka saunan lämmityksen tai sytyttää valot. Kun se palvelu, jolla näitä toimintoja hallitaan, ajetaan alas niin voiko sen jälkeen ylipäätään kodissa sytyttää valoja?
+IoT-laite ei tyypillisesti itsessään ole minkään arvoinen ilman siihen kytkettyä palvelua. Palvelun ollessa laitteen valmistajan oma niin laitteista voi tulla käyttökelvottomia valmistajan tehdessä konkurssin. 
+    ~~Esimerkiksi Juiceron mehupuristimilla ei voinut enää tehdä mitään yrityksen tehtyä konkurssin ja lopetettua puristimiin sopivia hedelmäpusseja toimittaneen palvelun. Toinen mahdollinen esimerkki on kodinhallintajärjestelmä, jonka palvelun kautta voi käynnistää vaikka saunan lämmityksen tai sytyttää valot. Kun se palvelu, jolla näitä toimintoja hallitaan, ajetaan alas niin voiko sen jälkeen ylipäätään kodissa sytyttää valoja?~~
 
 H4.25 *elinkaarihaaste* Ei ole varmuutta nyt hankittavan laitteen toiminnasta tulevaisuudessa, mikä on IoT-pöhinän systemaattinen uhka.
-Jos ei ole varmuutta laitteen toimivuudesta sen elinkaaren ajan sitä ei voi käyttää toimintakriittisen järjestelmän osana, ei ainakaan niin, että järjestelmä ei enää toimi laitteen toiminnan lakatessa.
-Maatalouden toimintaympäristössä on erityisiä haasteita laitteiden rakenteille, joiden tulisi kestää likaa ja kulutusta. Lato tai karjasuoja on paljon likaisempi paikka kuin asunto tai muut sisätilat yleensä. Lisäksi laitteiden tulee kestää lämpötilan ja kosteuden vaihteluita, rottia lehmiä. Rotat voivat pureskella laitteita ja johtoja, lehmä voi nuolaista laitetta.
+Jos ei ole varmuutta laitteen toimivuudesta sen elinkaaren ajan sitä ei voi käyttää toimintakriittisen järjestelmän osana, ei ainakaan niin, että järjestelmä ei enää toimi laitteen toiminnan lakatessa. ...
 
-1.25 ... peltoviljelyssä järjestelmäintegraation kanssa on jouduttu työskentelemään niin pitkään, että vasta nyt eri järjestelmät alkavat toimia yhdessä. Tämän jälkeen voidaan jatkaa tuotekehitystä varsinaisen datan käsittelelmisen kanssa kun ... dataa on saatavilla.
+H4.25 ... Maatalouden toimintaympäristössä on erityisiä haasteita laitteiden rakenteille, joiden tulisi kestää likaa ja kulutusta. Lato tai karjasuoja on paljon likaisempi paikka kuin asunto tai muut sisätilat yleensä. Lisäksi laitteiden tulee kestää lämpötilan ja kosteuden vaihteluita, rottia lehmiä. Rotat voivat pureskella laitteita ja johtoja, lehmä voi nuolaista laitetta.
 
-2.14 *integraatiohaaste* Suurin osa viljelijöistä on vielä aika kaukana esimerkiksi Yaran N-sensorilla tehtyjen karttojen ja muitten (pelto)lohkotietojen yhdistämisestä. Sensoritekniikkaa käytetään N-sensorissa lähtökohtaisesti lannoitustyökoneen suoraan ohjaamiseen.
+1.25 *integraatiohaaste* ... peltoviljelyssä järjestelmäintegraation kanssa on jouduttu työskentelemään niin pitkään, että vasta nyt eri järjestelmät alkavat toimia yhdessä. Tämän jälkeen voidaan jatkaa tuotekehitystä varsinaisen datan käsittelelmisen kanssa kun ... dataa on saatavilla.
+
+2.14 *integraatiohaaste* Suurin osa viljelijöistä on vielä aika kaukana esimerkiksi Yaran N-sensorilla tehtyjen karttojen ja muitten (pelto)lohkotietojen yhdistämisestä. 
+    ~~Sensoritekniikkaa käytetään N-sensorissa lähtökohtaisesti lannoitustyökoneen suoraan ohjaamiseen.~~
 
 2.45 *integraatiohaaste* Suuren datamäärän analysointi ja muuttaminen ohjelmistokäskyksi jollain tavoin vaatii vielä paljon työtä.
 
 5.18 *integraatiohaaste*
 Tietääkseni sellaista järjestelmää, joka keräisi tietoa erilaisista datalähteistä kuten kuvantamistietoa drooneilta, traktoreilta, työkoneilta jne. ja yhdistäisi niitä, ei ole olemassa.
 
-4.10 *integraatiohaaste* ...Olen itse keskittynyt datasta tehdystä ortomosaiikista tehdyn peltokartan hyödyntämiseen.
-Tilanne monimutkaistuu otettaessa käyttöön tilan tarvitsemaa teknologista ekosysteemiä, johon kuuluvat mm. itse drooni, sen ohjelmisto(t) ja otetuista kuvista pellon kokonaiskartan koostava ohjelmisto tai palvelu.
+    ~~4.10 *integraatiohaaste* ...Olen itse keskittynyt datasta tehdystä ortomosaiikista tehdyn peltokartan hyödyntämiseen. Tilanne monimutkaistuu otettaessa käyttöön tilan tarvitsemaa teknologista ekosysteemiä, johon kuuluvat mm. itse drooni, sen ohjelmisto(t) ja otetuista kuvista pellon kokonaiskartan koostava ohjelmisto tai palvelu.~~
 
 2.8 *alustahaaste* Järjestelmien rajapinnat, integraatiot ja datavirtojen standardointi on vielä työn alla.
 
