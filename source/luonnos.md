@@ -137,6 +137,7 @@ Drooni, UAV, pienoiskopteri, neliroottoripienoiskopteri
 vendor lock, yhden valmistajan loukku
 tilanhallintajärjestelmä (FMS)
 viljelysuunnitteluohjelma
+ortomosaiikkikartta
 
 Epävarmat termit **lihavoitu**.
 Omat muistiinpanot sun muut *kursiivilla*.
@@ -391,7 +392,36 @@ D.D.n mukaan maatilat tekevät jo järjestäytymätöntä yhteistyötä, missä 
 *kirjoitukseen meni tänään 4 tomaattia (koska työ & väsy), tuloksena 427 sanaa*
 *editointiin meni aamupäivällä -- tomaattia*
 
+
 ### Käytettävyyshaasteet
+
+Käytännössä viljelijöiden tiedonvälityksen ja yhteistyön alustana toimivasta palvelusta tulisi tehdä mukavampi käyttää kuin Whatsapp. Se on tähän tarkoitukseen huono, mutta niin yleinen ja yleiskäyttöinen että se on käyttökelpoinen. Yhden asian sovelluksia kuten tautipaineen havainnointia ja siitä viestittämiseen tehtyjä sovelluksia tulisi niin monta, että yhden huonon sovelluksen käyttö on käytännöllisempää kuin useiden hyvien. D.D. mainitsi muutamia sovelluksia esimerkkinä: tautipainepalvelu, suunnittelupalvelu, viljanostopalvelu, viljanmyyntipalvelu, lannoitteidenostopalvelu, ruiskutuskemikaalienostopalvelu, ruiskutuskemikaaliensuunnittelupalvelu jne. Järjestelmäintegraation lisäksi sovellusten ja palveluiden kirjo on muodostunut huomattavaksi ongelmaksi. Samoin on muodostunut ongelmalliseksi miten nämä kaikki erilaiset toiminnallisuudet paketoitaisiin yhteen niin, että se olisi viljelijälle käytettävä. Tällä hetkellä tämän virkaa hoitaa maatalous- tai viljelyneuvoja, jolle voi soittaa. Se käyttöliittymä on edelleen hyvä ja älykäs monimuotoisiin asiantuntijajärjestelmiin ja monimuotoisiin tarpeisiin. Pitäisi siis kehittää palvelulle käyttöliittymä, joka toimisi yhtä hyvin kuin puhelinsoitto asiantuntijapalveluun. (@dHaastattelu2018)
+
+A.A. mainitsi uusien teknologioiden käytettävyydestä, että pienillä tiloilla ei ole ollut tähän asti mahdollisuuksia ottaa suuressa määrin käyttöön täsmäviljelyn ratkaisuita, koska ne ovat olleet heille liian vaikeakäyttöisiä ja liian suuria investointeja (@aHaastattelu2017). Myös B.B. toi käytettävyyden esille: hänen mukaansa teknologiakehittäjien haasteena on käytettävyys. Viljelijän tulee pystyä helposti käyttämään tuotetta tai järjestelmää oman osaamisensa avulla. Käyttöliittymien tulee olla yksinkertaisia ja yksiselitteisiä sekä tuotetun tiedon oikeaa, jotta sitä voidaan käyttää päätöksenteon ja suunnittelun tukena. (@bHaastattelu2017)
+
+**Drooneilla** tuotetun kuvantamisdatasta tuotetusta ortomosaiikkikartasta puhuttaessa D.D. kertoi, että hänen ymmärryksensä mukaan ortomosaiikin rakentaminen on itsessään ratkaistu ongelma. 
+Ortomosaiikin rakentamisessa käytettävät sovellukset toisaalta eivät ole vielä niin edistyneitä, että ne tekisivät sen automaattisesti tai melkein automaattisesti, eivätkä nämä sovellukset ole kaikille käyttäjille välttämättä kovin käytettäviä. Ortomosaiikkikarttaa koostettaessa varsinkin suurelta peltopinta-alalta kaikki kuvaukset eivät välttämättä ole keskenään vertailukelpoisia. Esimerkiksi 10 hehtaarin pinta-alan kuvaukseen menee **droonilla** aikaa niin paljon, että olosuhteet ovat voineet sen aikana muuttua aurinkoisesta puolipilviseen ja takaisin. Kun analyysiä tehdään kuvista vaikka jonkin tietyn vihreän sävystä niin valaistusolosuhteet ovat vaikuttaneet kuviin eivätkä kuvat enää ole suoraan vertailukelpoisia keskenään. Tällöin analyysin tekeminen vaikeutuu vähentäen sen perusteella tehtävien johtopäätösten luotettavuutta. Aikasarjoja kuvatessa samalta pellolta voidaan aika varmoja että valaisuolosuhteet eivät ole olleet aika varmastikaan samanlaiset eri kerroilla. D.D. arveli, että on luultavasti joitakin menetelmiä joilla tätä voidaan yrittää kompensoida, mutta hänen ymmärryksensä mukaan ne eivät vielä tällä hetkellä toimi parhaalla tavalla. (@dHaastattelu2018)
+
+### Asiantuntijuushaaste
+*Näissä kappaleissa on kunnon runsaasti toistoa, voisi kirjoittaa uusiksi...*
+*...ja miten ihmeessä tähän päätyi vain B.B.n vastauksia?*
+
+Uusien teknologioiden käyttö vaatii myös asiantuntijuutta. B.B.n mukaan tarjolla olevista monenlaisista teknologioista erityisesti niiden tuottaman tiedon merkityksen tulisi olla ratkaisun tarjoajan ja käyttäjän tiedossa. Samoin datasta tehtyjen johtopäätöksien ja niiden tekemisen metodien hallinta ja ymmärrys ovat hyvin tärkeitä, jotta saatua tietoa voitaisiin soveltaa. Kasvinviljelyssä on mahdollista kuvantaa erilaisia spektrejä ja saada tuloksena sinänsä oikeaa dataa, mutta datasta johtopäätöksien tekeminen ja niiden perusteella suositusten antaminen tuotantopanoksien käyttöön vaatii taustatyöksi koetoimintaa. Johtopäätöksien tekeminen vaatii taustatyötä, mikä on vaikka N-sensorin tapauksessa muun muassa typpi- ja vaihtelualgoritmien kehittäminen. Ne perustuvat koetoimintaan, johon perustuvat johtopäätökset ja suositukset ovat testattuja. (@bHaastattelu2017)
+
+Kasvintuotannossa tulee huomioida, että vaikka viljelijä tekisi kaiken samoin joka vuosi, maasta voi vapautua ohrakasvustolle tietystä kohtaa peltoa 100 kiloa typpeä yhtenä vuonna ja toisena vuonna 60-70 kiloa. Koska olosuhteet ja kasvukaudet vaihtelevat, tarvitaan osaamista, datan louhintaa ja algoritmien tuotekehitystä aikaisemman tiedon pohjalta. Koska lannoitussuositus vaikuttaa sekä sekä satotasoon että kannattavuuteen, tulee suosituksia tehdessä tietää mitä vaikka 40 kilon muutos tarkoittaa ja mihin kaikkeen se vaikuttaa. Toisaalta B.B.n mukaan noin puolet viljelijöistä ei laske viljatonnin tuotantokustannuksia, joten kustannusrakenteen tietoisuuteen tuomisessa on hänen mukaansa vielä paljon tehtävää työtä. (@bHaastattelu2017)
+
+Ihmisen asiantuntijuutta tarvitaan, koska käyttäjä on toiminnassa vahvasti mukana ja tulkitsee indeksien arvoja. Tässä tulkinnassa tarvitaan asiantuntijuutta jonka avulla tiedostetaan lukujen merkitykset ja tarkoitukset. Ilman sitä kokeisiin, tutkimukseen ja kokemukseen perustuvaa asiantuntijuutta voidaan mennä jopa huonompaan suuntaan. (@bHaastattelu2017)
+
+### Muita haasteita
+
+Vaikka pieni joukko viljelijöitä B.B.n mukaan ottaa uutta teknologiaa kuten täsmäviljelylaitteita käyttöön matalalla kynnyksellä, niin suurempi joukko on sellaisia jotka eivät ota. Joko he eivät näe sen etuja sellaisina, että hankinta ja käyttöönotto olisi juuri heidän tapauksessaan kannattavaa tai sitten he eivät ole täsmäviljelyteknologiasta tietoisia. Lisäksi uuden teknologian käyttöönottoa vaikeuttaa se, että suomessa ei aina pystytä implementoimaan uusinta teknologiaa aikaisemman teknologisen kehitysvaiheen ollessa vielä kesken tai puuttuessa kokonaan. Jos suomalaisessa maanviljelyssä ei saada otettua käyttöön uutta teknologiaa, niin on olemassa riski, että suomalaiset viljelijät jäävät jälkeen teknologiakehityksessä. (@bHaastattelu2017)
+
+A.A. kertoi aikaisemman teknologiakehityksen vaiheen puutteellisesta käyttöönotosta ja toivoi, että digitalisoinnin, pilvi- ja IoT-teknologioiden avulla saadaan ratkaisuista niin helppokäyttöisiä, että voidaan saavuttaa lisää hyötyjä kuten työn tehostuminen uuden liiketoiminnan myötä jotta täsmäviljelystä tulee kannnattavaa ja normaalia. Tämä kehitysvaihe on jo niin sanottua Smart Farming:ia, jota kutsutaan agriculture 4.0:ksi. A.A.n mukaan agriculture 3.0 jäi huonosti käytäntöön otetuksi välivaiheeksi jonka jatkeeksi on tarvittu nimenomaan tämä seuraava vaihe, missä älykkäiden järjestelmien avulla voidaan realisoida myös edellisen kehitysvaiheen edut. Viljelijät eivät lähde toteuttamaan täsmäviljelyä, koska sillä ei ole ollut juuri heille taloudellista perustetta. Osa viljelijöistä on hänen mukaansa edelläkävijöitä täsmäviljelyssä, mutta laajaan käyttöönottoon tarvitaan agriculture 4.0:n älykkäiden järjestelmien tuomat edut. (@aHaastattelu2017)
+
+C.C.n mukaan käytännössä täsmäviljelylaitteistolle voi olla vaikea saada lisäarvoa EU-tukijärjestelmän pitäessä tuotteiden hintoja alhaalla. Hänen mukaansa on vielä aivan rajalla, voiko viljelijä saada täsmäviljelylaitteiston investoinnin takaisin. *Hän kertoi myös, että on hyvin tärkeää uusien teknologioiden omaksunnalle tarvittavien laitteiden hintojen saaminen alas massatuotannon avulla.* Viljanviljelyssä täsmäviljelylaitteiston hinta ei voi olla kovin kallis viljan ollessa halpaa, vaikka paljon puhutaankin että täsmäviljelyllä saataisiin enemmän ja laadukkaampaa viljaa. (@cHaastattelu2017) B.B. kertoi myös, että esimerkiksi Yaran N-sensorin hankintahinta nähdään Suomessa vielä usein korkeana ainakin yksittäisenä investointina (@bHaastattelu2017). 
+
+*Tämä roikkuu nyt tässä irrallisena, mihinköhän tämän tunkisi luontevasti?*
+D.D. mainitsi kasvitehtaiden haasteista, että vaikka teknologiaratkaisut ovat jännittäviä, salaatilla ei voi ruokkia maailmaa.
 
 
 

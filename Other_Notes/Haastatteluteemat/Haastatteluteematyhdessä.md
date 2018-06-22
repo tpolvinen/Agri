@@ -516,7 +516,7 @@ Kiristyshaittaohjelmalla voi hyvinkin haitata maatilan toimintaa, samoin kuin Sa
 Havaitsimme tutkimuksessamme uhaksi ylläpidon puutteen tai komponenttien vanhenemisen niin, ettei varaosia enää ole saatavilla.
     ~~Osassa ruokinta-automaatteja täytyy käyttää Windows 95:ttä, koska laite ei toimi millään muulla. Laitteissa voi olla emolevytason vaatimuksia riittävän hitaasta toiminnasta jotta ohjaustietokone voi palvella laitteen asiakasta. Tällöin eivät edes Windows 7:n yhteensopivuusominaisuudet riitä jos ja kun sovelluskehityksessä on oikaistu ja sivuutettu Microsoftin suunnitteluohjeet. Esimerkiksi käyttäjähallinta-asiat on voitu jättää pois sovelluksesta, jolloin sovellus ei ole yhteensopiva ja konkreettisesti ei toimi uudemman Windows-version kanssa.~~
 
-H3.30 *elinkaarihaaste* 10 vuoden yleinen tuotevastuu on aika lyhyt ja käytössä oleva tuote on voinut jäädä ylläpidon ulkopuolelle.
+3.30 *elinkaarihaaste* 10 vuoden yleinen tuotevastuu on aika lyhyt ja käytössä oleva tuote on voinut jäädä ylläpidon ulkopuolelle.
     ~~Pitäisi herätä siihen, että 10 vuotta on tuotteen elinkaaressa lyhyt aika. Lainsäädännössäkin pitäisi velvoittaa valmistaja takaamaan varaosahuolto ja ylläpito.~~
 Ohjelmistohuollossa tullaan myös tekijänoikeuskysymykseen. Mitä tapahtuu kun valmistaja lopettaa tai menee konkurssiin? Oikeudet ohjelmistoihin jäävät usein jollekin taholle kuten konkurssipesälle, jolla ei ole intressiä kehittää ohjelmistoja -niin mitä tehdään silloin itse tuotteelle? Jos tuote on ollut mekaaninen laite kuten akseli, niin niitä on voinut ruveta pyörittämään sorvissa mutta ohjelmistojen kanssa ei ole selkeää kuka voi aikaisempiin versioihin perustuen jatkokehittää siitä uusia versioita.
 
@@ -577,20 +577,18 @@ Ortomosaiikin rakentamisessa käytettävät sovellukset toisaalta eivät ole vie
 Ortomosaiikkikarttaa koostettaessa varsinkin isolta peltopinta-alalta kaikki kuvaukset eivät välttämättä ole keskenään vertailukelpoisia. Esimerkiksi 10 hehtaarin pinta-alan kuvaukseen menee droonilla aikaa niin paljon, että olosuhteet ovat voineet sen aikana muuttua aurinkoisesta puolipilviseen ja takaisin. Kun analyysiä tehdään kuvista vaikka jonkin tietyn vihreän sävystä niin valaistusolosuhteet ovat vaikuttaneet kuviin eivätkä kuvat enää ole suoraan vertailukelpoisia keskenään. Tällöin analyysin tekeminen vaikeutuu vähentäen sen perusteella tehtävien johtopäätösten luotettavuutta.
 Aikasarjoja kuvatessa samalta pellolta voidaan aika varmoja että valaisuolosuhteet eivät ole olleet aika varmastikaan samanlaiset eri kerroilla.
 Luultavasti on joitakin menetelmiä joilla tätä voidaan yrittää kompensoida, mutta ymmärtääkseni ne eivät vielä tällä hetkellä toimi parhaalla tavalla.
-Referenssipisteitä voidaan asettaa pellolle, mutta ne ovat periaatteessa turhaa infrastruktuuria jos kuvien normalisointi pystyttäisiin ratkaisemaan jollakin tavalla.
+    ~~Referenssipisteitä voidaan asettaa pellolle, mutta ne ovat periaatteessa turhaa infrastruktuuria jos kuvien normalisointi pystyttäisiin ratkaisemaan jollakin tavalla.~~
 
 2.18 *asiantuntijuushaaste* ... Datasta tehdyt johtopäätökset ja niiden tekemisen metodit ovat tärkeämpi asia.
 Kasvinviljelyssä on mahdollista kuvantaa erilaisia spektrejä ja saada tuloksena oikeaa dataa, mutta johtopäätöksien tekeminen ja niiden perusteella suositusten antaminen tuotantopanoksien käyttöön vaatii taustalle koetoimintaa tueksi (sekä erilaisia kalibrointeja).
 
 2.19 *asiantuntijuushaaste* Johtopäätöksien tekeminen vaatii taustatyötä, mikä on vaikka N-sensorin tapauksessa muun muassa typpi- ja vaihtelualgoritmien kehittäminen. Ne perustuvat koetoimintaan, johon perustuvat johtopäätökset ja suositukset ovat testattuja.
 
-H2.28 Vaikka viljelijä tekisi kaiken samoin joka vuosi, maasta voi vapautua ohrakasvustolle tietystä kohtaa peltoa 100 kiloa typpeä yhtenä vuonna ja toisena vuonna 60-70 kiloa.
+2.28 *asiantuntijuushaaste* Vaikka viljelijä tekisi kaiken samoin joka vuosi, maasta voi vapautua ohrakasvustolle tietystä kohtaa peltoa 100 kiloa typpeä yhtenä vuonna ja toisena vuonna 60-70 kiloa.
 
-H2.29 Koska olosuhteet ja kasvukaudet vaihtelevat, tarvitaan osaamista, datan louhintaa ja algoritmien tuotekehitystä aikaisemman tiedon pohjalta.
+2.29 *asiantuntijuushaaste* Koska olosuhteet ja kasvukaudet vaihtelevat, tarvitaan osaamista, datan louhintaa ja algoritmien tuotekehitystä aikaisemman tiedon pohjalta.
 Koska lannoitussuositus vaikuttaa sekä sekä satotasoon että kannattavuuteen, tulee suosituksia tehdessä tietää mitä vaikka 40 kilon muutos tarkoittaa ja mihin kaikkeen se vaikuttaa.
 Toisaalta muistaakseni noin puolet viljelijöistä ei laske viljatonnin tuotantokustannuksia, joten kustannusrakenteen tietoisuuteen tuomisessa on vielä paljon tehtävää työtä.
-
-2.36 *ei-tuottoa-haaste* Yaran N-sensorin hankintahinta nähdään Suomessa vielä korkeana ainakin yksittäisenä investointina tai eränä.
 
 2.40 *asiantuntijuushaaste* Ihminen on toiminnassa vahvasti mukana ja tulkitsee indeksin arvoa. Tässä tulkinnassa tarvitaan asiantuntijuutta jonka avulla tiedostetaan lukujen merkitykset ja tarkoitukset. Ilman sitä kokeisiin, tutkimukseen ja kokemukseen perustuvaa asiantuntijuutta *koneellisesti tulkittuna* voidaan mennä jopa huonompaan suuntaan.
 
@@ -600,13 +598,16 @@ Joko he eivät näe sen etuja sellaisina, että hankinta ja käyttöönotto olis
 *jälkeenjäämisriski* Jos suomalaisessa maanviljelyssä ei saada otettua käyttöön uutta teknologiaa, niin on olemassa riski, että suomalaiset viljelijät jäävät jälkeen teknologiakehityksessä.
 
 2.16 ... suomessa ei aina pystytä implementoimaan uusinta teknologiaa aikaisemman teknologisen kehitysvaiheen ollessa vielä kesken tai puuttuessa kokonaan.
+
 1.34 *ei-tuottoa-haaste* ... Toivon, että digitalisoinnin, pilvi- ja IoT-teknologioiden avulla saadaan ratkaisuista niin helppokäyttöisiä, että voidaan saavuttaa lisää hyötyjä kuten työn tehostuminen uuden liiketoiminnan myötä jotta täsmäviljelystä tulee kannnattavaa ja normaalia. Tämä on Smart Farming:ia, kutsutaan agriculture 4.0:ksi. Agriculture 3.0 jäi huonosti käytäntöön otetuksi välivaiheeksi ja on tarvittu nimenomaan tämä seuraava vaihe, missä smart/äly jotta myös edellisen vaiheen edut voidaan saada käyttöön
+
+1.35 *ei-tuottoa-haaste* Viljelijät eivät lähde toteuttamaan täsmäviljelyä, koska sillä ei ole ollut juuri heille taloudellista perustetta.
+Osa viljelijöistä on edelläkävijöitä täsmäviljelyssä, mutta laajaan käyttöönottoon tarvitaan agriculture 4.0:n älykkäiden järjestelmien tuomat edut.
 
 3.43 *ei-tuottoa-haaste* ... Täsmäviljelylaitteistolle voi olla vaikea saada lisäarvoa EU-tukijärjestelmän pitäessä tuotteiden hintoja alhaalla. On aivan rajalla, voiko täsmäviljelylaitteiston investoinnin saada takaisin, maksamaan itsensä.
 Viljanviljelyssä täsmäviljelylaitteiston hinta ei voi olla kovin kallis viljan ollessa halpaa, vaikka paljon puhutaankin että täsmäviljelyllä saataisiin enemmän ja laadukkaampaa viljaa.
 
-1.35 *ei-tuottoa-haaste* Viljelijät eivät lähde toteuttamaan täsmäviljelyä, koska sillä ei ole ollut juuri heille taloudellista perustetta.
-Osa viljelijöistä on edelläkävijöitä täsmäviljelyssä, mutta laajaan käyttöönottoon tarvitaan agriculture 4.0:n älykkäiden järjestelmien tuomat edut.
+2.36 *ei-tuottoa-haaste* Yaran N-sensorin hankintahinta nähdään Suomessa vielä korkeana ainakin yksittäisenä investointina tai eränä.
 
 4.17 *ei-tuottoa-haaste* ... Teknologiaratkaisut ovat jännittäviä, mutta salaatilla ei voi ruokkia maailmaa.
 
