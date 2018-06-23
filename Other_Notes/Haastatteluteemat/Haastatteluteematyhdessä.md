@@ -622,8 +622,7 @@ Prosessista tulisi tietää mihinkin kohtaan peltoa laitetaan ja paljonko siitä
 Tarinalla voidaan saada lisäarvoa markkinoilla.
 Elintarvikeverkkoihin kytkeyessä tuote voi saada lisäarvoa.
 Sivuvirtojen paremmalla hallinnalla, johon liittyvät myös kierrätyslannoitteet ja muut kierrätysprosessit maataloudessa.
-Tuotteita voidaan käyttää myös energiatuotannossa, peltotuotteita tekstiiliteollisuudessa.
-Tuotteista voidaan saada myös eliksiirejä kemian tuotannossa.
+    ~~Tuotteita voidaan käyttää myös energiatuotannossa, peltotuotteita tekstiiliteollisuudessa. Tuotteista voidaan saada myös eliksiirejä kemian tuotannossa.~~
 Oman näkemykseni mukaan prosessien paremmalla hallinnalla tuotannossa tarvittavia panoksia osataan säätää paremmin ja tarkemmin. 
 Mahdollisesti myös ekologian ymmärrys paranee, kuten maaperän mikrobien roolin huomioon ottaminen kestävyydelle, satoisuudelle ja riskien minimoinnille. Hyväkuntoisesta pellosta tulee aina jotain säästä huolimatta.
 Tämä prosessien hallinta olisi myös varautumista lmastonmuutoksen myötä uhkaaviin tauti- ja hyönteisinvaasioihin. Silloin tilannehallinta olisi paljon parempi. Prosesseja osattaisiin hallita ja riskejä torjua, jolloin tuotanto olisi paljon kestävämpi. ...
@@ -632,9 +631,6 @@ Tämä prosessien hallinta olisi myös varautumista lmastonmuutoksen myötä uhk
 Käyttöön jäävät karsiutumisen jälkeen merkityksellisimmät ratkaisut kunhan ensin löydetään niille sopivat käyttökohteet. ...
 
 5.19 IoT on voimakkaasti tulossa toimintaan ja kaikki merkittävät laitevalmistajat ovat kehittämässä omia IoT-ratkaisuitaan.
-
-5.15 ... Asiakas- ja käyttäjälähtöisellä kehittämisellä voidaan päästä nyt nousevan ensimmäisen digitalisaation aallonharjan ylitse. 
-Tämän aallonharjan ylitse pääsyn vaatimien ponnistelujen jälkeen voidaan jatkaa kehittämistä saatujen kokemusten ja näkemysten viitoittamaan suuntaan.
 
 3.35 IoT toimii lähinnä välineenä taustalla maatalouden automatisoinnissa.
 Automaation lisäämiseksi tarvitaan ennen kaikkea sensoreita: tietokone ei voi tehdä päätöksiä ilman tietoa.
@@ -654,13 +650,13 @@ Itse odotan kerrosviljelyratkaisuita, joissa voisi viljellä peruselintarvikkeit
 Jos joku jossakin vaiheessa onnistuu tuottamaan viljaa tai perunoita kerrosviljelmässä  taloudellisesti kannattavalla tavalla niin se voi merkitä huomattavaa muutosta ruokatuotannon kehityksen suunnalle.
 Perunan tuotanto voisi onnistua hydroponisella viljelyllä, ainakin siemenperunan viljelyä tehdään jo niin.
 Kuluttajaperunan viljely taloudellisesti kannattavalla tavalla olisi huomattava edistysaskel, joka voisi olla käännekohta maatalouden historiassa.
-Erikoistuotteita voi kyllä tulla, olen itse pitkään odottanut suomalaisen mansikan kasvihuoneviljelyn alkami
+Erikoistuotteita voi kyllä tulla, olen itse pitkään odottanut suomalaisen mansikan kasvihuoneviljelyn alkamista ja olisiko ympärivuotisesti saataville mansikoille kysyntää.
 
 *peltotuotannossa ei ole voitu soveltaa suoraan tehdasautomaation ratkaisuja ->*
 
-3.43 ... Traktoreissa automaatiota on jo ja seuraavaksi se on leviämässä työkoneisiin, missä suuremmat koneet ja monipuolisimmat säädöt tullaan automatisoimaan traktorin yhteyteen. ...
+    ~~3.43 ... Traktoreissa automaatiota on jo ja seuraavaksi se on leviämässä työkoneisiin, missä suuremmat koneet ja monipuolisimmat säädöt tullaan automatisoimaan traktorin yhteyteen. ...~~
 
-3.38 Maatalouden laitteissa on komponentit tehty ainoastaan tiettyjä laitteita varten, esimerkiksi ruokintarobotin piirilevyn varaosahinta on 4000 €, mikä on sen sisältämään toiminnallisuuteen verrattuna hirvittävän paljon rahaa. Yleisessä käytössä olevista teollisuuskomponenteista, vaikka paperikoineissa käytetyistä, rakentamalla hinnaksi tulisi luultavasti alle 1000 €.
+    ~~3.38 Maatalouden laitteissa on komponentit tehty ainoastaan tiettyjä laitteita varten, esimerkiksi ruokintarobotin piirilevyn varaosahinta on 4000 €, mikä on sen sisältämään toiminnallisuuteen verrattuna hirvittävän paljon rahaa. Yleisessä käytössä olevista teollisuuskomponenteista, vaikka paperikoineissa käytetyistä, rakentamalla hinnaksi tulisi luultavasti alle 1000 €.~~
 
 1.41 Varmaankin ollaan menossa siihen, että tilojen määrän vähentyessä yksi tila hoitaa yhä suuremmalla alueella olevia peltoja automaation avulla. Sinne voisi tulla varastoja ja pientä prosessointia peltokeskittymän lähelle.
 Valvonnan telemetriapalveluille voi tulla vielä suuri kysyntä.
@@ -675,14 +671,15 @@ Samoin käytetyn teknologian saavutetut hyötysuhteet voivat vaihdella huomattav
 Pienemmille tilallisille ja harrastemaanviljelijöille tällaisesta järjestelmästä ei ole niin suurta hyötyä, että järjestelmä olisi tarpeellinen ja käyttöönotto kannattaisi. 
 Maanviljelijöitä on hyvin erilaisia, eikä kannata yleistää heitä yhtenäiseksi joukoksi.
 
+5.7 *tulevaisuudenkuva/visio, aikavälillä mikä*
+Yksittäiset asiakkaat saattavat ottaa agrirouter:in käyttöön jo tänä vuonna (2018).
+Kaupallistumisen aste ja omaksumisen/käyttöönoton nopeus tulee luultavasti olemaan hyvin nopea, mutta kaikki toimijat tuskin koskaan tulevat ottamaan agrirouteria *tai vastaavaa järjestelmää* käyttöön.
+
 2.42 Jos tahtoa toteuttaa viljelijöiden ja muiden datasettien vertailualusta löytyy, sitä tullaan jollain aikavälillä rakentamaan pala kerrallaan aloittaen luultavasti rajapintojen ja tietojen siirtämisen ratkaisuista.
 
 H2.43 Todennäköisesti viiden vuoden kuluttua tällaiset järjestelmien väliset ja dataa kokoavat järjestelmät ovat jo yleisessä käytössä.
 
 2.11 Tavoitetila on kuitenkin ihmisen toteuttamien työvaiheiden vähentäminen tietojenkäsittelyssä, mutta en osaa sanoa millä aikavälillä täysin automatisoitu järjestelmä tulee yleiseen käyttöön. Sellaisen toteutus on ilmeisesti lähellä.
-
-
-sta ja olisiko ympärivuotisesti saataville mansikoille kysyntää.
 
 2.31 Jos ajatellaan millainen maatalouden yleiskuva voisi olla, niin viljelijä voisi saada käyttöliittymäänsä kehotuksia toimista ja niiden perustelut. Esimerkiksi sensorien antaman tiedon analyysin perusteella tarvitaan lisälannoitusta tiettynä ajankohtana.
 Lisäksi järjestelmä voisi myös kommunikoida muiden järjestelmien kuten tilanhallinnan FMS, viljelysuositusjärjestelmän ja muiden erilaisten ohjelmistojen kanssa.
@@ -691,9 +688,7 @@ Kauemmaksi tulevaisuuteen voisi visioida itsenäisesti pelloilla toimivia trakto
 
 5.3 Ollaan vääjäämättä menossa siihen, että FMS tulee antamaan suosituksia helpottamaan viljelijän *toimintaa ja* päätöksentekoa. Järjestelmät voivat laskea *johtopäätöksiä* monen muuttuvan tekijän perusteella ja datan perusteella ymmärtää miten viljelijän työtä voidaan helpottaa sekä millaisilla toimilla saadaan paras tulos juuri kyseisessä toimintaympäristössä.
 FMS, laitteista kerätty data ja muu tieto tulevat varmasti yhdistymään ja niitä tullaan käyttämään yhdessä. ...
-5.7 *tulevaisuudenkuva/visio, aikavälillä mikä*
-Yksittäiset asiakkaat saattavat ottaa agrirouter:in käyttöön jo tänä vuonna (2018).
-Kaupallistumisen aste ja omaksumisen/käyttöönoton nopeus tulee luultavasti olemaan hyvin nopea, mutta kaikki toimijat tuskin koskaan tulevat ottamaan agrirouteria *tai vastaavaa järjestelmää* käyttöön.
+
 
 4.20 *maaseudun tulevaisuus, 20-30 vuotta*
 Järjestelmäintegraation, datan käsittelyn ja alustojen yhteisten ekosysteemien onnistunut toteutuminen tulisi muuttamaan maataloustyön luonnetta suorittavasta työstä suunnitteluun, ylläpitoon ja automatiikan ylläpitotyöhön.
@@ -720,6 +715,9 @@ Digitaalisuus on tullut jäädäkseen ja sen vaikuttaa *kaikkeen toimintaan maat
 
 ## Muut
 ### H3
+
+*mihin tämä laitetaan?*
+    ... Maatalouden toimintaympäristössä on erityisiä haasteita laitteiden rakenteille, joiden tulisi kestää likaa ja kulutusta. Lato tai karjasuoja on paljon likaisempi paikka kuin asunto tai muut sisätilat yleensä. Laitteiden tulee kestää lämpötilan ja kosteuden vaihteluiden lisäksi muun muassa rottien ja lehmien "käsittelyä": rotat voivat pureskella laitteita ja johtoja, lehmä taas voi uteliaisuuttaan nuolaista laitetta.
 
 H3.10 ISOBUS-standardin haasteena on task:in *toimikäskyn?* muodostuminen reaaliaikaisesti ja vaikka teknisiä mahdollisuuksia tällaiseen toiminnallisuuteen on, niin ISOBUSia ei alun perin ole suunniteltu tällaiseen. Suunniteltu toimintamalli oli task-tiedoston kerralla siirtäminen, eikä jatkuvasti muuttuva ohjaus.
 
