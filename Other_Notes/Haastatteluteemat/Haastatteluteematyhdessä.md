@@ -604,8 +604,11 @@ Joko he eivät näe sen etuja sellaisina, että hankinta ja käyttöönotto olis
 1.35 *ei-tuottoa-haaste* Viljelijät eivät lähde toteuttamaan täsmäviljelyä, koska sillä ei ole ollut juuri heille taloudellista perustetta.
 Osa viljelijöistä on edelläkävijöitä täsmäviljelyssä, mutta laajaan käyttöönottoon tarvitaan agriculture 4.0:n älykkäiden järjestelmien tuomat edut.
 
-3.43 *ei-tuottoa-haaste* ... Täsmäviljelylaitteistolle voi olla vaikea saada lisäarvoa EU-tukijärjestelmän pitäessä tuotteiden hintoja alhaalla. On aivan rajalla, voiko täsmäviljelylaitteiston investoinnin saada takaisin, maksamaan itsensä.
-Viljanviljelyssä täsmäviljelylaitteiston hinta ei voi olla kovin kallis viljan ollessa halpaa, vaikka paljon puhutaankin että täsmäviljelyllä saataisiin enemmän ja laadukkaampaa viljaa.
+3.43 *ei-tuottoa-haaste* ... Täsmäviljelylaitteistolle voi olla vaikea saada lisäarvoa EU-tukijärjestelmän pitäessä tuotteiden hintoja alhaalla. On aivan rajalla, voiko täsmäviljelylaitteiston investoinnin saada takaisin, maksamaan itsensä. ...
+
+H3.46 Hintojen on oikeastaan tultava alas, samalla kun yritysten on saatava tutkimus- ja kehityskulut katettua. Tuotantosarjojen pituus on tässä avainasemassa. ...
+
+3.43 ... Viljanviljelyssä täsmäviljelylaitteiston hinta ei voi olla kovin kallis viljan ollessa halpaa, vaikka paljon puhutaankin että täsmäviljelyllä saataisiin enemmän ja laadukkaampaa viljaa.
 
 2.36 *ei-tuottoa-haaste* Yaran N-sensorin hankintahinta nähdään Suomessa vielä korkeana ainakin yksittäisenä investointina tai eränä.
 
@@ -728,8 +731,9 @@ H3.44 Automaatiolaitteistojen hinnoissa on vielä aika paljon kehityskuluja ISOB
 H3.45 ISOBUS-standardin kehittämiseen on investoitu, eikä ole varmaa saavatko yritykset niitä rahoja takaisin. Massatuotannon avulla ISOBUS-laitteistojen hintojen pitäisi tulla alas, samaan tapaan kuin autoteollisuudessa ECU-laitteet.
 Nyt pitäisi maatalousyksiköidenkin hintojen tulla alas, tai ottaa maataloudessa käyttöön samoja yksiköitä kuin autoissakin.
 
-H3.46 Hintojen on oikeastaan tultava alas, samalla kun yritysten on saatava tutkimus- ja kehityskulut katettua. Tuotantosarjojen pituus on tässä avainasemassa.
-ISOBUS-kehityksessä tehdään yhteistyötä niin, että yksi taho valmistaa standardin mukaisia laitteita joille useat ohjelmistokehitystä tekevät toimijat tekevät sovelluksia.
+
+
+H3.46 ... ISOBUS-kehityksessä tehdään yhteistyötä niin, että yksi taho valmistaa standardin mukaisia laitteita joille useat ohjelmistokehitystä tekevät toimijat tekevät sovelluksia.
 
 H3.47 Konsortiotyöllä on mahdollista saada fyysisten laitteiden hintaa alas.
 
