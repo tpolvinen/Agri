@@ -1,89 +1,54 @@
-Sovellusalueet (Application areas) (5)
-Keskeiset teknologiaratkaisut (main technological solutions) (4)
-
+## Sovellusalueet (Application areas) (5)
 * Agriculture in general
 * Arable farming
 * Agri-food supply chain
 * Greenhouse horticulture
 * Open air horticulture (incl. orchards)
 
-* tarkkailu (monitoring) 
-* kontrollointi (control) 
-* logistiikka (logistics) 
+## Keskeiset teknologiaratkaisut (main technological solutions) (4)
+
+* tarkkailu (monitoring) - Tarkkailu (monitoring) 
+* kontrollointi (control) - 
+* logistiikka (logistics) - Logistiikka (logistics)
 * ennustus (prediction)
 
+## Mahdollistavat teknologiat (Enabling technologies) (3 layers)
 
-Mahdollistavat teknologiat (Enabling technologies) (3 layers)
-Infrastruktuurit ja teknologiat (infrastructures and technologies) (7)
-Viimeaikaisten julkaisujen teknologiaratkaisut (4)
- 
 * Device layer
 * Network layer
 * Application layer
 
-(i) sensing variables, 
-(ii) actuator devices, 
-(iii) power sources, 
-(iv) communication technologies, 
+## Infrastruktuurit ja teknologiat (infrastructures and technologies) (7)
+## Viimeaikaisten julkaisujen teknologiaratkaisut (4)
+
+(i) sensing variables,
+(ii) actuator devices,
+(iii) power sources, - Energianhallinta (energy management)
+(iv) communication technologies, - Tietoliikenne (communications)
 (v) edge computing technologies (Shi et al., 2016), 
 (vi) storage strategies, and 
-(vii) visualization strategies*
+(vii) visualization strategies
 
-Tietoliikenne (communications)
-Energianhallinta (energy management)
-Tarkkailu (monitoring)
-Logistiikka (logistics)
+## Avoimet haasteet (Challenges ahead) (8)
+## Rajoitukset ja avoimet haasteet (Limitations and open challenges) (12)
 
-Avoimet haasteet (Challenges ahead) (8)
-Rajoitukset ja avoimet haasteet (Limitations and open challenges) (12)
-
-yhteentoimivuuden varmistaminen
+yhteentoimivuuden varmistaminen - IoT-ekosysteemin edistäminen (Contribute to the IoT the ecosystem)
 skaalaus aikaisten omaksujien ulkopuolelle
-edelleen kehitys laajan käytettävyyden saavuttamiseksi
+edelleen kehitys laajan käytettävyyden saavuttamiseksi - Käyttäjälähtöinen suunnittelu (User-centered design)
 IoT-laitteiden kehittäminen vaativiin olosuhteisiin ja luonnon objekteille
 langattoman kehittäminen kaukaisille alueille
 Energiatehokkaiden IoT-teknologioiden kehittäminen
 Analytiikan kehittäminen yhdistämään esineiden data kolmannen osapuolen datan kanssa
-Luotettavan tietoturvan, yksityisyydensuojan ja datan omistajuuden ratkaisujen saatavuus
-
+Luotettavan tietoturvan, yksityisyydensuojan ja datan omistajuuden ratkaisujen saatavuus - Tieto- ja kyberturvallisuus (Security)
 Vahva standardisaatio (Stronger standardization)
 Parempi virranhallinta (Better power management)
-Tieto- ja kyberturvallisuus (Security)
 Modulaarisen laitteistojen ja ohjelmistojen kehittäminen (Design using modular hardware and software)
 Yksikköhintojen alentaminen (Improve unit cost)
 Pyritään yhteensopivuuteen vanhan, olemassaolevan infrastruktuurin kanssa (Aim for a good compatibility with legacy infrastructure)
 Huomioidaan skaalautuvuus jo alkuvaiheessa (Consider scalability early on)
 Ohjelmistokehityksen parhaiden käytänteiden käyttönotto (Adopt good practices of software engineering)
 Kentälle/käyttöön asennettavien laitteiden lujatekoisuuden parantaminen (Improve robustness for field deployments)
-Käyttäjälähtöinen suunnittelu (User-centered design)
-IoT-ekosysteemin edistäminen (Contribute to the IoT the ecosystem)
 Kestävät käytänteet (Sustainable practices)
-
-### Verdouw: Internet of Things in agriculture
-
-Sovellusalueet (Application areas)
-    Generally, it can be concluded that the area of food supply chains is addressed most frequently, followed by arable farming
-        * Agriculture in general
-        * Arable farming
-        * Agri-food supply chain
-        * Greenhouse horticulture
-        * Open air horticulture (incl. orchards)
-
-Mahdollistavat teknologiat (Enabling technologies)
-    "An IoT architecture can be subdivided into a device layer, network layer, and application layer (based on **6, 141**."
-        * Device layer
-        * Network layer
-        * Application layer
-
-Avoimet haasteet (Challenges ahead)
-    yhteentoimivuuden varmistaminen
-    skaalaus aikaisten omaksujien ulkopuolelle
-    edelleen kehitys laajan käytettävyyden saavuttamiseksi
-    IoT-laitteiden kehittäminen vaativiin olosuhteisiin ja luonnon objekteille
-    langattoman kehittäminen kaukaisille alueille
-    Energiatehokkaiden IoT-teknologioiden kehittäminen
-    Analytiikan kehittäminen yhdistämään esineiden data kolmannen osapuolen datan kanssa
-    Luotettavan tietoturvan, yksityisyydensuojan ja datan omistajuuden ratkaisujen saatavuus
 
 
 ### Talavera: Review of IoT applications in agro-industrial and environmental fields 
