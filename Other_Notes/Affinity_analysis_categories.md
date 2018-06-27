@@ -1,3 +1,11 @@
+Sovellusalueet (Application areas) (5)
+Keskeiset teknologiaratkaisut (main technological solutions) (4)
+Mahdollistavat teknologiat (Enabling technologies) (3 layers)
+Infrastruktuurit ja teknologiat (infrastructures and technologies) (7)
+Avoimet haasteet (Challenges ahead) (8)
+Viimeaikaisten julkaisujen teknologiaratkaisut (4)
+Rajoitukset ja avoimet haasteet (Limitations and open challenges) (12)
+
 ### Verdouw: Internet of Things in agriculture
 
 Sovellusalueet (Application areas)
@@ -67,4 +75,3 @@ IoT:n rajoitukset ja avoimet haasteet maataloudessa (Limitations and open challe
     Käyttäjälähtöinen suunnittelu (User-centered design)
     IoT-ekosysteemin edistäminen (Contribute to the IoT the ecosystem)
     Kestävät käytänteet (Sustainable practices)
-    
