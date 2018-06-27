@@ -928,6 +928,8 @@ IIoT osana IoT:ä
 	Teemojen keskinäinen järjestely
 	Järjestettyjen teemojen kirjoittaminen luonnokseen
 
+	Affiniteettianalyysi
+
 Mitkä haastattelujen tiedot ovat tärkeitä tutkimuskysymyksiin vastatessa? Mitkä tiedot voi jättää pois?
 
 (3. Luonnokseen edellisistä saadut tulokset)
@@ -1079,10 +1081,59 @@ Uusia <11-05-2018  16:27>
 ---------------------------------------------------------------------------------------------------
 
 
+# Affiniteettianalyysi
+
+Ilmeisesti haastattelutekstistä (litterointi, puhtaaksikirjoitettu muistiinpano vai luonnoksen teksti?) poimitaan aiheet sellaisinaan, merkitään mistä haastattelusta ne ovat ja kerätään omiin aiheiden ryhmiinsä.
+Näin:
+	Kukin teksti summeerataan kirjoittamalla se parafraasina typistetyksi lauseeksi.
+	Toisiinsa liittyvät summeeraukset (teksteineen) kootaan ryhmäksi eli teemaksi.
+	Teemalle annetaan nimi ryhmän havaitun teeman mukaan. Tämä on 1. tason teema.
+	Teemat kootaan edelleen ryhmiksi kattavampien teemojen mukaan. Nämä ovat 2. tason teemoja.
+	2. tason teemat nimetään samoin kuin 1. tason teemat.
+	Kootaan kaikki teemat yhden geneerisen teeman alle. Geneerinen teema on kaikkia teemoja havaitusti yhdistävä teema.
 
 
 
+Affinity Analysis of field data(Using Grounded Theory) [https://www.slideshare.net/mobile/ArushiSingh2/affinity-analysis-of-field-datausing-grounded-theory]
 
+Haettu Google Scholarilla (scholar.google.fi) <27-06-2018> affiniteettianalyysin malleja:
+	Hakulause:
+		"affinity analysis" interview research method
+		<27-06-2018  20:57>
+	Hakutuloksia: about 491 results
+	Löydetty:
+		Fitter with Twitter: Understanding Personal Health and Fitness Activity in Social Media.
+			[http://www.aaai.org/ocs/index.php/ICWSM/ICWSM13/paper/download/6099/6401]
+			Teodoro, R. and Naaman, M., 2013. Fitter with Twitter: Understanding Personal Health and Fitness Activity in Social Media. ICWSM, 2013, pp.611-620.
+
+		Digital neighborhood watch: investigating the sharing of camera data amongst neighbors
+			[https://ezproxy.haaga-helia.fi:2293/citation.cfm?id=2441853]
+			[http://ezproxy.haaga-helia.fi:2322/10.1145/2450000/2441853/p693-brush.pdf?ip=193.166.9.2&id=2441853&acc=ACTIVE%20SERVICE&key=74A0E95D84AAE420%2E6BEC918E6C8D1A46%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1530147286_481b5e31cd597e4dd52901e2d86919d1#URLTOKEN%23] 
+			löytyi kuvaus "Each interview lasted about two hours and was semi- structured as we discussed different relationships with neighbors, neighborhood groups, and law enforcement. We audio recorded and transcribed each interview. We then extracted over 700 items from interviews and field notes and analyzed the data using the affinity diagramming tech- nique [2] based on a grounded theory approach. The authors collaborated on an iterative bottom-up affinity analysis of the items to derive key themes and findings."
+
+		Breaking the disposable technology paradigm: opportunities for sustainable interaction design for mobile phones
+			[https://ezproxy.haaga-helia.fi:2293/citation.cfm?id=1357110]
+			[http://ezproxy.haaga-helia.fi:2322/10.1145/1360000/1357110/p323-huang.pdf?ip=193.166.9.2&id=1357110&acc=ACTIVE%20SERVICE&key=74A0E95D84AAE420%2E6BEC918E6C8D1A46%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1530149808_bf0e0ad44b9e954f3dfabf8585c685a2]
+			"STUDY DESIGN AND DATA COLLECTION
+			The data collection for this study consisted of two components: a 34-question web survey (n=79), and a series of in-depth, semi-structured phone interviews with participants selected based on survey responses (n=10).
+			Web survey
+			Participants were recruited using snowball sampling"
+			"Interviews
+			Based on the survey responses, we conducted a series of semi-structured interviews to probe for..."
+			"Interviews were conducted over the telephone and audio recorded; they lasted between 30 and 45 minutes each, beginning approximately 6 weeks after we deployed the web survey. Although we again grounded our inquiry in concrete practices by inquiring primarily about specific experiences, we encouraged participants to share opinions and reflections."
+			"We analyzed our survey data and interview data in stages as we received it, using a grounded theory affinity analysis [1, 6]. In the first phase, we transcribed over 700 items from the data in the form of direct quotes, and in the second phase created a bottom-up affinity diagram by identifying and clustering similar or related items (Fig. 1). Simultaneously one researcher took the items from the first phase analysis and used open-ended inductive coding to identify potential design opportunities and brainstorm design ideas. The design opportunities and ideas were subsequently filtered by comparing them to the high-level findings of the affinity analysis; we selected those most deeply tied to the findings. We chose this two-pronged approach so as not to limit creativity early on, but also to ensure the design opportunities and ideas were ultimately relevant and grounded.
+			RESULTS OVERVIEW
+			We received 79 survey responses from..."
+
+Haettu Google-haulla (google.fi) <27-06-2018  23:05> affiniteettianalyysin käytännön toteutusmalleja:
+	Hakulause:
+		affinity analysis how to
+	Löydetty:
+		To Affinity Analysis and Beyond
+		[https://blog.rjmetrics.com/2016/10/12/to-affinity-analysis-and-beyond/]
+	"Each rule also comes with two important statistics that allow us to determine their significance: support and confidence. 
+	Support of an item or item set is the % of transactions it appears in. For example, if we have 100 transactions total, and 10 contain waffle cones and ice cream, the support would be 10%.
+	Confidence of a rule is the % chance a new transaction which contains the left-hand side of a rule also contains the right-hand side. For example, if we have a confidence of 75% for our waffle cones and ice cream rule, there is a 75% chance that the next transaction which contains waffle cones will also contain ice cream."
 
 
 
