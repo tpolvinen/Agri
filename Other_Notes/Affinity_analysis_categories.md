@@ -1,10 +1,63 @@
 Sovellusalueet (Application areas) (5)
 Keskeiset teknologiaratkaisut (main technological solutions) (4)
+
+* Agriculture in general
+* Arable farming
+* Agri-food supply chain
+* Greenhouse horticulture
+* Open air horticulture (incl. orchards)
+
+* tarkkailu (monitoring) 
+* kontrollointi (control) 
+* logistiikka (logistics) 
+* ennustus (prediction)
+
+
 Mahdollistavat teknologiat (Enabling technologies) (3 layers)
 Infrastruktuurit ja teknologiat (infrastructures and technologies) (7)
-Avoimet haasteet (Challenges ahead) (8)
 Viimeaikaisten julkaisujen teknologiaratkaisut (4)
+ 
+* Device layer
+* Network layer
+* Application layer
+
+(i) sensing variables, 
+(ii) actuator devices, 
+(iii) power sources, 
+(iv) communication technologies, 
+(v) edge computing technologies (Shi et al., 2016), 
+(vi) storage strategies, and 
+(vii) visualization strategies*
+
+Tietoliikenne (communications)
+Energianhallinta (energy management)
+Tarkkailu (monitoring)
+Logistiikka (logistics)
+
+Avoimet haasteet (Challenges ahead) (8)
 Rajoitukset ja avoimet haasteet (Limitations and open challenges) (12)
+
+yhteentoimivuuden varmistaminen
+skaalaus aikaisten omaksujien ulkopuolelle
+edelleen kehitys laajan käytettävyyden saavuttamiseksi
+IoT-laitteiden kehittäminen vaativiin olosuhteisiin ja luonnon objekteille
+langattoman kehittäminen kaukaisille alueille
+Energiatehokkaiden IoT-teknologioiden kehittäminen
+Analytiikan kehittäminen yhdistämään esineiden data kolmannen osapuolen datan kanssa
+Luotettavan tietoturvan, yksityisyydensuojan ja datan omistajuuden ratkaisujen saatavuus
+
+Vahva standardisaatio (Stronger standardization)
+Parempi virranhallinta (Better power management)
+Tieto- ja kyberturvallisuus (Security)
+Modulaarisen laitteistojen ja ohjelmistojen kehittäminen (Design using modular hardware and software)
+Yksikköhintojen alentaminen (Improve unit cost)
+Pyritään yhteensopivuuteen vanhan, olemassaolevan infrastruktuurin kanssa (Aim for a good compatibility with legacy infrastructure)
+Huomioidaan skaalautuvuus jo alkuvaiheessa (Consider scalability early on)
+Ohjelmistokehityksen parhaiden käytänteiden käyttönotto (Adopt good practices of software engineering)
+Kentälle/käyttöön asennettavien laitteiden lujatekoisuuden parantaminen (Improve robustness for field deployments)
+Käyttäjälähtöinen suunnittelu (User-centered design)
+IoT-ekosysteemin edistäminen (Contribute to the IoT the ecosystem)
+Kestävät käytänteet (Sustainable practices)
 
 ### Verdouw: Internet of Things in agriculture
 
