@@ -932,6 +932,10 @@ Näin:
 	2. tason teemat nimetään samoin kuin 1. tason teemat.
 	Kootaan kaikki teemat yhden geneerisen teeman alle. Geneerinen teema on kaikkia teemoja havaitusti yhdistävä teema.
 
+Kokeillaan kuitenkin ensin kevyempää metodia:
+	Ei käytetä aikaisempia tietoja kategorioista, haastatteluteemoista tai kirjallisuuskatsauksista. Teemojen tulee nousta materiaalista omin voimin havaintojen perusteella.
+	Käydään läpi materiaali, josta kirjataan ylös teemat lyhyinä merkintöinä (alle 100 merkkiä = post-it-lappu). Samalla teeman alle kirjataan haastatelun kappale, missä se esiintyi.
+
 ## Metodihaku
 
 Affinity Analysis of field data(Using Grounded Theory) [https://www.slideshare.net/mobile/ArushiSingh2/affinity-analysis-of-field-datausing-grounded-theory]
@@ -945,12 +949,10 @@ Haettu Google Scholarilla (scholar.google.fi) <27-06-2018> affiniteettianalyysin
 		Fitter with Twitter: Understanding Personal Health and Fitness Activity in Social Media.
 			[http://www.aaai.org/ocs/index.php/ICWSM/ICWSM13/paper/download/6099/6401]
 			Teodoro, R. and Naaman, M., 2013. Fitter with Twitter: Understanding Personal Health and Fitness Activity in Social Media. ICWSM, 2013, pp.611-620.
-
 		Digital neighborhood watch: investigating the sharing of camera data amongst neighbors
 			[https://ezproxy.haaga-helia.fi:2293/citation.cfm?id=2441853]
 			[http://ezproxy.haaga-helia.fi:2322/10.1145/2450000/2441853/p693-brush.pdf?ip=193.166.9.2&id=2441853&acc=ACTIVE%20SERVICE&key=74A0E95D84AAE420%2E6BEC918E6C8D1A46%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1530147286_481b5e31cd597e4dd52901e2d86919d1#URLTOKEN%23] 
 			löytyi kuvaus "Each interview lasted about two hours and was semi- structured as we discussed different relationships with neighbors, neighborhood groups, and law enforcement. We audio recorded and transcribed each interview. We then extracted over 700 items from interviews and field notes and analyzed the data using the affinity diagramming tech- nique [2] based on a grounded theory approach. The authors collaborated on an iterative bottom-up affinity analysis of the items to derive key themes and findings."
-
 		Breaking the disposable technology paradigm: opportunities for sustainable interaction design for mobile phones
 			[https://ezproxy.haaga-helia.fi:2293/citation.cfm?id=1357110]
 			[http://ezproxy.haaga-helia.fi:2322/10.1145/1360000/1357110/p323-huang.pdf?ip=193.166.9.2&id=1357110&acc=ACTIVE%20SERVICE&key=74A0E95D84AAE420%2E6BEC918E6C8D1A46%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1530149808_bf0e0ad44b9e954f3dfabf8585c685a2]
@@ -976,7 +978,20 @@ Haettu Google-haulla (google.fi) <27-06-2018  23:05> affiniteettianalyysin käyt
 	Confidence of a rule is the % chance a new transaction which contains the left-hand side of a rule also contains the right-hand side. For example, if we have a confidence of 75% for our waffle cones and ice cream rule, there is a 75% chance that the next transaction which contains waffle cones will also contain ice cream."
 
 
+Haettu Google-haulla (google.fi) <28-06-2018  18:36> affiniteettianalyysin käytännön toteutusmalleja:
+	Hakulause:
+		affinity analysis interview how to -market
+			(koska markkinoinnin sisältämät hakutulokset olivat lähes kokonaan ostoskorianalyyseihin liittyviä hakutuloksia)
+		Löydetty:
+			Using Affinity Diagrams to Evaluate Interactive Prototypes
+			[https://mycourses.aalto.fi/pluginfile.php/615047/mod_folder/intro/A2_Lucero_affinity%20diagrams.pdf]
+			"Rather than grouping notes in predefined categories, affinity diagrams are built from the bottom up."
+			"Despite the seemingly structured way of analyzing the interaction observations, when going through the second part of the data (i.e., the semi-structured interview questions) we avoid as much as possible using the interview questions to structure the data. Instead, we let overarching topics naturally emerge from the data."
 
+			Build an affinity diagram
+			[https://openclassrooms.com/courses/4555276-conduct-design-and-user-research/4788956-build-an-affinity-diagram]
+			"The goal of affinity diagrams is NOT to go in with pre-existing ideas and assumptions. Your role is to consider the data with a critical eye and break it down and put it together in ways that make sense for your research goals."
+			"One way to approach affinity diagrams is by using a spreadsheet. It means that all the information will be in one place and is wherever you are. You can assign each person to a column, and include questions, quotes, and observations in the rows. "
 
 
 
