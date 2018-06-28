@@ -717,6 +717,12 @@ Digitaalisuus on tullut jäädäkseen ja sen vaikuttaa *kaikkeen toimintaan maat
 *"digitaalisuus on tullut jäädäkseen" -> AIoT tulee taustalle maatalouden automatisoinnin välineeksi*
 
 ## Muut
+
+### H1
+
+*oliko tämä jo mukana?*
+H1.15 Valmistajat voivat standardien mukaan toimiessaan rakentaa omia edistyneempiä tai erikoistuneempia ominaisuuksia, jotka toimivat heidän laitteissaan heidän määrittelemissä puitteissa, esimerkiksi tietyn merkin traktorin kanssa voidaan saman merkin työkoneesta saada käyttöön enemmän kuin jos työkonetta käytettäisiin toisen valmistajan traktorin kanssa. Käyttökohteita ja -tarpeita on niin suuri kirjo, että toiminnallisuuksia pitääkin räätälöidä ja näiden erikoistoimintojen sisällöllä voidaan erottua kilpailijoista. Kilpailussa ollaan siirtymässä yhä enemmän koneen fyysisistä ominaisuuksista palveluiden ominaisuuksiin
+
 ### H3
 
 *mihin tämä laitetaan?*

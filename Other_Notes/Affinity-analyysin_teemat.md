@@ -1,5 +1,5 @@
 
-# Affinity-analyysin teemat
+# Affiniteettianalyysin teemat
 
 ## Haastattelujen teemat luonnoksessa
 
