@@ -1,6 +1,7 @@
-Muistiinpanoja
+# Muistiinpanoja
 
----------------------------------------------------------------------------------------------------
+
+## Agritechnican palkitut innovaatiot
 
 Agritechnica -messujen palkitut keksinnöt, jotka liittyvät selkeästi opinnäytetyön aiheeseen
 
@@ -61,9 +62,10 @@ Agritechnica -messujen palkitut keksinnöt, jotka liittyvät selkeästi opinnäy
 
 	https://www.veristech.com/the-sensors/iscan
 
+## Muutamia lähteitä
 
+### Hakumetodit: Talavera: Review of IoT applications in agro-industrial and environmental fields:
 
-# Talavera: Review of IoT applications in agro-industrial and environmental fields:
 @talaveraReviewIoTApplications2017
 
 The next step was to define search terms and a consistent procedure to seek scientific and technical documentation in the digital libraries and search engines. To define the search terms, a set of keywords was selected from the research questions to create two groups of words which are shown in Table 2. Each group contained consolidated expressions with synonyms or terms with related meaning. Group 1 included words associated with the Internet of Things, while Group 2 contained a set of terms related to the agro-industry and environment. Logical operators supported by the advanced search of digital libraries were used to construct search strings, based on the two research questions, combining terms from Groups 1 and 2 of Table 2. The general structure of the search queries that were applied to the information sources is presented in Table 3.
@@ -197,9 +199,7 @@ work?
 research questions in an objective manner.
 
 
----------------------------------------------------------------------------------------------------
-
-A review on the practice of big data analysis in agriculture:
+### A review on the practice of big data analysis in agriculture:
 
 The bibliographic analysis in the domain under study involved three steps: (a) collection of related work, (b) filtering of relevant work, and (c) detailed review and analysis of state of the art related work. In the first step, a keyword-based search for conference papers and articles was performed from the scientific databases IEEE Xplore and ScienceDirect, as well as from the web scientific indexing services Web of Science (Thomson Reuters, 2017) and Google Scholar. As search keywords, we used the following query:
 
@@ -208,17 +208,16 @@ The bibliographic analysis in the domain under study involved three steps: (a) c
 In this way, we filtered out papers referring to big data but not applied to the agricultural domain. Existing surveys (Wolfert et al., 2017; Nandyala and Kim, 2016; Waga and Rabah, 2014; (Chi et al., 2016; Wu et al., 2016) were also examined for related work. From this effort, 1330 papers were initially identified. Restricting the search for papers in English only, with at least two citations, the initial number of papers was reduced to 232. Number of citations was recorded based on Google Scholar. An exception was made for papers published in 2016–2017, where zero citations were acceptable.
 In the second step, we checked these 232 papers whether they made actual use of big data analysis in some agricultural application. 
 
----------------------------------------------------------------------------------------------------
 
-Vineland PDF: An Automation Technology Strategy for the Canadian Horticulture Sector
-	Täällä on teknologiakehitykselle annettu kolme prioriteettikohdetta: automaatioteknologian kehitys + adoptointi (mukana päätöksentekojärjestelmät); teknologiavalidaatio ROI:n mittaus ja kommunikaatio; IT ja datan jako alustojen kehittäminen + jakamisen mahdollistaminen
-	...mitkä tuntuvat täsmäävän hyvin haastiksissa ja Päivillä esille tulleisiin asioihin.
-	Eritelty (kohta 2.3 ja Figure 3) esteet adoptiolle.
-	Verrataan strategiaa muihin lähteisiin.
+### Vineland PDF: An Automation Technology Strategy for the Canadian Horticulture Sector
+	
+Täällä on teknologiakehitykselle annettu kolme prioriteettikohdetta: automaatioteknologian kehitys + adoptointi (mukana päätöksentekojärjestelmät); teknologiavalidaatio ROI:n mittaus ja kommunikaatio; IT ja datan jako alustojen kehittäminen + jakamisen mahdollistaminen
+...mitkä tuntuvat täsmäävän hyvin haastiksissa ja Päivillä esille tulleisiin asioihin.
+Eritelty (kohta 2.3 ja Figure 3) esteet adoptiolle.
+Verrataan strategiaa muihin lähteisiin.
 
----------------------------------------------------------------------------------------------------
 
-Greenhouse Mngmt
+### Greenhouse Mngmt
 	Evernote: Greenhouse Mngmt
 	Zotero: Collection: AIoT Citation key: _state_????
 	Valittu koska: asiantuntijahaastattelu työn aiheen tärkeästä osasta (kasvihuonerobotiikka, koneoppiminen, big data)
@@ -234,8 +233,7 @@ Greenhouse Mngmt
 	Haastattelussa Dr. Gholami kertoo kehitettävän kasvatusjärjestelmän olevan tässä vaiheessa kohdistettu koristekasvien ja ruukkuvihannesten (eng. potted vegetables) viljelyyn. Hydroponinen viljely on rajattu kehitystyön ulkopuolelle sen vaatiessa Dr. Gholamin mukaan täysin eri järjestelmän kasvatusmetodeiden huomattavien eroavaisuuksien takia. Lisäksi kuivuuden takia viljelijä saattaa joutua vähentämään kastelua, jolloin veden käyttöä voidaan rajoittaa ensimmäiseksi koristekasvien kasvatuksessa.
 	Dr. Gholamin mukaan robotiikka ja automaatio ovat osa haastattelun aikaan meneillään olevaa [kasvintuotannon] vallankumousta, jonka vastustaminen aiheuttaisi kehityksestä jälkeen jäämisen. Hänen mukaansa teknologian vastustamiselle ei ole tarvetta vaan sen tarjoamia mahdollisuuksia tulee käyttää hyväksi.
 
-s
---------------------------------------------------------------------------------------------------
+
 
 <14-05-2018  22:08>
 Siirretty luonnos.md:stä:
@@ -555,11 +553,10 @@ Muistiinpanot:
         IoT auttaa viljelijöitä muuttamaan kohti datavetoista viljelyä, jota tukevat päätöksentekotyökalut ajankohtaisella ja tarkalla datalla.
         Tämän seurauksena/tuloksena maatilat voivat poiketa perinteisestä tuotanto-orientoituneesta, kustannushintavetoisesta (cost price driven), anonyymistä lähestymistavasta kohti arvoperustaista, informaatiorikasta lähestymistapaa jossa kysyntä ja tarjonta on jatkuvasti kohdennettu toisiinsa. Lopulta maatilat ja ruokatuotantoketjut voivat tulla itsemukautuviksi järjestelmiksi joissa älykkäät, itsenäiset objektit, mukaanlukien maataloustyökoneet, voivat toimia, päättää ja jopa oppia ilman paikan päällä tapahtuvaa tai etänä tehtävää ihmisen puuttumista.
 
---------------------------------------------------------------------------------------------------
 
-# Selaimesta avoimia ikkunoita <15-05-2018  10:55>
+## Selaimesta avoimia ikkunoita <15-05-2018  10:55>
 
-## IEEE haku (("Internet of Things") AND (agriculture OR "plant factory" OR "precision agriculture" OR "smart farming" OR "vertical farming" OR "plant factory" OR farm OR greenhouse))
+### IEEE haku (("Internet of Things") AND (agriculture OR "plant factory" OR "precision agriculture" OR "smart farming" OR "vertical farming" OR "plant factory" OR farm OR greenhouse))
 
 [https://ezproxy.haaga-helia.fi:2207/search/searchresult.jsp?queryText=((.QT.Internet%20of%20Things.QT.)%20AND%20(agriculture%20OR%20.QT.plant%20factory.QT.%20OR%20.QT.precision%20agriculture.QT.%20OR%20.QT.smart%20farming.QT.%20OR%20.QT.vertical%20farming.QT.%20OR%20.QT.plant%20factory.QT.%20OR%20farm%20OR%20greenhouse))&matchBoolean=true&pageNumber=5&searchField=Search_All]
 
@@ -730,163 +727,6 @@ Haastattelujen kysymysluonnoksista:
 	Tietoliikenneyhteyksien haasteet / tila
 	Mitä AIoT muuttaa
 		Onko mahdollisuus uusille liiketoimintamalleille/-käytännöille, joustavalle hinnoittelulle
-
-	Interview3
-		Standardisaation tilanne
-
-
-
-<03-06-2018  16:14>
-Kysymykset haastatteluista -> teemat otsikoiksi Haastattelujen tulokset -osioon:
-
-Interview5
-	Yleiskuva
-	Millaisella aikavälillä tavoitetilaan, aikajanan hahmotusta
-	Toiminnan ohjausjärjestelmä, onko sellaista, FMS-AI päätöksenteon apuna
-	Datan omistajuus, datan liikuteltavuus, rajapinnat, yleisjärjestelmä
-	Datan keskinäinen vertailu, tuotantodatan jako ja järjestelmät
-		Aikaväli toteutumiselle
-		Käyttöönoton laajuus per Suomi, pohjoismaat, EU
-	Täsmäviljelyn kannattavuus, työtiedostojen välittäminen urakoitsijalle ja työnseuranta
-	Laitevalmistajien välinen yhteistyö
-	Tuotantodatan välittäminen kuluttajalle, koko ruokaketjulle/arvoketjulle -toteutus, visioita
-	IoT-vaikeudet, haasteet, uhat, edut, swot
-	Kehityksen esteet
-	Vaikutukset ruokaturvaan, ilmastonmuutos, väkiluvun kasvu
-	Oma näkemys, mikä tärkeintä
-	Koneoppivien järjestelmien käyttö
-		Kasvihuoneessa vs pellolla
-	Useista datalähteistä kokoava järjestelmä
-
-Interview4
-	Yleiskuva
-		IoT-ratkaisujen yksittäisyys, alkeellisuus, epä-IoT-maisuus
-	Kehityksen tilanne
-	Datan siirto FMSiin, vain full-liner -kö
-	Laitevalmistajien välinen yhteistyö
-	IoT-ratkaisujen edut, kannattavuus
-	Datan omistajuus
-	Datan siirto, tietoliikenneongelmat
-	Droonikuvantamisen haasteet, käytettävyys, vertailukelpoisuus
-	Viljelijän oma datasetti vertailtavaksi, jakoon
-	Tuotantodatan välittäminen kuluttajalle
-		Laatusertifikaattien valvonta
-	Erillisten arvoerien tuottaminen
-	Näkyvimmät IoT-ratkaisut (sinulle)
-	Kasvihuone- ja kerrosviljelyratkaisut
-		Erikoiskasvit, erikoiskäyttötarkoitukset
-		Miten lisäarvoa kasvihuonetuotantoon IoTilla
-	Tulevaisuudenkuva, millä aikavälillä
-	Millaista tutkimusta tehdään
-	AIoT-uhkat, vaikeudet tietoturvan lisäksi
-	Tuleeko uusia toimintatapoja, liiketoimintamalleja
-	Urbaani viljely
-		Kannattavuus
-
-Interview3
-	Yleiskuva
-	Järjestelmäintegraatio
-		valmistajien omia vai standardeja
-	Onko kokonaisvaltaista FMS-ratkaisua
-	Datan saatavuus, liikuteltavuus
-	Droonikuvantaminen
-	Tietoliikenneyhteyksistä
-		radioverkko
-	Viljelijän oma datasetti vertailtavaksi, jakoon / tuotantodatan jakoon ja vertailuun ratkaisuja
-	Liiketoimintaa datan ja sen liikuttelemisen standardien päälle
-	Eniten esillä olevat IoT-ratkaisut
-	IoT-laitteen ominaisuudet/määritelmä
-	IoT-ratkaisuiden levinneisyys
-	IoT-ratkaisuiden vaikutukset
-	Tietoliikenneratkaisujen haasteita maaseudulla
-	Varaosa- ja ohjelmistohuollon haasteita
-	Paljon protoja, vähän tuotteita
-	Laitteen ominaisuuksista datan ominaisuuksiin
-	Visio tavoitetilasta, mihin IoT-ratkaisuilla pyritään
-	Teollisuus edellä maataloutta
-	Vaikutukset ruokaturvaan
-	Tuotantoketjun/arvoketjun/ruokaketjun mittarointia
-	Saadaanko ympäristöystävällisempää ja tehokkaampaa tuotantoa
-	IoT-ratkaisuiden käyttööntottoaste, kuinka edistynyt Suomi on
-	Kasvihuoneratkaisut verrattuna eläintuotantoon
-	Tulevaisuudenkuva
-	Yritysten kehitystyön maksu laitteiden hinnoissa
-	Laitevalmistajien välinen yhteistyö
-	Laitevalmistajien sitoutuneisuus/investoinnit
-
-Interview2
-	IoT-ratkaisuilla työmäärää vähäisemmäksi
-		ehdotuksia viljelytoimepiteiksi
-	Yleiskuva (per kasvintuotanto)
-	Järjestelmäintegraatio, rajapinnat, datan standardit vaiheessa
-		Yhten toimivien järjestelmien käyttöönoton aikajänne
-		Jos tietoliikenne saadaan, toimiiko
-	Datan omistajuus, millaiset kokemukset/tiedot
-		Onko vielä tapauksia datan liikuttelun tarpeesta käyttäjiltä
-		Entä muilta toimijoilta
-	IoT-ratkaisuiden käyttöönoton esteet, uhat, heikkoudet
-	Saadaanko pellolta kunnollista dataa
-	Mihin viljelijälle annettavat suositukset perustuvat, voiko valita eri tutkimuksiin perustuvia suosituksia
-	Riskit suositusten vääriymmärryksestä, toimiiko systeemi
-	Miksi osa viljelijöistä ei ota käyttöön vaikka olisi saatavilla selkeä etu
-		Voiko tehdä leap-frog -tapauksen, hypätä uusimpaan kehitysvaiheeseen
-		Käytetäänkö harkintaa millainen askel otetaan
-	Teknologian tason vaihtelut
-	Ei käyttöönottoa, vaikka selkeä sadonlisä, millainen saavutettava etu Suomessa
-		Sadonlisän saavutuksen mahdollisuus
-	Tilamäärän ja koon muutoksen tuoma muutos toiminnassa ja IoT-ratkaisujen käyttöönoton lisääntyminen
-	Millainen tavoitetila maatalouden digitalisaatiolla
-	Tuotantodatan välittäminen kuluttajalle
-	Millaisia datan keruun tai tuotannon metodeja on N-sensorin lisäksi
-	Onko teillä järjestelmää, joka kerää dataa erilaisista datalähteistä yhteen
-	Ruokaturvan parantaminen
-	Ilmastonmuutos ja väestönkasvu
-	Teknologiaomaksumisen matalan asteen ihmettelyä
-	Yleiskuva Suomessa vs pohjoismaat, EU, USA
-	Täsmäviljelyn kannattavuusasenne
-	Urakoitsijalle työtiedostot
-	Millainen kilpailutilanne on ylipäätään
-	Voivatko eri valmistajien laitteet toimia täydentäen toisiaan
-	Ihmisen osallistumisen tarve mittaustulosten analysointiin ja päätöksentekoon
-	Onko järjestelmiä datasettien jakoon ja vertailuun
-		Edetäänkö pienin askelin
-	Avointen standardien käyttöönoton tilanne, valmistajien asennemuutos
-	Tulevaisuudenkuva
-
-Interview1
-	Yleiskuva
-	Onko eläintuotantoa vastaavaa automaation tilannetta kasvintuotannossa
-	Oman datan saatavuus omaan käyttöön
-	Laitteistohankintojen investoinnin saatavuus takaisin, vuosissa
-	Kuinka laajassa käytössä ovat järjestelmät, joilla voidaan tuottaa urakoitsijalle työtiedostot ja voiko valita järjestelmän luottaen yhteensopivuuteen
-	Tuotantodatan välittäminen kuluttajalle
-		Onko datavirtoja käsitteleviä ja tietoa jakavia järjestelmiä olemassa, mikä on kehityksen tila
-	Laitevalmistajien yhteistyötä vai kilpailua
-	Siirtyminen laitteen ominaisuuksista datan ominaisuuksiin
-	Onko dataa yhteisöllisesti jakavia järjestelmiä
-	IoT-teknologioiden tarve
-	Olisiko yhteisöostamista, verkostoitumista hankinnoissa
-	Voisiko uudella teknologialla saatu erillisten arvoerien kautta saada tuotannolle lisäarvoa
-	Onko jo olemassa ilman ihmisen tekemiä päätöksiä toimivia automaattisia järjestelmiä
-	Olisiko tänne tulossa Farmobilea ja Farmer's Business Network:ia vastaavia palveluita
-	Onko viljan laadun seuranta IoT-teknologioilla ja sitä kautta saatu lisäarvo selkeä tapaus teknologian käyttöönoton puolesta
-	Voiko käyttöönotossa edetä pienin askelin standardeihin luottaen
-	Tietoturva
-	Mikä on tavoitetila
-	Voiko teknologioilla korvata katoavaa hiljaista tietoa ja taitoja
-	Viljelijöiden motiivit käyttöönottoon
-	kasvihuonetuotannon ja peltotuotannon erot, isot kasvitehtaat vs. pienviljelijöiden tilat
-	Ei salaatilla maailmaa ruokita
-	Perustuvatko telemetriaratkaisut matkapuhelinverkkoihin vai muihin tekniikoihin
-	Verkot eivät ilmeisesti kanna droonien kuvantamisdatan määriä
-	Tulevaisuuskuva, automatisoitu maaseutu
-	Suora yhteys viljelijöiden ja kuluttajien vällle
-	Tuotantodatan välittäminen kuluttajalle
-	Dataan perustuvan hinnoittelun mahdollistaminen IoT-teknologioilla
-		Voisiko tämä uudistaa ruokatuotantoa
-	Ruokaturvan parantaminen
-		väestönkasvu ja ilmastonmuutos, ympäristön muutokset
-
 
 --------------------------------------------------------------------------------------------------
 
@@ -1092,7 +932,7 @@ Näin:
 	2. tason teemat nimetään samoin kuin 1. tason teemat.
 	Kootaan kaikki teemat yhden geneerisen teeman alle. Geneerinen teema on kaikkia teemoja havaitusti yhdistävä teema.
 
-
+## Metodihaku
 
 Affinity Analysis of field data(Using Grounded Theory) [https://www.slideshare.net/mobile/ArushiSingh2/affinity-analysis-of-field-datausing-grounded-theory]
 
@@ -1134,7 +974,6 @@ Haettu Google-haulla (google.fi) <27-06-2018  23:05> affiniteettianalyysin käyt
 	"Each rule also comes with two important statistics that allow us to determine their significance: support and confidence. 
 	Support of an item or item set is the % of transactions it appears in. For example, if we have 100 transactions total, and 10 contain waffle cones and ice cream, the support would be 10%.
 	Confidence of a rule is the % chance a new transaction which contains the left-hand side of a rule also contains the right-hand side. For example, if we have a confidence of 75% for our waffle cones and ice cream rule, there is a 75% chance that the next transaction which contains waffle cones will also contain ice cream."
-
 
 
 

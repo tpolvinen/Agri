@@ -78,7 +78,7 @@ Koska kasvit ovat elävä organismi ja niitä pystytään mallintamaan vain raja
 Jos tiedetään miten eri tuotantopanokset vaikuttavat esimerkiksi satoon, voidaan arvioida laskennallisesti satopotentiaali ja satovaste. Näiden perusteella voidaan arvioida lisälannoituksen tarve tiettynä ajankohtana ja millainen satotappio voidaan kärsiä jos lisälannoitusta ei tehdä.
 
 H2.23 Sensoriteknologia antaa mahdollisuuksia ulosmitata lohkolta saatavan satovasteen potentiaali tasaisesti. Tämä on menossa eteenpäin viljelijöiden keskuudessa.
-Toisaalta jos ei ole omaksuttu aikaisempaa teknologiakehitystä eli jaettua lannoitusta *(onko tämä variable rate?)* niin ei todennäköisesti omaksuta sensoriteknologian mahdollistamaa jaetun lannoituksen hallintaakaan. *Termit on nyt vähän hämärässä, tarkistettava!* 
+Toisaalta jos ei ole omaksuttu aikaisempaa teknologiakehitystä eli jaettua lannoitusta niin ei todennäköisesti omaksuta sensoriteknologian mahdollistamaa jaetun lannoituksen hallintaakaan. *Termit on nyt vähän hämärässä, tarkistettava!* 
 
 H2.24 Viljelijät eivät oman näkemykseni mukaan todennäköisesti tee suuria teknologiaharppauksia tai hyppäyksiä kehitysvaiheiden yli.
 
