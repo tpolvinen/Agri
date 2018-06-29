@@ -110,6 +110,12 @@ Muiden katsausten, koosteiden ja vastaavien julkaisujen tuloksia, havaintoja ja 
 
 ## Haastattelujen tulokset
 
+### Affiniteettianalyysi
+
+*Olisi tyylikästä, jos kaikki IoT-ketjun osa-alueet tulisivat tasaisesti esille, mutta epätasaisuus saattaa viitata AIoT-sovellusten keskeneräiseen kypsyyteen, omaksumiseen, käytettävyyteen jne.*
+
+### Haastattelut
+
 Haastatteluissa käsiteltyjen keskeisten teemojen mukaan jaotellut haastattelutulokset.
 
 Haastateltavat
