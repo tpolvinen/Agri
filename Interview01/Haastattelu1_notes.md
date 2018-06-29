@@ -1,7 +1,8 @@
 Haastattelu 1 muistiinpanot
 
+*3205 sanaa, 49 kappaletta, keskiarvoisesti noin 65 sanaa per kappale.*
 
-H1.1 Maatalouden kenttä on hyvin hajanainen ja pirstaleinen. Teknologioita otetaan käyttöön yksittäin, tapaus tapaukselta, eikä viljelyprosessien digitalisointi toimi samalla tavoin kuin teollisuuden prosessien kanssa. On hyvin vaikeaa tehdä kattavia yksittäisiä ratkaisuja jonka voisi ostaa kerralla ja joka kattaisi koko viljelyprosessin.
+H1.1 Maatalouden kenttä on hyvin hajanainen ja pirstaleiKokonaisvaltainen maatilanhallintajärjestelmänen. Teknologioita otetaan käyttöön yksittäin, tapaus tapaukselta, eikä viljelyprosessien digitalisointi toimi samalla tavoin kuin teollisuuden prosessien kanssa. On hyvin vaikeaa tehdä kattavia yksittäisiä ratkaisuja jonka voisi ostaa kerralla ja joka kattaisi koko viljelyprosessin.
 
 H1.2 Maatilat ovat yksittäistapauksia: tuotantosuunniltaan, tilakooltaan, henkilöstöltään, historialtaan, teknologiatasoltaan, teknologiaorientoitumiseltaan hyvin erilaisia. Kentällä on otettu digitaalisia työkaluja käyttöön hyvin vaihtelevasti. Osa viljelijöistä aktiivisesti etsii ja ottaa käyttöön uusia teknogioita toimintansa tehostamiseksi, osa taas ei ottaisi niitä käyttöön vaikka niitä tarjottaisiin valmiina ratkaisuina.
 
@@ -72,9 +73,7 @@ Verkottuminen voi tuoda kilpailuttamiseen neuvotteluvoimaa.
 Tällä hetkellä ollaan siirtymässä ruutupaperilta dataan. Seuraavaksi viljelijöiden tulisi saada tuottamansa data omiin käsiinsä ja palvelut, jotka mahdollistaisivat tiedon vaihdannan, analytiikan, vertailut ja yhteisen liiketoiminnan. Tämä toimisi lähtökohtana markkinaperusteisille investointipäätöksille.
 
 H1.31 Uusia standardiperusteisia teknologioita voidaan ottaa käyttöön asteittain pienissä paloissa. Standardien kuten ISOBUS etu on, että niitä on kehitetty pitkään ja maatalouden teollisuus on niihin sitoutunut.
-Voi tulla teknologioita, jolla asiat voi tehdä helpommin kuin CAN-väylää käyttäen, mutta omaksuminen tapahtuu hitaasti. *Laitteiden myyminen käyttöön on hidasta, koska käyttöikä on pitkä, yhteensopivuus pitäisi olla, investoinnin pitäisi oikeasti tuottaa paremmin juuri sillä tilalla ja tilat ovat valtavan erilaisia.* Tällä hetkellä tutkitaan standardisoinnissa teollista ethernettiä CAN-väylän sijaan. Jos uudet standardit tulevat käyttämään sitä, tulisi sen silti olla yhteensopiva ja käyttökelpoinen vanhojen laitteiden kanssa, esim. 30 vuotta vanha traktori.
-
-*Ei voi tehdä isoja investointeja -> pala kerrallaan -> pitää olla taaksepäin yhteensopiva -> käyttöikä voi olla 30 vuotta ja silti sen pitää toimia yhteen uusimman tekniikan kanssa -> standardin laatiminen on aikaavievää ja vaikeaa!*
+Voi tulla teknologioita, jolla asiat voi tehdä helpommin kuin CAN-väylää käyttäen, mutta omaksuminen tapahtuu hitaasti. Tällä hetkellä tutkitaan standardisoinnissa teollista ethernettiä CAN-väylän sijaan. Jos uudet standardit tulevat käyttämään sitä, tulisi sen silti olla yhteensopiva ja käyttökelpoinen vanhojen laitteiden kanssa, esim. 30 vuotta vanha traktori.
 
 H1.32 Standardien mukaiset laitteet ovat tietoturvallisempia teollisuuden kehittäessä myös sitä.
 Teollisuus ymmärtää, että asiakkaat loppuvat jos tietoturvasta ei pidetä huolta.
@@ -96,7 +95,6 @@ Tuotteista voidaan saada myös eliksiirejä kemian tuotannossa.
 Oman näkemykseni mukaan prosessien paremmalla hallinnalla tuotannossa tarvittavia panoksia osataan säätää paremmin ja tarkemmin. 
 Mahdollisesti myös ekologian ymmärrys paranee, kuten maaperän mikrobien roolin huomioon ottaminen kestävyydelle, satoisuudelle ja riskien minimoinnille. Hyväkuntoisesta pellosta tulee aina jotain säästä huolimatta.
 Tämä prosessien hallinta olisi myös varautumista lmastonmuutoksen myötä uhkaaviin tauti- ja hyönteisinvaasioihin. Silloin tilannehallinta olisi paljon parempi. Prosesseja osattaisiin hallita ja riskejä torjua, jolloin tuotanto olisi paljon kestävämpi.
-*Vaikka uudet teknologiat voivat alkuvaiheen käyttöönotto- ja kokeiluvaiheissa näyttää herkästi rikkoutuvilta ja epäluotettavilta, niillä voidaan saavuttaa kestävämpi tuotanto. Kunhan kokemuksia kertyy ja ratkaisuista kehitetään luotettavia.*
 Vaikka tekniset ratkaisut voivat kuulostaa ympäristöihmisille teknokraattisilta ja vierailta, niillä voidaan parantaa tuotannon luontoystävällisyyttä.
 Historiallisesti ollaan toteutettu täsmäviljelyä jo hevosaikaan talikolla ja hiljaisella tiedolla, vähäisin panoksin. Tehostumisen ja nyt pinta-alaperustaisen EU-tuen myötä maatilojen koon on pakko ollut kasvaa, yhden ihmisen tulee voida käsitellä yhä suurempi peltopinta-ala samassa aikaikkunassa kuin aiemmin. Tämä on tarkoittanut, että koneiden koko on suurentunut, lohkoista on tehty suurempia, lohkoja on käsitelty samoilla tasasäädöillä, jolloin ollaan menetetty tuntuma ja täsmä viljelystä. "Nyt otetaan takaisin sitä tarkkuutta, mitä talikolla levitettäessä aikanaan toteutettiin."
 
@@ -112,9 +110,8 @@ H1.36 Peltoviljelyssä ei tehdasmainen automaatioteknologioiden sovellus onnistu
 
 H1.37 Langattoman viestinnän vaatiman kehitysajan takia peltoviljely on jäljessä. Peltoviljelyssä ei voi vetää kaapeleita koneisiin.
 Peltoviljelyssä mahdollistavat teknologiat ovat olleet mobiiliviestintä, mobiiliautomaatio, GPS, paikkatietojärjestelmät.
-*Käykö yksiin kirjallisuuskatsausten mahdollistajien kanssa?*
 
-38 Suomessa käytössä olevat maatalouden telemetriasovellukset perustuvat *matka*puhelinverkkoihin. Toiminnallisuuden takia, koska pellot ovat Suomessa pirstaleisia, pieniä ja hajallaan. Maatilan oman verkon rakentaminen olisi epäkäytännöllistä, mutta pihapiirissä saattaa olla wlan-verkko.
+38 Suomessa käytössä olevat maatalouden telemetriasovellukset perustuvat puhelinverkkoihin. Toiminnallisuuden takia, koska pellot ovat Suomessa pirstaleisia, pieniä ja hajallaan. Maatilan oman verkon rakentaminen olisi epäkäytännöllistä, mutta pihapiirissä saattaa olla wlan-verkko.
 
 H1.39 Soilscout oli poikkeuksellinen oman verkkonsa kanssa, mutta sekin tukeutuu matkapuhelinverkkoon jos wlan ei yllä.
 Suomessa ollaan lähtökohtaisesti perustettu telemetriaratkaisut matkapuhelinverkolle.
@@ -125,7 +122,7 @@ H1.40 3G ei sekään vielä kanna joka paikkaan mihin pitäisi, mikä on iso ong
 H1.41 Varmaankin ollaan menossa siihen, että tilojen määrän vähentyessä yksi tila hoitaa yhä suuremmalla alueella olevia peltoja automaation avulla. Sinne voisi tulla varastoja ja pientä prosessointia peltokeskittymän lähelle.
 Valvonnan telemetriapalveluille voi tulla vielä suuri kysyntä.
 
-H1.42 Viljelijät ovat nähneet tärkeäksi suoran yhteyden kuluttajiin. Lähiruoalla on kysyntää, samoin tiedolle ruoan alkuperästä ja tuotantomenetelmistä. Ruokaketju on suppilomainen, digitalisaation avulla voitaisiin kehittää keskusteluyhteyksiä *ja tiedonsiirtoa*.
+H1.42 Viljelijät ovat nähneet tärkeäksi suoran yhteyden kuluttajiin. Lähiruoalla on kysyntää, samoin tiedolle ruoan alkuperästä ja tuotantomenetelmistä. Ruokaketju on suppilomainen, digitalisaation avulla voitaisiin kehittää keskusteluyhteyksiä.
 On visioitu ja digitaalisia yhteiskehittämisalustoja kuten VTT:n Owela, missä viljelijät voivat kehittää toimintaansa suorassa vuorovaikutuksessa kuluttajien kanssa. Tämän avulla voidaan myös lisätä kuluttajien tietoisuutta tuotteiden kulurakenteesta ja siitä, millainen osa hinnasta päätyy viljelijälle. Kuluttajat voivat vaikuttaa ruokaketjun tasa-arvoisuuteen valinnoillaan.
 
 H1.43 Tiedonvälityksen kanavia voisi käyttää myös viestimään millaisia lannoitteita ja kasvinsuojeluaineita, millaista työtä siihen on tehty. Tämä olisi oikeaa dataa eikä vain mielikuvia.
@@ -149,7 +146,13 @@ Paljon parempia ja nopeampia päätöksiä voidaan tehdä niukkojen resurssien a
 
 H1.48 Tietoon perustuvalla maanviljelyllä ilmastonmuutoksen aiheuttamiin muutostrendeihin päästäisiin kiinni. Esim. silmämääräisesti arvioituna satokoko voi muuttua huomaamatta.
 Hyönteisinvaasion päästään nopeammin käsiksi, samoin se voitaisiin mahdollisesti myös taltuttaa tai rajata nopeammin, kun nähdään missä oloissa invaasio tapahtuu.
-Väestönkasvuun voidaan vastata paremmin, kun olemme oman ruokamme tuottaja, emmekä kuluta muiden ruokaa, mikä on moraalinen velvollisuus. Jos oma tuotantomme on kannattamatonta, ei sitä enää jatketa, mikä vähentää ruoan tuotantoa *ja nostaa mahdollisesti ruoan hintaa markkinoilla vieden sitä heikoimpien ulottuvilta*.
+Väestönkasvuun voidaan vastata paremmin, kun olemme oman ruokamme tuottaja, emmekä kuluta muiden ruokaa, mikä on moraalinen velvollisuus. Jos oma tuotantomme on kannattamatonta, ei sitä enää jatketa, mikä vähentää ruoan tuotantoa.
 "Näen, että digitaalisuus tuo uusia liiketoimitamahdollisuuksia, jotta maatilat olisivat oikeasti kilpailukykyisiä ja kannattavia. Kannattavampia kuin tänä päivänä. Se olisi kaikin puolin tärkeätä."
 
 H1.49 IoT-teknologioiden, digitalisaation, tietoon perustuvalla maanviljelyllä voidaan vastata joustavammin haasteisiin. "Pystytään reagoimaan kun on tietoa. Jos ei ole tietoa, ei voida reagoida."
+
+*H1.31 Laitteiden myyminen käyttöön on hidasta, koska käyttöikä on pitkä, yhteensopivuus pitäisi olla, investoinnin pitäisi oikeasti tuottaa paremmin juuri sillä tilalla ja tilat ovat valtavan erilaisia.*
+*H1.31 Ei voi tehdä isoja investointeja -> pala kerrallaan -> pitää olla taaksepäin yhteensopiva -> käyttöikä voi olla 30 vuotta ja silti sen pitää toimia yhteen uusimman tekniikan kanssa -> standardin laatiminen on aikaavievää ja vaikeaa!*
+*H1.33 Vaikka uudet teknologiat voivat alkuvaiheen käyttöönotto- ja kokeiluvaiheissa näyttää herkästi rikkoutuvilta ja epäluotettavilta, niillä voidaan saavuttaa kestävämpi tuotanto. Kunhan kokemuksia kertyy ja ratkaisuista kehitetään luotettavia.*
+*H1.37 Käykö yksiin kirjallisuuskatsausten mahdollistajien kanssa?*
+*H1.48 ja nostaa mahdollisesti ruoan hintaa markkinoilla vieden sitä heikoimpien ulottuvilta*
