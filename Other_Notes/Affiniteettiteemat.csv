@@ -1,115 +1,137 @@
 Teema, Muistiinpanokappaleet
-Pirstaleinen kenttä, 1.1, 1.9, 1.14
-Teknologioiden omaksunta, 1.1, 1.34, 2.26, 2.34, 2.35, 2.36
-Maatilojen yksilöllisyys, 1.1, 2.30
-Teollisuusautomaatio, 1.3, 1.6,	1.20, 1.25, 1.36
-Kasvihuoneautomaatio, 1.4, 1.36
-Monikerrosviljely, 1.4
-Automaattiset huoltokutsut, 1.4
-Valmistajien datan keräys, 1.4, 2.12
-Yhden valmistajan kokonaisratkaisu, 1.5
-Datan saatavuus, 1.6, 2.13
-Rajapinnat, 1.6, 2.7, 2.8
-Yhteen valmistajaan lukittuminen, 1.6
-Kokonaisvaltainen maatilanhallintajärjestelmä, 1.7, 2.6, 2.31
-Full-liner, 1.7, 1.8, 1.11, 1.15
-Laitteiden yhteensopivuus, 1.7
-Täsmäviljely, 1.10, 1.33, 1.34, 2.15, 2.38
-Työn tehostaminen, 1.11
-Automaattiohjaus, 1.11
-Telemetria, 1.11, 1.41
-Tuotanto/viljelyprosessien optimointi/automatisointi, 1.11, 1.28, 1.33, 2.20, 2.26, 2.27, 2.33
-Urakointi, 1.11, 2.38
-Pilvipalvelut, 1.12, 1.15, 1.16
-Tuotantoketjun data, 1.13, 1.42, 1.43, 1.44, 1.45, 2.32
-Valmistajien yhteistoiminta, 1.14
-Avoimet standardit, 1.14
-Liiketoiminnan ekosysteemi, 1.14
-Walled garden, 1.15
-Käyttötarpeiden suuri kirjo, 1.15
-Tiedon tuottama lisäarvo, 1.15
-Datan alustapalvelu/järjestelmä, 1.16, 2.5, 2.9, 2.32, 2.41, 2.42, 2.43
-Tuotantotapatieto, 1.17, 1.43
-Sadon tunnistetieto, 1.17
-Erillinen arvoerä, 1.17
-Verkostoitumisalusta myyntiin ja ostoihin, 1.18h, 1.27
-Investointien laskentaan ei ole tietoa, 1.19
-Aidot IoT-järjestelmät, 1.20, 2.11
-Sensoridata, 1.20, 1.22, 1.25, 2.18, 2.31, 2.39
-Autom. viljelyyn vaikuttaminen, 1.20
-Operatiivinen laitteiden älykkyys, 1.22
-Keinoäly, 1.23,	1.24
-ROI, 1.23
-Sadonlisä, 1.23
-Systeemiautomaatio, 1.24
-Analytiikka, 1.24, 2.45
-Päätöksentekon avustaminen, 1.24, 1.48, 2.1, 2.2, 2.3, 2.17, 2.18, 2.20, 2.31, 2.33
-Järjestelmäintegraatio, 1.25, 2.5, 2.6, 2.7, 2.8, 2.31
-Koneoppiminen, 1.25, 2.2, 2.4
-Laatuerien tunnistaminen, 1.28, 1.43, 1.44, 1.45
-Tilamäärän väheneminen, 1.29
-Liiketoimintamainen toiminta, 1.29, 2.30
-Teknologiaomaksumisen kynnys, 1.29, 2.15, 2.21
-Teknologiaomaksumisen laajuus, 2.21
-Kokemustiedon jako, 1.29
-Perustellut investoinnit, 1.29, 1.30, 1.35, 2.34
-Avoimet standardit, 1.30, 1.32
-Uudet liiketoimintamallit, 1.30, 1.34, 1.48
-Teollinen Ethernet, 1.31
-Asteittainen omaksunta, 1.31, 2.26
-Elinkaari, 1.31
-Tietoturva, 1.32
-Tutkimuksen pitkä aikajänne, 1.33
-Siirtymä datan käyttöön, 1.33
-Lisäarvo tuotteelle, 1.33
-Ilmastonmuutoksen uhat, 1.33
-EU-maataloustuki, 1.33
-Tilakoon kasvu, 1.33, 2.30, 2.46
-Käyttäjäystävällisyys-käytettävyys, 1.34, 2.17, 2.22
-Smart Farming, 1.34, 1.47
-Älykkäät laitteet, 1.34, 1.35
-Langaton tietoliikenne, 1.37, 1.39, 2.10
-Matkapuhelinverkot, 1.38, 1.39
-Peltojen hajanaisuus, 1.38, 1.40, 1.41
-UA-laitteet, 1.39, 2.39
-5G-verkko, 1.39
-Kuluttajien ymmärryshaaste, 1.43
-Dataperustainen laatuhinnoittelu, 1.43, 1.44, 1.45
-Ruokaturva, 1.47, 2.33
-Digitaalinen mitattu tieto, 1.48
-Väestönkasvu, 1.48
-Kannattavuus, 1.48, 2.34, 2.36
-Tietoliikenneyhteydet, 1.37, 1.39, 2.5
-Sensoriteknologia, 2.10, 2.23, 2.31
-Datan omistajuus, 2.12
-Datan siirreltävyys, 2.13
-Maatilanhallintajärjestelmä FMS, 2.13, 2.31
-Karttatiedostot, 2.14, 2.39
-Datan merkitys, 2.17, 2.29, 2.40
-Viljelysuositukset, 2.4, 2.18, 2.19, 2.31
-Käyttöliittymät, 2.17, 2.22, 2.31, 2.31
-Ennusteet (sato), 2.22 
-Teknologiaharppaus (leap frog), 2.24
-Teknologioiden mahdollisuudet, 2.25
-Sadonlisä, 2.26
-Lannoitepanokset, 2.27
-Olosuhteiden vaihtelut, 2.29
-Erilaiset ratkaisut tilakoon mukaan, 2.30, 2.37
-Maatalouden yleiskuva, 2.31
-Viljelysuositusjärjestelmä, 2.31
-Tulevaisuuden tietojärjestelmät, 2.31, 2.41
-Autonomiset traktorit, 2.31
-Tuotantopanokset, 2.32
-Historiatiedot, 2.33, 2.38
-Työtiedostot, 2.38, (2.45)
-Ihminen datan tulkitsijana, 2.40
-Liiketoiminnan ekosysteemit, 2.44
 
-ISOBUS, 1.9
-Yara N-sensor, 1.20, 2.14, 2.16, 2.19, 2.20
-VTT Owela, 1.42
-Farmobile.com, 1.26, 1.27
+365FarmNet, 2.7
+5G-verkko, 1.39, 3.16
+Aidot IoT-järjestelmät, 1.20, 2.11, 3.20
+Analytiikka, 1.24, 2.45, 3.12
+Asteittainen omaksunta, 1.31, 2.26, 3.43
+Autom. viljelyyn vaikuttaminen, 1.20
+Automaattiohjaus, 1.11
+Automaattiset huoltokutsut, 1.4
+Autonomiset traktorit, 2.31
+Avoimet standardit, 1.14, 1.30, 1.32
+Datan alustapalvelu/järjestelmä, 1.16, 2.5, 2.9, 2.32, 2.41, 2.42, 2.43, 3.8, 3.17, 3.18
+Datan merkitys, 2.17, 2.29, 2.40
+Datan omistajuus, 2.12
+Datan saatavuus, 1.6, 2.13
+Datan siirreltävyys, 2.13
+Datan tuottama lisäarvo, 3.18
+Datan osto ja myynti, 3.18
+Dataperustainen laatuhinnoittelu, 1.43, 1.44, 1.45
+Digitaalinen mitattu tieto, 1.48
+EU-maataloustuki, 1.33, 3.40, 3.43
+Elinkaari, 1.31, 3.5, 3.29, 3.30
+Ennusteet (sato), 2.22 
+Erilaiset ratkaisut tilakoon mukaan, 2.30, 2.37
+Erillinen arvoerä, 1.17
 Farmersbusinessnetwork.com, 1.26, 1.27
 Farmidiili, 1.27
+Farmobile.com, 1.26, 1.27
+Full-liner, 1.7, 1.8, 1.11, 1.15
+Historiatiedot, 2.33, 2.38
+ISOBUS, 1.9, 3.4, 3.7, 3.8, 3.10, 3.44, 3.45
+Ihminen datan tulkitsijana, 2.40
+Ilmastonmuutoksen uhat, 1.33
+Investointien laskentaan ei ole tietoa, 1.19
+Järjestelmäintegraatio, 1.25, 2.5, 2.6, 2.7, 2.8, 2.31
+Kannattavuus, 1.48, 2.34, 2.36
+Karttatiedostot, 2.14, 2.39
+Kasvihuoneautomaatio, 1.4, 1.36
+Kasvukausi, 3.12
+Keinoäly, 1.23,	1.24
+Kehityskulku/historia, 3.25
+Kokemustiedon jako, 1.29
+Kokonaisvaltainen maatilanhallintajärjestelmä, 1.7, 2.6, 2.31, 3.8, 3.9
+Kolmannen osapuolen ohjelmistokehitys, 3.31
+Koneoppiminen, 1.25, 2.2, 2.4
+Kuluttajien ymmärryshaaste, 1.43
+Kuvantamisdata, 2.14, 2.39, 3.12
+Käyttäjäystävällisyys-käytettävyys, 1.34, 2.17, 2.22
+Käyttöliittymät, 2.17, 2.22, 2.31, 2.31
+Käyttötarpeiden suuri kirjo, 1.15
+Laatuerien tunnistaminen, 1.28, 1.43, 1.44, 1.45
+Laitteiden yhteensopivuus laiteingegraatio, 1.7, 3.4
+Laitteiden hintojen halpeneminen, 3.38, 3.45, 3.46, 3.47
+Laitevalmistajien yhteistyö, 3.47
+Langaton tietoliikenne, 1.37, 1.39, 2.10, 3.26, 3.27, 3.28
+Lannoitepanokset, 2.27
+Liiketoiminnan ekosysteemi, 1.14, 2.44
+Liiketoimintamainen toiminta, 1.29, 2.30
+Lisäarvo tuotteelle, 1.33
+Maatalouden yleiskuva, 2.31
+Maatilanhallintajärjestelmä FMIS, 2.13, 2.31
+Maatilojen yksilöllisyys, 1.1, 2.30
+Matkapuhelinverkot, 1.38, 1.39, 3.15
+Metadata, 3.7
+Monikerrosviljely, 1.4
+Muut standardit, 3.4, 3.5, 
 MyYara -viljelijäportaaliohjelmisto, 2.6
-365FarmNet, 2.7
+Olosuhteiden vaihtelut, 2.29
+Ohjelmistojen tekijänoikeudet, 3.30
+Ohjelmistopäivitykset, 3.31
+Operatiivinen laitteiden älykkyys, 1.22
+Peltojen hajanaisuus, 1.38, 1.40, 1.41
+Perustellut investoinnit, 1.29, 1.30, 1.35, 2.34
+Pilvipalvelut, 1.12, 1.15, 1.16
+Pirstaleinen kenttä, 1.1, 1.9, 1.14, 3.1
+Prototyypit, 3.32
+Päätöksentekon avustaminen, 1.24, 1.48, 2.1, 2.2, 2.3, 2.17, 2.18, 2.20, 2.31, 2.33, 3.19
+ROI, 1.23
+Rajapinnat, 1.6, 2.7, 2.8
+Ruokaturva, 1.47, 2.33, 3.38
+Ruoan identiteetti, 3.39
+Sadon tunnistetieto, 1.17
+Sadonlisä, 1.23, 2.26
+Satelliitti (data/kuvaus), 3.12
+Sensoridata, 1.20, 1.22, 1.25, 2.18, 2.31, 2.39, 3.35
+Sensoriteknologia, 2.10, 2.23, 2.31, 3.22, 3.23, 3.35, 3.36, 3.37
+Siirtymä datan käyttöön, 1.33
+Smart Farming, 1.34, 1.47
+Sensoriverkot, 3.35, 3.42
+SMS-viestit, 3.26, 3.27, 3.28
+Systeemiautomaatio, 1.24
+Sääasemat, 3.20, 3.42
+Teknologia-aalto, 3.43
+Teknologiaharppaus (leap frog), 2.24
+Teknologiaomaksumisen kynnys, 1.29, 2.15, 2.21
+Teknologiaomaksumisen laajuus, 2.21, 3.42, 3.43
+Teknologioiden mahdollisuudet, 2.25, 3.43
+Teknologioiden omaksunta, 1.1, 1.34, 2.26, 2.34, 2.35, 2.36, 3.24
+Telemetria, 1.11, 1.41
+Teollinen Ethernet, 1.31
+Teollisuusautomaatio, 1.3, 1.6,	1.20, 1.25, 1.36, 3.35, 3.37, 3.38
+Tiedon tuottama lisäarvo, 1.15
+Tiedostoformaatit, 3.5, 3.6, 3.7
+Tietoliikenneyhteydet, 1.37, 1.39, 2.5, 3.15, 3.16, 3.27, 3.28
+Tietoturva, 1.32, 3.28
+Tilakoon kasvu, 1.33, 2.30, 2.46
+Tilamäärän väheneminen, 1.29
+Tulevaisuuden tietojärjestelmät, 2.31, 2.41, 3.8, 3.9
+Tuotanto/viljelyprosessien optimointi/automatisointi, 1.11, 1.28, 1.33, 2.20, 2.26, 2.27, 2.33, 3.41
+Tuotantoketjun data, 1.13, 1.42, 1.43, 1.44, 1.45, 2.32, 3.39
+Tuotantoketjun valvonta, 3.39
+Tuotantoketju, 3.19
+Tuotantopanokset, 2.32
+Tuotantotapatieto, 1.17, 1.43, 3.2, 3.19
+Tutkimuksen pitkä aikajänne, 1.33
+Tuotevastuu, 3.30, 3.32
+Työn tehostaminen, 1.11
+Työtiedostot, 2.38, (2.45)
+Täsmäviljely, 1.10, 1.33, 1.34, 2.15, 2.38, 3.43
+UA-laitteet, 1.39, 2.39, 3.13, 3.14
+Urakointi, 1.11, 2.38
+Uudet liiketoimintamallit, 1.30, 1.34, 1.48
+VTT Owela, 1.42
+Valmistajien datan keräys, 1.4, 2.12
+Valmistajien yhteistoiminta, 1.14
+Valokuituverkot, 3.28
+Valtra Smart (?), 3.21
+Verkostoitumisalusta myyntiin ja ostoihin, 1.18h, 1.27
+Viljelysuositukset, 2.4, 2.18, 2.19, 2.31
+Viljelysuositusjärjestelmä, 2.31
+Väestönkasvu, 1.48
+Walled garden, 1.15
+Yara N-sensor, 1.20, 2.14, 2.16, 2.19, 2.20, 3.11
+Yhden valmistajan kokonaisratkaisu, 1.5
+Yhteen valmistajaan lukittuminen, 1.6
+Älykkäät laitteet, 1.34, 1.35
