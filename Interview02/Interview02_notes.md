@@ -12,6 +12,7 @@ tuotantoketju
 ruokaketjussa
 arvoketju
 
+*1705 sanaa, 47 kappaletta, keskiarvoisesti noin 36 sanaa per kappale.*
 
 1 Kasvintuotannossa ei olla ottamassa ihmistä pois päätöksenteosta, missään vaiheessa. Koneilla voidaan kyllä avustaa ja antaa mahdollisuus kanavoida resursseja paremmin.
 
@@ -37,30 +38,29 @@ H2.8 Järjestelmien rajapinnat, integraatiot ja datavirtojen standardointi on vi
 
 H2.9 Laajamittainen yhteen toimivien järjestelmien käyttöönotto on riippuvainen alustojen kehityksestä ja saatavuudesta. Jos alustoja järjestelmien yhteistoiminnalle kehitetään ja tuodaan saataville niin niitä otetaan käyttöön.
 
-10 Sensoriteknologia on jo olemassa. Langatonta tietoliikennettä laitteilta ja koneilta eteenpäin voi myös korvata siirrettävillä muistivälineillä, kuten on tehty tähän asti. *Langaton tietoliikenne ei siis ole ehdoton vaatimus.*
+10 Sensoriteknologia on jo olemassa. Langatonta tietoliikennettä laitteilta ja koneilta eteenpäin voi myös korvata siirrettävillä muistivälineillä, kuten on tehty tähän asti.
 
 H2.11 Tavoitetila on kuitenkin ihmisen toteuttamien työvaiheiden vähentäminen tietojenkäsittelyssä, mutta en osaa sanoa millä aikavälillä täysin automatisoitu järjestelmä tulee yleiseen käyttöön. Sellaisen toteutus on ilmeisesti lähellä.
 
-H2.12 Yarassa emme ole viljelijöiden kanssa toimiessamme ole kohdanneet kysymystä datan omistajuudesta. Asiakas omistaa tuottamansa datan ja käyttää sitä omiin tarkoituksiinsa, emmekä ole keränneet asiakkaiden dataa. *Datan keruu voi siis olla tulevaisuudessa kysymys johon toimijoiden on otettava kantaa.*
+H2.12 Yarassa emme ole viljelijöiden kanssa toimiessamme ole kohdanneet kysymystä datan omistajuudesta. Asiakas omistaa tuottamansa datan ja käyttää sitä omiin tarkoituksiinsa, emmekä ole keränneet asiakkaiden dataa.
 
 H2.13 On jo tapauksia, joissa joku toimija -laitevalmistajan lisäksi- haluaa määritellä miten laitteiden tuottamaa dataa käsitellään ja mihin järjestelmiin sitä siirretään.
 Suurin osa toimijoista jotka pyrkivät hyödyntämään datan siirreltävyyttä eivät ole viljelijöitä, vaan yhteistyömahdollisuuksia hakevia järjestelmätoimittajia.
-Nämä järjestelmätoimittajat ovat ohjelmistotaloja, jotka kehittävät FMS-järjestelmiä ja pyrkivät käyttämään satelliitti- tai NDVI-kuvantamispalveluita. Heille on eduksi mitä useamman järjestelmän kanssa heidän tuotteensa on yhteensopiva ja mitä enemmän heidän tuotteensa pystyy integroimaan itseensä, joko linkittämällä *rajapinnan kautta(?)* tai ilman *(?)*.
+Nämä järjestelmätoimittajat ovat ohjelmistotaloja, jotka kehittävät FMS-järjestelmiä ja pyrkivät käyttämään satelliitti- tai NDVI-kuvantamispalveluita. Heille on eduksi mitä useamman järjestelmän kanssa heidän tuotteensa on yhteensopiva ja mitä enemmän heidän tuotteensa pystyy integroimaan itseensä, joko linkittämällä tai ilman.
 On myös yksittäisiä viljelijöitä , jotka käyttävät FMS-ratkaisuita ja jotka pohtivat voisiko dataa liikutella tai tuoda sitä jotenkin käytettäväksi eri järjestelmien välille.
 
-H2.14 Suurin osa viljelijöistä on vielä aika kaukana esimerkiksi Yaran N-sensorilla tehtyjen karttojen ja muitten (pelto)lohkotietojen yhdistämisestä. Sensoritekniikkaa käytetään N-sensorissa lähtökohtaisesti lannoitustyökoneen suoraan ohjaamiseen. *Onko tämä suora ohjaus ilman tiedon tallennusta, analytiikkaa jne. missä määrin yleisempää toimintaa? Ainakin kirjallisuuskatsausten mukaan havainnointi ja kontrollointi ovat huomattavasti yleisempiä kuin analytiikka. Voisiko tutkimusten määrää ja aikaa verrata Big Data-katsausten vastaaviin?*
+H2.14 Suurin osa viljelijöistä on vielä aika kaukana esimerkiksi Yaran N-sensorilla tehtyjen karttojen ja muitten (pelto)lohkotietojen yhdistämisestä. Sensoritekniikkaa käytetään N-sensorissa lähtökohtaisesti lannoitustyökoneen suoraan ohjaamiseen.
 
 H2.15 Muita käyttöönoton vaikeuksia, uhkia, heikkouksia:
 Vaikka pieni joukko viljelijöitä ottaa käyttöön uutta teknologiaa matalalla kynnyksellä, kuten täsmäviljelylaitteita, niin suurempi joukko on sellaisia jotka eivät ota.
 Joko he eivät näe sen etuja sellaisina, että hankinta ja käyttöönotto olisi juuri heidän tapauksessaan kannattavaa tai sitten he eivät ole täsmäviljelyteknologiasta tietoisia.
-Jos suomalaisessa maanviljelyssä ei saada otettua käyttöön uutta teknologiaa, niin on olemassa riski, että suomalaiset viljelijät jäävät jälkeen teknologiakehityksessä *ja menettävät markkinaosuuksiaan muualta tuoduille tuotteille*.
+Jos suomalaisessa maanviljelyssä ei saada otettua käyttöön uutta teknologiaa, niin on olemassa riski, että suomalaiset viljelijät jäävät jälkeen teknologiakehityksessä.
 
-H2.16 Esimerkiksi teknologian käyttöönotosta Yaran N-sensorin avulla saadaan Saksassa 6 % suurempia satoja ja samalla säästöjä panoksissa, Ruotsissa saman lukeman ollessa 4 %. Voisi ajatella, että *yhteisillä markkinoilla kilpaillessa* Suomessa tämä hävitään joka vuosi. 
+H2.16 Esimerkiksi teknologian käyttöönotosta Yaran N-sensorin avulla saadaan Saksassa 6 % suurempia satoja ja samalla säästöjä panoksissa, Ruotsissa saman lukeman ollessa 4 %. Voisi ajatella, että Suomessa tämä hävitään joka vuosi. 
 Lisäksi suomessa ei aina pystytä implementoimaan uusinta teknologiaa aikaisemman teknologisen kehitysvaiheen ollessa vielä kesken tai puuttuessa kokonaan. *!*
 
-H2.17 Teknologiakehittäjien haasteena on käytettävyys *ja käyttäjäystävällisyys*. Viljelijän tulee pystyä helposti käyttämään tuotetta tai järjestelmää *tehokkaasti ja saaden siitä täyden hyödyn* oman osaamisensa avulla. Käyttöliittymien tulee olla yksinkertaisia ja yksiselitteisiä sekä tuotetun tiedon oikeaa, jotta sitä voidaan käyttää päätöksenteon ja suunnittelun tukena.
-Vaikka tarjolla on monenlaisia teknologioita, niiden tuottaman tiedon merkityksen *ja kausaliteettien* tulisi olla tarjoajan tiedossa *mutta näin ei aina taida olla?* 
-*Ilmeisesti tällä hetkellä järjestelmät voivat tuottaa tietoa päätöksenteon tueksi, mutta eivät vielä oppia toiminnasta, eivätkä ehdottaa viljelypäätöksiä, eivätkä tehdä päätöksiä autonomisesti?*
+H2.17 Teknologiakehittäjien haasteena on käytettävyys. Viljelijän tulee pystyä helposti käyttämään tuotetta tai järjestelmää oman osaamisensa avulla. Käyttöliittymien tulee olla yksinkertaisia ja yksiselitteisiä sekä tuotetun tiedon oikeaa, jotta sitä voidaan käyttää päätöksenteon ja suunnittelun tukena.
+Vaikka tarjolla on monenlaisia teknologioita, niiden tuottaman tiedon merkityksen tulisi olla tarjoajan tiedossa.
 
 H2.18 Tuotetun datan eheydessä ei ole puutteita tai vikaa sinänsä, jos data on itsessään tuotettu kalibroiduilla sensoreilla ja data on vertailukelpoista.
 Datasta tehdyt johtopäätökset ja niiden tekemisen metodit ovat tärkeämpi asia.
@@ -78,15 +78,15 @@ Koska kasvit ovat elävä organismi ja niitä pystytään mallintamaan vain raja
 Jos tiedetään miten eri tuotantopanokset vaikuttavat esimerkiksi satoon, voidaan arvioida laskennallisesti satopotentiaali ja satovaste. Näiden perusteella voidaan arvioida lisälannoituksen tarve tiettynä ajankohtana ja millainen satotappio voidaan kärsiä jos lisälannoitusta ei tehdä.
 
 H2.23 Sensoriteknologia antaa mahdollisuuksia ulosmitata lohkolta saatavan satovasteen potentiaali tasaisesti. Tämä on menossa eteenpäin viljelijöiden keskuudessa.
-Toisaalta jos ei ole omaksuttu aikaisempaa teknologiakehitystä eli jaettua lannoitusta niin ei todennäköisesti omaksuta sensoriteknologian mahdollistamaa jaetun lannoituksen hallintaakaan. *Termit on nyt vähän hämärässä, tarkistettava!* 
+Toisaalta jos ei ole omaksuttu aikaisempaa teknologiakehitystä eli jaettua lannoitusta niin ei todennäköisesti omaksuta sensoriteknologian mahdollistamaa jaetun lannoituksen hallintaakaan. 
 
 H2.24 Viljelijät eivät oman näkemykseni mukaan todennäköisesti tee suuria teknologiaharppauksia tai hyppäyksiä kehitysvaiheiden yli.
 
 H2.25 Viljelijöiden ja teknologiatoimittajien tulisi keskustella enemmän vallitsevasta tilanteesta ja teknologioiden tuomista mahdollisuuksista.
 
-H2.26 Sadonlisää on saatavissa, prosenttiluvut ovat lohkokohtaisia ja riippuvat lohkon sisäisistä vaihteluista, lannoitusstrategiasta. Kannattavuuden parantamista ja toiminnan kehittämistä tulisi tehdä pienissä paloissa. Kun on päätelty tuotannon suurimmat ongelmakohdat, voidaan niitä ryhtyä selvittämään ja korjaamaan, jolloin teknologiaa otetaan käyttöön tarvelähtöisesti. *Tällöin on ilmeisesti hyvin harvinaista, että tehtäisiin suuria harppauksia, vaan pienin askelin edetään, jolloin teknologioiden täytyy sopia yhteen sekä vanhojen että tulevien laitteiden kanssa.*
+H2.26 Sadonlisää on saatavissa, prosenttiluvut ovat lohkokohtaisia ja riippuvat lohkon sisäisistä vaihteluista, lannoitusstrategiasta. Kannattavuuden parantamista ja toiminnan kehittämistä tulisi tehdä pienissä paloissa. Kun on päätelty tuotannon suurimmat ongelmakohdat, voidaan niitä ryhtyä selvittämään ja korjaamaan, jolloin teknologiaa otetaan käyttöön tarvelähtöisesti.
 
-H2.27 Sadonlisän lisäksi on mahdollista saavuttaa lannoitesäästöjä. Kun lannoitepanoksia kuten typpipanoksia kohdistetaan oikein, niin niiden määrässä säästetään *huuhtoutumat pienenevät myös*. Urakoitsijat ja viljelijät näkevät tämän konkreettisesti levittimeen jääneinä lannoitteina.
+H2.27 Sadonlisän lisäksi on mahdollista saavuttaa lannoitesäästöjä. Kun lannoitepanoksia kuten typpipanoksia kohdistetaan oikein, niin niiden määrässä säästetään. Urakoitsijat ja viljelijät näkevät tämän konkreettisesti levittimeen jääneinä lannoitteina.
 Monilla viljelijöillä ei ole satotasomittaria ja vertailukohdat puuttuvat, koska edellisen vuoden satoon ei voi tehdä vertailuja.
 Satokaudet ovat huomattavan erilaisia ja esimerkiksi typen dynamiikka on erilainen eri satokausina kasvuolosuhteista riippuen.
 
@@ -97,7 +97,7 @@ Koska lannoitussuositus vaikuttaa sekä sekä satotasoon että kannattavuuteen, 
 Toisaalta muistaakseni noin puolet viljelijöistä ei laske viljatonnin tuotantokustannuksia, joten kustannusrakenteen tietoisuuteen tuomisessa on vielä paljon tehtävää työtä.
 
 H2.30 Voin kuvitella, että tilakokojen kasvaessa ja tilojen määrän pienentyessä maanviljelystä tulee enemmän liiketoimintamaisempaa ja kustannusrakenteitakin lasketaan tarkemmin.
-Pienillä tiloilla, joiden keskiarvoinen hehtaarikoko 40-50, täsmäviljelyn teknologiaratkaisut on erilaisia kuin tiloilla joissa on 200-400 hehtaaria. *Taas se pirstaleisuus.* Tulevaisuudessa käytettävät laitteistot ja järjestelmät voivat poiketa toisistaan huomattavasti tilakoon *ja tilatyypin ja muiden tilan ominaisuuksien* mukaan.
+Pienillä tiloilla, joiden keskiarvoinen hehtaarikoko 40-50, täsmäviljelyn teknologiaratkaisut on erilaisia kuin tiloilla joissa on 200-400 hehtaaria. Tulevaisuudessa käytettävät laitteistot ja järjestelmät voivat poiketa toisistaan huomattavasti tilakoon mukaan.
 Samoin käytetyn teknologian saavutetut hyötysuhteet voivat vaihdella huomattavasti käyttöympäristöjen vaikutusten mukaan.
 
 H2.31 Jos ajatellaan millainen maatalouden yleiskuva voisi olla, niin viljelijä voisi saada käyttöliittymäänsä kehotuksia toimista ja niiden perustelut. Esimerkiksi sensorien antaman tiedon analyysin perusteella tarvitaan lisälannoitusta tiettynä ajankohtana.
@@ -105,7 +105,7 @@ Lisäksi järjestelmä voisi myös kommunikoida muiden järjestelmien kuten tila
 Tällaisiin järjestelmiin on vielä vähän matkaa, mutta mallinnuksen, datan keruun ja niiden perusteella tehtävien viljelysuositusten ja niiden ajankohtien määrittelyjen kanssa tehdään paljon työtä. Nämä järjestelmät voivat hyvinkin toteutua.
 Kauemmaksi tulevaisuuteen voisi visioida itsenäisesti pelloilla toimivia traktoreita. 
 
-H2.32 Tiedon liikkuminen tuotantoketjussa *(ruokaketjussa, arvoketjussa?)* kuluttajalle asti voisi toteutua jos siihen saataisiin alustajärjestelmä. Tällöin kuluttaja voisi ottaa selvää millaisella tuotantopanoksilla tuote on tehty.
+H2.32 Tiedon liikkuminen tuotantoketjussa kuluttajalle asti voisi toteutua jos siihen saataisiin alustajärjestelmä. Tällöin kuluttaja voisi ottaa selvää millaisella tuotantopanoksilla tuote on tehty.
 
 H2.33 Ruokaturvan parantamiseen nämä teknologiat voivat osallistua vähentämällä viljantuotannossa viljelijän toiminnassa ilmeneviä riskejä, jolloin sadoista saataisiin varmempia. Samoin voidaan viljelijän toiminnassa saada järjestelmistä tarkkaa tietoa lohkojen historiasta ja nykytilanteesta, mikä parantaa tilannehallintaa kasvintuotannossa.
 Tiedon avulla voidaan tehdä parempaa lajikevalintaa, tunnetaan typen vapautumisen määrät, kasvien tuleentumisen eteneminen ja tämän kautta parantamaan sadon määrää ja laatua ja sitä kautta ruokaturvaa.
@@ -117,14 +117,14 @@ H2.35 Suomessa Yaran N-sensorin käyttö on harvinaisempaa kuin Ruotsissa. Ruots
 
 H2.36 Yaran N-sensorin hankintahinta nähdään Suomessa vielä korkeana ainakin yksittäisenä investointina tai eränä. Ruotsissa hintaa ei ole pidetty niin korkeana laitteen käytöstä saatujen etujen myötä, investointi on saatu katettua parantuneilla tuloksilla.
 
-37 Suomessa viljelijät ovat usein katsoneet, että peltopinta-alat ovat liian pieniä jotta täsmäviljelyä kannattaisi tehdä. Pienillä peltopinta-aloilla toimivien tilojen kannattaa ennemmin vuokrata N-sensori tai ostaa se urakointipalveluna. *Voiko ajatella, että riittää kun pienelle pellolle panostetaan tasaisesti? Ehkä. Voisiko tätä yleistää myös muihin kalliisiin uuden teknologian koneisiin? Luultavasti.*
+37 Suomessa viljelijät ovat usein katsoneet, että peltopinta-alat ovat liian pieniä jotta täsmäviljelyä kannattaisi tehdä. Pienillä peltopinta-aloilla toimivien tilojen kannattaa ennemmin vuokrata N-sensori tai ostaa se urakointipalveluna.
 
 H2.38 Urakointina voidaan ulkoistaa täsmäviljelytyöt, jotka on aikaisemmin pitänyt tehdä oman hiljaisen tiedon varassa mutta jotka on uudella teknologialla saatu dokumentoitua ja tallennettua urakoitsijalle annettavaan työtiedostoon. Jos löydetään ne tiedot, jotka työtiedostoon tarvitaan.
 Useamman vuoden historiatietoja voidaan myös vertailla ja pyrkiä selvittämään kasvuun liittyviä ongelmia, vaikka miksi juuri tuo kohta pellossa tuottaa aina huonoa satoa tai on muuten ongelmainen.
 
 H2.39 Viljelijät voivat käyttää sensoriteknologiaa lannoituksen jakoon mutta en itse ole tietoinen, että dooneilla tai satelliteilla tehdystä kuvantamistiedoista ja kartoista olisi vielä tehty levitystä tukevaa tehtävää.
 
-H2.40 Ihminen on toiminnassa vahvasti mukana ja tulkitsee indeksin arvoa. Tässä tulkinnassa tarvitaan asiantuntijuutta jonka avulla tiedostetaan lukujen merkitykset ja tarkoitukset. Ilman sitä kokeisiin, tutkimukseen ja kokemukseen perustuvaa asiantuntijuutta *koneellisesti tulkittuna* voidaan mennä jopa huonompaan suuntaan.
+H2.40 Ihminen on toiminnassa vahvasti mukana ja tulkitsee indeksin arvoa. Tässä tulkinnassa tarvitaan asiantuntijuutta jonka avulla tiedostetaan lukujen merkitykset ja tarkoitukset. Ilman sitä kokeisiin, tutkimukseen ja kokemukseen perustuvaa asiantuntijuutta voidaan mennä jopa huonompaan suuntaan.
 
 H2.41 Tällä hetkellä tiedossani ei ole järjestelmää, joka toimisi viljelijöiden tai muiden toimijoiden datasettien vertailun alustana ja osto- ja myyntikanavana. Visiona tämä on kuitenkin mahdollinen.
 Tässä vaiheessa visioidaan enemmän kuin voidaan toteuttaa.
@@ -139,6 +139,6 @@ H2.44 Liiketoiminnan ekosysteemin rakentuminen standardien ympärille vaatii vie
 H2.45 Suuren datamäärän analysointi ja muuttaminen ohjelmistokäskyksi jollain tavoin vaatii vielä paljon työtä.
 
 H2.46 Tilakoot ovat kasvamassa ja rakennemuutos on menossa yhä suurempien tilakokojen suuntaan. Tullaan näkemään ajosuunnittelun ja urakointipalveluiden käytön yleistymistä.
-Suomelle tyypilliset pirstaleiset lohkot *(ja muut olosuhteet?)* antavat meille syitä kehittää tehokkuutta parantavia ratkaisuita, jotta voimme pysyä muun maailman tahdissa mukana.
+Suomelle tyypilliset pirstaleiset lohkot antavat meille syitä kehittää tehokkuutta parantavia ratkaisuita, jotta voimme pysyä muun maailman tahdissa mukana.
 
 47 Jos ei mene eteenpäin niin taantuu, paikallaan pysymällä.

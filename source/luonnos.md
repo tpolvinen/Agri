@@ -114,6 +114,8 @@ Muiden katsausten, koosteiden ja vastaavien julkaisujen tuloksia, havaintoja ja 
 
 *Olisi tyylikästä, jos kaikki IoT-ketjun osa-alueet tulisivat tasaisesti esille, mutta epätasaisuus saattaa viitata AIoT-sovellusten keskeneräiseen kypsyyteen, omaksumiseen, käytettävyyteen jne.*
 
+*Koska analyysi on tehty kokonaan kirjoittajan toimesta, on siinä suurempi vaara virheisiin kuin useamman tekijän tarkistamissa vastaavissa.*
+
 ### Haastattelut
 
 Haastatteluissa käsiteltyjen keskeisten teemojen mukaan jaotellut haastattelutulokset.
