@@ -122,7 +122,7 @@ H2.36 Yaran N-sensorin hankintahinta nähdään Suomessa vielä korkeana ainakin
 H2.38 Urakointina voidaan ulkoistaa täsmäviljelytyöt, jotka on aikaisemmin pitänyt tehdä oman hiljaisen tiedon varassa mutta jotka on uudella teknologialla saatu dokumentoitua ja tallennettua urakoitsijalle annettavaan työtiedostoon. Jos löydetään ne tiedot, jotka työtiedostoon tarvitaan.
 Useamman vuoden historiatietoja voidaan myös vertailla ja pyrkiä selvittämään kasvuun liittyviä ongelmia, vaikka miksi juuri tuo kohta pellossa tuottaa aina huonoa satoa tai on muuten ongelmainen.
 
-H2.39 Viljelijät voivat käyttää sensoriteknologiaa lannoituksen jakoon mutta en itse ole tietoinen, että dooneilla tai satelliteilla tehdystä kuvantamistiedoista ja kartoista olisi vielä tehty levitystä tukevaa tehtävää.
+H2.39 Viljelijät voivat käyttää sensoriteknologiaa lannoituksen jakoon mutta en itse ole tietoinen, että drooneilla tai satelliteilla tehdystä kuvantamistiedoista ja kartoista olisi vielä tehty levitystä tukevaa tehtävää.
 
 H2.40 Ihminen on toiminnassa vahvasti mukana ja tulkitsee indeksin arvoa. Tässä tulkinnassa tarvitaan asiantuntijuutta jonka avulla tiedostetaan lukujen merkitykset ja tarkoitukset. Ilman sitä kokeisiin, tutkimukseen ja kokemukseen perustuvaa asiantuntijuutta voidaan mennä jopa huonompaan suuntaan.
 

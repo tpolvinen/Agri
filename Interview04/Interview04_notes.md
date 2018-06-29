@@ -11,7 +11,7 @@ subscription-lisenssimalli
 UAV Unmanned Aviation Vehicle (?)
 
 *1823 sanaa, 29 kappaletta, keskiarvoisesti noin 63 sanaa per kappale.*
-
+*Alussa 137 teemaa, katsotaan paljonko tulee lisää! :-)*
 H4.1 Maatalouden IoT:ssä ja digitalisaatiossa on tällä hetkellä jo valmiina useita kokonaisuuden osia ("leegopalikoita") joita voidaan ottaa käyttöön ja riippuen maatalouden osa-alueesta jossain määrin on otettu käyttöön.
 "Vapaa, avoin, järjestelmien välinen yhteistyö ja dataintegraatio on vielä vaikeaa."
 
