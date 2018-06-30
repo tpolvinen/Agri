@@ -118,6 +118,21 @@ Muiden katsausten, koosteiden ja vastaavien julkaisujen tuloksia, havaintoja ja 
 
 *Jos affiniteettianalyysissä korostuvat integraatiot ja muut kokonaisuuden luomiseen tähtäävät teemat, voisi ehkä ja mahdollisesti päätellä, että ollaan vaiheessa. :)*
 
+Ground up -metodi:
+
+Haastattelujen litteroinnit ja niistä puhtaaksikirjoitetut muistiinpanot käytiin läpi kirjaten taulukkoon asiasanat, teemat, teknologiat jne. sekä mistä haastattelusta ja muistiinpanojen kappaleessa kyseistä teemaa käsiteltiin.
+Ensimmäisen läpikäynnin tuloksena saatiin 159 teemaa.
+
+Toisella läpikäynnillä pyrittiin keräämään teemoja ryhmiin, varmistamaan teemojen oikeellisuus sekä esiintymisten kirjaus, koska useita teemoja oli ensimmäisen läpikäynnin tuloksissa merkitty esiintyneen vain muutamia kertoja.
+
+Läpikäyntien jälkeen teemat ryhmiteltiin ja niistä muodostettiin sanapuu/miellekartta. (kuva)
+
+Teemojen esiintymisestä haastatteluissa havainnollistettiin haastattelukohtaisiin taulukkoihin, joihin merkittiin teeman esiintyminen muistiinpanokappaleissa. (taulukot) *Tai jokin hianompi ku taulukko jos googlen hyllystä löytyy!*
+
+
+#### Koodaus
+
+
 ### Haastattelut
 
 Haastatteluissa käsiteltyjen keskeisten teemojen mukaan jaotellut haastattelutulokset.
