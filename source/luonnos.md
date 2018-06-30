@@ -116,6 +116,8 @@ Muiden katsausten, koosteiden ja vastaavien julkaisujen tuloksia, havaintoja ja 
 
 *Koska analyysi on tehty kokonaan kirjoittajan toimesta, on siinä suurempi vaara virheisiin kuin useamman tekijän tarkistamissa vastaavissa.*
 
+*Jos affiniteettianalyysissä korostuvat integraatiot ja muut kokonaisuuden luomiseen tähtäävät teemat, voisi ehkä ja mahdollisesti päätellä, että ollaan vaiheessa. :)*
+
 ### Haastattelut
 
 Haastatteluissa käsiteltyjen keskeisten teemojen mukaan jaotellut haastattelutulokset.

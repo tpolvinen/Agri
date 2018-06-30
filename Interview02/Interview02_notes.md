@@ -117,7 +117,7 @@ H2.35 Suomessa Yaran N-sensorin käyttö on harvinaisempaa kuin Ruotsissa. Ruots
 
 H2.36 Yaran N-sensorin hankintahinta nähdään Suomessa vielä korkeana ainakin yksittäisenä investointina tai eränä. Ruotsissa hintaa ei ole pidetty niin korkeana laitteen käytöstä saatujen etujen myötä, investointi on saatu katettua parantuneilla tuloksilla.
 
-37 Suomessa viljelijät ovat usein katsoneet, että peltopinta-alat ovat liian pieniä jotta täsmäviljelyä kannattaisi tehdä. Pienillä peltopinta-aloilla toimivien tilojen kannattaa ennemmin vuokrata N-sensori tai ostaa se urakointipalveluna.
+2.37 Suomessa viljelijät ovat usein katsoneet, että peltopinta-alat ovat liian pieniä jotta täsmäviljelyä kannattaisi tehdä. Pienillä peltopinta-aloilla toimivien tilojen kannattaa ennemmin vuokrata N-sensori tai ostaa se urakointipalveluna.
 
 H2.38 Urakointina voidaan ulkoistaa täsmäviljelytyöt, jotka on aikaisemmin pitänyt tehdä oman hiljaisen tiedon varassa mutta jotka on uudella teknologialla saatu dokumentoitua ja tallennettua urakoitsijalle annettavaan työtiedostoon. Jos löydetään ne tiedot, jotka työtiedostoon tarvitaan.
 Useamman vuoden historiatietoja voidaan myös vertailla ja pyrkiä selvittämään kasvuun liittyviä ongelmia, vaikka miksi juuri tuo kohta pellossa tuottaa aina huonoa satoa tai on muuten ongelmainen.
