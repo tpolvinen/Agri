@@ -917,6 +917,40 @@ Uusia <11-05-2018  16:27>
     John Deere Precision Planting
     Oracle
 
+Uusi <03-07-2018  10:48>
+	via
+	[https://www.youtube.com/watch?v=kmVB22u0ScU&frags=pl%2Cwn]
+	TEDx talk: Agriculture technology: Matt Waits at TEDxOStateU (2013)
+		20-luvulla maissihybridit, sitten mekanistinen vallankumous traktoreineen, sitten lannoitteet.
+		"Hybrid Revolution" "Mechanical Revolution" "Fertilizer Revolution"
+		Nämä teknologiat eivät kuitenkaan riitä. Seuraava vallankumous maataloudessa tulee olemaan kvantitatiivisen datan käyttöönotto laajassa mittakaavassa. Vallankumous tulee olemaan informaatiovallankumous, jonka polttoaineena tulee olemaan datatiede, joka voimanlähteenä tulee olemaan maatiloilta kerätty data.
+		Datatiedeen avulla tuotetaan monenlaisista lähteistä kerätystä datasta jalostamalla, analytiikalla ja mallinnusta soveltamalla tuotteita, jotka ovat käytettäviä datatieteeseen perehtymättömille. 
+		Datatiede mahdollistaa viljelijälle mitatun tiedon perusteella toimivan päätöksenteon.
+		Data ei tule olemaan vain hänen omalta tilaltaan kerättyä, vaan se tulee olemaan kaikilta maatiloilta kerättyä. 
+		Tulevaisuudessa voidaan: Aggregoidaan dataa laitteilta/työkoneilta pilveen, sovelletaan kerättyyn dataan mallinnuksia, ekstraktoidaan paikallista arvoa viljelijälle.
+		Viimeisten parin vuosikymmenen aikana viljelijät ovat ottaneet käyttöön/omaksuneet täsmäviljelytekniikoita ja -teknologioita jotka luovat perustan *niin kuin A.A. sanoi per ag 3 -> ag 4*. Tälle perustalle 
+		Variable rate (määränsäätöautomatiikka VRA) 
+		[00:06:02] Määränsäätöautomatiikkaa on jo laajassa käytössä USAssa ja se toimii teknologiaperustana tulevaisuuden järjestelmille.
+		Viljelijät voivat käyttää panoksia tehokkaammin, samalla lisäten kannattavuutta ja vähentäen ympäristön kuormitusta.
+		Lannoitteet ovat yleisin panos.
+		[00:06:31] Nyt: näytteet maasta koordinaattien mukaan, laboratorion tulokset syötetään ohjelmistoon/sovellukseen, joka tuottaa maaperän hedelmällisyyskartan. Algoritmeja soveltamalla/käyttämällä tätä dataa vasten, voidaan tuottaa lannoitussuositus. Lannoitussuositus voidaan siirtää lannoituksen levittämiseen käytettävään työkoneeseen/traktoriin/laitteeseen. Lannoitin lukee tiedostoa, vertaa suosituksen tietoja omaan geolokaatioonsa ja muuntelee lannoitteen määrää liikkuessaan lohkon yli.
+		[00:08:08] Samaa teknologiaa käytetään myös moniin muihin toimintoihin kuten kylvöön, ruiskuttamiseen jne.
+		Tämä mahdollistaa viljelijän digitaalisesti mitatun tiedon avulla täsmällisen hallinnoinnin jokaiselle lohkon neliömetrille. Sen sijaan, että koko lohkoa käsiteltäisiin tasasäädöllä ja levittäen panokset tasaisesti.
+		[00:08:34] Toinen teknologia joka on nykyään käytössä, on etähavainnointi/etäkartoitus/kaukokartoitus satelliiteilla, lentokoneilla ja UA-laitteilla. Yleensä kameralaitteistoilla, luoden kuvantamistietoa lohkoista. Ei vain kuvia, vaan dataa joka voi pitää sisällään NIR-kaistan tietoa kasvien stressitilan havainnoimiseksi ennen kuin sitä voi havaita paljaalla silmällä. Tämä mahdollistaa viljelijän aikaisemman reagoimisen ja ongelmien selvittämisen -- jo ennen kuin ongelma voidaan havaita pellolla visuaalisesti.
+		Etähavainnointi ei ollut yleisesti käytössä (mainstream) 2013 vaikka olikin käytössä laajalla peltopinta-alalla. Sille on huomattavasti kysyntää ja vuosikymmenen aikana siitä tulee yleisesti käytettävää teknologiaa tuotteina.
+		Yleisemmässä käytössä oleva teknologia on GPS-satotasomittari puimurissa, joka mittaa geolokaatiosta kerättyä satoa. Kerätyistä tiedoista voidaan koostaa satokartta. Historiallisesti maanviljelyksessä on ollut ongelma kun viljelijät eivät ole voineet mitata toimiesa vaikutuksia. "You cannot manage what you do not measure."
+		Nyt viljelijät voivat kartoittaa sadon määrän vuoden lopussa. Käytettäessä yhdessä GISin (Geographic Information Systems) kanssa, yhdistäen tietoihin mitä lajikkeita kylvettiin, millainen maaperä ja hedelmällisyys pellolla on kussakin kohdassa, jne. auttaa päätöksenteossa millaisia toimia tulisi suorittaa ja miten jo suoritetut toimet tuottivat tuloksia.
+		[00:10:59] Jos tämä koostettu tieto voitaisiin viedä maatilan kokonaisuuden käyttöön, se olisi erittäin arvokasta. Viljelijä voisi tarkastella satoisuutta lajikkeen tai maaperätyypin mukaan, koko maatilan laajuudella. Lisäksi voitaisiin toteutta viljelykokeita maatiloilla. Ensi kertaa viljelijä voi vaikuttaa dynaamisesti kylvötiheyteen, ruiskutukseen geolokaatiokohtaisesti, kirjata data toimista ja analysoida mittausdataa.
+		[00:11:45] Tämä muuttaa viljelijöiden päätöksentekoa. Tulevaisuudessa on vielä arvokkaampaa aggregoitu/koostettu, anonymisoitu/nimettömäksi tehty data.
+		Yksittäiselle viljelijälle ei ole mahdollista testata jokaista tuotetta, kaikilla määränsäädöillä, varsinkaan markkinoilla joilla vaaditaan hyvin dynaamista tuotevalikoimaa: keskimääräinen maissilajike kestää markkinoilla vain noin kolme vuotta. Jos viljelijä tutkii lajiketta itsenäisesti niin silloin kun hän on oppinut jotain siitä niin kyseinen lajike ei enää ole markkinoilla.
+		Viljelijät tulevat löytämään lisäarvoa uusista teknologioista vain yhteistoiminnan kautta. Kuvaillun kaltainen data kerättynä sadan miljoonan aarin alalta, mittakaavaltaan luo tilastollisesti merkitseviä tuloksia, joka mahdollistaa viljelijälle nopeat perustellut päätökset käytänteiden, tuotteiden ja palveluiden suhteen.
+		Edistyneiden säämallinnusten kanssa tämän datan vaikuttavuus, yhdistettynä satotasomittaukseen, sadonmallinnustyökaluihin, pian päästään siihen, että tietojärjestelmä voi tarkastella lohkon maaperää, hedelmällisyysarvoja, lohkon paikkaa, ilmastoa, hakea tietoja suuresta datasetistä päätelläkseen mitkä lajikkeet, mitkä lannoitteet, kasvinsuojeluaineet olisivat parhaat juuri tälle lohkolle ja mille osille tätä lohkoa.
+		Aggregoidusta suuresta datasetistä voitaisiin tuottaa kohdennettuja viljelysuosituksia kullekin lohkon kohdalle.
+		Viljelijät voisivat kerätä automaattisesti toiminnastaan havaintotietoa kaikista tuotteista kaikilla määräsäädöillä, kaikenlaisissa ympäristöissä, yhdessä luoden dataa tulevaisuudelle.
+		Tätä tietoa käyttämällä maataloudesta voisi tulla paitsi kannattavampaa, ympäristöystävällisempää, tuottaa enemmän polttoaineita ja tärkeimpänä kaikista, ruokkia maailma.
+	[http://www.agxplatform.com]	
+	"agX® is a Platform as a Service (PaaS) for the agricultural industry that provides the necessary geospatial infrastructure for a community of integrated precision ag products and services."
+
 
 ---------------------------------------------------------------------------------------------------
 
