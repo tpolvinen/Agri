@@ -11,7 +11,7 @@ subscription-lisenssimalli
 UAV Unmanned Aviation Vehicle (?)
 
 *1823 sanaa, 29 kappaletta, keskiarvoisesti noin 63 sanaa per kappale.*
-*Alussa 137 teemaa, katsotaan paljonko tulee lisää! :-)*
+
 H4.1 Maatalouden IoT:ssä ja digitalisaatiossa on tällä hetkellä jo valmiina useita kokonaisuuden osia ("leegopalikoita") joita voidaan ottaa käyttöön ja riippuen maatalouden osa-alueesta jossain määrin on otettu käyttöön.
 "Vapaa, avoin, järjestelmien välinen yhteistyö ja dataintegraatio on vielä vaikeaa."
 
@@ -78,7 +78,7 @@ Erillisten arvoerien tuottaminen voisi olla mahdollista, mutta vaatisi toiminta-
 Tietenkin voisi olla *näiden teknologioiden avulla* yksittäiselle vijelijälle mahdollista näyttää toteen asiakkaalleen että tuotteet on viljelty tietyillä tavoilla ekologisesti, terveellisesti jne.
 Laajempi käyttöönotto ja omaksuminen vaatii vähintään aikaa eikä välttämättä sittenkään ota tuulta purjeisiinsa, vaikka kyseinen innovaatio olisi kuinka edistyksellinen ja tarjoaisi huomattavia etuja. Vaikka teknologia on mahdollistaja, lopulta käyttöön jäävän ratkaisun valikoitumista ohjaavat liiketoiminta, käytettävyys ja muut vastaavat ominaisuudet ja olosuhteet.
 
-16 *näkyvimmät IoT-ratkaisut*
+4.16 *näkyvimmät IoT-ratkaisut*
 EOS
 
 H4.17 *kasvitehtaat, kasvihuone-IoT*
@@ -103,10 +103,12 @@ Tällöin hehtaaritehokkuus per työntekijä kasvaa edelleen, mutta työn luonne
 En ole miettinyt miten tämä voisi vaikuttaa maatalouteen ja maaseutuasumiseen laajemmin.
 "Voi olla, että 50 vuoden kuluttua stereotypia tyhmästä maajussista pitää vielä vähemmän paikkansa kuin nykyään --koska sen tyhmän maajussin pitää siinä vaiheessa huoltaa ja ylläpitää omaa ruokatehdastaan."
 
-21 *suuryritysten maatalous*
+4.21 *suuryritysten maatalous*
 Tilojen koko tulee varmasti kasvamaan, mutta Suomessa maatalousmaan hajanaisuus rajoittaa yksittäisten tilojen kasvua tietyn rajan yli.
 
 H4.22 Hajautetut suuret tilat eivät tuskin olisi kannattavia. 
+
+---
 
 H4.23 *tutkimus, uhat*
 Tutkimme juuri nyt maatalouden tietoturvaa ja ylipäätänsä laitteistojärjestelmien kyberturvallisuutta, joka tulee olemaan maatiloilla kasvava ongelma.

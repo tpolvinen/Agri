@@ -957,8 +957,24 @@ Uusi <03-07-2018  10:48>
 
 # Affiniteettianalyysi
 
-Ilmeisesti haastattelutekstistä (litterointi, puhtaaksikirjoitettu muistiinpano vai luonnoksen teksti?) poimitaan aiheet sellaisinaan, merkitään mistä haastattelusta ne ovat ja kerätään omiin aiheiden ryhmiinsä.
-Näin:
+<03-07-2018  19:04>
+Litterointitekniikoista:
+Ovatko litteroinnit sanatarkkoja vai yleiskielisiä? Tuntuu, että ne ovat jotain siltä väliltä.
+Puhtaaksikirjoitetut haastattelutekstit taitavat sitten olla propositiotason litterointeja?
+
+Kirjasta Opinnäytetyön kirjoittamisen käytännön opas:
+	Litterointi kysymyksineen kaikkineen.
+	Asiakokonaisuudet erilleen enterillä segmenteiksi (asiasegmentti).
+	Segmentit taulukkoon, oikealle puolelle lisätään ns. koodisarake.
+	koodisarakkeeseen merkitään yhdellä sanalla asiasegmentin sisältö. Eli koodataan segmentin sisältö.
+	Koodisarakkeita lisätään sitä mukaa kun tarvetta ilmenee, esim. kolme tai neljä.
+	Kuhunkin koodisarakkeeseen merkitään koodiksi ylemmän tason käsite.
+	Tässä tapauksessa käytetään lähtökohtana puhtaasti aineistolähtöistä koodausta ja kehitetään oma koodausluokitus.
+	Koodien yhteydet ja niiden rakenne tulkitaan oman luovuuden avulla. :D
+
+Haastattelutekstistä (puhtaaksikirjoitetut haastattelutekstit, joiden tukena haastatteluäänitteiden litteroinnit) poimitaan aiheet sellaisinaan, merkitään mistä haastattelusta ne ovat ja kerätään omiin aiheiden ryhmiinsä.
+
+Malleissa on affiniteettianalyysi tehty näin:
 	Kukin teksti summeerataan kirjoittamalla se parafraasina typistetyksi lauseeksi.
 	Toisiinsa liittyvät summeeraukset (teksteineen) kootaan ryhmäksi eli teemaksi.
 	Teemalle annetaan nimi ryhmän havaitun teeman mukaan. Tämä on 1. tason teema.
@@ -967,8 +983,12 @@ Näin:
 	Kootaan kaikki teemat yhden geneerisen teeman alle. Geneerinen teema on kaikkia teemoja havaitusti yhdistävä teema.
 
 Kokeillaan kuitenkin ensin kevyempää metodia:
-	Ei käytetä aikaisempia tietoja kategorioista, haastatteluteemoista tai kirjallisuuskatsauksista. Teemojen tulee nousta materiaalista omin voimin havaintojen perusteella.
-	Käydään läpi materiaali, josta kirjataan ylös teemat lyhyinä merkintöinä (alle 100 merkkiä = post-it-lappu). Samalla teeman alle kirjataan haastatelun kappale, missä se esiintyi.
+	Ei käytetä aikaisempia tietoja kategorioista, haastatteluteemoista tai kirjallisuuskatsauksista. Teemojen tulee nousta materiaalista "omin voimin" havaintojen perusteella.
+	Käydään läpi haastattelut järjestyksessä ja kirjataan ylös teemat asiasanoina taulukkoon. Samalla teeman riville kirjataan haastatelun kappale, missä se esiintyi.
+	Käydään läpi haastatelut päinvastaisessa järjestyksessä. Samalla koostetaan teemoja kategorioihin havaintojen mukaan.
+	...
+	Lopuksi koostetaan tieto tavalla, joka käy järkeen oman tutkimuksen tavoitteiden viitekehyksessä. Katsotaan miten käy. :)
+
 
 ## Metodihaku
 
@@ -1018,16 +1038,23 @@ Haettu Google-haulla (google.fi) <28-06-2018  18:36> affiniteettianalyysin käyt
 			(koska markkinoinnin sisältämät hakutulokset olivat lähes kokonaan ostoskorianalyyseihin liittyviä hakutuloksia)
 		Löydetty:
 			Using Affinity Diagrams to Evaluate Interactive Prototypes
-			[https://mycourses.aalto.fi/pluginfile.php/615047/mod_folder/intro/A2_Lucero_affinity%20diagrams.pdf]
-			"Rather than grouping notes in predefined categories, affinity diagrams are built from the bottom up."
-			"Despite the seemingly structured way of analyzing the interaction observations, when going through the second part of the data (i.e., the semi-structured interview questions) we avoid as much as possible using the interview questions to structure the data. Instead, we let overarching topics naturally emerge from the data."
-
+				[https://mycourses.aalto.fi/pluginfile.php/615047/mod_folder/intro/A2_Lucero_affinity%20diagrams.pdf]
+				"Rather than grouping notes in predefined categories, affinity diagrams are built from the bottom up."
+				"Despite the seemingly structured way of analyzing the interaction observations, when going through the second part of the data (i.e., the semi-structured interview questions) we avoid as much as possible using the interview questions to structure the data. Instead, we let overarching topics naturally emerge from the data."
 			Build an affinity diagram
-			[https://openclassrooms.com/courses/4555276-conduct-design-and-user-research/4788956-build-an-affinity-diagram]
-			"The goal of affinity diagrams is NOT to go in with pre-existing ideas and assumptions. Your role is to consider the data with a critical eye and break it down and put it together in ways that make sense for your research goals."
-			"One way to approach affinity diagrams is by using a spreadsheet. It means that all the information will be in one place and is wherever you are. You can assign each person to a column, and include questions, quotes, and observations in the rows. "
+				[https://openclassrooms.com/courses/4555276-conduct-design-and-user-research/4788956-build-an-affinity-diagram]
+				"The goal of affinity diagrams is NOT to go in with pre-existing ideas and assumptions. Your role is to consider the data with a critical eye and break it down and put it together in ways that make sense for your research goals."
+				"One way to approach affinity diagrams is by using a spreadsheet. It means that all the information will be in one place and is wherever you are. You can assign each person to a column, and include questions, quotes, and observations in the rows. "
 
-
+Haettu Google-haulla (google.fi) 
+	Hakulause:
+		grounded theory analyysi
+	Löydetty:
+		Ankkuroitu teoria eli grounded theory
+			Etusivu / Avoimet / Humanistis-yhteiskuntatieteellinen tiedekunta / Menetelmäpolkuja humanisteille / Menetelmäpolku / Aineiston analyysimenetelmät / Ankkuroitu teoria eli grounded theory
+			[https://koppa.jyu.fi/avoimet/hum/menetelmapolkuja/menetelmapolku/aineiston-analyysimenetelmat/ankkuroitu-teoria-eli-grounded-theory]
+			Ankkuroitu teoria on laadullinen tutkimusmenetelmä.
+			"Ankkuroidun teorian käsitettä käytetään paikoin väljästi kuvaamaan aineistolähtöistä tutkimusta. Toisaalta käsitteellä voidaan tarkoittaa tarkasti ankkuroidun teorian analyysimenetelmiin kiinnittyvää tutkimusta. Analyysissa kohteeseen liittyvää dataa pyritään käsitteellistämään ja luomaan suhteita dataan liittyvien käsitteiden välille. Analyysissa hyödynnetään menetelmään kuuluvia koodauskäytäntöjä ja käsitteitä."
 
 
 

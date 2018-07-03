@@ -75,7 +75,7 @@ Kirjallisuuskatsauksessa käsitellyistä tutkimuksissa AIoT:tä käytetään eni
 
 @verdouwInternetThingsAgriculture2016a
 
-# TUTKIMUS
+# TUTKIMUSPROSESSI
 
 ## Meta (poistettava otsikko)
 Tässä luvussa pyritään kuvailemaan toteutetun tutkimuksen tavoitteet, menetelmät ja eteneminen.
@@ -86,10 +86,17 @@ Tässä luvussa pyritään kuvailemaan toteutetun tutkimuksen tavoitteet, menete
 ## MAHD. Teemahaastattelu
 *Tarvitaanko tähän yleistä kuvailua teemahaastatteluista tutkimusotteena?*
 
+## MAHD. Affiniteettianalyysi tai Ankkuroitu teoria
+*Tarvitaanko tähän yleistä kuvailua affiniteettianalyysistä tai ankkuroidusta teoriasta tutkimusotteena?*
+
 ## Tutkimuksen tavoitteet
 
 
 ## Aineisto ja (tutkimus)menetelmät
+
+### Asiantuntijoiden teemahaastattelut
+
+## Aineiston analyysiprosessi
 
 
 # TUTKIMUSTULOKSET
@@ -110,7 +117,7 @@ Muiden katsausten, koosteiden ja vastaavien julkaisujen tuloksia, havaintoja ja 
 
 ## Haastattelujen tulokset
 
-### Affiniteettianalyysi
+### Affiniteettianalyysi -- tai analyysi ankkuroidun teorian mukaan?
 
 *Olisi tyylikästä, jos kaikki IoT-ketjun osa-alueet tulisivat tasaisesti esille, mutta epätasaisuus saattaa viitata AIoT-sovellusten keskeneräiseen kypsyyteen, omaksumiseen, käytettävyyteen jne.*
 
