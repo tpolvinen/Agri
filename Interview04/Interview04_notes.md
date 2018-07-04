@@ -108,8 +108,6 @@ Tilojen koko tulee varmasti kasvamaan, mutta Suomessa maatalousmaan hajanaisuus 
 
 H4.22 Hajautetut suuret tilat eivät tuskin olisi kannattavia. 
 
----
-
 H4.23 *tutkimus, uhat*
 Tutkimme juuri nyt maatalouden tietoturvaa ja ylipäätänsä laitteistojärjestelmien kyberturvallisuutta, joka tulee olemaan maatiloilla kasvava ongelma.
 Myös maatalouden verkkoon kytkettyjä laitteita koskevat samat tietoturvauhat kuin muitakin intertetiin kytkettyjä teollisia järjestelmiä.
