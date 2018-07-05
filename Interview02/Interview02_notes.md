@@ -14,13 +14,13 @@ arvoketju
 
 *1705 sanaa, 47 kappaletta, keskiarvoisesti noin 36 sanaa per kappale.*
 
-1 Kasvintuotannossa ei olla ottamassa ihmistä pois päätöksenteosta, missään vaiheessa. Koneilla voidaan kyllä avustaa ja antaa mahdollisuus kanavoida resursseja paremmin.
+2.1 Kasvintuotannossa ei olla ottamassa ihmistä pois päätöksenteosta, missään vaiheessa. Koneilla voidaan kyllä avustaa ja antaa mahdollisuus kanavoida resursseja paremmin.
 
-2 Pitkän aikavälin kehityksessä voidaan päästä siihen, että järjestelmä voisi koneoppimista hyödyntämällä antaa suosituksia viljelypäätösten tueksi.
+2.2 Pitkän aikavälin kehityksessä voidaan päästä siihen, että järjestelmä voisi koneoppimista hyödyntämällä antaa suosituksia viljelypäätösten tueksi.
 
-3 Kasviravitsemuksen kannalta ajatellen tällä hetkellä suositukset, neuvot ja soveltamisen tekee vielä ihminen. Tällä hetkellä koneet pystyvät Kasviravitsemuksessa/kasvituotannossa (?) yksinkertaisiin kuvantamistoimintoihin, mutta vielä ei ole mallinnettu kaikkiin olosuhteiin sopivia malleja joita käyttäen kone voisi avustaa ihmistä päätöksenteossa.
+2.3 Kasviravitsemuksen kannalta ajatellen tällä hetkellä suositukset, neuvot ja soveltamisen tekee vielä ihminen. Tällä hetkellä koneet pystyvät Kasviravitsemuksessa/kasvituotannossa (?) yksinkertaisiin kuvantamistoimintoihin, mutta vielä ei ole mallinnettu kaikkiin olosuhteiin sopivia malleja joita käyttäen kone voisi avustaa ihmistä päätöksenteossa.
 
-4 Kun joka olosuhteisiin sopivia mallinnuksia pystytään tekemään, voitaisiin tehdä tilakohtaisia räätälöityjä suosituksia ja järjestelmä voisi oppia mitä tilalla tapahtuu.
+2.4 Kun joka olosuhteisiin sopivia mallinnuksia pystytään tekemään, voitaisiin tehdä tilakohtaisia räätälöityjä suosituksia ja järjestelmä voisi oppia mitä tilalla tapahtuu.
 
 H2.5 Peltokasvintuotannon tavoitetila mihin pyritään on monien teknisten rajoitteiden takana. Dataa pystytään keräämään suuria määriä, mutta sen siirtämiseen ei ole infrastuktuuria.
 Oman ymmärrykseni mukaan reaaliaikainen järjestelmien välinen (pellolta kerätyn) datan siirto ei suuren datamäärän takia vielä ole teknisesti mahdollista.
@@ -38,7 +38,7 @@ H2.8 Järjestelmien rajapinnat, integraatiot ja datavirtojen standardointi on vi
 
 H2.9 Laajamittainen yhteen toimivien järjestelmien käyttöönotto on riippuvainen alustojen kehityksestä ja saatavuudesta. Jos alustoja järjestelmien yhteistoiminnalle kehitetään ja tuodaan saataville niin niitä otetaan käyttöön.
 
-10 Sensoriteknologia on jo olemassa. Langatonta tietoliikennettä laitteilta ja koneilta eteenpäin voi myös korvata siirrettävillä muistivälineillä, kuten on tehty tähän asti.
+2.10 Sensoriteknologia on jo olemassa. Langatonta tietoliikennettä laitteilta ja koneilta eteenpäin voi myös korvata siirrettävillä muistivälineillä, kuten on tehty tähän asti.
 
 H2.11 Tavoitetila on kuitenkin ihmisen toteuttamien työvaiheiden vähentäminen tietojenkäsittelyssä, mutta en osaa sanoa millä aikavälillä täysin automatisoitu järjestelmä tulee yleiseen käyttöön. Sellaisen toteutus on ilmeisesti lähellä.
 
@@ -68,13 +68,13 @@ Kasvinviljelyssä on mahdollista kuvantaa erilaisia spektrejä ja saada tuloksen
 
 H2.19 Johtopäätöksien tekeminen vaatii taustatyötä, mikä on vaikka N-sensorin tapauksessa muun muassa typpi- ja vaihtelualgoritmien kehittäminen. Ne perustuvat koetoimintaan, johon perustuvat johtopäätökset ja suositukset ovat testattuja.
 
-20 Yaran N-sensoria voidaan käyttää typen levittämiseen ja sen avulla saavutetaan tuloksia viljelyn kannattavuuteen, mutta vain jos viljelyn perusasiat ovat kunnossa. Hienokaan laite ei voi korjata puutteita viljelyn perusasioissa.
+2.20 Yaran N-sensoria voidaan käyttää typen levittämiseen ja sen avulla saavutetaan tuloksia viljelyn kannattavuuteen, mutta vain jos viljelyn perusasiat ovat kunnossa. Hienokaan laite ei voi korjata puutteita viljelyn perusasioissa.
 Viljelyn perusasioiden parantamisen tukena on Yaran verkkosivuilla muun muassa laskureita.
 Koska kasvit ovat elävä organismi ja niitä pystytään mallintamaan vain rajallisesti, on hyvin tärkeää harkita tarkkaan mitä toimintoja ja päätöksiä prosesseista voidaan antaa koneiden tehtäviksi. Lisäksi viljelijän päätöksenteon tukena toimii parhaiten toinen ihminen.
 
-21 Tuotteiden ja teknologioiden käyttöönoton levinneisyyden ratkaisee lopulta kokeilut käytännössä. Toimimattomat ratkaisut hylätään.
+2.21 Tuotteiden ja teknologioiden käyttöönoton levinneisyyden ratkaisee lopulta kokeilut käytännössä. Toimimattomat ratkaisut hylätään.
 
-22 Suositusten väärinymmärryksen riski vältetään Yaran N-sensorin tapauksessa yksinkertaisella käyttöliittymällä, joka näyttää mitatun lannoitetarpeen typpikiloa per hehtaari -lukemana. Tällöin tiedon tulva ei näy käyttäjälle eikä viljelijällä ole tarvetta tutkia taustalla olevaa dataa, indeksejä ja algoritmeja. Näytettävästä tiedosta tulee tehdä ymmärrettävää ja väärinymmärryksestä johtuvasta ylireagoinnista ei ole vaaraa.
+2.22 Suositusten väärinymmärryksen riski vältetään Yaran N-sensorin tapauksessa yksinkertaisella käyttöliittymällä, joka näyttää mitatun lannoitetarpeen typpikiloa per hehtaari -lukemana. Tällöin tiedon tulva ei näy käyttäjälle eikä viljelijällä ole tarvetta tutkia taustalla olevaa dataa, indeksejä ja algoritmeja. Näytettävästä tiedosta tulee tehdä ymmärrettävää ja väärinymmärryksestä johtuvasta ylireagoinnista ei ole vaaraa.
 Jos tiedetään miten eri tuotantopanokset vaikuttavat esimerkiksi satoon, voidaan arvioida laskennallisesti satopotentiaali ja satovaste. Näiden perusteella voidaan arvioida lisälannoituksen tarve tiettynä ajankohtana ja millainen satotappio voidaan kärsiä jos lisälannoitusta ei tehdä.
 
 H2.23 Sensoriteknologia antaa mahdollisuuksia ulosmitata lohkolta saatavan satovasteen potentiaali tasaisesti. Tämä on menossa eteenpäin viljelijöiden keskuudessa.
@@ -141,4 +141,4 @@ H2.45 Suuren datamäärän analysointi ja muuttaminen ohjelmistokäskyksi jollai
 H2.46 Tilakoot ovat kasvamassa ja rakennemuutos on menossa yhä suurempien tilakokojen suuntaan. Tullaan näkemään ajosuunnittelun ja urakointipalveluiden käytön yleistymistä.
 Suomelle tyypilliset pirstaleiset lohkot antavat meille syitä kehittää tehokkuutta parantavia ratkaisuita, jotta voimme pysyä muun maailman tahdissa mukana.
 
-47 Jos ei mene eteenpäin niin taantuu, paikallaan pysymällä.
+2.47 Jos ei mene eteenpäin niin taantuu, paikallaan pysymällä.
