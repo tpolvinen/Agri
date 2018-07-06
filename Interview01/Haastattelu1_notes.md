@@ -17,8 +17,8 @@ H1.5 On tärkeää huomata, että tehdasmaisessa toimintaympäristössä yksi to
 
 H1.6 Järjestelmän hankkineen käyttäjän on aikaisemmin ollut vaikeaa saada tietoa omistamansa järjestelmän tuottamasta datasta, samoin tuotetun datan saanti omaa analyysiä varten on ollut vaikeaa. Jokin aika sitten oli käyttäjälle yleisesti mahdollista saada vain joitain valmistajan ennalta määrittelemiä graafeja, mutta nyt on enenevissä määrin tullut mahdolliseksi ladata tietoja esimerkiksi Excel-formaateissa. Yleisesti ollaan vielä kaukana siitä, että käyttäjä voisi saada järjestelmiensä tuottamaa dataa haluamassaan formaatissa tai ladata sitä itselleen suoraan rajapinnasta vaikka itselleen räätälöityyn järjestelmään. Samoin ollaa kaukana siitä, että käyttäjä pystyisi määräämään, että hänen omistamansa järjestelmän tuottama data siirrettäisiin vaikka kilpailijan vastaavaan järjestelmään. Tällä hetkellä järjestelmistä saadaan lähinnä monitorointitietoa tuotantotoiminnan tehostamista ja vahinkojen välttämistä varten, mitkä ovat järjestelmien yleisimmät hankintaperusteet ja myyntiargumentit. Käyttäjät ovat kuitenkin edelleen yhden toimittajan loukussa. Tämä on teollisuusautomaatiossa ollut täysin käypä ratkaisumalli koska yksi toimittaja tai vain muutaman toimittajan yhteenliittymä on voinut tuottaa kokonaisvaltaisen järjestelmäratkaisun, jonka avulla asiakas on voinut hallita koko tuotantoprosessinsa.
 
-H1.7 Pääasiallinen ongelma peltoviljelyssä on, että yksittäinen toimija ei pysty toteuttamaan kokonaisvaltaista järjestelmää jolla peltoviljelyn toimintaympäristöä voitaisiin hallita. Peltoviljelylle tyypillisessä hajanaisessa käyttöympäristössä on käytössä eri valmistajien hyvin erilaisia ja pitkälle erikoistuneita laitteita. Tämän takia kokonaisvaltaisia peltoviljelyn järjestelmäratkaisuita on tuotettu niin sanottuihin full-liner -käyttöympäristöihin, joissa kaikki maatilan traktorit implementteineen/työkoneineen, puimurit ja muut koneet ja laitteet ovat saman valmistajan tuotteita. Tällaisen järjestelmän hankkineen viljelijän toiminta tapahtuu kokonaisuudessaan yhden valmistajan suljetussa ympäristössä, missä valmistaja on voinut varmistaa laitteiden yhteensopivuuden ja datan liikkuvuuden. Näin voidaan mahdollistaa viljelyprosessien kehittäminen ja sen myötä tehokkas täsmäviljely.
----
+H1.7 Pääasiallinen ongelma peltoviljelyssä on, että yksittäinen toimija ei pysty toteuttamaan kokonaisvaltaista järjestelmää jolla peltoviljelyn toimintaympäristöä voitaisiin hallita. Peltoviljelylle tyypillisessä hajanaisessa käyttöympäristössä on käytössä eri valmistajien hyvin erilaisia ja pitkälle erikoistuneita laitteita. Tämän takia kokonaisvaltaisia peltoviljelyn järjestelmäratkaisuita on tuotettu niin sanottuihin full-liner -käyttöympäristöihin, joissa kaikki maatilan traktorit implementteineen/työkoneineen, puimurit ja muut koneet ja laitteet ovat saman valmistajan tuotteita. Tällaisen järjestelmän hankkineen viljelijän toiminta tapahtuu kokonaisuudessaan yhden valmistajan suljetussa ympäristössä, missä valmistaja on voinut varmistaa laitteiden yhteensopivuuden ja datan liikkuvuuden. Näin voidaan mahdollistaa viljelyprosessien kehittäminen ja sen myötä tehokas täsmäviljely.
+
 H1.8 Full-liner -järjestelmät ovat hyvin kalliita investointeja joihin on varaa vain hyvin suurilla maatiloilla, minkä takia kokonaisvaltaisia peltoviljelyn järjestelmiä on käytössä harvoilla toimijoilla. Lisäksi full-liner -ratkaisut eivät sovi kaikkien käyttöön, esimerkiksi John Deeren valikoimassa ei ole kylvölannoitinta jota käytetään pohjoismaissa. Tällöin pohjoismaiset viljelijät eivät pysty toimimaan John Deeren full-liner -ratkaisun puitteissa, vaan joutuvat hankkimaan käyttöönsä myös muiden valmistajien työkoneita kuten kylvölannoittimen.
 
 H1.9 Useiden eri valmistajien työkoneiden yhteistoiminnan varmistamiseksi on kehitetty ISOBUS-standardi, jonka kehittämistä AEF johtaa erilaisissa työryhmissä. Standardi takaa laitteiden käytännössä muiden standardin mukaisten laitteiden kanssa, mutta siirto työkoneen CAN-väylästä pilvipalveluun tai maatilan datavarastoihin on vielä työn alla. Voi vaikuttaa siltä, että maatalous olisi jäljessä muihin teollisuudenaloihin verrattuna mutta tämä johtuu osin alan pirstaleisuudesta ja ISOBUS-standardin kehittämisessä ollaan pitkään jouduttu keskittymään traktorien ja työkoneiden väliseen kommunikointiin.
@@ -53,7 +53,7 @@ H1.24 Perusautomatiikka on siis jo olemassa mutta systeemiautomaation eteen on t
 
 H1.25 Tehdasutomaatiossa ja kotieläintuotannossa voidaan saada sensoreilta tarpeeksi eheää dataa, jotta sitä voidaan käyttää koneoppimiseen, mutta peltoviljelyssä järjestelmäintegraation kanssa on jouduttu työskentelemään niin pitkään, että vasta nyt eri järjestelmät alkavat toimia yhdessä. Tämän jälkeen voidaan jatkaa kehitystyötä varsinaisen datan käsittelelmisen kanssa kun eheää dataa on saatavilla.
 
-26 OpenAG Data Alliance OADA ratkoo tiedon jakamisen ongelmia ja tuottaa standardeja.
+1.26 OpenAG Data Alliance OADA ratkoo tiedon jakamisen ongelmia ja tuottaa standardeja.
     * Farmer: Currently wrangling a myriad of data and forms, Farmers can join OADA in support gaining greater insight to data securely and efficiently.
     * Academic: Leveraging vast amount of data for research and advancement is a challenge for universities. Learn how OADA can technology can help.
     * Service Provider: Connecting producers, processors, advisors, software and equipment can be challenging.  OADA  helps to securely bridge the gaps.
@@ -78,8 +78,6 @@ Voi tulla teknologioita, jolla asiat voi tehdä helpommin kuin CAN-väylää kä
 H1.32 Standardien mukaiset laitteet ovat tietoturvallisempia teollisuuden kehittäessä myös sitä.
 Teollisuus ymmärtää, että asiakkaat loppuvat jos tietoturvasta ei pidetä huolta.
 Kun standardiin on sitoutunut koko teollisuus ja sitä on kehitetty 20-30 vuotta, niin myös viljelijät voivat siihen sitoutua *ja investoida standardin mukaiseen koneeseen*
-
-[00:49:28]
 
 H1.33 Yleensä maatalousteknologian tutkimuksessa on 15 vuoden aikajänne, ehkä pidempikin.
 Laajaan käytäntöön tulee hitaasti, koska ratkaisujen pitää sopia ja toimia niin monelle.
@@ -111,7 +109,7 @@ H1.36 Peltoviljelyssä ei tehdasmainen automaatioteknologioiden sovellus onnistu
 H1.37 Langattoman viestinnän vaatiman kehitysajan takia peltoviljely on jäljessä. Peltoviljelyssä ei voi vetää kaapeleita koneisiin.
 Peltoviljelyssä mahdollistavat teknologiat ovat olleet mobiiliviestintä, mobiiliautomaatio, GPS, paikkatietojärjestelmät.
 
-38 Suomessa käytössä olevat maatalouden telemetriasovellukset perustuvat puhelinverkkoihin. Toiminnallisuuden takia, koska pellot ovat Suomessa pirstaleisia, pieniä ja hajallaan. Maatilan oman verkon rakentaminen olisi epäkäytännöllistä, mutta pihapiirissä saattaa olla wlan-verkko.
+1.38 Suomessa käytössä olevat maatalouden telemetriasovellukset perustuvat puhelinverkkoihin. Toiminnallisuuden takia, koska pellot ovat Suomessa pirstaleisia, pieniä ja hajallaan. Maatilan oman verkon rakentaminen olisi epäkäytännöllistä, mutta pihapiirissä saattaa olla wlan-verkko.
 
 H1.39 Soilscout oli poikkeuksellinen oman verkkonsa kanssa, mutta sekin tukeutuu matkapuhelinverkkoon jos wlan ei yllä.
 Suomessa ollaan lähtökohtaisesti perustettu telemetriaratkaisut matkapuhelinverkolle.

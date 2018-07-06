@@ -1055,7 +1055,52 @@ Haettu Google-haulla (google.fi)
 			[https://koppa.jyu.fi/avoimet/hum/menetelmapolkuja/menetelmapolku/aineiston-analyysimenetelmat/ankkuroitu-teoria-eli-grounded-theory]
 			Ankkuroitu teoria on laadullinen tutkimusmenetelmä.
 			"Ankkuroidun teorian käsitettä käytetään paikoin väljästi kuvaamaan aineistolähtöistä tutkimusta. Toisaalta käsitteellä voidaan tarkoittaa tarkasti ankkuroidun teorian analyysimenetelmiin kiinnittyvää tutkimusta. Analyysissa kohteeseen liittyvää dataa pyritään käsitteellistämään ja luomaan suhteita dataan liittyvien käsitteiden välille. Analyysissa hyödynnetään menetelmään kuuluvia koodauskäytäntöjä ja käsitteitä."
+		Jonka kautta löytyi
+			Teemoittelu
+				Etusivu / Avoimet / Humanistis-yhteiskuntatieteellinen tiedekunta / Menetelmäpolkuja humanisteille / Menetelmäpolku / Aineiston analyysimenetelmät / Teemoittelu
+				[https://koppa.jyu.fi/avoimet/hum/menetelmapolkuja/menetelmapolku/aineiston-analyysimenetelmat/teemoittelu]
+				"Teemoittelu on laadullisen analyysin perusmenetelmä, jossa tutkimusaineistosta pyritään hahmottaan keskeisiä aihepiirejä eli teemoja."
+				"Teemoiksi voidaan hahmottaa sellaisia aiheita, jotka toistuvat aineistossa muodossa tai toisessa. Teemoittelu analyysimenetelmänä etenee teemojen muodostamisesta ja ryhmittelystä niiden yksityiskohtaisempaan tarkasteluun."
 
+Haettu Google-haulla (google.fi) <06-07-2018  17:59>
+	Hakulause:
+		aksiaalinen koodaus
+	Löydetty:
+		Ylemmän AMK- tutkinnon metodifoorumi: Grounded Theory
+			[http://www2.amk.fi/digma.fi/www.amk.fi/opintojaksot/0709019/1193463890749/1193464144782/1194348654857/1194356926123.html]
+			Hyvä esittely ankkuroidun teorian käytöstä.
+				"Grounded Theoryn analyysi etenee koodaamalla aineiostoa vaiheittain. Analyysin ensimäiseen vaiheseen kuuluu asioiden nimeäminen ja käsitteiden muodostaminen (käsitteellinen koodaus) ja sen toiseen vaiheeseen nimettyjen asioiden yhdistely eli teoreettinen koodaus."
+			"Ensimmäisessä vaiheessa (Theoretical Sampling)"
+				Luetaan ja mietitään helppotajuisia kategorioita.
+				Kerätään, koodataan ja analysoidaan materiaalia. Jatkuva uudelleenarviointi seuraavaksi kerättävän materiaalin hakemiseksi.
+				Käsitteellinen koodi helpottaa mallin etsintää (malli luo merkityksen sisällön asioille). Avain kategorioiden luonnille ja teorian muodostamiselle.
+				"Koodaaminen alkaa ensimmäisen vaiheen aikana avoimella koodauksella (open coding)..."
+				"Käsitteet ryhmitellään kategorioiksi, jotka ovat abstraktimpia kuin ryhmiteltävät käsitteet itsessään ja jokaiselle kategorialle annetaan nimi."
+				"Avoimen koodauksen päätavoitteena on kehittää valikoima sellaisia soveltuvia kategorioita, joista voi edelleen kehittää toimivan teorian."
+			"Toisessa vaiheessa (Theoretical Saturation)"
+				"aineisto jälleen ryhmitellään kategorioihin ja alakategorioihin, mikä tapahtuu lähinnä aksiaalisen koodauksen avulla. Sana "aksiaalinen" eli pituussuuntainen tarkoittaa tekstin läpi ulottuvaa tarkastelua. Kun avoimella koodauksella aineisto oli paloiteltu osiin ja sieltä tunnistettu joitakin kategorioita, ominaisuuksia ja dimensioita, aksiaalisella koodauksella pannaan aineisto uudelleen kasaan etsimällä yhteyksiä kategorioitten välillä. Aksiaalinen koodaus kulkee koko ajan avoimen koodauksen rinnalla. Aksiaalisen koodauksen tarkoituksena on ryhtyä etsimään aineistossa mahdollisesti olevaa yhtä tai useampaa pääkategoriaa."
+				"Aksiaalisen koodauksen päämääränä on myös määritellä kategorioitten ja alakategorioitten väliset suhteet ja luoda näin selkeyttä kehitteillä olevaan käsitejärjestelmään."
+				Kategoria kehitellään "ilmiöiden ominaisuuksia ja dimensioita synnyttävien suhteiden kautta, sen toiminnan ja vuorovaikutuksen kautta, jolla sitä ilmaistaan ja niiden seurauksien kautta, joita siitä syntyy."
+				"Selektiivinen eli valikoiva koodaus alkaa silloin, kun esiin alkaa kohota aineiston keskeinen käsite eli pääkategoria." *Nyt en ole ollenkaan varma tuleeko mennä näin pitkälle opparin puitteissa? <06-07-2018  18:32>* "Silloin ryhdytään koodaamaan niitä tekijöitä, joita voidaan luontevasti liittää tähän pääkategoriaan.Teoretisointi eli käsitteiden yhdistely alkaa pääkategorian selkiytymisvaiheessa."
+				"Joskus kannattaa käyttää apuna hierarkkisesti tai mind map -tyyppisesti rakentuvia ketjuja, joiden avulla voi visualisoida kategorioitten muodostumista."
+			"Kolmannessa vaiheessa (Verification)"
+				*Olisiko tämä opparin haastisten vertailu k.kats. kanssa? Entä tuo seuraava osa?*
+				"tutkija joko testaa hypoteesejaan (alussa luotuja kategorioita) muuhun aineistoon, vertailuryhmiin tai palaa "kentälle" kerätäkseen lisäaineistoksi ehkä myös negatiivista näyttöä testatakseen ankarasti olettamuksiaan. Koko analyysi eli koodaus tapahtuu jatkuvan vertailun menetelmällä."
+				"Käsitteet, joita vertailtaessa syntyy, kirjataan sellaisinaan ja myöhemmin ryhmitellään edellä kuvattuun tapaan. Tällainen vertailu auttaa myös saavuttamaan paremman tarkkuusasteen ja yhtäpitävyyden. Koodauksessa induktiivinen (yksittäisestä yleiseen) ja deduktiivinen (yleisestä yksittäiseen) ajattelu vuorottelevat"
+			"Neljännessä vaiheessa alkaa teorian tuottaminen (Grounding the Theory)."
+				*Neljäs vaihe saattaisi olla opparin osa, jossa vedetään yhteen k.kats. ja haastisten tiedot dialogiin keskenään?*
+				"Siinä valikoivan koodauksen avulla kategoriat integroidaan muodostamaan perusteltu teoria eli kaikki kategoriat yhdistellään avainkategorian ympärille. Tässä vaiheessa tutkija koettelee muitakin kuin aikaisemmin esille kohonneita teorioita aineistonsa selittämiseksi ja perustelee sen valinnan, jonka hän tekee."
+			"Viimeisessä eli viidennessä vaiheessa (Reporting)"
+				"tutkija joko kirjoittaa raportin tai tutkii edelleen erilaisten muotojen välisiä yhteyksiä. Tutkimusaineisto toimii lähinnä johtopäätösten teon todisteena kuvaillen, kuinka tutkija saavutti teorian aineiston perusteella."
+
+Haettu Google-haulla (google.fi) <06-07-2018  17:59>
+	Hakulause:
+		r interview theme frequency code analysis
+	Löydetty:
+		Coding Part 2: Thematic coding - Graham R Gibbs 2011
+			[https://www.youtube.com/watch?v=B_YXR9kp1_o]
+		The Coding Manual for Qualitative Researchers: An Introduction to Codes and Coding
+			[https://www.sagepub.com/sites/default/files/upm-binaries/24614_01_Saldana_Ch_01.pdf]
 
 
 

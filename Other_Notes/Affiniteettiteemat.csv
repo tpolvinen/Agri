@@ -1,40 +1,43 @@
 Teema, Muistiinpanokappaleet
 
-AEF, 4.7
+
 Agrineuvos, 4.5, 4.7
 Aidot IoT-järjestelmät laitteet, 1.20, 2.11, 3.20, 3.21, 3.22, 3.35, 3.36, 5.2, 5.9, ???
-Analytiikka, 1.24, 1.30, 2.18, 2.22, 2.31, 2.45, 3.12, 5.3, 5.4, 5.9, 5.14, ???
+Analytiikka, 1.20, 1.24, 1.30, 1.39, 2.18, 2.22, 2.31, 2.45, 3.12, 5.3, 5.4, 5.9, 5.14, ???
 Analytiikka Viljelijän Maatilan oma räätälöity, 1.6, 2.4, 5.4
-Analytiikka palvelut, 3.12, 3.17, 4.2, 5.4, 5.9
+Analytiikka palvelut, 1.20, 1.39, 3.12, 3.17, 4.2, 5.4, 5.9
 Automaattinen/automatisoitu viljelyyn vaikuttaminen, 1.20, 4.3, ???
 Automaattiset huoltokutsut, 1.4
 Avoin lähdekoodi, 3.31
 Data Metadata, 3.7
-Datan integraatio, 1.25, 2.5, 2.14, 2.43, 3.8, 4.1, 4.6, 4.20, 5.3, 5.5, 5.9, ?1&3
-Datan julkaisu ja jakaminen, 2.6, 2.41, 2.42, 3.17, 4.12
+Datan integraatio, 1.20, 1.25, 2.5, 2.14, 2.43, 3.8, 4.1, 4.6, 4.20, 5.3, 5.5, 5.9, ?1&3
+Datan julkaisu ja jakaminen, 1.16, 2.6, 2.41, 2.42, 3.17, 4.12
 Datan laatu ja laatuhaasteet, 1.25, 2.18, 4.10
 Datan merkitys, 2.17, 2.29, 2.40, ???
 Datan oikea-aikainen esitys käyttäjälle, 5.4
 Datan omistajuus, 1.30, 2.12, 4.9, 5.4
-Datan osto ja myynti, 2.41, 3.18, ???
+Datan osto ja myynti, 1.16, 2.41, 3.18, ???
 Datan saatavuus, 1.6, 2.13, 4.9
 Datan siirreltävyys, 1.6, 2.8, 2.13, 2.42, 3.15, 4.5, 4.10, 5.9
-Datan tuottama lisäarvo, 3.18, ???
+Datan tuottama lisäarvo, 1.16, 1.17, 3.18, ???
 Dataperustainen laatuhinnoittelu, 1.43, 1.44, 1.45
 Dataperustainen poliittinen päätöksenteko, 5.14, 5.15
 Digitaalinen mitattu tieto, 1.48, 2.18, ???, ?3
-Digitalisaatio, 1.1, 1.34, 1.42, 1.47, 1.49, 2.6, 4.1, 4.8, 5.1, 5.12, 5.13, 5.14, 5.15, 5.17, ?3
+Digitalisaatio, 1.1, 1.30, 1.33, 1.34, 1.42, 1.47, 1.48, 1.49, 2.6, 4.1, 4.8, 5.1, 5.12, 5.13, 5.14, 5.15, 5.17, ?3
 Digitalisaatio Riskit, 4.4, 4.8, 4.23, 4.24, 4.25, 5.12, ???
 EU-maataloustuki, 1.33, 3.40, 3.43
 Elinkaari, 1.31, 3.5, 3.29, 3.30, 4.24, 4.25
 Erilaiset ratkaisut tilakoon mukaan, 2.30, 2.37
+Etätuki, 1.4
 Full-liner, 1.7, 1.8, 1.11, 1.15, 4.6
 Historiatiedot, 2.27, 2.33, 2.38, 5.1, ???
 Ihminen datan tulkitsijana/päätöksentekijänä, 2.1, 2.3, 2.11, 2.20, 2.40, 4.3, 4.4
 Ilmastonmuutoksen uhat, 1.33, 2.34 ???
 Investointien laskentaan ei ole tietoa, 1.19
 Järjestelmäintegraatio, 1.25, 2.5, 2.6, 2.7, 2.8, 2.9, 2.13, 2.31, 2,43, 4.1, 4.3, 4.20, 4.27, 5.5, 5.9, 5.18, ?3
-Kannattavuus, 1.48, 2.20, 2.26, 2.29, 2.34, 2.36, 4.8, 4.19, 5.1, 5.14, ?4
+Järjestö AEF, 1.9, 4.7
+Järjestö OADA OpenAG Data Alliance, 1.26
+Kannattavuus, 1.19, 1.48, 2.20, 2.26, 2.29, 2.34, 2.36, 4.8, 4.19, 5.1, 5.14, ?4
 Karttatiedostot, 2.14, 2.39
 Kasvihuoneautomaatio, 1.3, 1.4, 1.36, 4.17, 4.19
 Kasvitehtaat Monikerrosviljely, 1.4, 4.17, ???
@@ -49,25 +52,25 @@ Käyttöjärjestelmät, 3.29
 Käyttöliittymä Viljelijän oma räätälöity, 5.9
 Käyttöliittymät, 2.17, 2.22, 2.31, 5.1, 5.4, 5.9
 Käyttötarpeiden suuri kirjo, 1.15, 5.2, ???
-Laatuerien tunnistaminen, 1.28, 1.43, 1.44, 1.45
+Laatuerien tunnistaminen, 1.28, 1.43, 1.44, 1.45, 1.46
 Laitevalmistajien yhteistyö, 1.14, 3.47, 5.10, ???
 Laitteet Hintojen halpeneminen, 3.38, 3.45, 3.46, 3.47
-Laitteet Integraatio laitteiden yhteensopivuus , 1.7, 2.6, 3.4, 4.2, 4.5, 4.6, 5.1, 5.3, 5.13, 5.18
-Laitteet Laitteiston ROI, 1.10, 1.11, 1.23, 2.15, 2.36, 3.43, 4.8
-Laitteet Operatiivinen laitteiden älykkyys, 1.22, 2.3, ???
+Laitteet Integraatio laitteiden yhteensopivuus, 1.7, 1.9, 1.25, 2.6, 3.4, 4.2, 4.5, 4.6, 5.1, 5.3, 5.13, 5.18
+Laitteet Laitteiston ROI, 1.10, 1.11, 1.19, 1.23, 1.29, 2.15, 2.36, 3.43, 4.8
 Laitteet Toimintavarmuus, 3.29, 4.25
 Laitteet UA-laitteet, 1.39, 2.39, 3.13, 3.14, 4.10, 4.11
 Laitteet Vaatimukset maataloudessa, 3.29, 4.25
+Laitteet Älykkäät Operatiivinen laitteiden älykkyys, 1.22, 1.34, 1.35, 2.3, ???
 Lannoitus Lannoitepanokset, 2.27, 4.29
 Lannoitus Ravinteet Syötteet, 3.12, 4.28
 Liiketoiminnan ekosysteemi, 1.14, 2.44, ???
 Liiketoimintamainen toiminta, 1.29, 2.30, ???
-Lisäarvo tuotteelle, 1.33, ???
+Lisäarvo tuotteelle, 1.17, 1.33, ???
 Luomu, 4.14
-Maatalouden yleiskuva, 2.31, ???
-Maatilojen yksilöllisyys, 1.2, 2.30, 5.8
+Maatalouden toiminnan yleiskuva, 2.31, ???
+Maatalouden toimintaympäristön hajanaisuus Pirstaleinen kenttä, 1.1, 1.2, 1.9, 1.14, 3.1, 4.1, 4.2, 4.3, 5.19
+Maatilojen yksilöllisyys, 1.2, 1.8, 2.30, 5.8
 Mallinnus, 2.3, 2.4, 2.20
-Matkapuhelinverkot, 1.38, 1.39, 3.15
 Mobiilisovellukset, 5.1
 Ohjelmistojen tekijänoikeudet, 3.30, 3.31
 Ohjelmistopäivitykset, 3.31
@@ -75,21 +78,20 @@ Ohjelmistotuotannon ala, 3.31, 3.33
 Olosuhteiden vaihtelut, 2.27, 2.28, 2.29, ???
 Ortomosaiikkikartta, 4.10, 4.11, ?muut kartat
 Perustellut investoinnit, 1.29, 1.30, 1.35, 2.34
-Pilvipalvelut, 1.12, 1.15, 1.16, 4.9, 4.24, ???
-Pirstaleinen kenttä, 1.1, 1.2, 1.9, 1.14, 3.1, 5.19, ???
+Pilvipalvelut, 1.9, 1.12, 1.15, 1.16, 1.26, 1.27, 4.9, 4.24, ???
 Prototyypit, 3.32
-Päätöksentekon avustaminen, 1.24, 1.48, 2.1, 2.2, 2.3, 2.17, 2.18, 2.20, 2.31, 2.33, 3.19, 4.3, 5.1, 5.2, 5.3, 5.4, 5.12
+Päätöksentekon avustaminen, 1.24, 1.48, 1.49, 2.1, 2.2, 2.3, 2.17, 2.18, 2.20, 2.31, 2.33, 3.19, 4.3, 5.1, 5.2, 5.3, 5.4, 5.12
 Rajapinnat, 1.6, 2.7, 2.8, 2.42, 4.12, 5.9
 Ratkaisu 365FarmNet, 2.7
 Ratkaisu Agrirouter, 5.5, 5.7, 5.8, 5.9
 Ratkaisu Agrismart (Agrineuvos), 4.5
-Ratkaisu Farmersbusinessnetwork.com, 1.26, 1.27
+Ratkaisu Farmersbusinessnetwork.com, 1.16, 1.26, 1.27
 Ratkaisu Farmidiili, 1.27
-Ratkaisu Farmobile.com, 1.26, 1.27
+Ratkaisu Farmobile.com, 1.16, 1.26, 1.27
 Ratkaisu MyYara -viljelijäportaaliohjelmisto, 2.6
 Ratkaisu VTT Owela, 1.42
 Ratkaisu Valtra Smart (?), 3.21
-Ratkaisu Yara N-sensor, 1.20, 2.14, 2.16, 2.19, 2.20, 2.22, 2.34, 3.11
+Ratkaisu Yara N-sensor, 2.14, 2.16, 2.19, 2.20, 2.22, 2.34, 3.11
 Ruokaturva, 1.47, 2.33, 3.39, 5.14
 SMS-viestit, 3.26, 3.27, 3.28
 Satelliitti (data/kuvaus), 2.13, 2.39, 3.12
@@ -101,78 +103,82 @@ Sensoridata, 1.6, 1.20, 1.22, 1.25, 2.18, 2.31, 2.39, 3.2, 3.35, 5.3, ???
 Sensoriteknologia, 1.4, 2.10, 2.14, 2.23, 2.31, 2.39, 3.3, 3.22, 3.23, 3.35, 3.36, 3.37, 4.2
 Sensoriverkot, 3.35, 3.42, 4.2
 Sertifikaatit, 4.14
-Siirtymä datan käyttöön, 1.33, ???
 Siirrettävät muistivälineet, 2.10
+Siirtymä datan käyttöön, 1.30, 1.33, ???
 Smart Farming, 1.34, 1.47
 Sovelluskirjo, 4.13, 4.27
-Standardit Avoimet, 1.14, 1.30, 1.32, 4.7, ???
-Standardit ISOBUS, 1.9, 3.4, 3.7, 3.8, 3.10, 3.44, 3.45, 3.46, 3.48, 4.5, 4.7, 5.5, 5.9, 5.10
-Standardit Muut, 2.44, 3.4, 3.5, 
+Standardit Avoimet, 1.14, 1.15, 1.26, 1.30, 1.32, 4.7, ???
+Standardit ISOBUS, 1.9, 1.31, 3.4, 3.7, 3.8, 3.10, 3.44, 3.45, 3.46, 3.48, 4.5, 4.7, 5.5, 5.9, 5.10
+Standardit Muut, 1.13, 1.14, 1.31, 1.32, 2.44, 3.4, 3.5, 
 Suomalaisen viljely-ympäristön erityispiirteet, 1.38, 1.40, 1.41, 2.37, 2.46, 3.12, 3.42, 4.21, 4.22, 5.12, ???
 Systeemiautomaatio, 1.24, ???
 Sääasemat, 3.20, 3.42
 Tehostaminen Koneiden käyttö, 5.12
 Tehostaminen Logistiikka, 5.12, ???
 Tehostaminen Maatilan toiminnassa yleisesti, 2.1, 2.46, 4.2
+Tehostaminen Resurssien käyttö, 1.10, ???
 Tehostaminen Työn helpottaminen, 1.11, 5.2, 5.3, 5.12, 5.14, ???
-Tehostaminen Viljelyprosessien (tuotanto-) optimointi/automatisointi, 1.11, 1.28, 1.33, 2.16, 2.20, 2.26, 2.27, 2.33, 3.35, 3.41, 4.3, 4.20, 5.1, 5.4, 5.12, 5.14, 5.16, ?4
+Tehostaminen Viljelyprosessien (tuotanto-) optimointi/automatisointi, 1.11, 1.33, 2.16, 2.20, 2.26, 2.27, 2.33, 3.35, 3.41, 4.3, 4.20, 5.1, 5.4, 5.12, 5.14, 5.16, ?4
 Teknologia Automaattiohjaus, 1.11, 5.16, ???
 Teknologia Autonomiset traktorit ja muut työkoneet, 2.31, 5.16, 5.17, 5.19, ???
-Teknologia Datan alustapalvelu/järjestelmä, 1.16, 1.30, 2.5, 2.9, 2.32, 2.41, 2.42, 2.43, 3.8, 3.17, 3.18, 4.2, 4.12, 4.20, 4.24, 4.26, 4.27, 5.5, 5.9
-Teknologia Keinoäly, 1.23,	1.24, 5.16, 5.17, ???
+Teknologia Datan alustapalvelu/järjestelmä, 1.9, 1.16, 1.18, 1.30, 2.5, 2.9, 2.32, 2.41, 2.42, 2.43, 3.8, 3.17, 3.18, 4.2, 4.12, 4.20, 4.24, 4.26, 4.27, 5.5, 5.9
+Teknologia Keinoäly, 1.20, 1.23, 1.24, 5.16, 5.17, ???
 Teknologia Koneoppiminen, 1.25, 2.2, 2.4, 5.16, 5.17, ???
 Teknologia Maatilanhallintajärjestelmä FMIS, 2.13, 2.31, 5.1, 5.3, 5.5, ???
 Teknologia Maatilanhallintajärjestelmä FMIS Kokonaisvaltainen, 1.1, 1.7, 2.6, 2.31, 3.8, 3.9, 5.3, 5.9, 5.10, 5.18, ?4
+Teknologia Paikkatieto, 1.37, ??????
 Teknologia-aalto Digitalisaatio Murroskohta, 3.43, 5.1, 5.3, 5.13, 5.15
 Teknologiaharppaus (leap frog), 2.24
-Teknologioiden mahdollisuudet hyödyt edut, 2.2, 2.16, 2.20, 2.23, 2.25, 2.26, 2.30, 3.24, 3.43, 4.8, 5.2, 5.8, 5.15, 5.16.
+Teknologioiden mahdollisuudet hyödyt edut, 1.7, 1.10, 1.11, 1.12, 1.15, 1.16, 1.17, 1.23, 1.34, 1.44, 1.45, 2.2, 2.16, 2.20, 2.23, 2.25, 2.26, 2.30, 3.24, 3.43, 4.8, 5.2, 5.8, 5.15, 5.16.
 Teknologioiden omaksunta, 1.1, 1.34, 2.9, 2.23, 2.26, 2.34, 2.35, 2.36, 4.1, 4.8, 5.2, 5.7, 5.8, 5.9, 5.14, 5.15
 Teknologioiden omaksunta asteittain, 1.1, 1.3, 1.31, 2.24, 2.26, 3.43, 4.1, 5.15
 Teknologioiden omaksunta kynnys, 1.29, 2.15, 2.21, 2.23, 4.8
-Teknologioiden omaksunta laajuus, 2.21, 3.8, 3.20, 3.21, 3.24, 3.42, 3.43, 5.7, 5.8, 5.14
+Teknologioiden omaksunta laajuus, 1.10, 1.35, 2.21, 3.8, 3.20, 3.21, 3.24, 3.42, 3.43, 5.7, 5.8, 5.14
 Telemetria, 1.11, 1.41, 5.1, 5.2, 5.3, 5.9, 5.15, ???
 Teollinen Ethernet, 1.31
 Teollisuusautomaatio, 1.1, 1.3, 1.4, 1.6, 1.20, 1.25, 1.36, 3.35, 3.37, 3.38, 3.45
-Tiedon tuottama lisäarvo, 1.15, ???
+Tiedon tuottama lisäarvo, 1.15, 1.33, ???
 Tiedostoformaatit, 3.4, 3.5, 3.6, 3.7
+Tietoliikenne 3G-verkko, 1.40
 Tietoliikenne 5G-verkko, 1.39, 3.16, 5.13
-Tietoliikenne Haasteet, 2.5, 3.15, 3.16, 4.9, 5.13, 5.19
-Tietoliikenne Langaton, 1.37, 1.39, 2.10, 3.26, 3.27, 3.28, 5.13, ???
+Tietoliikenne Haasteet, 1.37, 1.39, 2.5, 3.15, 3.16, 4.9, 5.13, 5.19, ???????
+Tietoliikenne Langaton, 1.37, 1.39, 1.40, 2.10, 3.26, 3.27, 3.28, 5.13, ???
+Tietoliikenne Matkapuhelinverkot, 1.38, 1.39, 3.15
 Tietoliikenne Satelliitti, 5.13
 Tietoliikenne Valokuituverkot, 3.28
-Tietoliikenne Yhteydet/Verkot, 1.4, 1.37, 1.39, 2.5, 3.15, 3.16, 3.27, 3.28, 4.9, 4.10, 4.23, 5.13, 5.19
+Tietoliikenne Yhteydet/Verkot, 1.4, 1.37, 1.39, 1.40, 2.5, 3.15, 3.16, 3.27, 3.28, 4.9, 4.10, 4.23, 5.13, 5.19
 Tietoturva, 1.32, 3.28, 4.23, 5.4, 5.12
 Tietoturva Haittaohjelmat, 4.23
-Tilakoon kasvu, 1.33, 2.30, 2.46, 4.21, 4.22, ?3&5
+Tilakoon kasvu, 1.33, 1.41, 2.30, 2.46, 4.21, 4.22, ?3&5
 Tilamäärän väheneminen, 1.29, ???
-Tulevaisuuden tietojärjestelmät, 2.11, 2.31, 2.41, 2.43, 4.20, 5.16, 5.17, 5.19
+Tulevaisuuden tietojärjestelmät, 1.13, 1.20, 2.11, 2.31, 2.41, 2.43, 4.20, 5.16, 5.17, 5.19
 Tuotantoketju, 3.19, 3.41, ???
+Tuotantoketju Toimijoiden verkostomainen toiminta, 1.13, 1.30
+Tuotantoketjun Verkostoitumisalusta myyntiin ja ostoihin, 1.18, 1.27, 1.28
 Tuotantoketjun data, 1.13, 1.42, 1.43, 1.44, 1.45, 2.32, 3.39, 3.41, 4.13, 4.14, 5.11, 5.14
 Tuotantoketjun valvonta, 3.39, 3.41, 4.14
-Tuotantopanokset, 2.16, 2.18, 2.22, 2.32, 4.28, 4.29, 5.14
-Tuotantotapatieto, 1.17, 1.43, 3.2, 3.18, 3.19, 4.13, 4.14, 4.15, 5.11
+Tuotantopanokset, 1.43, 2.16, 2.18, 2.22, 2.32, 4.28, 4.29, 5.14
+Tuotantotapatieto, 1.17, 1.33, 1.42, 1.43, 3.2, 3.18, 3.19, 4.13, 4.14, 4.15, 5.11
 Tuotantotapatieto Kuluttajien ymmärryshaaste, 1.43, 4.13, 5.11, ???
 Tuotekehitys asiakaslähtöinen, 2.17, 5.2, 5.15, ???
 Tuotevastuu, 3.30, 3.32
 Tuotteiden siiloutuneisuus hajanaisuus, 5.3
 Tutkimuksen Kehityksen pitkä aikajänne, 1.33, 2.2
-Työtiedostot, 2.38, (2.45)
-Täsmäviljely, 1.7, 1.10, 1.33, 1.34, 2.15, 2.38, 3.43, 5.9
-Urakointi, 1.11, 2.37, 2.38, 2.46
+Työtiedostot, 1.11, 2.38, (2.45)
+Täsmäviljely, 1.7, 1.10, 1.12, 1.33, 1.34, 1.35, 2.15, 2.38, 3.43, 5.9
+Urakointi, 1.11, 1.12, 2.37, 2.38, 2.46
 Urbaaniviljely, 4.28, 4.29
-Uudet liiketoimintamallit, 1.30, 1.34, 1.48, 4.26, ???
+Uudet liiketoimintamallit, 1.30, 1.34, 1.45, 1.48, 4.26, ???
 Valmistajien datan keräys, 1.4, 2.12, ???
-Verkostoitumisalusta myyntiin ja ostoihin, 1.18, 1.27, ???
 Viljelijä - laitevalmistaja yhteistyö partneri, 2.25, 5.2
 Viljelijän työnkuva, 4.4, 4.5, 4.20, 5.2
+Viljelijöiden Verkostoitumisalusta myyntiin ja ostoihin, 1.27, 1.28
 Viljelijöiden sosiaalinen verkostoituminen, 1.16, 5.1, ???
 Viljelijöiden uusien teknologoiden ymmärrys-asiantuntemus-taidot, 2.22, 5.1, 5.2, ???
-Viljelysuositukset, 2.2, 2.3, 2.4, 2.18, 2.19, 2.20, 2.29, 2.31, 5.2
+Viljelysuositukset, 1.20, 2.2, 2.3, 2.4, 2.18, 2.19, 2.20, 2.29, 2.31, 5.2
 Viljelysuositusjärjestelmä, 2.31
 Viljelysuunnittelujärjestelmä/ohjelmisto, 2.6, 3.20, 4.2, 4.5, 4.7, 4.9
 Väestönkasvu, 1.48
 Walled garden, 1.7, 1.15
 Yhden valmistajan kokonaisratkaisu, 1.5, ???
 Yhteen valmistajaan lukittuminen, 1.6, 1.7, 4.6, 4.7
-Älykkäät laitteet, 1.34, 1.35, ???
-Etätuki, 1.4
