@@ -1153,6 +1153,66 @@ Haettu AGRIS-haulla (http://agris.fao.org/agris-search/index.do)  <08-07-2018>
 			Minimaalista käyttöönottoa viljelijöiden keskuudessa.
 			Smart teknologiat korjaavat tilannetta: yleismaailmallisista sovelluksista maatilakohtaisiin *mistä puhuttiin haastiksissa*.
 			Maatilakohtaisten sovellusten R&D on vielä alkuvaiheessa *ks. haastis 3*.
+		Jonka kautta löydetty (ScienceDirect, Recommended Articles):
+			ON JO: **Scientific development of smart farming technologies and their application in Brazil**
+			Pivoto et al.
+				[https://ezproxy.haaga-helia.fi:3248/science/article/pii/S2214317316301184]
+				Katsaus Smart Farmingiin ja sen sovelluksiin Brasiliassa.
+				Asiantuntijahaastatteluja! :D
+			Jonka kautta löydetty (ScienceDirect, Recommended Articles):
+				**Next generation agricultural system data, models and knowledge products: Introduction**
+					[https://ezproxy.haaga-helia.fi:3248/science/article/pii/S0308521X16304887]
+				Jonka kautta löydetty (Samassa Agricultural Systems-julkaisun numerossa Volume 155):
+					**Towards a new generation of agricultural system data, models and knowledge products: Information and communication technology**
+					Janssen et al. 2017
+						[https://ezproxy.haaga-helia.fi:3248/science/article/pii/S0308521X16305637]
+						"Our qualitative evaluation suggests that as an overall research challenge, the interoperability of data sources, modular granular open models, reference data sets for applications and specific user requirements analysis methodologies need to be addressed to allow agricultural modeling to enter in the big data era. This will enable much higher analytical capacities and the integrated use of new data sources. Overall agricultural systems modeling needs to rapidly adopt and absorb state-of-the-art data and ICT technologies with a focus on the needs of beneficiaries and on facilitating those who develop applications of their models. This adoption requires the widespread uptake of a set of best practices as standard operating procedures."
+					Jonka kautta löydetty (ScienceDirect, Recommended Articles):
+						**Decision support tools for agriculture: Towards effective design and delivery**
+						Rose et al. 2016
+							[https://ezproxy.haaga-helia.fi:3248/science/article/pii/S0308521X16305418]
+							Päätöksentekotyökalut, huono käyttöönotto/omaksunta UKssa.
+							Määritelty 15 tekijää, jotka vaikuttavat käyttöönottoon/omaksuntaan.
+						Jonka kautta löydetty (ScienceDirect, Recommended Articles):
+							**Farm management information systems: Current situation and future perspectives**
+							Fountas et al. 2015
+								[https://ezproxy.haaga-helia.fi:3248/science/article/pii/S0168169915001337]
+								"This paper presents current advancements in the functionality of academic and commercial FMIS. The study focuses on open-field crop production and centeres on farm managers as the primary users and decision makers. Core system architectures and application domains, adoption and profitability, and FMIS solutions for precision agriculture as the most information-intensive application area were analyzed. Our review of commercial solutions involved the analysis of 141 international software packages, categorized into 11 functions. Cluster analysis was used to group current commercial FMIS as well as examine possible avenues for further development. Academic FMIS involved more sophisticated systems covering compliance to standards applications, automated data capture as well as interoperability between different software packages. Conversely, commercial FMIS applications targeted everyday farm office tasks related to budgeting and finance, such as recordkeeping, machinery management, and documentation, with emerging trends showing new functions related to traceability, quality assurance and sales."
+							Jonka kautta löydetty (ScienceDirect, Recommended Articles):
+								**Future internet and the agri-food sector: State-of-the-art in literature and research**
+								Lehmann, Reiche, Schiefer
+								*johon ei ole pääsyä*
+								Jonka kautta löydetty (ScienceDirect, Recommended Articles):
+									**The Use of Future Internet Technologies in the Agriculture and Food Sectors: Integrating the Supply Chain**
+									Kaloxylos et al. 2013
+										[https://ezproxy.haaga-helia.fi:3248/science/article/pii/S2212017313000716]
+										"In this paper, we present the specific characteristics of the agri-food sector focusing on how information management in this area will take place under a highly heterogeneous group of actors and services, based on the EU SmartAgriFood project. We also discuss how a new dynamic marketplace will be realized based on the adoption of a number of specialized software modules, called “Generic Enablers” that are currently developed in the context of the EU FI-WARE project."
+
+Nämä tulivat jonkin julkaisun kautta:
+	**Integrated open geospatial web service enabled cyber-physical information infrastructure for precision agriculture monitoring**
+	Chen, Zhang, Wang 2015
+		[https://ezproxy.haaga-helia.fi:3248/science/article/pii/S0168169914003196]
+		Käpistelyä, prototyyppi, "Although this infrastructure is efficient, a fully functional design for all PA operations still requires further research"
+	**Farm machinery management information system**
+	Fountas et al.
+		[https://ezproxy.haaga-helia.fi:3248/science/article/pii/S0168169914002932]
+		ISOBUS, traktori-työkone-kommunikaatio, haastatteluja tulevia ratkaisuita varten.
+	**Factors influencing the adoption of Farm Management Information Systems (FMIS) by Brazilian citrus farmers**
+	Carrer et al. 2017
+		FMIS-käyttöönoton/omaksunnan syiden kartoitusta ja laskentaa. "It should also be noted that the present study was innovative in testing the effect of personal, social, behavioral, structural and institutional variables on the likelihood of FMIS adoption. The results for the overconfidence in management and occurrence of contractual adjustments variables are interesting and rarely studied in other analyses on the adoption of technologies in agriculture."
+	**A four nation survey of farm information management and advanced farming systems: A descriptive analysis of survey responses**
+	Lawson et al. (Pesonen)
+		*Ei pääsyä?*
+		[https://ezproxy.haaga-helia.fi:3248/science/article/pii/S0168169911000639]
+		"The study evaluates the potential time savings associated with office tasks for information management and the likely adoption of advanced farming systems and precision farming practices."
+	**The Use of Future Internet Technologies in the Agriculture and Food Sectors: Integrating the Supply Chain**
+	Kaloxylos et al. 2013
+		[https://ezproxy.haaga-helia.fi:3248/science/article/pii/S2212017313000716]
+		"In this paper, we present the specific characteristics of the agri-food sector focusing on how information management in this area will take place under a highly heterogeneous group of actors and services, based on the EU SmartAgriFood project. We also discuss how a new dynamic marketplace will be realized based on the adoption of a number of specialized software modules, called “Generic Enablers” that are currently developed in the context of the EU FI-WARE project. Thus, the paper presents the overall vision for data integration along the supply chain as well as the development and federation of Future Internet services that are expected to revolutionize the agriculture sector."
+			"p.57  4. The overall Smart Agrifood architecture
+				The goal of the SmartAgrifood Project (SAF) is to link the different areas by integrating FI-WARE’s GEs and introducing appropriate tools and services that are specialized to perform specific tasks (e.g., monitoring and advising greenhouse owners for their crop, monitoring and recording the environmental conditions of fruits and vegetables, providing tailored information to end consumers). In SAF, we have defined three subsystems, one per each already described sub-domain. The first one, called Farm Management System (FMS), deals with management and control of tasks undertaken by farmers [9]"
+		"p.60 Conclusions
+		...these services are not stored locally on an end device but rather they have access to the same data (e.g., farmer’s data) stored in the cloud. This way, end users will be able to build their own tailor cut environment in an affordable way. The concepts will be tested in real life in the context of a new ambitious project, in the context of FI-PPP, called cSpace that is starting in April 2013."
 
 ---------------------------------------------------------------------------------------------------
 
