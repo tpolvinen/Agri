@@ -654,7 +654,7 @@ Prototyyppi hallavaroitusjärjestelmästä
 
 --------------------------------------------------------------------------------------------------
 <05-06-2018  11:01>
-
+-
 * Haastateltavan kuvailu AIoT:n ja maatalouden yleistilanteesta (1 2 3 4 5)
 	- tilamäärän peineneminen, tilakokojen kasvu (3)
 * Holistinen FMS (3 5)
@@ -712,13 +712,13 @@ Haastattelujen kysymysluonnoksista:
 	Onko yleiskäyttöistä / holistista Farm Management System:iä olemassa
 	ISOBUS ja sen osuus AIoT:ssä ja maatalouden digitalisaatiossa
 	Omadata, datan omistajuus
-
+-
 	* Yleiskuva
 	* Käyttöönoton tilanne
 	* Uhkat ja heikkoudet
 	* Keskeiset toimijat, kilpailutilanne
 	* Tulevaisuuskuva
-
+-
 	Järjestelmien vs. koneiden pirstaleisuus/siiloutuneisuus/eristyneisyys
 	Läpinäkyvyys kuluttajalle asti / arvo- ruoka- tuotantoketjussa
 	Koneen ominaisuuksista datan tuoton ominaisuuksiin
@@ -768,7 +768,7 @@ IIoT osana IoT:ä
 	Teemojen keskinäinen järjestely
 	Järjestettyjen teemojen kirjoittaminen luonnokseen
 
-	Affiniteettianalyysi
+Affiniteettianalyysi
 
 Mitkä haastattelujen tiedot ovat tärkeitä tutkimuskysymyksiin vastatessa? Mitkä tiedot voi jättää pois?
 
@@ -833,11 +833,11 @@ Mahdollinen rakenne:
 * Xu: Internet of Things in Industries: A Survey
 * Rose: The Internet of Things (IoT): An Overview
 
+
 ## Katsaukset:
 
 * Sundmaeker: Internet of Food and Farm 2020
     Muistiinpanot:
-
         "Surprise: Agriculture is doing more with IoT innovation than most other industries" - Jahangir Mohammed @SurpriseAgricultureDoing2014
 
         Maatalous on elintärkeä Euroopan ruokkimiseksi terveellä tavalla, mutta Euroopalla on myös tärkeä rooli maailman ruoantuotannossa. Euroopan maataloussektorilla on laajat sosiaaliset ja kaupalliset vaikutukset 
@@ -1038,11 +1038,11 @@ Haettu Google-haulla (google.fi) <28-06-2018  18:36> affiniteettianalyysin käyt
 		affinity analysis interview how to -market
 			(koska markkinoinnin sisältämät hakutulokset olivat lähes kokonaan ostoskorianalyyseihin liittyviä hakutuloksia)
 		Löydetty:
-			Using Affinity Diagrams to Evaluate Interactive Prototypes
+			**Using Affinity Diagrams to Evaluate Interactive Prototypes**
 				[https://mycourses.aalto.fi/pluginfile.php/615047/mod_folder/intro/A2_Lucero_affinity%20diagrams.pdf]
 				"Rather than grouping notes in predefined categories, affinity diagrams are built from the bottom up."
 				"Despite the seemingly structured way of analyzing the interaction observations, when going through the second part of the data (i.e., the semi-structured interview questions) we avoid as much as possible using the interview questions to structure the data. Instead, we let overarching topics naturally emerge from the data."
-			Build an affinity diagram
+			**Build an affinity diagram**
 				[https://openclassrooms.com/courses/4555276-conduct-design-and-user-research/4788956-build-an-affinity-diagram]
 				"The goal of affinity diagrams is NOT to go in with pre-existing ideas and assumptions. Your role is to consider the data with a critical eye and break it down and put it together in ways that make sense for your research goals."
 				"One way to approach affinity diagrams is by using a spreadsheet. It means that all the information will be in one place and is wherever you are. You can assign each person to a column, and include questions, quotes, and observations in the rows. "
@@ -1051,13 +1051,13 @@ Haettu Google-haulla (google.fi)
 	Hakulause:
 		grounded theory analyysi
 	Löydetty:
-		Ankkuroitu teoria eli grounded theory
+		**Ankkuroitu teoria eli grounded theory**
 			Etusivu / Avoimet / Humanistis-yhteiskuntatieteellinen tiedekunta / Menetelmäpolkuja humanisteille / Menetelmäpolku / Aineiston analyysimenetelmät / Ankkuroitu teoria eli grounded theory
 			[https://koppa.jyu.fi/avoimet/hum/menetelmapolkuja/menetelmapolku/aineiston-analyysimenetelmat/ankkuroitu-teoria-eli-grounded-theory]
 			Ankkuroitu teoria on laadullinen tutkimusmenetelmä.
 			"Ankkuroidun teorian käsitettä käytetään paikoin väljästi kuvaamaan aineistolähtöistä tutkimusta. Toisaalta käsitteellä voidaan tarkoittaa tarkasti ankkuroidun teorian analyysimenetelmiin kiinnittyvää tutkimusta. Analyysissa kohteeseen liittyvää dataa pyritään käsitteellistämään ja luomaan suhteita dataan liittyvien käsitteiden välille. Analyysissa hyödynnetään menetelmään kuuluvia koodauskäytäntöjä ja käsitteitä."
 		Jonka kautta löytyi
-			Teemoittelu
+			**Teemoittelu**
 				Etusivu / Avoimet / Humanistis-yhteiskuntatieteellinen tiedekunta / Menetelmäpolkuja humanisteille / Menetelmäpolku / Aineiston analyysimenetelmät / Teemoittelu
 				[https://koppa.jyu.fi/avoimet/hum/menetelmapolkuja/menetelmapolku/aineiston-analyysimenetelmat/teemoittelu]
 				"Teemoittelu on laadullisen analyysin perusmenetelmä, jossa tutkimusaineistosta pyritään hahmottaan keskeisiä aihepiirejä eli teemoja."
@@ -1067,7 +1067,7 @@ Haettu Google-haulla (google.fi) <06-07-2018  17:59>
 	Hakulause:
 		aksiaalinen koodaus
 	Löydetty:
-		Ylemmän AMK- tutkinnon metodifoorumi: Grounded Theory
+		**Ylemmän AMK- tutkinnon metodifoorumi: Grounded Theory**
 			[http://www2.amk.fi/digma.fi/www.amk.fi/opintojaksot/0709019/1193463890749/1193464144782/1194348654857/1194356926123.html]
 			Hyvä esittely ankkuroidun teorian käytöstä.
 				"Grounded Theoryn analyysi etenee koodaamalla aineiostoa vaiheittain. Analyysin ensimäiseen vaiheseen kuuluu asioiden nimeäminen ja käsitteiden muodostaminen (käsitteellinen koodaus) ja sen toiseen vaiheeseen nimettyjen asioiden yhdistely eli teoreettinen koodaus."
@@ -1098,14 +1098,104 @@ Haettu Google-haulla (google.fi) <06-07-2018  17:59>
 	Hakulause:
 		r interview theme frequency code analysis
 	Löydetty:
-		Coding Part 2: Thematic coding - Graham R Gibbs 2011
+		**Coding Part 2: Thematic coding - Graham R Gibbs 2011**
 			[https://www.youtube.com/watch?v=B_YXR9kp1_o]
-		The Coding Manual for Qualitative Researchers: An Introduction to Codes and Coding
+		**The Coding Manual for Qualitative Researchers: An Introduction to Codes and Coding**
 			[https://www.sagepub.com/sites/default/files/upm-binaries/24614_01_Saldana_Ch_01.pdf]
 
+Haettu Google-haulla (google.fi) <08-07-2018  13:48>
+	Hakulause:
+		kuvaileva kirjallisuuskatsaus opinnäytetyö
+	Löydetty:
+		**Scribbr.fi** Koti > Tietopankki > Opinnäytetyön rakenne > Miten kirjallisuuskatsaus tehdään
+			[https://www.scribbr.fi/opinnaytetyon-rakenne/kirjallisuuskatsaus-opinnaytetyo/]
+			Kirjallisuuskatsauksen ohjeita. Mainittu AGRIS-tietokanta kohdassa 2. Kerää kirjallisuus / Aiheisiin keskittyvät tietokannat.
+			"Esimerkiksi AGRIS-tietokanta, joka kattaa laajan kirjon maatalouteen ja ympäristöön liittyviä aiheita."
+		Jonka kautta löydetty:
+			**AGRIS FAO**
+			[http://agris.fao.org/agris-search/index.do]
 
+---------------------------------------------------------------------------------------------------
 
+# AGRIS-haku
 
+Haettu AGRIS-haulla (http://agris.fao.org/agris-search/index.do)  <08-07-2018>
+	Hakulause:
+		internet of things
+		(valittu AGROVOC descriptor "internet of things")
+	Löydetty:
+		Valittu otsikon, asiananojen, julkaisuvuoden ja abstraktin ensimmäisten lauseiden mukaan:
+		ON JO: **Internet of Things in agriculture, recent advances and future challenges**
+		Antonis et al. [2017]
+			[http://agris.fao.org/agris-search/search.do?recordID=US201800025837]
+		**Architecting an IoT-enabled platform for precision agriculture and ecological monitoring: A case study**
+		Tomo et al. [2017-08]
+			[http://agris.fao.org/agris-search/search.do?recordID=US201700247601]
+			Suunniteltu prototyyppi "for the research in precision agriculture and ecological monitoring domains."
+		Jonka kautta löydetty (ScienceDirect, Recommended Articles):
+			**A cloud-based Farm Management System: Architecture and implementation**
+			Kaloxylos et al.
+			[https://ezproxy.haaga-helia.fi:3248/science/article/pii/S0168169913002846]
+			...jossa avattiin FMSsää "In Kaloxylos et al. (2012) we presented the notion of a Farm Management System (FMS) as a framework that can accommodate modular services and enable their interoperation. The services can be either simple ones (e.g., a meteorological service) or even complex ones like an existing FMIS."
+			Jonka kautta Scopus näyttää julkaisuun viitanneet julkaisut, joiden joukossa on monia mielenkiintoisia mutta niihin ei näytä pääsevän käsiksi. [https://www.scopus.com/results/citedbyresults.uri?sort=plf-f&cite=2-s2.0-84890600378&src=s&imp=t&sid=dfe926594f310dd29197d73c39fbdf6b&sot=cite&sdt=a&sl=0&origin=inward&editSaveSearch=&txGid=e811e59608d08921b271180372beb55a]
+		**Review of IoT Applications in Agro-Industrial and Environmental Fields**
+		JesÃºs MartÃ­n et al. [2017]
+			[http://agris.fao.org/agris-search/search.do?recordID=US201800010900]
+		**Management and control applications in Agriculture domain via a Future Internet Business-to-Business platform**
+		(Ei kirjoittajaa?)
+			[http://agris.fao.org/agris-search/search.do?recordID=CN2016100023]
+		**Modelling the smart farm**
+		O'Grady, O'Hare
+			[https://ezproxy.haaga-helia.fi:3248/science/article/pii/S2214317316301287]
+			Yleiskuva malleista:
+				"This paper thus presents an overview of models within the farming enterprise; it then reviews the state-of the art in smart technologies that promise to enable a new generation of enterprise-specific models that will underpin future smart farming enterprises."
+			Ei vain teknologiat vaan niiden käyttö.
+			Minimaalista käyttöönottoa viljelijöiden keskuudessa.
+			Smart teknologiat korjaavat tilannetta: yleismaailmallisista sovelluksista maatilakohtaisiin *mistä puhuttiin haastiksissa*.
+			Maatilakohtaisten sovellusten R&D on vielä alkuvaiheessa *ks. haastis 3*.
+
+---------------------------------------------------------------------------------------------------
+
+# Hajanaisia muistiinpanoja paperilapuilta <08-07-2018  11:56>
+Nimi, organisaatio, aihe
+	Marjukka Lamminen HY mikrolevät
+	Raimo Linkolehto  LUKE robottikylvö
+	Juho Kotala HY droonit
+	Juuso Joona Tyynelän tila
+	Mikko Hakojärvi HY täsmäviljelyrobotit
+	Heikki Huhtanen MTK Metsämaa
+	Niko Kivioja Netled
+	Robbe Ringblom Valoya
+	Ari Ronkainen Luke ?
+	Timo Oksanen Aalto autonomiset traktorit
+	Elina Virtanen Luke
+	Robert Jordas Robben Pikku Puutarha
+	Jaakko Lehtonen LGL ?
+
+Tutkimusongelma?
+	Emme tiedä kasvintuotannon IoT-ratkaisuista juuri mitään. Saatamme olettaa asioita oman alamme kokemusten perusteella.
+Tutkimuskysymykset?
+	Mitä?
+	Miten, kuinka?
+	Miksi?
+	Paljonko?
+
+Mikä on AIoT? s.19
+	Miten se ilmenee?
+		Visioina, hankkeina, standardeina, tutkimuksina -- EI tuotteina.
+	Mikä se on käsitteenä?
+	Miksi?
+		Automaatio, tehostamisen paineet.
+	Paljonko?
+
+Mitkä ovat AIoT-alan toimijat? Millaisia AIoT-ratkaisuita on? Miten niitä on otettu käyttöön/omaksunnan laajuus? Millaista tutkimusta on julkaistu? Mitkä ovat AIoT-ratkaisuiden hyödyt ja haitat?
+
+Mitä on löydetty tutkimuksesta, hankkeista, valmistajilta, organisaatioilta, muilta (mitkä?)?
+
+Viitekehys voi olla myös mitä on kirjoitettu ilmiöstä (kirjallisuus, tiede).
+Oman tutkimuksen tulokset -> verrataan muihin tutkimuksiin.
+'Viitekehyksessä esiin kaikki se, mitä ilmiöstä tiedetään tähän saakka!' s.25
+'Lisätään tietoa omalla empiirisellä tiedolla.'
 
 
 
