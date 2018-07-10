@@ -990,6 +990,7 @@ Kokeillaan kuitenkin ensin kevyempää metodia:
 	...
 	Lopuksi koostetaan tieto tavalla, joka käy järkeen oman tutkimuksen tavoitteiden viitekehyksessä. Katsotaan miten käy. :)
 
+---------------------------------------------------------------------------------------------------
 
 ## Metodihaku
 

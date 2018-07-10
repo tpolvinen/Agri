@@ -143,7 +143,9 @@ Läpikäyntien jälkeen teemat ryhmiteltiin ja niistä muodostettiin sanapuu/mie
 
 Teemojen esiintymisestä haastatteluissa havainnollistettiin haastattelukohtaisiin taulukkoihin, joihin merkittiin teeman esiintyminen muistiinpanokappaleissa. (taulukot) *Tai jokin hianompi ku taulukko jos googlen hyllystä löytyy!*
 
-*oma huomio: paikkatiedosta ei puhuttu kovin paljoa, mutta se on kaikkien automaattiohjaus- ja karttasovellusten edellytys. Voi olla, että siitä on tulossa tai tullut niin "perusteknologiaa" että se jätetään mainitsematta.*
+*Oma huomio: paikkatiedosta ei puhuttu kovin paljoa, mutta se on kaikkien automaattiohjaus- ja karttasovellusten edellytys. Voi olla, että siitä on tulossa tai tullut niin "perusteknologiaa" että se jätetään mainitsematta.*
+
+*Oma huomio: (per haastis 1.33) ei vielä automaattisesti data-analyysin perusteella järjestelmien toimeenpanemia viljelytoimia, vaan viljelyprosessien haltuunottoa, mittaamisen ja sensoroinnin laajempaa omaksuntaa/käyttöönottoa. Samoin haastiksessa 2 puhutaan havainnoinnista ja suoraan lannoittimeen vaikuttamisesta sensorin avulla CAN-väylän kautta, mutta ei käsitellä automaattista toimintaa ja haastateltava välttäisi viljelypäätösten automaattista tekemistä ja toimeenpanoa. Samoin haastiksessa 3 oli: FMS tulee antamaan suosituksia helpottamaan viljelijän toimintaa ja päätöksentekoa -- mutta ei automaattisesti lähettämään työkoneita pelloille tehtävien kanssa.*
 
 
 #### Koodaus ja koodien kategorisointi
