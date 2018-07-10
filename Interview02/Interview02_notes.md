@@ -119,7 +119,7 @@ H2.36 Yaran N-sensorin hankintahinta nähdään Suomessa vielä korkeana ainakin
 
 2.37 Suomessa viljelijät ovat usein katsoneet, että peltopinta-alat ovat liian pieniä jotta täsmäviljelyä kannattaisi tehdä. Pienillä peltopinta-aloilla toimivien tilojen kannattaa ennemmin vuokrata N-sensori tai ostaa se urakointipalveluna.
 
-H2.38 Urakointina voidaan ulkoistaa täsmäviljelytyöt, jotka on aikaisemmin pitänyt tehdä oman hiljaisen tiedon varassa mutta jotka on uudella teknologialla saatu dokumentoitua ja tallennettua urakoitsijalle annettavaan työtiedostoon. Jos löydetään ne tiedot, jotka työtiedostoon tarvitaan.
+H2.38 Viljelijät voivat urakointina ulkoistaa täsmäviljelytyöt, jotka on aikaisemmin pitänyt tehdä oman hiljaisen tiedon varassa mutta jotka on uudella teknologialla saatu dokumentoitua ja tallennettua urakoitsijalle annettavaan työtiedostoon. Jos löydetään ne tiedot, jotka työtiedostoon tarvitaan.
 Useamman vuoden historiatietoja voidaan myös vertailla ja pyrkiä selvittämään kasvuun liittyviä ongelmia, vaikka miksi juuri tuo kohta pellossa tuottaa aina huonoa satoa tai on muuten ongelmainen.
 
 H2.39 Viljelijät voivat käyttää sensoriteknologiaa lannoituksen jakoon mutta en itse ole tietoinen, että drooneilla tai satelliteilla tehdystä kuvantamistiedoista ja kartoista olisi vielä tehty levitystä tukevaa tehtävää.
@@ -141,4 +141,4 @@ H2.45 Suuren datamäärän analysointi ja muuttaminen ohjelmistokäskyksi jollai
 H2.46 Tilakoot ovat kasvamassa ja rakennemuutos on menossa yhä suurempien tilakokojen suuntaan. Tullaan näkemään ajosuunnittelun ja urakointipalveluiden käytön yleistymistä.
 Suomelle tyypilliset pirstaleiset lohkot antavat meille syitä kehittää tehokkuutta parantavia ratkaisuita, jotta voimme pysyä muun maailman tahdissa mukana.
 
-2.47 Jos ei mene eteenpäin niin taantuu, paikallaan pysymällä.
+2.47 Jos ei mene eteenpäin niin taantuu, vallaan pysymällä.

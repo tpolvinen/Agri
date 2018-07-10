@@ -147,8 +147,12 @@ Teemojen esiintymisestä haastatteluissa havainnollistettiin haastattelukohtaisi
 
 *Oma huomio: (per haastis 1.33) ei vielä automaattisesti data-analyysin perusteella järjestelmien toimeenpanemia viljelytoimia, vaan viljelyprosessien haltuunottoa, mittaamisen ja sensoroinnin laajempaa omaksuntaa/käyttöönottoa. Samoin haastiksessa 2 puhutaan havainnoinnista ja suoraan lannoittimeen vaikuttamisesta sensorin avulla CAN-väylän kautta, mutta ei käsitellä automaattista toimintaa ja haastateltava välttäisi viljelypäätösten automaattista tekemistä ja toimeenpanoa. Samoin haastiksessa 3 oli: FMS tulee antamaan suosituksia helpottamaan viljelijän toimintaa ja päätöksentekoa -- mutta ei automaattisesti lähettämään työkoneita pelloille tehtävien kanssa.*
 
+*Oma huomio: Datan osto ja myynti, 1.16, 2.41, 3.18 --FarMobile & al, mutta ei täällä; visiona datasettien vertailu- myynti- & ostoalusta on mahdollinen; tuotantotapatieto on pakko antaa mukaan eikä ole tietoa kuka siitä hyötyisi niin, että maksaisi -> ei talousmekanismeja datamarkkinoille.*
+
 
 #### Koodaus ja koodien kategorisointi
+
+*...jos jollekin koodille havaittiin tulevan vähemmän havaintoja kuin oli odotettavissa käytiin haastattelut läpi kyseisen koodin näkökulmasta. Samalla tehtiin haastattelumateriaaliin sanahakuja sekä vertailtiin kyseessä olevan koodin havaintoja muitten samassa tai läheisissä segmenteissä esiintyvien koodien havaintoihin.*
 
 #### Koodien ja kategorioiden havaitut esiintymät haastatteluissa
 
