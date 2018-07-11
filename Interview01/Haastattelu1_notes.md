@@ -47,7 +47,7 @@ H1.20 Suomessa ei vielä ole peltoviljelyn alalla olemassa tuotantojärjestelmi�
 
 H1.22 Tällä hetkellä saatavilla järjestelmissä on älyä mukana, mutta ne rajoittuvat pienempiin operatiivisiin asioihin kuten työsyvyyden säätöön automaattisesti, pellolla havaittujen esteiden automaattiseen väistämiseen ja Yaran N-sensor:in kaltaiseen lannoittimen ohjaamiseen sensoridatan perusteella.
 
-H1.23 Pidemmälle viedyn tekoälyn ohjaaman automatiikan käyttöönoton mahdollistamiseksi sille pitäisi kehittää liiketoiminnallinen peruste, jossa sen hankintakustannukset voidaan näyttää mahdollisiksi kattaa sen käytön avulla saatavista lisätuloista. Nämä lisätulot tulisivat pääasiassa parantuneista sadoista, joita voidaan myydä joko parempaan hintaan tai suurempia määriä. 
+H1.23 Pidemmälle viedyn keinoälyn ohjaaman automatiikan käyttöönoton mahdollistamiseksi sille pitäisi kehittää liiketoiminnallinen peruste, jossa sen hankintakustannukset voidaan näyttää mahdollisiksi kattaa sen käytön avulla saatavista lisätuloista. Nämä lisätulot tulisivat pääasiassa parantuneista sadoista, joita voidaan myydä joko parempaan hintaan tai suurempia määriä.
 
 H1.24 Perusautomatiikka on siis jo olemassa mutta systeemiautomaation eteen on tehtävä vielä paljon töitä, jotta sitä voitaisiin käyttää keinoälyn kanssa työn ohjaamiseen ja ylemmän tason päätöksenteon avuksi tehtyyn analytiikkaan.
 
