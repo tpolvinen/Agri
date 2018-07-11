@@ -1,6 +1,6 @@
 Teema, Muistiinpanokappaleet
-
-
+,
+,
 Agrineuvos, 4.5, 4.7
 Aidot IoT-järjestelmät laitteet, 1.20, 2.11, 3.20, 3.21, 3.22, 3.35, 3.36, 5.2, 5.9
 Analytiikka, 1.20, 1.24, 1.30, 1.39, 2.18, 2.22, 2.31, 2.45, 3.12, 4.2, 5.3, 5.4, 5.9, 5.14
@@ -10,6 +10,7 @@ Automaattinen/automatisoitu viljelyyn vaikuttaminen, 1.20, 4.3
 Automaattiset huoltokutsut ja huollon yhteys laitteisiin verkon yli, 1.4, 3.21
 Avoin lähdekoodi, 3.31
 Datan Metadata, 3.7
+Datan Tiedon tuottama lisäarvo, 1.15, 1.16, 1.17, 1.28, 1.33, 2.22, 2.26, 2.27, 2.33, 3.18, 3.19, 3.43, 5.3, 5.4, 5.12, 5.14
 Datan integraatio, 1.20, 1.25, 2.5, 2.14, 2.43, 3.8, 4.1, 4.6, 4.20, 5.3, 5.5, 5.9
 Datan julkaisu ja jakaminen, 1.16, 2.6, 2.41, 2.42, 3.17, 4.12
 Datan laatu ja laatuhaasteet, 1.25, 2.18, 4.11
@@ -19,17 +20,15 @@ Datan omistajuus, 1.6, 1.30, 2.12, 4.9, 5.4
 Datan osto ja myynti, 1.16, 2.41, 3.18
 Datan saatavuus, 1.6, 2.13, 4.9
 Datan siirreltävyys, 1.6, 2.8, 2.13, 2.42, 3.15, 4.5, 4.10, 5.9
-Datan Tiedon tuottama lisäarvo, 1.15, 1.16, 1.17, 1.28, 1.33, 2.22, 2.26, 2.27, 2.33, 3.18, 3.19, 3.43, 5.3, 5.4, 5.12, 5.14
 Dataperustainen laatuhinnoittelu, 1.43, 1.44, 1.45
 Dataperustainen poliittinen päätöksenteko, 5.14, 5.15
 Digitalisaatio, 1.1, 1.30, 1.33, 1.34, 1.42, 1.47, 1.48, 1.49, 2.6, 4.1, 4.8, 5.1, 5.12, 5.13, 5.14, 5.15, 5.17, ?3
-Digitalisaatio Riskit, 4.4, 4.8, 4.23, 4.24, 4.25, 5.12, ???
+Digitalisaatio Riskit, 3.29, 3.30, 4.4, 4.8, 4.23, 4.24, 4.25, 5.12
 EU-maataloustuki, 1.33, 3.40, 3.43
 Elinkaari, 1.31, 3.5, 3.29, 3.30, 4.24, 4.25
 Erilaiset ratkaisut tilakoon mukaan, 2.30, 2.37
 Etätuki, 1.4
 Full-liner, 1.7, 1.8, 1.11, 1.15, 4.6
-Historiatiedot, 2.27, 2.33, 2.38, 5.1, ???
 Ihminen datan tulkitsijana/päätöksentekijänä, 2.1, 2.3, 2.11, 2.20, 2.40, 4.3, 4.4
 Ilmastonmuutoksen uhat, 1.33, 2.34 ???
 Investointien laskentaan ei ole tietoa, 1.19
@@ -126,6 +125,7 @@ Teknologia Maatilanhallintajärjestelmä FMIS Kokonaisvaltainen, 1.1, 1.7, 2.6, 
 Teknologia Paikkatieto, 1.37, 5.3, 5.12
 Teknologia-aalto Digitalisaatio Murroskohta, 3.43, 5.1, 5.3, 5.13, 5.15
 Teknologiaharppaus (leap frog), 2.24
+Teknologioiden Tuotteiden siiloutuneisuus hajanaisuus, 4.1, 4.2, 5.3, ??????
 Teknologioiden mahdollisuudet hyödyt edut, 1.7, 1.10, 1.11, 1.12, 1.15, 1.16, 1.17, 1.23, 1.34, 1.44, 1.45, 2.2, 2.16, 2.20, 2.23, 2.25, 2.26, 2.30, 3.24, 3.43, 4.8, 5.2, 5.8, 5.15, 5.16.
 Teknologioiden omaksunta, 1.1, 1.34, 2.9, 2.23, 2.26, 2.34, 2.35, 2.36, 4.1, 4.8, 5.2, 5.7, 5.8, 5.9, 5.14, 5.15
 Teknologioiden omaksunta asteittain, 1.1, 1.3, 1.31, 2.24, 2.26, 3.43, 4.1, 5.15
@@ -148,6 +148,7 @@ Tietoturva Haittaohjelmat, 4.23
 Tilakoon kasvu, 1.33, 1.41, 2.30, 2.46, 4.21, 4.22, ?3&5
 Tilamäärän väheneminen, 1.29, ???
 Tulevaisuuden tietojärjestelmät, 1.13, 1.20, 2.11, 2.31, 2.41, 2.43, 4.20, 5.16, 5.17, 5.19
+Tuotannon historiatiedot, 2.27, 2.33, 2.38, 5.1, ???
 Tuotantoketju, 3.19, 3.41, ???
 Tuotantoketju Toimijoiden verkostomainen toiminta, 1.13, 1.30
 Tuotantoketjun Verkostoitumisalusta myyntiin ja ostoihin, 1.18, 1.27, 1.28
@@ -159,7 +160,6 @@ Tuotantotapatieto, 1.17, 1.33, 1.42, 1.43, 3.2, 3.18, 3.19, 4.13, 4.14, 4.15, 5.
 Tuotantotapatieto Kuluttajien ymmärryshaaste, 1.43, 4.13, 5.11, ???
 Tuotekehitys asiakaslähtöinen, 2.17, 5.2, 5.15, ???
 Tuotevastuu, 3.30, 3.32
-Teknologioiden Tuotteiden siiloutuneisuus hajanaisuus, 4.1, 4.2, 5.3, ??????
 Tutkimuksen Kehityksen pitkä aikajänne, 1.33, 2.2
 Työtiedostot, 1.11, 2.38, (2.45)
 Täsmäviljely, 1.7, 1.10, 1.12, 1.33, 1.34, 1.35, 2.15, 2.38, 3.43, 5.9
