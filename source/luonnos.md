@@ -42,6 +42,7 @@ Tässä opinnäytetyössä käytetään lähdeviittausten tyylinä Södertörns 
 
 ## Meta (poistettava otsikko)
 
+*Voisiko tässä osassa käsitellä myös keskeiset teemat, kuten tarve (FAO:väestönkasvu, ei lisää viljelymaata, elintason nousu jne.), mitä tehdään tarpeen tyydyttämiseksi, mitä ongelmia/haasteita kohdataan, mitä tulevaisuudessa on...?*
 Tässä luvussa pyritään kuvailemaan millainen kasvintuotannon IoT:n tausta on, millaisista osailmiöistä se koostuu ja mitä kasvintuotannon IoT:stä on kirjoitettu. *Ompas kömöä kieltä, mutta palataan tähän kun luku on kirjoitettu.*
 Ensin tutustutaan osailmiöhin IoT, IIoT, AIoT ja kasvintuotanto, joiden määrittelyä, taustaa, historiaa ja nykytilaa kuvaillaan pintapuolisesti. IoT:iin liittyviä ilmiöitä IIoT sekä AIoT kuvaillaan myös pintapuolisesti ja osoitetaan miten ne liittyvät kasvintuotannon IoT:iin.
 

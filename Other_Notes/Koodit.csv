@@ -87,12 +87,12 @@ Ratkaisu/tuote,VTT Owela
 Ratkaisu/tuote,Valtra Smart
 Ratkaisu/tuote,Yara N-sensor
 ???,Ruokaturva
-SMS-viestit
-Satelliitti (data/kuvaus)
-Sato Ennusteet Arviot
-Sato Erillinen arvoerä
-Sato Sadon tunnistetieto (Ruoan identiteetti)
-Sato Sadonlisä
+Tietoliikenne,SMS-viestit
+Kuvantaminen,Satelliitti (data/kuvaus)
+Sato,Ennusteet Arviot
+Sato,Erillinen arvoerä
+Sato,Sadon tunnistetieto (Ruoan identiteetti)
+Sato,Sadonlisä
 Sensoridata ja Digitaalinen mitattu tieto
 Sensoriteknologia
 Sensoriverkot
