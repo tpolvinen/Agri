@@ -1,141 +1,184 @@
-Category,Code
+Category,Subcategory,Code
 
 
-Alustaratkaisut,Tiedon vaihdanta,1.16,1.30,2.41,4.12,4.26
-Alustaratkaisut,Viljelijöiden Verkostoitumisalusta myyntiin ja ostoihin,1.18,1.27,1.28
-Alustaratkaisut,Viljelijöiden ja kuluttajien yhteydet,1.42,1.43,1.45
-Alustaratkaisut,Viljelijöiden sosiaalinen verkostoituminen,1.16,4.26,5.1
-Alustaratkaisut,Datan julkaisu ja jakaminen,1.16,2.6,2.41,2.42,3.17,4.12
-Data,Metadata,3.7
-Data,Datan integraatio,1.20,1.25,2.5,2.14,2.43,3.8,4.1,4.6,4.20,5.3,5.5,5.9
-Data,Datan laatu ja laatuhaasteet,1.25,2.18,4.11
-Data,Datan merkitys ja merkityksen ymmärrys,1.43,2.17,2.29,2.40,4.11
-Data,Datan oikea-aikainen esitys käyttäjälle,5.4
-Data,Datan omistajuus,1.6,1.30,2.12,4.9,5.4
-Data,Datan osto ja myynti,1.16,2.41,3.18
-Data,Datan/tiedon saatavuus,1.6,2.13,4.9
-Data,Datan siirreltävyys,1.6,2.8,2.13,2.42,3.15,4.5,4.10,5.9
-Data,Dataperustainen laatuhinnoittelu,1.43,1.44,1.45
-Data,Dataperustainen poliittinen päätöksenteko,5.14,5.15
-Data,Sensoridata ja Digitaalinen mitattu tieto,1.6,1.20,1.22,1.25,1.48,2.18,2.31,2.39,3.2,3.35,5.3
-Data,Tiedostoformaatit
-Haasteet,Viljelijöiden uusien teknologoiden ymmärrys-asiantuntemus-taidot
-Järjestelmät,Käyttäjäystävällisyys-käytettävyys
-Järjestelmät,Käyttöliittymä Viljelijän oma räätälöity
-Järjestelmät,Käyttöliittymät
-Järjestelmät,Pilvipalvelut
-Järjestelmät,Rajapinnat
-Järjestö,AEF
-Järjestö,OADA OpenAG Data Alliance
-Kuvantaminen,Satelliitti (data/kuvaus)
-Laitejärjestelmät,Kasvihuoneautomaatio
-Laitejärjestelmät,Kasvitehtaat Monikerrosviljely
-Laitejärjestelmät,Konttiviljelmät
-Laitevalmistaja,Etätuki
-Laitevalmistaja,Full-liner-tuote/järjestelmä
-Laitteet,Hintojen halpeneminen
-Laitteet,Integraatio laitteiden yhteensopivuus
-Laitteet,Laitteiston ROI
-Laitteet,Toimintavarmuus
-Laitteet,UA-laitteet
-Laitteet,Vaatimukset maataloudessa
-Laitteet,Älykkäät Operatiivinen laitteiden älykkyys
-Maatila,Liiketoimintamainen toiminta
-Muutos,Siirtymä datan käyttöön
-Muutos,Teknologia-aalto Digitalisaatio Murroskohta
-Muutos,Teknologiaharppaus (leap frog)
-Muutos,Uudet liiketoimintamallit
-Muutos,Viljelijän työnkuva
-Ratkaisu/tuote,365FarmNet
-Ratkaisu/tuote,Agrirouter
-Ratkaisu/tuote,Agrismart (Agrineuvos)
-Ratkaisu/tuote,Farmersbusinessnetwork.com
-Ratkaisu/tuote,Farmidiili
-Ratkaisu/tuote,Farmobile.com
-Ratkaisu/tuote,MyYara -viljelijäportaaliohjelmisto
-Ratkaisu/tuote,VTT Owela
-Ratkaisu/tuote,Valtra Smart
-Ratkaisu/tuote,Yara N-sensor
-Sato,Laatuerien tunnistaminen,1.28,1.43,1.44,1.45,1.46
-Sato,Ennusteet Arviot
-Sato,Erillinen arvoerä
-Sato,Sadon tunnistetieto (Ruoan identiteetti)
-Sato,Sadonlisä
-Standardi,Avoimet
-Standardi,ISOBUS
-Standardi,Muut
-Talous,Investointien laskentaan ei ole tietoa
-Talous,Kannattavuus
-Talous,Liiketoiminnan ekosysteemi
-Talous,Perustellut investoinnit
-Tavoitteet,Ruokaturvan parantaminen,1.47,2.33,3.39,5.14
-Tehostaminen,Koneiden käyttö
-Tehostaminen,Logistiikka
-Tehostaminen,Maatilan toiminnassa yleisesti
-Tehostaminen,Resurssien käyttö panokset lannoitteet jne.
-Tehostaminen,Työn helpottaminen
-Tehostaminen,Viljelyprosessien (tuotanto-) optimointi/automatisointi
-Tekniikka,Prototyypit,3.32
-Tekniikka,Automaattiset huoltokutsut ja huollon yhteys laitteisiin verkon yli
-Tekniikka,Sensoriteknologia
-Tekniikka,Sensoriverkot
-Tekniikka,Siirrettävät muistivälineet
-Tekniikka,Systeemiautomaatio
-Tekniikka,Sääasemat
-Tekniikka,Teknologioiden mahdollisuudet hyödyt edut2.30
-Tekniikka,Teknologioiden omaksunta
-Tekniikka,Teknologioiden omaksunta asteittain
-Tekniikka,Teknologioiden omaksunta kynnys
-Tekniikka,Teknologioiden omaksunta laajuus
-Tekniikka,Telemetria
-Tekniikka,Teollisuusautomaatio
-Tekniikka,Tulevaisuuden tietojärjestelmät
-Tekniikka,Tuotannon historiatiedot
-Tekniikka,Työtiedostot
-Tekniikka,Valmistajien datan keräys
-Tekniikka,Viljelysuositusjärjestelmä
-Tekniikka,Viljelysuunnittelujärjestelmä/ohjelmisto
-Tekniikka,Aidot IoT-järjestelmät laitteet
-Tekniikka,Avoin lähdekoodi
-Teknologia,Automaattiohjaus
-Teknologia,Autonomiset traktorit ja muut työkoneet
-Teknologia,Datan alustapalvelu/järjestelmä4.26
-Teknologia,Keinoäly
-Teknologia,Koneoppiminen
-Teknologia,Maatilanhallintajärjestelmä FMIS
-Teknologia,Maatilanhallintajärjestelmä FMIS Kokonaisvaltainen
-Teknologia,Paikkatieto
-Teknologia,Teollinen Ethernet
-Teknologioiden käyttö,Lisäarvo maatalouden tuotteelle
-Teknologioiden käyttö,Mobiilisovellukset
-Tieto,Tiedon tuottama lisäarvo,1.15,1.16,1.17,1.28,1.33,2.22,2.26,2.27,2.33,3.18,3.19,3.43,5.3,5.4,5.12,5.14
-Tietojenkäsittely,Analytiikka
-Tietojenkäsittely,Analytiikka Viljelijän Maatilan oma räätälöity
-Tietojenkäsittely,Analytiikka palvelut
-Tietojenkäsittely,Karttatiedostot
-Tietojenkäsittely,Karttatiedot Ortomosaiikkikartta
-Tietojenkäsittely,Kuvantamisdata
-Tietojenkäsittely,Mallinnus
-Tietojenkäsittely,Päätöksentekon avustaminen
-Tietoliikenne,SMS-viestit
-Tietoliikenne,3G-verkko
-Tietoliikenne,5G-verkko
-Tietoliikenne,Haasteet
-Tietoliikenne,Langaton
-Tietoliikenne,Matkapuhelinverkot
-Tietoliikenne,Satelliitti
-Tietoliikenne,Valokuituverkot
-Tietoliikenne,Yhteydet/Verkot
-Tietoturva,Tietoturva yleensä
-Tietoturva,Haittaohjelmat
-Toiminta,Automaattinen/automatisoitu viljelyyn vaikuttaminen
-Toimintaympäristö,Digitalisaatio
-Toimintaympäristö,Digitalisaatio Riskit
-Toimintaympäristö,EU-maataloustuki
-Toimintaympäristö,Erilaiset ratkaisut tilakoon mukaan
-Toimintaympäristö,Ihminen datan tulkitsijana/päätöksentekijänä
-Toimintaympäristö,Ilmastonmuutoksen uhat
-Toimintaympäristö,Järjestelmäintegraatio
+
+#### AIoTn tilanne yleensä
+#### Digitalisaatioharppauksen alku
+#### AIoT-teknologioiden omaksumisen tilanne Suomessa
+#### Laitevalmistajien yhteistyö
+#### Kokonaisvaltainen maatilanhallintajärjestelmä (FMS)
+#### Datan käsittely
+##### Datan liikkuminen tuotantoketjussa
+##### Datan jakaminen ja julkaisu
+##### Datan omistajuus
+#### AIoTn vaikutukset
+#### Ruokaturva
+#### AIoTn haasteet
+##### Tietoliikenteen ja tietoturvan haasteet
+##### Elinkaarihaasteet
+##### integraatio- ja alustahaasteet
+##### Käytettävyyshaasteet
+##### Asiantuntijuushaaste
+##### Omaksumisen haasteita
+#### Tavoitetila ja tulevaisuus
+
+Teknologia,tarkkailu
+Teknologia,kontrollointi
+Teknologia,logistiikka
+Teknologia,ennustus
+
+Agriculture in general,precision agriculture,sensing and monitoring the production environment,design a general management information system based on IoT,product quality improvement,food safety and traceability,water management,rural development,urban agriculture,consumer interaction
+Arable farming,monitoring & control using advanced IoT devices,predictive crop growth models,getting information in general from fields or farmlands,applying IoT for sustainability management,IoT and precision agriculture in general,pest management by early warning systems,agricultural machinery,data management
+
+Precision farming
+Food traceability systems
+Food safety and quality management systems
+Consumer interaction
+
+
+???,Teknologia,Keinoäly,1.20,1.23,1.24,5.16,5.17
+???,Alustaratkaisut,Tiedon vaihdanta,1.16,1.30,2.41,4.12,4.26
+???,Alustaratkaisut,Viljelijöiden Verkostoitumisalusta myyntiin ja ostoihin,1.18,1.27,1.28
+???,Alustaratkaisut,Viljelijöiden ja kuluttajien yhteydet,1.42,1.43,1.45
+???,Alustaratkaisut,Viljelijöiden sosiaalinen verkostoituminen,1.16,4.26,5.1
+???,Alustaratkaisut,Datan julkaisu ja jakaminen,1.16,2.6,2.41,2.42,3.17,4.12
+???,Data,Metadata,3.7
+???,Data,Datan integraatio,1.20,1.25,2.5,2.14,2.43,3.8,4.1,4.6,4.20,5.3,5.5,5.9
+???,Data,Datan laatu ja laatuhaasteet,1.25,2.18,4.11
+???,Data,Datan merkitys ja merkityksen ymmärrys,1.43,2.17,2.29,2.40,4.11
+???,Data,Datan oikea-aikainen esitys käyttäjälle,5.4
+???,Data,Datan omistajuus,1.6,1.30,2.12,4.9,5.4
+???,Data,Datan osto ja myynti,1.16,2.41,3.18
+???,Data,Datan/tiedon saatavuus,1.6,2.13,4.9
+???,Data,Datan siirreltävyys,1.6,2.8,2.13,2.42,3.15,4.5,4.10,5.9
+???,Data,Dataperustainen laatuhinnoittelu,1.43,1.44,1.45
+???,Data,Dataperustainen poliittinen päätöksenteko,5.14,5.15
+???,Data,Sensoridata ja Digitaalinen mitattu tieto,1.6,1.20,1.22,1.25,1.48,2.18,2.31,2.39,3.2,3.35,5.3
+???,Data,Tiedostoformaatit
+???,Data,Tuotannon historiatiedot,2.27,2.33,2.38,5.1
+???,Haasteet,Viljelijöiden uusien teknologoiden ymmärrys-asiantuntemus-taidot
+???,Järjestö,AEF
+???,Järjestö,OADA OpenAG Data Alliance
+???,Kuvantaminen,Satelliitti (data/kuvaus)
+???,Laitejärjestelmät,Kasvihuoneautomaatio
+???,Laitejärjestelmät,Kasvitehtaat Monikerrosviljely
+???,Laitejärjestelmät,Konttiviljelmät
+???,Laitevalmistaja,Etätuki
+???,Laitevalmistaja,Full-liner-tuote/järjestelmä
+???,Laitteet,Hintojen halpeneminen
+???,Laitteet,Integraatio laitteiden yhteensopivuus
+???,Laitteet,Laitteiston ROI
+???,Laitteet,Toimintavarmuus
+???,Laitteet,UA-laitteet
+???,Laitteet,Vaatimukset maataloudessa
+???,Laitteet,Älykkäät Operatiivinen laitteiden älykkyys
+???,Maatila,Liiketoimintamainen toiminta
+???,Sato,Laatuerien tunnistaminen,1.28,1.43,1.44,1.45,1.46
+???,Sato,Ennusteet Arviot
+???,Sato,Erillinen arvoerä
+???,Sato,Sadon tunnistetieto (Ruoan identiteetti)
+???,Sato,Sadonlisä
+???,Standardi,Avoimet
+???,Standardi,ISOBUS
+???,Standardi,Muut
+???,Talous,Investointien laskentaan ei ole tietoa
+???,Talous,Kannattavuus
+???,Talous,Liiketoiminnan ekosysteemi
+???,Talous,Perustellut investoinnit
+???,Tavoitteet,Ruokaturvan parantaminen,1.47,2.33,3.39,5.14
+???,Tehostaminen,Koneiden käyttö
+???,Tehostaminen,Logistiikka
+???,Tehostaminen,Maatilan toiminnassa yleisesti
+???,Tehostaminen,Resurssien käyttö panokset lannoitteet jne.
+???,Tehostaminen,Työn helpottaminen
+???,Tehostaminen,Viljelyprosessien (tuotanto-) optimointi/automatisointi
+???,Teknologioiden käyttö,Lisäarvo maatalouden tuotteelle,1.17,1.28,1.33
+???,Teknologioiden käyttö,Mobiilisovellukset,5.1
+???,Tieto,Tiedon tuottama lisäarvo,1.15,1.16,1.17,1.28,1.33,2.22,2.26,2.27,2.33,3.18,3.19,3.43,5.3,5.4,5.12,5.14
+???,Tuotantoketju,Tuotantoketju yleensä
+???,Tuotantoketju,Toimijoiden verkostomainen toiminta
+???,Tuotantoketju,Tuotantoketjun Verkostoitumisalusta myyntiin ja ostoihin
+???,Tuotantoketju,Tuotantoketjun data
+???,Tuotantoketju,Tuotantoketjun valvonta
+???,Tuote,Elinkaari
+???,Tuotekehitys,Asiakaslähtöinen tuotekehitys
+???,Työ,Urakointi,1.11,1.12,2.37,2.38,2.46
+???,Verkostoituminen,Kokemustiedon jako,1.29
+???,???,Viljelysuositukset
+???Tekniikka,???Tietojenkäsittely,Päätöksentekon avustaminen,1.24,1.48,1.49,2.1,2.2,2.3,2.17,2.18,2.20,2.31,2.33,3.19,4.3,5.1,5.2,5.3,5.4,5.12
+Maataloustuotanto,Automaattinen/automatisoitu viljelyyn vaikuttaminen,1.20,4.3
+Maataloustuotanto,Tuotantopanokset,Tuotantopanokset yleensä
+Maataloustuotanto,Tuotantopanokset,Lannoitepanokset
+Maataloustuotanto,Tuotantotapatieto,Tuotantotapatieto yleensä
+Maataloustuotanto,Tuotantotapatieto,Kuluttajien ymmärryshaaste
+Maataloustuotanto,Tuotantotavat,Urbaaniviljely,4.28,4.29
+Maataloustuotanto,Tuotantotavat,Smart Farming
+Maataloustuotanto,Tuotantotavat,Täsmäviljely
+Maataloustuotanto,Tuotantopanokset,Lannoitus Ravinteet Syötteet
+Tekniikka,Tietojärjestelmät,Käyttäjäystävällisyys-käytettävyys
+Tekniikka,Tietojärjestelmät,Käyttöliittymä Viljelijän oma räätälöity
+Tekniikka,Tietojärjestelmät,Käyttöliittymät
+Tekniikka,Tietojärjestelmät,Pilvipalvelut
+Tekniikka,Tietojärjestelmät,Rajapinnat
+Tekniikka,???,Prototyypit,3.32
+Tekniikka,???,Automaattiset huoltokutsut ja huollon yhteys laitteisiin verkon yli
+Tekniikka,???,Sensoriteknologia
+Tekniikka,???,Sensoriverkot
+Tekniikka,???,Teknologiasovellus,Siirrettävät muistivälineet,2.10
+Tekniikka,Tietojenkäsittely,Systeemiautomaatio,1.24
+Tekniikka,Teknologiasovellus,Sääasemat,3.20,3.42
+Tekniikka,Yleinen,Teknologioiden mahdollisuudet hyödyt edut,1.7,1.10,1.11,1.12,1.15,1.16,1.17,1.23,1.34,1.44,1.45,2.2,2.16,2.20,2.23,2.25,2.26,2.30,3.24,3.43,4.8,5.2,5.8,5.15,5.16
+Tekniikka,Teknologioiden omaksunta,Yleinen,1.1,1.34,2.9,2.23,2.26,2.34,2.35,2.36,4.1,4.8,5.2,5.7,5.8,5.9,5.14,5.15
+Tekniikka,Teknologioiden omaksunta,Asteittain,1.1,1.3,1.31,2.24,2.26,3.43,4.1,5.15
+Tekniikka,Teknologioiden omaksunta,Kynnys,1.29,2.15,2.21,2.23,4.8
+Tekniikka,Teknologioiden omaksunta,Laajuus,1.10,1.35,2.21,3.8,3.20,3.21,3.24,3.42,3.43,5.7,5.8,5.14
+Tekniikka,Yleinen,Telemetria,1.11,1.41,3.12,3.22,3.26,3.27,3.28,4.10,4.11,5.1,5.2,5.3,5.9,5.15
+Tekniikka,Teknologiatyyppi,Teollisuusautomaatio,1.1,1.3,1.4,1.6,1.20,1.25,1.36,3.35,3.37,3.38,3.45
+Tekniikka,Yleinen,Tulevaisuuden tietojärjestelmät,1.13,1.20,2.11,2.31,2.41,2.43,4.20,5.16,5.17,5.19
+Tekniikka,Yleinen,Työtiedostot,1.11,2.38
+Tekniikka,Tietojenkäsittely,Valmistajien datan keräys,1.4,2.12,5.4
+Tekniikka,Tietojärjestelmät,Viljelysuositusjärjestelmä,2.31
+Tekniikka,Tietojärjestelmät,Viljelysuunnittelujärjestelmä/ohjelmisto,2.6,3.20,4.2,4.5,4.7,4.9
+Tekniikka,???,Aidot IoT-järjestelmät laitteet,1.20,2.11,3.20,3.21,3.22,3.35,3.36,5.2,5.9
+Tekniikka,Tietojärjestelmät,Avoin lähdekoodi,3.31
+Tekniikka,Teknologiasovellus tuotteissa,Automaattiohjaus,1.11,5.16
+Tekniikka,Teknologiasovellus,Autonomiset traktorit ja muut työkoneet,2.31,5.16,5.17,5.19
+Tekniikka,Teknologiasovellus,Datan alustapalvelu/järjestelmä,1.9,1.16,1.18,1.30,2.5,2.9,2.32,2.41,2.42,2.43,3.8,3.17,3.18,4.2,4.12,4.20,4.24,4.26,4.27,5.5,5.9
+Tekniikka,Tietojenkäsittely,Koneoppiminen,1.25,2.2,2.4,5.16,5.17
+Tekniikka,Tietojärjestelmät,Maatilanhallintajärjestelmä FMIS,2.13,2.31,5.1,5.3,5.5
+Tekniikka,Tietojärjestelmät,Maatilanhallintajärjestelmä FMIS Kokonaisvaltainen,1.1,1.7,2.6,2.31,3.8,3.9,5.3,5.9,5.10,5.18
+Tekniikka,Yleinen,Paikkatieto,1.37,5.3,5.12
+Tekniikka,Yleinen,Teollinen Ethernet,1.31
+Tekniikka,Tietojenkäsittely,Analytiikka,1.20,1.24,1.30,1.39,2.18,2.22,2.31,2.45,3.12,4.2,5.3,5.4,5.9,5.14
+Tekniikka,Tietojenkäsittely,Analytiikka Viljelijän Maatilan oma räätälöity,1.6,2.4,5.4
+Tekniikka,Tietojenkäsittely,Analytiikka palvelut,1.20,1.39,3.12,3.17,4.2,5.4,5.9
+Tekniikka,Tietojenkäsittely,Karttatiedostot,2.14,2.39
+Tekniikka,Tietojenkäsittely,Karttatiedot Ortomosaiikkikartta,2.14,3.12,4.10,4.11
+Tekniikka,Tietojenkäsittely,Kuvantamisdata,2.14,2.39,3.12,3.15,5.18
+Tekniikka,Tietojenkäsittely,Mallinnus,2.3,2.4,2.20
+Tekniikka,Tietoliikenne,SMS-viestit,3.26,3.27,3.28
+Tekniikka,Tietoliikenne,3G-verkko,1.40
+Tekniikka,Tietoliikenne,5G-verkko,1.39,3.16,5.13
+Tekniikka,Tietoliikenne,Haasteet,1.37,1.39,2.5,3.15,3.16,3.28,4.9,4.10,5.13,5.19
+Tekniikka,Tietoliikenne,Langaton,1.37,1.38,1.39,1.40,2.10,3.15,3.16,3.26,3.27,3.28,5.13
+Tekniikka,Tietoliikenne,Matkapuhelinverkot,1.38,1.39,3.15
+Tekniikka,Tietoliikenne,Satelliitti,5.13
+Tekniikka,Tietoliikenne,Valokuituverkot,3.28
+Tekniikka,Tietoliikenne,Yhteydet/Verkot,1.4,1.37,1.39,1.40,2.5,3.15,3.16,3.27,3.28,4.9,4.10,4.23,5.13,5.19
+Tietojenkäsittely,Tietoturva,Tietoturva yleensä,1.32,3.28,4.23,5.4,5.12
+Tietojenkäsittely,Tietoturva,Haittaohjelmat,4.23
+Toimintaympäristö,Muutos,Siirtymä datan käyttöön
+Toimintaympäristö,Muutos,Teknologia-aalto Digitalisaatio Murroskohta
+Toimintaympäristö,Muutos,Teknologiaharppaus (leap frog)
+Toimintaympäristö,Muutos,Uudet liiketoimintamallit
+Toimintaympäristö,Muutos,Viljelijän työnkuva
+Toimintaympäristö,Digitalisaatio,1.1,1.30,1.33,1.34,1.42,1.47,1.48,1.49,2.6,4.1,4.8,5.1,5.12,5.13,5.14,5.15,5.17
+Toimintaympäristö,Digitalisaatio Riskit,3.29,3.30,4.4,4.8,4.23,4.24,4.25,5.12
+Toimintaympäristö,EU-maataloustuki,1.33,3.40,3.43
+Toimintaympäristö,Erilaiset ratkaisut tilakoon mukaan,2.30,2.37
+Toimintaympäristö,Ihminen datan tulkitsijana/päätöksentekijänä,2.1,2.3,2.11,2.20,2.40,4.3,4.4
+Toimintaympäristö,Ilmastonmuutoksen uhat,1.33,2.34
+Toimintaympäristö,Järjestelmäintegraatio,1.25,2.5,2.6,2.7,2.8,2.9,2.13,2.31,2,43,3.8,4.1,4.3,4.20,4.27,5.5,5.9,5.18
 Toimintaympäristö,Kasvukausi
 Toimintaympäristö,Kehityskulku/historia
 Toimintaympäristö,Kolmannen osapuolen ohjelmistokehitys
@@ -162,22 +205,14 @@ Toimintaympäristö,Väestönkasvu
 Toimintaympäristö,Walled garden
 Toimintaympäristö,Yhden valmistajan kokonaisratkaisu
 Toimintaympäristö,Yhteen valmistajaan lukittuminen
-Tuotantoketju,Tuotantoketju yleensä
-Tuotantoketju,Toimijoiden verkostomainen toiminta
-Tuotantoketju,Tuotantoketjun Verkostoitumisalusta myyntiin ja ostoihin
-Tuotantoketju,Tuotantoketjun data
-Tuotantoketju,Tuotantoketjun valvonta
-Tuotantopanokset,Tuotantopanokset yleensä
-Tuotantopanokset,Lannoitepanokset
-Tuotantotapatieto,Tuotantotapatieto yleensä
-Tuotantotapatieto,Kuluttajien ymmärryshaaste
-Tuotantotavat,Urbaaniviljely,4.28,4.29
-Tuotantotavat,Smart Farming
-Tuotantotavat,Täsmäviljely
-Tuote,Elinkaari
-Tuotekehitys,Asiakaslähtöinen tuotekehitys
-Työ,Urakointi,1.11,1.12,2.37,2.38,2.46
-Verkostoituminen,Kokemustiedon jako,1.29
-Viljelysuositukset
-Viljelytoiminta,Lannoitus Ravinteet Syötteet
-Yhtiö,Agrineuvos
+Toimintaympäristö,Yhtiö,Agrineuvos
+X,Ratkaisu/tuote,365FarmNet
+X,Ratkaisu/tuote,Agrirouter
+X,Ratkaisu/tuote,Agrismart (Agrineuvos)
+X,Ratkaisu/tuote,Farmersbusinessnetwork.com
+X,Ratkaisu/tuote,Farmidiili
+X,Ratkaisu/tuote,Farmobile.com
+X,Ratkaisu/tuote,MyYara -viljelijäportaaliohjelmisto
+X,Ratkaisu/tuote,VTT Owela
+X,Ratkaisu/tuote,Valtra Smart
+X,Ratkaisu/tuote,Yara N-sensor

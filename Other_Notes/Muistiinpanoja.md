@@ -861,7 +861,13 @@ Mahdollinen rakenne:
 
 ## Järjestöjen julkaisut
 ...
-FAO / AGRIS-kirjasto/tietokanta (etsi)
+FAO / AGRIS-kirjasto/tietokanta:
+	[http://agris.fao.org/agris-search/home]
+	ks. alla kohta "FAO AGRIS-haku"
+FAO / AGP-osasto:
+	[http://www.fao.org/agriculture/crops/agp-home/en/?no_cache=1]
+	ks. alla kohta "FAO AGP-haku"
+
 Beecham Research
 IoF2020
     [http://www.iof2020.eu]
@@ -918,7 +924,8 @@ Uusia <11-05-2018  16:27>
     John Deere Precision Planting
     Oracle
 
-Uusi <03-07-2018  10:48>
+SST Software
+Matt Waits, '99 agricultural economics, is CEO of SST Software <03-07-2018  10:48>
 	via
 	[https://www.youtube.com/watch?v=kmVB22u0ScU&frags=pl%2Cwn]
 	TEDx talk: Agriculture technology: Matt Waits at TEDxOStateU (2013)
@@ -1118,7 +1125,7 @@ Haettu Google-haulla (google.fi) <08-07-2018  13:48>
 
 ---------------------------------------------------------------------------------------------------
 
-# AGRIS-haku
+# FAO AGRIS-haku
 
 Haettu AGRIS-haulla (http://agris.fao.org/agris-search/index.do)  <08-07-2018>
 	Hakulause:
@@ -1214,6 +1221,39 @@ Nämä tulivat jonkin julkaisun kautta:
 				The goal of the SmartAgrifood Project (SAF) is to link the different areas by integrating FI-WARE’s GEs and introducing appropriate tools and services that are specialized to perform specific tasks (e.g., monitoring and advising greenhouse owners for their crop, monitoring and recording the environmental conditions of fruits and vegetables, providing tailored information to end consumers). In SAF, we have defined three subsystems, one per each already described sub-domain. The first one, called Farm Management System (FMS), deals with management and control of tasks undertaken by farmers [9]"
 		"p.60 Conclusions
 		...these services are not stored locally on an end device but rather they have access to the same data (e.g., farmer’s data) stored in the cloud. This way, end users will be able to build their own tailor cut environment in an affordable way. The concepts will be tested in real life in the context of a new ambitious project, in the context of FI-PPP, called cSpace that is starting in April 2013."
+
+---------------------------------------------------------------------------------------------------
+
+# FAO AGP-haku
+
+Haettu AGP-sivujen custom Google-haulla <13-07-2018  16:07>
+	Hakulause:
+		Internet of things
+	Löydetty:
+		The possibilities of Internet of Things (IoT) for Agriculture
+			[http://www.fao.org/e-agriculture/news/possibilities-internet-things-iot-agriculture]
+			...
+			Further reading
+				**World Bank: Agriculture 2.0: how the Internet of Things can revolutionize the farming sector** 
+				Lee, Choudhary 2017-08-17
+					[http://blogs.worldbank.org/ic4d/agriculture-20-how-internet-things-can-revolutionize-farming-sector]
+					"managing these inputs efficiently is difficult without consistent and precise monitoring...many of them still rely on guess work, rather than data, for their farming decisions."
+					"The benefits that farmers get from IoT application in agriculture are twofold. First, these systems help farmers decrease production costs and waste by optimizing the use of inputs. In addition, IoT can increase yields by improving their decision-making with more and accurate data."
+					"challenges to IoT in agriculture persist in less developed regions. First, remote areas tend to lack communication network infrastructure. Also, farmers need to be presented with the right incentives to buy into IoT systems, whose upfront installation costs are still quite expensive."
+					"**!**World Bank is unveiling a new webinar series on the Internet of Things for Agriculture (IoT4Ag).**!**"
+					"We recognize the potential of IoT in facilitating sustainable agriculture...We also acknowledge the challenges of applying and scaling up IoT in agriculture in the development context...understand the future of agriculture and respond to the new set of risks that could come with the deployment of IoT in the sector, such as increasing privacy and cybersecurity threats."
+				Jonka kautta löydetty (linkki tekstissä):
+					**Webinar Series: Internet of Things for Agriculture**
+						[http://www.worldbank.org/en/events/2017/06/27/webinar-series-internet-of-things-for-agriculture#2]
+						...
+					Jonka webinaarissa 9 "The Yield"
+						[]
+						Kohdassa 13:25 kerrotaan tuotteesta ja UXn tärkeydestä kohdassa noin 14:00.
+						Kohdassa 22:05 Challenges solving: Systems thinking oli useita tuttuja haasteita.
+					The Yield:in sivuilla artikkelissa **What exactly is IoT technology?** [https://www.theyield.com/post/what-exactly-is-iot-technology] kohdassa **IoT in agriculture** mainittu **Agfunder Global Innovation Awards (San Francisco)**
+					Lisäksi The Yield:in sivuilla monia hyviä viittauksia löytyy **Insights, stories & news** kautta [https://www.theyield.com/news-insights]
+
+
 
 ---------------------------------------------------------------------------------------------------
 
