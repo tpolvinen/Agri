@@ -35,7 +35,7 @@ Investointien laskentaan ei ole tietoa,1.19
 Järjestelmäintegraatio,1.25,2.5,2.6,2.7,2.8,2.9,2.13,2.31,2,43,3.8,4.1,4.3,4.20,4.27,5.5,5.9,5.18
 Järjestö AEF,1.9,4.7
 Järjestö OADA OpenAG Data Alliance,1.26
-Kannattavuus,1.19,1.48,2.20,2.26,2.29,2.34,2.36,4.8,4.19,4.22,5.1,5.14
+Kannattavuus,1.19,1.48,2.20,2.26,2.29,2.34,2.36,3.43,4.8,4.19,4.22,5.1,5.14
 Karttatiedostot,2.14,2.39
 Karttatiedot Ortomosaiikkikartta,2.14,3.12,4.10,4.11
 Kasvihuoneautomaatio,1.3,1.4,1.36,4.17,4.19
@@ -73,7 +73,7 @@ Ohjelmistojen tekijänoikeudet,3.30,3.31
 Ohjelmistopäivitykset,3.31
 Ohjelmistotuotannon ala,3.31,3.33
 Olosuhteiden vaihtelut Ilmastonmuutos tilannehallinta,1.33,1.48,2.27,2.28,2.29
-Perustellut investoinnit,1.29,1.30,1.35,2.34
+Perustellut investoinnit,1.29,1.30,1.35,2.34,3.43
 Pilvipalvelut,1.9,1.12,1.15,1.16,1.26,1.27,2.6,2.7,3.17,4.9,4.24,5.5
 Prototyypit,3.32
 Päätöksentekon avustaminen,1.24,1.48,1.49,2.1,2.2,2.3,2.17,2.18,2.20,2.31,2.33,3.19,4.3,5.1,5.2,5.3,5.4,5.12
@@ -101,11 +101,11 @@ Sensoriverkot,3.35,3.42,4.2
 Sertifikaatit,4.14
 Siirrettävät muistivälineet,2.10
 Siirtymä datan käyttöön,1.30,1.33
-Smart Farming,1.34,1.47
+Smart Farmings
 Sovelluskirjo,4.13,4.27
 Standardit Avoimet,1.14,1.15,1.26,1.30,1.32,4.7
 Standardit ISOBUS,1.9,1.31,3.4,3.7,3.8,3.10,3.44,3.45,3.46,3.48,4.5,4.7,5.5,5.9,5.10
-Standardit Muut,1.13,1.14,1.31,1.32,2.44,3.4,3.5,
+Standardit Muut,1.13,1.14,1.31,1.32,2.44,3.4,3.5
 Suomalaisen viljely-ympäristön erityispiirteet,1.38,1.40,1.41,2.37,2.46,3.12,3.42,4.21,4.22,5.12
 Systeemiautomaatio,1.24
 Sääasemat,3.20,3.42
@@ -152,11 +152,11 @@ Tulevaisuuden tietojärjestelmät,1.13,1.20,2.11,2.31,2.41,2.43,4.20,5.16,5.17,5
 Tuotannon historiatiedot,2.27,2.33,2.38,5.1
 Tuotantoketju,1.13,1.42,2.32,3.19,3.39,3.41,5.19
 Tuotantoketju Toimijoiden verkostomainen toiminta,1.13,1.30
-Tuotantoketjun Verkostoitumisalusta myyntiin ja ostoihin,1.18,1.27,1.28
+Tuotantoketjun Verkostoitumisalusta myyntiin ja ostoihin,1.18,1.27,1.28,
 Tuotantoketjun data,1.13,1.42,1.43,1.44,1.45,2.32,3.39,3.41,4.13,4.14,5.11,5.14
 Tuotantoketjun valvonta,3.39,3.41,4.14
-Tuotantopanokset, 2.18,2.22,2.32,4.28
-Tuotantopanokset Lannoitepanokset,1.43,2.16,2.27,4.29
+Tuotantopanokset,2.18,2.22,2.32,4.28
+Tuotantopanokset Lannoitepanoksets
 Tuotantotapatieto,1.17,1.33,1.42,1.43,3.2,3.18,3.19,4.13,4.14,4.15,5.11
 Tuotantotapatieto Kuluttajien ymmärryshaaste,1.43,4.13,5.11
 Tuotekehitys asiakaslähtöinen,2.17,5.2,5.15
