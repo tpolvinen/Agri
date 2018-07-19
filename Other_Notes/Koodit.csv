@@ -52,6 +52,16 @@ Tekniikka,Laitejärjestelmät,Full-liner-tuote/järjestelmä,1.7,1.8,1.11,1.15,4
 Tekniikka,Laitejärjestelmät,Kasvihuoneautomaatio,1.3,1.4,1.36,4.17,4.19
 Tekniikka,Laitejärjestelmät,Kasvitehtaat Monikerrosviljely,1.4,4.17
 Tekniikka,Laitejärjestelmät,Konttiviljelmät,4.18
+Tekniikka,Ratkaisu/tuote,365FarmNet,2.7
+Tekniikka,Ratkaisu/tuote,Agrirouter,5.5,5.7,5.8,5.9
+Tekniikka,Ratkaisu/tuote,Agrismart (Agrineuvos),4.5
+Tekniikka,Ratkaisu/tuote,Farmersbusinessnetwork.com,1.16,1.26,1.27
+Tekniikka,Ratkaisu/tuote,Farmidiili,1.27
+Tekniikka,Ratkaisu/tuote,Farmobile.com,1.16,1.26,1.27
+Tekniikka,Ratkaisu/tuote,MyYara -viljelijäportaaliohjelmisto,2.6
+Tekniikka,Ratkaisu/tuote,VTT Owela,1.42
+Tekniikka,Ratkaisu/tuote,Valtra Smart,3.21
+Tekniikka,Ratkaisu/tuote,Yara N-sensor,2.14,2.16,2.19,2.20,2.22,2.34,3.11
 Tekniikka,Standardi,Avoimet,1.14,1.15,1.26,1.30,1.32,4.7
 Tekniikka,Standardi,ISOBUS,1.9,1.31,3.4,3.7,3.8,3.10,3.44,3.45,3.46,3.48,4.5,4.7,5.5,5.9,5.10
 Tekniikka,Standardi,Muut,1.13,1.14,1.31,1.32,2.44,3.4,3.5
@@ -171,13 +181,3 @@ Toimintaympäristö,Tuotantoketju,Tuotantoketju yleensä,1.13,1.42,2.32,3.19,3.3
 Toimintaympäristö,Tuotantoketju,Tuotantoketjun data,1.13,1.42,1.43,1.44,1.45,2.32,3.39,3.41,4.13,4.14,5.11,5.14
 Toimintaympäristö,Tuotantoketju,Tuotantoketjun valvonta,3.39,3.41,4.14
 Toimintaympäristö,Yhtiö,Agrineuvos,4.5,4.7
-X,Ratkaisu/tuote,365FarmNet,2.7
-X,Ratkaisu/tuote,Agrirouter,5.5,5.7,5.8,5.9
-X,Ratkaisu/tuote,Agrismart (Agrineuvos),4.5
-X,Ratkaisu/tuote,Farmersbusinessnetwork.com,1.16,1.26,1.27
-X,Ratkaisu/tuote,Farmidiili,1.27
-X,Ratkaisu/tuote,Farmobile.com,1.16,1.26,1.27
-X,Ratkaisu/tuote,MyYara -viljelijäportaaliohjelmisto,2.6
-X,Ratkaisu/tuote,VTT Owela,1.42
-X,Ratkaisu/tuote,Valtra Smart,3.21
-X,Ratkaisu/tuote,Yara N-sensor,2.14,2.16,2.19,2.20,2.22,2.34,3.11

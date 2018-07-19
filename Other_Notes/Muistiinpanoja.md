@@ -783,6 +783,17 @@ Mitkä haastattelujen tiedot ovat tärkeitä tutkimuskysymyksiin vastatessa? Mit
 > 	
 > Määrää on tosiaan, jos haluat karsia niin tee se sivulauseista ja pohdinnoista, ja jätä väitelauseet ja faktat jäljelle. 
 
+<17-07-2018  23:55>
+	Kirjoitan seuraavaksi metodit aff-analyysistä --mihin kohtaan? Katson mallia graduista.
+	Samalla havainnot kohtaan Haastattelujen tulokset. 
+	Mistä nähdään laajat trendit haastatteluista? Katsotan millaisia laitteita ja teknologioita on tuotu esille, jota kuvastavat trendejä.
+	"Nämä ovat esimerkkejä suunnasta, johon ollaan menossa: Agrirouter et al. Nämä on nyt: ISOBUS, N-sensor, ValtraSmart, dronekuvaus, maaperäskannaus (oliko haastiksissa?) (mitä kasvihuoneista? ks. konttifirmat, kasvitehtaat...)...ollaan menossa kohti data- ja järjestelmäintegraatiota." Katson mitä katsauksissa oli trendeinä.
+	*saisiko tästä esittelykappaleen Haastattelujen tulokset-kohtaan?*
+	*kun esittely on tehty, katsotaan...miten viedään lukijaa numeroiden tulkintaan? Kuiteskin kuvataan mitä haastatteluista löytyy lukuina ja fiiliksinä.*
+
+Pitää myös kirjoittaa haastattelujen metodit! Myös haastateltavien valikoituminen mukaan.
+Plus mitk olivat haastatteluteemat ja miten kunkin haastateltavan erikoisala ja kokemukset vaikuttivat haastattelujen kulkuun.
+
 5. Loput kirjallisuuskatsaukset relevanteilta osin samoin muistiinpanoiksi -> luonnokseen
 6. Muut katsaukset samoin
 7. Keskeisimmät tieteelliset julkaisut, konferenssipaperit ja muut vastaavat, samoin
@@ -1230,10 +1241,20 @@ Haettu AGP-sivujen custom Google-haulla <13-07-2018  16:07>
 	Hakulause:
 		Internet of things
 	Löydetty:
-		The possibilities of Internet of Things (IoT) for Agriculture
+		Hakutuloksia: about 6510 results
+		[http://www.fao.org/search/en/?cx=018170620143701104933%3Aqq82jsfba7w&q=internet+of+things&x=0&y=0&cof=FORID%3A9&siteurl=www.fao.org%2Fagriculture%2Fcrops%2Fagp-home%2Fen%2F%3Fno_cache%3D1&ref=&ss=9579j16659189j18]
+		**The possibilities of Internet of Things (IoT) for Agriculture**
 			[http://www.fao.org/e-agriculture/news/possibilities-internet-things-iot-agriculture]
-			...
-			Further reading
+			*Tätä voisi käyttää taustan lähteenä perusteluihin, miksi AIoT on tärkeää.*
+			Quick read:
+				The world still need more food to feed the growing population
+				Internet of Things (loT) is being used in agriculture
+				Some advantages of Internet of Things (loT) 
+				Learn more about Internet of Things (loT)
+			*Yksinkertaisista prototyypeistä...*
+				"In some cases, the farmer can remotely control the activities in the farm due to this connectivity. Is this possible? Yes, remember one of the e-Agriculture webinars on Nano Ganesh explained the mobile-based remote controller for water pumps."
+			*...voisi johdattaa kunnon tuotteisiin. Missä olikaan se peltotuotannon IoT-tuote?*
+			Further reading -kohdasta löytyi:
 				**World Bank: Agriculture 2.0: how the Internet of Things can revolutionize the farming sector** 
 				Lee, Choudhary 2017-08-17
 					[http://blogs.worldbank.org/ic4d/agriculture-20-how-internet-things-can-revolutionize-farming-sector]
@@ -1242,16 +1263,24 @@ Haettu AGP-sivujen custom Google-haulla <13-07-2018  16:07>
 					"challenges to IoT in agriculture persist in less developed regions. First, remote areas tend to lack communication network infrastructure. Also, farmers need to be presented with the right incentives to buy into IoT systems, whose upfront installation costs are still quite expensive."
 					"**!**World Bank is unveiling a new webinar series on the Internet of Things for Agriculture (IoT4Ag).**!**"
 					"We recognize the potential of IoT in facilitating sustainable agriculture...We also acknowledge the challenges of applying and scaling up IoT in agriculture in the development context...understand the future of agriculture and respond to the new set of risks that could come with the deployment of IoT in the sector, such as increasing privacy and cybersecurity threats."
-				Jonka kautta löydetty (linkki tekstissä):
-					**Webinar Series: Internet of Things for Agriculture**
-						[http://www.worldbank.org/en/events/2017/06/27/webinar-series-internet-of-things-for-agriculture#2]
-						...
-					Jonka webinaarissa 9 "The Yield"
-						[]
-						Kohdassa 13:25 kerrotaan tuotteesta ja UXn tärkeydestä kohdassa noin 14:00.
-						Kohdassa 22:05 Challenges solving: Systems thinking oli useita tuttuja haasteita.
-					The Yield:in sivuilla artikkelissa **What exactly is IoT technology?** [https://www.theyield.com/post/what-exactly-is-iot-technology] kohdassa **IoT in agriculture** mainittu **Agfunder Global Innovation Awards (San Francisco)**
-					Lisäksi The Yield:in sivuilla monia hyviä viittauksia löytyy **Insights, stories & news** kautta [https://www.theyield.com/news-insights]
+						Jonka kautta löydetty (linkki tekstissä):
+							**Webinar Series: Internet of Things for Agriculture**
+								[http://www.worldbank.org/en/events/2017/06/27/webinar-series-internet-of-things-for-agriculture#2]
+								...
+							Jonka webinaarissa 9 "The Yield"
+								[]
+								Kohdassa 13:25 kerrotaan tuotteesta ja UXn tärkeydestä kohdassa noin 14:00.
+								Kohdassa 22:05 Challenges solving: Systems thinking oli useita tuttuja haasteita.
+								The Yield:in sivuilla artikkelissa **What exactly is IoT technology?** [https://www.theyield.com/post/what-exactly-is-iot-technology] kohdassa **IoT in agriculture** mainittu **Agfunder Global Innovation Awards (San Francisco)**
+								Lisäksi The Yield:in sivuilla monia hyviä viittauksia löytyy **Insights, stories & news** kautta [https://www.theyield.com/news-insights]
+				**The research of IOT of agriculture based on three layers architecture**
+				Fu Bing 2016-10-22
+					[https://ieeexplore.ieee.org/document/7868325/?part=1]
+					*Tämä voisi olla esimerkki puutarhasovelluksesta tautitunnistuksessa. Prototyyppi, pieni testi kentällä.*
+					FAO-laina, sitten "China's agriculture is in the period of the transformation of traditional agriculture to modern agriculture. The implementation of this technical system, Internet of things and the expert system will play an unique and important role..."
+				**Precision agriculture and the future of farming in Europe - Scientific Foresight Study**
+					[http://www.europarl.europa.eu/RegData/etudes/STUD/2016/581892/EPRS_STU(2016)581892_EN.pdf]
+					Abstractista: "...PA methods promise to increase the quantity and quality of agricultural output while using less input (water, energy, fertilisers, pesticides, etc.). The aim is to save costs, reduce environmental impact and produce more and better food. The methods of PA rely mainly upon a combination of new sensor technologies, satellite navigation and positioning technology, and the Internet of Things. PA has been making its way into farms across Europe and is increasingly assisting farmers in their work."
 
 
 

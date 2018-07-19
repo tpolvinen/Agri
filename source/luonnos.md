@@ -38,7 +38,7 @@ Tässä opinnäytetyössä käytetään lähdeviittausten tyylinä Södertörns 
 
 *Kirjoitetaan kun muut luvut ovat valmiit. <15-05-2018  12:25> Siirretty Tiiviisti.md:hen työstettäväksi.*
 
-# TEORIATAUSTA / TEOREETTINEN VIITEKEHYS
+# AIOT:N TAUSTA / TEORIATAUSTA / TEOREETTINEN VIITEKEHYS
 
 ## Meta (poistettava otsikko)
 
@@ -46,11 +46,10 @@ Tässä opinnäytetyössä käytetään lähdeviittausten tyylinä Södertörns 
 Tässä luvussa pyritään kuvailemaan millainen kasvintuotannon IoT:n tausta on, millaisista osailmiöistä se koostuu ja mitä kasvintuotannon IoT:stä on kirjoitettu. *Ompas kömöä kieltä, mutta palataan tähän kun luku on kirjoitettu.*
 Ensin tutustutaan osailmiöhin IoT, IIoT, AIoT ja kasvintuotanto, joiden määrittelyä, taustaa, historiaa ja nykytilaa kuvaillaan pintapuolisesti. IoT:iin liittyviä ilmiöitä IIoT sekä AIoT kuvaillaan myös pintapuolisesti ja osoitetaan miten ne liittyvät kasvintuotannon IoT:iin.
 
-## Taustaa (poistettava otsikko)
-
 ## Kasvintuotanon taustaa
 
 ### Kasvintuotannon määrittely
+
 *Tähän kasvintuotannon määritelmä*
 
 ### Kasvintuotannon historiaa
@@ -66,6 +65,14 @@ Ensin tutustutaan osailmiöhin IoT, IIoT, AIoT ja kasvintuotanto, joiden määri
 ## Esineiden internetin eli Internet of Things:in taustaa
 
 *Tähän IoT:n määritelmät, historia*
+
+### Teollisuuden esineiden Internetin eli Industrial Internet of Things:in taustaa
+
+*Miten IIoT on osa IoTtä...*
+
+### Maatalouden esineiden Internetin eli Agricultural Internet of Things:in taustaa
+
+*...ja miten AIoT on osa IIoTtä.*
 
 Kirjallisuuskatsausten havainnot:
 
@@ -83,10 +90,10 @@ Kirjallisuuskatsauksessa käsitellyistä tutkimuksissa AIoT:tä käytetään eni
 
 @verdouwInternetThingsAgriculture2016a
 
-# TUTKIMUSPROSESSI / TUTKIMUSSUUNNITELMA
+# OPINNÄYTETYÖN TARKOITUS, TAVOITE JA TUTKIMUSKYSYMYKSET / TUTKIMUSSUUNNITELMA
 
 ## Meta (poistettava otsikko)
-Tässä luvussa pyritään kuvailemaan toteutetun tutkimuksen tavoitteet, menetelmät ja eteneminen.
+Tässä luvussa pyritään kuvailemaan toteutetun tutkimuksen tarkoitus, tavoitteet, tutkimuskysymykset, aineisto, menetelmät ja eteneminen.
 
 ## MAHD. Kuvaileva kirjallisuuskatsaus
 *Tarvitaanko tähän yleistä kuvailua kuvailevasta kirjallisuuskatsauksesta tutkimusotteena?*
@@ -94,17 +101,95 @@ Tässä luvussa pyritään kuvailemaan toteutetun tutkimuksen tavoitteet, menete
 ## MAHD. Teemahaastattelu
 *Tarvitaanko tähän yleistä kuvailua teemahaastatteluista tutkimusotteena?*
 
-## MAHD. Affiniteettianalyysi tai Ankkuroitu teoria
-*Tarvitaanko tähän yleistä kuvailua affiniteettianalyysistä tai ankkuroidusta teoriasta tutkimusotteena?*
+## MAHD. Affiniteettianalyysi tai Sisällönanalyysi (oli: Ankkuroitu teoria)
+*Tarvitaanko tähän yleistä kuvailua affiniteettianalyysistä tai sisällönanalyysistä tai mikälie (ankkuroidusta teoriasta) tutkimusotteena?*
+
+## Tutkimuksen tarkoitus
 
 ## Tutkimuksen tavoitteet
 
+## Tutkimuskysymykset
 
 ## Aineisto ja (tutkimus)menetelmät
 
+### Kuvailevan kirjallisuuskatsausksen toteutus
+
+#### Aineistojen haku
+
+#### Aineistojen haun tulokset ja aineistojen valinta
+
+#### MAHD. Aineiston analyysimenetelmä
+
+*Tarvitaanko kuvailevasta kirjallisuuskatsausksesta Aineiston analyysimenetelmä -kappaletta?*
+
 ### Asiantuntijoiden teemahaastattelut
 
-## Aineiston analyysiprosessi
+#### Haastateltavien valinta
+
+#### Teemahaastattelujen toteutus
+
+#### Haastatteluaineiston analyysimenetelmä
+
+##### Sisällönanalyysi / Affiniteettianalyysi /Aineistolähtöinen eli Ground Up -metodi teemoittelulla ja taulukoinnilla
+
+*Olisi tyylikästä, jos kaikki IoT-ketjun osa-alueet tulisivat tasaisesti esille, mutta epätasaisuus saattaa viitata AIoT-sovellusten kypsyyden keskeneräisyyteen, omaksumiseen, käytettävyyteen jne.*
+
+*Koska analyysi on tehty kokonaan kirjoittajan toimesta, on siinä suurempi vaara virheisiin kuin useamman tekijän tarkistamissa vastaavissa.*
+
+*Jos affiniteettianalyysissä korostuvat integraatiot ja muut kokonaisuuden luomiseen tähtäävät teemat, voisi ehkä ja mahdollisesti päätellä, että ollaan vaiheessa. :)*
+
+Sisällönanalyysiä käytetään yleisesti haettaessa vastauksia laadullisiin tutkimuskysymyksiin. (LÄHDE?) Haastattelumateriaalin analysointiin valittiin sisällönanalyysin kaltainen metodi, jolla pyritään tuomaan esille haastatteluissa käsiteltyjen teemojen esiintymiä ja yhteyksiä. Havaittujen esiintymien yleisyyden, samankaltaisuuksien tarkastelun ja havainnollistamisen avulla pyritään tuottamaan lukijalle käsitys aihepiirin keskeisistä ajankotaisista asioista.
+
+Tutkittaessa eri metodeita haastattelumateriaalin havainnollistamiseen ja tiivistämiseen tutustuttiin pintapuolisesti ensin affiniteettianalyysiin, sisällönanalyysiin, Grounded theoryyn (ankkuroitu teoria), sisällön teemoitteluun ja taulukointiin. 
+
+Käytännön kokeilujen kautta päädyttiin sisällönanalyysiä soveltavaan metodiin, jossa käytettiin taulukointia ja jatkuvaa aineiston vertailun metodia. Käytetyn metodin avulla pyrittiin tiivistämään materiaalista havaitut merkitykselliset ilmaisut, asiasanat ja teemat kokonaisuuksiksi, joiden samankaltaisuutta, erilaisuutta, esiintymiä ja yhteyksiä voidaan tarkastella ja analysoida. Analyysillä pyrittiin trianguloimaan haastatteluista saatuja *narratiivisia* tuloksia niiden luotettavuuden tarkistamiseksi. Lisäksi analyysillä pyrittiin havaitsemaan yhteyksiä kokonaisuuksien välillä ja tätä kautta pohtimaan haastattelujen tuloksia eri näkökulmista.
+
+Triangulaation luotettavuutta sekä uusien näkökulmien havainnointia pyrittiin edistämään soveltamalla aineistolähtöistä (eng. Groud up) kategorioiden kehittelyä, jossa aikaisempien tietojen vaikutus tutkittavasta ilmiöstä pyrittiin minimoimaan.
+*Tarvitaanko näihin metodeihin lähdeviittaukset?*
+
+Tuloksia tarkasteltaessa on otettava huomioon, että teemojen yleisyys ei välttämättä korreloi niiden merkittävyyden kanssa. Samoin on otettava huomioon virheiden ja tekijän subjektiivisten näkemysten vaikutuksen mahdollisuus, mitkä korostuvat teemoittelun ollessa kokonaan yhden tekijän käsialaa -- sekä erityisesti tekijän kokemattomuus.
+
+
+#### Koodaus ja koodien kategorisointi
+
+*"...Keskeistä on löytää väittämiä, jotka ilmaisevat jotain tutkittavasta ilmiöstä."*
+
+Haastattelujen litteroinneista kirjoitettujen yleiskielisten tekstien segmentit numeroitiin haastattelun numeron ja juoksevan numeroinnin yhdistelmällä.
+
+Numeroinnin jälkeen aineistot luettiin huolellisesti ja koodit muodostettiin etsimällä aineistosta merkitykselliset ilmaisut. Ilmaisut pelkistettiin eli koodattiin, koodit taulukoitiin ja koodeille merkittiin ilmaisujen esiintymiskohta segmentin numerolla. Samalla koodeja vertailtiin jatkuvasti keskenään ja muokattiin tarkoituksenmukaisemmiksi jatkuvan vertailun metodin mukaisesti.
+
+Ensimmäisen läpikäynnin tuloksena saatiin 159 koodia ja toisella läpikäynnillä koodien määrä nousi 180:een.
+
+Toisella aineiston läpikäynnillä koodeja luokiteltiin myös alikategorioihin ja kategorioihin. Samoin kuin ensimmäisellä läpikäynnillä, koodeja, alikategorioita ja kategorioita muokattiin jatkuvasti. Jatkuvalla vertailulla pyrittiin samalla varmistamaan teemojen oikeellisuus sekä esiintymisten kirjaus.
+
+Taulukossa koodien esiintymät laskettiin kunkin yhteen kunkin koodin osalta, jonka jälkeen laskettiin kunkin koodin esiintymät kussakin haastattelussa. Saaduista luvuista tuotettiin taulukkoon Excelin Conditional Formatting -toiminnolla yksinkertainen lämpökartta, josta voitiin havainnoida koodien esiintymiä sekä yhdessä että haastattelukohtaisesti.
+
+*Tähän tarvitaan vielä ainakin kuvaus Rllä tehdyn kuvaajan tekemisestä -- ja mitä näistä kaikista haetaan!*
+
+Esiintymien tiheyden ja samankaltaisuuden avulla pyrittiin luomaan kokonaiskuva teemojen yleisyydestä, yhtäläisyyksistä ja erilaisuudesta.
+
+
+
+
+
+
+Teemojen esiintymisestä haastatteluissa havainnollistettiin haastattelukohtaisiin taulukkoihin, joihin merkittiin teeman esiintyminen muistiinpanokappaleissa. (taulukot) 
+
+*Oma huomio: paikkatiedosta ei puhuttu kovin paljoa, mutta se on kaikkien automaattiohjaus- ja karttasovellusten edellytys. Voi olla, että siitä on tulossa tai tullut niin "perusteknologiaa" että se jätetään mainitsematta.*
+
+*Oma huomio: (per haastis 1.33) ei vielä automaattisesti data-analyysin perusteella järjestelmien toimeenpanemia viljelytoimia, vaan viljelyprosessien haltuunottoa, mittaamisen ja sensoroinnin laajempaa omaksuntaa/käyttöönottoa. Samoin haastiksessa 2 puhutaan havainnoinnista ja suoraan lannoittimeen vaikuttamisesta sensorin avulla CAN-väylän kautta, mutta ei käsitellä automaattista toimintaa ja haastateltava välttäisi viljelypäätösten automaattista tekemistä ja toimeenpanoa. Samoin haastiksessa 3 oli: FMS tulee antamaan suosituksia helpottamaan viljelijän toimintaa ja päätöksentekoa -- mutta ei automaattisesti lähettämään työkoneita pelloille tehtävien kanssa.*
+
+*Oma huomio: Datan osto ja myynti, 1.16, 2.41, 3.18 --FarMobile & al, mutta ei täällä; visiona datasettien vertailu- myynti- & ostoalusta on mahdollinen; tuotantotapatieto on pakko antaa mukaan eikä ole tietoa kuka siitä hyötyisi niin, että maksaisi -> ei talousmekanismeja datamarkkinoille.*
+
+
+
+
+
+
+
+
+
+
 
 
 # TUTKIMUSTULOKSET
@@ -125,42 +210,13 @@ Muiden katsausten, koosteiden ja vastaavien julkaisujen tuloksia, havaintoja ja 
 
 ## Haastattelujen tulokset
 
-### Affiniteettianalyysi -- tai analyysi ankkuroidun teorian mukaan?
-
-*Olisi tyylikästä, jos kaikki IoT-ketjun osa-alueet tulisivat tasaisesti esille, mutta epätasaisuus saattaa viitata AIoT-sovellusten keskeneräiseen kypsyyteen, omaksumiseen, käytettävyyteen jne.*
-
-*Koska analyysi on tehty kokonaan kirjoittajan toimesta, on siinä suurempi vaara virheisiin kuin useamman tekijän tarkistamissa vastaavissa.*
-
-*Jos affiniteettianalyysissä korostuvat integraatiot ja muut kokonaisuuden luomiseen tähtäävät teemat, voisi ehkä ja mahdollisesti päätellä, että ollaan vaiheessa. :)*
-
-Ground up -metodi:
-
-Haastattelujen litteroinnit ja niistä puhtaaksikirjoitetut muistiinpanot käytiin läpi kirjaten taulukkoon asiasanat, teemat, teknologiat jne. sekä mistä haastattelusta ja muistiinpanojen kappaleessa kyseistä teemaa käsiteltiin.
-Ensimmäisen läpikäynnin tuloksena saatiin 159 teemaa.
-
-Toisella läpikäynnillä pyrittiin keräämään teemoja ryhmiin, varmistamaan teemojen oikeellisuus sekä esiintymisten kirjaus, koska useita teemoja oli ensimmäisen läpikäynnin tuloksissa merkitty esiintyneen vain muutamia kertoja.
-
-Läpikäyntien jälkeen teemat ryhmiteltiin ja niistä muodostettiin sanapuu/miellekartta. (kuva)
-
-Teemojen esiintymisestä haastatteluissa havainnollistettiin haastattelukohtaisiin taulukkoihin, joihin merkittiin teeman esiintyminen muistiinpanokappaleissa. (taulukot) *Tai jokin hianompi ku taulukko jos googlen hyllystä löytyy!*
-
-*Oma huomio: paikkatiedosta ei puhuttu kovin paljoa, mutta se on kaikkien automaattiohjaus- ja karttasovellusten edellytys. Voi olla, että siitä on tulossa tai tullut niin "perusteknologiaa" että se jätetään mainitsematta.*
-
-*Oma huomio: (per haastis 1.33) ei vielä automaattisesti data-analyysin perusteella järjestelmien toimeenpanemia viljelytoimia, vaan viljelyprosessien haltuunottoa, mittaamisen ja sensoroinnin laajempaa omaksuntaa/käyttöönottoa. Samoin haastiksessa 2 puhutaan havainnoinnista ja suoraan lannoittimeen vaikuttamisesta sensorin avulla CAN-väylän kautta, mutta ei käsitellä automaattista toimintaa ja haastateltava välttäisi viljelypäätösten automaattista tekemistä ja toimeenpanoa. Samoin haastiksessa 3 oli: FMS tulee antamaan suosituksia helpottamaan viljelijän toimintaa ja päätöksentekoa -- mutta ei automaattisesti lähettämään työkoneita pelloille tehtävien kanssa.*
-
-*Oma huomio: Datan osto ja myynti, 1.16, 2.41, 3.18 --FarMobile & al, mutta ei täällä; visiona datasettien vertailu- myynti- & ostoalusta on mahdollinen; tuotantotapatieto on pakko antaa mukaan eikä ole tietoa kuka siitä hyötyisi niin, että maksaisi -> ei talousmekanismeja datamarkkinoille.*
 
 
-#### Koodaus ja koodien kategorisointi
-
-*...jos jollekin koodille havaittiin tulevan vähemmän havaintoja kuin oli odotettavissa käytiin haastattelut läpi kyseisen koodin näkökulmasta. Samalla tehtiin haastattelumateriaaliin sanahakuja sekä vertailtiin kyseessä olevan koodin havaintoja muitten samassa tai läheisissä segmenteissä esiintyvien koodien havaintoihin.*
 
 #### Koodien ja kategorioiden havaitut esiintymät haastatteluissa
 
 
-
-
-### Haastattelujen kuvaus???
+### Haastattelujen kuvaus??? Mahd. myös kirjallisuuskatsauksen kuvaus
 
 Haastatteluissa käsiteltyjen keskeisten teemojen mukaan jaotellut haastattelutulokset.
 
@@ -504,7 +560,8 @@ Teknologia koneoppimisen ja keinoälyn soveltamiseen peltotuotannossa on E.E.n m
 # POHDINTA
 
 ## Meta (poistettava otsikko)
-...
+...koskien haastattelutilanteita yleensä: ...tämä lähestymistapa, tai pikemminkin lähestyjän eli tekijän laatu, voi olla monelle tekniikan asiantuntijalle työläs. Tekijän ennakko-odotukset, tietämättömyys ja alaan perehtymättömyys ovat kuitenkin voineet tuoda haastatteluihin tiettyä perusteellisuutta, selityksiä ja syy-yhteyksien avaamisia joita asiantunteva haastattelija ei olisi joutunut käymään läpi -- eivätkä ne mahdollisesti olisi välittyneet tekstiin niin akuutisti kuin asiaan aikaisemmin perehtynyt lukija tarvitsisi.
+
 
 ## Luotettavuus
 
