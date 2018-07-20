@@ -153,7 +153,7 @@ Käytetyn metodin avulla pyrittiin tiivistämään materiaalista havaitut merkit
 Triangulaation luotettavuutta sekä uusien näkökulmien havainnointia pyrittiin edistämään soveltamalla aineistolähtöistä (eng. Groud up) kategorioiden kehittelyä, jossa aikaisempien tietojen vaikutus tutkittavasta ilmiöstä pyrittiin minimoimaan. Tämän takia tuloksena saadut kategoriat eivät vastaa muissa aihetta käsittelevissä julkaisuissa käytettyjä. Tämä voi vähentää haastattelumateriaalin analyysin vertailtavuutta mutta toisaalta voi tuoda paremmin esille materiaalin erityispiirteet.
 *Tarvitaanko näihin metodeihin lähdeviittaukset?*
 
-Tuloksia tarkasteltaessa on otettava huomioon, että teemojen yleisyys ei välttämättä korreloi niiden merkittävyyden kanssa. Lisäksi suuressa osassa koodeja havaittiin vain muutamia esiintymiä, jolloin virheellisten havaintojen paino koodin ja alikategorian luokittelussa voi johtaa tuloksista tehtäviä johtopäätöksiä harhaan.
+Tuloksia tarkasteltaessa on otettava huomioon, että teemojen yleisyys ei välttämättä korreloi niiden merkittävyyden kanssa. Lisäksi suuressa osassa koodeja havaittiin vain muutamia esiintymiä, jolloin virheellisten havaintojen paino koodin ja alikategorian luokittelussa voi johtaa tuloksista tehtäviä johtopäätöksiä harhaan. Koodien havaintojen laskennassa olisi voinut vertailun vuoksi käyttää myös sääntöä, jossa kahdessa tai kolmessa peräkkäisessä segmentissä havaittu koodi olisi laskettu yhdeksi havainnoksi. Tämä laskumalli jätettiin opinnäytetyön laajuuden rajallisuuden vuoksi jatkotutkimuksen aiheeksi. 
 
 Samoin on otettava huomioon tekijän kokemattomuus, mikä voi korostaa virheiden ja tekijän omien subjektiivisten näkemysten vaikutuksia. 
 
@@ -166,7 +166,9 @@ Erityisesti on vielä huomioitava koko tutkimusprosessin olevan yhden ensimmäis
 
 Haastattelujen litteroinneista kirjoitettujen yleiskielisten tekstien segmentit numeroitiin haastattelun numeron ja juoksevan numeroinnin yhdistelmällä.
 
-Numeroinnin jälkeen aineistot luettiin huolellisesti ja koodit muodostettiin etsimällä aineistosta merkitykselliset ilmaisut. Ilmaisut pelkistettiin eli koodattiin, koodit taulukoitiin ja koodeille merkittiin ilmaisujen esiintymiskohta segmentin numerolla. Samalla koodeja muokattiin jatkuvan vertailun metodin mukaisesti: koodeja vertailtiin keskenään, materiaalia luettiin uudestaan ja uudestaan eri näkökulmista ja koodeja muokattiin jatkuvasti tarkoituksenmukaisemmiksi. 
+Numeroinnin jälkeen aineistot luettiin huolellisesti ja koodit muodostettiin etsimällä aineistosta merkitykselliset ilmaisut. Ilmaisut pelkistettiin eli koodattiin, koodit taulukoitiin ja koodeille merkittiin ilmaisujen esiintymiskohta segmentin numerolla. Segmenteille ei asetettu rajoituksia koodien määrälle ja kustakin segmentistä tehtiin usein monia havaintoja eri koodeille. Osa koodeista oli yleisiä, osa taas samaa teemaa tietystä näkökulmasta tai kontekstissa käsitteleviä.
+
+Työn edetessä koodeja muokattiin jatkuvan vertailun metodin mukaisesti: koodeja vertailtiin keskenään, materiaalia luettiin uudestaan ja uudestaan eri näkökulmista ja koodeja muokattiin jatkuvasti tarkoituksenmukaisemmiksi. 
 
 Ensimmäisen läpikäynnin tuloksena saatiin 159 koodia ja toisella läpikäynnillä koodien määrä nousi 180:een.
 
@@ -174,15 +176,15 @@ Toisella aineiston läpikäynnillä koodeja luokiteltiin myös alikategorioihin 
 
 Taulukossa koodien esiintymät laskettiin yhteen koodikohtaisesti, jonka jälkeen laskettiin koodikohtaiset esiintymät haastattelukohtaisesti. Saaduista luvuista tuotettiin taulukkoon Excelin Conditional Formatting -toiminnolla yksinkertainen lämpökartta, josta voitiin visuaalisesti havainnoida koodien esiintymiä sekä haastattelukohtaisesti että koko materiaalissa yhdessä.
 
+Haastattelukohtaisten koodien esiintymisten havainnollistamiseksi koodit ja niiden havaitut haastattelukohtaiset esiintymät kopioitiin omaksi taulukokseen. Taulukkoon tehtiin vertailun helpottamiseksi haastattelukohtaiset kaaviot koodikohtaisten havaintojen määristä. Vertailua helpottamaan taulukkoon kopioitiin myös kaikkien havaintojen määrät yhteensä.
+
+
+
 *Tähän tarvitaan vielä ainakin kuvaus Rllä tehdyn kuvaajan tekemisestä -- ja mitä näistä kaikista haetaan!*
 
 Esiintymien tiheyden ja samankaltaisuuden avulla pyrittiin luomaan kokonaiskuva teemojen yleisyydestä, yhtäläisyyksistä ja erilaisuudesta.
 
 
-
-
-
-...havainnollistettiin myös haastattelukohtaisiin taulukkojen avulla joihin merkittiin teeman esiintyminen muistiinpanokappaleissa. (taulukot)
 
 *Oma huomio: paikkatiedosta ei puhuttu kovin paljoa, mutta se on kaikkien automaattiohjaus- ja karttasovellusten edellytys. Voi olla, että siitä on tulossa tai tullut niin "perusteknologiaa" että se jätetään mainitsematta.*
 
@@ -223,6 +225,48 @@ Muiden katsausten, koosteiden ja vastaavien julkaisujen tuloksia, havaintoja ja 
 
 
 #### Koodien ja kategorioiden havaitut esiintymät haastatteluissa / sisällönanalyysiin havainnot / teemoittelun ja taulukoinnin tulokset-havainnot
+
+Koodien havainnot kohdistettiin litteroinneista selkokielisiksi kirjoitettujen tekstien segmentteihin, joiden pituus vaihteli huomattavasti. Jo tämän takia havainnot eivät ole keskenään täysin vertailukelpoisia. Lisäksi havainnoista puuttuu asiakonteksti ja painotukset. Näitä heikkouksia on pyritty lieventämään koodien ja kategorioiden laadinnassa, mutta tuloksia voi pitää vain suuntaa antavina ja tulkinnanvaraisina. Tämän takia havaintoja pyritään käsittelemään suuntauksia ja trendejä peilaavina.
+
+
+##### Koodien havaintojen haastattelukohtaiset kokonaismäärät
+
+Haastattelumateriaalista havaittiin yhdessä haastattelussa olevan enemmän havaintoja kuin muissa. 
+
+Haastattelussa 1 havaittiin 116 eri koodin esiintymää, mikä oli enemmän kuin muissa haastatteluissa. Verrattuna muihin haastatteluihin, haastattelu 1:ssä oli myös eniten toistuvia havaintoja. Tämän mukaan asioita käsiteltiin haastattelu 1:ssä paitsi määrällisesti eniten, niitä käsiteltiin myös useiten. Tämä tukee tekijän tuntumaa siitä, että haastattelu 1 oli aihepiiriltään laajin ja vaihtelevin. Haastattelu 1 oli myös muita haastatteluja noin 20 minuuttia pidempi, mikä on voinut tuoda enemmän aikaa keskustella haastattelun aikana esille tulevista teemoista.
+
+Haastattelussa 2 havaittiin 88 eri koodin esiintymää, haastattelussa 3 vastaavasti 76, samoin haastattelussa 4 niitä oli 75 ja haastattelussa 5 havaintoja oli 78. Keskiarvoisesti haastattelua 1 lukuunottamatta havaittuja koodeja oli siis noin 79 haastattelua kohden. Haastattelu 1 mukaan lukien koodeja havaittiin keskiarvoisesti noin 87 haastattelua kohden.
+
+Kaikissa haastatteluissa yhteensä havaittuja koodeja oli 180.
+
+##### Haastattelujen yhteneväisyydet ja eroavaisuudet
+
+*yhteensä yleisimmät vs. haastattelukohtaisesti yleisimmät?*
+
+Haastattelujen yhteneväisyyksiä ja eroavaisuuksia pyrittiin havainnollistamaan valitsemalla yksittäisissä haastatteluiss yli yksi kertaa havaitut koodit ja vertaamalla niitä yli viisi kertaa koko haastattelumateriaalissa havaittuihin koodeihin. Samalla verrattiin kunkin haastattelun yli yksi kertaa havaittuja koodeja kaikkiin muihin otannan koodeihin, mukaanlukien yli viisi kertaa koko haastattelumateriaalissa havaittut koodit.
+
+Havaintoja ei painotettu niiden määrän mukaan, vaan tarkasteltiin koodien esiintymisiä ylipäätään.
+
+Haastatteluissa yli kerran havaitut koodit löytyivät 53 - 61 % osuudella niiden koodien joukosta, joista oli koko haastattelumateriaalista tehty yli viisi havaintoa. Haastattelujen otannoista eniten yhteneväisyyksiä koko materiaalin otantaan oli Haastattelu 5:llä (61 %). Jakauma oli kohtuullisen tasainen, muiden haastattelujen osuuksien ollessa 59 %, 58 %, 56 % ja 53 %.
+
+Samasta otannasta löytyi vain kerran otannassa ilmeneviä koodeja 17 - 30 % kunkin haastattelun vertailuun otetuista koodeista. Haastattelun 1 otannassa oli 19 uniikkia koodia, mikä oli 30 % haastattelusta yli kerran havaituista koodeista. Tämä oli Haastattelu 3:n kanssa (29 %) suurin osuus, muiden vastaavien osuuksien ollessa 25 %, 22 % ja 17 %.
+
+*tähän voisi laittaa kivan kuvaajan osuuksista*
+
+*Omaa tulkintaa, siirretään tuloksista Johtopäätöksiin (vai Pohdintaan? Vai laitetaanko Johtopäätökset ja Pohdinta yhteen?)* Lukuja tulkitessa tulee ottaa huomioon, että jo yhden koodin havainnon ero aiheutti Haastattelu 4:n ja Haastattelu 5:n välille 2,5 %:n eron. Lisäksi useiden koodien ollessa päällekkäisiä ja/tai samoja aiheita eri konteksteissa käsitteleviä, voidaan lukuja pitää korkeintaan suuntaa-antavina. Luvuista kuitenkin peilautuu haastattelujen luonne, joka antoi kullekin haastateltavalle asiantuntijalle tilaa käsitellä oman osaamisalueensa asioita omalla tavallaan ja omien kokemustensa ja tietojensa viitekehyksessä. Samalla voidaan tulkita selkeästi suurimman osan koodeista löytyessä myös muista haastattelujen havainnoista, että haastattelujen teemat ovat olleet suurelta osalta samankaltaisia.
+
+*Seuraavaksi edistyneempää tavaraa, eli katsotaan tämän otannan keskeisimpiä koodeja (muista avata miten keskeiset valitaan) lämpökartan yhteneväisten koodien kanssa.*
+ 
+
+
+
+
+
+*KUINKA MONTA HAVAINTOA PER SEGMENTTI KESKIMÄÄRIN PER HAASTATTELU?*
+
+
+
+
 
 
 ### Haastattelujen kuvaus??? Mahd. myös kirjallisuuskatsauksen kuvaus
@@ -572,6 +616,7 @@ Teknologia koneoppimisen ja keinoälyn soveltamiseen peltotuotannossa on E.E.n m
 
 ...koskien haastattelutilanteita yleensä: ...tämä lähestymistapa, tai pikemminkin lähestyjän eli tekijän laatu, voi olla monelle tekniikan asiantuntijalle työläs. Tekijän ennakko-odotukset, tietämättömyys ja alaan perehtymättömyys ovat kuitenkin voineet tuoda haastatteluihin tiettyä perusteellisuutta, selityksiä ja syy-yhteyksien avaamisia joita asiantunteva haastattelija ei olisi joutunut käymään läpi -- eivätkä ne mahdollisesti olisi välittyneet tekstiin niin akuutisti kuin asiaan aikaisemmin perehtynyt lukija tarvitsisi.
 
+...voitaisiin soveltaa havaintojen laskennassa sääntöä, jossa kahdessa tai kolmessa peräkkäisessä segmentissä havaittu koodi olisi laskettu yhdeksi havainnoksi.
 
 ## Luotettavuus
 
