@@ -166,17 +166,19 @@ Erityisesti on vielä huomioitava koko tutkimusprosessin olevan yhden ensimmäis
 
 Haastattelujen litteroinneista kirjoitettujen yleiskielisten tekstien segmentit numeroitiin haastattelun numeron ja juoksevan numeroinnin yhdistelmällä.
 
-Numeroinnin jälkeen aineistot luettiin huolellisesti ja koodit muodostettiin etsimällä aineistosta merkitykselliset ilmaisut. Ilmaisut pelkistettiin eli koodattiin, koodit taulukoitiin ja koodeille merkittiin ilmaisujen esiintymiskohta segmentin numerolla. Segmenteille ei asetettu rajoituksia koodien määrälle ja kustakin segmentistä tehtiin usein monia havaintoja eri koodeille. Osa koodeista oli yleisiä, osa taas samaa teemaa tietystä näkökulmasta tai kontekstissa käsitteleviä.
+Numeroinnin jälkeen aineistot luettiin huolellisesti ja koodit muodostettiin etsimällä aineistosta merkitykselliset ilmaisut. Ilmaisut pelkistettiin eli koodattiin, koodit taulukoitiin ja koodeille merkittiin ilmaisujen esiintymiskohta segmentin numerolla. Segmenteille ei asetettu rajoituksia koodien määrälle ja kustakin segmentistä tehtiin usein monia havaintoja eri koodeille. Segmenttien pituus vaihteli huomattavasti ja osittain tämän takia havainnot eivät ole keskenään täysin vertailukelpoisia. Lisäksi havainoille ei merkitty painotuksia. Tämä on pyritty ottamaan huomioon koodien ja kategorioiden laadinnassa, mutta tuloksia ei voi pitää kovin eksakteina vaan enemmänkin suuntaa antavina ja tulkinnanvaraisina. Tämän takia havaintoja pyritään käsittelemään suuntauksia ja trendejä peilaavina.
+
+Osa koodeista oli yleisiä, osa taas samaa teemaa tietystä näkökulmasta tai kontekstissa käsitteleviä.
 
 Työn edetessä koodeja muokattiin jatkuvan vertailun metodin mukaisesti: koodeja vertailtiin keskenään, materiaalia luettiin uudestaan ja uudestaan eri näkökulmista ja koodeja muokattiin jatkuvasti tarkoituksenmukaisemmiksi. 
 
 Ensimmäisen läpikäynnin tuloksena saatiin 159 koodia ja toisella läpikäynnillä koodien määrä nousi 180:een.
 
-Toisella aineiston läpikäynnillä koodeja luokiteltiin myös alikategorioihin ja kategorioihin. Samoin kuin ensimmäisellä läpikäynnillä, koodeja, alikategorioita ja kategorioita vertailtiin ja muokattiin jatkuvasti. Jatkuvalla vertailulla pyrittiin myös varmistamaan sekä teemojen oikeellisuus että havaintojen esiintymisten kirjaus.
+Toisen aineiston läpikäynnin aikana koodeja luokiteltiin myös alikategorioihin ja kategorioihin. Samoin kuin ensimmäisellä läpikäynnillä, koodeja, alikategorioita ja kategorioita vertailtiin ja muokattiin jatkuvasti. Jatkuvalla vertailulla pyrittiin myös varmistamaan sekä teemojen oikeellisuus että havaintojen esiintymisten kirjaus. Ylimmän tason kategorioiksi muodostuivat Maataloustuotanto, Tekniikka ja Toimintaympäristö. Näiden alle muodostui 33 alikategoriaa, joihin koodit luokiteltiin.
 
 Taulukossa koodien esiintymät laskettiin yhteen koodikohtaisesti, jonka jälkeen laskettiin koodikohtaiset esiintymät haastattelukohtaisesti. Saaduista luvuista tuotettiin taulukkoon Excelin Conditional Formatting -toiminnolla yksinkertainen lämpökartta, josta voitiin visuaalisesti havainnoida koodien esiintymiä sekä haastattelukohtaisesti että koko materiaalissa yhdessä.
 
-Haastattelukohtaisten koodien esiintymisten havainnollistamiseksi koodit ja niiden havaitut haastattelukohtaiset esiintymät kopioitiin omaksi taulukokseen. Taulukkoon tehtiin vertailun helpottamiseksi haastattelukohtaiset kaaviot koodikohtaisten havaintojen määristä. Vertailua helpottamaan taulukkoon kopioitiin myös kaikkien havaintojen määrät yhteensä.
+Haastattelukohtaisten koodien esiintymisten havainnollistamiseksi koodit ja niiden havaitut  esiintymät kopioitiin omaksi taulukokseen. Taulukkoon tehtiin vertailun helpottamiseksi haastattelukohtaiset kaaviot koodikohtaisten havaintojen määristä. Vertailua helpottamaan taulukkoon kopioitiin myös kaikkien havaintojen määrät yhteensä.
 
 
 
@@ -187,6 +189,7 @@ Esiintymien tiheyden ja samankaltaisuuden avulla pyrittiin luomaan kokonaiskuva 
 
 
 *Oma huomio: paikkatiedosta ei puhuttu kovin paljoa, mutta se on kaikkien automaattiohjaus- ja karttasovellusten edellytys. Voi olla, että siitä on tulossa tai tullut niin "perusteknologiaa" että se jätetään mainitsematta.*
+
 
 
 
@@ -226,9 +229,8 @@ Muiden katsausten, koosteiden ja vastaavien julkaisujen tuloksia, havaintoja ja 
 
 #### Koodien ja kategorioiden havaitut esiintymät haastatteluissa / sisällönanalyysiin havainnot / teemoittelun ja taulukoinnin tulokset-havainnot
 
-Koodien havainnot kohdistettiin litteroinneista selkokielisiksi kirjoitettujen tekstien segmentteihin. Segmenttien pituus vaihteli huomattavasti ja osittain tämän takia havainnot eivät ole keskenään täysin vertailukelpoisia. Lisäksi havainoille ei merkitty painotuksia. Tämä on pyritty ottamaan huomioon koodien ja kategorioiden laadinnassa, mutta tuloksia ei voi pitää kovin eksakteina vaan enemmänkin suuntaa antavina ja tulkinnanvaraisina. Tämän takia havaintoja pyritään käsittelemään suuntauksia ja trendejä peilaavina.
 
-
+*"...Lopuksi luotiin taulukot, joista keskeiset tulokset ovat helposti nähtävissä. Taulukot esitetään liitteissä 2, 3 ja 4."*
 
 
 ##### Koodien havaintojen haastattelukohtaiset kokonaismäärät
@@ -239,13 +241,12 @@ Haastattelussa 1 havaittiin 116 eri koodin esiintymää, mikä oli enemmän kuin
 
 Haastattelussa 2 havaittiin 88 eri koodin esiintymää, haastattelussa 3 vastaavasti 76, samoin haastattelussa 4 niitä oli 75 ja haastattelussa 5 havaintoja oli 78. Keskiarvoisesti haastattelua 1 lukuunottamatta havaittuja koodeja oli siis noin 79 haastattelua kohden. Haastattelu 1 mukaan lukien koodeja havaittiin keskiarvoisesti noin 87 haastattelua kohden.
 
-Kaikissa haastatteluissa yhteensä havaittuja koodeja oli 180.
 
 ##### Haastattelujen yhteneväisyydet ja eroavaisuudet
 
 *yhteensä yleisimmät vs. haastattelukohtaisesti yleisimmät?*
 
-Haastattelujen yhteneväisyyksiä ja eroavaisuuksia pyrittiin havainnollistamaan valitsemalla yksittäisissä haastatteluiss yli yksi kertaa havaitut koodit ja vertaamalla niitä yli viisi kertaa koko haastattelumateriaalissa havaittuihin koodeihin. Samalla verrattiin kunkin haastattelun yli yksi kertaa havaittuja koodeja kaikkiin muihin otannan koodeihin, mukaanlukien yli viisi kertaa koko haastattelumateriaalissa havaittut koodit.
+Haastattelujen yhteneväisyyksiä ja eroavaisuuksia pyrittiin havainnollistamaan valitsemalla yksittäisissä haastatteluissa yli yksi kertaa havaitut koodit ja vertaamalla niitä yli viisi kertaa koko haastattelumateriaalissa havaittuihin koodeihin. Samalla verrattiin kunkin haastattelun yli yksi kertaa havaittuja koodeja kaikkiin muihin otannan koodeihin, mukaanlukien yli viisi kertaa koko haastattelumateriaalissa havaittut koodit.
 
 Havaintoja ei painotettu niiden määrän mukaan, vaan tarkasteltiin koodien esiintymisiä ylipäätään.
 
@@ -259,15 +260,35 @@ Samasta otannasta löytyi vain kerran otannassa ilmeneviä koodeja 17 - 30 % kun
 
 *Seuraavaksi edistyneempää tavaraa, eli katsotaan tämän otannan keskeisimpiä koodeja (muista avata miten keskeiset valitaan) lämpökartan yhteneväisten koodien kanssa.*
  
-
+Haastattelussa 1 havaittiin eniten 
 
 
 
 
 *KUINKA MONTA HAVAINTOA PER SEGMENTTI KESKIMÄÄRIN PER HAASTATTELU?*
 
+##### RAAKOJA HAVAINTOJA
 
-
+Koodit haastatteluittain -välilehti:
+    Haastattelu 1
+        Maataloustuotanto 66
+            Selkeästi enemmän havaintoja kuin kolmessa viimeisessä.Havainnot jakautuneet kohtuullisen usealle koodille.
+            täsmäviljely, ROI, laatuerät, lannoitteet/syötteet ja tuotantotapatieto
+    Haastattelu 2
+        Maataloustuotanto 70
+            Keskittynein ja suurin määrä havaintoja, ei pitkää häntää.
+            tiiviisti koodeissa päätöksenteon avustaminen, viljelysuositukset, järjestelmäintegraatio, kannatavuus ja viljelyprosessien automatisointi.
+    Haastattelu 3
+        Maataloustuotanto 21
+            Maataloustuotannon havaintoja kaikista pienin määrä, keskittyneenä laitteiden hintojen halpenemiseen (sen tarpeeseen) ja tuotantotapatietoon, joihin liittyivät mm. koodit UA-laitteet ja viljelyprosessien automatisointi. Alikategorioista eniten havaintoja Laitteista.
+    Haastattelu 4
+        Maataloustuotanto 33
+            Havaintojen määrien kuvaajasta ei nouse esille mitään erityistä.
+            Eniten havaintoja koodeista Järjestelmäintegraatio, laitteiden integraatiot, kannattavuus ja tuotantotapatieto. Myös UA-laitteet ja viljelyprosessien automatisointi -havaintoja on 2 kumpaakin.
+    Haastattelu 5
+        Maataloustuotanto 35
+            Havainnot keskittyneet muita jyrkemmin muutamaan koodiin. 
+            Eniten havaintoja koodeista viljelyprosessien automatisointi ja päätöksenteon avustaminen, laitteiden integraatiot ja työn helpottaminen. Myös järjestelmäintegraatiot ja kannattavuus mainittu.
 
 
 
