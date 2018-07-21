@@ -226,7 +226,9 @@ Muiden katsausten, koosteiden ja vastaavien julkaisujen tuloksia, havaintoja ja 
 
 #### Koodien ja kategorioiden havaitut esiintymät haastatteluissa / sisällönanalyysiin havainnot / teemoittelun ja taulukoinnin tulokset-havainnot
 
-Koodien havainnot kohdistettiin litteroinneista selkokielisiksi kirjoitettujen tekstien segmentteihin, joiden pituus vaihteli huomattavasti. Jo tämän takia havainnot eivät ole keskenään täysin vertailukelpoisia. Lisäksi havainnoista puuttuu asiakonteksti ja painotukset. Näitä heikkouksia on pyritty lieventämään koodien ja kategorioiden laadinnassa, mutta tuloksia voi pitää vain suuntaa antavina ja tulkinnanvaraisina. Tämän takia havaintoja pyritään käsittelemään suuntauksia ja trendejä peilaavina.
+Koodien havainnot kohdistettiin litteroinneista selkokielisiksi kirjoitettujen tekstien segmentteihin. Segmenttien pituus vaihteli huomattavasti ja osittain tämän takia havainnot eivät ole keskenään täysin vertailukelpoisia. Lisäksi havainoille ei merkitty painotuksia. Tämä on pyritty ottamaan huomioon koodien ja kategorioiden laadinnassa, mutta tuloksia ei voi pitää kovin eksakteina vaan enemmänkin suuntaa antavina ja tulkinnanvaraisina. Tämän takia havaintoja pyritään käsittelemään suuntauksia ja trendejä peilaavina.
+
+
 
 
 ##### Koodien havaintojen haastattelukohtaiset kokonaismäärät
@@ -253,7 +255,7 @@ Samasta otannasta löytyi vain kerran otannassa ilmeneviä koodeja 17 - 30 % kun
 
 *tähän voisi laittaa kivan kuvaajan osuuksista*
 
-*Omaa tulkintaa, siirretään tuloksista Johtopäätöksiin (vai Pohdintaan? Vai laitetaanko Johtopäätökset ja Pohdinta yhteen?)* Lukuja tulkitessa tulee ottaa huomioon, että jo yhden koodin havainnon ero aiheutti Haastattelu 4:n ja Haastattelu 5:n välille 2,5 %:n eron. Lisäksi useiden koodien ollessa päällekkäisiä ja/tai samoja aiheita eri konteksteissa käsitteleviä, voidaan lukuja pitää korkeintaan suuntaa-antavina. Luvuista kuitenkin peilautuu haastattelujen luonne, joka antoi kullekin haastateltavalle asiantuntijalle tilaa käsitellä oman osaamisalueensa asioita omalla tavallaan ja omien kokemustensa ja tietojensa viitekehyksessä. Samalla voidaan tulkita selkeästi suurimman osan koodeista löytyessä myös muista haastattelujen havainnoista, että haastattelujen teemat ovat olleet suurelta osalta samankaltaisia.
+*Omaa tulkintaa, siirretään tuloksista Johtopäätöksiin (vai Pohdintaan? Vai laitetaanko Johtopäätökset ja Pohdinta yhteen?)* Lukuja tulkitessa tulee ottaa huomioon, että jo yhden koodin havainnon ero aiheutti Haastattelu 4:n ja Haastattelu 5:n välille 2,5 %:n eron. Lisäksi useiden koodien ollessa päällekkäisiä ja/tai samoja aiheita eri konteksteissa käsitteleviä, voidaan lukuja pitää korkeintaan suuntaa-antavina. Luvuista kuitenkin peilautuu haastattelujen luonne, joka antoi kullekin haastateltavalle asiantuntijalle tilaa käsitellä oman osaamisalueensa asioita omalla tavallaan, omien kokemustensa ja tietojensa viitekehyksessä. Samalla voidaan tulkita selkeästi suurimman osan kunkin haastattelun koodeista löytyessä myös muista haastattelujen havainnoista, että haastattelujen teemat ovat olleet suurelta osalta samankaltaisia.
 
 *Seuraavaksi edistyneempää tavaraa, eli katsotaan tämän otannan keskeisimpiä koodeja (muista avata miten keskeiset valitaan) lämpökartan yhteneväisten koodien kanssa.*
  
