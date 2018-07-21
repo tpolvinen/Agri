@@ -266,30 +266,47 @@ Haastattelussa 1 havaittiin eniten
 
 
 *KUINKA MONTA HAVAINTOA PER SEGMENTTI KESKIMÄÄRIN PER HAASTATTELU?*
+*HUOM: YHDEN SEGMENTIN SISÄLLÄ YKSI KOODI VAIN YHDEN KERRAN. Muuutta? Segmenttien koko vaihtelee rajusti.*
+
 
 ##### RAAKOJA HAVAINTOJA
 
 Koodit haastatteluittain -välilehti:
     Haastattelu 1
+        Eniten havaintoja, mutta kun mittakaavaa suhteutetaan muita haastatteluja vastaavaksi, niin kuvaaja muistuttaa silmämääräisesti muiden haastattelujen vastaavia. *Havainnot jakautuvat kaikissa haastatteluissa samalla tavalla, mutta eroa on kategorioissa/koodeissa!*
         Maataloustuotanto 66
             Selkeästi enemmän havaintoja kuin kolmessa viimeisessä.Havainnot jakautuneet kohtuullisen usealle koodille.
             täsmäviljely, ROI, laatuerät, lannoitteet/syötteet ja tuotantotapatieto
+        Tekniikka 137
+        Tuotantoympäristö
     Haastattelu 2
         Maataloustuotanto 70
             Keskittynein ja suurin määrä havaintoja, ei pitkää häntää.
             tiiviisti koodeissa päätöksenteon avustaminen, viljelysuositukset, järjestelmäintegraatio, kannatavuus ja viljelyprosessien automatisointi.
+        Tekniikka 110
+        Tuotantoympäristö 
     Haastattelu 3
         Maataloustuotanto 21
             Maataloustuotannon havaintoja kaikista pienin määrä, keskittyneenä laitteiden hintojen halpenemiseen (sen tarpeeseen) ja tuotantotapatietoon, joihin liittyivät mm. koodit UA-laitteet ja viljelyprosessien automatisointi. Alikategorioista eniten havaintoja Laitteista.
+        Tekniikka 99
+        Tuotantoympäristö 
     Haastattelu 4
         Maataloustuotanto 33
             Havaintojen määrien kuvaajasta ei nouse esille mitään erityistä.
             Eniten havaintoja koodeista Järjestelmäintegraatio, laitteiden integraatiot, kannattavuus ja tuotantotapatieto. Myös UA-laitteet ja viljelyprosessien automatisointi -havaintoja on 2 kumpaakin.
+        Tekniikka 60
+        Tuotantoympäristö 
     Haastattelu 5
         Maataloustuotanto 35
             Havainnot keskittyneet muita jyrkemmin muutamaan koodiin. 
             Eniten havaintoja koodeista viljelyprosessien automatisointi ja päätöksenteon avustaminen, laitteiden integraatiot ja työn helpottaminen. Myös järjestelmäintegraatiot ja kannattavuus mainittu.
+        Tekniikka 89
+        Tuotantoympäristö 
 
+Välilehdellä Koodit Havainnot >1 ei oikeasti voi sanoa kuvaajasta Koodeista löytyy yhteen kootuista... muuta kuin noin 50 - 60 % koodeista on yhteisiä yhteen koottujen kanssa.
+Vastaavasti Uniikit koodit haastatteluissa... -kuvaaja ei tarkoita, että Haastattelu 4 olisi ollut geneerinen, vaan eniten haastattelussa toistuneet havainnot ovat toistuneet usein yhteen kootuissa koodeissa. Haastatteluilla oli selkeät eroth Näitä tietoja voidaan käyttää haastattelumateriaalin tarkastelussa eräänlaisena herättelijänä eri näkökulmista tehtäville pohdinnoille, inspiraatioksi. Kuvaajasta voidaan päätellä, että noin 15 - 30 % havannoiduista koodeista (jotka havaittiin kahdesti tai yli) oli yksilöllisesti vain yhdessä haastattelussa ilmenevä. Tämän perusteella voi haastattelumateriaalin tulkinnassa lähteä siitä, että kukin haastattelu oli selkeästi yksilöllinen.
+
+Sanamäärät: Asiantuntijat eivät lähteneet luettelemaan jo olemassa olevia ratkaisuita ja valmistajia. Sanamääristä saa vaikutelman, että puhutaan geneerisemmällä tasolla visioista ja tulevaisuudesta sekä niistä asioista, joihin tullaan vaikuttamaan ja jotka tulevat muuttumaan -tai pysymään samoina. Näkyvissä on myös laadullista kuvailua helppokäyttöisyydestä, yhteensopivuudesta, hajanaisuudesta jne. Ei niinkään valmiista jo tunnetuista ja koetelluista ratkaisuista tai toimintatavoista. Eniten ilmenee ylätason käsitteitä haastatteluteemoista. Noin 10 ensimmäistä ovat aika hyviä herättelemään tuntumaa.
 
 
 ### Haastattelujen kuvaus??? Mahd. myös kirjallisuuskatsauksen kuvaus
