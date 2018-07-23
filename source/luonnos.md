@@ -163,14 +163,19 @@ Koodien havaintojen laskennassa olisi voinut vertailun vuoksi käyttää myös s
 ###### Sisällönanalyysin / teemoittelun ja taulukoinnin kulku
 
 *Tähän kuvaus havainnoinnin ja "analyysin" etenemistavasta*
+Sisällönanalyysi toteutettiin lukemalla haastattelumateriaali huolellisesti, merkitsemällä taulukkoon havaitut merkitykselliset ilmaisut koodeina, kategorisoimalla koodit ja analysoimalla saatuja tuloksia. Saatuja tuloksia käytettiin haastattelumateriaalista tehtyjen aikaisempien havaintojen ja päätelmien tarkistamisessa ja uusien asiayhteyksien etsimisessä.
 *miten tutkimuskysymyksiin pyrittiin vastaamaan*
+Analyysillä pyrittiin vastaamaan tutkimuskysymyksiin havainnoimalla tutkimuskysymyksille relevanttien teemojen ilmenemiä koodeissa, kategorioiden sisällä ja sisällön rakenteessa.
 *miten koko aineiston koodeja havainnointiin/tarkasteltiin, millä perusteella johtopäätöksiä tehtiin -- johtopäätökset sitten tutkimustuloksissa*
+Haastattelujen sisällön rakennetta analysoitiin havainnoimalla koodien ja kategorioiden esiintymistä ja keskinäisiä jakautumia laatimalla kuvaajia edelleentaulukoiduista ja uudelleenjärjestellyistä havainnoista. 
 *yhteenveto miten koodeja havaittiin/tarkasteltiin, eli miten haastattelut profiloitiin*
+Analyysin johtopäätöksiä tehtiin -- ottaen huomioon koodien havainnoinnin epävarmuustekijät -- kuvaajista havaituista trendeistä sekä kategorioiden ja koodien keskinäisten jakautumien rakenteista.
 *miten pyrittiin löytämään kehityskulun kuvaa yksittäisistä teemoista havainnoimalla*
+Samoin kuin haastattelujen yhteneväisyyksiä ja eroavaisuuksia, myös tutkimusaiheen kokonaiskuvaa pyrittiin hahmottamaan sisällönanalyysin avulla. Haastattelumateriaalissa käsitellyistä teemoista pyrittiin muodostamaan koodien havaintoja tarkistelemalla yleiset käsitellyt teemat, kunkin asiantuntijan oman erikoisalueen teemat ja teemat, joita ei haastattelumateriaalista havaittu -- mutta joiden kaltaisia teemoja tekijä olisi voinut olettaa havaitsevansa jos tutkimusaiheen tilanne olisi ollut erilainen.
+
+*Koodaus & Kategorisointi -> Taulukointi -> Analyysi -> Johtopäätökset*
 
 ###### Haastattelumateriaalin koodaus ja koodien kategorisointi
-
-*"...Keskeistä on löytää väittämiä, jotka ilmaisevat jotain tutkittavasta ilmiöstä."*
 
 Haastattelujen litteroinneista kirjoitettujen yleiskielisten tekstien segmentit numeroitiin haastattelun numeron ja juoksevan numeroinnin yhdistelmällä.
 
@@ -205,8 +210,19 @@ Esimerkiksi sanat täsmäviljely, täsmäviljejyn, täsmäviljelyä, täsmävi
 
 Tuloksena saatiin 118 asiasanaa, joiden esiintymät taulukoitiin, järjestettiin ja joiden esiintymien määristä laadittiin kuvaaja. Taulukon ja kuvaajan avulla voidaan arvioida haastattelumateriaalin keskeisimpien teemojen yleisyyttä ja keskinäisiä suhteita.
 
+###### Haastattelumateriaalin analysointi taulukoitujen koodien havaintojen avulla
+
+Haastattelumateriaalista havaittujen koodien määrien perusteella analysoitiin miten eri kategoriat jakautuvat eri haastatteluissa sekä havaintojen määrän että kategorioiden (ja alikategorioiden) mukaan. Myös koodien määrät kategorioissa ja alikategorioissa taulukoitiin ja määriä vertailtiin keskenään. 
 
 
+
+###### Haastattelumateriaalista johtopäätösten vetäminen analyysin perusteella
+
+Kategorioiden ja teemojen jakautumisen kuvaajien analyysin avulla voidaan vetää johtopäätöksiä haastattelujen yleisestä luonteesta, esimerkiksi keskittyivätkö haastateltavat muutamaan ydinaiheeseen vai laajempiin useiden teemojen kokonaisuuksien kuvailuun.
+
+Samoin kategorioiden esiintymisistä haastattelumateriaalissa...
+
+Kategorioissa ja alikategorioissa esiintyvien koodien määristä voidaan päätellä kuinka monipuolisia asiakokonaisuuksia kategoriat ja alikategoriat pitävät sisällään.
 
 *Tähän tarvitaan vielä ainakin kuvaus Rllä tehdyn kuvaajan tekemisestä -- ja mitä näistä kaikista haetaan! ...Esiintymien tiheyden ja samankaltaisuuden avulla pyrittiin luomaan kokonaiskuva teemojen yleisyydestä, yhtäläisyyksistä ja erilaisuudesta.*
 
@@ -243,7 +259,7 @@ Muiden katsausten, koosteiden ja vastaavien julkaisujen tuloksia, havaintoja ja 
 
 
 *"...Lopuksi luotiin taulukot, joista keskeiset tulokset ovat helposti nähtävissä. Taulukot esitetään liitteissä 2, 3 ja 4."*
-
+*"...Keskeistä on löytää väittämiä, jotka ilmaisevat jotain tutkittavasta ilmiöstä."*
 
 ##### Koodien havaintojen haastattelukohtaiset kokonaismäärät
 
@@ -280,6 +296,10 @@ Haastattelussa 1 havaittiin eniten
 *KUINKA MONTA HAVAINTOA PER SEGMENTTI KESKIMÄÄRIN PER HAASTATTELU?*
 *HUOM: YHDEN SEGMENTIN SISÄLLÄ YKSI KOODI VAIN YHDEN KERRAN. Muuutta? Segmenttien koko vaihtelee rajusti.*
 
+*Kannattaa tsekata myös koodit, joista ei puhuta kuin tietyssä haastattelussa!*
+
+*Taskuvihosta <22-07-2018  23:16>*
+    *Kategorioiden luonne? / Alikategorioiden luonne & yleisimmät / Yleisimmät ja kuvailevimmat alikategoriat ja koodit -- verrattuna samoin käyttäytyviin / Millaisia koodiryhmiä ja alikategoriaryhmiä on? / Näkyvätkö trendit koodeissa? / Mitä näet koodeissa? Laitteiden-tekniikoiden-tuotteiden kehityssuunnat? / Tilanteen kehityssuunta koodeissa-kategorioissa? Vahvistavatko koodit omaa käsitystäni haastiksista? / MITKÄ KOODIT VASTAAVAT TUTKIMUSKYSYMYKSIIN?*
 
 ##### RAAKOJA HAVAINTOJA
 
