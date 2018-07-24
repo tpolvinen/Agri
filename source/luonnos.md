@@ -165,7 +165,7 @@ Koodien havaintojen laskennassa olisi voinut vertailun vuoksi käyttää myös s
 *Tähän kuvaus havainnoinnin ja "analyysin" etenemistavasta*
 Sisällönanalyysi toteutettiin lukemalla haastattelumateriaali huolellisesti, merkitsemällä taulukkoon havaitut merkitykselliset ilmaisut koodeina, kategorisoimalla koodit ja analysoimalla saatuja tuloksia. Saatuja tuloksia käytettiin haastattelumateriaalista tehtyjen aikaisempien havaintojen ja päätelmien tarkistamisessa ja uusien asiayhteyksien etsimisessä.
 *miten tutkimuskysymyksiin pyrittiin vastaamaan*
-Analyysillä pyrittiin vastaamaan tutkimuskysymyksiin havainnoimalla tutkimuskysymyksille relevanttien teemojen ilmenemiä koodeissa, kategorioiden sisällä ja sisällön rakenteessa.
+Analyysillä pyrittiin vastaamaan tutkimuskysymyksiin havainnoimalla tutkimuskysymyksille relevanttien teemojen ilmetymiä koodeissa, kategorioiden sisällä ja sisällön rakenteessa.
 *miten koko aineiston koodeja havainnointiin/tarkasteltiin, millä perusteella johtopäätöksiä tehtiin -- johtopäätökset sitten tutkimustuloksissa*
 Haastattelujen sisällön rakennetta analysoitiin havainnoimalla koodien ja kategorioiden esiintymistä ja keskinäisiä jakautumia laatimalla kuvaajia edelleentaulukoiduista ja uudelleenjärjestellyistä havainnoista. 
 *yhteenveto miten koodeja havaittiin/tarkasteltiin, eli miten haastattelut profiloitiin*
@@ -174,6 +174,7 @@ Analyysin johtopäätöksiä tehtiin -- ottaen huomioon koodien havainnoinnin ep
 Samoin kuin haastattelujen yhteneväisyyksiä ja eroavaisuuksia, myös tutkimusaiheen kokonaiskuvaa pyrittiin hahmottamaan sisällönanalyysin avulla. Haastattelumateriaalissa käsitellyistä teemoista pyrittiin muodostamaan koodien havaintoja tarkistelemalla yleiset käsitellyt teemat, kunkin asiantuntijan oman erikoisalueen teemat ja teemat, joita ei haastattelumateriaalista havaittu -- mutta joiden kaltaisia teemoja tekijä olisi voinut olettaa havaitsevansa jos tutkimusaiheen tilanne olisi ollut erilainen.
 
 *Koodaus & Kategorisointi -> Taulukointi -> Analyysi -> Johtopäätökset*
+
 
 ###### Haastattelumateriaalin koodaus ja koodien kategorisointi
 
@@ -187,40 +188,61 @@ Työn edetessä koodeja muokattiin jatkuvan vertailun metodin mukaisesti: koodej
 
 Ensimmäisen läpikäynnin tuloksena saatiin 159 koodia ja toisella läpikäynnillä koodien määrä nousi 180:een.
 
-Toisen läpikäynnin aikana ja sen jälkeen koodeja luokiteltiin ensin alikategorioihin ja lopuksi kategorioihin. Samoin kuin ensimmäisellä läpikäynnillä koodeja, alikategorioita ja kategorioita vertailtiin ja muokattiin jatkuvasti. Jatkuvalla vertailulla pyrittiin myös varmistamaan sekä teemojen oikeellisuus että havaintojen esiintymisten kirjaus. Tuloksena kategorioiksi muodostuivat Maataloustuotanto, Tekniikka ja Toimintaympäristö. Näiden alla on 33 alikategoriaa, joihin koodit on luokiteltu.
+Toisen läpikäynnin aikana ja sen jälkeen koodeja luokiteltiin ensin alikategorioihin ja myöhemmin kategorioihin. Samoin kuin ensimmäisellä läpikäynnillä koodeja, alikategorioita ja kategorioita vertailtiin ja muokattiin jatkuvasti. Jatkuvalla vertailulla pyrittiin myös varmistamaan sekä teemojen oikeellisuus että havaintojen esiintymisten kirjaus. Tuloksena kategorioiksi muodostuivat Maataloustuotanto, Tekniikka ja Toimintaympäristö. Näiden alla on 33 alikategoriaa, joihin koodit on luokiteltu.
 
+
+*Koodaus & Kategorisointi -> Taulukointi -> Analyysi -> Johtopäätökset*
 
 ###### Haastattelumateriaalin koodien taulukointi
 
 Kategoriat, alikategoriat ja koodit havaintoineen taulukoitiin. *Koodit* Taulukossa koodien esiintymät laskettiin yhteen koodikohtaisesti, jonka jälkeen laskettiin koodikohtaiset esiintymät haastattelukohtaisesti. Saaduista luvuista tuotettiin taulukkoon yksinkertainen lämpökartta, josta voidaan visuaalisesti havainnoida koodien esiintymiä sekä haastattelukohtaisesti että koko materiaalissa yhdessä. 
 
-Kopioimalla haastattelu- ja kategoriakohtaiset tiedot omiksi taulukoikseen pystyttiin järjestelemällä ja kuvaajia laatimalla tarkastella tehtyjä havaintoja eri konteksteissa ja lähestymiskulmista. Vertailun helpottamiseksi haastattelukohtaiset taulukot koottiin omaan taulukkoonsa *Koodit haastatteluittain*, johon lisättiin myös kaikkien havaintojen yhteenlasketut tiedot. Taulukkoon tehtiin myös tietojen havainnollistamiseksi kaaviot havaintojen määristä. Kaavioiden muotoja vertailemalla voidaan havainnoida miten eri koodien havainnot jakautuvat eri haastatteluissa ja kategorioissa, eli keskityttiinkö muutamaan aiheeseen vai käsiteltiinkö useampia asiakokonaisuuksia. Tämä ei vielä havainnollista tiettyjen koodien havaintomääriä eri haastatteluissa.
+Kopioimalla haastattelu- ja kategoriakohtaiset tiedot omiksi taulukoikseen pystyttiin järjestelemällä ja kuvaajia laatimalla tarkastella tehtyjä havaintoja eri konteksteissa ja lähestymiskulmista. Vertailun helpottamiseksi haastattelukohtaiset taulukot koottiin omaan taulukkoonsa *Koodit haastatteluittain*, johon lisättiin myös kaikkien havaintojen yhteenlasketut tiedot. Taulukkoon tehtiin myös tietojen havainnollistamiseksi kaaviot havaintojen määristä. Kaavioiden muotoja vertailemalla voidaan havainnoida miten eri koodien havainnot jakautuvat eri haastatteluissa ja kategorioissa, eli keskityttiinkö muutamaan aiheeseen vai käsiteltiinkö useampia asiakokonaisuuksia.
 
-Koodien alikategoriakohtaisia määriä vertailtiin keskenään omassa taulukossaan *Koodien määrät kategorioissa*, josta voidaan tarkastella koodien edustamien asiasisältöjen kirjon piirteitä.
+Koodien alikategoriakohtaisia määriä vertailtiin keskenään omassa taulukossaan *Koodien määrät kategorioissa*, josta voidaan tarkastella alikategoriakohtaisesti koodien edustamien asiasisältöjen piirteitä.
 
-Haastattelujen keskinäisiä yhteneväisyyksiä ja eroavaisuuksia pyrittiin tuomaan esille kopioimalla omaan taulukkoonsa *Koodit Havainnot >1* yli kerran yksittäisestä haastattelusta havaitut koodit. Haastattelukohtaisten koodien ryhmiä vertailtiin sekä haastattelujen kesken että koko haastattelumateriaalista yli viidesti havaittuijen koodien ryhmään. Haastattelujen koodiryhmien vertailuun otettiin mukaan kahdesti tai useammin havaitut koodit, koska haluttiin varmistaa koodien merkitsevyys vertailtaessa haastatteluja keskenään. Vastaavasti yli viidesti koko haastattelumateriaalista havaittujen koodien arveltiin olevan tarpeeksi usein ilmeneviä, jotta ne ovat relevantteja kokonaisuuden kannalta ja vertailukelpoisia haastattelukohtaisten koodien kanssa. Taulukossa merkittiin haastattelukohtaiset koodit, jotka ilmenivät ainakin kerran myös joko muissa haastattelukohtaisissa koodiryhmissä tai koko haastattelumateriaalia edustavassa koodiryhmässä. Tällöin voitiin havaita kullekin haastattelulle yksilölliset koodit, joista oli tehty haastattelumateriaalissa ainakin kaksi havaintoa ja joita ei havaittu muissa haastatteluissa yli yhtä kertaa. Nämä koodit saattavat siis viitata kyseisen haastattelun yksilöllisiin teemoihin. Lisäksi taulukossa laskettiin kuinka monta koko haastattelumateriaalin koodien ryhmän koodeista löytyi kustakin haastattelukohtaisten koodien ryhmästä. Saaduista luvuista voitiin laskea, kuinka suuri osa kunkin haastattelun koodeista löytyy koko materiaalin eniten havainnoitujen koodien joukosta. Nämä luvut voivat puolestaan viitata kyseisen haastattelun aiheiden geneerisyyteen haastattelumateriaalissa.
+Haastattelujen keskinäisiä yhteneväisyyksiä ja eroavaisuuksia pyrittiin tuomaan esille kopioimalla omaan taulukkoonsa *Koodit Havainnot >1* yli kerran yksittäisestä haastattelusta havaitut koodit. Haastattelukohtaisten koodien ryhmiä vertailtiin sekä haastattelujen kesken että koko haastattelumateriaalista yli viidesti havaittuijen koodien ryhmään. Haastattelujen koodiryhmien vertailuun otettiin mukaan kahdesti tai useammin havaitut koodit, koska haluttiin varmistaa koodien merkitsevyys vertailtaessa haastatteluja keskenään. Vastaavasti yli viidesti koko haastattelumateriaalista havaittujen koodien arveltiin olevan tarpeeksi usein ilmeneviä, jotta ne ovat relevantteja kokonaisuuden kannalta ja vertailukelpoisia haastattelukohtaisten koodien kanssa. Taulukossa merkittiin haastattelukohtaiset koodit, jotka ilmenivät ainakin kerran myös joko muissa haastattelukohtaisissa koodiryhmissä tai koko haastattelumateriaalia edustavassa koodiryhmässä. Tällöin voitiin havaita kullekin haastattelulle yksilölliset koodit, joista oli tehty haastattelumateriaalissa ainakin kaksi havaintoa ja joita ei havaittu muissa haastatteluissa yli yhtä kertaa. Nämä koodit saattavat siis viitata kyseisen haastattelun teemoihin, jotka havaittiin haastattelussa, mutta ei yleisesti koko haastattelumateriaalissa. Lisäksi taulukossa laskettiin kuinka monta koko haastattelumateriaalin koodien ryhmän koodeista löytyi kustakin haastattelukohtaisten koodien ryhmästä. Saaduista luvuista voitiin laskea, kuinka suuri osa kunkin haastattelun koodeista löytyy koko materiaalin eniten havainnoitujen koodien joukosta. Nämä luvut voivat puolestaan viitata kyseisen haastattelun aiheiden geneerisyyteen haastattelumateriaalissa.
 
 Kategorioiden, koodien ja niiden havaintojen määrien havainnollistamiseksi koostettiin taulukko *Kategoriat per Haastattelu* haastattelukohtaisista koodien havainnoista. Kategorioista, koodien määristä ja koodien havaintomääristä koostettiin kuvaajat, joista nähdään kategorioiden jakautuminen haastatteluissa sekä koodien määrien että koodien havaintojen määrien mukaan, niiden jakautuminen haastatteluihin ja eriteltynä kategorioittain. Näistä kuvaajista voidaan tarkistella haastattelujen keskinäisiä eroja kategoriatasolla sekä kuinka suuri osa tietyssä haastattelussa havaituista koodeista ja sen havainnoista on mistäkin kategoriasta ja miten kategorioiden kaikki koodit ja havainnot jakaantuvat eri haastatteluihin. Lisäksi voidaan vertailla haastattelujen kategorioiden jakautumista haastattelujen välillä sekä koodien määrän että koodien havaintojen määrän mukaan.
 
-Lopuksi haastattelumateriaalin sanamäärät laskettiin analysaattorilla ja taulukoitiin omaan taulukkoonsa *Sanamäärät*. Analysaattoriin syötettiin haastattelujen äänitteistä litteroidusta tekstistä muokattu versio, joka sisälsi vain haastateltavien itse sanomat sanat. 
+Lopuksi haastattelumateriaalin sanamäärät laskettiin analysaattoriohjelmalla ja taulukoitiin omaan taulukkoonsa *Sanamäärät*. Analysaattoriin syötettiin haastattelujen äänitteistä litteroidusta tekstistä muokattu versio, joka sisälsi vain haastateltavien itse sanomat sanat. 
 
 Useammin kuin kerran löytyneistä sanoista (1920 sanaa) valittiin haastattelujen aikaisempien käsittelyvaiheiden tuoman kokemuksen perusteella arviolta merkitsevät sanat, joiden sanarungolla, ja/tai alkukirjaimilla haettiin kaikkien sanojen joukosta (6011 sanaa) sanan eri taivutusmuodot, lyhennelmät ja virheellisesti kirjoitetut esiintymät. Sanojen havaitut synonyymit ja selkeästi haastatteluissa samaa tarkoittavien sanojen esiintymät laskettiin yhteen. 
 
-Esimerkiksi sanat täsmäviljely, täsmäviljejyn, täsmäviljelyä, täsmäviljelydata, täsmäviljelykin, täsmäviljelykonferinssissa, täsmäviljelylaitteistolle, täsmäviljelylaitteita, täsmäviljelyllä, täsmäviljelyn, täsmäviljelyssä, täsmäviljelystä, täsmäviljelyteknologiaa, täsmäviljelyteknologiasta, täsmäviljelytietoa ja täsmäviljelyyn laskettiin yhteen, jolloin saatiin sanalle "täsmäviljely" yhteensä 27 esiintymää.
+Esimerkiksi sanat täsmäviljely, täsmäviljejyn, täsmäviljelyä, täsmäviljelydata, täsmäviljelykin, täsmäviljelykonferinssissa, täsmäviljelylaitteistolle, täsmäviljelylaitteita, täsmäviljelyllä, täsmäviljelyn, täsmäviljelyssä, täsmäviljelystä, täsmäviljelyteknologiaa, täsmäviljelyteknologiasta, täsmäviljelytietoa ja täsmäviljelyyn laskettiin yhteen, jolloin saatiin asiasanalle "täsmäviljely" yhteensä 27 esiintymää.
 
 Tuloksena saatiin 118 asiasanaa, joiden esiintymät taulukoitiin, järjestettiin ja joiden esiintymien määristä laadittiin kuvaaja. Taulukon ja kuvaajan avulla voidaan arvioida haastattelumateriaalin keskeisimpien teemojen yleisyyttä ja keskinäisiä suhteita.
 
-###### Haastattelumateriaalin analysointi taulukoitujen koodien havaintojen avulla
+
+*Koodaus & Kategorisointi -> Taulukointi -> Analyysi -> Johtopäätökset*
+
+###### Haastattelumateriaalin analysointi taulukoitujen tietojen avulla
 
 Haastattelumateriaalista havaittujen koodien määrien perusteella analysoitiin miten eri kategoriat jakautuvat eri haastatteluissa sekä havaintojen määrän että kategorioiden (ja alikategorioiden) mukaan. Myös koodien määrät kategorioissa ja alikategorioissa taulukoitiin ja määriä vertailtiin keskenään. 
 
+*Koodit haastatteluittain*
+Koodien havaintojen määristä laadittiin kuvaajat, joiden muodosta ja koosta voidaan tehdä tulkintoja koodien jakautumisesta sekä haastatteluiden välillä että kategorioiden sisällä kussakin haastattelussa. Lisäksi kaikkien havaintojen yhdistävän taulukon kuvaajaa voidaan verrata haastattelukohtaisiin vastaaviin. 
 
+*Kategoriat per Haastattelu*
+Haastattelujen sisällön rakenteen havainnollistamiseksi kussakin haastattelussa havaitut koodit haastattelukohtaisine havaintomäärineen taulukoitiin yhteen ja laadittiin kuvaajat, joista voidaan havainnoida kategorioiden ja koodien jakautumista haastattelukohtaisesti verrattuna toisiin haastatteluihin ja kategorioihin. 
+
+*Koodien määrät kategorioissa*
+Itse koodien määrän voidaan tulkita viittaavan erilaisten asiasisältöjen määrään. Koodien määristä kategorioittain ja alikategorioittain ryhmiteltyinä voidaan tehdä tulkintoja ryhmittelyjen laajuuksista asiasisältöjen määrien perusteella. Toisaalta kategoriat, alikategoriat ja niiden sisällään pitämät koodit voivat olla yleisluontoisempia kuin toiset, jolloin lukuja voi pitää vain suuntaa-antavina.
+
+*Koodit Havainnot >1*
+Haastattelujen yhteneväisyyksien ja eroavaisuuksien tulkintaa varten taulukoitiin yksittäisissä haastatteluissa yli yksi kertaa havaitut koodit samaan taulukkoon viisi kertaa koko haastattelumateriaalissa havaittujen koodien kanssa. Vertailuista saatujen lukujen mukaan voidaan tehdä tulkintoja kunkin haastattelun yksilöllisyydestä niissä havaittujen koodien perusteella.
+
+*Sanamäärät*
+
+
+*Kategoria-Maataloustuotanto, -Tekniikka, -Toimintaympäristö*
+
+
+*Koodaus & Kategorisointi -> Taulukointi -> Analyysi -> Johtopäätökset*
 
 ###### Haastattelumateriaalista johtopäätösten vetäminen analyysin perusteella
 
-Kategorioiden ja teemojen jakautumisen kuvaajien analyysin avulla voidaan vetää johtopäätöksiä haastattelujen yleisestä luonteesta, esimerkiksi keskittyivätkö haastateltavat muutamaan ydinaiheeseen vai laajempiin useiden teemojen kokonaisuuksien kuvailuun.
-
-Samoin kategorioiden esiintymisistä haastattelumateriaalissa...
+Kategorioiden ja teemojen määrien kuvaajien analysoinnin avulla voidaan vetää johtopäätöksiä *vai tehdä tulkintoja joita voi vertailla haastattelumateriaaliin tutustumisen luomia tulkintoja vastaan?* haastattelujen yleisestä luonteesta, esimerkiksi keskittyivätkö haastateltavat muutamaan ydinaiheeseen vai laajempiin useiden teemojen kokonaisuuksien kuvailuun.
 
 Kategorioissa ja alikategorioissa esiintyvien koodien määristä voidaan päätellä kuinka monipuolisia asiakokonaisuuksia kategoriat ja alikategoriat pitävät sisällään.
 
@@ -272,11 +294,7 @@ Haastattelussa 2 havaittiin 88 eri koodin esiintymää, haastattelussa 3 vastaav
 
 ##### Haastattelujen yhteneväisyydet ja eroavaisuudet
 
-*yhteensä yleisimmät vs. haastattelukohtaisesti yleisimmät?*
 
-Haastattelujen yhteneväisyyksiä ja eroavaisuuksia pyrittiin havainnollistamaan valitsemalla yksittäisissä haastatteluissa yli yksi kertaa havaitut koodit ja vertaamalla niitä yli viisi kertaa koko haastattelumateriaalissa havaittuihin koodeihin. Samalla verrattiin kunkin haastattelun yli yksi kertaa havaittuja koodeja kaikkiin muihin otannan koodeihin, mukaanlukien yli viisi kertaa koko haastattelumateriaalissa havaittut koodit.
-
-Havaintoja ei painotettu niiden määrän mukaan, vaan tarkasteltiin koodien esiintymisiä ylipäätään.
 
 Haastatteluissa yli kerran havaitut koodit löytyivät 53 - 61 % osuudella niiden koodien joukosta, joista oli koko haastattelumateriaalista tehty yli viisi havaintoa. Haastattelujen otannoista eniten yhteneväisyyksiä koko materiaalin otantaan oli Haastattelu 5:llä (61 %). Jakauma oli kohtuullisen tasainen, muiden haastattelujen osuuksien ollessa 59 %, 58 %, 56 % ja 53 %.
 
@@ -339,7 +357,15 @@ Välilehdellä Koodit Havainnot >1 ei oikeasti voi sanoa kuvaajasta Koodeista l�
 Vastaavasti Uniikit koodit haastatteluissa... -kuvaaja ei tarkoita, että Haastattelu 4 olisi ollut geneerinen, vaan eniten haastattelussa toistuneet havainnot ovat toistuneet usein yhteen kootuissa koodeissa. Haastatteluilla oli selkeät eroth Näitä tietoja voidaan käyttää haastattelumateriaalin tarkastelussa eräänlaisena herättelijänä eri näkökulmista tehtäville pohdinnoille, inspiraatioksi. Kuvaajasta voidaan päätellä, että noin 15 - 30 % havannoiduista koodeista (jotka havaittiin kahdesti tai yli) oli yksilöllisesti vain yhdessä haastattelussa ilmenevä. Tämän perusteella voi haastattelumateriaalin tulkinnassa lähteä siitä, että kukin haastattelu oli selkeästi yksilöllinen.
 
 Sanamäärät: Asiantuntijat eivät lähteneet luettelemaan jo olemassa olevia ratkaisuita ja valmistajia. Sanamääristä saa vaikutelman, että puhutaan geneerisemmällä tasolla visioista ja tulevaisuudesta sekä niistä asioista, joihin tullaan vaikuttamaan ja jotka tulevat muuttumaan -tai pysymään samoina. Näkyvissä on myös laadullista kuvailua helppokäyttöisyydestä, yhteensopivuudesta, hajanaisuudesta jne. Ei niinkään valmiista jo tunnetuista ja koetelluista ratkaisuista tai toimintatavoista. Eniten ilmenee ylätason käsitteitä haastatteluteemoista. Noin 10 ensimmäistä ovat aika hyviä herättelemään tuntumaa.
-O
+
+*Koodit Haastatteluittain*
+Haastattelukohtaiset koodien havaintojen kokonaismäärät.
+Koodien havaintojen määrien jakaantuminen sekä haastattelujen kesken sekä että kokonaisuutena.
+    1= 268 2= 204 3= 154 4= 130 5= 155 Yhteensä= 911 (keskiarvo 182,2 - 3,4,5 keskiarvo 146)
+    Havaintojen haastattelukohtaisia kokonaismääriä verrattiin keskenään. Tällä pyrittiin tarkastelemaan ovatko jotkin haastattelut käsitelleet joko huomattavasti enemmän tiettyjä teemoja tai laajemmin erilaisia asiasisältöjä. 
+        1 ja 2 selkeästi suuremmat määrät havaintoja kuin muissa, 122 ja 58 enemmän kuin muiden keskiarvo. 1 oli selkeästi pidempi, mutta 2 
+
+Toisaalta segmenttien eroavaisuuksien ja koodien asiasisältöjen erojen *jonkin muunkin?* takia pelkät kokonaismäärät eivät itsessään tuo lisäselvyyttä haastattelumateriaalin sisällön tulkinnalle. Kokonaismääriä voidaan tarvittaessa käyttää esimerkiksi eri haastattelujen kategoriakohtaisten havaintomäärien suhteuttamisessa toisiinsa.
 
 ### Haastattelujen kuvaus??? Mahd. myös kirjallisuuskatsauksen kuvaus
 
