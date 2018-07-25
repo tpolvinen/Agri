@@ -1328,7 +1328,44 @@ Oman tutkimuksen tulokset -> verrataan muihin tutkimuksiin.
 'Lisätään tietoa omalla empiirisellä tiedolla.'
 
 
+---------------------------------------------------------------------------------------------------
 
+# Lämpökartan keskenään samankaltaiset teemat <25-07-2018  22:54>
+
+Missä kohtaa teemojen samankaltaisuus ei enää ole merkitsevää?
+Kun havaintoja on...?
+
+Havaintojen ja koodien subjektiivisuuden takia ei tule keskittyä vastaavuuksien tarkkaan yhteneväisyyteen, vaan tarkastella lähes samankaltaisella tavalla haastatteluissa esiintyviin koodeihin, joista on useita havaintoja jotta vertailu olisi perusteltu. 
+
+
+Täysin samankaltaisia koodipareja:
+
+Tekniikka-Standardi-Muut,4,1,2,0,0
+Toimintaympäristö-Tuotantoketju-Liiketoiminnan ekosysteemi,4,1,2,0,0
+
+Tekniikka-Laitejärjestelmät-Full-liner-tuote/järjestelmä,4,0,0,1,0
+Toimintaympäristö-Muutos-Uudet liiketoimintamallit,4,0,0,1,0
+
+Maataloustuotanto-Laitteet-Hintojen halpeneminen,0,0,4,0,0
+Tekniikka-Tietojenkäsittely-Tiedostoformaatit,0,0,4,0,0
+
+Maataloustuotanto-Data-Datan merkitys ja merkityksen ymmärrys,1,3,0,1,0
+Tekniikka-Teknologioiden omaksunta-Kynnys,1,3,0,1,0
+
+Maataloustuotanto-Tuotantopanokset-Lannoitepanokset,0,3,0,1,0
+Maataloustuotanto-Tuotantopanokset-Tuotantopanokset yleensä,0,3,0,1,0
+
+
+Lähes samankaltaisia koodipareja/joukkoja, joista on useita havaintoja:
+
+Tekniikka-Tietojenkäsittely-Analytiikka,4,4,1,1,4
+Tekniikka-Tietojenkäsittely-Tiedon tuottama lisäarvo,5,4,3,0,4
+
+Maataloustuotanto-Tehostaminen-Viljelyprosessien (tuotanto-) optimointi/automatisointi,2,5,2,2,5
+Tekniikka-Teknologioiden omaksunta-Yleinen,2,6,0,2,6
+
+Tekniikka-Tietojenkäsittely-Ihminen datan tulkitsijana/päätöksentekijänä,0,5,0,2,0
+X-Ratkaisu/tuote-Yara N-sensor,0,6,1,0,0
 
 
 
