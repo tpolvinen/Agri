@@ -1,0 +1,181 @@
+Code,Haastattelussa 1,Haastattelussa 2,Haastattelussa 3,Haastattelussa 4,Haastattelussa 5
+Maataloustuotanto-Data-Datan merkitys ja merkityksen ymmärrys,1,3,0,1,0
+Maataloustuotanto-Data-Datan oikea-aikainen esitys käyttäjälle,0,0,0,0,1
+Maataloustuotanto-Data-Dataperustainen laatuhinnoittelu,3,0,0,0,0
+Maataloustuotanto-Data-Tuotannon historiatiedot,0,3,0,0,1
+Maataloustuotanto-Laitteet-Hintojen halpeneminen,0,0,4,0,0
+Maataloustuotanto-Laitteet-Integraatio laitteiden yhteensopivuus,3,1,1,3,4
+Maataloustuotanto-Laitteet-Laitteiston ROI,5,2,1,1,0
+Maataloustuotanto-Laitteet-Toimintavarmuus,0,0,1,1,0
+Maataloustuotanto-Laitteet-UA-laitteet,1,1,2,2,0
+Maataloustuotanto-Laitteet-Vaatimukset maataloudessa,0,0,1,1,0
+Maataloustuotanto-Laitteet-Älykkäät Operatiivinen laitteiden älykkyys,3,1,0,0,0
+Maataloustuotanto-Maatila-Liiketoimintamainen toiminta,2,1,0,0,0
+Maataloustuotanto-Sato-Ennusteet Arviot,0,3,0,0,0
+Maataloustuotanto-Sato-Erillinen arvoerä,1,0,0,1,0
+Maataloustuotanto-Sato-Laatuerien tunnistaminen,5,0,0,0,0
+Maataloustuotanto-Sato-Sadonlisä,1,2,0,0,1
+Maataloustuotanto-Talous-Investointien laskentaan ei ole tietoa,1,0,0,0,0
+Maataloustuotanto-Talous-Kannattavuus,2,5,1,3,2
+Maataloustuotanto-Talous-Perustellut investoinnit,3,1,1,0,0
+Maataloustuotanto-Tehostaminen-Koneiden käyttö,0,0,0,0,1
+Maataloustuotanto-Tehostaminen-Logistiikka,0,0,0,0,1
+Maataloustuotanto-Tehostaminen-Maatilan toiminnassa yleisesti,0,2,0,1,0
+Maataloustuotanto-Tehostaminen-Resurssien käyttö panokset lannoitteet jne.,2,2,0,0,1
+Maataloustuotanto-Tehostaminen-Työn helpottaminen,1,1,0,0,4
+Maataloustuotanto-Tehostaminen-Viljelyprosessien (tuotanto-) optimointi/automatisointi,2,5,2,2,5
+Maataloustuotanto-Tietojenkäsittely-Päätöksentekon avustaminen,3,8,1,1,5
+Maataloustuotanto-Tietojenkäsittely-Viljelysuositukset,1,8,0,0,1
+Maataloustuotanto-Tuotantojärjestelmät-Automaattinen/automatisoitu viljelyyn vaikuttaminen,1,0,0,1,0
+Maataloustuotanto-Tuotantojärjestelmät-Järjestelmäintegraatio,1,8,1,4,3
+Maataloustuotanto-Tuotantoketju-Tuotantoketjun Verkostoitumisalusta myyntiin ja ostoihin,3,0,0,0,0
+Maataloustuotanto-Tuotantopanokset-Lannoitepanokset,0,3,0,1,0
+Maataloustuotanto-Tuotantopanokset-Lannoitus Ravinteet Syötteet,4,2,1,2,1
+Maataloustuotanto-Tuotantopanokset-Tuotantopanokset yleensä,0,3,0,1,0
+Maataloustuotanto-Tuotantotapatieto-Kuluttajien ymmärryshaaste,1,0,0,1,1
+Maataloustuotanto-Tuotantotapatieto-Lisäarvo maatalouden tuotteelle,3,0,0,0,0
+Maataloustuotanto-Tuotantotapatieto-Tuotantotapatieto yleensä,4,0,3,3,1
+Maataloustuotanto-Tuotantotavat-Smart Farming,1,0,0,1,1
+Maataloustuotanto-Tuotantotavat-Täsmäviljely,6,2,1,0,1
+Maataloustuotanto-Tuotantotavat-Urbaaniviljely,0,0,0,2,0
+Maataloustuotanto-Työ-Urakointi,2,3,0,0,0
+Tekniikka-Alustaratkaisut-Datan julkaisu ja jakaminen,1,3,1,1,0
+Tekniikka-Alustaratkaisut-Tiedon vaihdanta,2,1,0,2,0
+Tekniikka-Alustaratkaisut-Viljelijöiden Verkostoitumisalusta myyntiin ja ostoihin,3,0,0,0,0
+Tekniikka-Alustaratkaisut-Viljelijöiden ja kuluttajien yhteydet,3,0,0,0,0
+Tekniikka-Alustaratkaisut-Viljelijöiden sosiaalinen verkostoituminen,1,0,0,1,1
+Tekniikka-Laitejärjestelmät-Automaattiset huoltokutsut ja huollon yhteys laitteisiin verkon yli,1,0,1,0,0
+Tekniikka-Laitejärjestelmät-Etätuki,1,0,0,0,0
+Tekniikka-Laitejärjestelmät-Full-liner-tuote/järjestelmä,4,0,0,1,0
+Tekniikka-Laitejärjestelmät-Kasvihuoneautomaatio,3,0,0,2,0
+Tekniikka-Laitejärjestelmät-Kasvitehtaat Monikerrosviljely,1,0,0,1,0
+Tekniikka-Laitejärjestelmät-Konttiviljelmät,0,0,0,1,0
+Tekniikka-Standardi-Avoimet,5,0,0,1,0
+Tekniikka-Standardi-ISOBUS,2,0,8,2,3
+Tekniikka-Standardi-Muut,4,1,2,0,0
+Tekniikka-Teknologia-Aidot IoT-järjestelmät laitteet,1,1,5,0,2
+Tekniikka-Teknologia-Automaattiohjaus,1,0,0,0,1
+Tekniikka-Teknologia-Elinkaaret (maatalouskone/tiedostoformaatti/automatiikka/ohjelmisto/IoT-laite/IoT-palvelu),1,0,3,2,0
+Tekniikka-Teknologia-Keinoäly,3,0,0,0,2
+Tekniikka-Teknologia-Prototyypit,0,0,1,0,0
+Tekniikka-Teknologia-Sensoriteknologia,1,5,6,1,0
+Tekniikka-Teknologia-Siirrettävät muistivälineet,0,1,0,0,0
+Tekniikka-Teknologia-Teollinen Ethernet,1,0,0,0,0
+Tekniikka-Teknologia-Teollisuusautomaatio,7,0,4,0,0
+Tekniikka-Teknologiasovellus-Autonomiset traktorit ja muut työkoneet,0,1,0,0,3
+Tekniikka-Teknologiasovellus-Datan alustapalvelu/järjestelmä,4,6,3,6,2
+Tekniikka-Teknologiasovellus-Sensoriverkot,0,0,2,1,0
+Tekniikka-Teknologiasovellus-Sääasemat,0,0,2,0,0
+Tekniikka-Teknologiasovellus-Telemetria,2,0,5,2,5
+Tekniikka-Teknologioiden omaksunta-Asteittain,3,2,1,1,1
+Tekniikka-Teknologioiden omaksunta-Kynnys,1,3,0,1,0
+Tekniikka-Teknologioiden omaksunta-Laajuus,2,1,6,0,3
+Tekniikka-Teknologioiden omaksunta-Teknologioiden mahdollisuudet hyödyt edut,11,7,2,1,4
+Tekniikka-Teknologioiden omaksunta-Viljelijöiden uusien teknologoiden ymmärrys-asiantuntemus-taidot,1,1,0,0,2
+Tekniikka-Teknologioiden omaksunta-Yleinen,2,6,0,2,6
+Tekniikka-Tietojenkäsittely-Analytiikka,4,4,1,1,4
+Tekniikka-Tietojenkäsittely-Analytiikka Viljelijän Maatilan oma räätälöity,1,1,0,0,1
+Tekniikka-Tietojenkäsittely-Analytiikkapalvelut,2,0,2,1,2
+Tekniikka-Tietojenkäsittely-Datan integraatio,2,3,1,3,3
+Tekniikka-Tietojenkäsittely-Datan laatu ja laatuhaasteet,1,1,0,1,0
+Tekniikka-Tietojenkäsittely-Datan osto ja myynti,1,1,1,0,0
+Tekniikka-Tietojenkäsittely-Datan siirreltävyys,1,3,1,2,1
+Tekniikka-Tietojenkäsittely-Ihminen datan tulkitsijana/päätöksentekijänä,0,5,0,2,0
+Tekniikka-Tietojenkäsittely-Karttatiedostot,0,2,0,0,0
+Tekniikka-Tietojenkäsittely-Karttatiedot Ortomosaiikkikartta,0,1,1,2,0
+Tekniikka-Tietojenkäsittely-Koneoppiminen,1,2,0,0,2
+Tekniikka-Tietojenkäsittely-Kuvantamisdata,0,2,2,0,1
+Tekniikka-Tietojenkäsittely-Mallinnus,0,3,0,0,0
+Tekniikka-Tietojenkäsittely-Metadata,0,0,1,0,0
+Tekniikka-Tietojenkäsittely-Paikkatieto,1,0,0,0,2
+Tekniikka-Tietojenkäsittely-Pilvipalvelut,6,2,1,2,1
+Tekniikka-Tietojenkäsittely-Sadon tunnistetieto (Ruoan identiteetti),1,0,1,0,0
+Tekniikka-Tietojenkäsittely-Satelliitti (data/kuvaus),0,2,1,0,0
+Tekniikka-Tietojenkäsittely-Sensoridata ja Digitaalinen mitattu tieto,5,3,2,0,1
+Tekniikka-Tietojenkäsittely-Systeemiautomaatio,1,0,0,0,0
+Tekniikka-Tietojenkäsittely-Tiedon tuottama lisäarvo,5,4,3,0,4
+Tekniikka-Tietojenkäsittely-Tiedostoformaatit,0,0,4,0,0
+Tekniikka-Tietojenkäsittely-Tietoturva haittaohjelmat,0,0,0,1,0
+Tekniikka-Tietojenkäsittely-Tietoturva yleensä,1,0,1,1,2
+Tekniikka-Tietojenkäsittely-Työtiedostot,1,1,0,0,0
+Tekniikka-Tietojenkäsittely-Valmistajien datan keräys,1,1,0,0,1
+Tekniikka-Tietojärjestelmät-Avoin lähdekoodi,0,0,1,0,0
+Tekniikka-Tietojärjestelmät-Käyttäjäystävällisyys-käytettävyys,3,2,0,2,1
+Tekniikka-Tietojärjestelmät-Käyttöliittymä Viljelijän oma räätälöity,0,0,0,0,1
+Tekniikka-Tietojärjestelmät-Käyttöliittymät,0,3,0,1,3
+Tekniikka-Tietojärjestelmät-Maatilanhallintajärjestelmä FMIS,0,2,0,0,3
+Tekniikka-Tietojärjestelmät-Maatilanhallintajärjestelmä FMIS Kokonaisvaltainen,2,2,2,0,4
+Tekniikka-Tietojärjestelmät-Rajapinnat,1,3,0,1,1
+Tekniikka-Tietojärjestelmät-Tulevaisuuden tietojärjestelmät,2,4,0,1,3
+Tekniikka-Tietojärjestelmät-Viljelysuositusjärjestelmä,0,1,0,0,0
+Tekniikka-Tietojärjestelmät-Viljelysuunnittelujärjestelmä/ohjelmisto,0,1,1,4,0
+Tekniikka-Tietoliikenne-3G-verkko,1,0,0,0,0
+Tekniikka-Tietoliikenne-5G-verkko,1,0,1,0,1
+Tekniikka-Tietoliikenne-Haasteet,2,1,3,2,2
+Tekniikka-Tietoliikenne-Langaton,4,1,5,0,1
+Tekniikka-Tietoliikenne-Matkapuhelinverkot,2,0,1,0,0
+Tekniikka-Tietoliikenne-SMS-viestit,0,0,3,0,0
+Tekniikka-Tietoliikenne-Satelliitti,0,0,0,0,1
+Tekniikka-Tietoliikenne-Valokuituverkot,0,0,1,0,0
+Tekniikka-Tietoliikenne-Yhteydet/Verkot,4,1,4,3,2
+Tekniikka-Tuotekehitys-Asiakaslähtöinen tuotekehitys,0,1,0,0,2
+Toimintaympäristö-Data-Datan omistajuus,2,1,0,1,1
+Toimintaympäristö-Data-Datan/tiedon saatavuus,1,1,0,1,0
+Toimintaympäristö-Data-Dataperustainen poliittinen päätöksenteko,0,0,0,0,2
+Toimintaympäristö-Järjestö-AEF,1,0,0,1,0
+Toimintaympäristö-Järjestö-OADA OpenAG Data Alliance,1,0,0,0,0
+Toimintaympäristö-Laitevalmistaja-Laitevalmistajien yhteistyö,1,0,1,0,1
+Toimintaympäristö-Laitevalmistaja-Yhden valmistajan kokonaisratkaisu,1,0,0,0,0
+Toimintaympäristö-Laitevalmistaja-Yhden valmistajan suljettu ympäristö/Walled garden,2,0,0,0,0
+Toimintaympäristö-Laitevalmistaja-Yhteen valmistajaan lukittuminen,2,0,0,2,0
+Toimintaympäristö-Maatalous-Erilaiset ratkaisut tilakoon mukaan,0,2,0,0,0
+Toimintaympäristö-Maatalous-Kasvukausi,0,0,1,0,0
+Toimintaympäristö-Maatalous-Käyttötarpeiden suuri kirjo,1,0,0,0,1
+Toimintaympäristö-Maatalous-Maatalouden toiminnan yleiskuva,6,2,4,3,2
+Toimintaympäristö-Maatalous-Maatalouden toimintaympäristön hajanaisuus Pirstaleinen kenttä,4,0,1,3,1
+Toimintaympäristö-Maatalous-Maatalouskoneiden automatiikan kehitys/historia,0,0,1,0,0
+Toimintaympäristö-Maatalous-Maatilojen yksilöllisyys,2,1,0,0,1
+Toimintaympäristö-Maatalous-Ruokaturvan parantaminen,1,1,1,0,1
+Toimintaympäristö-Maatalous-Sovelluskirjo,0,0,0,2,0
+Toimintaympäristö-Maatalous-Suomalaisen viljely-ympäristön erityispiirteet,3,2,2,2,1
+Toimintaympäristö-Maatalous-Teknologioiden Tuotteiden siiloutuneisuus hajanaisuus,0,0,0,2,1
+Toimintaympäristö-Maatalous-Tutkimuksen/kehityksen pitkä aikajänne,1,1,0,0,0
+Toimintaympäristö-Maatalous-Viljelijä-laitevalmistaja yhteistyö partneri,0,1,0,0,1
+Toimintaympäristö-Muutos-Digitalisaatio,8,1,0,2,6
+Toimintaympäristö-Muutos-Digitalisaatio Riskit,0,0,2,5,1
+Toimintaympäristö-Muutos-Ilmastonmuutoksen uhat,1,1,0,0,0
+Toimintaympäristö-Muutos-Mobiilisovellukset,0,0,0,0,1
+Toimintaympäristö-Muutos-Olosuhteiden vaihtelut/Ilmastonmuutos tilannehallinta,2,3,0,0,0
+Toimintaympäristö-Muutos-Siirtymä datan käyttöön,2,0,0,0,0
+Toimintaympäristö-Muutos-Teknologia-aalto Digitalisaatio Murroskohta,0,0,1,0,4
+Toimintaympäristö-Muutos-Teknologiaharppaus (leap frog),0,1,0,0,0
+Toimintaympäristö-Muutos-Tilakoon kasvu,2,2,0,2,0
+Toimintaympäristö-Muutos-Tilamäärän väheneminen,1,1,0,0,0
+Toimintaympäristö-Muutos-Uudet liiketoimintamallit,4,0,0,1,0
+Toimintaympäristö-Muutos-Verkostoituminen ja kokemustiedon jako,1,0,0,0,0
+Toimintaympäristö-Muutos-Viljelijän työnkuva,0,0,0,3,1
+Toimintaympäristö-Muutos-Väestönkasvu,1,0,0,0,1
+Toimintaympäristö-Ohjelmistotuotanto-Kolmannen osapuolen ohjelmistokehitys,0,0,2,0,1
+Toimintaympäristö-Ohjelmistotuotanto-Ohjelmistojen tekijänoikeudet,0,0,2,0,0
+Toimintaympäristö-Ohjelmistotuotanto-Ohjelmistopäivitykset,0,0,1,0,0
+Toimintaympäristö-Ohjelmistotuotanto-Ohjelmistotuotannon ala,0,0,2,0,0
+Toimintaympäristö-Säädökset-EU-maataloustuki,1,0,2,0,0
+Toimintaympäristö-Säädökset-Luomusertifikaatti,0,0,0,1,0
+Toimintaympäristö-Säädökset-Sertifikaatit,0,0,0,1,0
+Toimintaympäristö-Säädökset-Tuotevastuu,0,0,2,0,0
+Toimintaympäristö-Tuotantoketju-Liiketoiminnan ekosysteemi,4,1,2,0,0
+Toimintaympäristö-Tuotantoketju-Toimijoiden verkostomainen toiminta,2,0,0,0,0
+Toimintaympäristö-Tuotantoketju-Tuotantoketju yleensä,2,1,3,0,1
+Toimintaympäristö-Tuotantoketju-Tuotantoketjun data,5,1,2,2,2
+Toimintaympäristö-Tuotantoketju-Tuotantoketjun valvonta,0,0,2,1,0
+Toimintaympäristö-Yhtiö-Agrineuvos,0,0,0,2,0
+X-Ratkaisu/tuote-365FarmNet,0,1,0,0,0
+X-Ratkaisu/tuote-Agrirouter,0,0,0,0,4
+X-Ratkaisu/tuote-Agrismart (Agrineuvos),0,0,0,1,0
+X-Ratkaisu/tuote-Farmersbusinessnetwork.com,3,0,0,0,0
+X-Ratkaisu/tuote-Farmidiili,1,0,0,0,0
+X-Ratkaisu/tuote-Farmobile.com,3,0,0,0,0
+X-Ratkaisu/tuote-MyYara -viljelijäportaaliohjelmisto,0,1,0,0,0
+X-Ratkaisu/tuote-VTT Owela,1,0,0,0,0
+X-Ratkaisu/tuote-Valtra Smart,0,0,1,0,0
+X-Ratkaisu/tuote-Yara N-sensor,0,6,1,0,0
