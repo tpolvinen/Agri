@@ -1338,7 +1338,7 @@ Kun havaintoja on...?
 Havaintojen ja koodien subjektiivisuuden takia ei tule keskittyä vastaavuuksien tarkkaan yhteneväisyyteen, vaan tarkastella lähes samankaltaisella tavalla haastatteluissa esiintyviin koodeihin, joista on useita havaintoja jotta vertailu olisi perusteltu. 
 
 
-Täysin samankaltaisia koodipareja:
+## Täysin samankaltaisia koodipareja:
 
 Tekniikka-Standardi-Muut,4,1,2,0,0
 Toimintaympäristö-Tuotantoketju-Liiketoiminnan ekosysteemi,4,1,2,0,0
@@ -1356,7 +1356,7 @@ Maataloustuotanto-Tuotantopanokset-Lannoitepanokset,0,3,0,1,0
 Maataloustuotanto-Tuotantopanokset-Tuotantopanokset yleensä,0,3,0,1,0
 
 
-Lähes samankaltaisia koodipareja/joukkoja, joista on useita havaintoja:
+## Lähes samankaltaisia koodipareja/joukkoja, joista on useita havaintoja:
 
 Tekniikka-Tietojenkäsittely-Analytiikka,4,4,1,1,4
 Tekniikka-Tietojenkäsittely-Tiedon tuottama lisäarvo,5,4,3,0,4
@@ -1366,6 +1366,7 @@ Tekniikka-Teknologioiden omaksunta-Yleinen,2,6,0,2,6
 
 Tekniikka-Tietojenkäsittely-Ihminen datan tulkitsijana/päätöksentekijänä,0,5,0,2,0
 X-Ratkaisu/tuote-Yara N-sensor,0,6,1,0,0
+
 
 
 
