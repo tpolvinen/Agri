@@ -1367,6 +1367,18 @@ Tekniikka-Teknologioiden omaksunta-Yleinen,2,6,0,2,6
 Tekniikka-Tietojenkäsittely-Ihminen datan tulkitsijana/päätöksentekijänä,0,5,0,2,0
 X-Ratkaisu/tuote-Yara N-sensor,0,6,1,0,0
 
+## Koodiryhmien esiintymät
+
+Mutulla havaitut
+
+Tekniikka,Teknologia,Aidot IoT-järjestelmät laitteet,1.20,2.11,3.20,3.21,3.22,3.35,3.36,5.2,5.9
+Tekniikka,Teknologioiden omaksunta,Laajuus,1.10,1.35,2.21,3.8,3.20,3.21,3.24,3.42,3.43,5.7,5.8,5.14
+
+Tekniikka-Teknologia-Aidot IoT-järjestelmät laitteet,1,1,5,0,2
+Tekniikka-Teknologioiden omaksunta-Laajuus,2,1,6,0,3
+eroa yht. 3 = 1,0,1,0,1
+
+
 
 
 
