@@ -117,6 +117,11 @@ Tässä luvussa pyritään kuvailemaan toteutetun tutkimuksen tarkoitus, tavoitt
 
 ### Kuvailevan kirjallisuuskatsausksen toteutus
 
+Kirjallisuuskatsauksessa löydettyjä kirjallisuuskatsauksia käytettiin sateenvarjokatsauksen tapaan. Kirjallisuuskatsausten tutkimus- ja hakumenetelmiä käytettiin malleina paranneltaessa omia vastaavia sekä katsausten tutkimustuloksia käytettiin verrokkeina omien havaintojen tarkistamisessa.
+
+Muiden katsausten, koosteiden ja vastaavien julkaisujen tuloksia, havaintoja ja tekstejä käytettiin niin ikään omien hakutulosten ja havaintojen verrokkeina sekä...
+
+
 #### Aineistojen haku
 
 #### Aineistojen haun tulokset ja aineistojen valinta
@@ -162,8 +167,7 @@ Koodien havaintojen laskennassa olisi voinut vertailun vuoksi käyttää myös s
 
 ###### Sisällönanalyysin / teemoittelun ja taulukoinnin kulku
 
-*Tähän kuvaus havainnoinnin ja "analyysin" etenemistavasta*
-Sisällönanalyysi toteutettiin lukemalla haastattelumateriaali huolellisesti, merkitsemällä taulukkoon havaitut merkitykselliset ilmaisut koodeina, kategorisoimalla koodit ja analysoimalla saatuja tuloksia. Saatuja tuloksia käytettiin haastattelumateriaalista tehtyjen aikaisempien havaintojen ja päätelmien tarkistamisessa ja uusien asiayhteyksien etsimisessä.
+"Sisällönanalyysi" toteutettiin lukemalla haastattelumateriaali huolellisesti, merkitsemällä taulukkoon havaitut merkitykselliset ilmaisut koodeina, kategorisoimalla koodit ja analysoimalla saatuja tuloksia. Saatuja tuloksia käytettiin haastattelumateriaalista tehtyjen aikaisempien havaintojen ja päätelmien tarkistamisessa ja uusien asiayhteyksien etsimisessä.
 *miten tutkimuskysymyksiin pyrittiin vastaamaan*
 Analyysillä pyrittiin vastaamaan tutkimuskysymyksiin havainnoimalla tutkimuskysymyksille relevanttien teemojen ilmetymiä koodeissa, kategorioiden sisällä ja sisällön rakenteessa.
 *miten koko aineiston koodeja havainnointiin/tarkasteltiin, millä perusteella johtopäätöksiä tehtiin -- johtopäätökset sitten tutkimustuloksissa*
@@ -261,14 +265,6 @@ Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset *(koska kuvaileva, h
 
 ## Kirjallisuuskatsauksen tulokset
 
-Kirjallisuuskatsauksessa löydettyjä kirjallisuuskatsauksia käytettiin sateenvarjokatsauksen tapaan. Kirjallisuuskatsausten tutkimus- ja hakumenetelmiä käytettiin malleina paranneltaessa omia vastaavia sekä katsausten tutkimustuloksia käytettiin verrokkeina omien havaintojen tarkistamisessa.
-
-Muiden katsausten, koosteiden ja vastaavien julkaisujen tuloksia, havaintoja ja tekstejä käytettiin niin ikään omien hakutulosten ja havaintojen verrokkeina sekä...
-
-
-
-
-
 ## Haastattelujen tulokset
 
 
@@ -290,7 +286,7 @@ Muiden katsausten, koosteiden ja vastaavien julkaisujen tuloksia, havaintoja ja 
 
 Haastattelumateriaalista havaittiin yhdessä haastattelussa olevan enemmän havaintoja kuin muissa. 
 
-Haastattelussa 1 havaittiin 116 eri koodin esiintymää, mikä oli enemmän kuin muissa haastatteluissa. Verrattuna muihin haastatteluihin, haastattelu 1:ssä oli myös eniten toistuvia havaintoja. Tämän mukaan asioita käsiteltiin haastattelu 1:ssä paitsi määrällisesti eniten, niitä käsiteltiin myös useiten. Tämä tukee tekijän tuntumaa siitä, että haastattelu 1 oli aihepiiriltään laajin ja vaihtelevin. Haastattelu 1 oli myös muita haastatteluja noin 20 minuuttia pidempi, mikä on voinut tuoda enemmän aikaa keskustella haastattelun aikana esille tulevista teemoista.
+Haastattelussa 1 havaittiin 116 eri koodin esiintymää, mikä oli enemmän kuin muissa haastatteluissa. Verrattuna muihin haastatteluihin, haastattelu 1:ssä oli myös eniten toistuvia havaintoja. Tämän mukaan asioita käsiteltiin haastattelu 1:ssä paitsi määrällisesti eniten, niitä käsiteltiin myös useiten. Tämä tukee tekijän tulkintaa siitä, että haastattelu 1 oli aihepiiriltään laajin ja vaihtelevin. Haastattelu 1 oli myös muita haastatteluja noin 20 minuuttia pidempi, mikä on voinut tuoda enemmän aikaa keskustella haastattelun aikana esille tulevista teemoista.
 
 Haastattelussa 2 havaittiin 88 eri koodin esiintymää, haastattelussa 3 vastaavasti 76, samoin haastattelussa 4 niitä oli 75 ja haastattelussa 5 havaintoja oli 78. Keskiarvoisesti haastattelua 1 lukuunottamatta havaittuja koodeja oli siis noin 79 haastattelua kohden. Haastattelu 1 mukaan lukien koodeja havaittiin keskiarvoisesti noin 87 haastattelua kohden.
 
@@ -308,7 +304,6 @@ Samasta otannasta löytyi vain kerran otannassa ilmeneviä koodeja 17 - 30 % kun
 *Seuraavaksi edistyneempää tavaraa, eli katsotaan tämän otannan keskeisimpiä koodeja (muista avata miten keskeiset valitaan) lämpökartan yhteneväisten koodien kanssa.*
  
 Haastattelussa 1 havaittiin eniten 
-
 
 
 
