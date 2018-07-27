@@ -269,6 +269,26 @@ Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset *(koska kuvaileva, h
 
 
 
+alikategoriat:
+Tekniikka   Tietojenkäsittely   168
+    Viljelijän päätöksenteon avustaminen erilaisilla järjestelmillä on keskeisimpiä aiheita haastattelumateriaalissa digitalisaation ja tiedonkäsittelyn alustapalveluiden kanssa. 
+    Muita keskeisimpiä tietojenkäsittelyn teemoja olivat data-analytiikka, asiakkaalle räätälöidyt analytiikkaratkaisut ja data-analytiikkaa tuottavat palvelut. Uusissa tuotteissa ja erityisesti analytiikapalveluissa pyritään hyödyntämään koneoppimista. Suurin osa uusista tuotteista ja palveluista rakennetaan pilvipalveluiksi, mutta datan siirreltävyyttä ei vielä ole käytännössä toteutettu ja suurta osaa tuotetusta tiedosta ei voi automaattisesti hyödyntää yleiskäyttöisissä analytiikkapalveluissa. *(analytiikka, analytiikkapalvelut, räätälöity analytiikka, koneoppiminen, pilvipalvelut, datan siirreltävyys)*
+
+    datan integraatio, sensoridata, kuvantamisdata, ortomosaiikkikartat, 
+
+Tekniikka   Teknologioiden omaksunta    70
+    Teknologioiden omaksunta on samoin yksi keskeisimpiä teemoja.  Teknologioiden omaksunnasta käsiteltiin omaksunnan laajuutta, sen esteenä olevia kynnyksiä, hyvin asteittaista etenemistä ja omaksunnan esteenä olevia haasteitta kuten käyttäjien teknisiä taitoja.
+
+Toimintaympäristö   Muutos  61 Toimintaympäristö   Maatalous   59 Maataloustuotanto   Data    23
+
+
+Tekniikka   Tietojärjestelmät   55 Tekniikka   Tietoliikenne   47 Tekniikka   Alustaratkaisut 20
+
+Tekniikka   Teknologia  49 Tekniikka   Teknologiasovellus  44 Tekniikka   Standardi   28
+
+Maataloustuotanto   Laitteet    39 Maataloustuotanto   Tehostaminen    32
+
+
 
 
 *Oma huomio: Datan osto ja myynti, 1.16, 2.41, 3.18 --FarMobile & al, mutta ei täällä Suomessa; visiona datasettien vertailu- myynti- & ostoalusta on mahdollinen; tuotantotapatieto on pakko antaa mukaan eikä ole tietoa kuka siitä hyötyisi niin, että maksaisi -> ei talousmekanismeja datamarkkinoille.*
