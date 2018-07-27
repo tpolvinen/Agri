@@ -269,7 +269,9 @@ Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset *(koska kuvaileva, h
 
 
 
-*Oma huomio: Datan osto ja myynti, 1.16, 2.41, 3.18 --FarMobile & al, mutta ei täällä; visiona datasettien vertailu- myynti- & ostoalusta on mahdollinen; tuotantotapatieto on pakko antaa mukaan eikä ole tietoa kuka siitä hyötyisi niin, että maksaisi -> ei talousmekanismeja datamarkkinoille.*
+
+
+*Oma huomio: Datan osto ja myynti, 1.16, 2.41, 3.18 --FarMobile & al, mutta ei täällä Suomessa; visiona datasettien vertailu- myynti- & ostoalusta on mahdollinen; tuotantotapatieto on pakko antaa mukaan eikä ole tietoa kuka siitä hyötyisi niin, että maksaisi -> ei talousmekanismeja datamarkkinoille.*
 
 
 #### Koodien ja kategorioiden havaitut esiintymät haastatteluissa / sisällönanalyysiin havainnot / teemoittelun ja taulukoinnin tulokset-havainnot
@@ -303,9 +305,8 @@ Samasta otannasta löytyi vain kerran otannassa ilmeneviä koodeja 17 - 30 % kun
 
 *Seuraavaksi edistyneempää tavaraa, eli katsotaan tämän otannan keskeisimpiä koodeja (muista avata miten keskeiset valitaan) lämpökartan yhteneväisten koodien kanssa.*
  
-Haastattelussa 1 havaittiin eniten 
 
-
+##### Haastatteluissa havaitut
 
 *KUINKA MONTA HAVAINTOA PER SEGMENTTI KESKIMÄÄRIN PER HAASTATTELU?*
 *HUOM: YHDEN SEGMENTIN SISÄLLÄ YKSI KOODI VAIN YHDEN KERRAN. Muuutta? Segmenttien koko vaihtelee rajusti.*
@@ -351,8 +352,10 @@ Koodit haastatteluittain -välilehti:
         Tekniikka 89
         Tuotantoympäristö 
 
-Välilehdellä Koodit Havainnot >1 ei oikeasti voi sanoa kuvaajasta Koodeista löytyy yhteen kootuista... muuta kuin noin 50 - 60 % koodeista on yhteisiä yhteen koottujen kanssa.
-Vastaavasti Uniikit koodit haastatteluissa... -kuvaaja ei tarkoita, että Haastattelu 4 olisi ollut geneerinen, vaan eniten haastattelussa toistuneet havainnot ovat toistuneet usein yhteen kootuissa koodeissa. Haastatteluilla oli selkeät eroth Näitä tietoja voidaan käyttää haastattelumateriaalin tarkastelussa eräänlaisena herättelijänä eri näkökulmista tehtäville pohdinnoille, inspiraatioksi. Kuvaajasta voidaan päätellä, että noin 15 - 30 % havannoiduista koodeista (jotka havaittiin kahdesti tai yli) oli yksilöllisesti vain yhdessä haastattelussa ilmenevä. Tämän perusteella voi haastattelumateriaalin tulkinnassa lähteä siitä, että kukin haastattelu oli selkeästi yksilöllinen.
+Välilehdellä **Koodit Havainnot >1** ei oikeasti voi sanoa kuvaajasta Koodeista löytyy yhteen kootuista... muuta kuin noin 50 - 60 % koodeista on yhteisiä yhteen koottujen kanssa.
+Vastaavasti **Uniikit koodit haastatteluissa...** -kuvaaja ei tarkoita, että Haastattelu 4 olisi ollut geneerinen, vaan eniten haastattelussa toistuneet havainnot ovat toistuneet usein yhteen kootuissa koodeissa. 
+Haastatteluilla oli selkeät erot. 
+Näitä tietoja voidaan käyttää haastattelumateriaalin tarkastelussa eräänlaisena herättelijänä eri näkökulmista tehtäville pohdinnoille, inspiraatioksi. Kuvaajasta voidaan päätellä, että noin 15 - 30 % havannoiduista koodeista (jotka havaittiin kahdesti tai yli) oli yksilöllisesti vain yhdessä haastattelussa ilmenevä. Tämän perusteella voi haastattelumateriaalin tulkinnassa lähteä siitä, että kukin haastattelu oli selkeästi yksilöllinen.
 
 Sanamäärät: Asiantuntijat eivät lähteneet luettelemaan jo olemassa olevia ratkaisuita ja valmistajia. Sanamääristä saa vaikutelman, että puhutaan geneerisemmällä tasolla visioista ja tulevaisuudesta sekä niistä asioista, joihin tullaan vaikuttamaan ja jotka tulevat muuttumaan -tai pysymään samoina. Näkyvissä on myös laadullista kuvailua helppokäyttöisyydestä, yhteensopivuudesta, hajanaisuudesta jne. Ei niinkään valmiista jo tunnetuista ja koetelluista ratkaisuista tai toimintatavoista. Eniten ilmenee ylätason käsitteitä haastatteluteemoista. Noin 10 ensimmäistä ovat aika hyviä herättelemään tuntumaa.
 
