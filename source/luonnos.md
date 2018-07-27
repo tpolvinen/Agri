@@ -267,14 +267,20 @@ Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset *(koska kuvaileva, h
 
 ## Haastattelujen tulokset
 
-
+kategorioiden ja alikategorioiden yleisimmät koodit kerättiin loogisiksi ryhmiksi, joista kirjoitettiin kuvaukset haastattelumateriaalin keskeisistä teemoista. Ryhmien yleisimpien koodien samankaltaisuutta muihin koodeihin verrattuna tarkasteltiin myös laaditun lämpökartan avulla. Lämpökartan samankaltaisista teemoista on valittu tarkasteltavaksi sellaiset, joiden on looginen yhteys toisiinsa haastattelumateriaalissa ja joista on useita havaintoja.
 
 alikategoriat:
 Tekniikka   Tietojenkäsittely   168
     Viljelijän päätöksenteon avustaminen erilaisilla järjestelmillä on keskeisimpiä aiheita haastattelumateriaalissa digitalisaation ja tiedonkäsittelyn alustapalveluiden kanssa. 
-    Muita keskeisimpiä tietojenkäsittelyn teemoja olivat data-analytiikka, asiakkaalle räätälöidyt analytiikkaratkaisut ja data-analytiikkaa tuottavat palvelut. Uusissa tuotteissa ja erityisesti analytiikapalveluissa pyritään hyödyntämään koneoppimista. Suurin osa uusista tuotteista ja palveluista rakennetaan pilvipalveluiksi, mutta datan siirreltävyyttä ei vielä ole käytännössä toteutettu ja suurta osaa tuotetusta tiedosta ei voi automaattisesti hyödyntää yleiskäyttöisissä analytiikkapalveluissa. *(analytiikka, analytiikkapalvelut, räätälöity analytiikka, koneoppiminen, pilvipalvelut, datan siirreltävyys)*
-
-    datan integraatio, sensoridata, kuvantamisdata, ortomosaiikkikartat, 
+    Muita keskeisimpiä tietojenkäsittelyn teemoja olivat data-analytiikka, asiakkaalle räätälöidyt analytiikkaratkaisut ja data-analytiikkaa tuottavat palvelut. Uusissa tuotteissa ja erityisesti analytiikapalveluissa pyritään hyödyntämään koneoppimista. Suurin osa uusista tuotteista ja palveluista rakennetaan pilvipalveluiksi, mutta datan siirreltävyyttä ei vielä ole käytännössä toteutettu ja suurta osaa tuotetusta tiedosta ei C.C.:n mukaan voi automaattisesti hyödyntää muissa analytiikkapalveluissa (@cHaastattelu2017). 
+    *saattaa kannattaa siirtää lämpökartta-analyysi omaan kohtaansa, tässä saattaa rönsyillä liikaa?*
+    Analytiikka, digitalisaatio ja tiedon tuottama lisäarvo ovat lämpökartassa kohtuullisen lähekkäin ja niiden havainnot painottuvat haastatteluihin 1 ja 5.
+    Datan siirreltävyyden koodi on vastaavasti lähellä tietojärjestelmien rajapintoja, datan jakamista, datan merkityksen ymmärtämistä ja teknologioiden omaksunnan kynnystä.
+*(analytiikka, analytiikkapalvelut, räätälöity analytiikka, koneoppiminen, pilvipalvelut, datan siirreltävyys)*
+    
+    Datan integraation havainnot jakautuvat kohtuullisen tasaisesti painottuen haastatteluihin 2 ja 5. Sille läheisiä koodeja ovat kokonaisvaltainen maatilanhallintajärjestelmä, tulevaisuuden tietojärjestelmät ja käytöliittymät.
+*datan integraatio, sensoridata, kuvantamisdata, ortomosaiikkikartat*
+    
 
 Tekniikka   Teknologioiden omaksunta    70
     Teknologioiden omaksunta on samoin yksi keskeisimpiä teemoja.  Teknologioiden omaksunnasta käsiteltiin omaksunnan laajuutta, sen esteenä olevia kynnyksiä, hyvin asteittaista etenemistä ja omaksunnan esteenä olevia haasteitta kuten käyttäjien teknisiä taitoja.
