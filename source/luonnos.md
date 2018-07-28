@@ -261,38 +261,49 @@ Kategorioissa ja alikategorioissa esiintyvien koodien määristä puolestaan voi
 
 ## Meta (poistettava otsikko)
 
-Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset *(koska kuvaileva, havainnot?)*. Kirjallisuuskatsauksen sekä teemahaastattelujen tulokset tarkastellaan ensin erikseen, jonka jälkeen kaikista tuloksista tehdään yhteenveto. Lopuksi esitellään vastaukset tutkimuskysymyksiin tuloksista tehtyjen havaintojen ja johtopäätösten perusteella.
+Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset *(koska kuvaileva, havainnot?)*. Kirjallisuuskatsauksen sekä teemahaastattelujen tulokset tarkastellaan erikseen, jonka jälkeen kaikista tuloksista tehdään yhteenveto. Lopuksi esitellään vastaukset tutkimuskysymyksiin tuloksista tehtyjen havaintojen ja johtopäätösten perusteella.
 
 ## Kirjallisuuskatsauksen tulokset
 
 ## Haastattelujen tulokset
 
-kategorioiden ja alikategorioiden yleisimmät koodit kerättiin loogisiksi ryhmiksi, joista kirjoitettiin kuvaukset haastattelumateriaalin keskeisistä teemoista. Ryhmien yleisimpien koodien samankaltaisuutta muihin koodeihin verrattuna tarkasteltiin myös laaditun lämpökartan avulla. Lämpökartan samankaltaisista teemoista on valittu tarkasteltavaksi sellaiset, joiden on looginen yhteys toisiinsa haastattelumateriaalissa ja joista on useita havaintoja.
+Kategorioiden ja alikategorioiden yleisimmät koodit kerättiin loogisiksi ryhmiksi, joista kirjoitettiin kuvaukset haastattelumateriaalin keskeisistä teemoista. Ryhmien yleisimpien koodien samankaltaisuutta muihin koodeihin verrattuna tarkasteltiin myös laaditun lämpökartan avulla. Lämpökartan samankaltaisista teemoista on valittu tarkasteltavaksi sellaiset, joilla on looginen yhteys toisiinsa haastattelumateriaalissa ja joista on useita havaintoja.
 
-alikategoriat:
-Tekniikka   Tietojenkäsittely   168
-    Viljelijän päätöksenteon avustaminen erilaisilla järjestelmillä on keskeisimpiä aiheita haastattelumateriaalissa digitalisaation ja tiedonkäsittelyn alustapalveluiden kanssa. 
-    Muita keskeisimpiä tietojenkäsittelyn teemoja olivat data-analytiikka, asiakkaalle räätälöidyt analytiikkaratkaisut ja data-analytiikkaa tuottavat palvelut. Uusissa tuotteissa ja erityisesti analytiikapalveluissa pyritään hyödyntämään koneoppimista. Suurin osa uusista tuotteista ja palveluista rakennetaan pilvipalveluiksi, mutta datan siirreltävyyttä ei vielä ole käytännössä toteutettu ja suurta osaa tuotetusta tiedosta ei C.C.:n mukaan voi automaattisesti hyödyntää muissa analytiikkapalveluissa (@cHaastattelu2017). 
+### alikategoriat:
+
+
+#### Tekniikka   Tietojenkäsittely   168
+
+Tietojenkäsittelyn alikategoria sisältää kaikista eniten koodeja ja se on yksi huomattavimmista alikategorioista myös havaintojen määrällä mitattuna (168 kpl). Tietojenkäsittelyn alikategoriassa viljelijän päätöksenteon avustaminen erilaisilla järjestelmillä on keskeisimpiä aiheita  digitalisaation ja tiedonkäsittelyn alustapalveluiden kanssa. 
+Muita keskeisimpiä tietojenkäsittelyn teemoja olivat data-analytiikka, asiakkaalle räätälöidyt analytiikkaratkaisut ja data-analytiikkaa tuottavat palvelut. Uusissa tuotteissa ja erityisesti analytiikapalveluissa pyritään yleisesti hyödyntämään koneoppimista, mutta haastattelumateriaalissa se havaittiin vain viidesti. Suurin osa uusista tuotteista ja palveluista rakennetaan pilvipalveluiksi, josta tehtiin 12 havaintoa. Datan siirreltävyyttä palveluiden välillä ei vielä ole käytännössä toteutettu ja suurta osaa tuotetusta tiedosta ei C.C.:n mukaan voi automaattisesti hyödyntää kolmannen osapuolen analytiikkapalveluissa (@cHaastattelu2017). 
     *saattaa kannattaa siirtää lämpökartta-analyysi omaan kohtaansa, tässä saattaa rönsyillä liikaa?*
     Analytiikka, digitalisaatio ja tiedon tuottama lisäarvo ovat lämpökartassa kohtuullisen lähekkäin ja niiden havainnot painottuvat haastatteluihin 1 ja 5.
-    Datan siirreltävyyden koodi on vastaavasti lähellä tietojärjestelmien rajapintoja, datan jakamista, datan merkityksen ymmärtämistä ja teknologioiden omaksunnan kynnystä.
-*(analytiikka, analytiikkapalvelut, räätälöity analytiikka, koneoppiminen, pilvipalvelut, datan siirreltävyys)*
-    
-    Datan integraation havainnot jakautuvat kohtuullisen tasaisesti painottuen haastatteluihin 2 ja 5. Sille läheisiä koodeja ovat kokonaisvaltainen maatilanhallintajärjestelmä, tulevaisuuden tietojärjestelmät ja käytöliittymät.
+    Datan siirreltävyyden koodi on vastaavasti lähellä tietojärjestelmien rajapintoja, datan jakamista, datan merkityksen ymmärtämistä ja teknologioiden omaksunnan kynnystä. *(analytiikka, analytiikkapalvelut, räätälöity analytiikka, koneoppiminen, pilvipalvelut, datan siirreltävyys)*
+Datan integraatiota käsiteltiin kaikissa haastatteluissa ja se liittyy muihin keskeisimpiin tietojenkäsittelyn teemoihin. Datan integraatio pitää sisällään erilaisten tietolähteiden kuten sensori- ja kuvantamisdatan heterogeenisen data yhdistämisen esimerkiksi pilvipalveluna toimivassa palvelussa. Sensoridata puolestaan on AIoT-ratkaisuissa keskeisessä asemassa analysoitavan tiedon lähteenä. Analyyseissä voidaan yhdistää sensorien tuottamaa dataa paikkatietoihin ja tuottaa tiedon havainnollistamiseksi karttoja, joita voidaan puolestaan yhdistää muun muassa satelliiteilla tai UA-laitteilla tuotettuun kuvantamisdataan. Tälläinen kuvantamisdata kootaan yleensä useista kuvatiedostoista ortomosaiikkikartoiksi analyysiä varten.
+    Lämpökartassa datan integraation havainnot jakautuvat kohtuullisen tasaisesti painottuen haastatteluihin 2 ja 5. Sille läheisiä koodeja ovat kokonaisvaltainen maatilanhallintajärjestelmä, tulevaisuuden tietojärjestelmät ja käytöliittymät.
 *datan integraatio, sensoridata, kuvantamisdata, ortomosaiikkikartat*
-    
 
-Tekniikka   Teknologioiden omaksunta    70
-    Teknologioiden omaksunta on samoin yksi keskeisimpiä teemoja.  Teknologioiden omaksunnasta käsiteltiin omaksunnan laajuutta, sen esteenä olevia kynnyksiä, hyvin asteittaista etenemistä ja omaksunnan esteenä olevia haasteitta kuten käyttäjien teknisiä taitoja.
-
-Toimintaympäristö   Muutos  61 Toimintaympäristö   Maatalous   59 Maataloustuotanto   Data    23
+*Tietojenkäsittelyn painotukset haastatteluissa haastattelukohtaisiin kohtiin. 35  41  23  16  25*
 
 
-Tekniikka   Tietojärjestelmät   55 Tekniikka   Tietoliikenne   47 Tekniikka   Alustaratkaisut 20
+#### Tekniikka   Teknologioiden omaksunta    70
 
-Tekniikka   Teknologia  49 Tekniikka   Teknologiasovellus  44 Tekniikka   Standardi   28
+**Teknologioiden omaksunta** on samoin yksi keskeisimpiä teemoja ja sitä käsiteltiin osin eri näkökulmista ja painotuksilla kaikissa haastatteluissa. Teemassa käsiteltiin **omaksunnan laajuutta**, sen esteenä olevia **kynnyksiä**, hyvin **asteittaista etenemistä** ja omaksunnan esteenä olevia haasteita kuten **käyttäjien teknisiä taitoja**. Selkeästi eniten haastattelumateriaalissa käsiteltiin omaksuttavien uusien **teknologioiden hyötyjä**, mutta myös teknologioiden omaksunnan asteittaista etenemistä, vaikeuksia ja kynnyksiä käsiteltiin. Ero on kuitenkin huomattava: haastatteluissa käsiteltiin tekniikan kategoriassa usein hyötyjä enemmän (haastattelut 1, 2 ja 5) kuin omaksunnan haasteita.
+    Lämpökartassa yleinen teknologioiden omaksunta on haastatteluihin 2 ja 5 painottumisen takia lähimpänä päätöksenteon avustamista, viljelyprosessien tehostamista ja tuotantojärjestelmien integraatiota. Teknologioiden omaksunnan laajuuden lähin koodi lämpökartalla puolestaan on aidot IoT-järjestelmät, jotka painottuvat haastatteluun 3. *tämä jää jotenkin vajaaksi, pitäisiköhän avata enemmän?* Asteittaisen omaksunnan koodi taas on lähimpänä tietojärjestelmien käytettävyyttä, mikä vaikuttaa usein järjestelmien omaksuntaan.
 
-Maataloustuotanto   Laitteet    39 Maataloustuotanto   Tehostaminen    32
+
+#### Toimintaympäristö   Muutos  61 - Toimintaympäristö   Maatalous   59 - Maataloustuotanto   Data    23
+Toimintaympäristön muutoksen keskeinen teema on **digitalisaatio**. Haastatteluissa 1 ja 5 se oli yleisin, mutta haastatteluissa 3 ja 4 käsiteltiin enemmän **digitalisaation riskejä**. Haastattelussa 2 digitalisaatio mainittiin toimintaympäristön muutoksen yleisimmän koodin ollessa **tilannehallinta vaihtelevissa olosuhteissa**. Toinen toimintaympäristön muutosta käsittelevä keskeinen teema on **tilakoon kasvu**. Toiminnan digitalisaatio mahdollistaa osaltaan **tehokkaamman toiminnan** ja tätä kautta **maatilojen kasvun**. Tilakokojen kasvuun liittyvä koodi **tilamäärän väheneminen** toisaalta havaittiin harvemmin, samoin kuin digitalisaatioon liittyvä ja tarkemmin rajattu **datan käyttöön siirtyminen**. Digitalisaation avulla mahdollistuvat tai edistyvät myös muut muutoksen keskeiset teemat kuten **uudet liiketoimintamallit** ja toimintatavat. Tämä vaikuttaa myös **viljelijän työnkuvaan** joka voi D.D.n mukaan muuttua suorittavasta enemmän viljelyprosesseja hallinnoivaksi (@dhaastattelu2018).
+
+
+
+
+
+#### Tekniikka   Tietojärjestelmät   55 - Tekniikka   Tietoliikenne   47 - Tekniikka   Alustaratkaisut 20
+
+#### Tekniikka   Teknologia  49 - Tekniikka   Teknologiasovellus  44 - Tekniikka   Standardi   28
+
+#### Maataloustuotanto   Laitteet    39 - Maataloustuotanto   Tehostaminen    32
 
 
 
