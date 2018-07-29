@@ -34,6 +34,8 @@ Tässä opinnäytetyössä käytetään lähdeviittausten tyylinä Södertörns 
 
 # SANASTO
 
+satotasomittaus
+
 # JOHDANTO
 
 *Kirjoitetaan kun muut luvut ovat valmiit. <15-05-2018  12:25> Siirretty Tiiviisti.md:hen työstettäväksi.*
@@ -261,25 +263,25 @@ Kategorioissa ja alikategorioissa esiintyvien koodien määristä puolestaan voi
 
 ## Meta (poistettava otsikko)
 
-Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset *(koska kuvaileva, havainnot?)*. Kirjallisuuskatsauksen sekä teemahaastattelujen tulokset tarkastellaan erikseen, jonka jälkeen kaikista tuloksista tehdään yhteenveto. Lopuksi esitellään vastaukset tutkimuskysymyksiin tuloksista tehtyjen havaintojen ja johtopäätösten perusteella.
+Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset *(koska kuvaileva, havainnot?)*. Kirjallisuuskatsauksen ja teemahaastattelujen tuloksia tarkastellaan erikseen, jonka jälkeen tuloksista tehdään kuvaileva yhteenveto. Lopuksi esitellään vastaukset tutkimuskysymyksiin tuloksista tehtyjen havaintojen ja johtopäätösten perusteella.
 
 ## Kirjallisuuskatsauksen tulokset
 
 ## Haastattelujen tulokset
 
-Kategorioiden ja alikategorioiden yleisimmät koodit kerättiin loogisiksi ryhmiksi, joista kirjoitettiin kuvaukset haastattelumateriaalin keskeisistä teemoista. Ryhmien yleisimpien koodien samankaltaisuutta muihin koodeihin verrattuna tarkasteltiin myös laaditun lämpökartan avulla. Lämpökartan samankaltaisista teemoista on valittu tarkasteltavaksi sellaiset, joilla on looginen yhteys toisiinsa haastattelumateriaalissa ja joista on useita havaintoja.
+Kategorioiden ja alikategorioiden yleisimmät koodit kerättiin loogisiksi ryhmiksi, joista kirjoitettiin kuvaukset haastattelumateriaalin keskeisistä teemoista. Ryhmien yleisimpien koodien samankaltaisuutta muihin koodeihin verrattuna tarkasteltiin myös laaditun lämpökartan avulla. Lämpökartassa samankaltaisista teemoista on valittu tarkasteltavaksi sellaiset, joilla on looginen yhteys toisiinsa haastattelumateriaalissa ja joista on useita havaintoja.
+
 
 ### alikategoriat:
 
-
 #### Tekniikka   Tietojenkäsittely   168
 
-Tietojenkäsittelyn alikategoria sisältää kaikista eniten koodeja ja se on yksi suurimmista alikategorioista myös havaintojen määrällä mitattuna (168 kpl). Tietojenkäsittelyn alikategoriassa viljelijän **päätöksenteon avustaminen** erilaisilla järjestelmillä on keskeisimpiä aiheita  **digitalisaation** ja **tietojenkäsittelyn alustapalveluiden** kanssa. Haastatteluissa 2 ja 5 käsiteltiin erityisesti **ihmisen roolia päätöksentekijänä ja datan tulkitsijana**. Haastatteluissa tuotiin selkeästi esille, että keinoäly halutaan avustamaan viljelypäätöksissä ja viljelyprosessien hallinnassa, mutta ei tekemään päätöksiä ja toteuttamaan niitä automaattisesti.
-Muita keskeisimpiä tietojenkäsittelyn teemoja olivat **data-analytiikka**, **asiakkaalle räätälöidyt analytiikkaratkaisut** ja **data-analytiikkaa tuottavat palvelut**. Uusissa tuotteissa ja erityisesti analytiikapalveluissa pyritään yleisesti hyödyntämään **koneoppimista**, mutta haastattelumateriaalissa se havaittiin vain viidesti. Suurin osa uusista tuotteista ja palveluista rakennetaan **pilvipalveluiksi**, josta tehtiin 12 havaintoa. **Datan siirreltävyyttä** palveluiden välillä ei vielä ole käytännössä toteutettu ja suurta osaa tuotetusta tiedosta ei C.C.:n mukaan voi automaattisesti hyödyntää kolmannen osapuolen analytiikkapalveluissa (@cHaastattelu2017). 
-    *saattaa kannattaa siirtää lämpökartta-analyysi omaan kohtaansa, tässä saattaa rönsyillä liikaa?*
+Tietojenkäsittelyn *alikategoria sisältää eniten koodeja* ja *se on yksi suurimmista alikategorioista myös havaintojen määrällä mitattuna (168 kpl)*. Tietojenkäsittelyn alikategoriassa viljelijän **päätöksenteon avustaminen** erilaisilla järjestelmillä on keskeisimpiä aiheita  **digitalisaation** ja **tietojenkäsittelyn alustapalveluiden** kanssa. Digitalisaation yhteydessä käsiteltiin laajasti erilaisia asiakokonaisuuksia tällä hetkellä saatavilla olevista järjestelmistä tulevaisuuden visioihin ja digitalisaation haasteisiin. Alustapalveluiden katsottiin usein olevan keskeisiä maataloudessa tuotetun tiedon keräämisessä ja integroinnissa. Integraatioita tarvitaan useiden eri tyyppisten järjestelmien välillä, alkaen maatilan eri järjestelmien yhteen tuomisesta aina koko tuotantoketjun järjestelmien integrointeihin. Haastatteluissa 2 ja 5 käsiteltiin erityisesti **ihmisen roolia päätöksentekijänä ja datan tulkitsijana**. Haastatteluissa tuotiin selkeästi esille, että keinoäly halutaan avustamaan viljelypäätöksissä ja viljelyprosessien hallinnassa, mutta ei tekemään päätöksiä ja toteuttamaan niitä automaattisesti.
+Muita keskeisimpiä tietojenkäsittelyn teemoja olivat **data-analytiikka**, **asiakkaalle räätälöidyt analytiikkaratkaisut** ja **data-analytiikkaa tuottavat palvelut**. Analytiikkaratkaisujen räätälöitävyyden nähtiin olevan maatalouden toiminnassa erityisen tärkeä kehityskohde johtuen maatilojen toiminnan yksilöllisyydestä. Uusissa tuotteissa ja erityisesti analytiikapalveluissa pyritään yleisesti hyödyntämään **koneoppimista**, mutta haastattelumateriaalissa se havaittiin vain viidesti. Suurin osa uusista tuotteista ja palveluista rakennetaan **pilvipalveluiksi**, josta tehtiin useita havaintoja. **Datan siirreltävyyttä** palveluiden välillä ei vielä ole käytännössä toteutettu rajapintojen tai vastaavien automaattisten ja käytettävien tapojen avulla. Suurta osaa tuotetusta tiedosta ei C.C.:n mukaan voi automaattisesti hyödyntää kolmannen osapuolen analytiikkapalveluissa (@cHaastattelu2017). 
     Analytiikka, digitalisaatio ja tiedon tuottama lisäarvo ovat lämpökartassa kohtuullisen lähekkäin ja niiden havainnot painottuvat haastatteluihin 1 ja 5.
-    Datan siirreltävyyden koodi on vastaavasti lähellä tietojärjestelmien rajapintoja, datan jakamista, datan merkityksen ymmärtämistä ja teknologioiden omaksunnan kynnystä. *(analytiikka, analytiikkapalvelut, räätälöity analytiikka, koneoppiminen, pilvipalvelut, datan siirreltävyys)*
-**Datan integraatiota** käsiteltiin kaikissa haastatteluissa ja se liittyy muihin keskeisimpiin tietojenkäsittelyn teemoihin. Datan integraatio pitää sisällään erilaisten tietolähteiden kuten sensori- ja **kuvantamisdatan** heterogeenisen datan yhdistämisen esimerkiksi pilvipalveluna toimivassa palvelussa. **Sensoridata** puolestaan on AIoT-ratkaisuissa keskeisessä asemassa analysoitavan tiedon lähteenä. Analyyseissä voidaan yhdistää sensorien tuottamaa dataa paikkatietoihin ja tuottaa tiedon havainnollistamiseksi karttoja, joita voidaan puolestaan yhdistää muun muassa satelliiteilla tai UA-laitteilla tuotettuun **kuvantamisdataan**. Tälläinen kuvantamisdata kootaan yleensä useista kuvatiedostoista **ortomosaiikkikartoiksi** analyysiä varten.
+    Datan siirreltävyyden koodi on vastaavasti lähellä tietojärjestelmien rajapintoja, datan jakamista, datan merkityksen ymmärtämistä ja teknologioiden omaksunnan kynnystä.
+
+**Datan integraatiota** käsiteltiin kaikissa haastatteluissa ja se liittyy muihin keskeisimpiin tietojenkäsittelyn teemoihin kuten edellä mainittuun datan siirreltävyyteen. Datan integraatio pitää sisällään erilaisten tietolähteiden kuten sensori- ja **kuvantamisdatan** heterogeenisen datan yhdistämisen esimerkiksi pilvipalveluna toimivassa palvelussa analytiikkaa varten. **Sensoridata** puolestaan on AIoT-ratkaisuissa keskeisessä asemassa analysoitavan tiedon lähteenä. Analyyseissä voidaan yhdistää sensorien tuottamaa dataa paikkatietoihin ja tuottaa tiedon havainnollistamiseksi karttoja, joita voidaan puolestaan yhdistää muun muassa satelliiteilla tai UA-laitteilla tuotettuun **kuvantamisdataan**. Tälläinen kuvantamisdata kootaan yleensä useista kuvatiedostoista **ortomosaiikkikartoiksi** analyysiä varten.
     Lämpökartassa datan integraation havainnot jakautuvat kohtuullisen tasaisesti painottuen haastatteluihin 2 ja 5. Sille läheisiä koodeja ovat kokonaisvaltainen maatilanhallintajärjestelmä, tulevaisuuden tietojärjestelmät ja käytöliittymät.
 *datan integraatio, sensoridata, kuvantamisdata, ortomosaiikkikartat*
 
@@ -288,19 +290,18 @@ Muita keskeisimpiä tietojenkäsittelyn teemoja olivat **data-analytiikka**, **a
 
 #### Tekniikka   Tietojärjestelmät   55 - Tekniikka   Tietoliikenne   47 - Tekniikka   Alustaratkaisut 20
 
-Tietojärjestelmien alikategoriassa yleisimmät teemat olivat **kokonaisvaltainen maatilanhallintajärjestelmä (FMIS)** sekä **tulevaisuuden tietojärjestelmät**. Kokonaisvaltaisella maatilanhallintajärjestelmällä tarkoitetaan ...
+Tietojärjestelmiä käsittelevät yleisimmät teemat olivat **kokonaisvaltainen maatilanhallintajärjestelmä (FMIS)** sekä **tulevaisuuden tietojärjestelmät**. Kokonaisvaltaisella tai holistisella maatilanhallintajärjestelmällä tarkoitetaan ...
 
-**Maatilanhallintajärjestelmä FMIS** 6 **Viljelysuunnittelujärjestelmä/ohjelmisto** 6
+**Maatilanhallintajärjestelmä FMIS** 6 **Viljelysuunnittelujärjestelmä/ohjelmisto** 6 **Viljelysuositusjärjestelmä**
 
 
 
-**käytettävyys** 8
-**käyttöliittymät** 7
+**käytettävyys** 8 *liittyy teknologioiden omaksuntaan, ks. alla*
+**käyttöliittymät** 7 **Käyttöliittymä Viljelijän oma räätälöity**
 **rajapinnat** 6
 
 **Avoin lähdekoodi**
-**Käyttöliittymä Viljelijän oma räätälöity**
-**Viljelysuositusjärjestelmä**
+
 
 
 **Yhteydet/Verkot** 14
@@ -317,20 +318,20 @@ Tietojärjestelmien alikategoriassa yleisimmät teemat olivat **kokonaisvaltaine
 
 #### Tekniikka   Teknologioiden omaksunta    70
 
-**Teknologioiden omaksunta** on samoin yksi keskeisimpiä teemoja ja sitä käsiteltiin osin eri näkökulmista ja painotuksilla kaikissa haastatteluissa. Teemassa käsiteltiin **omaksunnan laajuutta**, sen esteenä olevia **kynnyksiä**, hyvin **asteittaista etenemistä** ja omaksunnan esteenä olevia haasteita kuten **käyttäjien teknisiä taitoja**. Selkeästi eniten haastattelumateriaalissa käsiteltiin omaksuttavien uusien **teknologioiden hyötyjä**, mutta myös teknologioiden omaksunnan asteittaista etenemistä, vaikeuksia ja kynnyksiä käsiteltiin. Ero on kuitenkin huomattava: haastatteluissa käsiteltiin tekniikan kategoriassa usein hyötyjä enemmän (haastattelut 1, 2 ja 5) kuin omaksunnan haasteita.
+**Teknologioiden omaksunta** on samoin yksi keskeisimpiä teemoja ja sitä käsiteltiin osin eri näkökulmista ja eri painotuksilla kaikissa haastatteluissa. Sen yhteydessä käsiteltiin **omaksunnan laajuutta**, **kynnyksiä** teknologioiden omaksunnalle, omaksunnan hyvin **asteittaista etenemistä** ja omaksunnan esteenä olevia haasteita kuten **käyttäjien teknisiä taitoja**. Kuitenkin selkeästi eniten haastattelumateriaalissa käsiteltiin uusien **teknologioiden omaksunnan hyötyjä**. Erityisesti haastatteluissa 1, 2 ja 5 käsiteltiin omaksunnan mahdollistamia hyötyjä enemmän kuin omaksunnan haasteita.
     Lämpökartassa yleinen teknologioiden omaksunta on haastatteluihin 2 ja 5 painottumisen takia lähimpänä päätöksenteon avustamista, viljelyprosessien tehostamista ja tuotantojärjestelmien integraatiota. Teknologioiden omaksunnan laajuuden lähin koodi lämpökartalla puolestaan on aidot IoT-järjestelmät, jotka painottuvat haastatteluun 3. *tämä jää jotenkin vajaaksi, pitäisiköhän avata enemmän?* Asteittaisen omaksunnan koodi taas on lähimpänä tietojärjestelmien käytettävyyttä, mikä vaikuttaa usein järjestelmien omaksuntaan.
 
 
 #### Toimintaympäristö   Muutos  61 - Toimintaympäristö   Maatalous   59 - Maataloustuotanto   Data    23
-Toimintaympäristön muutoksen keskeinen teema haastattelumateriaalissa on **digitalisaatio**. Haastatteluissa 1 ja 5 se oli yleisin, mutta haastatteluissa 3 ja 4 käsiteltiin enemmän **digitalisaation riskejä**. Haastattelussa 2 digitalisaatiota sivuttiin, mutta siinä toimintaympäristön muutoksen yleisin koodi on **tilannehallinta vaihtelevissa olosuhteissa**, esimerkiksi ilmastonmuutoksen aiheuttamien tautipaineiden tai hyönteisinvaasioiden hallinnassa. Toinen toimintaympäristön muutosta käsittelevä keskeinen teema on **tilakoon kasvu**. Toiminnan digitalisaatio mahdollistaa osaltaan **tehokkaamman toiminnan** ja tätä kautta **maatilojen kasvun**. Tilakokojen kasvuun liittyvä koodi **tilamäärän väheneminen** toisaalta havaittiin harvemmin, samoin kuin digitalisaatioon liittyvä ja tarkemmin rajattu **datan käyttöön siirtyminen**. Digitalisaation avulla mahdollistuvat tai edistyvät myös muut muutoksen keskeiset teemat kuten **uudet liiketoimintamallit** ja toimintatavat. Tämä vaikuttaa myös **viljelijän työnkuvaan** joka voi D.D.n mukaan muuttua suorittavasta enemmän viljelyprosesseja hallinnoivaksi (@dhaastattelu2018).
+Toimintaympäristön muutoksen keskeinen teema haastattelumateriaalissa on **digitalisaatio**. Haastatteluissa 1 ja 5 se oli yleisin, mutta haastatteluissa 3 ja 4 käsiteltiin toimintaympäristön muutoksen yhteydessä enemmän **digitalisaation riskejä**. Haastattelussa 2 digitalisaatiota sivuttiin, toimintaympäristön muutoksen yleisimmän teeman ollessa **tilannehallinta vaihtelevissa olosuhteissa**. Tilannehallinnan viitatessa esimerkiksi ilmastonmuutoksen aiheuttamien tautipaineiden tai hyönteisinvaasioiden hallintaan. Toinen toimintaympäristön muutosta käsittelevä keskeinen teema on **tilakoon kasvu**. Toiminnan digitalisaatio mahdollistaa osaltaan **toiminnan tehostumisen** ja tätä kautta maatilojen kasvun. Tilakokojen kasvuun liittyvä **tilamäärän väheneminen** toisaalta havaittiin harvemmin, samoin kuin digitalisaatioon liittyvä ja tarkemmin rajattu **datan käyttöön siirtyminen**. Digitalisaation myötä mahdollistuvat tai edistyvät myös muut toimintaympäristön muutoksen keskeiset teemat kuten **uudet liiketoimintamallit** ja toimintatavat. Tämä vaikuttaa myös **viljelijän työnkuvaan** joka voi D.D.n mukaan muuttua suorittavasta enemmän viljelyprosesseja hallinnoivaksi (@dhaastattelu2018).
 
-Toimintaympäristön digitalisaation myötä nousee esille kysymys **datan omistajuudesta** josta ei vielä ole selkeitä toimintatapoja. Palveluiden ja laitteiden valmistajat kertovat, että datan omistajuus kuuluu sen tuottaneelle käyttäjälle mutta käytännössä **datan saatavuus**, hallinnointi ja käsittely eri järjestelmien välillä asiakkaan toimesta voi olla vielä vaikeaa. Haastattelussa 5 sivuttiin myös **dataperustaista poliittista päätöksentekoa**.
+Toimintaympäristön digitalisaation myötä nousee esille kysymys **datan omistajuudesta** josta ei yleisessä käytössa ole selkeitä ja vakiintuneita käytänteitä. Palveluiden ja laitteiden valmistajat kertovat että datan omistajuus kuuluu sen tuottaneelle käyttäjälle, mutta käytännössä **datan saatavuus**, hallinnointi ja käsittely eri järjestelmien välillä asiakkaan toimesta voi olla vielä vaikeaa. Haastattelussa 5 sivuttiin myös **dataperustaista poliittista päätöksentekoa**, jossa maataloustuotannosta saatava mitattu digitaalinen tieto toimisi suoraan poliittisten päätöksenteon perusteena.
 
 Maataloustuotannossa **datan merkityksen ymmärtämistä** ja **tuotannon historiatietoja** käsiteltiin erityisesti haastattelussa 2, missä käsiteltiin myös ihmisen roolia ensisijaisena tiedon tulkitsijana ja päätöksentekijänä. Tuotannon historiatietoja aikaisemmilta satokausilta ei voida käyttää ennusteiden laatimiseen olosuhteiden vaihtelevuuden takia, mutta toimenpiteiden vaikutuksia tuotantoon voi arvioida muun muassa satotasomittauksien avulla. Tuotannossa syntyvän digitaalisen tuotantotapatiedon avulla voitaisiin myös toteuttaa **dataperustaista laatuhinnoittelua** tuotteiden myynnissä.
-    Lämpökartassa datan merkityksen ymmärtämisen koodi on samassa ryhmittymässä muiden muassa tuotanto- ja **lannoitepanosten** sekä teknologioiden omaksunnan kynnysten kanssa. Datan merkityksen ymmärtäminen liittyy sen tulkintaan ja tulkinnan perusteella tuotantopanosten käytön suositusten tekemiseen. Teknologioiden omaksuntaan puolestaan vaikuttaa niiden tuottama hyöty joka on tietoa käsittelevien ratkaisuiden tapauksessa riippuvainen tiedon ymmärrettävyydestä.
+    Lämpökartassa datan merkityksen ymmärtämisen koodi on samassa ryhmittymässä muiden muassa tuotanto- ja **lannoitepanosten** sekä teknologioiden omaksunnan kynnysten kanssa. Datan merkityksen ymmärtäminen liittyy sen tulkintaan ja tulkinnan perusteella tuotantopanosten käytön suositusten tekemiseen. Teknologioiden omaksuntaan puolestaan vaikuttaa niiden käyttäjälle tuottama hyöty, joka on tietoa käsittelevien ratkaisuiden tapauksessa osittain riippuvainen tiedon ymmärrettävyydestä.
 
-Maatalouden tilannetta kuvaavista teemoista **toimintaympäristön yleiskuvan** jälkeen keskeisimpiä teemoja haastattelumateriaalissa ovat **Suomalaisen viljely-ympäristön erityispiirteet** kuten peltojen pirstaleisuus, peltojen koon pienuus verrattuna Keski-Eurooppaan, **kasvukauden** lyhyys jne. Myös maatalouden **käyttötarpeiden suuri vaihtelevuus** mainittiin haastatteluissa. Osin päällekkäin samoja teemoja käsitellään myös tarkemmin rajatuissa teemoissa **maatalouden hajanaisuus** ja **maatilojen yksilöllisyys**. **Teknologiatuotteiden hajanaisuutta ja siiloutuneisuutta** käsiteltiin vain haastateluissa 4 ja 5.
-    Lämpökartassa Suomalaisen viljely-ympäristön erityispiirteiden kanssa samassa ryhmittymässä on muiden muassa tuotannon **syötteet kuten ravinteet ja lannoitteet**. Viljelytoiminnassa tarvitaan kasvien kasvattamiseksi syötteitä joiden annostelussa tulee ottaa huomioon viljely-ympäristön erityispiirteet.
+Maatalouden tilannetta kuvaavista teemoista **toimintaympäristön yleiskuvan** jälkeen keskeisimpiä teemoja haastattelumateriaalissa ovat **Suomalaisen viljely-ympäristön erityispiirteet** kuten peltojen pirstaleisuus, peltojen koon pienuus verrattuna Keski-Eurooppaan ja USA:n, **kasvukauden** lyhyys jne. Myös maatalouden **käyttötarpeiden suuri vaihtelevuus** mainittiin haastatteluissa. Osin samoja asioita käsitellään myös tarkemmin rajatuissa teemoissa **maatalouden hajanaisuus** ja **maatilojen yksilöllisyys**. Maatalouden **teknologiatuotteiden hajanaisuutta ja siiloutuneisuutta** käsiteltiin haastateluissa 4 ja 5.
+    Lämpökartassa Suomalaisen viljely-ympäristön erityispiirteiden kanssa samassa ryhmittymässä on muiden muassa tuotannon **syötteet kuten ravinteet ja lannoitteet**. Viljelytoiminnassa tarvitaan kasvien kasvattamiseksi syötteitä, joiden annostelussa tulee ottaa huomioon viljely-ympäristön erityispiirteet ja kasvien tarpeet.
 
 **Ruokaturvan parantaminen** on mainittu monien AIoT:n tutkimushankkeiden motivaationa. Haastateltavien näkökulmista Suomalaisen ruokaturvan tärkein kehityskohde on maatalouden tuotannon kannattavuus, jotta omaa tuotantoa voitaisiin ylläpitää. Maatalousalan tutkimusta tarkasteltaessa tulee myös ottaa huomioon yleinen **tutkimuksen aikajänteen pituus** joka usein voi olla yli 10 vuotta.
 
