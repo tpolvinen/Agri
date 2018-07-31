@@ -274,7 +274,7 @@ Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset *(koska kuvaileva, h
 ### Haastattelujen tuloksien kuvailu teemojen mukaan ryhmiteltyinä
 
 
-#### Tekniikka: Tietojenkäsittely 168
+#### Tekniikka: Tietojenkäsittely (168 havaintoa)
 
 Tietojenkäsittelyn yleisimmät teemat havaintojen määrien mukaan ovat viljelijän **päätöksenteon avustaminen** erilaisilla järjestelmillä on keskeisimpiä aiheita  **digitalisaation** ja **tietojenkäsittelyn alustapalveluiden** kanssa. Digitalisaation yhteydessä käsiteltiin laajasti erilaisia asiakokonaisuuksia tällä hetkellä saatavilla olevista järjestelmistä tulevaisuuden visioihin ja digitalisaation haasteisiin. Alustapalveluiden katsottiin usein olevan keskeisiä maataloudessa tuotetun tiedon keräämisessä ja integroinnissa. Integraatioita tarvitaan useiden eri tyyppisten järjestelmien välillä, alkaen maatilan eri järjestelmien yhteen tuomisesta aina koko tuotantoketjun järjestelmien integrointeihin. Haastatteluissa 2 ja 5 käsiteltiin erityisesti **ihmisen roolia päätöksentekijänä ja datan tulkitsijana**. Haastatteluissa tuotiin selkeästi esille, että keinoäly halutaan avustamaan viljelypäätöksissä ja viljelyprosessien hallinnassa, mutta ei tekemään päätöksiä ja toteuttamaan niitä automaattisesti.
 Muita keskeisimpiä tietojenkäsittelyn teemoja olivat **data-analytiikka**, **asiakkaalle räätälöidyt analytiikkaratkaisut** ja **data-analytiikkaa tuottavat palvelut**. Analytiikkaratkaisujen räätälöitävyyden nähtiin olevan maatalouden toiminnassa erityisen tärkeä kehityskohde johtuen maatilojen toiminnan yksilöllisyydestä. Uusissa tuotteissa ja erityisesti analytiikapalveluissa pyritään yleisesti hyödyntämään **koneoppimista**, mutta haastattelumateriaalissa se havaittiin vain viidesti. Suurin osa uusista tuotteista ja palveluista rakennetaan **pilvipalveluiksi**, josta tehtiin useita havaintoja. **Datan siirreltävyyttä** palveluiden välillä ei vielä ole käytännössä toteutettu rajapintojen tai vastaavien automaattisten ja käytettävien tapojen avulla. Suurta osaa tuotetusta tiedosta ei C.C.:n mukaan voi automaattisesti hyödyntää kolmannen osapuolen analytiikkapalveluissa (@cHaastattelu2017). 
@@ -285,7 +285,7 @@ Muita keskeisimpiä tietojenkäsittelyn teemoja olivat **data-analytiikka**, **a
     Lämpökartassa datan integraation havainnot jakautuvat kohtuullisen tasaisesti painottuen haastatteluihin 2 ja 5. Sille läheisiä koodeja ovat kokonaisvaltainen maatilanhallintajärjestelmä, tulevaisuuden tietojärjestelmät ja käytöliittymät.
 
 
-#### Tekniikka: Tietojärjestelmät 55 - Tietoliikenne 47 - Alustaratkaisut 20
+#### Tekniikka: Tietojärjestelmät (55 havaintoa) - Tietoliikenne (47 havaintoa) - Alustaratkaisut (20 havaintoa)
 
 Tietojärjestelmiä käsittelevät yleisimmät teemat olivat **kokonaisvaltainen maatilanhallintajärjestelmä (FMIS)** sekä **tulevaisuuden tietojärjestelmät**. Kokonaisvaltainen tai holistinen maatilanhallintajärjestelmä pyrkii integroimaan maatilan tuotantojärjestelmät ja tuottamaan käyttäjälle kokonaiskuvan maatilan tilanteesta. Tällä hetkellä C.C.n mukaan kokonaisvaltaiset järjestelmät ovat vielä kehitysvaiheessa mutta ne tulevat yleistymään lähivuosien aikana (@cHaastattelu2017). Tulevaisuuden tietojärjestelminä haastattelumateriaalissa mainitaan muiden muassa integroitu tuotantokeju joka voisi välittää tuotteiden tuotantotapa- ja käsittelytiedot kuluttajille asti, tuotantodataa keräävät ja analysoivat palvelut, täysautomatisoidut keinoälyn ohjaamat viljelyjärjestelmät ja työkoneet, viljelijöiden datasettien vertailun ja myynnin alustapalvelut sekä alustapalveluekosysteemit.
     Lämpökartassa kokonaisvaltainen FMIS sijoittuu samaan ryhmään tulevaisuuden tietojärjestelmien ja tietojärjestelmien käyttöliittymien kanssa. Tämä johtuu ryhmän havaintojen painottumisesta haastattelu 5:en jakautuen harvalukuisina ja tasaisesti muiden haastattelujen kesken.
@@ -301,13 +301,13 @@ Tietoliikenteeseen liittyvät keskeisimmät teemat olivat **tietoliikenneverkot 
 Muita huomattavia tietoliikenteen teemoja olivat **tiedon vaihdanta** ja siihen liittyvä **datan julkaisu ja jakaminen**, missä käsitellään suurimmalta osin tulevaisuuden visioita alustapalveluista, jotka toisivat maatalouden tuottaman datan yleisesti saataville ja hyödynnettäväksi. Teemoissa **viljelijöiden verkostoitumisalusta myyntiin ja ostoihin** sekä **viljelijöiden ja kuluttajien yhteydet** puolestaan käsiteltiin visioita alustapalveluista, joissa viljelijät ja kuluttajat voisivat viestiä keskenään ja ryhmittyä tekemään hankintoja tai myymään tuotteitaan yhteistoiminnassa. Samoin teemassa **viljelijöiden sosiaalinen verkostoituminen** sivuttiin alustapalvelua, jossa viljelijöiden olisi mahdollista verkostoitua tiedon vaihdantaa ja muuta yhteistoimintaa varten.
 
 
-#### Tekniikka: Teknologioiden omaksunta 70
+#### Tekniikka: Teknologioiden omaksunta (70 havaintoa)
 
 **Teknologioiden omaksunta** on samoin yksi keskeisimpiä teemoja ja sitä käsiteltiin osin eri näkökulmista ja eri painotuksilla kaikissa haastatteluissa. Sen yhteydessä käsiteltiin **omaksunnan laajuutta**, **kynnyksiä** teknologioiden omaksunnalle, omaksunnan hyvin **asteittaista etenemistä** ja omaksunnan esteenä olevia haasteita kuten **käyttäjien teknisiä taitoja**. Kuitenkin selkeästi eniten haastattelumateriaalissa käsiteltiin uusien **teknologioiden omaksunnan hyötyjä**. Erityisesti haastatteluissa 1, 2 ja 5 käsiteltiin omaksunnan mahdollistamia hyötyjä enemmän kuin omaksunnan haasteita.
     Lämpökartassa yleinen teknologioiden omaksunta on haastatteluihin 2 ja 5 painottumisen takia lähimpänä päätöksenteon avustamista, viljelyprosessien tehostamista ja tuotantojärjestelmien integraatiota. Teknologioiden omaksunnan laajuuden lähin koodi lämpökartalla puolestaan on aidot IoT-järjestelmät, jotka painottuvat haastatteluun 3. Asteittaisen omaksunnan koodi taas on lähimpänä tietojärjestelmien käytettävyyttä, mikä vaikuttaa usein järjestelmien omaksuntaan.
 
 
-#### Toimintaympäristö: Muutos 61 - Maatalous 59 - Maataloustuotanto Data 23
+#### Toimintaympäristö: Muutos (61 havaintoa) - Maatalous (59 havaintoa) - Maataloustuotanto Data (23 havaintoa)
 
 Toimintaympäristön muutoksen keskeinen teema haastattelumateriaalissa on **digitalisaatio**. Haastatteluissa 1 ja 5 se oli yleisin, mutta haastatteluissa 3 ja 4 käsiteltiin toimintaympäristön muutoksen yhteydessä enemmän **digitalisaation riskejä**. Haastattelussa 2 digitalisaatiota sivuttiin, toimintaympäristön muutoksen yleisimmän teeman ollessa **tilannehallinta vaihtelevissa olosuhteissa**. Tilannehallinnan viitatessa esimerkiksi ilmastonmuutoksen aiheuttamien tautipaineiden tai hyönteisinvaasioiden hallintaan. Toinen toimintaympäristön muutosta käsittelevä keskeinen teema on **tilakoon kasvu**. Toiminnan digitalisaatio mahdollistaa osaltaan **toiminnan tehostumisen** ja tätä kautta maatilojen kasvun. Tilakokojen kasvuun liittyvä **tilamäärän väheneminen** toisaalta havaittiin harvemmin, samoin kuin digitalisaatioon liittyvä ja tarkemmin rajattu **datan käyttöön siirtyminen**. Digitalisaation myötä mahdollistuvat tai edistyvät myös muut toimintaympäristön muutoksen keskeiset teemat kuten **uudet liiketoimintamallit** ja toimintatavat. Tämä vaikuttaa myös **viljelijän työnkuvaan** joka voi D.D.n mukaan muuttua suorittavasta enemmän viljelyprosesseja hallinnoivaksi (@dhaastattelu2018).
 
@@ -322,7 +322,7 @@ Maatalouden tilannetta kuvaavista teemoista **toimintaympäristön yleiskuvan** 
 **Ruokaturvan parantaminen** on mainittu monien AIoT:n tutkimushankkeiden motivaationa. Haastateltavien näkökulmista Suomalaisen ruokaturvan tärkein kehityskohde on maatalouden tuotannon kannattavuus, jotta omaa tuotantoa voitaisiin ylläpitää. Maatalousalan tutkimusta tarkasteltaessa tulee myös ottaa huomioon yleinen **tutkimuksen aikajänteen pituus** joka usein voi olla yli 10 vuotta.
 
 
-#### Tekniikka Teknologia 49 - Tekniikka Teknologiasovellus 44 - Tekniikka Standardi 28
+#### Tekniikka Teknologia (49 havaintoa) - Tekniikka Teknologiasovellus (44 havaintoa) - Tekniikka Standardi (28 havaintoa)
 
 *Tekniikka*
 **Sensoriteknologia** ja **teollisuusautomaatio** ovat yleisimmin haastattelumateriaalista havaitut teknologioita käsittelevät teemat. Useat IoT-ratkaisut perustuvat sensoreiden tuottaman tiedon käsittelyyn ja sensoriteknologia on yksi niiden keskeisiä mahdollistajia. Teollisuusautomaatiota käsiteltiin haastatteluissa 1 ja 3. Maatalousautomaatiossa voitaisiin soveltaa teollisuudessa kehitettyja ratkaisuita, mikä vähentäisi niiden tuotantokustannuksia huomattavasti verrattuna maatalouteen erikoistuneiden laitteiden kehittämiseen. C.C.n mukaan laitteiden hankintahinnat olisi saatava alemmas, jotta niiden käyttöönotto olisi taloudellisesti kannattavaa (@cHaastattelu2017). Teollisuusautomaatiota on voitu soveltaa helposti kasvihuonetuotannossa joka muistuttaa tehdasympäristöä, kun taas peltotuotannon ratkaisuiden on täytynyt odottaa langattomien tiedonsiirtoratkaisuiden kehittymistä (@aHaastattelu2017).
@@ -346,15 +346,13 @@ Haastattelumateriaalissa yleisimmin käsitelty standardi on **ISOBUS**, joka on 
 Teemassa **muut standardit** käsiteltiin standardien kehittymistä, yleistä luonnetta ja tärkeyttä maatalousteollisuuden toiminnalle. **Avoimien standardien** kuvailtiin olevan erityisen tärkeitä jotta voidaan välttää yhteen valmistajaan lukittuminen (vendor lock). D.D.n mukaan luultavasti merkittävin yritys avoimien tiedonkäsittelystandardien kehittämiseksi ja ns. vendor lockin välttämiseksi on AEF:n yritys saada ISOBUS-standardilla kytketyt koneet yhdistettyä viljelysuunnitteluohjelmistoihin (@dHaastattelu2018).
 
 
-#### Maataloustuotanto   Laitteet    39 - Maataloustuotanto   Tehostaminen    32
+#### Maataloustuotanto Laitteet (39 havaintoa) - Maataloustuotanto Tehostaminen (32 havaintoa)
 
 *Laitteet*
-Hintojen halpeneminen 4
-Laitteiden yhteensopivuus ja integraatio 12
-Laitteiston ROI 9
-Toimintavarmuus 2
-UA-laitteet 6
-
+Maataloustuotannossa käytettävien **laitteiden yhteensopivuus ja integraatio** on laitteita käsittelevistä teemoista selkeästi eniten esillä haastattelumateriaalissa. Yksittäisen toimijan on A.A.n mukaan käytännössä mahdotonta toteuttaa peltoviljelyn kokonaisvaltaista ratkaisua, jolloin yhteensopivuus muiden valmistajien laitteiden kanssa korostuu (@aHaastattelu2017). Yhteensopivuuteen liittyvät kiinteästi edellä käsitellyt standardit kuten ISOBUS ja dataa yhteen keräävät maatilanhallintajärjestelmät. Laiteintegraatio ja laitteiden yhteen kytkettävyys ovat D.D.n mukaan parantuneet huomattavasti viimeisen neljän vuoden aikana (@dHaastattelu2018).
+**Laitteiston ROI** eli laitteisiin sijoitettujen investointien tuotto on toinen useissa haastatteluissa käsitelty teema. Uutta teknologiaa soveltavat laitteet ovat maataloudessa pienviljelijöille hyvin kalliita investointeja, joiden pitäisi tuottaa vähintään vastaava määrä myydyissä tuotteissa.
+Maatalouden uusien teknologioiden julkisuuskuvassa usein esillä olevat **UA-laitteet** saivat huomiota myös haastatteluissa. Laitteiden tuottama kuvantamisdatan määrä on suuri ja analysointi usein vaikeaa. Samoin tehtävien tuottaminen tehdyn analyysin perusteella voi olla viljelijälle vaikeaa tällä hetkellä saatavilla olevilla ohjelmistoilla. Lisäksi UA-laitteiden käyttö vaatii käytännössä oman teknologiaekosysteemin käyttöönottoa, mikä voi sekin olla haasteellista. (@dHaastattelu2018)
+Laitteiden **hintojen halpeneminen** on uusien teknologioiden laajamittaiselle omaksunnalle erittäin tärkeää. Haastattelussa 3 C.C. kertoi, että keskeinen tekijä laitteiden hintojen alas tuomiselle on olemassaolevan teollisuusautomaation soveltaminen (ks. teema teollisuusautomaatio) (@cHaastattelu2017). Lisäksi laajamittaiselle omaksunnalle on C.C.n ja D.D.n mukaan tärkeää, että laitteiden **toimintavarmuuteen** ja **toimintaympäristön vaatimuksiin** kiinnitetään erityistä huomiota (@cHaastattelu2017; @dHaastattelu2018).
 
 *Tehostaminen*
 Maatilan toiminnassa yleisesti 3
@@ -362,7 +360,7 @@ Resurssien käyttö 5
 Työn helpottaminen 6
 Viljelyprosessien tehostaminen 16
 
-#### Tuotteet/teknologiaratkaisut
+#### Tekniikka Tuotteet/teknologiaratkaisut (23 havaintoa)
 
 365FarmNet
 Agrirouter
