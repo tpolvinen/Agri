@@ -276,6 +276,8 @@ Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset *(koska kuvaileva, h
 
 ### Haastattelujen tuloksien kuvailu teemojen mukaan ryhmiteltyinä
 
+*Tähän lista ryhmittelyn teemoista (alikategoriat) ja kaaviot niiden havaintojen määristä; ryhmityksen mukaan ja teemojen mukaan.*
+
 
 #### Tekniikka: Tietojenkäsittely (168 havaintoa)
 
@@ -327,7 +329,7 @@ Maatalouden tilannetta kuvaavista teemoista **toimintaympäristön yleiskuvan** 
 
 #### Tekniikka Teknologia (49 havaintoa) - Tekniikka Teknologiasovellus (44 havaintoa) - Tekniikka Standardi (28 havaintoa)
 
-*Tekniikka*
+*Teknologiat*
 **Sensoriteknologia** ja **teollisuusautomaatio** ovat yleisimmin haastattelumateriaalista havaitut teknologioita käsittelevät teemat. Useat IoT-ratkaisut perustuvat sensoreiden tuottaman tiedon käsittelyyn ja sensoriteknologia on yksi niiden keskeisiä mahdollistajia. Teollisuusautomaatiota käsiteltiin haastatteluissa 1 ja 3. Maatalousautomaatiossa voitaisiin soveltaa teollisuudessa kehitettyja ratkaisuita, mikä vähentäisi niiden tuotantokustannuksia huomattavasti verrattuna maatalouteen erikoistuneiden laitteiden kehittämiseen. C.C.n mukaan laitteiden hankintahinnat olisi saatava alemmas, jotta niiden käyttöönotto olisi taloudellisesti kannattavaa (@cHaastattelu2017). Teollisuusautomaatiota on voitu soveltaa helposti kasvihuonetuotannossa joka muistuttaa tehdasympäristöä, kun taas peltotuotannon ratkaisuiden on täytynyt odottaa langattomien tiedonsiirtoratkaisuiden kehittymistä (@aHaastattelu2017).
 
 Useissa haastatteluissa käsiteltiin **aitoja IoT-ratkaisuita**, jotka ovat vielä harvinaisia. Aidolla IoT-ratkaisulla tarkoitetaan ratkaisua, jolla on sensoriperustaisen datan tuottamisen ja verkon yli siirtämisen lisäksi kyky ympäristöönsä vaikuttamiseen esimerkiksi toimilaitteilla datan analytiikan perusteella. Markkinoilla on C.C.n mukaan saatavilla useita laitteita joihin on lisätty joitakin IoT-toiminnallisuuksia, mutta laitteet, joiden toimintaan voi vaikuttaa verkon ylitse sensoroinnin lisäksi ovat harvinaisia (@cHaastattelu2017). Kasvintuotannossa tehdasautomaation ratkaisuita hyödyntävissä järjestelmissä esimerkiksi kasvihuoneissa verkon yli kontrolloitavat toimilaitteet ovat yleisempiä (@aHaastattelu2017). Kehitys on kuitenkin nopeaa ja täysautomaattisesti toimivat viljelyjärjestelmät tulevat todennäköisesti leviämään markkinoille nopeasti lähitulevaisuudessa (@bHaastattelu2017). Aidoksi IoT-ratkaisuksi luettava ValtraSmart on Valtran ensimmäinen telemetria- ja IoT-järjestelmä ja se on saanut E.E.n mukaan hyvän vastaanoton markkinoilla (@eHaastattelu2018).
@@ -354,32 +356,21 @@ Teemassa **muut standardit** käsiteltiin standardien kehittymistä, yleistä lu
 *Laitteet*
 Laitteita käsittelevistä teemoista eniten havaintoja on maataloustuotannossa käytettävien **laitteiden yhteensopivuus ja integraatio** -teemassa. Yksittäisen toimijan on A.A.n mukaan käytännössä mahdotonta toteuttaa peltoviljelyn kokonaisvaltaista ratkaisua. Tällöin yhteensopivuus eri valmistajien laitteiden välillä muodostuu tärkeäksi. (@aHaastattelu2017) Yhteensopivuuteen liittyvät edellä käsitellyt standardit kuten ISOBUS sekä dataa yhteen keräävät maatilanhallintajärjestelmät. Laiteintegraatio, laitteiden yhteensopivuus ja yhteen kytkettävyys ovat D.D.n mukaan parantuneet huomattavasti viimeisen neljän vuoden aikana (@dHaastattelu2018). 
 **Laitteiston ROI** eli laitteisiin sijoitettujen investointien tuotto on toinen useissa haastatteluissa käsitelty teema. Uutta teknologiaa soveltavat laitteet ovat maataloudessa pienviljelijöille hyvin kalliita investointeja, joiden pitäisi tuottaa vähintään investoinnin verran takaisin.
-Maatalouden uusien teknologioiden julkisuuskuvassa usein esillä olevat **UA-laitteet** ovat esillä myös haastatteluissa. Laitteiden tuottama kuvantamisdatan määrä on suuri ja analysointi usein vaikeaa. Samoin tehtävien tuottaminen tehdyn analyysin perusteella voi olla viljelijälle vaikeaa tällä hetkellä saatavilla olevilla ohjelmistoilla. Lisäksi UA-laitteiden käyttö vaatii käytännössä oman teknologiaekosysteemin käyttöönottoa, mikä voi sekin olla haasteellista. (@dHaastattelu2018)
-Laitteiden **hintojen halpeneminen** on uusien teknologioiden laajamittaiselle omaksunnalle erittäin tärkeää. Haastattelussa 3 C.C. kertoi, että keskeinen tekijä laitteiden hintojen alas tuomiselle on olemassaolevan teollisuusautomaation soveltaminen (ks. teema teollisuusautomaatio) (@cHaastattelu2017). Lisäksi laajamittaiselle omaksunnalle on C.C.n ja D.D.n mukaan tärkeää, että laitteiden **toimintavarmuuteen** ja **toimintaympäristön vaatimuksiin** kiinnitetään erityistä huomiota (@cHaastattelu2017; @dHaastattelu2018).
+Maatalouden uusien teknologioiden julkisuuskuvassa usein esillä olevat **UA-laitteet** ovat esillä myös haastatteluissa. UA-laitteiden tuottama kuvantamisdatan määrä on suuri ja analysointi usein haasteellista. Lisäksi tehtävien tuottaminen kuvantamisdatasta tehdyn analyysin perusteella voi olla viljelijälle vaikeaa tällä hetkellä saatavilla olevilla ohjelmistoilla. UA-laitteiden käyttö vaatii käytännössä myös oman teknologiaekosysteemin käyttöönottoa, mikä voi sekin olla haasteellista. (@dHaastattelu2018)
+Laitteiden **hintojen halpeneminen** on uusien teknologioiden laajamittaiselle omaksunnalle tärkeää. C.C.n mukaan keskeinen tekijä laitteiden hintojen alas tuomiselle on olemassaolevan teollisuusautomaation soveltaminen (ks. teema teollisuusautomaatio). Lisäksi laajamittaiselle omaksunnalle on C.C.n ja D.D.n mukaan tärkeää, että laitteiden **toimintavarmuuteen** ja **toimintaympäristön vaatimuksiin** kiinnitetään erityistä huomiota (@cHaastattelu2017; @dHaastattelu2018).
 
 *Tehostaminen*
-Maatilan toiminnassa yleisesti 3
-Resurssien käyttö 5
-Työn helpottaminen 6
-Viljelyprosessien tehostaminen 16
+Tuotannon tehostamisen alikategorian teemoja käsiteltiin kaikissa haastatteluissa. Suurin määrä havaintoja on teemalla **Viljelyprosessien tehostaminen**, mihin kuuluvat myös prosessien optimointi sekä tuotannon automatisointi. **Työn helpottaminen** osana työtehokkuuden parantamista sekä viljelyprosessien tehostaminen liittyvät myös edellä käsiteltyyn investointien tuottavuuteen: uusilla teknologioilla pyritään tehostamaan työtä aikaisempaa tehokkaammilla laitteilla ja prosesseilla. Aikaisempaa tarkemmin hallituilla prosesseilla **resurssien käyttöä**, erityisesti tuotantopanoksia, osataan säätää paremmin. (@aHaastattelu2017) Lisäksi voidaan pyrkiä vähentämään viljelytoiminnan riskejä. (@bHaastattelu2017) Viljelytoiminnan tehostamisen lisäksi IoT-ratkaisuilla voidaan pyrkiä koko tuotantoketjun toiminnan parantamiseen. Tuotantoketjun mittaroinnissa pyritään usein ympäristöystävällisempään ja/tai tehokkaampaan toimintaan. (@cHaastattelu2017) Työn helpottaminen ja automatisointi voi muuttaa työn luonnetta ja saattaa vähentää viljelijän asiantuntemusta jos toiminnassa nojaudutaan täysin automaattisen järjestelmän tuottamiin ohjeisiin (@dHaastattelu2018). Toisaalta tuotannossa voi silti olla huomaamattaa jääneitä pullonkauloja, jotka voitaisiin havaita datan analysoinnilla (@eHaastattelu2018). 
+
 
 #### Tekniikka Tuotteet/teknologiaratkaisut (23 havaintoa)
 
-365FarmNet
-Agrirouter
-Agrismart
-Farmer's Business Network
-Farmidiili
-FarMobile
-MyYara
-Yara N-sensor
-VTT Owela
-Valtra Smart
+Haastatteluissa käsiteltiin useita erilaisia **tuotteita ja ratkaisuita**. Yksittäisiten ja nimeltä mainittujen tuotteiden, ratkaisuiden tai järjestelmien havainnot rajoittuivat **Yaran N-sensoria** lukuunottamatta yksittäisiin haastatteluihin, eli kukin mainittiin vain yhdessä haastattelussa.
+Suurin osa näistä on pilvipalveluita, joita käytetään maatilanhallintajärjestelminä, maatilan tuottaman datan integrointiin, yhteishankinta-alustoina, viljelijöiden verkostoitumiseen jne. Haastattelumateriaalissa ei mainittu N-sensorin ja SoilScoutin lisäksi nimeltä muita tuotteita joita käytetään viljely-ympäristön tai kasvien mittarointiin, mutta niihin liittyviä teknologioita, järjestelmiä ja palveluita käsiteltiin yleisesti.  
 
-*yhteenvetona: mitkä ovat yleisimmät ja näkyvimmät tuotteet, mitkä ratkaisu/tuotekategoriat?*
-
-
-*Oma huomio: Datan osto ja myynti, 1.16, 2.41, 3.18 --FarMobile & al, mutta ei täällä Suomessa; visiona datasettien vertailu- myynti- & ostoalusta on mahdollinen; tuotantotapatieto on pakko antaa mukaan eikä ole tietoa kuka siitä hyötyisi niin, että maksaisi -> ei talousmekanismeja datamarkkinoille.*
+Traktorin katolle asennettavan N-sensorin avulla voidaan reaaliaikaisesti havainnoida kasvien tilaa ja kontrolloida lannoiteen levitystä, välttäen lannoitteiden liiallinen levittäminen kasveille jotka eivät sitä tarvitse. Lisäksi N-sensorin mittausdata voidaan yhdistää paikkatietoihin, jolloin voidaan tuottaa karttoja kasvien tilasta. **Valtra Smart** on Valtran traktoreiden telemetriaominaisuuksia hyödyntävä järjestelmä, jolla voidaan tarkkailla traktoreiden toimintaa, tehdä tarvittaessa vikadiagnostiikkaa ja ohjata huollon toimintaa kentällä. 
+**365FarmNet** on pilvipalveluna toimiva kokonaisvaltainen maatilanhallintajärjestelmä, jossa voidaan käyttää muun muassa N-sensorin tuottamaa dataa yhdessä muiden tietolähteiden ja maatalouden järjestelmien kanssa (@bHaastattelu2017). **Agrirouter** on toinen samankaltainen maataloustuotannon dataa yhteen kokoava palvelu, joka mainittiin haastattelumateriaalissa.
+A.A.n mukaan suomalaisilla viljelijöillä voisi olla tarvetta **Farmobile**:n ja **Farmer's Business Network**:in kaltaisille alustaratkaisuille, joissa viljelijät voivat verkostoitua, vertailla, myydä ja ostaa tuottamaansa tietoa sekä tehdä yhteishankintoja. Mtech, entinen Suomen Maatalouden Laskentakeskus Oy, on toteuttanut alustan viljelijöiden yhteishankinnoille **FarmiDiili**-palvelussaan. (@aHaastattelu2017)
 
 
 #### Koodien ja kategorioiden havaitut esiintymät haastatteluissa / sisällönanalyysiin havainnot / teemoittelun ja taulukoinnin tulokset-havainnot
@@ -420,6 +411,7 @@ Lukuja tulkitessa tulee ottaa huomioon, että jo yhden koodin havainnon ero aihe
 *HUOM: YHDEN SEGMENTIN SISÄLLÄ YKSI KOODI VAIN YHDEN KERRAN. Muuutta? Segmenttien koko vaihtelee rajusti.*
 
 *Kannattaa tsekata myös koodit, joista ei puhuta kuin tietyssä haastattelussa!*
+*yhteenvetona: mitkä ovat yleisimmät ja näkyvimmät tuotteet, mitkä ratkaisu/tuotekategoriat?*
 
 *Taskuvihosta <22-07-2018  23:16>*
     *Kategorioiden luonne? / Alikategorioiden luonne & yleisimmät / Yleisimmät ja kuvailevimmat alikategoriat ja koodit -- verrattuna samoin käyttäytyviin / Millaisia koodiryhmiä ja alikategoriaryhmiä on? / Näkyvätkö trendit koodeissa? / Mitä näet koodeissa? Laitteiden-tekniikoiden-tuotteiden kehityssuunnat? / Tilanteen kehityssuunta koodeissa-kategorioissa? Vahvistavatko koodit omaa käsitystäni haastiksista? / MITKÄ KOODIT VASTAAVAT TUTKIMUSKYSYMYKSIIN?*
