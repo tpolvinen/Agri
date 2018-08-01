@@ -126,6 +126,9 @@ Muiden katsausten, koosteiden ja vastaavien julkaisujen tuloksia, havaintoja ja 
 
 #### Aineistojen haku
 
+*Aineistoa kerättiin myös hakutoiminnoilla löydettyjen tekstien/julkaisujen perusteella automaattisesti suositeltujen julkaisujen joukosta (esimerkiksi ResearchGate:n Suggested for you -toiminto sekä IEEE Xplore:n Related Articles -toiminto) sekä asiantuntijakeskusteluissa suositeltujen julkaisujen joukosta.*
+
+
 #### Aineistojen haun tulokset ja aineistojen valinta
 
 #### MAHD. Aineiston analyysimenetelmä
@@ -349,9 +352,9 @@ Teemassa **muut standardit** käsiteltiin standardien kehittymistä, yleistä lu
 #### Maataloustuotanto Laitteet (39 havaintoa) - Maataloustuotanto Tehostaminen (32 havaintoa)
 
 *Laitteet*
-Maataloustuotannossa käytettävien **laitteiden yhteensopivuus ja integraatio** on laitteita käsittelevistä teemoista selkeästi eniten esillä haastattelumateriaalissa. Yksittäisen toimijan on A.A.n mukaan käytännössä mahdotonta toteuttaa peltoviljelyn kokonaisvaltaista ratkaisua, jolloin yhteensopivuus muiden valmistajien laitteiden kanssa korostuu (@aHaastattelu2017). Yhteensopivuuteen liittyvät kiinteästi edellä käsitellyt standardit kuten ISOBUS ja dataa yhteen keräävät maatilanhallintajärjestelmät. Laiteintegraatio ja laitteiden yhteen kytkettävyys ovat D.D.n mukaan parantuneet huomattavasti viimeisen neljän vuoden aikana (@dHaastattelu2018).
-**Laitteiston ROI** eli laitteisiin sijoitettujen investointien tuotto on toinen useissa haastatteluissa käsitelty teema. Uutta teknologiaa soveltavat laitteet ovat maataloudessa pienviljelijöille hyvin kalliita investointeja, joiden pitäisi tuottaa vähintään vastaava määrä myydyissä tuotteissa.
-Maatalouden uusien teknologioiden julkisuuskuvassa usein esillä olevat **UA-laitteet** saivat huomiota myös haastatteluissa. Laitteiden tuottama kuvantamisdatan määrä on suuri ja analysointi usein vaikeaa. Samoin tehtävien tuottaminen tehdyn analyysin perusteella voi olla viljelijälle vaikeaa tällä hetkellä saatavilla olevilla ohjelmistoilla. Lisäksi UA-laitteiden käyttö vaatii käytännössä oman teknologiaekosysteemin käyttöönottoa, mikä voi sekin olla haasteellista. (@dHaastattelu2018)
+Laitteita käsittelevistä teemoista eniten havaintoja on maataloustuotannossa käytettävien **laitteiden yhteensopivuus ja integraatio** -teemassa. Yksittäisen toimijan on A.A.n mukaan käytännössä mahdotonta toteuttaa peltoviljelyn kokonaisvaltaista ratkaisua. Tällöin yhteensopivuus eri valmistajien laitteiden välillä muodostuu tärkeäksi. (@aHaastattelu2017) Yhteensopivuuteen liittyvät edellä käsitellyt standardit kuten ISOBUS sekä dataa yhteen keräävät maatilanhallintajärjestelmät. Laiteintegraatio, laitteiden yhteensopivuus ja yhteen kytkettävyys ovat D.D.n mukaan parantuneet huomattavasti viimeisen neljän vuoden aikana (@dHaastattelu2018). 
+**Laitteiston ROI** eli laitteisiin sijoitettujen investointien tuotto on toinen useissa haastatteluissa käsitelty teema. Uutta teknologiaa soveltavat laitteet ovat maataloudessa pienviljelijöille hyvin kalliita investointeja, joiden pitäisi tuottaa vähintään investoinnin verran takaisin.
+Maatalouden uusien teknologioiden julkisuuskuvassa usein esillä olevat **UA-laitteet** ovat esillä myös haastatteluissa. Laitteiden tuottama kuvantamisdatan määrä on suuri ja analysointi usein vaikeaa. Samoin tehtävien tuottaminen tehdyn analyysin perusteella voi olla viljelijälle vaikeaa tällä hetkellä saatavilla olevilla ohjelmistoilla. Lisäksi UA-laitteiden käyttö vaatii käytännössä oman teknologiaekosysteemin käyttöönottoa, mikä voi sekin olla haasteellista. (@dHaastattelu2018)
 Laitteiden **hintojen halpeneminen** on uusien teknologioiden laajamittaiselle omaksunnalle erittäin tärkeää. Haastattelussa 3 C.C. kertoi, että keskeinen tekijä laitteiden hintojen alas tuomiselle on olemassaolevan teollisuusautomaation soveltaminen (ks. teema teollisuusautomaatio) (@cHaastattelu2017). Lisäksi laajamittaiselle omaksunnalle on C.C.n ja D.D.n mukaan tärkeää, että laitteiden **toimintavarmuuteen** ja **toimintaympäristön vaatimuksiin** kiinnitetään erityistä huomiota (@cHaastattelu2017; @dHaastattelu2018).
 
 *Tehostaminen*
