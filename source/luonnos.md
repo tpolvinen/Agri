@@ -137,7 +137,33 @@ Muiden katsausten, koosteiden ja vastaavien julkaisujen tuloksia, havaintoja ja 
 
 ### Asiantuntijoiden teemahaastattelut
 
+Haastatteluissa pyrittiin tuomaan esille AIoT:n erilaisia ilmentymiä mahdollisimman laaja-alaisesti ja kunkin haastateltavan asiantuntijan erikoisalaan ja kokemuksiin syventyen.
+
+Haastatteluissa käytettäväksi menetelmäksi valittiin Hirsjärven ja Hurmeen kirjassaan Tutkimushaastattelu: teemahaastattelun teoria ja käytäntö *kuvailema/määrittelemä?*teemahaastattelu, koska se mahdollisti puolistrukturoituna menetelmänä (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 47) joustavasti kunkin haastateltavan oman asiantuntemuksen käsittelyn. 
+
+Teemahaastattelu sopii tekijän näkemyksen mukaan luontevasti tämän kaltaiseen haastatteluun, koska haastattelujen rakenne ei ole rajattu tiettyihin ennalta määriteltyihin kysymyksiin vaan nojautuu haastatteluille asetettuihin teemoihin (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 48). 
+
+
+*(Hirsjärven ja Hurmeen) joustavuusperiaatteen mukaisesti teema-alueiden etukäteen hahmottelulla pyrittiin "turvaamaan tarvittavan tiedon saanti" sekä antamaan harkinnan varaa yksittäisissä haastatteluissa käsiteltäviin ilmiöihin.*
+
+*Laadullisen tutkimuksen ominaispiirteenä on tutkimusmenetelmällisten ratkaisuiden täsmentyminen tutkimuksen edetessä (Valli:Ikkunoita2-Kiviniemi, 73) mikä mahdollisti myös haastattelu...*
+
+*Lisäksi tekijän asiantuntemuksen puute kasvintuotannon ja maatalouden aloilta olisi todennäköisesti vaikuttanut haastattelukysymysten laatuun negatiivisesti.*
+
+
+
+
+
 #### Haastateltavien valinta
+
+Haastateltavien määrää rajoitti käytettävät resurssit ja aika. Opinnäytetyön laajuuden ollessa rajattu, päädyttiin viiteen haastateltavaan. Toisaalta Hirsjärven ja Hurmeen mukaan voidaan laadullisessa tutkimuksessa jo muutaman haastateltavan avulla saada merkittävää tietoa. Haastateltavien valinnassa edettiin aluksi keräämällä kontakteja ja keskustelemalla kokeilevasti mahdollisten haastateltavien kanssa erilaisissa tapahtumissa. Samalla pyrittiin keskusteluissa myös lumipallomenetelmän omaisesti hankkimaan uusia kontakteja. *Miten ihmeessä sanotaan että tehtiin kirjan ohjeen mukaan?*. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 59) 
+
+Haastateltavien valintaan vaikutti erityisesti lähestyttävyys. Useita lupaavia kontakteja ei saatu haastateltaviksi kokeilevien keskustelujenkaan jälkeen ja useilta ei saatu vastauksia haastattelupyyntöihin. 
+
+Haastateltaviksi olisi ollut valittujen asiantuntijoiden lisäksi hyvä saada kasvihuonetuotantoon erikoistuneita asiantuntijoita sekä viljelijöitä kasvihuone-, puutarha- ja peltotuotannon aloilta.
+
+
+
 
 #### Teemahaastattelujen toteutus
 
