@@ -139,18 +139,41 @@ Opinnäytetyön tavoitteena on, että lukija voi hyödyntää työn tuloksia oma
 
 ## Tutkimusstrategian valinta
 
+Narratiivinen kirjallisuuskatsaus (kuvailevan kirjallisuuskatsauksen tyyppi)!
+Koska katsauksessa halutaan käsitellä laaja-alaisesti huomattavan erilaisia aineistoja tutkimusraporteista yritysjulkaisuihin. Koska halutaan tuottaa kattava kuva tutkimuksesta, markkinolla saatavilla olevista ratkaisuista ja kasvintuotannon kentällä vallitsevasta tilanteesta.
+Koska tutkimuskysymyksien asettelu on väljä.
+
+## Kirjallisuuskatsaus
+*Tähän yleistä kuvailua kirjallisuuskatsauksesta ja kuvailevasta kirjallisuuskatsauksesta tutkimusotteena*
+
+Kirjallisuuskatsauksella voidaan Baumeisterin ja Learyn (1997, 311) mukaan rakentaa siltaa valtavan, hajallaan olevan teoriatiedon ja kiireisen lukijan välille. Katsauksella voidaan myös esittää tutkittavasta ilmiöstä laajempia teoreettisia johtopäätöksiä mitä yksilläsen empiirisen tutkimuksen puitteissa on mahdollista. (@baumeisterWritingNarrativeLiterature1997, 311)
+
+Kirjassaan Mikä kirjallisuuskatsaus Salminen (2011) kuvailee kirjallisuuskatsausta tutkimusmenetelmänä ja -tekniikkana, jonka avulla voidaan koota yhteen tutkimuksien tuloksia ja näin rakentaa perustaa uusille tutkimustuloksille. Kirjallisuuskatsauksella tehdään siis ’tutkimusta tutkimuksesta’. (@salminenMikaKirjallisuuskatsausJohdatus2011, 4)
+
+Samoin Baumeister ja Leary (1997, 312) arvioivat narratiivisen kirjallisuuskatsauksen olevan teoriakehityksen tekniikka, jota voidaan käyttää myös hypoteesien rakentamiseen. Narratiivista kirjallisuuskatsausta voidaan käyttää useiden eri aihepiirien tutkimusten linkittämisessä pyrittäessä joko tutkimusten uudelleentulkintaan tai yhteenliittämiseen. (@baumeisterWritingNarrativeLiterature1997, 312)
+
+Salminen (2011) esittää Baumeisterin ja Learyn (1997, 312) mukaan kirjallisuuskatsauksen tekemiselle viisi eriteltyä perustelua: 1) kirjallisuuskatsauksella voidaan tavoitella kokonaan uuden teorian rakentamista tai olemassa olevan kehittämistä, 2) kirjallisuuskatsauksen avulla voidaan arvioida teoriaa tai 3) rakentaa kokonaiskuvaa tutkittavasta asiakokonaisuudesta, 4) pyrkiä tunnistamaan ongelmia ja 5) seurata tietyn teorian historiallista kehitystä. (@salminenMikaKirjallisuuskatsausJohdatus2011, 3; @baumeisterWritingNarrativeLiterature1997, 312)
+
+Kirjallisuuskatsaus pitää tutkimusmenetelmänä sisällään useita eri tyyppejä. Kolmena perustyyppeinä pidetään Salmisen (2011) mukaan kuvailevaa ja systemaattista kirjallisuuskatsausta sekä meta-analyysiä. (@salminenMikaKirjallisuuskatsausJohdatus2011, 6)
+
 
 ## Kuvaileva kirjallisuuskatsaus
-*Tähän yleistä kuvailua kirjallisuuskatsauksesta ja kuvailevasta kirjallisuuskatsauksesta tutkimusotteena*
-"Sen avulla pystytään antamaan laaja kuva käsiteltävästä aiheesta, tai kuvailla
-käsiteltävän aiheen historiaa ja kehityskulkua" (@salminenMikaKirjallisuuskatsausJohdatus2011, 7)
-"Kirjallisuuskatsaus rakentaa kokonaiskuvaa tietystä asiakokonaisuudesta" (@salminenMikaKirjallisuuskatsausJohdatus2011, 3)
-"kirjallisuuskatsaus on metodi ja tutkimustekniikka, jossa tutkitaan
-tehtyä tutkimusta. Sen avulla tehdään ’tutkimusta tutkimuksesta’ eli kootaan
-tutkimuksien tuloksia, jotka ovat perustana uusille tutkimustuloksille." (@salminenMikaKirjallisuuskatsausJohdatus2011, 4)
 
+Tässä opinnäytetyössä käytetään kirjallisuuskatsauksen menetelmänä kuvailevaa kirjallisuuskatsausta. *Kuvailevan kirjallisuuskatsauksen orientaatioksi on valittu narratiivinen kirjallisuuskatsaus.*
 
-kirjallisuuskatsauksen tulee sisältää kriittistä tarkastelua (@salminenMikaKirjallisuuskatsausJohdatus2011, 5)
+Kuvaileva kirjallisuuskatsaus on Salmisen (2011) mukaan yleisimmin käytettyjä kirjallisuuskatsauksen perustyyppejä. Hän kuvailee sitä yleiskatsaukseksi, jolla ei ole tiukkoja ja tarkkoja sääntöjä, eivätkä tutkimuskysymykset ole yhtä tiukasti rajattuja kuin systemaattisessa katsauksessa tai meta-analyysissä. Samoin katsauksessa käytetyt aineistot voivat olla laajoja eivätkä metodiset säännöt rajaa niiden valintaa. Kuvaileva katsaus toimii itsenäisenä menetelmänä, joka voi Salmisen mukaan tarjota uusia tutkittavia ilmiöitä systemaattista kirjallisuuskatsausta varten. (@salminenMikaKirjallisuuskatsausJohdatus2011, 6)
+
+*Menetelmän/prosessin neljä vaihetta.*
+
+### Narratiivinen kuvaileva kirjallisuuskatsaus
+
+Salminen (2011) kuvailee narratiivista kirjallisuuskatsausta metodisesti kevyimmäksi kirjallisuuskatsauksen muodoksi. Katsauksen prosessin tarkoituksena on tiivistää katsaukseen valittuja tutkimuksia. Sen avulla voidaan tuottaa laaja-alainen kuvaus käsiteltävästä aiheesta tai kuvailla aiheen historiaa ja kehityskulkua. Narratiivisen katsauksen analyysi on muodoltaan kuvaileva synteesi, jolla on ytimekäs ja johdonmukainen yhteenveto. Näin narratiivisella katsauksella voidaan järjestää epäyhteinäistä tietoa jatkuvaksi tapahtumaksi, pyrkien samalla helppolukuiseen lopputulokseen. (@salminenMikaKirjallisuuskatsausJohdatus2011, 7) 
+
+*Vaikka "narratiivisen kirjallisuuskatsauksen kautta hankittu tutkimusaineisto ei ole käynyt läpi erityisen systemaattista seulaa" "silti tällä otteella on mahdollista päätyä johtopäätöksiin, joiden luonne on kirjallisuuskatsausten mukainen synteesi"*
+
+*"Kuvailevana tutkimustekniikkana narratiivinen katsaus auttaa ajantasaistamaan tutkimustietoa, muttei tarjoa varsinaista analyyttisintä tulosta. ... Sen avulla on mahdollista tuottaa opiskelijoille ajankohtaista tietoa, johon ei aina muun tieteellisen kirjallisuuden avulla pystytä." (@salminenMikaKirjallisuuskatsausJohdatus2011, 7)*
+
+*"...tarkoituksena on tiivistää aiemmin tehtyjä tutkimuksia. ... Lähtökohtaisesti narratiivisen kirjallisuuskatsauksen kautta hankittu tutkimusaineisto ei ole käynyt läpi erityisen systemaattista seulaa. ... Kuvailevana tutkimustekniikkana narratiivinen katsaus auttaa ajantasaistamaan tutkimustietoa, muttei tarjoa varsinaista analyyttisintä tulosta." (@salminenMikaKirjallisuuskatsausJohdatus2011, 7)*
 
 
 ## Teemahaastattelu
