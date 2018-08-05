@@ -1378,6 +1378,10 @@ Tekniikka-Teknologia-Aidot IoT-järjestelmät laitteet,1,1,5,0,2
 Tekniikka-Teknologioiden omaksunta-Laajuus,2,1,6,0,3
 eroa yht. 3 = 1,0,1,0,1
 
+Maataloustuotanto-Tuotantotapatieto-Tuotantotapatieto yleensä,4,0,3,3,1
+Tekniikka-Tietoliikenne-Yhteydet/Verkot,4,1,4,3,2
+eroa yht. 3 = 0,1,1,0,1
+
 
 
 

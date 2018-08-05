@@ -118,12 +118,12 @@ Tässä luvussa pyritään kuvailemaan toteutetun tutkimuksen tarkoitus, tavoitt
 
 *tutkimusongelma?*
 
-Tutkimuskysymyksiin pyritään vastaamaan käyttämällä kuvailevaa kirjallisuuskatsausta ja asiantuntijoiden teemahaastatteluja. Teemahaastattelujen materiaali analysoidaan sisällönanalyysin keinoin ja *kuvailevalla tekstillä tutkimustuloksissa*
+Tutkimuskysymyksiin pyritään vastaamaan käyttämällä kuvailevaa kirjallisuuskatsausta ja asiantuntijoiden teemahaastatteluja. Teemahaastattelujen materiaali analysoidaan soveltamalla sisällönanalyysin keinoja ja *kuvailevalla tekstillä tutkimustuloksissa*
 
 Ilmiön ymmärryksen lisäämiseen voidaan Kanasen (2010) mukaan käyttää menetelmätriangulaatiota.
 Menetelmätriangulaatio eli useiden menetelmien käyttö on tällöin myös tutkimusstrateginen valinta. (@kananenOpinnaytetyonKirjoittamisenKaytannon2010)
 
-Tässä opinnäytetyössä käytetään menetelmätriangulaatiota tukemalla laadullista kuvailevaa menetelmää määrällisellä menetelmällä.
+Tässä opinnäytetyössä pyritään tukemaan laadullista menetelmää käyttämällä menetelmätriangulaatiota eli monimetodista lähestymistapaa. (ks. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 39) Menetelmätriangulaatio tehdään soveltamalla määrällistä menetelmää haastattelumateriaalin sisällönanalyysin tulosten tarkastelussa.
 
 ## Tutkimuksen tarkoitus
 
@@ -137,11 +137,28 @@ Opinnäytetyön tavoitteena on, että lukija voi hyödyntää työn tuloksia oma
 
 ## Tutkimuskysymykset
 
-## Tutkimusstrategian valinta
+## Tutkimusstrategian/menetelmän valinta
 
-*Narratiivinen kirjallisuuskatsaus (kuvailevan kirjallisuuskatsauksen tyyppi)!*
 *Koska katsauksessa halutaan käsitellä laaja-alaisesti huomattavan erilaisia aineistoja tutkimusraporteista yritysjulkaisuihin. Koska halutaan tuottaa kattava kuva tutkimuksesta, markkinolla saatavilla olevista ratkaisuista ja kasvintuotannon kentällä vallitsevasta tilanteesta.*
-*Koska tutkimuskysymyksien asettelu on väljä.*
+
+Opinnäytetyö tehtiin käyttäen laadullisia tutkimusmenetelmiä koska tehtävänä on koota yhteen tutkimuksien tuloksia, erilaisten julkaisujen sisältöjä ja asiantuntijoiden näkemyksiä.
+
+Laadullisten eli kvalitatiivisten menetelmien valintaa puoltavat tutkimuskysymysten laadullinen luonne ja väljä asettelu. Tämän opinnäytetyön tutkimuskysymyksillä pyritään laadullisen tutkimuksen menetelmäsuuntauksen mukaisesti ymmärtämään kohteen laatua, ominaisuuksia ja merkityksiä kokonaisvaltaisesti (ks. @hirsjarviTutkiJaKirjoita2009, 160-161).
+
+Aineisto kerättiin narratiivisella kirjallisuuskatsauksella ja teemahaastatteluilla.
+
+**Kirjallisuuskatsauksen valinta**a puoltavat ... *Perustelut tähän, kiitos!*
+
+**Teemahaastattelun valinta**a käytettäväksi menetelmäksi puoltavat useat yleiset tutkimushaastattelun valintaperusteet. Tässä tapauksessa keskeisiä perusteita ovat Hirsjärven ja Hurmeen mukaan: 1) haastattelulla voidaan hankkia tietoa vähän kartoitetusta alueesta, jolloin tutkijan on vaikea ennakoida vastausten suuntia; 2) haastatteluissa voidaan saada monitahoisesti ja moniin suuntiin viittaavia vastauksia; 3) haastatteluissa saaduille vastauksille voidaan pyytää selvennöksiä; 4) haastateltavaa voidaan pyytää syventämään antamaansa vastausta, esimerkiksi perustelemaan mielipidettään (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 35). 
+
+Lisäksi teemahaastattelun valintaa puoltaa erityisesti se, että sen avulla haastateltavien oma erikoistumisalue ja näkemykset pääsevät esille, mikä on tärkeää tutkimuskysymyksiin vastaamisessa. Teemahaastattelu valittiin lomakehaastattelun sijaan ensisijaisesti joustavuutensa perusteella. Tämä mahdollisti asiantuntijahaastattelujen tekemisen, vaikka tekijällä ei ollut aikaisempaa kokemusta kasvintuotannon alalta.
+
+Hirsjärven ja Hurmeen esittämät haastattelun haitat, kuten haastattelun tekemisen vaatima taito, sen vaatima aika ja kustannukset sekä virheiden mahdollisuus (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 35) katsottiin tässä tapauksessa olevan haastattelumenetelmän tarjoamiin etuihin verrattuina pieniä, jos ne otetaan huomioon ja niiden vaikutukset pyritään minimoimaan.  
+
+ 
+
+*"(4) Haastateltavalla on haastattelussa enemmän mahdollisuuksia tulkita kysymyksiä, se on menetelmänä joustavampi ja sallii täsmennykset." s.36*
+*"(8) Haastattelua voidaan käyttää kartoitukseen, sillä saadaan muun tiedon ohella uusia hypoteeseja, ja se voi osoittaa ilmiöiden välisiä yhteyksiä." s.36*
 
 ## Kirjallisuuskatsaus
 
@@ -178,7 +195,11 @@ Narratiivisella kirjallisuuskatsauksella on Salmisen mukaan mahdollista pääty�
 
 
 ## Teemahaastattelu
-*Tähän yleistä kuvailua teemahaastatteluista tutkimusotteena*
+
+Hirsjärvi ja Hurme (2015) kuvailevat kirjassaan Tutkimushaastattelu: teemahaastattelun teoria ja käytäntö puolistrukturoitua haastattelumenetelmää, jota tekijät kutsuvat teemahaastatteluksi. Menetelmä pohjautuu pohjautuu Mertonin, Fisken ja Kendallin kirjassa The Focused Interview kuvailtuun kohdennetun haastattelun (the focused interview) menetelmään. Yleensä tutkimushaastattelujen menetelmät eroavat strukturointiasteen perusteella, eli kysymysten muotoilun sekä haastattelutilanteen jäsentelyn kiinteyden mukaan. Teemahaastattelu asettuu strukturointiasteeltaan lomakehaastattelun ja strukturoimattoman haastattelun väliin. Teemahaastattelussa menetelmän keskeinen piirre on haastattelun eteneminen yksityiskohtaisten kysymysten sijaan tiettyjen keskeisten aihepiirien eli teemojen varassa. Tällöin haastattelun keskeiset aihepiirit ovat kaikille haastateltaville samat, mutta haastattelukysymysten sanamuoto ja järjestys voivat vaihdella. Tällä menetelmällä kerätty aineiston on yleensä runsas vaikka haastateltavien määrä olisi ollut pienehkö. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 43, 47-48, 135).
+
+
+*"Teemahaastattelun haittapuolina voi tulla epärelevanttia tietoa, anonyymius ei toteudu kuten nimettömissä lomakkeissa ja se vie myös huomattavasti enemmän aikaa tutkijalta. (Hirsjärvi & Hurme 2000, 36)."*
 
 ## Sisällönanalyysi
 *Tähän yleistä kuvailua sisällönanalyysistä tutkimusotteena*
@@ -208,9 +229,10 @@ Muiden katsausten, koosteiden ja vastaavien julkaisujen tuloksia, havaintoja ja 
 
 Haastatteluissa pyrittiin tuomaan esille AIoT:n erilaisia ilmentymiä mahdollisimman laaja-alaisesti ja kunkin haastateltavan asiantuntijan erikoisalaan ja kokemuksiin syventyen.
 
-Haastatteluissa käytettäväksi menetelmäksi valittiin Hirsjärven ja Hurmeen kirjassaan Tutkimushaastattelu: teemahaastattelun teoria ja käytäntö *kuvailema/määrittelemä?*teemahaastattelu, koska se mahdollisti puolistrukturoituna menetelmänä (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 47) joustavasti kunkin haastateltavan oman asiantuntemuksen käsittelyn. 
+Tässä opinnäytetyössä sovelletaan ... Teemahaastattelun eteneminen tapahtuu tiettyjen keskeisten teemojen varassa ja haastattelun aihepiirit ovat kaikille haastateltaville samat. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 47-48). *Mutta ei täysin tässä työssä.*
 
-Teemahaastattelu sopii tekijän näkemyksen mukaan luontevasti tämän kaltaiseen haastatteluun, koska haastattelujen rakenne ei ole rajattu tiettyihin ennalta määriteltyihin kysymyksiin vaan nojautuu haastatteluille asetettuihin teemoihin (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 48). 
+Teemahaastattelu sopii tekijän näkemyksen mukaan luontevasti tässä opinnäytetyössä tehtyihin asiantuntijahaastatteluihin, koska haastattelujen rakenne ei ole rajattu tiettyihin ennalta määriteltyihin kysymyksiin vaan nojautuu haastatteluille asetettuihin teemoihin. Tämä mahdollistaa joustavasti kunkin haastateltavan oman asiantuntemusalueen käsittelyn.
+(@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 48). 
 
 
 *(Hirsjärven ja Hurmeen) joustavuusperiaatteen mukaisesti teema-alueiden etukäteen hahmottelulla pyrittiin "turvaamaan tarvittavan tiedon saanti" sekä antamaan harkinnan varaa yksittäisissä haastatteluissa käsiteltäviin ilmiöihin.*
@@ -222,6 +244,7 @@ Teemahaastattelu sopii tekijän näkemyksen mukaan luontevasti tämän kaltaisee
 
 Kanasen (2010) mukaan "haastattelijan pitäisi olla joustava haastattelutilanteessaan, jotta hän uskaltaisi lähteä ennalta arvaamattomillekin poluille, jos sellaisia paljastuu." (@kananenOpinnaytetyonKirjoittamisenKaytannon2010, 56)
 
+*"Hirsjärvi ja Hurme (2000, 58) suosittelee haastattelemaan niin monta kuin on välttämätöntä tarvitsemansa tiedon saamiseksi. Laadul- lisessa tutkimuksessa haastateltavien määrä pyrkii olemaan joko liian suuri tai pieni. Liian pienestä aineistosta ei voi tehdä tilastollisia yleistyksiä tai testata ryhmien välisiä eroja. Liian suuresta joukosta jää syvällinen tulkinta puuttumaan. (Hirsjärvi &Hurme 2000, 58–59.) "*
 
 #### Haastateltavien valinta
 
@@ -236,6 +259,15 @@ Haastateltaviksi olisi ollut valittujen asiantuntijoiden lisäksi hyvä saada ka
 
 #### Teemahaastattelujen toteutus
 
+Haastattelujen teemat laadittiin *mikä on nimitys pohjatyölle, kun tutkimusaiheeseen perehdytään ensimmäisessä vaiheessa?* kerätyn materiaalin ja alustavien keskustelujen perusteella.
+
+*"Puolistrukturoiduille menetelmille on siis ominaista, että jokin haastattelun näkökohta on lyöty lukkoon, mutta ei kaikkia." (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 47)*
+
+Tämä ohje on tarkoitettu henkilöiden reaktioiden tarkasteluun, mikä ei tässä opinnäytetyössä ole tutkimuksen kohteena (*LÄHDE?*). Tämän takia teemahaastattelujen teemoja muutettiin ennen haastatteluja harkinnanvaraisesti kunkin haastateltavan asiantuntijan erikoistumisen mukaan, ottaen huomioon aikaisemmista haastatteluista saadut kokemukset ja taustatyöstä saadut tiedot. Haastattelun teemoja voitiin järjestellä uudelleen myös haastattelutilanteen niin vaatiessa, myötäillen haastateltavan *taipumuksia?*.
+
+*Milloin haastateltiin?*
+*Missä haastateltiin?*
+
 
 
 #### Haastatteluaineiston analyysimenetelmä
@@ -243,8 +275,9 @@ Haastateltaviksi olisi ollut valittujen asiantuntijoiden lisäksi hyvä saada ka
 "Koska opinnäytetyön tutkimuskysymyksillä haettiin tietoa laadulliseen
 tutkimusongelmaan, valittiin aineiston analyysimenetelmäksi sisällönanalyysi." *tähän kuvaus sisällönanalyysistä, systemaattinen aineiston analyysimenetelmä, jolla voidaan järjestellä ja kuvata tutkimusaineistoa. Keskeisenä on löytää väittämiä, jotka ilmaisevat jotain tutkittavasta ilmiöstä. Vastausta haetaan tutkimuksen tarkoitukseen ja tutkimus-tehtäviin. Tutkimustehtävät voivat tarkentua aineiston keruun ja analyysin aikana. (Kylmä & Juvakka 2007, 110-119.)*
 
+*Hirsjärvi et al. Tutkimushaastattelu... s.137 (7.1 Analyysin yleisiä piirteitä) "Neljännessä lähestymistavassa haastattelija tulkitsee (litteroitua) aineistoa joko yksin tai yhdessä muiden tutkijoiden kanssa. Tässä voidaan käyttää kolmea menettelyä: 1) Aineistoa järjestetään ja tuodaan esiin sen rakentuminen. Tämä on usein välttämätöntä, kun on kyseessä laaja aineisto. Tämä vaihe tapahtuu nykyisin usein litteroimalla ja analysoimalla aineistoa tietokoneella. 2) Aineiston selventäminen. Tässä eliminoidaan suuresta aineistosta pois asiaan kuulumattomia osia: toistoja ja ei-olennaisia seikkoja. 3) Varsinainen analyysi merkitsee tiivistämistä, luokittelua, narratiivin etsimistä, tulkintaa ja ad hoc -menettelyä (tästä tarkemmin tuonnempana)."*
 
-##### Sisällönanalyysi / Affiniteettianalyysi /Aineistolähtöinen menetelmä teemoittelulla ja taulukoinnilla
+##### Sisällönanalyysi
 
 *Olisi tyylikästä, jos kaikki IoT-ketjun osa-alueet tulisivat tasaisesti esille, mutta epätasaisuus saattaa viitata AIoT-sovellusten kypsyyden keskeneräisyyteen, omaksumiseen, käytettävyyteen jne.*
 
@@ -271,7 +304,7 @@ Erityisesti on otettava huomioon koko tutkimusprosessin olevan yhden, vieläpä 
 Koodien havaintojen laskennassa olisi voinut vertailun vuoksi käyttää myös sääntöä, jossa kahdessa tai kolmessa peräkkäisessä segmentissä havaittu koodi olisi laskettu yhdeksi havainnoksi. Tämä laskumalli jätettiin pois toteutuksesta opinnäytetyön laajuuden rajallisuuden vuoksi. 
 
 
-###### Sisällönanalyysin / teemoittelun ja taulukoinnin kulku
+###### Sisällönanalyysin kulku
 
 "Sisällönanalyysi" toteutettiin lukemalla haastattelumateriaali huolellisesti, merkitsemällä taulukkoon havaitut merkitykselliset ilmaisut koodeina, kategorisoimalla koodit ja analysoimalla saatuja tuloksia. Saatuja tuloksia käytettiin haastattelumateriaalista tehtyjen aikaisempien havaintojen ja päätelmien tarkistamisessa ja uusien asiayhteyksien etsimisessä.
 *miten tutkimuskysymyksiin pyrittiin vastaamaan*
@@ -474,7 +507,7 @@ Esimerkkinä sensoriteknologian sovelluksesta traktorin katolle asennettavan N-s
 A.A.n mukaan suomalaisilla viljelijöillä voisi olla tarvetta USA:ssa toimivien **Farmobile**:n ja **Farmer's Business Network**:in kaltaisille alustaratkaisuille, joissa viljelijät voivat verkostoitua, vertailla, myydä ja ostaa tuottamaansa tietoa sekä tehdä yhteishankintoja. Mtech, entinen Suomen Maatalouden Laskentakeskus Oy, on toteuttanut alustan viljelijöiden yhteishankinnoille **FarmiDiili**-palvelussaan. (@aHaastattelu2017)
 
 
-#### Koodien ja kategorioiden havaitut esiintymät haastatteluissa / sisällönanalyysiin havainnot / teemoittelun ja taulukoinnin tulokset-havainnot
+#### Sisällönanalyysiin taulukoinnin havainnot
 
 *Koodit haastatteluittain - kussakin haastattelussa keskityttiin Tekniikka-kategoriassa muutamaan aiheeseen, joita "seuraavat" kaaviossa laskevat "hännät". Kuvaajat ovat kutakuinkin samanlaiset kaikissa haastatteluissa (mutta huom: koodit, siis asiat, ovat eri)*
 
