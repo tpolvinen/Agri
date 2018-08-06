@@ -149,16 +149,12 @@ Aineisto kerättiin narratiivisella kirjallisuuskatsauksella ja teemahaastattelu
 
 **Kirjallisuuskatsauksen valinta**a puoltavat ... *Perustelut tähän, kiitos!*
 
-**Teemahaastattelun valinta**a käytettäväksi menetelmäksi puoltavat useat yleiset tutkimushaastattelun valintaperusteet. Tässä tapauksessa keskeisiä perusteita ovat Hirsjärven ja Hurmeen mukaan: 1) haastattelulla voidaan hankkia tietoa vähän kartoitetusta alueesta, jolloin tutkijan on vaikea ennakoida vastausten suuntia; 2) haastatteluissa voidaan saada monitahoisesti ja moniin suuntiin viittaavia vastauksia; 3) haastatteluissa saaduille vastauksille voidaan pyytää selvennöksiä; 4) haastateltavaa voidaan pyytää syventämään antamaansa vastausta, esimerkiksi perustelemaan mielipidettään (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 35). 
+**Teemahaastattelun valinta**a käytettäväksi menetelmäksi puoltavat useat yleiset tutkimushaastattelun valintaperusteet. Tässä tapauksessa keskeisiä perusteita ovat Hirsjärven ja Hurmeen mukaan: 1) haastattelulla voidaan hankkia tietoa vähän kartoitetusta alueesta, jolloin tutkijan on vaikea ennakoida vastausten suuntia; 2) haastatteluissa voidaan saada monitahoisesti ja moniin suuntiin viittaavia vastauksia; 3) haastatteluissa saaduille vastauksille voidaan pyytää selvennöksiä; 4) haastateltavaa voidaan pyytää syventämään antamaansa vastausta, esimerkiksi perustelemaan mielipidettään (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 35).
 
-Lisäksi teemahaastattelun valintaa puoltaa erityisesti se, että sen avulla haastateltavien oma erikoistumisalue ja näkemykset pääsevät esille, mikä on tärkeää tutkimuskysymyksiin vastaamisessa. Teemahaastattelu valittiin lomakehaastattelun sijaan ensisijaisesti joustavuutensa perusteella. Tämä mahdollisti asiantuntijahaastattelujen tekemisen, vaikka tekijällä ei ollut aikaisempaa kokemusta kasvintuotannon alalta.
+Lisäksi teemahaastattelun valintaa puoltaa tässä tapauksessa se, että sen avulla haastateltavien oma erikoistumisalue ja näkemykset pääsevät esille mikä on tärkeää tutkimuskysymyksiin vastaamisessa. Teemahaastattelu valittiin lomakehaastattelun sijaan ensisijaisesti joustavuutensa perusteella. Tämä mahdollisti asiantuntijahaastattelujen tekemisen ilman tarkkaan määriteltyjä haastattelukysymyksiä, joiden laatimiseen olisi tarvittu todennäköisesti enemmän asiantuntemusta kasvintuotannon alalta kuin tekijällä on.
 
-Hirsjärven ja Hurmeen esittämät haastattelun haitat, kuten haastattelun tekemisen vaatima taito, sen vaatima aika ja kustannukset sekä virheiden mahdollisuus (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 35) katsottiin tässä tapauksessa olevan haastattelumenetelmän tarjoamiin etuihin verrattuina pieniä, jos ne otetaan huomioon ja niiden vaikutukset pyritään minimoimaan.  
+Hirsjärven ja Hurmeen esittämät haastattelun haitat, kuten 1) haastattelun tekemisen vaatima taito; 2) sen vaatima aika ja kustannukset; 3) haastattelussa tehtävien virheiden mahdollisuus sekä 4) haastatteluista saatu epärelevantin materiaalin määrä  katsottiin tässä tapauksessa olevan haastattelumenetelmän tarjoamiin etuihin verrattuina pieniä, jos ne otetaan huomioon ja niiden vaikutukset pyritään minimoimaan. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 35-36)
 
- 
-
-*"(4) Haastateltavalla on haastattelussa enemmän mahdollisuuksia tulkita kysymyksiä, se on menetelmänä joustavampi ja sallii täsmennykset." s.36*
-*"(8) Haastattelua voidaan käyttää kartoitukseen, sillä saadaan muun tiedon ohella uusia hypoteeseja, ja se voi osoittaa ilmiöiden välisiä yhteyksiä." s.36*
 
 ## Kirjallisuuskatsaus
 
@@ -198,8 +194,6 @@ Narratiivisella kirjallisuuskatsauksella on Salmisen mukaan mahdollista pääty�
 
 Hirsjärvi ja Hurme (2015) kuvailevat kirjassaan Tutkimushaastattelu: teemahaastattelun teoria ja käytäntö puolistrukturoitua haastattelumenetelmää, jota tekijät kutsuvat teemahaastatteluksi. Menetelmä pohjautuu pohjautuu Mertonin, Fisken ja Kendallin kirjassa The Focused Interview kuvailtuun kohdennetun haastattelun (the focused interview) menetelmään. Yleensä tutkimushaastattelujen menetelmät eroavat strukturointiasteen perusteella, eli kysymysten muotoilun sekä haastattelutilanteen jäsentelyn kiinteyden mukaan. Teemahaastattelu asettuu strukturointiasteeltaan lomakehaastattelun ja strukturoimattoman haastattelun väliin. Teemahaastattelussa menetelmän keskeinen piirre on haastattelun eteneminen yksityiskohtaisten kysymysten sijaan tiettyjen keskeisten aihepiirien eli teemojen varassa. Tällöin haastattelun keskeiset aihepiirit ovat kaikille haastateltaville samat, mutta haastattelukysymysten sanamuoto ja järjestys voivat vaihdella. Tällä menetelmällä kerätty aineiston on yleensä runsas vaikka haastateltavien määrä olisi ollut pienehkö. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 43, 47-48, 135).
 
-
-*"Teemahaastattelun haittapuolina voi tulla epärelevanttia tietoa, anonyymius ei toteudu kuten nimettömissä lomakkeissa ja se vie myös huomattavasti enemmän aikaa tutkijalta. (Hirsjärvi & Hurme 2000, 36)."*
 
 ## Sisällönanalyysi
 *Tähän yleistä kuvailua sisällönanalyysistä tutkimusotteena*
