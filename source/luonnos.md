@@ -31,7 +31,7 @@ Tavoitteena oli koostaa...
 
 Opinnäytetyö toteutettiin kuvailevan kirjallisuuskatsauksen ja teemahaastattelun menetelmillä. Aineiston haut tehtiin *tietokannat  sun muut tähän* tietokantoihin.
 Lisäksi aineistoa haettiin käsinhaun ja Google Scholar -haun avulla. *entä muut haut esim organisaatioiden sivujen sisällä, ovatko käsinhakua nekin?*
-Aineisto koostui ... vuosina ... julkaistusta ... käsittelevästä tutkimusartikkelista, ... . Kirjallisuuskatsauksen aineisto kerättiin *sekä* eksplisiittisesti *että implisiittisesti?*. Teemahaastattelujen materiaalin analysoitiin käytettiin sisällönanalyysiä.
+Aineisto koostui ... vuosina ... julkaistusta ... käsittelevästä tutkimusartikkelista, ... . Kirjallisuuskatsauksen aineisto kerättiin *sekä* eksplisiittisesti *että implisiittisesti?*. Teemahaastatteluiden materiaalin analysoitiin käytettiin sisällönanalyysiä.
 
 Tutkimustulokset osoittivat, että... keskeistä on ...
 
@@ -118,24 +118,32 @@ Tässä luvussa pyritään kuvailemaan toteutetun tutkimuksen tarkoitus, tavoitt
 
 *tutkimusongelma?*
 
-Tutkimuskysymyksiin pyritään vastaamaan käyttämällä kuvailevaa kirjallisuuskatsausta ja asiantuntijoiden teemahaastatteluja. Teemahaastattelujen materiaali analysoidaan soveltamalla sisällönanalyysin keinoja ja *kuvailevalla tekstillä tutkimustuloksissa*
+Tutkimuskysymyksiin pyritään vastaamaan käyttämällä kuvailevaa kirjallisuuskatsausta ja asiantuntijoiden teemahaastatteluja. Teemahaastatteluiden materiaali analysoidaan soveltamalla sisällönanalyysin keinoja ja *kuvailevalla tekstillä tutkimustuloksissa*
 
 Ilmiön ymmärryksen lisäämiseen voidaan Kanasen (2010) mukaan käyttää menetelmätriangulaatiota.
 Menetelmätriangulaatio eli useiden menetelmien käyttö on tällöin myös tutkimusstrateginen valinta. (@kananenOpinnaytetyonKirjoittamisenKaytannon2010)
 
-Tässä opinnäytetyössä pyritään tukemaan laadullista menetelmää käyttämällä menetelmätriangulaatiota eli monimetodista lähestymistapaa. (ks. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 39) Menetelmätriangulaatio tehdään soveltamalla määrällistä menetelmää haastattelumateriaalin sisällönanalyysin tulosten tarkastelussa.
+Tässä opinnäytetyössä pyritään tukemaan laadullista menetelmää käyttämällä menetelmätriangulaatiota eli monimetodista lähestymistapaa. (ks. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 39; @gubriumSageHandbookInterview2012, 284) Menetelmätriangulaatio tehdään soveltamalla määrällistä menetelmää haastattelumateriaalin sisällönanalyysin tulosten tarkastelussa. *tähän voisi tulla mainita Onwuegbuzie & Frels (2016) s.39 "Multimodal approach"ista, jossa voidaan laajentaa CRLää mm. asiantuntijoiden, secondary data:n s.41 (organisaatioiden keräämiä kyselyitä, tutkimuksia jne.), avulla. secondary data lienee Tutki ja kirjoita s.186 mukaan Valmiit aineistot?*
 
 ## Tutkimuksen tarkoitus
 
-Opinnäytetyön tarkoituksena on tuottaa lukijalle kattava kuva kasvintuotannossa sovellettavien IoT-ratkaisuiden tilanteesta. Tietoa saadaan *tähän keskeiset asiakokonaisuudet*
+Opinnäytetyön tarkoituksena on tuottaa lukijalle kattava kuva kasvintuotannossa sovellettavien IoT-ratkaisuiden tilanteesta ja niiden tarjoamista mahdollisuuksista. Tietoa saadaan *tähän keskeiset asiakokonaisuudet* 
 
 
 ## Tutkimuksen tavoitteet
 
-Opinnäytetyön tavoitteena on, että lukija voi hyödyntää työn tuloksia oman tiedonhakunsa lähtökohtana tutustuessaan kasvintuotannon alan tarjoamiin mahdollisuuksiin IoT-ratkaisuiden soveltamisessa.
+Opinnäytetyön tavoitteena on, että lukija voi hyödyntää tuloksia oman tiedonhakunsa lähtökohtana tutustuessaan kasvintuotannon alan tarjoamiin mahdollisuuksiin IoT-ratkaisuiden soveltamisessa.
 
 
 ## Tutkimuskysymykset
+
+I) Millaista tutkimusta IoT-teknologioiden soveltamisesta kasvintuotantoon on julkaistu?
+
+* Millaisia teknologiasovelluksia tutkimuksissa on esitelty?
+* Minkä tyyppiset sovellukset tulevat tutkimusmateriaalissa selkeimmin esille, eli millaisista sovelluksista ja teknologioista kirjoitetaan ja tehdään tutkimusta tällä hetkellä?
+* Muut kysymykset? Vaikuttavuus, mitä tilanne kertoo ylipäänsä, jne.
+
+II) Miten kasvintuotannossa hyödynnetään IoT-teknologioita?
 
 ## Tutkimusstrategian/menetelmän valinta
 
@@ -149,7 +157,7 @@ Kirjallisuuskatsauksen valintaa puoltavat tutkimuskysymysten asettamat vaatimuks
 
 Teemahaastattelun valintaa puoltavat tutkimuskysymysten vaatimusten lisäksi useat yleisesti käytössä olevat tutkimushaastattelun valintaperusteet. Tässä tapauksessa keskeisiä perusteita ovat Hirsjärven ja Hurmeen esittämien perusteiden joukosta: 1) haastattelulla voidaan hankkia tietoa vähän kartoitetusta alueesta, jolloin tutkijan on vaikea ennakoida vastausten suuntia; 2) haastatteluissa voidaan saada monitahoisesti ja moniin suuntiin viittaavia vastauksia; 3) haastatteluissa saaduille vastauksille voidaan pyytää selvennöksiä; 4) haastateltavaa voidaan pyytää syventämään antamaansa vastausta, esimerkiksi perustelemaan mielipidettään (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 35). Samoin Tuomi ja Sarajärvi (2018, 79) kuvailevat haastattelun eduiksi joustavuutta (@tuomiLaadullinenTutkimusJa2018, 79)
 
-Lisäksi teemahaastattelun valintaa puoltaa tässä tapauksessa se, että sen avulla haastateltavien oma erikoistumisalue ja näkemykset pääsevät esille mikä on tärkeää tutkimuskysymyksiin vastaamisessa. Teemahaastattelu valittiin lomakehaastattelun sijaan ensisijaisesti joustavuutensa perusteella. Tämä mahdollisti asiantuntijahaastattelujen tekemisen ilman tarkkaan määriteltyjä haastattelukysymyksiä, joiden laatimiseen olisi tarvittu todennäköisesti enemmän asiantuntemusta kasvintuotannon alalta kuin tekijällä on.
+Lisäksi teemahaastattelun valintaa puoltaa tässä tapauksessa se, että sen avulla haastateltavien oma erikoistumisalue ja näkemykset pääsevät esille mikä on tärkeää tutkimuskysymyksiin vastaamisessa. Teemahaastattelu valittiin lomakehaastattelun sijaan ensisijaisesti joustavuutensa perusteella. Tämä mahdollisti asiantuntijahaastattelujen tekemisen ilman tarkkaan määriteltyjä haastattelukysymyksiä, joiden laatimiseen olisi tarvittu todennäköisesti enemmän asiantuntemusta kasvintuotannon alalta kuin tekijällä on. Toisaalta syvähaastattelu olisi antanut vielä enemmän joustoa, mutta haastattelutilanteet olisivat voineet tekijän kokemattomuuden takia olla vaikeasti hallittavissa. Samoin haastattelumateriaalin analysointi olisi voinut olla vaikeampaa ilman etukäteen harkittua rakennetta.
 
 Hirsjärven ja Hurmeen esittämät haastattelun haitat, kuten 1) haastattelun tekemisen vaatima taito; 2) sen vaatima aika ja kustannukset; 3) haastattelussa tehtävien virheiden mahdollisuus sekä 4) haastatteluista saatu epärelevantin materiaalin määrä  katsottiin tässä tapauksessa olevan haastattelumenetelmän tarjoamiin etuihin verrattuina pieniä, jos ne otetaan huomioon ja niiden vaikutukset pyritään minimoimaan. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 35-36) Hurme ja Sarajärvi viittaavat kirjassaan Laadullinen tutkimus ja sisällönanalyysi samoihin ongelmiin, kertoen niiden olevan yleisen näkemyksen mukaan pääasiassa metodisia ja ratkaistavissa haastattelijoiden koulutuksella, rahoituksella jne. (@tuomiLaadullinenTutkimusJa2018, 79). 
 
@@ -157,8 +165,6 @@ Hirsjärven ja Hurmeen esittämät haastattelun haitat, kuten 1) haastattelun te
 ## Kirjallisuuskatsaus
 
 Tässä osiossa kerrotaan lyhyesti mitä kirjallisuuskatsauksella voidaan tehdä sekä yleisesti että tutkimusmenetelmänä, kirjallisuuskatsauksen tarkoitukset ja perustelut sekä lopuksi sivutaan kirjallisuuskatsauksen tyyppejä. 
-
-*Mutta mitkä ovat kirjallisuuskatsauksen vahvuudet ja heikkoudet?*
 
 Kirjallisuuskatsauksella voidaan Baumeisterin ja Learyn (1997, 311) mukaan rakentaa siltaa kiireisen lukijan ja valtavan, hajallaan olevan teoriatiedon välille. Katsauksella voidaan myös esittää tutkittavasta ilmiöstä laajempia teoreettisia johtopäätöksiä mitä yksittäisen empiirisen tutkimuksen puitteissa on mahdollista. (@baumeisterWritingNarrativeLiterature1997, 311)
 
@@ -185,13 +191,22 @@ Kuvaileva kirjallisuuskatsaus on Salmisen (2011) mukaan yleisimmin käytettyjä 
 
 Salminen (2011) kuvailee narratiivista kirjallisuuskatsausta metodisesti kevyimmäksi kirjallisuuskatsauksen muodoksi. Katsauksen prosessin tarkoituksena on tiivistää katsaukseen valittuja tutkimuksia. Sen avulla voidaan tuottaa laaja-alainen kuvaus käsiteltävästä aiheesta tai kuvailla aiheen historiaa ja kehityskulkua. Narratiivinen katsaus voi myös auttaa ajantasaistamaan tutkimustietoa. Narratiivisen katsauksen analyysi on muodoltaan kuvaileva synteesi, jolla on ytimekäs ja johdonmukainen yhteenveto. Näin narratiivisella katsauksella voidaan järjestää epäyhteinäistä tietoa jatkuvaksi tapahtumaksi, pyrkien samalla helppolukuiseen lopputulokseen. (@salminenMikaKirjallisuuskatsausJohdatus2011, 7) 
 
-Narratiivisella kirjallisuuskatsauksella on Salmisen mukaan mahdollista päätyä luonteeltaan kirjallisuuskatsausten mukaiseen synteesiin, vaikka metodin avulla hankittu tutkimusaineisto ei olekaan valittu erityisen systemaattisella tavalla. Lisäksi narratiivisella katsauksella voidaan tuottaa kuvailevana tutkimustekniikkana ajantasaista tietoa, mitä muun tieteellisen kirjallisuuden avulla ei aina pystytä tuottamaan. Toisaalta menetelmä ei tarjoa varsinaista analyyttistä tulosta. (@salminenMikaKirjallisuuskatsausJohdatus2011, 7)
+Onwuegbuzien ja Frelsin (2016) mukaan narratiivinen kirjallisuuskatsaus vetää yhteen ja parhaimmillaan kritisoi tutkimuskohteena olevaa aihetta käsittelevää kirjallisuutta, kuitenkaan tarjoamatta laadullisten tai määrällisten tutkimustulosten integraatiota (onwuegbuzieStepsComprehensiveLiterature2016, 23). Samoin Salmisen (2011) mukaan menetelmä ei tarjoa varsinaista analyyttistä tulosta (@salminenMikaKirjallisuuskatsausJohdatus2011, 7).
+
+Narratiivisen kirjallisuuskatsauksen neljä yleisintä tyyppiä ovat: teoreettinen (theoretical), historiallinen (historical), metodologinen (methodological) ja yleinen (general). Näista yleinen tyyppi on perinteinen, käsiteltävästä aiheesta uusinta tietoa käsittelevä ja keskeiset seikat esittelevä kirjoitus. (onwuegbuzieStepsComprehensiveLiterature2016, 24)
+
+Narratiivisella kirjallisuuskatsauksella on Salmisen mukaan mahdollista päätyä luonteeltaan kirjallisuuskatsausten mukaiseen synteesiin, vaikka metodin avulla hankittu tutkimusaineisto ei olekaan valittu erityisen systemaattisella tavalla. Lisäksi narratiivisella katsauksella voidaan tuottaa kuvailevana tutkimustekniikkana ajantasaista tietoa, mitä muun tieteellisen kirjallisuuden avulla ei aina pystytä tuottamaan. (@salminenMikaKirjallisuuskatsausJohdatus2011, 7)
+
+Siinä missä narratiiviset kirjallisuuskatsaukset voivat kuvailla laaja-alaisesti tutkimuskohteeseen liittyviä asiakokonaisuuksia, ne eivät yleensä tarjoa lukijoilleen selvitystä katsauksen laatijan tekemistä päätöksistä. Tämän lisäksi narratiiviset kirjallisuuskatsaukset eivät tarjoa tietoja käsitellyn kirjallisuuden hakuprosessista, kuinka monta tutkimusta valittiin käsiteltäviksi, millaisia valintakriteerejä käytettiin ja kuinka luotettavia tai päteviä käsiteltyjen tutkimusten tulokset ovat. (onwuegbuzieStepsComprehensiveLiterature2016, 24)
 
 
 ## Teemahaastattelu
 
-Hirsjärvi ja Hurme (2015) kuvailevat kirjassaan Tutkimushaastattelu: teemahaastattelun teoria ja käytäntö puolistrukturoitua haastattelumenetelmää, jota tekijät kutsuvat teemahaastatteluksi. Menetelmä pohjautuu pohjautuu Mertonin, Fisken ja Kendallin kirjassa The Focused Interview kuvailtuun kohdennetun haastattelun (the focused interview) menetelmään. Yleensä tutkimushaastattelujen menetelmät eroavat strukturointiasteen perusteella, eli kysymysten muotoilun sekä haastattelutilanteen jäsentelyn kiinteyden mukaan. Teemahaastattelu asettuu strukturointiasteeltaan lomakehaastattelun ja strukturoimattoman haastattelun väliin. Teemahaastattelussa menetelmän keskeinen piirre on haastattelun eteneminen yksityiskohtaisten kysymysten sijaan tiettyjen keskeisten aihepiirien eli teemojen varassa. Tällöin haastattelun keskeiset aihepiirit ovat kaikille haastateltaville samat, mutta haastattelukysymysten sanamuoto ja järjestys voivat vaihdella. Tällä menetelmällä kerätty aineiston on yleensä runsas vaikka haastateltavien määrä olisi ollut pienehkö. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 43, 47-48, 135).
+Hirsjärvi ja Hurme (2015) kuvailevat kirjassaan Tutkimushaastattelu: teemahaastattelun teoria ja käytäntö puolistrukturoitua haastattelumenetelmää, jota tekijät kutsuvat teemahaastatteluksi. Menetelmä pohjautuu pohjautuu Mertonin, Fisken ja Kendallin kirjassa The Focused Interview kuvailtuun kohdennetun haastattelun (the focused interview) menetelmään. Yleensä tutkimushaastattelujen menetelmät eroavat strukturointiasteen perusteella, eli kysymysten muotoilun sekä haastattelutilanteen jäsentelyn kiinteyden mukaan. Teemahaastattelu asettuu strukturointiasteeltaan lomakehaastattelun ja strukturoimattoman haastattelun väliin. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 43, 47-48) Tuomi ja Sarajärvi (2018) puolestaan asettavat teemahaastattelun samaan väliin, mutta lähelle strukturoimatonta haastattelua eli syvähaastattelua (@tuomiLaadullinenTutkimusJa2018).
 
+Teemahaastattelussa menetelmän keskeinen piirre on haastattelun eteneminen yksityiskohtaisten kysymysten sijaan tiettyjen keskeisten aihepiirien eli teemojen varassa. Tällöin haastattelun keskeiset aihepiirit ovat kaikille haastateltaville samat, mutta haastattelukysymysten sanamuoto ja järjestys voivat vaihdella. Tällä menetelmällä kerätty aineiston on yleensä runsas vaikka haastateltavien määrä olisi ollut pienehkö. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 47-48, 135).
+
+Teemahaastattelun toteutukset voivat Tuomin ja Sarajärven (2018) mukaan vaihdella tutkimusten välillä huomattavasti. Käsiteltävät teemat perustuvat tutkimuksen viitekehykseen, mutta haastattelujen yhdenmukaisuuden vaateen aste vaihtelee tutkimuksesta toiseen. Tutkija voi valita pitääkö kaikille haastateltaville esittää kaikki suunnitellut kysymykset, voiko kysymysten järjestys vaihdella, tuleeko kysymysten sanamuotojen olla jokaisessa haastattelussa samat jne. Teemahaastatteluiden toteutukset voivat vaihdella strukturoidusti etenevästä lähes syvähaastattelun tyyppiseen haastatteluun. Samoin teemojen sisältämien kysymysten pitäytyminen tutkimuksen viitekehyksessä esitettyyn vaihtelee tiukasti etukäteen tiedetyissä kysymyksissä pitäytymisestä aina intuitiiviseen kokemusperäisten havaintojen sallimiseen. (@tuomiLaadullinenTutkimusJa2018, 81)
 
 ## Sisällönanalyysi
 *Tähän yleistä kuvailua sisällönanalyysistä tutkimusotteena*
@@ -201,19 +216,22 @@ Hirsjärvi ja Hurme (2015) kuvailevat kirjassaan Tutkimushaastattelu: teemahaast
 
 ### Kuvailevan kirjallisuuskatsausksen toteutus
 
-Kirjallisuuskatsauksessa löydettyjä kirjallisuuskatsauksia käytettiin sateenvarjokatsauksen tapaan. Kirjallisuuskatsausten tutkimus- ja hakumenetelmiä käytettiin malleina paranneltaessa omia vastaavia sekä katsausten tutkimustuloksia käytettiin verrokkeina omien havaintojen tarkistamisessa.
+
+
+Kirjallisuuskatsauksessa löydettyjä kirjallisuuskatsauksia käytettiin sateenvarjokatsauksen tapaan. 
+Kirjallisuuskatsausten tutkimus- ja hakumenetelmiä käytettiin malleina paranneltaessa omia vastaavia sekä katsausten tutkimustuloksia käytettiin verrokkeina omien havaintojen tarkistamisessa.
 
 Muiden katsausten, koosteiden ja vastaavien julkaisujen tuloksia, havaintoja ja tekstejä käytettiin niin ikään omien hakutulosten ja havaintojen verrokkeina sekä...
 
 
-#### Aineistojen haku
+#### Kirjallisuuskatsauksen aineistojen haku
 
 *Aineistoa kerättiin myös hakutoiminnoilla löydettyjen tekstien/julkaisujen perusteella automaattisesti suositeltujen julkaisujen joukosta (esimerkiksi ResearchGate:n Suggested for you -toiminto sekä IEEE Xplore:n Related Articles -toiminto) sekä asiantuntijakeskusteluissa suositeltujen julkaisujen joukosta.*
 
 
-#### Aineistojen haun tulokset ja aineistojen valinta
+#### Kirjallisuuskatsauksen aineistojen haun tulokset ja aineistojen valinta
 
-#### MAHD. Aineiston analyysimenetelmä
+#### MAHD. Kirjallisuuskatsauksen aineiston analyysimenetelmä
 
 *Tarvitaanko kuvailevasta kirjallisuuskatsausksesta Aineiston analyysimenetelmä -kappaletta?*
 
@@ -249,13 +267,13 @@ Haastateltaviksi olisi ollut valittujen asiantuntijoiden lisäksi hyvä saada ka
 
 
 
-#### Teemahaastattelujen toteutus
+#### Teemahaastatteluiden toteutus
 
 Haastattelujen teemat laadittiin *mikä on nimitys pohjatyölle, kun tutkimusaiheeseen perehdytään ensimmäisessä vaiheessa?* kerätyn materiaalin ja alustavien keskustelujen perusteella.
 
 *"Puolistrukturoiduille menetelmille on siis ominaista, että jokin haastattelun näkökohta on lyöty lukkoon, mutta ei kaikkia." (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 47)*
 
-Tämä ohje on tarkoitettu henkilöiden reaktioiden tarkasteluun, mikä ei tässä opinnäytetyössä ole tutkimuksen kohteena (*LÄHDE?*). Tämän takia teemahaastattelujen teemoja muutettiin ennen haastatteluja harkinnanvaraisesti kunkin haastateltavan asiantuntijan erikoistumisen mukaan, ottaen huomioon aikaisemmista haastatteluista saadut kokemukset ja taustatyöstä saadut tiedot. Haastattelun teemoja voitiin järjestellä uudelleen myös haastattelutilanteen niin vaatiessa, myötäillen haastateltavan *taipumuksia?*.
+Tämä ohje on tarkoitettu henkilöiden reaktioiden tarkasteluun, mikä ei tässä opinnäytetyössä ole tutkimuksen kohteena (*LÄHDE?*). Tämän takia teemahaastatteluiden teemoja muutettiin ennen haastatteluja harkinnanvaraisesti kunkin haastateltavan asiantuntijan erikoistumisen mukaan, ottaen huomioon aikaisemmista haastatteluista saadut kokemukset ja taustatyöstä saadut tiedot. Haastattelun teemoja voitiin järjestellä uudelleen myös haastattelutilanteen niin vaatiessa, myötäillen haastateltavan *taipumuksia?*.
 
 *Milloin haastateltiin?*
 *Missä haastateltiin?*
@@ -393,7 +411,7 @@ Kategorioiden ja alikategorioiden yleisimmät koodit kerättiin loogisiksi teemo
 
 ## Meta (poistettava otsikko)
 
-Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset *(koska kuvaileva, havainnot?)*. Kirjallisuuskatsauksen ja teemahaastattelujen tuloksia tarkastellaan erikseen, jonka jälkeen tuloksista tehdään kuvaileva yhteenveto. Lopuksi esitellään vastaukset tutkimuskysymyksiin tuloksista tehtyjen havaintojen ja johtopäätösten perusteella.
+Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset *(koska kuvaileva, havainnot?)*. Kirjallisuuskatsauksen ja teemahaastatteluiden tuloksia tarkastellaan erikseen, jonka jälkeen tuloksista tehdään kuvaileva yhteenveto. Lopuksi esitellään vastaukset tutkimuskysymyksiin tuloksista tehtyjen havaintojen ja johtopäätösten perusteella.
 
 ## Kirjallisuuskatsauksen tulokset
 
