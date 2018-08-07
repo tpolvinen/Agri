@@ -210,8 +210,26 @@ Teemahaastattelun toteutukset voivat Tuomin ja Sarajärven (2018) mukaan vaihdel
 
 
 ## Sisällönanalyysi
-*Tähän yleistä kuvailua sisällönanalyysistä tutkimusotteena*
 
+Sisällönanalyysiä voidaan käyttää kaikissa laadullisen tutkimuksen perinteissä ja sen avulla voidaan tehdä monenlaista tutkimusta. Tuomin (2018) mukaan periaatteessa useimmat laadullisen tutkimuksen analyysimenetelmät perustuvat jollain tavalla sisällönanalyysiin, jos sillä tarkoitetaan väljässä teoreettisessa kehyksessä tehtävää kirjoitettujen, kuultujen tai nähtyjen sisältöjen analyysiä. Hänen mukaansa sisällönanalyysiä ei voi tästä näkökulmasta katsottuna pitää pelkästään laadullisen tutkimuksen analyysimenetelmänä.  (@tuomiLaadullinenTutkimusJa2018, 103)
+
+Sisällönanalyysi, samoin kuin temaatinen analyysi, kuuluu laadullisen tutkimuksen ryhmään jonka analyysimuotoja eivät lähtökohtaisesti ohjaa jokin teoria tai epistemologia, mutta joihin voidaan soveltaa monenlaisia teoreettisia tai epistemologisia lähtökohtia suhteellisen vapaasti. Toiseen laadullisen tutkimuksen ryhmään kuuluvat analyysimuodot joita vastaavasti ohjaa tietty teoria tai epistemologinen lähtökohta, kuten grounded theory ja fenomenologinen analyysi. (@tuomiLaadullinenTutkimusJa2018, 103)
+
+Tuomi (2018) kuvaa sisällönanalyysin toteuttamista Timo Laineen esittämän laadullisen tutkimuksen analyysin rungon mukaisesti: ensin tehdään päätös siitä mitä tutkitaan, sitten kerätään päätöksen mukaiset asiat aineistosta, luokitellaan saatu aineisto ja lopuksi kirjoitetaan yhteenveto. Keräämisestä käytetään metodikirjallisuudessa nimitystä aineiston litterointi tai koodaaminen. Pelkkää aineiston luokittelua ei ole mielekästä esittää ilman raportoitua yhteenvetoa. Luokittelua pidetään sisällön teemoin toteutettuna kvantitatiivisena analyysinä ja yksinkertaisimpana aineiston järjestämisen muotona. Luokiteltu aineisto voidaan esittää taulukkona ja aineiston luokittelusta voidaan alkeellisimmillaan tarkistaa, montako kertaa jokainen luokka esiintyy aineistossa. Teemoittelu on periaatteessa luokituksen kaltaista, mutta painottuen kustakin teemasta sanotun sitältöön. Sisällönanalyysissä on Tuomen mukaan kaikkiaan kyse laadullisen aineiston pilkkomisesta ja ryhmittelystä erilaisten aihepiirien mukaan, mikä mahdollistaa tiettyjen teemojen esiintymisen vertailun aineistossa. (@tuomiLaadullinenTutkimusJa2018, 104-107)
+
+Sisällönanalyysissä voidaan käyttää Eskolan (2018) esittämää analyysimuotojen jaottelua eli  aineistolähtöistä, teoriaohjaavaa ja teorialähtöistä analyysiä. Tämä analyysimuotojen jaottelu mahdollistaa analyysin tekoa ohjaavien tekijöiden huomioimisen paremmin kuin jaottelu induktiiviseen ja deduktiiviseen analyysiin. Tässä osiossa ei käsitellä teorialähtöistä analyysiä, koska se ei ole relevantti tälle opinnäytetyölle. Aineistolähtöisessä analyysissä teoreettinen kokonaisuus pyritään luomaan valitsemalla tutkimusaineistosta analyysiyksiköt tutkimuksen tarkoituksen ja tehtävänasettelun mukaisesti. Tuomin (2018) mukaan on keskeistä, että analyysiyksiköitä ei ole asetettu tai harkittu etukäteen. Periaatteessa aineistolähtöisessä analyysissä tutkimuksen metodologiset sitoumukset ohjaavat analyysiä. Analyysin oletetaan olevan aineistolähtöistä, jolloin toteutuksella ja lopputuloksella ei tulisi olla yhteyttä aikaisempiin tietoihin kuten havaintoihin ja teorioihin. Tämä yhteys on kuitenkin yleisesti katsottu olevan olemassa ja sen takia aineistolähtöinen tutkimus on erittäin vaikea toteuttaa. Tuomin (2018) mukaan ei ole olemassa objektiivisia, "puhtaita" havaintoja sinällään, vaan tuloksiin vaikuttavat aina muun muassa tutkijan asettamat tutkimusasetelmat, menetelmät ja käsitteet. (@tuomiLaadullinenTutkimusJa2018, 107-108; @valliIkkunoitaTutkimusmetodeihinNakokulmia2018, 212)
+
+
+
+
+Teoriaohjaava analyysi
+*teoria voi toimia apuna, mutta analyysi ei pohjaudu suoraan teoriaan*
+*myös analyysiyksiköt valitaan aineistosta, mutta aikaisempi tieto ohjaa analyysiä*
+*aikaisemman tiedon vaikutus on tunnistettavissa analyysistä, mutta aikaisemman tiedon merkitys on uusia ajatusuria aukova  eikä teorioita testaava*
+*analyysissä edetään aluksi aineistolähtöisesti, loppuvaiheessa tuodaan analyysiä ohjaavaksi aineistosta havaittu teoria.*
+*päättelyn logiikka on usein abduktiivinen ja tutkija vaihtelee ajatteluprosessissaan aineistolähtöistä ja valmiiden mallien lähestymistapaa, joita pyrkii yhdistelemään eri tavoilla.*
+
+*Analyysimalli: aineiston pelkistäminen (muut aineiston kuvaus ja valmisteleva tulkinta)*
 
 ## Aineisto ja (tutkimus)menetelmät
 
@@ -238,6 +256,8 @@ Muiden katsausten, koosteiden ja vastaavien julkaisujen tuloksia, havaintoja ja 
 
 ### Asiantuntijoiden teemahaastattelut
 
+#### Meta (poistettava otsikko)
+
 Haastatteluissa pyrittiin tuomaan esille AIoT:n erilaisia ilmentymiä mahdollisimman laaja-alaisesti ja kunkin haastateltavan asiantuntijan erikoisalaan ja kokemuksiin syventyen.
 
 Tässä opinnäytetyössä sovelletaan ... Teemahaastattelun eteneminen tapahtuu tiettyjen keskeisten teemojen varassa ja haastattelun aihepiirit ovat kaikille haastateltaville samat. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 47-48). *Mutta ei täysin tässä työssä.*
@@ -259,7 +279,7 @@ Kanasen (2010) mukaan "haastattelijan pitäisi olla joustava haastattelutilantee
 
 #### Haastateltavien valinta
 
-Haastateltavien määrää rajoitti käytettävät resurssit ja aika. Opinnäytetyön laajuuden ollessa rajattu, päädyttiin viiteen haastateltavaan. Toisaalta Hirsjärven ja Hurmeen mukaan voidaan laadullisessa tutkimuksessa jo muutaman haastateltavan avulla saada merkittävää tietoa. Haastateltavien valinnassa edettiin aluksi keräämällä kontakteja ja keskustelemalla kokeilevasti mahdollisten haastateltavien kanssa erilaisissa tapahtumissa. Samalla pyrittiin keskusteluissa myös lumipallomenetelmän omaisesti hankkimaan uusia kontakteja. *Miten ihmeessä sanotaan että tehtiin kirjan ohjeen mukaan?*. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 59) 
+Haastateltavien määrää rajoitti käytettävät resurssit ja aika. Opinnäytetyön laajuuden ollessa rajattu, päädyttiin viiteen haastateltavaan. Toisaalta Hirsjärven ja Hurmeen (2015) mukaan voidaan laadullisessa tutkimuksessa jo muutaman haastateltavan avulla saada merkittävää tietoa. Haastateltavien valinnassa edettiin aluksi keräämällä kontakteja ja keskustelemalla kokeilevasti mahdollisten haastateltavien kanssa erilaisissa tapahtumissa. Samalla pyrittiin keskusteluissa myös lumipallomenetelmän omaisesti hankkimaan uusia kontakteja. *Miten ihmeessä sanotaan että tehtiin kirjan ohjeen mukaan?*. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 59) 
 
 Haastateltavien valintaan vaikutti erityisesti lähestyttävyys. Useita lupaavia kontakteja ei saatu haastateltaviksi kokeilevien keskustelujenkaan jälkeen ja useilta ei saatu vastauksia haastattelupyyntöihin. 
 
@@ -327,6 +347,46 @@ Analyysin johtopäätöksiä tehtiin -- ottaen huomioon koodien havainnoinnin ep
 *miten pyrittiin löytämään kehityskulun kuvaa yksittäisistä teemoista havainnoimalla*
 Samoin kuin haastattelujen yhteneväisyyksiä ja eroavaisuuksia, myös tutkimusaiheen kokonaiskuvaa pyrittiin hahmottamaan sisällönanalyysin avulla. Haastattelumateriaalissa käsitellyistä teemoista pyrittiin muodostamaan koodien havaintoja tarkistelemalla yleiskuva käsitellyistä teemoista sekä kunkin haastattelun ominaisista teemoista.
 
+
+---
+Tuomi, Sisällönanalyysi s.97
+
+Seuraavassa Laineen kuvausta on
+hieman muokattu, mutta periaatteessa kuvaus on pysynyt samana:
+1. Päätä, mikä tässä aineistossa kiinnostaa ja tee VAHVA PÄÄTÖS!
+2a. Käy läpi aineisto, erota ja merkitse ne asiat, jotka sisältyvät kiinnostukseesi.
+2b. Kaikki muu jää pois tästä tutkimuksesta!
+2c. Kerää merkityt asiat yhteen ja erilleen muusta aineistosta.
+3. Luokittele, teemoita tai tyypittele aineisto.
+4. Kirjoita yhteenveto.
+
+...
+
+Kohdasta kaksi käytetään metodikirjallisuudessa nimitystä aineiston
+litterointi tai koodaaminen. Se, millaisia koodimerkkejä tms. käyttää, on
+jokaisen oma asia. Siihen ei ole olemassa mitään yhtenäistä ohjeistusta.
+Koodimerkeillä on kuitenkin viisi tärkeää tehtävää:
+1. Ne ovat sisään kirjoitettuja muistiinpanoja.
+2. Niillä jäsennetään sitä, mitä tutkijan mielestä aineistossa käsitellään.
+3. Ne toimivat tekstin kuvailun apuvälineenä.
+4. Ne toimivat aineiston jäsennyksen testausvälineenä.
+5. Niiden avulla voidaan etsiä ja tarkistaa tekstin eri kohtia eli ne toimivat osoitteena
+
+...
+
+Luokittelua pidetään
+yksinkertaisimpana aineiston järjestämisen muotona. Itse asiassa sitä pidetään
+kvantitatiivisena analyysina sisällön teemoin. Alkeellisimmillaan aineistosta
+määritellään luokkia ja lasketaan, montako kertaa jokainen luokka esiintyy
+aineistossa. Luokiteltu aineisto voidaan esittää taulukkona.
+
+Teemoittelu voi olla periaatteessa luokituksen kaltaista, mutta siinä
+painottuu, mitä kustakin teemasta on sanottu. Lukumäärillä on tai ei ole
+merkitystä riippuen laadullisen tutkimuksen perinteestä. Kaikkiaan kyse on
+laadullisen aineiston pilkkomisesta ja ryhmittelystä erilaisten aihepiirien
+mukaan. Näin on mahdollista vertailla tiettyjen teemojen esiintymistä
+aineistossa. Ennen
+---
 
 **Koodaus & Kategorisointi** *-> Taulukointi -> Analyysi -> Johtopäätökset*
 
