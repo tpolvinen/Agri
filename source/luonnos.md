@@ -348,7 +348,11 @@ Analyysin johtopäätöksiä tehtiin -- ottaen huomioon koodien havainnoinnin ep
 Samoin kuin haastattelujen yhteneväisyyksiä ja eroavaisuuksia, myös tutkimusaiheen kokonaiskuvaa pyrittiin hahmottamaan sisällönanalyysin avulla. Haastattelumateriaalissa käsitellyistä teemoista pyrittiin muodostamaan koodien havaintoja tarkistelemalla yleiskuva käsitellyistä teemoista sekä kunkin haastattelun ominaisista teemoista.
 
 
----
+
+
+
+
+
 Tuomi, Sisällönanalyysi s.97
 
 Seuraavassa Laineen kuvausta on
@@ -386,7 +390,12 @@ merkitystä riippuen laadullisen tutkimuksen perinteestä. Kaikkiaan kyse on
 laadullisen aineiston pilkkomisesta ja ryhmittelystä erilaisten aihepiirien
 mukaan. Näin on mahdollista vertailla tiettyjen teemojen esiintymistä
 aineistossa. Ennen
----
+
+
+
+
+
+
 
 **Koodaus & Kategorisointi** *-> Taulukointi -> Analyysi -> Johtopäätökset*
 
