@@ -56,12 +56,15 @@ satotasomittaus
 
 *1 - 2 sivua, Kirjoitetaan kun muut luvut ovat valmiit. <15-05-2018  12:25> Siirretty Tiiviisti.md:hen työstettäväksi.*
 
+*(@onwuegbuzieStepsComprehensiveLiterature2016, 20, 57) **PROBLEM STATEMENT** Introduce and explain the problem -> Explore the importance of the problem -> Describe the synthesis of relevant scholarship (lit.rev. report here) -> State hyphotheses and correspondence to research design of the problem*
+
 *Tekijän ensimmäisenä opinnäytetyönä ... AMK-opinnäytetyö mahdollistaa hyvin rajatun menetelmien opettelun. käytettävät analyysimenetelmät ovat enemmän kömpelöitä mallien perusteella tehtyjä kokeiluita kuin harjaantuneita omaan ajatteluun perustuvia suorituksia. Tein kuitenkin parhaani annettujen resussien puitteissa. Pahoittelen erityisesti analyysin alkeellisuutta ja pyrin parantamaan työni jälkeä mahdollisesti tulevissa töissäni.*
 
 # AIOT:N TAUSTA / TEORIATAUSTA / TEOREETTINEN VIITEKEHYS
 
 ## Meta (poistettava otsikko)
 
+*voisiko tässä käsitellä löydettyjen kirjallisuuskatsausten tuloksia teoriataustana?*
 *Voisiko tässä osassa käsitellä myös keskeiset teemat, kuten tarve (FAO:väestönkasvu, ei lisää viljelymaata, elintason nousu jne.), mitä tehdään tarpeen tyydyttämiseksi, mitä ongelmia/haasteita kohdataan, mitä tulevaisuudessa on...?*
 Tässä luvussa pyritään kuvailemaan millainen kasvintuotannon IoT:n tausta on, millaisista osailmiöistä se koostuu ja mitä kasvintuotannon IoT:stä on kirjoitettu. *Ompas kömöä kieltä, mutta palataan tähän kun luku on kirjoitettu.*
 Ensin tutustutaan osailmiöhin IoT, IIoT, AIoT ja kasvintuotanto, joiden määrittelyä, taustaa, historiaa ja nykytilaa kuvaillaan pintapuolisesti. IoT:iin liittyviä ilmiöitä IIoT sekä AIoT kuvaillaan myös pintapuolisesti ja osoitetaan miten ne liittyvät kasvintuotannon IoT:iin.
@@ -183,7 +186,7 @@ Kirjallisuuskatsaus pitää tutkimusmenetelmänä sisällään useita eri tyyppe
 
 ## Kuvaileva kirjallisuuskatsaus
 
-*Tässä opinnäytetyössä käytetään kirjallisuuskatsauksen menetelmänä kuvailevaa kirjallisuuskatsausta. Kuvailevan kirjallisuuskatsauksen orientaatioksi on valittu narratiivinen kirjallisuuskatsaus. Aineistojen haun kuvailussa käytetään myös systemaattisen/systemoidun/integroivan kirjallisuuskatsauksen menetelmiä.*
+*Tässä opinnäytetyössä käytetään kirjallisuuskatsauksen menetelmänä kuvailevaa kirjallisuuskatsausta. Kuvailevan kirjallisuuskatsauksen orientaatioksi on valittu narratiivinen kirjallisuuskatsaus. Aineistojen haun kuvailussa käytetään myös systemaattisen kirjallisuuskatsauksen menetelmiä.*
 
 Kuvaileva kirjallisuuskatsaus on Salmisen (2011) mukaan yleisimmin käytettyjä kirjallisuuskatsauksen perustyyppejä. Hän kuvailee sitä yleiskatsaukseksi, jolla ei ole tiukkoja ja tarkkoja sääntöjä, eivätkä tutkimuskysymykset ole yhtä tiukasti rajattuja kuin systemaattisessa katsauksessa tai meta-analyysissä. Samoin katsauksessa käytetyt aineistot voivat olla laajoja eivätkä metodiset säännöt rajaa niiden valintaa. Kuvaileva katsaus toimii itsenäisenä menetelmänä, joka voi Salmisen mukaan tarjota uusia tutkittavia ilmiöitä systemaattista kirjallisuuskatsausta varten. (@salminenMikaKirjallisuuskatsausJohdatus2011, 6)
 
@@ -230,14 +233,40 @@ Aineiston pelkistämisen analyysimallissa edetään tunnistamalla asiat, joista 
 
 ## Aineisto ja (tutkimus)menetelmät
 
+Aineiston keruumenetelmiä oli useita. Kirjallisuuskatsauksen tekemistä edelsi tutkittavaan ilmiöön tutustuminen erilaisia keruumenetelmiä testaamalla, keräämällä mahdollisten tiedonantajiee kontakteja, käyden asiantuntijakeskusteluja, vierailemalla alan tapahtumissa ja haastatteluja tehden. Kirjallisuuskatsauksen aluksi haettiin IoT:tä yleistasolla ja ilmiönä käsittelevää kirjallisuutta. Seuraavaksi haettiin ilmiötä käsitteleviä kirjallisuuskatsauksia. Valittujen kirjallisuuskatsausten pohjalta muotoiltiin omat hakumenetelmät ja valittiin osa lähteistä. Omien hakumenetelmien tuloksista on valittu tekijän harkinnan mukaan tutkittavaa ilmiötä parhaiten kuvaavat. 
+
+Tutkimuksen alustavassa vaiheessa ilmiöön tutustuttaessa tehtiin useita hakuja aiheeseen liittyvillä asiasanoilla, selattiin erilaisten organisaatioiden ja julkaisujen verkkosivuja, haettiin asiantuntijakontakteja eri tapahtumista jne. Löydöt merkittiin muistiin mahdollista myöhempää käyttöä varten.
+
+Lisäksi ollaan käytetty aiheeseen tutustuttaessa löydettyjä lähteitä jos ne ovat tekijän harkinnan mukaan olleet tähdellisiä aiheen käsittelylle ja ymmärryksen luomiselle.
+
+
 ### Kuvailevan kirjallisuuskatsausksen toteutus
 
-
-
-Kirjallisuuskatsauksessa löydettyjä kirjallisuuskatsauksia käytettiin sateenvarjokatsauksen tapaan. 
 Kirjallisuuskatsausten tutkimus- ja hakumenetelmiä käytettiin malleina paranneltaessa omia vastaavia sekä katsausten tutkimustuloksia käytettiin verrokkeina omien havaintojen tarkistamisessa.
 
 Muiden katsausten, koosteiden ja vastaavien julkaisujen tuloksia, havaintoja ja tekstejä käytettiin niin ikään omien hakutulosten ja havaintojen verrokkeina sekä...
+
+*7 askelta: **EXPLORATION PHASE** explore topics, 2 initiate search, 3 store & organize information, 4 select/deselect information, 5 expand search to one more MODE, **INTERPRETATION PHASE** 6 analyze & synthesize information, **COMMUNICATION PHASE** 7 present report. Toistetaan tarvittavia askeleita, pyöritään kahta tai useampaa askelta, seurataan johtolankoja niiden tullessa esiin (emergent), haastatellaan tutkijoita (@onwuegbuzieStepsComprehensiveLiterature2016, 54)*
+
+*(@onwuegbuzieStepsComprehensiveLiterature2016, 58) figure 3.3 kuvaaja 7 askeleen toiminnasta*
+
+Käytetty hieman erilaisia hakulauseita eri kantoihin niiden vaatimusten ja toimintojen mukaan.
+
+*Tähän Talaveran katsauksesta + hakuliitteestä metodia*
+
+Aikaisemman vaiheen tuloksista valittiin joukko keskeisimmiksi arvioituja asiasanoja. Nämä asiasanat yhdistettiin löydettyjen kirjallisuuskatsausten tutkimusmenetel
+
+*Tuloksena kohtuullinen määrä tieteellisiä lähteitä.*
+Lähteiden joukosta on valittu aihetta käsittelevät kirjallisuuskatsaukset, joita käytetään sateenvarjokatsauksen omaisesti. Tällä pyritään varmistamaan, että kirjallisuudessa selkeästi havaitut teemat/asiat tulevat huomioiduksi myös tässä työssä sekä alkuperäistutkimusten hakumenetelmät ja käsitteet/asiasanat ovat laadukkaita ja aiheelle sopivia.
+
+Kirjallisuuskatsausten käyttämät tietokannat:
+    Talaveran: Google Scholar, IEEE, Scopus
+    Kamilaris: IEEE, ScienceDirect, Web of Science, Google Scholar
+    Verdouw: Scopus, Google Scholar 
+    "*We searched in the Scopus database for papers that on the one hand include Internet of Things or IoT in the title and on the other hand agriculture, farming or food in the title, abstract or the keywords section. In addition, we used generic references on IoT and enabling technologies by using Google scholar especially searching for review articles that provide an overview of the application of specific enabling technologies in the agricultural domain.*"
+
+Löydettyjä kirjallisuuskatsauksia käytetään seuraavasti:
+Tiedon kattavuutta pyritään parantamaan hakemalla sateenvarjokatsauksen omaisesti aihetta käsitteleviä kirjallisuuskatsauksia. Hakutuloksista valituista kirjallisuuskatsauksista käydään läpi tutkimusmenetelmät joista löytyviä hakumenetelmiä käytetään hyväksi soveltuvin osin tämän työn seuraavissa tiedonhakuvaiheessa.
 
 
 #### Kirjallisuuskatsauksen aineistojen haku
@@ -269,10 +298,13 @@ Teemahaastattelu sopii tekijän näkemyksen mukaan luontevasti tässä opinnäyt
 
 *Lisäksi tekijän asiantuntemuksen puute kasvintuotannon ja maatalouden aloilta olisi todennäköisesti vaikuttanut haastattelukysymysten laatuun negatiivisesti.*
 
+Teemahaastatteluja tulisi yleisesti tehdä syvällisemmän tiedon hankkimiseksi useita kierroksia, mutta opinnäytetyön rajatun työmäärän ja ajan puitteissa päädyttiin tekemään vain yksi haastattelukierros.
 
 Kanasen (2010) mukaan "haastattelijan pitäisi olla joustava haastattelutilanteessaan, jotta hän uskaltaisi lähteä ennalta arvaamattomillekin poluille, jos sellaisia paljastuu." (@kananenOpinnaytetyonKirjoittamisenKaytannon2010, 56)
 
 *"Hirsjärvi ja Hurme (2000, 58) suosittelee haastattelemaan niin monta kuin on välttämätöntä tarvitsemansa tiedon saamiseksi. Laadul- lisessa tutkimuksessa haastateltavien määrä pyrkii olemaan joko liian suuri tai pieni. Liian pienestä aineistosta ei voi tehdä tilastollisia yleistyksiä tai testata ryhmien välisiä eroja. Liian suuresta joukosta jää syvällinen tulkinta puuttumaan. (Hirsjärvi &Hurme 2000, 58–59.) "*
+
+Tutkimuksen luotettavuutta pyritään parantamaan hyväksyttämällä haastatteluista tehdyt johtopäätökset muistiinpanoineen haastateltavalla.
 
 #### Haastateltavien valinta
 
@@ -296,7 +328,7 @@ Tämä ohje on tarkoitettu henkilöiden reaktioiden tarkasteluun, mikä ei täss
 *Milloin haastateltiin?*
 *Missä haastateltiin?*
 
-
+Haastattelujen litteroinnissa käytetään yleiskielistä litterointia. Yleiskielistä litterointia tarkempaa sanatarkkaa litterointia on käytetty, jos sanojen poistamisella litteroinnista on arvioitu olevan tarkoitusta mahdollisesti muuttava vaikutus.
 
 #### Haastatteluaineiston analyysimenetelmä
 
