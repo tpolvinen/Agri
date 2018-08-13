@@ -424,7 +424,7 @@ Aaltodoc https://aaltodoc.aalto.fi/?locale-attribute=fi
                             Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
             "Precision Farming" 
                 1 tulosta <23-04-2018  17:41>
-                    Elovaara, Joona: Aggregating OPC UA Server for Remote Access to Agricultural Work Machines
+                    **Elovaara, Joona: Aggregating OPC UA Server for Remote Access to Agricultural Work Machines**
                         Valittu lähteeksi taustaan yleistietojen perusteella
             "Smart Farming"
                 Ei tuloksia <23-04-2018  10:43> (ilman lainausmerkkejä tuli 1693, mutta ihan mistä vaan aiheesta)
@@ -434,7 +434,7 @@ Aaltodoc https://aaltodoc.aalto.fi/?locale-attribute=fi
                         4 hakutulosta
                             Silmäilyn perusteella valittu
                                 Suortti, Samuli: The Role of Software Platform and Actors in Software Ecosystems: A Case Study in Agriculture
-                                    Ei lähteeksi, koska keskittyy maatalousohjelmistoekosysteemeihin, kokotekstikoodaus -ehkä kokotekstikoodausta voisi käyttää myös tässä työssä?
+                                    **Ei lähteeksi, koska keskittyy maatalousohjelmistoekosysteemeihin**, kokotekstikoodaus -ehkä kokotekstikoodausta voisi käyttää myös tässä työssä?
                     Rajattu: Tiivistelmä sisältää: "Smart Farming"
                         30 hakutulosta <23-04-2018  11:30>
                             Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
@@ -523,11 +523,11 @@ Aaltodoc https://aaltodoc.aalto.fi/?locale-attribute=fi
                     Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
                 Rajattu: Tiivistelmä sisältää: "Precision Farming"
                 132 hakutulosta
-                    Nikkilä, Raimo: Automated control of compliance with production standards in precision agriculture
+                    **Nikkilä, Raimo: Automated control of compliance with production standards in precision agriculture**
                     Silmäilyn perusteella mikään muu hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
                 Rajattu: Tiivistelmä sisältää: "Smart Farming"
                 44 hakutulosta
-                    Nikkilä, Raimo: Automated control of compliance with production standards in precision agriculture
+                    **Nikkilä, Raimo: Automated control of compliance with production standards in precision agriculture**
                     Silmäilyn perusteella mikään muu hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
         "Internet of Things" <23-04-2018  19:34>
             61 hakutulosta
@@ -539,8 +539,6 @@ Aaltodoc https://aaltodoc.aalto.fi/?locale-attribute=fi
                 Rajattu: Tiivistelmä sisältää: "Smart Farming"
                 10 hakutulosta
                     Silmäilyn perusteella mikään hakutuloksista ei käsittele kasvintuotannon IoT-ratkaisuja.
-    * Nikkilä, Raimo: Automated control of compliance with production standards in precision agriculture
-
         
 Academic Search Elite (EBSCO)
     Advanced Search
@@ -668,7 +666,7 @@ Google Scholar https://scholar.google.fi/
 
 
 Passport
-    Aikaisemmin löytynyt, mutta millä haulla?
+    Aikaisemmin löytynyt, 2018-03-30 hakusanoilla: iot
     -Population Change as a Megatrend Driver; Technology as a Megatrend Driver
 
 Sage Journals Online (Sage Premier)
@@ -818,6 +816,7 @@ IEEE Xplore - IEEE/IEE Electronic Library
 Kesken:
 https://ezproxy.haaga-helia.fi:2207/document/7943528/
     Internet of Things — Propagation modelling for precision agriculture applications
+       "We derive two empirical models which can be utilised in predicting attenuation network performance in two different scenarios" 
 https://ezproxy.haaga-helia.fi:2207/document/8301662/
     IOT-based drone for improvement of crop quality in agricultural field
 https://ezproxy.haaga-helia.fi:2207/document/8304434/
@@ -832,7 +831,8 @@ https://ezproxy.haaga-helia.fi:2207/document/7855968/
     Agricultural crop monitoring using IOT - a study
         Kirjallisuuskatsaus
 https://ezproxy.haaga-helia.fi:2207/document/8030481/
-    IoT in Agriculture: Designing a Europe-Wide Large-Scale Pilot
+    **IoT in Agriculture: Designing a Europe-Wide Large-Scale Pilot**
+        "IoT-based large-scale pilots (LSPs) in the entire supply chain. This article outlines the challenges and constraints that an LSP deployment of IoT in this domain must consider. Sectoral and technological challenges are described in order to identify a set of technological and agrifood requirements."
         Kunnon taustaa "A system-of-systems architectural approach is proposed, with an emphasis on the interoperability aspects which are critical for the uptake of IoT technologies in the agrifood sector."
 https://ezproxy.haaga-helia.fi:2207/document/8126005/
     Computer vision based robotic weed control system for precision agriculture
@@ -882,6 +882,170 @@ agriculture
 "Plant Factory"
 farm
 greenhouse
+
+
+
+
+
+
+Haettu Google-haulla (google.fi) <08-07-2018  13:48>
+    Hakulause:
+        kuvaileva kirjallisuuskatsaus opinnäytetyö
+    Löydetty:
+        **Scribbr.fi** Koti > Tietopankki > Opinnäytetyön rakenne > Miten kirjallisuuskatsaus tehdään
+            [https://www.scribbr.fi/opinnaytetyon-rakenne/kirjallisuuskatsaus-opinnaytetyo/]
+            Kirjallisuuskatsauksen ohjeita. Mainittu AGRIS-tietokanta kohdassa 2. Kerää kirjallisuus / Aiheisiin keskittyvät tietokannat.
+            "Esimerkiksi AGRIS-tietokanta, joka kattaa laajan kirjon maatalouteen ja ympäristöön liittyviä aiheita."
+        Jonka kautta löydetty:
+            **AGRIS FAO**
+            [http://agris.fao.org/agris-search/index.do]
+
+# FAO AGRIS-haku
+
+Haettu AGRIS-haulla (http://agris.fao.org/agris-search/index.do)  <08-07-2018>
+    Hakulause:
+        internet of things
+        (valittu AGROVOC descriptor "internet of things")
+    Löydetty:
+        Valittu otsikon, asiananojen, julkaisuvuoden ja abstraktin ensimmäisten lauseiden mukaan:
+        ON JO: **Internet of Things in agriculture, recent advances and future challenges**
+        Antonis et al. [2017]
+            [http://agris.fao.org/agris-search/search.do?recordID=US201800025837]
+        **Architecting an IoT-enabled platform for precision agriculture and ecological monitoring: A case study**
+        Tomo et al. [2017-08]
+            [http://agris.fao.org/agris-search/search.do?recordID=US201700247601]
+            Suunniteltu prototyyppi "for the research in precision agriculture and ecological monitoring domains."
+        Jonka kautta löydetty (ScienceDirect, Recommended Articles):
+            **A cloud-based Farm Management System: Architecture and implementation**
+            Kaloxylos et al.
+            [https://ezproxy.haaga-helia.fi:3248/science/article/pii/S0168169913002846]
+            ...jossa avattiin FMSsää "In Kaloxylos et al. (2012) we presented the notion of a Farm Management System (FMS) as a framework that can accommodate modular services and enable their interoperation. The services can be either simple ones (e.g., a meteorological service) or even complex ones like an existing FMIS."
+            Jonka kautta Scopus näyttää julkaisuun viitanneet julkaisut, joiden joukossa on monia mielenkiintoisia mutta niihin ei näytä pääsevän käsiksi. [https://www.scopus.com/results/citedbyresults.uri?sort=plf-f&cite=2-s2.0-84890600378&src=s&imp=t&sid=dfe926594f310dd29197d73c39fbdf6b&sot=cite&sdt=a&sl=0&origin=inward&editSaveSearch=&txGid=e811e59608d08921b271180372beb55a]
+        **Review of IoT Applications in Agro-Industrial and Environmental Fields**
+        JesÃºs MartÃ­n et al. [2017]
+            [http://agris.fao.org/agris-search/search.do?recordID=US201800010900]
+        **Management and control applications in Agriculture domain via a Future Internet Business-to-Business platform**
+        (Ei kirjoittajaa?)
+            [http://agris.fao.org/agris-search/search.do?recordID=CN2016100023]
+        **Modelling the smart farm**
+        O'Grady, O'Hare
+            [https://ezproxy.haaga-helia.fi:3248/science/article/pii/S2214317316301287]
+            Yleiskuva malleista:
+                "This paper thus presents an overview of models within the farming enterprise; it then reviews the state-of the art in smart technologies that promise to enable a new generation of enterprise-specific models that will underpin future smart farming enterprises."
+            Ei vain teknologiat vaan niiden käyttö.
+            Minimaalista käyttöönottoa viljelijöiden keskuudessa.
+            Smart teknologiat korjaavat tilannetta: yleismaailmallisista sovelluksista maatilakohtaisiin *mistä puhuttiin haastiksissa*.
+            Maatilakohtaisten sovellusten R&D on vielä alkuvaiheessa *ks. haastis 3*.
+        Jonka kautta löydetty (ScienceDirect, Recommended Articles):
+            ON JO: **Scientific development of smart farming technologies and their application in Brazil**
+            Pivoto et al.
+                [https://ezproxy.haaga-helia.fi:3248/science/article/pii/S2214317316301184]
+                Katsaus Smart Farmingiin ja sen sovelluksiin Brasiliassa.
+                Asiantuntijahaastatteluja! :D
+            Jonka kautta löydetty (ScienceDirect, Recommended Articles):
+                **Next generation agricultural system data, models and knowledge products: Introduction**
+                    [https://ezproxy.haaga-helia.fi:3248/science/article/pii/S0308521X16304887]
+                Jonka kautta löydetty (Samassa Agricultural Systems-julkaisun numerossa Volume 155):
+                    **Towards a new generation of agricultural system data, models and knowledge products: Information and communication technology**
+                    Janssen et al. 2017
+                        [https://ezproxy.haaga-helia.fi:3248/science/article/pii/S0308521X16305637]
+                        "Our qualitative evaluation suggests that as an overall research challenge, the interoperability of data sources, modular granular open models, reference data sets for applications and specific user requirements analysis methodologies need to be addressed to allow agricultural modeling to enter in the big data era. This will enable much higher analytical capacities and the integrated use of new data sources. Overall agricultural systems modeling needs to rapidly adopt and absorb state-of-the-art data and ICT technologies with a focus on the needs of beneficiaries and on facilitating those who develop applications of their models. This adoption requires the widespread uptake of a set of best practices as standard operating procedures."
+                    Jonka kautta löydetty (ScienceDirect, Recommended Articles):
+                        **Decision support tools for agriculture: Towards effective design and delivery**
+                        Rose et al. 2016
+                            [https://ezproxy.haaga-helia.fi:3248/science/article/pii/S0308521X16305418]
+                            Päätöksentekotyökalut, huono käyttöönotto/omaksunta UKssa.
+                            Määritelty 15 tekijää, jotka vaikuttavat käyttöönottoon/omaksuntaan.
+                        Jonka kautta löydetty (ScienceDirect, Recommended Articles):
+                            **Farm management information systems: Current situation and future perspectives**
+                            Fountas et al. 2015
+                                [https://ezproxy.haaga-helia.fi:3248/science/article/pii/S0168169915001337]
+                                "This paper presents current advancements in the functionality of academic and commercial FMIS. The study focuses on open-field crop production and centeres on farm managers as the primary users and decision makers. Core system architectures and application domains, adoption and profitability, and FMIS solutions for precision agriculture as the most information-intensive application area were analyzed. Our review of commercial solutions involved the analysis of 141 international software packages, categorized into 11 functions. Cluster analysis was used to group current commercial FMIS as well as examine possible avenues for further development. Academic FMIS involved more sophisticated systems covering compliance to standards applications, automated data capture as well as interoperability between different software packages. Conversely, commercial FMIS applications targeted everyday farm office tasks related to budgeting and finance, such as recordkeeping, machinery management, and documentation, with emerging trends showing new functions related to traceability, quality assurance and sales."
+                            Jonka kautta löydetty (ScienceDirect, Recommended Articles):
+                                **Future internet and the agri-food sector: State-of-the-art in literature and research**
+                                Lehmann, Reiche, Schiefer
+                                *johon ei ole pääsyä*
+                                Jonka kautta löydetty (ScienceDirect, Recommended Articles):
+                                    **The Use of Future Internet Technologies in the Agriculture and Food Sectors: Integrating the Supply Chain**
+                                    Kaloxylos et al. 2013
+                                        [https://ezproxy.haaga-helia.fi:3248/science/article/pii/S2212017313000716]
+                                        "In this paper, we present the specific characteristics of the agri-food sector focusing on how information management in this area will take place under a highly heterogeneous group of actors and services, based on the EU SmartAgriFood project. We also discuss how a new dynamic marketplace will be realized based on the adoption of a number of specialized software modules, called “Generic Enablers” that are currently developed in the context of the EU FI-WARE project."
+
+Nämä tulivat jonkin julkaisun kautta:
+    **Integrated open geospatial web service enabled cyber-physical information infrastructure for precision agriculture monitoring**
+    Chen, Zhang, Wang 2015
+        [https://ezproxy.haaga-helia.fi:3248/science/article/pii/S0168169914003196]
+        Käpistelyä, prototyyppi, "Although this infrastructure is efficient, a fully functional design for all PA operations still requires further research"
+    **Farm machinery management information system**
+    Fountas et al.
+        [https://ezproxy.haaga-helia.fi:3248/science/article/pii/S0168169914002932]
+        ISOBUS, traktori-työkone-kommunikaatio, haastatteluja tulevia ratkaisuita varten.
+    **Factors influencing the adoption of Farm Management Information Systems (FMIS) by Brazilian citrus farmers**
+    Carrer et al. 2017
+        FMIS-käyttöönoton/omaksunnan syiden kartoitusta ja laskentaa. "It should also be noted that the present study was innovative in testing the effect of personal, social, behavioral, structural and institutional variables on the likelihood of FMIS adoption. The results for the overconfidence in management and occurrence of contractual adjustments variables are interesting and rarely studied in other analyses on the adoption of technologies in agriculture."
+    **A four nation survey of farm information management and advanced farming systems: A descriptive analysis of survey responses**
+    Lawson et al. (Pesonen)
+        *Ei pääsyä?*
+        [https://ezproxy.haaga-helia.fi:3248/science/article/pii/S0168169911000639]
+        "The study evaluates the potential time savings associated with office tasks for information management and the likely adoption of advanced farming systems and precision farming practices."
+    **The Use of Future Internet Technologies in the Agriculture and Food Sectors: Integrating the Supply Chain**
+    Kaloxylos et al. 2013
+        [https://ezproxy.haaga-helia.fi:3248/science/article/pii/S2212017313000716]
+        "In this paper, we present the specific characteristics of the agri-food sector focusing on how information management in this area will take place under a highly heterogeneous group of actors and services, based on the EU SmartAgriFood project. We also discuss how a new dynamic marketplace will be realized based on the adoption of a number of specialized software modules, called “Generic Enablers” that are currently developed in the context of the EU FI-WARE project. Thus, the paper presents the overall vision for data integration along the supply chain as well as the development and federation of Future Internet services that are expected to revolutionize the agriculture sector."
+            "p.57  4. The overall Smart Agrifood architecture
+                The goal of the SmartAgrifood Project (SAF) is to link the different areas by integrating FI-WARE’s GEs and introducing appropriate tools and services that are specialized to perform specific tasks (e.g., monitoring and advising greenhouse owners for their crop, monitoring and recording the environmental conditions of fruits and vegetables, providing tailored information to end consumers). In SAF, we have defined three subsystems, one per each already described sub-domain. The first one, called Farm Management System (FMS), deals with management and control of tasks undertaken by farmers [9]"
+        "p.60 Conclusions
+        ...these services are not stored locally on an end device but rather they have access to the same data (e.g., farmer’s data) stored in the cloud. This way, end users will be able to build their own tailor cut environment in an affordable way. The concepts will be tested in real life in the context of a new ambitious project, in the context of FI-PPP, called cSpace that is starting in April 2013."
+
+---------------------------------------------------------------------------------------------------
+
+# FAO AGP-haku
+
+Haettu AGP-sivujen custom Google-haulla <13-07-2018  16:07>
+    Hakulause:
+        Internet of things
+    Löydetty:
+        Hakutuloksia: about 6510 results
+        [http://www.fao.org/search/en/?cx=018170620143701104933%3Aqq82jsfba7w&q=internet+of+things&x=0&y=0&cof=FORID%3A9&siteurl=www.fao.org%2Fagriculture%2Fcrops%2Fagp-home%2Fen%2F%3Fno_cache%3D1&ref=&ss=9579j16659189j18]
+        **The possibilities of Internet of Things (IoT) for Agriculture**
+            [http://www.fao.org/e-agriculture/news/possibilities-internet-things-iot-agriculture]
+            *Tätä voisi käyttää taustan lähteenä perusteluihin, miksi AIoT on tärkeää.*
+            Quick read:
+                The world still need more food to feed the growing population
+                Internet of Things (loT) is being used in agriculture
+                Some advantages of Internet of Things (loT) 
+                Learn more about Internet of Things (loT)
+            *Yksinkertaisista prototyypeistä...*
+                "In some cases, the farmer can remotely control the activities in the farm due to this connectivity. Is this possible? Yes, remember one of the e-Agriculture webinars on Nano Ganesh explained the mobile-based remote controller for water pumps."
+            *...voisi johdattaa kunnon tuotteisiin. Missä olikaan se peltotuotannon IoT-tuote?*
+            Further reading -kohdasta löytyi:
+                **World Bank: Agriculture 2.0: how the Internet of Things can revolutionize the farming sector** 
+                Lee, Choudhary 2017-08-17
+                    [http://blogs.worldbank.org/ic4d/agriculture-20-how-internet-things-can-revolutionize-farming-sector]
+                    "managing these inputs efficiently is difficult without consistent and precise monitoring...many of them still rely on guess work, rather than data, for their farming decisions."
+                    "The benefits that farmers get from IoT application in agriculture are twofold. First, these systems help farmers decrease production costs and waste by optimizing the use of inputs. In addition, IoT can increase yields by improving their decision-making with more and accurate data."
+                    "challenges to IoT in agriculture persist in less developed regions. First, remote areas tend to lack communication network infrastructure. Also, farmers need to be presented with the right incentives to buy into IoT systems, whose upfront installation costs are still quite expensive."
+                    "**!**World Bank is unveiling a new webinar series on the Internet of Things for Agriculture (IoT4Ag).**!**"
+                    "We recognize the potential of IoT in facilitating sustainable agriculture...We also acknowledge the challenges of applying and scaling up IoT in agriculture in the development context...understand the future of agriculture and respond to the new set of risks that could come with the deployment of IoT in the sector, such as increasing privacy and cybersecurity threats."
+                        Jonka kautta löydetty (linkki tekstissä):
+                            **Webinar Series: Internet of Things for Agriculture**
+                                [http://www.worldbank.org/en/events/2017/06/27/webinar-series-internet-of-things-for-agriculture#2]
+                                ...
+                            Jonka webinaarissa 9 "The Yield"
+                                []
+                                Kohdassa 13:25 kerrotaan tuotteesta ja UXn tärkeydestä kohdassa noin 14:00.
+                                Kohdassa 22:05 Challenges solving: Systems thinking oli useita tuttuja haasteita.
+                                The Yield:in sivuilla artikkelissa **What exactly is IoT technology?** [https://www.theyield.com/post/what-exactly-is-iot-technology] kohdassa **IoT in agriculture** mainittu **Agfunder Global Innovation Awards (San Francisco)**
+                                Lisäksi The Yield:in sivuilla monia hyviä viittauksia löytyy **Insights, stories & news** kautta [https://www.theyield.com/news-insights]
+                **The research of IOT of agriculture based on three layers architecture**
+                Fu Bing 2016-10-22
+                    [https://ieeexplore.ieee.org/document/7868325/?part=1]
+                    *Tämä voisi olla esimerkki puutarhasovelluksesta tautitunnistuksessa. Prototyyppi, pieni testi kentällä.*
+                    FAO-laina, sitten "China's agriculture is in the period of the transformation of traditional agriculture to modern agriculture. The implementation of this technical system, Internet of things and the expert system will play an unique and important role..."
+                **Precision agriculture and the future of farming in Europe - Scientific Foresight Study**
+                    [http://www.europarl.europa.eu/RegData/etudes/STUD/2016/581892/EPRS_STU(2016)581892_EN.pdf]
+                    Abstractista: "...PA methods promise to increase the quantity and quality of agricultural output while using less input (water, energy, fertilisers, pesticides, etc.). The aim is to save costs, reduce environmental impact and produce more and better food. The methods of PA rely mainly upon a combination of new sensor technologies, satellite navigation and positioning technology, and the Internet of Things. PA has been making its way into farms across Europe and is increasingly assisting farmers in their work."
+
 
 ## Kirjallisuus:
 

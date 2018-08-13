@@ -56,7 +56,7 @@ satotasomittaus
 
 *1 - 2 sivua, Kirjoitetaan kun muut luvut ovat valmiit. <15-05-2018  12:25> Siirretty Tiiviisti.md:hen työstettäväksi.*
 
-*(@onwuegbuzieStepsComprehensiveLiterature2016, 20, 57) **PROBLEM STATEMENT** Introduce and explain the problem -> Explore the importance of the problem -> Describe the synthesis of relevant scholarship (lit.rev. report here) -> State hyphotheses and correspondence to research design of the problem*
+*(@onwuegbuzieStepsComprehensiveLiterature2016, 20, 57) Johdantoon tulee laittaa: **PROBLEM STATEMENT** Introduce and explain the problem -> Explore the importance of the problem -> Describe the synthesis of relevant scholarship (lit.rev. report here) -> State hyphotheses and correspondence to research design of the problem*
 
 *Tekijän ensimmäisenä opinnäytetyönä ... AMK-opinnäytetyö mahdollistaa hyvin rajatun menetelmien opettelun. käytettävät analyysimenetelmät ovat enemmän kömpelöitä mallien perusteella tehtyjä kokeiluita kuin harjaantuneita omaan ajatteluun perustuvia suorituksia. Tein kuitenkin parhaani annettujen resussien puitteissa. Pahoittelen erityisesti analyysin alkeellisuutta ja pyrin parantamaan työni jälkeä mahdollisesti tulevissa töissäni.*
 
@@ -90,6 +90,8 @@ Ensin tutustutaan osailmiöhin IoT, IIoT, AIoT ja kasvintuotanto, joiden määri
 *Tähän IoT:n määritelmät, historia*
 
 *historiaa: ensimmäinen IoT-laite oli kokisautomaatti, RFID-tägit ensimmäinen merkittävä "asia" (thing)*
+
+*Vermesan & Friessin "Internet of Things - Global Technological and Societal Trends..." kuvaa IoT-taustaa hyvin. Entä muut kirjat?*
 
 
 ### Teollisuuden esineiden Internetin eli Industrial Internet of Things:in taustaa
@@ -181,12 +183,11 @@ Hirsjärven *et al.* (2009) mukaan kirjallisuuskatsauksella on kaksi keskeistä 
 
 Salminen (2011) esittää Baumeisterin ja Learyn (1997) mukaan kirjallisuuskatsauksen tekemiselle viisi eriteltyä perustelua: 1) kirjallisuuskatsauksella voidaan tavoitella kokonaan uuden teorian rakentamista tai olemassa olevan kehittämistä, 2) kirjallisuuskatsauksen avulla voidaan arvioida teoriaa tai 3) rakentaa kokonaiskuvaa tutkittavasta asiakokonaisuudesta, 4) pyrkiä tunnistamaan ongelmia ja 5) seurata tietyn teorian historiallista kehitystä. (@salminenMikaKirjallisuuskatsausJohdatus2011, 3; @baumeisterWritingNarrativeLiterature1997, 312)
 
-Kirjallisuuskatsaus pitää tutkimusmenetelmänä sisällään useita eri tyyppejä. Sen kolmena perustyyppeinä pidetään Salmisen (2011) mukaan kuvailevaa ja systemaattista kirjallisuuskatsausta sekä meta-analyysiä. Kirjallisuuskatsauksen tyypin valintaan vaikuttavat tutkittava ilmiö, tutkimuskysymykset ja käytettävät aineistot. (@salminenMikaKirjallisuuskatsausJohdatus2011, 6)
-
+Kirjallisuuskatsaus pitää tutkimusmenetelmänä sisällään useita eri tyyppejä. Sen kolmena perustyyppeinä pidetään Salmisen (2011) mukaan kuvailevaa ja systemaattista kirjallisuuskatsausta sekä meta-analyysiä. Kirjallisuuskatsauksen tyypin valintaan vaikuttavat tutkittava ilmiö, tutkimuskysymykset ja käytettävät aineistot. (@salminenMikaKirjallisuuskatsausJohdatus2011, 6) Onwuegbuzien ja Frelsin (2016) mukaan kirjallisuuskatsauksessa käsiteltäviä aineistoja voidaan laajentaa ja katsausta tukea multimodaalisilla eli monimuotoisilla aineistoilla kuten medialla, havainnoilla, blogiaineistolla, asiantuntijakeskusteluilla ja -haastatteluilla sekä toissijaisista tiedoista koostuvalla aineistolla (onwuegbuzieStepsComprehensiveLiterature2016, 39).
 
 ## Kuvaileva kirjallisuuskatsaus
 
-*Tässä opinnäytetyössä käytetään kirjallisuuskatsauksen menetelmänä kuvailevaa kirjallisuuskatsausta. Kuvailevan kirjallisuuskatsauksen orientaatioksi on valittu narratiivinen kirjallisuuskatsaus. Aineistojen haun kuvailussa käytetään myös systemaattisen kirjallisuuskatsauksen menetelmiä.*
+*Tässä opinnäytetyössä käytetään kirjallisuuskatsauksen menetelmänä kuvailevaa kirjallisuuskatsausta. Kuvailevan kirjallisuuskatsauksen orientaatioksi on valittu narratiivinen kirjallisuuskatsaus. Aineistojen haun kuvailussa käytetään myös systemaattisen kirjallisuuskatsauksen menetelmiä aineistohaun kuvailussa/dokumentoinnissa.*
 
 Kuvaileva kirjallisuuskatsaus on Salmisen (2011) mukaan yleisimmin käytettyjä kirjallisuuskatsauksen perustyyppejä. Hän kuvailee sitä yleiskatsaukseksi, jolla ei ole tiukkoja ja tarkkoja sääntöjä, eivätkä tutkimuskysymykset ole yhtä tiukasti rajattuja kuin systemaattisessa katsauksessa tai meta-analyysissä. Samoin katsauksessa käytetyt aineistot voivat olla laajoja eivätkä metodiset säännöt rajaa niiden valintaa. Kuvaileva katsaus toimii itsenäisenä menetelmänä, joka voi Salmisen mukaan tarjota uusia tutkittavia ilmiöitä systemaattista kirjallisuuskatsausta varten. (@salminenMikaKirjallisuuskatsausJohdatus2011, 6)
 
@@ -196,9 +197,9 @@ Kuvaileva kirjallisuuskatsaus on Salmisen (2011) mukaan yleisimmin käytettyjä 
 
 Salminen (2011) kuvailee narratiivista kirjallisuuskatsausta metodisesti kevyimmäksi kirjallisuuskatsauksen muodoksi. Katsauksen prosessin tarkoituksena on tiivistää katsaukseen valittuja tutkimuksia. Sen avulla voidaan tuottaa laaja-alainen kuvaus käsiteltävästä aiheesta tai kuvailla aiheen historiaa ja kehityskulkua. Narratiivinen katsaus voi myös auttaa ajantasaistamaan tutkimustietoa. Narratiivisen katsauksen analyysi on muodoltaan kuvaileva synteesi, jolla on ytimekäs ja johdonmukainen yhteenveto. Näin narratiivisella katsauksella voidaan järjestää epäyhteinäistä tietoa jatkuvaksi tapahtumaksi, pyrkien samalla helppolukuiseen lopputulokseen. (@salminenMikaKirjallisuuskatsausJohdatus2011, 7) 
 
-Onwuegbuzien ja Frelsin (2016) mukaan narratiivinen kirjallisuuskatsaus vetää yhteen ja parhaimmillaan kritisoi tutkimuskohteena olevaa aihetta käsittelevää kirjallisuutta, mutta ei tarjoa laadullisten tai määrällisten tutkimustulosten integraatiota (onwuegbuzieStepsComprehensiveLiterature2016, 23). Samoin Salmisen (2011) mukaan menetelmä ei tarjoa varsinaista analyyttistä tulosta (@salminenMikaKirjallisuuskatsausJohdatus2011, 7).
+Onwuegbuzien ja Frelsin (2016) mukaan narratiivinen kirjallisuuskatsaus vetää yhteen ja parhaimmillaan kritisoi tutkimuskohteena olevaa aihetta käsittelevää kirjallisuutta, mutta ei tarjoa laadullisten tai määrällisten tutkimustulosten integraatiota (onwuegbuzieStepsComprehensiveLiterature2016, 23). Samoin Salmisen (2011) mukaan menetelmä ei tarjoa varsinaista analyyttistä tulosta (@salminenMikaKirjallisuuskatsausJohdatus2011, 7).aqz
 
-Narratiivisen kirjallisuuskatsauksen neljä yleisintä tyyppiä ovat: teoreettinen (theoretical), historiallinen (historical), metodologinen (methodological) ja yleinen (general). Näista yleinen tyyppi on perinteinen, käsiteltävästä aiheesta uusinta tietoa käsittelevä ja keskeiset seikat esittelevä kirjoitus. (onwuegbuzieStepsComprehensiveLiterature2016, 24) Tämän opinnäytetyön kirjallisuuskatsaus toteutetaan yleisen tyypin mukaisena narratiivisena katsauksena. 
+Narratiivisen kirjallisuuskatsauksen neljä yleisintä tyyppiä ovat: teoreettinen (theoretical), historiallinen (historical), metodologinen (methodological) ja yleinen (general). Näista yleinen tyyppi on perinteinen, käsiteltävästä aiheesta uusinta kirjallisuutta käsittelevä ja keskeiset seikat esittelevä kirjoitus. (onwuegbuzieStepsComprehensiveLiterature2016, 24) Tämän opinnäytetyön kirjallisuuskatsaus toteutetaan yleisen tyypin mukaisena narratiivisena katsauksena. 
 
 Narratiivisella kirjallisuuskatsauksella on Salmisen mukaan mahdollista päätyä luonteeltaan kirjallisuuskatsausten mukaiseen synteesiin, vaikka metodin avulla hankittu tutkimusaineisto ei olekaan valittu erityisen systemaattisella tavalla. Lisäksi narratiivisella katsauksella voidaan tuottaa kuvailevana tutkimustekniikkana ajantasaista tietoa, mitä muun tieteellisen kirjallisuuden avulla ei aina pystytä tuottamaan. (@salminenMikaKirjallisuuskatsausJohdatus2011, 7)
 
@@ -233,7 +234,7 @@ Aineiston pelkistämisen analyysimallissa edetään tunnistamalla asiat, joista 
 
 ## Aineisto ja (tutkimus)menetelmät
 
-Aineiston keruumenetelmiä oli useita. Kirjallisuuskatsauksen tekemistä edelsi tutkittavaan ilmiöön tutustuminen erilaisia keruumenetelmiä testaamalla, keräämällä mahdollisten tiedonantajiee kontakteja, käyden asiantuntijakeskusteluja, vierailemalla alan tapahtumissa ja haastatteluja tehden. Kirjallisuuskatsauksen aluksi haettiin IoT:tä yleistasolla ja ilmiönä käsittelevää kirjallisuutta. Seuraavaksi haettiin ilmiötä käsitteleviä kirjallisuuskatsauksia. Valittujen kirjallisuuskatsausten pohjalta muotoiltiin omat hakumenetelmät ja valittiin osa lähteistä. Omien hakumenetelmien tuloksista on valittu tekijän harkinnan mukaan tutkittavaa ilmiötä parhaiten kuvaavat. 
+Aineiston keruumenetelmiä oli useita. Kirjallisuuskatsauksen tekemistä edelsi tutkittavaan ilmiöön tutustuminen alustavien aineistohakujen avulla, keräämällä mahdollisten tiedonantajien kontakteja, käyden asiantuntijakeskusteluja, vierailemalla alan tapahtumissa ja haastatteluja tehden. Kirjallisuuskatsauksen aluksi haettiin IoT:tä yleistasolla ja ilmiönä käsittelevää kirjallisuutta. Seuraavaksi haettiin kasvintuotannon ja maatalouden IoT-sovelluksia käsitteleviä kirjallisuuskatsauksia. Valittujen kirjallisuuskatsausten pohjalta muotoiltiin hakumenetelmät ja valittiin osa lähteistä. Hakumenetelmien tuloksista on valittu tekijän harkinnan mukaan tutkittavaa ilmiötä parhaiten kuvaavat. 
 
 Tutkimuksen alustavassa vaiheessa ilmiöön tutustuttaessa tehtiin useita hakuja aiheeseen liittyvillä asiasanoilla, selattiin erilaisten organisaatioiden ja julkaisujen verkkosivuja, haettiin asiantuntijakontakteja eri tapahtumista jne. Löydöt merkittiin muistiin mahdollista myöhempää käyttöä varten.
 
@@ -242,22 +243,26 @@ Lisäksi ollaan käytetty aiheeseen tutustuttaessa löydettyjä lähteitä jos n
 
 ### Kuvailevan kirjallisuuskatsausksen toteutus
 
-Kirjallisuuskatsausten tutkimus- ja hakumenetelmiä käytettiin malleina paranneltaessa omia vastaavia sekä katsausten tutkimustuloksia käytettiin verrokkeina omien havaintojen tarkistamisessa.
-
-Muiden katsausten, koosteiden ja vastaavien julkaisujen tuloksia, havaintoja ja tekstejä käytettiin niin ikään omien hakutulosten ja havaintojen verrokkeina sekä...
-
 *7 askelta: **EXPLORATION PHASE** explore topics, 2 initiate search, 3 store & organize information, 4 select/deselect information, 5 expand search to one more MODE, **INTERPRETATION PHASE** 6 analyze & synthesize information, **COMMUNICATION PHASE** 7 present report. Toistetaan tarvittavia askeleita, pyöritään kahta tai useampaa askelta, seurataan johtolankoja niiden tullessa esiin (emergent), haastatellaan tutkijoita (@onwuegbuzieStepsComprehensiveLiterature2016, 54)*
 
 *(@onwuegbuzieStepsComprehensiveLiterature2016, 58) figure 3.3 kuvaaja 7 askeleen toiminnasta*
+
+Alustavien hakujen tuloksista valittiin joukko keskeisimmiksi arvioituja asiasanoja. Nämä asiasanat yhdistettiin löydettyjen kirjallisuuskatsausten tutkimusmenetelmien vastaaviin.
+
+Kirjallisuuskatsausten tutkimus- ja hakumenetelmiä käytettiin malleina paranneltaessa omia vastaavia sekä katsausten tutkimustuloksia käytettiin verrokkeina omien havaintojen tarkistamisessa.
+
+Muiden katsausten, koosteiden ja vastaavien julkaisujen tuloksia, havaintoja ja tekstejä käytettiin niin ikään omien hakutulosten ja havaintojen vertailuun.
+
+
 
 Käytetty hieman erilaisia hakulauseita eri kantoihin niiden vaatimusten ja toimintojen mukaan.
 
 *Tähän Talaveran katsauksesta + hakuliitteestä metodia*
 
-Aikaisemman vaiheen tuloksista valittiin joukko keskeisimmiksi arvioituja asiasanoja. Nämä asiasanat yhdistettiin löydettyjen kirjallisuuskatsausten tutkimusmenetel
+
 
 *Tuloksena kohtuullinen määrä tieteellisiä lähteitä.*
-Lähteiden joukosta on valittu aihetta käsittelevät kirjallisuuskatsaukset, joita käytetään sateenvarjokatsauksen omaisesti. Tällä pyritään varmistamaan, että kirjallisuudessa selkeästi havaitut teemat/asiat tulevat huomioiduksi myös tässä työssä sekä alkuperäistutkimusten hakumenetelmät ja käsitteet/asiasanat ovat laadukkaita ja aiheelle sopivia.
+Lähteiden joukosta on valittu aihetta käsittelevät kirjallisuuskatsaukset, joista käydään läpi tuloksien lisäksi tutkimusmenetelmät. Näitä menetelmiä käytetään hyväksi soveltuvin osin tämän opinnäytetyön seuraavissa aineistohaun vaiheissa. Tällä pyritään varmistamaan, että katsauksissa selkeästi havaitut asiakokonaisuudet tulevat huomioiduksi,hakumenetelmät ja asiasanat ovat laadukkaita sekä tutkittavalle ilmiölle sopivia. 
 
 Kirjallisuuskatsausten käyttämät tietokannat:
     Talaveran: Google Scholar, IEEE, Scopus
@@ -265,16 +270,266 @@ Kirjallisuuskatsausten käyttämät tietokannat:
     Verdouw: Scopus, Google Scholar 
     "*We searched in the Scopus database for papers that on the one hand include Internet of Things or IoT in the title and on the other hand agriculture, farming or food in the title, abstract or the keywords section. In addition, we used generic references on IoT and enabling technologies by using Google scholar especially searching for review articles that provide an overview of the application of specific enabling technologies in the agricultural domain.*"
 
-Löydettyjä kirjallisuuskatsauksia käytetään seuraavasti:
-Tiedon kattavuutta pyritään parantamaan hakemalla sateenvarjokatsauksen omaisesti aihetta käsitteleviä kirjallisuuskatsauksia. Hakutuloksista valituista kirjallisuuskatsauksista käydään läpi tutkimusmenetelmät joista löytyviä hakumenetelmiä käytetään hyväksi soveltuvin osin tämän työn seuraavissa tiedonhakuvaiheessa.
+
 
 
 #### Kirjallisuuskatsauksen aineistojen haku
 
 *Aineistoa kerättiin myös hakutoiminnoilla löydettyjen tekstien/julkaisujen perusteella automaattisesti suositeltujen julkaisujen joukosta (esimerkiksi ResearchGate:n Suggested for you -toiminto sekä IEEE Xplore:n Related Articles -toiminto) sekä asiantuntijakeskusteluissa suositeltujen julkaisujen joukosta.*
 
+Alustavia aineistohakuja tehtiin hakukoneista Google-haulla (https://google.com) ja Google Scholar -haulla (https://scholar.google.fi) sekä ResearchGate:n (https://www.researchgate.net) haku- ja suositustoimintojen avulla. Haaga-Heliaan ostetuista tietokannoista (http://libguides.haaga-helia.fi/az.php) alustavia hakuja tehtiin tietokantoihin: 
+Passport Global Market (http://go.euromonitor.com/passport), 
+Doria (http://www.doria.fi), 
+Elsevier ScienceDirect Freedom Collection (https://www.elsevier.com/solutions/sciencedirect), 
+EBSCO Academic Search Elite (https://www.ebsco.com/products/research-databases/academic-search-elite), 
+Sage Premier SAGE Journals Online (https://uk.sagepub.com/en-gb/eur/sage-premier), 
+IEEE Xplore Electronic Library (https://ieeexplore.ieee.org/Xplore/home.jsp).
+
+*Viitekehyksen kirjojen haku on ilmeisesti erillään, eikä kuvailla tässä vaikka muistiinpanoissa onkin muiden hakujen seassa, ks. Kirjallisuuskatsausten lähteiden haku.md kohta Haettu HHFinnasta <16-04-2018> r274*
+
+Järjestelmälliseen hakuun valittiin Haaga-Heliaan ostetuista tietokannoista ne, joista voitiin olettaa löytyvän IT-alan julkaisuja, koska tutkittava ilmiötä lähestytään tekniikan näkökulmasta ja maatalouden alakohtaisia tietokantoja ei ollut käytettävissä.
+
+Aaltodoc (https://aaltodoc.aalto.fi), 
+EBSCO Academic Search Elite (https://www.ebsco.com/products/research-databases/academic-search-elite), 
+ACM Digital Library, 
+ProQuest Business Premium, 
+Dart, 
+Passport Global Market (http://go.euromonitor.com/passport), 
+Sage Premier SAGE Journals Online (https://uk.sagepub.com/en-gb/eur/sage-premier),
+Theseus, 
+Elsevier ScienceDirect Freedom Collection (https://www.elsevier.com/solutions/sciencedirect),
+IEEE Xplore Electronic Library (https://ieeexplore.ieee.org/Xplore/home.jsp).
+
+Näiden lisäksi käytettiin Google Scholar -hakukonetta (https://scholar.google.fi)
+
+Hakulauseissa käytettiin keskeisinä hakusanoina: "IoT", "Internet of Things", "Agriculture", "Precision Farming", "Smart Farming". Hakulauseita laajennettiin mahdollisuuksien mukaan kunkin tietokannan hakutoimintojen rajoissa.
+
+
+*Tiedostosta asiasanat.md*
+##### Asiasanojen valintaperusteet
+
+Asiasanojen valinnassa käytettiin vain englanninkielisiä sanoja, koska suomenkielisten aineistojen arvellaan käyttävän sekä suomen- että englanninkielisiä asiasanoja ja löytyvän niiden avulla.
+
+IoT:tä käsittelevien yleisteosten asiasanat jätettiin pois, koska kirjojen relevanteiksi katsotut asiasanat toistuivat muualla aineistossa. Lisäksi kirjallisuuskatsauksen seuraavissa vaiheissa ei enää haettu IoT:tä yleisesti käsittelevää kirjallisuutta.
+
+Samoin pois jätettiin asiasanat, jotka eivät selkeästi liity kasvintuotannon IoT:n teknologiaratkaisuihin.
+
+*Kirjallisuuskatsausten hausta ei näy tuloksia missään!? Jätetäänkö pois?*
+**Kirjallisuuskatsausten hakuun** käytettiin asiasanoja kirjallisuuskatsauksista. Useiten toistuvat asiasanat "IoT" ja "Internet of Things" valittiin ensimmäiseksi ryhmäksi. Toiseksi ryhmäksi valittiin kirjallisuuskatsauksia koskevat asiasanat "literature review", "Systematic literature review" sekä "Survey". Kolmanteen asiasanaryhmään valittiin sellaiset asiasanat, joiden arvioitiin toistuvan kirjallisuuskatsauksissa ja joita ei valittu edellisiin ryhmiin. Kolmanteen ryhmään lisättiin vielä Precision Agriculture:   
+    Agriculture
+    Agro-industry
+    Big data analysis
+    Consumer Information
+    Environmental monitoring
+    IIoT
+    Industrial Internet of Things
+    Precision Farming
+    Precision Agriculture
+    Smart Farming
+
+**Artikkelien hakuun** käytettiin kirjallisuuskatsausten hakulauseissa käytettyjä hakusanoja, joista valittiin arviolta keskeisimmät kasvintuotannon IoT-ratkaisuiden näkökulmasta. Näihin lisättiin muissa aikaisemmissa vaiheissa löydetyt asiasanat, joiden arvioitiin mahdollisesti parantavan hakutulosten kattavuutta:
+Agribusiness
+Agricultural industry
+Agricultural products
+Agriculture
+Agriculture technology
+Agroindustry
+Big Data
+Cereals
+Climate
+Cloud Computing
+Crop
+Drones
+Drought
+Environmental monitoring
+Equipment status
+Farm
+Farming
+Feed production
+Fertilizers
+Flooding
+Food production
+Forecast
+Fruit
+Fruit storage
+Greenhouses
+Harvesting
+Horticulture
+Industrial
+Internet of things
+IoT
+IoT applications
+Irrigation
+Pest
+Plant
+Plant Production
+Precision Agriculture
+Precision Farming
+Product Traceability
+Seed
+Sensor discovery
+Sensor integration
+Sensor-cloud
+Sensor-cloud for agricultural applications
+Smart Agriculture
+Smart Environments
+Smart Farming
+Telemetry applications
+Ubiquitous sensing
+Vegetable
+Water
+Weather
+Web of Things
+Wireless Sensor Networks
+
+Asiasanoista muodostettiin hakulause, joka on jaettu kahteen ryhmään. Ensimmäiseen ryhmään valittiin asiasanat "IoT" ja "Internet of Things". Toiseksi ryhmäksi valittiin
+
+Agriculture
+Precision Agriculture
+Smart Agriculture
+Smart Farming
+Precision Farming
+Web of Things
+IoT applications
+Plant Production
+Agriculture technology
+Agricultural industry
+Agribusiness
+Agricultural products
+Agroindustry
+Big Data
+Greenhouses
+Smart Environments
+"Plant factories"
+Product Traceability
+Drones
+Cloud Computing
+Environmental monitoring
+Wireless Sensor Networks
+Sensor discovery
+Sensor integration
+Sensor-cloud
+Sensor-cloud for agricultural applications
+Equipment status
+"Telemetry"
+Telemetry applications
+Ubiquitous sensing
+Food production
+Horticulture
+Irrigation
+Crop
+Cereals
+Fruit
+Vegetable
+Climate
+Drought
+Farm
+Farming
+Feed production
+Fertilizers
+Flooding
+Forecast
+Fruit storage
+Harvesting
+Industrial
+Pest
+Plant
+Seed
+Water
+Weather
+
+Hakulausetta muokattiin kunkin tietokannan hakutoimintojen mukaan.
+
+
+Academic Search Elite (EBSCO)
+    Advanced Search
+        Hakulauseella
+(AB "Internet of Things" OR IoT) AND (AB agriculture OR AB "precision agriculture" OR AB "smart agriculture" OR AB "smart farming" OR AB "precision farming" OR AB "Plant Production" OR AB Greenhouses OR AB "Plant factories" OR AB "Food production" OR AB Horticulture OR AB Irrigation OR AB Crop OR AB Cereals OR AB Fruit OR AB Vegetable  OR AB Farm OR AB Farming)
+Rajattu: kokoteksti <24-04-2018  17:15>
+
+ACM Digital Library
+    Advanced Search
+        Hakulauseella
+recordAbstract:(+"Internet of Things" +agriculture) <25-04-2018  20:46>
+    
+Business Premium (ProQuest)
+    Advanced Search
+        Database: Science and Technology
+            Full text
+            Hakulauseella
+ab("internet of things") AND ab(agriculture) <25-04-2018  22:16>
+
+Dart
+    Hakulauseella
+        "Internet of Things" agriculture <25-04-2018  22:43>
+            5 hakutulosta
+
+Sage Journals Online (Sage Premier)
+    Advanced Search
+        Full access
+        Hakulauseella
+            [Abstract "internet of things"] AND [Abstract agriculture] <25-04-2018  23:26>
+            [Abstract "internet of things"] AND [Abstract greenhouse] <26-04-2018  08:32>
+            [Abstract "internet of things"] AND [All "vertical farming"]
+            [Abstract "internet of things"] AND [[Abstract agriculture] OR [Abstract "plant factory"] OR [Abstract "precision agriculture"] OR [Abstract "smart farming"] OR [Abstract "vertical farming"] OR [Abstract "plant factory"] OR [Abstract farm] OR [Abstract greenhouse]]
+
+Theseus
+    Koko Theseus
+        Hakulauseella
+("Internet of Things") AND (agriculture OR "plant factory" OR "precision agriculture" OR "smart farming" OR "vertical farming" OR "plant factory" OR farm OR greenhouse) <26-04-2018  13:19>
+                84 hakutulosta (kirjoitettaessa <13-08-2018  18:24> 104)
 
 #### Kirjallisuuskatsauksen aineistojen haun tulokset ja aineistojen valinta
+
+Aineistojen valinnassa: pitää käsitellä IoT:tä JA kasvintuotantoa; ei pelkästään teknologiaratkaisu, prioriteetti tieteellisillä julkaisuilla, sitten opinnäytetöillä, konferenssijulkaisuja vain jos tekijät ovat varteenotettavia ja luotettavia, sitten organisaatioiden omat julkaisut.
+
+*Missä vaiheessa löydettiin IoF2020? On käytössä <21-04-2018  23:29> ResearchGaten kautta.*
+Aaltodoc (https://aaltodoc.aalto.fi) 
+    Elovaara, Joona: Aggregating OPC UA Server for Remote Access to Agricultural Work Machines
+        Vain teknologiaratkaisu. Voi käyttää taustan mallina ja sis. k-kats.
+    Nikkilä, Raimo: Automated control of compliance with production standards in precision agriculture
+        Tuotantosäännöstöjen automaattinen valvonta täsmäviljelyssä, teknologiaratkaisuja: FMIS, sun muut
+Silmäilyn perusteella muut hakutulokset eivät käsittele kasvintuotannon IoT-ratkaisuja.
+
+Academic Search Elite (EBSCO)
+    9 hakutulosta
+        Silmäilyn perusteella valitut:
+            Lin: Research and Application Progress of Agricultural Big Data Technology and Resources. 
+                esimerkkejä Big Datan käytöstä maataloudessa.
+            Electronic Design: 3 Ways the IoT Revolutionizes Farming
+                karjanseuranta, täsmäviljely, itsenäiset traktorit
+            eWeek Preimesberger: IoT Platform Maker infiswift Aims to Modernize Farming
+                Alustatoimittaja, jolla on erikoistunut maatalouden IoT-alusta, muiden muassa.
+            Professional Engineering Blake: From the factory to the fields
+                Taustaa, peltorobotiikan kehitys per Bosh BoniRob, Autonomous Tractor Company: traktori oppii työstä, Panasonic: tomaatinpoimintarobotti
+            industryandbusiness.ca: Business re-imagined: IIoT is set to transform energy, agriculture
+                Taustaa, Accenturen Accenture Precision Agriculture Service, Accenture Connected Crop Solution (ks. muut Accenture-lähteet Evernotessa)
+            EI TÄTÄ: Lv: Construction of Cucumber Powdery Mildew Early Warning System...
+                Lämpötilan ja kosteuden mittaus, laskettu tautiennuste, ei aktuointia.
+
+ACM Digital Library
+    11 hakutulosta
+    Silmäilyn perusteella valittu:
+        Moisescu: Cyber physical systems based model-driven development for precision agriculture
+            Kuvaa maatalouden järjestelmien järjestelmän kompleksisuutta. Lähteissä ollutta IBM-artikkelia ei heti löydetty annetulla osoitteella, mutta IBM:llä on paljon maatalouteen liittyvää tutkimusta [https://www.ibm.com/search?lang=en&cc=us&q=agriculture] "Mello U., Lloyd Treinish, Precision agriculture Using predictive weather analytics to feed future generations, 2016 http://www.research.ibm.com/articles/precision_agriculture.shtml"
+
+Business Premium (ProQuest)
+    2 hakutulosta
+    Silmäilyn perusteella valittu:
+        Helios Wire to Launch Satellite-Enabled Machine to Machine (M2M) Connectivity to Democratize the Internet of Things (IoT)
+            Uutinen, sateliitti kapean kaistanleveyden IoT & M2M -ratkaisuille
+
+Sage Journals Online (Sage Premier)
+    yht. 19 hakutulosta
+Hakutulokset eivät käsittele kasvintuotannon IoT:tä yleisellä tasolla, vaan keskittyvät tiettyihin teknologioihin. Osa käsittelee vain tiettyä teknologiaa kasvintuotannon IoT:ssä ja osa ei käsittele kasvintuotannon IoT-ratkaisuja.
+
+Theseus
+    84 hakutulosta
+        Silmäilyn perusteella valittu:
+            Riikonen: Big data päätöksenteon apuvälineenä kasvinviljelytilalla
+                Tiedoilla mahd. arvioida tilan onnistumista, datan omistajuus, analyysi Agronet-keskusteluista: pinnallista ja enemmän kiinnostaa satelliittikuvaus ISOBUS paikkatieto, paremmat katelaskelmat, ympäristövaikutusarviointi, vaatii politiikkaa testausta pilotointia, heikot mahdollisuudet, tiedonjako voimavaraksi.
+            Laajalahti: Alkutuotannon kyberjohtamisen toimintaympäristö
+                Tämä on mukana jo aikaisemmin hankituissa materiaaleissa.
 
 #### MAHD. Kirjallisuuskatsauksen aineiston analyysimenetelmä
 
