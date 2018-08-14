@@ -1161,8 +1161,9 @@ Haettu AGRIS-haulla (http://agris.fao.org/agris-search/index.do)  <08-07-2018>
 		JesÃºs MartÃ­n et al. [2017]
 			[http://agris.fao.org/agris-search/search.do?recordID=US201800010900]
 		**Management and control applications in Agriculture domain via a Future Internet Business-to-Business platform**
-		(Ei kirjoittajaa?)
+		Barmpounakis
 			[http://agris.fao.org/agris-search/search.do?recordID=CN2016100023]
+			Tausta on hyvä. Esitelty arkkitehtuuri.
 		**Modelling the smart farm**
 		O'Grady, O'Hare
 			[https://ezproxy.haaga-helia.fi:3248/science/article/pii/S2214317316301287]

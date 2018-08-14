@@ -531,6 +531,23 @@ Theseus
             Laajalahti: Alkutuotannon kyberjohtamisen toimintaympäristö
                 Tämä on mukana jo aikaisemmin hankituissa materiaaleissa.
 
+FAO Agris
+   Haettu AGRIS-haulla (http://agris.fao.org/agris-search/index.do)  <08-07-2018>
+    Hakulause:
+        internet of things
+        (valittu AGROVOC descriptor "internet of things")
+    Löydetty:
+        Valittu otsikon, asiananojen, julkaisuvuoden ja abstraktin ensimmäisten lauseiden mukaan 
+
+FAO AGP-haku
+    Haettu AGP-sivujen custom Google-haulla <13-07-2018  16:07>
+    Hakulause:
+        Internet of things
+    Löydetty:
+        Hakutuloksia: about 6510 results
+
+
+        
 #### MAHD. Kirjallisuuskatsauksen aineiston analyysimenetelmä
 
 *Tarvitaanko kuvailevasta kirjallisuuskatsausksesta Aineiston analyysimenetelmä -kappaletta?*
