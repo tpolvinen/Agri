@@ -1049,44 +1049,54 @@ Haettu AGP-sivujen custom Google-haulla <13-07-2018  16:07>
                     Abstractista: "...PA methods promise to increase the quantity and quality of agricultural output while using less input (water, energy, fertilisers, pesticides, etc.). The aim is to save costs, reduce environmental impact and produce more and better food. The methods of PA rely mainly upon a combination of new sensor technologies, satellite navigation and positioning technology, and the Internet of Things. PA has been making its way into farms across Europe and is increasingly assisting farmers in their work."
 
 
-## Kirjallisuus:
+## Kirjat:
 
-* Internet of things: Principles and paradigms
-* Industry 4.0: The industrial internet of things 
-* Internet of Things - Global Technological and Societal Trends
+* Buyya 2016: Internet of things: Principles and paradigms
+* Gilchrist 2016: Industry 4.0: The industrial internet of things
+* Vermesan 2011: Internet of Things - Global Technological and Societal Trends
+* Fantana 2013: Internet of Things - Converging Technologies for Smart Environments and Integrated Ecosystems
 
 ## Kirjallisuuskatsaukset:
 
-* Atzori: The Internet of Things: A survey 2010
-* Talavera: Review of IoT applications in agro-industrial and environmental fields
-* Verdouw: Internet of Things in agriculture
-* Madakam: Internet of Things (IoT): A Literature Review
-* Kamilaris: A review on the practice of big data analysis in agriculture
-* Wolfert: Big Data in Smart Farming – A review
-* Xu: Internet of Things in Industries: A Survey
-* Rose: The Internet of Things (IoT): An Overview
+* Wolfert 2017 3.0: Big Data in Smart Farming – A review *(ei IoT asiasanaa)*
+* Talavera 2017 2.14: Review of IoT applications in agro-industrial and environmental fields
+* Tzounis 2017 2.1: Internet of Things in agriculture, recent advances and future challenges
+* Kamilaris 2017 1.14: A review on the practice of big data analysis in agriculture *(ei IoT asiasanaa)*
+* Atzori 2010 2.5: The Internet of Things: A survey *(ei agriculture asiasanaa)*
+* Verdouw 2016: Internet of Things in agriculture *(ei IoT asiasanaa) >:)*
+* Madakam 2015 1.14: Internet of Things (IoT): A Literature Review *(ei agriculture asiasanaa)*
+* Xu 2014 5.4: Internet of Things in Industries: A Survey *(ei agriculture asiasanaa)*
+* Rose 2015: The Internet of Things (IoT): An Overview
 
-## Katsaukset:
+## Teknologiakatsaukset:
 
-* Tzounis: Internet of Things in agriculture, recent advances and future challenges 2017
-* Pivoto: Scientific development of smart farming technologies and their application in Brazil
-* Farooq: A Review on Internet of Things (IoT) 2015
+* Bochtis 2014: Advances in agricultural machinery management A review
+* Gubbi 2013: Internet of Things (IoT)/ A Vision, Architectural Elements, and Future Directions
+* Ojha 2015: Wireless sensor networks for agriculture-The state-of-the-art in practice and future challenges
 
-* Gubbi: Internet of Things (IoT): A vision, architectural elements, and future directions 2013
-* Shaikh: Enabling Technologies for Green Internet of Things 2017
-* Khodadadi: Internet of Things: An Overview
-* Bo: The Application of Cloud Computing and the Internet of Things in Agriculture and Forestry
-* Sundmaeker: Vision and Challenges for Realizing the Internet of Things
-* Dlodlo: The internet of things in agriculture for sustainable rural development (2015)
-* Stočes: Internet of things (iot) in agriculture-selected aspects 2016
-* Motlagh: Low-Altitude Unmanned Aerial Vehicles-Based Internet of Things Services: Comprehensive Survey and Future Perspectives 2016
-* Fahran: A survey on the challenges and opportunities of the Internet of Things (IoT) 2017
-* Fantana: Internet of Things - Converging Technologies for Smart Environments and Integrated Ecosystems 2013
-* Sreekantha: Agricultural Crop Monitoring  using IOT- A Study 2017
+* Tzounis 2017: Internet of Things in agriculture, recent advances and future challenges
+* Pivoto 2018: Scientific development of smart farming technologies and their application in Brazil
+* Farooq 2015: A Review on Internet of Things (IoT)
 
-* Fountas: Farm management information systems: Current situation and future perspectives
-* Fountas: Farm machinery management information system
-* Kaloxylos: The Use of Future Internet Technologies in the Agriculture and Food Sectors: Integrating the Supply Chain
+* Shaikh 2017: Enabling Technologies for Green Internet of Things
+* Khodadadi 2017: Internet of Things: An Overview
+* Bo 2011: *conference* The Application of Cloud Computing and the Internet of Things in Agriculture and Forestry
+* Sundmaeker 2011: Vision and Challenges for Realizing the Internet of Things
+* Dlodlo 2015: *conference* The internet of things in agriculture for sustainable rural development
+* Stočes 2016: Internet of things (iot) in agriculture-selected aspects 2016
+* Motlagh 2016: Low-Altitude Unmanned Aerial Vehicles-Based Internet of Things Services: Comprehensive Survey and Future Perspectives 2016
+* Fahran 2017: *conference* A survey on the challenges and opportunities of the Internet of Things (IoT)
+* Fantana 2013: Internet of Things - Converging Technologies for Smart Environments and Integrated Ecosystems
+* Sreekantha 2017: *conference* Agricultural Crop Monitoring  using IOT- A Study
+* Fountas 2015: Farm management information systems: Current situation and future perspectives
+* Fountas 2015: Farm machinery management information system
+* Kaloxylos 2013: *conference* The Use of Future Internet Technologies in the Agriculture and Food Sectors: Integrating the Supply Chain
+
+## Teknologiatutkimukset
+
+* Kruize 2016: A reference architecture for Farm Software Ecosystems
+
+
 
 ## Järjestöjen julkaisut
 
@@ -1123,8 +1133,22 @@ Haettu AGP-sivujen custom Google-haulla <13-07-2018  16:07>
 **The research of IOT of agriculture based on three layers architecture**
                 Fu Bing 2016-10-22
                     [https://ieeexplore.ieee.org/document/7868325/?part=1]
+
+
 ## Kaupalliset tuotteet ja julkaisut
-...
+
+Valtra / AGCO
+IBM
+Intel
+Accenture
+CEMA
+365FarmNet https://www.365farmnet.com/en/
+
+Uusia <11-05-2018  16:27>  
+    John Deere Precision Planting
+    Oracle
+
+SST Software
 
 ## Ei otettu mukaan
 
@@ -1143,3 +1167,5 @@ Haettu AGP-sivujen custom Google-haulla <13-07-2018  16:07>
     Lawson et al. (Pesonen)
         *Ei pääsyä?*
         [https://ezproxy.haaga-helia.fi:3248/science/article/pii/S0168169911000639]
+
+

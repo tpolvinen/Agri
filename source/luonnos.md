@@ -305,8 +305,12 @@ Näiden lisäksi käytettiin Google Scholar -hakukonetta (https://scholar.google
 Hakulauseissa käytettiin keskeisinä hakusanoina: "IoT", "Internet of Things", "Agriculture", "Precision Farming", "Smart Farming". Hakulauseita laajennettiin mahdollisuuksien mukaan kunkin tietokannan hakutoimintojen rajoissa.
 
 
-*Tiedostosta asiasanat.md*
 ##### Asiasanojen valintaperusteet
+
+*per @talaveraReviewIoTApplications2017 Muistiinpanoja.md r67*
+*katso mallia muista oppareista kans!*
+
+
 
 Asiasanojen valinnassa käytettiin vain englanninkielisiä sanoja, koska suomenkielisten aineistojen arvellaan käyttävän sekä suomen- että englanninkielisiä asiasanoja ja löytyvän niiden avulla.
 
@@ -328,59 +332,6 @@ Samoin pois jätettiin asiasanat, jotka eivät selkeästi liity kasvintuotannon 
     Smart Farming
 
 **Artikkelien hakuun** käytettiin kirjallisuuskatsausten hakulauseissa käytettyjä hakusanoja, joista valittiin arviolta keskeisimmät kasvintuotannon IoT-ratkaisuiden näkökulmasta. Näihin lisättiin muissa aikaisemmissa vaiheissa löydetyt asiasanat, joiden arvioitiin mahdollisesti parantavan hakutulosten kattavuutta:
-Agribusiness
-Agricultural industry
-Agricultural products
-Agriculture
-Agriculture technology
-Agroindustry
-Big Data
-Cereals
-Climate
-Cloud Computing
-Crop
-Drones
-Drought
-Environmental monitoring
-Equipment status
-Farm
-Farming
-Feed production
-Fertilizers
-Flooding
-Food production
-Forecast
-Fruit
-Fruit storage
-Greenhouses
-Harvesting
-Horticulture
-Industrial
-Internet of things
-IoT
-IoT applications
-Irrigation
-Pest
-Plant
-Plant Production
-Precision Agriculture
-Precision Farming
-Product Traceability
-Seed
-Sensor discovery
-Sensor integration
-Sensor-cloud
-Sensor-cloud for agricultural applications
-Smart Agriculture
-Smart Environments
-Smart Farming
-Telemetry applications
-Ubiquitous sensing
-Vegetable
-Water
-Weather
-Web of Things
-Wireless Sensor Networks
 
 Asiasanoista muodostettiin hakulause, joka on jaettu kahteen ryhmään. Ensimmäiseen ryhmään valittiin asiasanat "IoT" ja "Internet of Things". Toiseksi ryhmäksi valittiin
 
@@ -547,7 +498,7 @@ FAO AGP-haku
         Hakutuloksia: about 6510 results
 
 
-        
+
 #### MAHD. Kirjallisuuskatsauksen aineiston analyysimenetelmä
 
 *Tarvitaanko kuvailevasta kirjallisuuskatsausksesta Aineiston analyysimenetelmä -kappaletta?*
