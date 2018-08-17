@@ -1457,7 +1457,7 @@ Tuloksissa:
 	*Langattomien verkkojen kehitys, IoT ja **tietotekniikan resurssipalvelut** (cloud computing) ovat olennaisesti ainoat tavat hankkia ja tuottaa Big Dataa.*
 
 Table 2 
-	Smart Farmingin ja Big Datan edistäviä tekijöitä
+	Smart Farmingin ja Big Datan edistäviä tekijöitä, PUSH
 		Yleiset teknologiset kehitykset:
 			IoT ja dataperustaiset teknologiat
 			Täsmäviljely
@@ -1476,7 +1476,7 @@ Table 2
 			etänä avustettu päätöksenteko, neuvonta
 			alueellinen kerätty data tutkimus- ja neuvontakäyttöön
 			viljelijöiden nettikaupat
-	Smart Farmingin ja Big Datan edistäviä tekijöitä
+	Smart Farmingin ja Big Datan edistäviä tekijöitä, PULL
 		Liiketoimintalähtöiset vetäjät
 			tehokkuuden parantaminen joko paremmalla markkinahinnalla tai alemmalla tuotantohinnalla
 			hallinnoinnin ja päätöksenteon parantaminen

@@ -1057,13 +1057,14 @@ Haettu AGP-sivujen custom Google-haulla <13-07-2018  16:07>
 * Fantana 2013: Internet of Things - Converging Technologies for Smart Environments and Integrated Ecosystems
 
 ## Kirjallisuuskatsaukset:
-
-* Wolfert 2017 3.0: Big Data in Smart Farming – A review *(ei IoT asiasanaa)*
 * Talavera 2017 2.14: Review of IoT applications in agro-industrial and environmental fields
 * Tzounis 2017 2.1: Internet of Things in agriculture, recent advances and future challenges
-* Kamilaris 2017 1.14: A review on the practice of big data analysis in agriculture *(ei IoT asiasanaa)*
-* Atzori 2010 2.5: The Internet of Things: A survey *(ei agriculture asiasanaa)*
 * Verdouw 2016: Internet of Things in agriculture *(ei IoT asiasanaa) >:)*
+
+* Wolfert 2017 3.0: Big Data in Smart Farming – A review *(ei IoT asiasanaa)*
+* Kamilaris 2017 1.14: A review on the practice of big data analysis in agriculture *(ei IoT asiasanaa)*
+
+* Atzori 2010 2.5: The Internet of Things: A survey *(ei agriculture asiasanaa)*
 * Madakam 2015 1.14: Internet of Things (IoT): A Literature Review *(ei agriculture asiasanaa)*
 * Xu 2014 5.4: Internet of Things in Industries: A Survey *(ei agriculture asiasanaa)*
 * Rose 2015: The Internet of Things (IoT): An Overview
@@ -1074,7 +1075,6 @@ Haettu AGP-sivujen custom Google-haulla <13-07-2018  16:07>
 * Gubbi 2013: Internet of Things (IoT)/ A Vision, Architectural Elements, and Future Directions
 * Ojha 2015: Wireless sensor networks for agriculture-The state-of-the-art in practice and future challenges
 
-* Tzounis 2017: Internet of Things in agriculture, recent advances and future challenges
 * Pivoto 2018: Scientific development of smart farming technologies and their application in Brazil
 * Farooq 2015: A Review on Internet of Things (IoT)
 
@@ -1083,8 +1083,8 @@ Haettu AGP-sivujen custom Google-haulla <13-07-2018  16:07>
 * Bo 2011: *conference* The Application of Cloud Computing and the Internet of Things in Agriculture and Forestry
 * Sundmaeker 2011: Vision and Challenges for Realizing the Internet of Things
 * Dlodlo 2015: *conference* The internet of things in agriculture for sustainable rural development
-* Stočes 2016: Internet of things (iot) in agriculture-selected aspects 2016
-* Motlagh 2016: Low-Altitude Unmanned Aerial Vehicles-Based Internet of Things Services: Comprehensive Survey and Future Perspectives 2016
+* Stočes 2016: Internet of things (iot) in agriculture-selected aspects
+* Motlagh 2016: Low-Altitude Unmanned Aerial Vehicles-Based Internet of Things Services: Comprehensive Survey and Future Perspectives
 * Fahran 2017: *conference* A survey on the challenges and opportunities of the Internet of Things (IoT)
 * Fantana 2013: Internet of Things - Converging Technologies for Smart Environments and Integrated Ecosystems
 * Sreekantha 2017: *conference* Agricultural Crop Monitoring  using IOT- A Study
