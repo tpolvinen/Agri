@@ -1499,18 +1499,32 @@ Table 2
 	Useita erilaisia hankkeita avoimien alustajärjestelmien, IoT-palveluiden, data-analytiikan, resurssipalveluiden, sovellusten jne. kehittämiseksi on meneillään, mutta tuloksista on liian aikaista sanoa mitään.
 4.5. Challenges
 	*Kirjallisuudesta havaitut haasteet voi luokitella teknisiin ja organisatorisiin. Suurin osa teknisistä haasteista selvitetään jos voidaan luoda tarpeeksi liiketoimintamahdollisuuksia, jolloin tulee olla selkeä ROI. Haasteena on tehdä ratkaisuista tarpeeksi edullisia viljelijöille, erityisesti kehittyvissä maissa.*
-5. Conclusions and recommendations
-	Ei löydetty suurta määrää julkaisuja (references) vertaisarvioiduissa tieteellisissä julkaisuissa. -> Luotettava määrällinen analyysi ei ollut mahdollinen.
-	Vaikka harmaan kirjallisuuden artikkelit eivät ole yhtä luotettavia, niiden voidaan katsoa olevan julkisen tarkastelun alaisia ja näin ollen kohtuullisen luotettavia. Mielestämme harmaan kirjallisuuden aineisto rikastutti tietopohjaa. 
-	"First of all, Big Data in Smart Farming is still in an early development stage"
-	Käsitellyt sovellukset pääasiassa Pohjois-Amerikasta ja Euroopasta.
-	"The Internet of Things development, wirelessly connecting all kind of objects and devices in farming and the supply chain, is producing many new data that are real-time accessible. This applies to all stages in the cyber-physical management cycle (Fig. 1)"
-	"Operations and transactions are most important sources of process-mediated data. Sensors and robots producing also non-traditional data such as images and videos provide many machine-generated data. These big amounts of data provide access to explicit information and decisionmaking capabilities at a level that was not possible before. Analytics is key success factor to create value out of these data. Many new and innovative start-up companies are eager to sell and deploy all kind of applications to farmers of which the most important ones are related to sensor deployment, benchmarking, predictive modelling and risk management."
-	"Most of them are pushing their own platforms and solutions to farmers, which are often proprietary and rather closed environments although a tendency towards more openness is observed. This is stimulated by farmers - organized in cooperatives or coalitions - that are concerned about data privacy and security and also want to create value with their own data or at least want to benefit from Big Data solutions. Beside the traditional players we see that Big Data is also attracting many new entrants which are often start-ups supported by either large private investors or large ICT or non-agricultural tech companies. Also public institutions aim to open up public data that can be combined with private data."
-	"The architecture and infrastructure of Big Data solutions are also significantly determining how stakeholder networks are organized. On the one hand there is a tendency towards closed, proprietary systems and on the other hand towards more open systems based on open source, standards and interfaces. Further development of Big Data applications may therefore likely result in two extremes of supply chain scenarios: one with further integration of the supply chain in which farmers become franchisers; another in which farmers are empowered by Big Data and open collaboration and can easily switch between suppliers, share data with government and participate in short supply chains rather than integrated long supply chains. In reality, the situation will be a continuum between these two extremes differentiated by crop, commodity, market structure, etc"
-	"Business analytics at a scale and speed that was never seen before will be a real game changer, continuously reinventing new business models."
-	"it can be expected that farm management and operations will drastically change by access to real-time data, real-time forecasting and tracking of physical items and in combination with IoT developments in further automation and autonomous operation of the farm."
 
+5. Conclusions and recommendations
+
+Ei löydetty suurta määrää julkaisuja (references) vertaisarvioiduissa tieteellisissä julkaisuissa. -> Luotettava määrällinen analyysi ei ollut mahdollinen.
+Vaikka harmaan kirjallisuuden artikkelit eivät ole yhtä luotettavia, niiden voidaan katsoa olevan julkisen tarkastelun alaisia ja näin ollen kohtuullisen luotettavia. Mielestämme harmaan kirjallisuuden aineisto rikastutti tietopohjaa. 
+Big Datan käyttö Smart Farmingin yhteydessä on vielä aikaisessa kehitysvaiheessa.
+Big Datan käsitellyt sovellukset pääasiassa Pohjois-Amerikasta ja Euroopasta.
+IoTn kehittyminen, maataloustuotannon ja tuotantoketjun laitteiden langaton yhdistäminen (connecting) tuottaa uutta tosiaikaisesti saatavilla olevaa dataa.
+Prosessien tuottaman datasta tärkeimmät lähteet ovat operaatiot ja transaktiot (!?). Lisäksi sensorit ja robotit tuottavat konetuotettua dataa muun muassa kuvantamisdatan muodossa. Suuret datamäärät mahdollistavat pääsyn eksplisiittiseen tietoon ja päätöksenteon mahdollisuuksiin, jotka eivät aikaisemmin olleet mahdollisia.
+Analytiikka on avainasemassa arvon tuottamisen onnistumiselle tästä datasta.
+Useat innovatiiviset kasvuyritykset ovat innokkaasti myymässä ja asentamassa monenlaisia sovelluksia viljelijöiden käyttöön.
+Tärkeimmät sovellukset liittyvät sensoreiden käyttöönottoon, vertailuanalyyseihin (benchmarking), ennustavaan mallinnukseen ja riskienhallintaan.
+Suurin osa maatalousalan suuryrityksistä markkinoivat viljelijöille omia alustapalveluitaan ja ratkaisujaan, jotka ovat arkkitehtuuriltaan usein hyvin suljettuja ratkaisuita. 
+Kuitenkin on havaittavissa muutoksia avoimempiin ratkaisuihin.
+Avoimempiin ratkaisuihin siirtymistä edistävät osakuntiin tai koalitioihin järjestäytyneet viljelijät, jotka ovat huolestuneet datan yksityisyydestä ja turvallisuudesta, mutta jotka haluavat myös tuottaa arvoa oman datansa avulla tai ainakin hyötyä Big Datan sovelluksista.
+Maatalousalan markkinoille on ilmestynyt suurten yksityisten investoijien tai suurten ICT-alan yritysten rahoittamia kasvuyrityksiä perinteisten maatalousalan yritysten rinnalle. Lisäksi julkiset laitokset pyrkivät avaamaan julkista dataa käytettäväksi yhdessä yksityisen datan kanssa.
+Big Dataa käsittelevät arkkitehtuuri- ja infrastruktuuriratkaisut määrittelevät huomattavasti sidosryhmäverkostojen muodostumista.
+Yhtäällä on taipumus suljettuihin järjestelmiin, toisaalla pyrkimys avoimempiin, avoimien lähdekoodin, standardien ja rajapintojen käyttöön.
+Big Datan sovellusten jatkokehitys voi johtaa kahden ääritapauksen kehittymiseen: yhdessä suljetut järjestelmät integroituvat vielä tiukemmin ja viljelijöistä tulee franchising-yrittäjien kaltaisia toimijoita ja toisessa viljelijötä voimaannuttavat Big Data -sovellukset ja avoin yhteistoiminta, jolloin he voivat vaivattomasti vaihtaa laitetoimittajia, jakaa dataa julkisen sektorin toimijoiden kanssa ja olla osallisina lyhyissä tuotantoketjuissa, ennemmin kuin integroitua pitkiin tuotantoketjuihin. 
+Todellisuudessa tilanne tulee olemaan jatkumo kahden ääritapauksen välillä ja tapauksia ohjaavat markkinarakenteet, perushyödykkeet, satokasvit jne.
+Liiketoiminnan analytiikka aikaisempaa suuremmassa mittakaavassa ja suuremmalla nopeudella tulevat merkittävästi muuttamaan liiketoimintaa ja edistämään jatkuvasti uudenlaisen liiketoimintamallien kehittämistä.
+Pääsy tosiaikaiseen dataan, tosiaikaiset ennusteet, fyysisten esineiden seuranta yhdessä IoT-kehityksen kanssa maatalousautomaatiossa ja autonomisesti toteutettavissa toiminnoissa tulee muuttamaan maatilan hallintaa ja maatilan toimintaa huomattavalla tavalla
+
+
+### Talavera 2017 2.14: Review of IoT applications in agro-industrial and environmental fields
+talaveraReviewIoTApplications2017
 
 
 
