@@ -184,12 +184,56 @@ Ei käsitellä.
 
 ## Food supply chain tracking
 
+Moderni maatalous on tyypillisesti yhä teollisempaa.
+Ruoan turvallisuuden ja laadun takaamiseksi standardisointimekanismeja on otettava käyttöön jokaisessa tuotannon vaiheessa.
+Tämän tarve on kasvattanut yleistä kiinnostusta ruokaketjun jäljitettävyysjärjestelmiä kohtaan.
+IoT-teknologiat tarjoavat tätä varten useita tarvittavia työkaluja tällaisen infrastruktuurin ja palveluiden rakentamiseen ja ylläpitoon.
+Tarkastellussa kirjallisuudessa ratkaisut keskittyvät joko ruoan tuotantoketjun liiketoiminnan puoleen tai teknologioihin. Muutamat julkaisut pyrkivät esittämään ratkaisuita molempien puolien kattamiseen.
+Ruoan tuotantoketjun yleisin IoT-teknologia on RFID-tunniste, joiden avulla voidaan seurata maatalouden tuotteita.
+IoT-paradigman mukaan viime aikaisissa tutkimuksissa on yhdistetty useita sensoreita rikastamaan kerättävää tietoa tuotteen tilasta aina kun tuotteen RFID luetaan ja tallennetaan. (2)
+IoT:n yleiseen luonteeseen kuuluu ratkaisujen hajautuneisuus sekä asynkroninen ja heterogeeninen tietovirta. Tämän takia ruoan tuotantoketjun palveluissa nimeäminen on kriittisen tärkeää tiedon tarkalle ja nopealle löytämiselle. (1)
+IoT-infrastruktuurin toteutuminen johtaa tuotantoketjujen virtualisointiin, koska fyysinen läheisyys ei enää ole tarpeellista. *(Verdouw et al., 2013)*.
+Tarkastellussa kirjallisuudessa on mallinnuksien avulla analysoitu ruoan tuotantoketjujen ongelmia ja pyritty ratkaisemaan niitä IoT-teknologioiden avulla. (2)
+IoT:ssä sovellettavien useiden teknologioiden kehitys yhdistettynä niiden kestävyyden parantumiseen sekä kypsyyteen IoT:ssä on antanut tutkijoille mahdollisuuden kehittää kokonaisia järjestelmiä joissa käytetään sensorimoduleita ja ohjelmistoinfrastruktuureita.
+Ohjelmistot ovat (hosted) resurssipalvelussa tai jaettu sidosryhmien kesken.
+Kokonaiset järjestelmät tarjoavat automatisoituja palveluita (intelligent schemes?) ja automatisoitua perustelua (reasoning) perustuen mitattuun ilmiöön ja keinoälyyn. (3)
+Muut julkaisut lähestyvät ruoan tuotantoketjujärjestelmän tiedonhallintajärjestelmän organisointiin (1) tai miten suunnitella järjestelmä taloudellisen tuoton maksimoimiseksi (1).
+
+## Internet of Things middleware and interoperability
 
 
 
+## Multi-layer deployments and commercial solutions
 
 
 
+# Discussion
+
+## Internet of Things hardware & software challenges in agriculture 
+
+
+
+## Organisational challenges & interoperability
+
+
+
+## Networking challenges
+
+
+
+## Security challenges
+
+
+
+## Stack challenges
+
+
+
+## Potential value of IoT in agriculture
+
+
+
+# Conclusion
 
 
 
