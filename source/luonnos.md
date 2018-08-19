@@ -51,6 +51,7 @@ Tässä opinnäytetyössä käytetään lähdeviittausten tyylinä Södertörns 
 # SANASTO
 
 satotasomittaus
+pilvipalvelu: tietojenkäsittelyn resurssipalvelu
 
 # JOHDANTO
 

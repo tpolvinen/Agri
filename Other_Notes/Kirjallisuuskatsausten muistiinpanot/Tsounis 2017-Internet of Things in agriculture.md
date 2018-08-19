@@ -188,24 +188,73 @@ Moderni maatalous on tyypillisesti yhä teollisempaa.
 Ruoan turvallisuuden ja laadun takaamiseksi standardisointimekanismeja on otettava käyttöön jokaisessa tuotannon vaiheessa.
 Tämän tarve on kasvattanut yleistä kiinnostusta ruokaketjun jäljitettävyysjärjestelmiä kohtaan.
 IoT-teknologiat tarjoavat tätä varten useita tarvittavia työkaluja tällaisen infrastruktuurin ja palveluiden rakentamiseen ja ylläpitoon.
+
 Tarkastellussa kirjallisuudessa ratkaisut keskittyvät joko ruoan tuotantoketjun liiketoiminnan puoleen tai teknologioihin. Muutamat julkaisut pyrkivät esittämään ratkaisuita molempien puolien kattamiseen.
+
 Ruoan tuotantoketjun yleisin IoT-teknologia on RFID-tunniste, joiden avulla voidaan seurata maatalouden tuotteita.
+
 IoT-paradigman mukaan viime aikaisissa tutkimuksissa on yhdistetty useita sensoreita rikastamaan kerättävää tietoa tuotteen tilasta aina kun tuotteen RFID luetaan ja tallennetaan. (2)
+
 IoT:n yleiseen luonteeseen kuuluu ratkaisujen hajautuneisuus sekä asynkroninen ja heterogeeninen tietovirta. Tämän takia ruoan tuotantoketjun palveluissa nimeäminen on kriittisen tärkeää tiedon tarkalle ja nopealle löytämiselle. (1)
+
 IoT-infrastruktuurin toteutuminen johtaa tuotantoketjujen virtualisointiin, koska fyysinen läheisyys ei enää ole tarpeellista. *(Verdouw et al., 2013)*.
 Tarkastellussa kirjallisuudessa on mallinnuksien avulla analysoitu ruoan tuotantoketjujen ongelmia ja pyritty ratkaisemaan niitä IoT-teknologioiden avulla. (2)
+
 IoT:ssä sovellettavien useiden teknologioiden kehitys yhdistettynä niiden kestävyyden parantumiseen sekä kypsyyteen IoT:ssä on antanut tutkijoille mahdollisuuden kehittää kokonaisia järjestelmiä joissa käytetään sensorimoduleita ja ohjelmistoinfrastruktuureita.
 Ohjelmistot ovat (hosted) resurssipalvelussa tai jaettu sidosryhmien kesken.
 Kokonaiset järjestelmät tarjoavat automatisoituja palveluita (intelligent schemes?) ja automatisoitua perustelua (reasoning) perustuen mitattuun ilmiöön ja keinoälyyn. (3)
+
 Muut julkaisut lähestyvät ruoan tuotantoketjujärjestelmän tiedonhallintajärjestelmän organisointiin (1) tai miten suunnitella järjestelmä taloudellisen tuoton maksimoimiseksi (1).
 
 ## Internet of Things middleware and interoperability
 
+Yhteentoimivuus kaikilla tasoilla on avainkonsepti kehittyvässä IoT-maailmassa.
+Väliohjelmistojen avulla pyritään mahdollistamaan yhteentoimivuus.
 
+Modernista maataloudesta on kehittynyt erittäin tehokas (highly intensive) teollisuudenala, joka on kasvanut/laajentunut yksittäisten viljelijöiden tasolta kansainvälisiin organisaatioihin. 
+Tämän takia: maatalouden IoT-tutkimuksesta löytyy kirjallisuutta kaikista yhteentoimivuuden puolista (aspect): tekninen, syntaktinen, semanttinen, organisatorinen.
+
+Tekninen yhteentoimivuudella pyritään laitteiden ja järjestelmien väliseen (M2M) saumattomaan tiedonvälitykseen.
+    Tekninen yhteentoimivuus on perustava, alimman tason yhteentoimivuus jonka järjestelmien tulee toteuttaa.
+
+Syntaktinen yhteentoimivuus liittyy tietomuotoihin (data format), keskeisesti järjestelmien välisten viestien syntaksiin ja tietomuotoihin (taulukot, html, xml). 
+    Korkeammalla tasolla järjestelmien välinen syntaktinen yhteentoimivuus tulee toteuttaa geneerisemmillä, ymmärrettävillä ja ihmisen luettavilla viesteillä.
+
+Semanttinen yhteentoimivuus voi tuoda lisäarvoa erityisesti loppukäyttäjille sen liittyessä ihmisen tulkintaan ja ymmärrykseen järjestelmän tuottamasta sisällöstä.
+    Semanttinen yhteentoimivuus tekee teknologioista helpommin ymmärrettäviä (2). Semanttista yhteentoimivuutta lisääville väliohjelmistoille on antanut lisäarvoa uusien teknologioiden kuten täsmäviljelyn ja IoT:n käyttöönotto maataloudessa, joka on toiminut perinteisen alkutuotannon alan menetelmillä.
+    Tietämyksen kerääminen on toinen semanttisen yhteentoimivuuden ominaisuus, jonka avulla datavirrat voidaan organisoida ja syntetisoida, helpottaen maatalouden päätöksentekoa (2).
+
+Organisatorinen yhteentoimivuus on tärkeää skaalautuvuuden kannalta. Maailmanlaajuisten hajautettujen IoT-infrastruktuurien menestyksen avain on kyky tehokkaaseen kommunikointiin ja merkityksellisen tiedon siirtoon hyvin monimuotoisten järjestelmien ja/tai maantieteellisten alueiden ylitse. *(Serrano et al., 2015)*.
+    Organisatorista yhteentoimivuutta on tutkittu silmälläpitäen yhteistoiminnan laajentamista suuriin kansallisiin tai kansainvälisiin yhteistoiminnan (cooperative deployments?) (2).
+
+Saumattoman yhteistoiminnan tuottaminen antaa useita etuja aina tekniseltä tasolta (laadun parantaminen tarkkailussa, päätöksenteko- ja järjestelmissä automaattisen tiedonvälityksen avulla koneoppimista hyödyntävien järjestelmien välillä) aina liiketoiminnan tasolle, sopeuttamalla tuotteihen myyntihintoja markkinatilanteen mukaan.
 
 ## Multi-layer deployments and commercial solutions
 
+IoT antaa mahdollisuuden yhteentoimivuuteen järjestelmien ja organisaatioiden välillä.
+IoT helpottaa järjestelmien yhteenkytkemistä, jotka liittyvät tuotteen käsittelyyn sen elinkaaren eri vaiheissa. Useissa tutkimuksissa on esitetty järjestelmiä jotka integroivat useita alustoja jotka tarkkailevat, kontrollovat ja seuraavat maatalouden tuotteita.
 
+Yhdistetään sekä viljelyn tuotannon hallita, kaupankäynti ja tuotantoketjun tarkkailu (esim. Fu 2012, melonit ja hedelmät, luomutuotteet).
+
+IoT:n konsepteja ja teknologioita on otettu käyttöön tuotteiden logistiikan (kuljetus ja varastointi) useissa osissa.
+Aina viljelijästä tukkumyyntiin ja kuluttajalle asti, 
+sadonkorjuun jälkeisen prosessoinnin optimoinnista varastojen tarkailuun ja hallintaan, 
+kontrolloiduista kuljetuskonteista kuljetus-UA-laiteparviin, autonomisiin rekkoihin ja laivoihin. 
+
+IoT-sovellukset edistävät tulevaisuuden muutoksia.
+
+Useat yritykset ovat tuotteissaan siirtyneet kohti ratkaisuita joko
+järjestelmä- tai palveluratkaisuina jotka sisältävät laitteet tarkkailua/seurantaa varten. 
+Kaikissa näissä resurssipalveluperustaiset (pilvipohjaiset) ohjelmistot suorittavat data-analytiikan ja tarjoavat neuvoja, varoituksia tai laiteiston käyttö(kontrolli)signaaleita. 
+
+Tuotteissa ei keskitytä vain suuren mittakaavan tuotantoon, vaan mukana on myös koti- ja yksilötuotannon ratkaisuita. (Bitponics, Platlink, Growtronix) (kasvihuoneisiin Sensaphone, Monnit, GetSenso)
+Ratkaisuilla pyritään optimoimaan kasvihuoneen ilmasto ja minimoimaan sadonmenetyksen riski.
+
+Fieldclimate näyttää tarjoavan alustallaan toimivat sekä laitteet (sääasemat, sensorilaitteet) että pilvipohjaisen ohjelmistoratkaisun (sääennusteet, kastelun hallinta, tautimallit jne.).
+
+CropX:n peltosensorit mittaavat kosteutta ja lämpötilaa, lataavat mittausdatan pilvipalveluun. Palvelu tarjoaa käyttäjälle karttatiedot ja optimaalisen kastelusuunnitelman palveluna mobiilisovelluksen kautta.
+
+FarmBeats on Microsoftin julkaisema maatalouden IoT-alustaratkaisu. UA-laiteita sensoreilla, verkkoyteyksillä (connectivity support?), pilvi-infrastruktuuri sisältäen koneoppimista soveltavan analytiikan ennusteilla sekä pilvitallennuksen.  
 
 # Discussion
 
