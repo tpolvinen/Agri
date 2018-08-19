@@ -1302,4 +1302,6 @@ Teknologia koneoppimisen ja keinoälyn soveltamiseen peltotuotannossa on E.E.n m
 
 # LÄHTEET
 
+# KAUPALLISET LÄHTEET
+
 # LIITTEET

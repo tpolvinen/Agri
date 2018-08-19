@@ -254,29 +254,68 @@ Fieldclimate näyttää tarjoavan alustallaan toimivat sekä laitteet (sääasem
 
 CropX:n peltosensorit mittaavat kosteutta ja lämpötilaa, lataavat mittausdatan pilvipalveluun. Palvelu tarjoaa käyttäjälle karttatiedot ja optimaalisen kastelusuunnitelman palveluna mobiilisovelluksen kautta.
 
-FarmBeats on Microsoftin julkaisema maatalouden IoT-alustaratkaisu. UA-laiteita sensoreilla, verkkoyteyksillä (connectivity support?), pilvi-infrastruktuuri sisältäen koneoppimista soveltavan analytiikan ennusteilla sekä pilvitallennuksen.  
+FarmBeats on Microsoftin julkaisema maatalouden IoT-alustaratkaisu. FarmBeats tukee UA-laiteita erilaisilla sensoreilla, verkkoyteyksiä (connectivity support), tarjoaa valmiin pilvi-infrastruktuurin sisältäen koneoppimista soveltavan analytiikan, jolla tehdään ennusteita sekä tietojen pilvitallennusratkaisun.  
 
 # Discussion
 
 ## Internet of Things hardware & software challenges in agriculture 
 
+Havaintotason laitteiden tulee kestää muun muassa auringon säteilyä, suuria lämpötilavaihteluita, sadetta, ilmankosteutta, tuulta, tärinää.
+
+Havaintotason laitteiden tulee pysyä aktiivisina ja toimia luotettavasti pitkiä aikoja usein rajatun akkukapasiteetin varassa. Matalateho-ominaisuudet ovat pakollisia, koska akkujen vaihtoa tiheällä aikavälillä ei ole helppoa toteuttaa *hajautetuissa järjestelmissä jossa laitteita voi olla huomattavia määriä ja ne voivat usein olla vaikeasti saavutettavia*.
+Energiankeräimillä kuten aurinkokennolla tai tuuliturbiinilla voidaan rajatussa määrin pienentää tätä ongelmaa, mutta laitteen virrankulutuksen tulee olla energiankeräimen kykyjen rajoissa.
+
+Samoin kuin akkujen kestävyys ja matala virrankulutus ovat havaintotason laitteiden vaatimuksia, tulee ne myös ohjelmoida niin hyvin, että laitteita ei tarvitse käynnistää uudestaan ohjelmisto-ongelman sattuessa.
+
+Suuri määrä yhteen liitettyjä/keskenään verkostoituja laitteita voi tuottaa suuria määriä dataa, jonka käsittely voi nopeasti osoittautua pienen mittakaavan palvelininfrastruktuureille liian vaativaksi *(Atzori et al., 2010; Ziegeldorf, Morchon, & Wehrle, 2014)*.
 
 
 ## Organisational challenges & interoperability
 
+Logistiikan infrastruktuuri pyrkii mahdollistamaan tiedon vaihdannan ja tuotteiden kuljetuksen, optimoiden tuotantoprosessin ja tuotantoketjun globaalisti. IoT on asteittain muuttamassa tuotantoprosessia tuottamalla aikaista tarkemman ja tosiaikaisen näkyvyyden materiaali- ja tuotevirtaan. (1)
 
+Pilvipalvelut tarjoavat korkealuokkaisia palveluita, laiteriippumattomia sovelluskehitystyökaluja sekä tallennustilaa ja laskentatehoa verkon reunalla tuotetun datan käsittelemiseksi.
+Pilvipalvelut ovat IoT-teknologioiden ideaali täydentäjä kehitettäessä "CloudIoT"-paradigman mukaisia järjestelmiä.
+
+Verkon reunalla tuotetun datan määrä voi pilveen siirrettäessä kuitenkin aiheuttaa huomattavia kuluja sekä rahallisesti että viiveinä. Siksi on tarpeen tasapainottaa verkon reunalla tapahtuva tiedon tallennus ja käsittely pilvessä tapahtuvien vastaavien kanssa.
+
+Sumutietojenkäsittely jatkaa pilviteknologioita, -työkaluja ja sovelluskehityksen horisontteja pilvitietojenkäsittelyn paradigman jatkeena.
 
 ## Networking challenges
 
+Laitteiden fyysinen ympäristö asettaa haasteita paitsi laitteille, myös verkolle. Langattomat verkot ovat yleisiä peltotuotannon sovelluksissa, missä verkkojen kaapeloinnin kustannukset voivat olla huomattavia ja kaapelointia voi olla vaikea toteuttaa.
+
+Ympäristövaikutukset ovat tunnetusti yksi suurimmista tekijöistä jotka vaikuttavat haitallisesti langattoman verkon yhteyksiin monitie-etenemisen ja sen taustamelua lisäävän vaikutuksen takia *(Wang et al., 2017)*. Lämpötilan (2), kosteuden (1), ihmisten ja muiden esteiden vaikutus on havaittu vaikuttavan langattomien verkkojen toimintaan. Tämän takia tieto tulee siirtää käyttäen luotettavia ja vakaita teknologioita, ottaen huomioon maatalouden käyttöympäristön vaatimukset ja haasteet.
 
 
 ## Security challenges
 
+Siirryttäessä IoT-sovellusten käyttöön sidosryhmien turvallisuus, autenttisuus, luottamuksellisuus ja yksityisyyden suoja tulee varmistaa. IoT-ratkaisut tulee suojata ulkoisia hyökkäyksiä vastaan havaintotasolla, turvata datan kerääminen tietoliikennetasolla ja vastaavasti sovellustasolla tarjota eritellyt takaukset siitä, että vain valtuutetuilla tahoilla on pääsy ja oikeudet muuttaa tietoja.  
+
+IoT:n tietoturva kiteytyy kolmeen vaatimukseen: tunnistus, luottamuksellisuus ja käyttöokeuksien hallinta *(Sicari, Rizzardi, Grieco, & Coen-Porisini, 2015)*.
+
+Havaintotasolla yleisimpiin tietoturvakysymyksiin kuuluvat tiedon hankinnan turvallisuus (*information acquisition security*)sekä laitteistojen fyysinen turvallisuus. Fyysinen turvallisuus on erityisen tärkeä maatalouden toimintaympäristössä, jossa laitteet voivat sijaita avoimilla pelloilla ja toimia ilman valvontaa pitkiäkin aikoja. Sekä IoT-sovellusten hajautetun luonteen että vaihtelevien käyttöympäristöjen takia yksi tietoturvaprotokolla ei yleensä ole tarpeeksi *(Li, 2012)*.
+
+RFID:n tietoturvaongelmat liittyvät yleensä tietojen vuotamiseen, mikä voi paljastaa paikkatietoja tai muuta arkaluontoista tietoa. Tietojen salaus, ns. blocker tag:it, tagien taajuusmuutokset, häirinnän käyttö ja tagien fyysisen tuhoamisen käytänteet *(Matharu, Upadhyay, & Chaudhary, 2014)*.
+
+Sensorilaitteiden tietoturvan parantamiseksi tulisi käyttää salausalgoritmeja, avaintenjakelun käytänteitä, tunkeutumisenhavaitsemisjärjestelmiä ja *turvallisuusreitityskäytänteitä*, huomioiden laitteiden asettamat rajoitukset.
+
+Nykyisessä IoT-konseptissa datavirta kulkee laitteilta yhdyskäytävälle, joka lataa tiedon edelleen verkkoon kuten pilvipalveluun. Sensorilaitteille on olemassa useita tietoturvakäytänteitä kuten salausalgoritmeja, tunnistusmekanismeja, datavirran hallintakäytänteitä, datan suodatusmekanismeja jne. *(Li, 2012)*.
+
+Myös havaintotaso tarvitsee *information acquisition security measures*. Pyrittäessä estämään valtuuttamattomien tahojen pääsy kerättyyn dataan tunnistus, luottamuksellisuus ja käyttöokeuksien hallinta tulee turvata myös datan hankinnan vaiheessa ja hallinnointi-, reititys- ja sensorilaitteiden tunnistuskäytänteiden käyttö varmistaa. (2)
 
 
 ## Stack challenges
 
+Tietoliikennetason ja sovellustason välissä olevan väliohjelmiston tietoturva tulee huomioida.
 
+Väliohjelmisto hoitaa sekä tiedon käsittelyä että rajapintoja tietoliikennetason ja sovellustason välillä. Väliohjelmistojen tietoturva vaatii luottamuksellisuutta tietojen käsittelyssä ja turvallista tietojen taltiointia.
+
+Tietoliikennetasolla langattomat tietoliikenneyhteydet voivat olla haastavia tietoturvalle jopa kehittyneemmille laitteille kuin IoT-sovelluksissa yleensä käytetään. IoT-arkkitehtuuri voi helposti altistua palvelunestohyökkäykselle, valtuudettomalle pääsy-yritykselle, väliintulohyökkäykselle, haittaohjelmainjektiolle jotka kohdistuvat ja vaikuttavat luottamuksellisuuteen ja tiedon eheyteen. Todentaminen, tunkeutumisen havaitseminen, avaintenhallinta ja *negotiation mechanisms* voivat tarjota ratkaisuita tietoliikennetason uhkia vastaan.
+
+Sovellustaso on IoT-arkkitehtuurin ylimpänä tasona on lähellä *ja usein päällekkäinen* pilvipalveluiden kanssa. Sovellustason tietoturvakysymykset ovat myös lähellä pilvipalveluiden vastaavia, kuten tietoturva, yksityisyys, varmuuskopiointi ja tietojen pelastus.
+
+Myös sovellustasolla hallintamekanismien tulee hallinnoida tiedon käyttöoikeuksia, sen omistajuutta ja pääsyoikeuksia tietoihin sekä fyysisisten käyttäjien tapauksessa että laitteiden, järjestelmien ja organisaatioiden välillä.
 
 ## Potential value of IoT in agriculture
 
