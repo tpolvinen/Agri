@@ -93,7 +93,7 @@ IoT:n muihin osiin kuuluvat teknologiat, jotka tukevat laitteiden ja/tai käytt�
 
 IoT:n potentiaaliset sovellukset voidaan jakaa per *Barcelo-Ordinas, Chanet, Hou, & Garcia-Vidal (2016)* 1) "scalar sensors" joita käytetään maatalouden infrastruktuurin tarkkailussa ja kontrolloinnissa, esimerkiksi kasvihuoneissa sekä anturiverkoissa hyönteisten ja kasvitautien havaitsemiseksi; 2) tunnisteperustaisiin verkkoihin, joilla pyritään tuotteden seuraamiseen ja etätunnistamiseen.
 
-Maataloudessa erityisesti ympäristön vaikutukset langattomaan verkkoon WSN-ratkaisuissa tulee ottaa huomioon. Kasvit tai muut esteet vaikuttavat huomattavasti verkon toimintaan.
+Maataloudessa erityisesti ympäristön vaikutukset langattomaan verkkoon WSN-ratkaisuissa (anturiverkko) tulee ottaa huomioon. Kasvit tai muut esteet vaikuttavat huomattavasti verkon toimintaan.
 Samoin lämpötila, kosteus, sade, auringon voimakas säteily, kasvien lehtien varjostus, myös ympäristössä tehtävät työt kuten rakentaminen vaikuttavat viestinnän laatuun *(Wang, Yang, & Mao, 2017)*.
 
 Maataloudessa tarkkailtavien/mitattavien ilmiöiden jaksottainen luonne vaikuttaa sovellusten kehitykseen.

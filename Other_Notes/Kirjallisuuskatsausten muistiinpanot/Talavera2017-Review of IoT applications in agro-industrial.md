@@ -314,6 +314,18 @@ Katsauksen tekijät esittivät IoT-arkkitehtuurin yhteenvetona katsauksessa tehd
 
 **Sovelluskerros** kuluttaa (consumes) palveluita aikaisemmilta arkkitehtuurin tasoilta ja mahdollistaa käyttäjälle tarkkailun, hallinnan/kontrolloinnin, ennusteiden laatimisen ja logistiikan.
 
+## Conclusions
+
+Ilman lämpötila ja kosteus, samoin kuin maaperän kosteus ja Auringon säteily voidaan lukea universaaleiksi muuttujiksi maatalouden sovelluksissa tarkasteltujen tutkimusten perusteella.
+
+Venttiilit, pumput, moottorit, sadettimet, ilmankostuttajat ja valaisimet olivat laajassa käytössä kastelussa, lannoituksessa, tuholaistorjunnassa ja valaistuksen ohjauksessa.
+
+Uusia energialähteitä ja pilvipalveluiden tallennuspalveluita ei vielä ole otettu käyttöön laajassa mittakaavassa, mikä viittaa mahdollisuuksiin uuden tutkimuksen tekemisellä kyseisellä alueella.
+
+Havaittiin, että suurin osa maatalouden alan esitetyistä ratkaisuista viime vuosikymmenen ajalta tukeutuvat voimakkaasti heterogeenisiin järjestelmäkomponentteihin ja langattomiin anturiverkkoihin.
+
+Vaikuttaa järkevältä olettaa, että tulevat AIoT-ratkaisuiden täytyy täysin sisällyttää pilvipalvelut ja uudet liitettävyyden/kytkettävyyden menetelmät saavuttaakseen todella yhteenliitetyn/kytketyn ja älykkään IoT-ekosysteemin edut.
+
 
 
 

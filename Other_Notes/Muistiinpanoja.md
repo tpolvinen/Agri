@@ -1591,12 +1591,42 @@ Koska maatilakohtainen data yleisesti pysyy yhden yrityksen hallussa, on tarvett
 
 #### Tieto- ja kyberturvallisuus
 
+@talaveraReviewIoTApplications2017
+**(Jiang and Zhang, 2013)** kuvailevat tietoturvaongelman IoT:n käyttöönoton keskeiseksi haasteeksi maataloudessa. Lisäksi katsauksessa käsitellyistä tutkimuksista vain muutama otti tietoturvan huomioon ylipäätään ja niissäkin sovellettiin hajanaisia strategioita tietoturvariskien lieventämiseksi. Katsauksen tekijöiden mukaan maatalouden IoT-sovelluksissa on selkeä tarve ratkaisuille, jotka huomioivat kokonaisvaltaisen tietoturvan (end-to-end information security) sekä kentän laitteiden fyysisen eheyden.
 
+@verdouwInternetThingsAgriculture2016a
+Tärkeä haaste: Luotettavan tietoturvan, yksityisyydensuojan ja datan omistajuuden ratkaisujen saatavuus, jotka soveltuvat dynaamisten ja monimutkaisten sidosryhmien verkostojen tarpeisiin kun sidosryhmiin kuuluu valtava määrä hyvin pieniä yrityksiä, suuria monikansallisia konserneja ja viranomaisia joiden kaikkien tulee toimia yhteistyössä.
+
+@tzounisInternetThingsAgriculture2017
+Siirryttäessä IoT-sovellusten käyttöön sidosryhmien turvallisuus, autenttisuus, luottamuksellisuus ja yksityisyyden suoja tulee varmistaa. IoT-ratkaisut tulee suojata ulkoisia hyökkäyksiä vastaan havaintotasolla, turvata datan kerääminen tietoliikennetasolla ja vastaavasti sovellustasolla tarjota eritellyt takaukset siitä, että vain valtuutetuilla tahoilla on pääsy ja oikeudet muuttaa tietoja.  
+IoT:n tietoturva kiteytyy kolmeen vaatimukseen: tunnistus, luottamuksellisuus ja käyttöokeuksien hallinta *(Sicari, Rizzardi, Grieco, & Coen-Porisini, 2015)*.
+Havaintotasolla yleisimpiin tietoturvakysymyksiin kuuluvat tiedon hankinnan turvallisuus (*information acquisition security*)sekä laitteistojen fyysinen turvallisuus. Fyysinen turvallisuus on erityisen tärkeä maatalouden toimintaympäristössä, jossa laitteet voivat sijaita avoimilla pelloilla ja toimia ilman valvontaa pitkiäkin aikoja. Sekä IoT-sovellusten hajautetun luonteen että vaihtelevien käyttöympäristöjen takia yksi tietoturvaprotokolla ei yleensä ole tarpeeksi *(Li, 2012)*.
+RFID:n tietoturvaongelmat liittyvät yleensä tietojen vuotamiseen, mikä voi paljastaa paikkatietoja tai muuta arkaluontoista tietoa. Tietojen salaus, ns. blocker tag:it, tagien taajuusmuutokset, häirinnän käyttö ja tagien fyysisen tuhoamisen käytänteet *(Matharu, Upadhyay, & Chaudhary, 2014)*.
+Sensorilaitteiden tietoturvan parantamiseksi tulisi käyttää salausalgoritmeja, avaintenjakelun käytänteitä, tunkeutumisenhavaitsemisjärjestelmiä ja *turvallisuusreitityskäytänteitä*, huomioiden laitteiden asettamat rajoitukset.
+Nykyisessä IoT-konseptissa datavirta kulkee laitteilta yhdyskäytävälle, joka lataa tiedon edelleen verkkoon kuten pilvipalveluun. Sensorilaitteille on olemassa useita tietoturvakäytänteitä kuten salausalgoritmeja, tunnistusmekanismeja, datavirran hallintakäytänteitä, datan suodatusmekanismeja jne. *(Li, 2012)*.
+Myös havaintotaso tarvitsee *information acquisition security measures*. Pyrittäessä estämään valtuuttamattomien tahojen pääsy kerättyyn dataan tunnistus, luottamuksellisuus ja käyttöokeuksien hallinta tulee turvata myös datan hankinnan vaiheessa ja hallinnointi-, reititys- ja sensorilaitteiden tunnistuskäytänteiden käyttö varmistaa. (2)
+Stack challenges:
+Tietoliikennetason ja sovellustason välissä olevan väliohjelmiston tietoturva tulee huomioida.
+Väliohjelmisto hoitaa sekä tiedon käsittelyä että rajapintoja tietoliikennetason ja sovellustason välillä. Väliohjelmistojen tietoturva vaatii luottamuksellisuutta tietojen käsittelyssä ja turvallista tietojen taltiointia.
+Tietoliikennetasolla langattomat tietoliikenneyhteydet voivat olla haastavia tietoturvalle jopa kehittyneemmille laitteille kuin IoT-sovelluksissa yleensä käytetään. IoT-arkkitehtuuri voi helposti altistua palvelunestohyökkäykselle, valtuudettomalle pääsy-yritykselle, väliintulohyökkäykselle, haittaohjelmainjektiolle jotka kohdistuvat ja vaikuttavat luottamuksellisuuteen ja tiedon eheyteen. Todentaminen, tunkeutumisen havaitseminen, avaintenhallinta ja *negotiation mechanisms* voivat tarjota ratkaisuita tietoliikennetason uhkia vastaan.
+Sovellustaso on IoT-arkkitehtuurin ylimpänä tasona on lähellä *ja usein päällekkäinen* pilvipalveluiden kanssa. Sovellustason tietoturvakysymykset ovat myös lähellä pilvipalveluiden vastaavia, kuten tietoturva, yksityisyys, varmuuskopiointi ja tietojen pelastus.
+Myös sovellustasolla hallintamekanismien tulee hallinnoida tiedon käyttöoikeuksia, sen omistajuutta ja pääsyoikeuksia tietoihin sekä fyysisisten käyttäjien tapauksessa että laitteiden, järjestelmien ja organisaatioiden välillä.
+Conclusion:
+Tietoturvauhat ovat todellisia ja tuotannossa käytettävät tietoliikenneverkot tarvitsevat turvaamista.
+Tietoturvasta, anonymiteetistä ja pääsynhallinnasta huolehtiminen on kriittisen tärkeää jaetun päätöksentekojärjestelmän laajalle käyttöönotolle.
+
+@wolfertBigDataSmart2017
+Avoimempiin ratkaisuihin siirtymistä edistävät osakuntiin tai koalitioihin järjestäytyneet viljelijät, jotka ovat huolestuneet datan yksityisyydestä ja turvallisuudesta, mutta jotka haluavat myös tuottaa arvoa oman datansa avulla tai ainakin hyötyä Big Datan sovelluksista.
 
 #### Laitteiden energiatehokkuus
 
 @talaveraReviewIoTApplications2017
 Virrankulutus on useiden lähteiden mukaan katsauksen kirjoituksen hetkellä suurin IoT-laitteiden elinkaarta rajoittava tekijä **(Jain et al.,2008; Chen et al., 2014; Islam et al., 2014; Diedrichs et al., 2014)**. Elinkaarta voitaisiin tekijöiden mukaan pidentää kunkin elektronisen modulin virrankulutusta vähentämällä, lisäämällä energiakeräimiä sekä käyttämällä vaihtoehtoisia tehonsäilytysmekanismeja (?) akkujen sijaan.
+**Borgia (2014)** mukaan IoT-projektien keskeisiä laitevaatimuksia on energiatehokkuus. Erityisesti laitteet, jotka eivät ole yhteydessä sähköverkkoon, jotka asennetaan ulkotiloihin ja joita ei huolleta säännöllisesti.
+**(Shaikh and Zeadally, 2016)** mukaan erityisesti WSN-sovelluksissa tämänhetkinen haaste on kehittää usean voimanlähteen energiakeräimiä sekä ultra-tehokkaita sensoreita akuttomien ratkaisuiden mahdollistamiseksi.
+Katsauksen tekijöiden mukaan nämä ovat erityisen tärkeitä maatalouden ongelmien ratkaisuille IoT-teknologioilla koska akkujen lataus ei ole käytännöllistä ja ympäristön energialähteitä on saatavilla.
+**Wang et al. (2016)** esittelivät uudenlaisen älykkään IoT-projektien energianhallinnan hallintastrategian aurinkoenergialla toimiville laitteille. Tällä pyritään hankkimaan laitteen tarvitsema energia suoraan aurinkokennosta ja välttämään muuntajien ja akkujen tarve, jolloin hyötysuhde paranee, paino/tilavuussuhde pienenee ja hinta laskee. Toinen katsauksen tekijöiden mukaan todennäköisesti kasvava trendi on ns. self-power (?) laitteiden yleistyminen kuten **Lu et al. (2016)** suunnittelema maaperän kosteuden sensorilaite maavyöryjen tarkkailuun. Tässä tapauksessa laite käytti maaperän kosteutta energianlähteenä, jolloin laite soveltui laajamittaiseen levitykseen/käyttöön.
+**Marjanovic´ et al. (2016)** kuvailivat pilviperustaisen päätöksentekomekaniikan sensoridatan hankintaan jota voidaan käyttää yhteistyömallisesti (collaborative) hajautettuja sensoreita käyttävien järjestelmien kanssa. Sensorilaitteet voivat olla esimerkiksi mobiililaitteita ja näin voidaan tehokkaasti tarkkailla suuria maantieteellisiä alueita. Järjestelmä valitsi mitkä sensorilaitteet latasivat tiedon palveluun, välttäen näin päällekkäisen/redundanttisen datan lataamisen muilta läheisiltä sensorilaitteilta. Samalla järjestelmä pystyi ylläpitämään alueellisen mittauksen laadun ja vähentämään sensorilaitteiden akkujen/virrankulutusta.
 
 @verdouwInternetThingsAgriculture2016a
 Energiatehokkaiden IoT-teknologioiden kehittäminen, mukaanlukien laitteiden ja yhteyksien kehittäminen maaseudun tarpeisiin.
@@ -1607,8 +1637,35 @@ Ag. monitoring and control: On saatavilla monipuolisia laskentatehokkaita laitte
 Havaintotason laitteiden tulee pysyä aktiivisina ja toimia luotettavasti pitkiä aikoja usein rajatun akkukapasiteetin varassa. Matalateho-ominaisuudet ovat pakollisia, koska akkujen vaihtoa tiheällä aikavälillä ei ole helppoa toteuttaa *hajautetuissa järjestelmissä jossa laitteita voi olla huomattavia määriä ja ne voivat usein olla vaikeasti saavutettavia*.
 Energiankeräimillä kuten aurinkokennolla tai tuuliturbiinilla voidaan rajatussa määrin pienentää tätä ongelmaa, mutta laitteen virrankulutuksen tulee olla energiankeräimen kykyjen rajoissa.
 
+*haasteista jäljellä:*
+* Modulaariset laitteet ja ohjelmistot
+* Yksikköhintojen alentaminen
+* Vanhan kanssa yhteensopivuuteen pyrkiminen
+* Skaalautuvuuden huomioiminen
+* Ohj.keh. parhaiden käytänteiden käyttöönotto
+* Laitteiden lujatekoisuuden parantaminen
+* Käyttäjälähtöinen suunnittelu
+* IoT-ekosysteemin edistäminen
+* Kestävät käytänteet
 
+@verdouwInternetThingsAgriculture2016a
+AIoT avoimet haasteet
+* Yhteentoimivuus
+* Skaalauttaminen
+* AIoT-teknologioiden jatkokehitys
+* Laitteiden lujittaminen
+* Langaton tiedonsiirto luotettavasti
+* Energiatehokkaat IoT-teknologiat
+* Analytiikka
+* Tietoturva
 
+@tzounisInternetThingsAgriculture2017
+Haasteet
+* AIoT laitteiden ja ohjelmistojen haasteet
+* Organisatoriset haasteet ja yhteentoimivuus
+* Tietoverkon haasteet
+* Tietoturvan haasteet
+* Teknologiapaketin haasteet
 
 
 
