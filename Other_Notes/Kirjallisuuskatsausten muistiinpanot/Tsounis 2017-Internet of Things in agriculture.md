@@ -319,12 +319,37 @@ Myös sovellustasolla hallintamekanismien tulee hallinnoida tiedon käyttöoikeu
 
 ## Potential value of IoT in agriculture
 
+IoT on nopean kehityksen vaiheessa ja useita uusia IoT-sovelluksia syntyy.
 
+Paljon tutkimusta tehdään heterogeenisten järjestelmien yhdistämiseksi, tietoturvan parantamiseksi, analytiikan parantamiseksi Big Data:sta parempien näkemysten saamiseksi - liiketoimintaprosessien parantamiseksi.
+
+IoT-ratkaisuille on tarvetta: ympäri maailman kansalliset toimintapolitiikat tähtäävät lisäämään tuoreiden vihannesten (ja lihan) tuotantoa pienemmillä tuotantokustannuksilla ja korkeammilla laatuvaatimuksilla, samalla kun kuluttajat vaativat tuotantoketjun läpinäkyvyyttä ja tietoa ostamiensa tuotteiden ekologisesta jalanjäljestä.
+
+Arviot *(Bradley, Barbier, and Handler, 2013)* IoT:n potentiaalisesta arvosta vuosien 2013 ja 2022 välillä vaihtelevat huomattavasti. Arvioiden liikkuessa yhden biljoonan ja 15 biljoonan USD välillä, lukuunottamatta lisääntyneitä tuloja. Tämä johtuu kulujen pienentämisen eduista ja yleisestä liiketoiminnasta IoT:n vaikutuksesta tai muutoin siitä johtuen.
+Suurin osa IoT:n tuottamasta lisäarvosta johtuu tuotantoprosessien joustavuuden lisääntymisestä, optimoinnista ja tarkkuudesta kaiken kokoisissa tuotantoyksiköissä.
+
+Tästä johtuen voidaan ennustaa maatalouden tuotantoprosessien muuttuvan lähitulevaisuudessa huomattavasti kaikilla tasoilla.
+
+Ennusteiden luvut ovat huomattavan suuria ja suuryritykset ovat ostaneet IoT-teknologiayrityksiä vastaavasti huomattavilla summilla. Tämän voidaan katsoa viittaavan IoT:n kiinnostavuuteen sijoituskohteena.
+
+Useat IoT-teknologiayritykset keskittyvät kehittämään IoT-ratkaisuita rajatulla sektorilla ja on odotettavissa, että yritykset tulevat solmimaan kumppanuussuhteita/sopimuksia. On myös odotettavissa yritysten välistä yhteistyötä yleispätevien standardien kehittämiseksi.
 
 # Conclusion
 
+AIoT:n odotetaan optimoivan maataloustuotantoa useilla tavoilla:
 
+Maatilat kykenevät siirtymään täsmäviljelyn käyttöön.
+Hajautettu, sulautettu tietotekniikka ja tuotantoympäristön tarkka seuranta voivat helpottaa optimaalisten kasvuolosuhteiden tuottamista.
 
+Autonomiset järjestelmät voivat valvoa ja ohjata toimilaitteita optimaalisella tavalla. Näin voidaan pyrkiä myös resurssitehokkuuden ja käyttöasteen optimointiin sekä tuotannon ohjaamiseen markkinatilanteen mukaan, pyrkien kaikin mahdollisin tavoin voiton maksimointiin ja tuotantokustannusten minimointiin.
+
+Tuotantoketjut voivat valvoa tuotteiden elinkaaren jokaista vaihetta, tehdä automaattista analytiikkaa/päättelyä sekä lisätä kuluttajien luottamusta läpinäkyvän tuotantoketjun tietojen esille tuomisella.
+
+Tietoturvauhat ovat todellisia ja tuotannossa käytettävät tietoliikenneverkot tarvitsevat turvaamista.
+
+Todennäköisesti toteutuvassa IoT-ratkaisujen kentässä/ekosysteemissä/skenaariossa eri toimijat tulevat käyttämään keskenään erilaisia laitteita. Yhteentoimivuuden parantamiseksi datan suodatusta ja semanttista (merkitystä koskeva) annotointia tulee tehdä ainakin jossain määrin eri toimijoiden omilla tahoillaan tuottamalle tiedolle. Vain tällä tavoin toimittaessa voidaan pyrkiä jaetun päätöksenteko- tai asiantuntijajärjestelmän optimointiin.
+
+Tietoturvasta, anonymiteetistä ja pääsynhallinnasta huolehtiminen on kriittisen tärkeää jaetun päätöksentekojärjestelmän laajalle käyttöönotolle.  
 
 
 
