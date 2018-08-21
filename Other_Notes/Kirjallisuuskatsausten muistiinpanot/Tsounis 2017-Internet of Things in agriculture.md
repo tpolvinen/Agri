@@ -110,7 +110,7 @@ Vikaantumisten välttämiseksi kentällä sulautettujen järjestelmien ohjelmako
 
 ### Wireless communication protocols in agriculture
 
-Kuten monien muiden IoT:n aspektien yhteydessä, yhteentoimivuus on suurin haaste.
+Kuten monien muiden IoT:n aspektien yhteydessä, yhteentoimivuus on myös langattoman tietoliikenteen suurin haaste.
 
 Toinen langattoman tietoliikenteen yleinen haaste on keskenään samoilla taajuuskaistoilla toimivien laitteiden toisilleen aiheuttamat häiriöt. 
 
@@ -180,7 +180,7 @@ Kehitys sulautettujen laitteiden teknologioissa sekä niiden hintojen aleneminen
 
 ## Livestock applications
 
-Ei käsitellä.
+Ei käsitellä. Lälläspöö. :P
 
 ## Food supply chain tracking
 
@@ -350,6 +350,19 @@ Tietoturvauhat ovat todellisia ja tuotannossa käytettävät tietoliikenneverkot
 Todennäköisesti toteutuvassa IoT-ratkaisujen kentässä/ekosysteemissä/skenaariossa eri toimijat tulevat käyttämään keskenään erilaisia laitteita. Yhteentoimivuuden parantamiseksi datan suodatusta ja semanttista (merkitystä koskeva) annotointia tulee tehdä ainakin jossain määrin eri toimijoiden omilla tahoillaan tuottamalle tiedolle. Vain tällä tavoin toimittaessa voidaan pyrkiä jaetun päätöksenteko- tai asiantuntijajärjestelmän optimointiin.
 
 Tietoturvasta, anonymiteetistä ja pääsynhallinnasta huolehtiminen on kriittisen tärkeää jaetun päätöksentekojärjestelmän laajalle käyttöönotolle.  
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

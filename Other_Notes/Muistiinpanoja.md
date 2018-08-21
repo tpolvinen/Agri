@@ -1523,8 +1523,102 @@ Liiketoiminnan analytiikka aikaisempaa suuremmassa mittakaavassa ja suuremmalla 
 Pääsy tosiaikaiseen dataan, tosiaikaiset ennusteet, fyysisten esineiden seuranta yhdessä IoT-kehityksen kanssa maatalousautomaatiossa ja autonomisesti toteutettavissa toiminnoissa tulee muuttamaan maatilan hallintaa ja maatilan toimintaa huomattavalla tavalla
 
 
-### Talavera 2017 2.14: Review of IoT applications in agro-industrial and environmental fields
-talaveraReviewIoTApplications2017
+## Kirjallisuuskatsauksen tulokset
+
+@wolfertBigDataSmart2017
+
+@talaveraReviewIoTApplications2017
+@verdouwInternetThingsAgriculture2016a
+@tzounisInternetThingsAgriculture2017
+
+### AIoT:n avoimet haasteet
+
+@talaveraReviewIoTApplications2017
+Rajoitukset ja haasteet
+* Vahva standardisaatio
+* Parempi virranhallinta
+* Tieto- ja kyberturvallisuus
+* Modulaariset laitteet ja ohjelmistot
+* Yksikköhintojen alentaminen
+* Vanhan kanssa yhteensopivuuteen pyrkiminen
+* Skaalautuvuuden huomioiminen
+* Ohj.keh. parhaiden käytänteiden käyttöönotto
+* Laitteiden lujatekoisuuden parantaminen
+* Käyttäjälähtöinen suunnittelu
+* IoT-ekosysteemin edistäminen
+* Kestävät käytänteet
+
+@verdouwInternetThingsAgriculture2016a
+AIoT avoimet haasteet
+* Yhteentoimivuus
+* Skaalauttaminen
+* AIoT-teknologioiden jatkokehitys
+* Laitteiden lujittaminen
+* Langaton tiedonsiirto luotettavasti
+* Energiatehokkaat IoT-teknologiat
+* Analytiikka
+* Tietoturva
+
+@tzounisInternetThingsAgriculture2017
+Haasteet
+* AIoT laitteiden ja ohjelmistojen haasteet
+* Organisatoriset haasteet ja yhteentoimivuus
+* Tietoverkon haasteet
+* Tietoturvan haasteet
+* Teknologiapaketin haasteet
+
+#### Standardisaatio
+
+@talaveraReviewIoTApplications2017
+Vahva standardisaatio (Stronger standardization)
+Eri valmistajien laitteiden ja järjestelmien välinen toiminta paranisi ja koko IoT-stackin tietoturva vahvistuisi, alkaen kentällä olevista laiteista pilvipalveluihin ja loppukäyttäjän käyttöliittymiin asti. **(Pang et al., 2015)**
+
+@verdouwInternetThingsAgriculture2016a
+Valtavan IoT-laitteiden ja datan heterogeenisyyden yhteentoimivuuden varmistaminen avoimilla IoT-arkkitehtuureilla, alustoilla ja standardeilla.
+Keskeisimpiin/tärkeimpiin avoimiin haasteisiin kuuluvat: Olemassaolevien IoT-ratkaisuiden integraatio avoimilla IoT-arkkitehtuureilla, alustoilla ja standardeilla.
+
+@tzounisInternetThingsAgriculture2017
+Useat tutkimukset ovat keskittyneet IoT:n keskeisten teknologioiden standardointiin.
+Kuten monien muiden IoT:n aspektien yhteydessä, yhteentoimivuus on myös langattoman tietoliikenteen suurin haaste.
+Toinen langattoman tietoliikenteen yleinen haaste on keskenään samoilla taajuuskaistoilla toimivien laitteiden toisilleen aiheuttamat häiriöt. 
+Langattoman tietoliikenteessä käytettävät useat erilaiset teknologiat ja standardit haittaavat yhteentoimivuutta tietoliikennetasolla.
+
+@wolfertBigDataSmart2017
+Sovellusinfrastruktuurien kuten alustapalveluiden ja standardien jatkokehitys sekä niiden käyttöönotto organisaatioissa on kriittistä näiden kahden skenaarion "taistelussa".
+Koska maatilakohtainen data yleisesti pysyy yhden yrityksen hallussa, on tarvetta investoinneille yhteisen infrastruktuurin rakentamiselle datan siirtelylle ja integraatiolle, jotta dataa hyödyntäviä sovelluksia voitaisiin kehittää. Keskeinen näihin sovelluksiin liittyvä kysymys on tulevatko ne olemaan suljettuja, omisteisia (proprietary) vai avoimia järjestelmiä.
+
+*standardisaatio liittyy usein tietoturvaan*
+
+#### Tieto- ja kyberturvallisuus
+
+
+
+#### Laitteiden energiatehokkuus
+
+@talaveraReviewIoTApplications2017
+Virrankulutus on useiden lähteiden mukaan katsauksen kirjoituksen hetkellä suurin IoT-laitteiden elinkaarta rajoittava tekijä **(Jain et al.,2008; Chen et al., 2014; Islam et al., 2014; Diedrichs et al., 2014)**. Elinkaarta voitaisiin tekijöiden mukaan pidentää kunkin elektronisen modulin virrankulutusta vähentämällä, lisäämällä energiakeräimiä sekä käyttämällä vaihtoehtoisia tehonsäilytysmekanismeja (?) akkujen sijaan.
+
+@verdouwInternetThingsAgriculture2016a
+Energiatehokkaiden IoT-teknologioiden kehittäminen, mukaanlukien laitteiden ja yhteyksien kehittäminen maaseudun tarpeisiin.
+
+@tzounisInternetThingsAgriculture2017
+Virtalähteiden uusiminen voi olla hajautetuissa järjestelmissä vaikeaa, jolloin virrankulutus rajoittaa laitevalintoja ja energiatehokkuus tulee aina ottaa huomioon suunnittelussa.
+Ag. monitoring and control: On saatavilla monipuolisia laskentatehokkaita laitteita, kätevän kokoisia ja edullisia, joita voidaan käyttää akuilla pitkiä aikoja, ilman energiankeräimiä tai niiden kanssa.
+Havaintotason laitteiden tulee pysyä aktiivisina ja toimia luotettavasti pitkiä aikoja usein rajatun akkukapasiteetin varassa. Matalateho-ominaisuudet ovat pakollisia, koska akkujen vaihtoa tiheällä aikavälillä ei ole helppoa toteuttaa *hajautetuissa järjestelmissä jossa laitteita voi olla huomattavia määriä ja ne voivat usein olla vaikeasti saavutettavia*.
+Energiankeräimillä kuten aurinkokennolla tai tuuliturbiinilla voidaan rajatussa määrin pienentää tätä ongelmaa, mutta laitteen virrankulutuksen tulee olla energiankeräimen kykyjen rajoissa.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

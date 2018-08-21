@@ -313,3 +313,43 @@ Katsauksen tekijät esittivät IoT-arkkitehtuurin yhteenvetona katsauksessa tehd
 **Palvelutaso** käsittelee datan vastaanoton (data ingestion) tietoliikennetasolta, datan tallennuksen, analytiikan, visualisoinnin ja tietoturvan.
 
 **Sovelluskerros** kuluttaa (consumes) palveluita aikaisemmilta arkkitehtuurin tasoilta ja mahdollistaa käyttäjälle tarkkailun, hallinnan/kontrolloinnin, ennusteiden laatimisen ja logistiikan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
