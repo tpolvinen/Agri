@@ -1571,21 +1571,21 @@ Haasteet
 
 @talaveraReviewIoTApplications2017
 Vahva standardisaatio (Stronger standardization)
-Eri valmistajien laitteiden ja järjestelmien välinen toiminta paranisi ja koko IoT-stackin tietoturva vahvistuisi, alkaen kentällä olevista laiteista pilvipalveluihin ja loppukäyttäjän käyttöliittymiin asti. **(Pang et al., 2015)**
+- Eri valmistajien laitteiden ja järjestelmien **välinen toiminta** paranisi ja koko IoT-stackin tietoturva vahvistuisi, alkaen kentällä olevista laiteista pilvipalveluihin ja loppukäyttäjän käyttöliittymiin asti. **(Pang et al., 2015)**
 
 @verdouwInternetThingsAgriculture2016a
-Valtavan IoT-laitteiden ja datan heterogeenisyyden yhteentoimivuuden varmistaminen avoimilla IoT-arkkitehtuureilla, alustoilla ja standardeilla.
-Keskeisimpiin/tärkeimpiin avoimiin haasteisiin kuuluvat: Olemassaolevien IoT-ratkaisuiden integraatio avoimilla IoT-arkkitehtuureilla, alustoilla ja standardeilla.
+- Valtavan IoT-laitteiden ja datan heterogeenisyyden **yhteentoimivuuden varmistaminen** avoimilla IoT-arkkitehtuureilla, alustoilla ja standardeilla.
+- Keskeisimpiin/tärkeimpiin avoimiin haasteisiin kuuluvat: Olemassaolevien IoT-ratkaisuiden integraatio avoimilla IoT-arkkitehtuureilla, alustoilla ja standardeilla.
 
 @tzounisInternetThingsAgriculture2017
-Useat tutkimukset ovat keskittyneet IoT:n keskeisten teknologioiden standardointiin.
+- Useat tutkimukset ovat keskittyneet IoT:n keskeisten teknologioiden standardointiin.
 Kuten monien muiden IoT:n aspektien yhteydessä, yhteentoimivuus on myös langattoman tietoliikenteen suurin haaste.
-Toinen langattoman tietoliikenteen yleinen haaste on keskenään samoilla taajuuskaistoilla toimivien laitteiden toisilleen aiheuttamat häiriöt. 
+-Toinen langattoman tietoliikenteen yleinen haaste on keskenään samoilla taajuuskaistoilla toimivien laitteiden toisilleen aiheuttamat häiriöt. 
 Langattoman tietoliikenteessä käytettävät useat erilaiset teknologiat ja standardit haittaavat yhteentoimivuutta tietoliikennetasolla.
 
 @wolfertBigDataSmart2017
-Sovellusinfrastruktuurien kuten alustapalveluiden ja standardien jatkokehitys sekä niiden käyttöönotto organisaatioissa on kriittistä näiden kahden skenaarion "taistelussa".
-Koska maatilakohtainen data yleisesti pysyy yhden yrityksen hallussa, on tarvetta investoinneille yhteisen infrastruktuurin rakentamiselle datan siirtelylle ja integraatiolle, jotta dataa hyödyntäviä sovelluksia voitaisiin kehittää. Keskeinen näihin sovelluksiin liittyvä kysymys on tulevatko ne olemaan suljettuja, omisteisia (proprietary) vai avoimia järjestelmiä.
+- Sovellusinfrastruktuurien kuten alustapalveluiden ja standardien jatkokehitys sekä niiden käyttöönotto organisaatioissa on kriittistä näiden kahden skenaarion "taistelussa".
+- Koska maatilakohtainen data yleisesti pysyy yhden yrityksen hallussa, on tarvetta investoinneille yhteisen infrastruktuurin rakentamiselle datan siirtelylle ja integraatiolle, jotta dataa hyödyntäviä sovelluksia voitaisiin kehittää. Keskeinen näihin sovelluksiin liittyvä kysymys on tulevatko ne olemaan suljettuja, omisteisia (proprietary) vai avoimia järjestelmiä.
 
 *standardisaatio liittyy usein tietoturvaan*
 

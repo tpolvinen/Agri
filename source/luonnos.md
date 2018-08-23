@@ -641,7 +641,43 @@ Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset *(koska kuvaileva, h
 
 ### AIoT:n avoimet haasteet
 
-...
+Aineistossa käsitellyt AIoT:n avoimet haasteet.
+
+#### Standardisaatio
+
+AIoT:n alalla vahva standardisaatio parantaisi eri valmistajien laitteiden ja järjestelmien välistä yhteentoimivuutta. Valtava määrä erilaisia IoT-laitteita ja niiden tuottamaa heterogeenistä dataa asettavat huomattavia haasteita standardisaatiolle, jotta niiden yhteentoimivuus voitaisiin varmistaa. Yksi tärkeimmistä avoimista haasteista on olemassaolevien IoT-ratkaisuiden integraatio avoimilla IoT-arkkitehtuureilla, alustoilla ja standardeilla. Vahvan standardisaation mahdollistaman yhteistoiminnallisuuden avulla koko IoT-teknologiapaketin tietoturva vahvistuisi; alkaen kentällä olevista laiteista pilvipalveluihin ja loppukäyttäjän käyttöliittymiin asti. (@talaveraReviewIoTApplications2017; @verdouwInternetThingsAgriculture2016a)
+
+IoT-teknologiapaketin yhteentoimivuuden edistämiseksi on tarvetta investoinneille yhteisen infrastruktuurin rakentamiselle datan siirtelylle ja integraatiolle, jotta dataa hyödyntäviä sovelluksia voitaisiin kehittää. Tällä hetkellä on yleistä, että maatilakohtainen data pysyy yhden yrityksen hallussa mikä haittaa sovelluskehitystä. Keskeinen näihin sovelluksiin liittyvä kysymys on tulevatko ne olemaan suljettuja, omisteisia (proprietary) vai avoimia järjestelmiä. Sovellusinfrastruktuurien kuten alustapalveluiden ja standardien jatkokehitys sekä niiden käyttöönotto organisaatioissa on kriittistä näiden kahden skenaarion "taistelussa". (@wolfertBigDataSmart2017)
+
+Standardisaation tärkeys näkyi myös Tzounis et al. (2017) tekemässä kirjallisuuskatsauksesa, jossa havaittiin useiden tutkimusten keskittyvän IoT:n keskeisten teknologioiden standardointiin. Kuten monien muiden IoT:n aspektien yhteydessä, yhteentoimivuus on heidän mukaansa myös langattoman tietoliikenteen suurin haaste ja he keskittyvät katsauksessaan standardisaation haasteissa nimenomaisesti langattoman tietoliikenteeseen. (@tzounisInternetThingsAgriculture2017) Muut aineistossa käsitellyt kirjallisuuskatsaukse käsittelivät standardisaatiota laajemmin eri lähtökohdista.
+
+
+
+
+#### Tieto- ja kyberturvallisuus
+
+#### Laitteiden energiatehokkuus
+
+#### Laitteiden lujatekoisuuden parantaminen
+
+#### Langaton tiedonsiirto luotettavasti
+
+Langattoman tietoliikenteen yleinen haaste on keskenään samoilla taajuuskaistoilla toimivien laitteiden toisilleen aiheuttamat häiriöt. Lisäksi käytössä olevien useiden erilaisten teknologioiden ja standardien monimuotoisuus voi käytännössä haitata tietoliikennetason yhteentoimivuutta. (@tzounisInternetThingsAgriculture2017)
+
+#### Analytiikka
+
+#### IoT-ekosysteemin edistäminen
+
+#### Ohj.keh. parhaiden käytänteiden käyttöönotto
+
+#### Muut
+
+**Modulaariset laitteet ja ohjelmistot**
+**Yksikköhintojen alentaminen**
+**Vanhan kanssa yhteensopivuuteen pyrkiminen**
+**Skaalautuvuuden huomioiminen**
+**Käyttäjälähtöinen suunnittelu**
+**Kestävät käytänteet**
 
 ### Esitetyt AIoT-arkkitehtuurit
 
@@ -845,9 +881,9 @@ Koodien havaintojen määrien jakaantuminen sekä haastattelujen kesken sekä et
 
 Toisaalta segmenttien eroavaisuuksien ja koodien asiasisältöjen erojen *jonkin muunkin?* takia pelkät kokonaismäärät eivät itsessään tuo lisäselvyyttä haastattelumateriaalin sisällön tulkinnalle. Kokonaismääriä voidaan tarvittaessa käyttää esimerkiksi eri haastattelujen kategoriakohtaisten havaintomäärien suhteuttamisessa toisiinsa.
 
-### Haastattelujen kuvaus??? Mahd. myös kirjallisuuskatsauksen kuvaus
+### Haastattelujen kuvaus???
 
-Haastatteluissa käsiteltyjen keskeisten teemojen mukaan jaotellut haastattelutulokset.
+Tässä *osiossa/luvussa* kuvaillaan haastatteluissa käsiteltyjen teemojen mukaan jaotellut haastattelutulokset.
 
 Haastateltavat
 A.A. @aHaastattelu2017
@@ -855,7 +891,6 @@ B.B. @bHaastattelu2017
 C.C. @cHaastattelu2017
 D.D. @dHaastattelu2018
 E.E. @eHaastattelu2018
-
 
 Haastatteluissa esiintyviä termejä:
 täsmäviljely
@@ -1089,7 +1124,6 @@ Myös E.E. oli samoilla linjoilla ruokaturvan suhteen. Hänen mukaansa Suomen os
 **Syrjäseutujen verkkojen nopeus ja luotettavuus; maatalouden tuottaman datan määrän kasvu; UA-laitteet**
 D.D. kertoi haastattelussa, että syrjäseutujen tietoliikenneverkkojen luotettavuus ja nopeus on maatalouden näkökulmasta merkittävä haaste. Lisäksi pilvipalveluiden yleistyminen maatalouden käytössä asettaa kasvavia vaatimuksia tietoliikenneyhteyksien luotettavuudelle (@dHaastattelu2018). A.A. mainitsi, että Suomessa telemetriaratkaisut on lähtökohtaisesti rakennettu matkapuhelinverkon varaan ja C.C.n mukaan SMS-viestiratkaisu on ollut valmistajille tämän maan toimintaympäristössä luotettava valinta (@aHaastattelu2017; @cHaastattelu2017). Lisäksi D.D. arveli, että UA-laitteilla (miehittämätön ilma-alus, Eng. Unmanned Aircraft) tuotetun datan määrä voi olla syrjäseutujen tietoliikenneverkkojen kaistanleveydelle liian suuri (@dHaastattelu2018). Samoin C.C.n mukaan käytännössä verkot eivät kanna UA-laitteiden tuottamaa kuvantamisdatan määriä, vaikka teoriassa se onkin mahdollista. Valokuituverkoissa tämä kyllä onnistuu, mutta radioverkoissa verkot ovat ahtaat ja matkapuhelinverkon nopeuden kasvattaminen riittäväksi haja-asutusalueella missä mastoväli on suuri, on erittäin haastavaa. (@cHaastattelu2017)
 
-****
 A.A.n mukaan tehtäessä kuvantamista ja sen analytiikkaa UA-laitteilla on tarve saada kuvantamisdatan analyysin tulokset käytännössä saman tien kun ollaan vielä pellolla. 5G-tekniikoista voisi olla hyötyä ison datamäärän viemisessä pilveen ja takaisin, jotta voitaisiin saada analyysi pellosta noin 10 minuutin kuluessa. (@aHaastattelu2017) Toisaalta C.C.n mukaan tulevat 5G-ratkaisut lisäävät nopeutta lyhyillä matkoilla, eivätkä pitkillä matkoilla (@cHaastattelu2017). A.A. kertoi, että 3G ei sekään vielä kanna joka paikkaan mihin pitäisi, mikä on hänen mukaansa iso ongelma. Erityisesti suomalainen ongelma on maan pituus, peltojen pirstaleisuus ja sijainnit laaksopaikoilla, joissa kuuluvuus voi olla huono. (@aHaastattelu2017)
 
 Aikaisemmin maatiloilla olleet verkot ovat olleet hyvin vaatimattomia, mutta valokuituyhteyksien myötä voidaan maatiloilla hypätä verkkoyhteyksissä kehityksen kärkeen. C.C.n mukaan haasteena on verkkoyhteyksien hitausongelman ratkettua maatiloille rakennettujen verkkojen suunnittelematon rakenne. Verkkoja on rakennettu ja laajennettu kulloisenkin tarpeen mukaan lisäämällä ominaisuuksia, mikä tekee verkoista vaikeasti turvattavia. Verkon komponenttien ollessa ilman ylläpitoa ja huonosti suunniteltuna verkko voi olla haavoittuva. (@cHaastattelu2017)
