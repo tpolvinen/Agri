@@ -1637,35 +1637,86 @@ Ag. monitoring and control: On saatavilla monipuolisia laskentatehokkaita laitte
 Havaintotason laitteiden tulee pysyä aktiivisina ja toimia luotettavasti pitkiä aikoja usein rajatun akkukapasiteetin varassa. Matalateho-ominaisuudet ovat pakollisia, koska akkujen vaihtoa tiheällä aikavälillä ei ole helppoa toteuttaa *hajautetuissa järjestelmissä jossa laitteita voi olla huomattavia määriä ja ne voivat usein olla vaikeasti saavutettavia*.
 Energiankeräimillä kuten aurinkokennolla tai tuuliturbiinilla voidaan rajatussa määrin pienentää tätä ongelmaa, mutta laitteen virrankulutuksen tulee olla energiankeräimen kykyjen rajoissa.
 
-*haasteista jäljellä:*
-* Modulaariset laitteet ja ohjelmistot
-* Yksikköhintojen alentaminen
-* Vanhan kanssa yhteensopivuuteen pyrkiminen
-* Skaalautuvuuden huomioiminen
-* Ohj.keh. parhaiden käytänteiden käyttöönotto
-* Laitteiden lujatekoisuuden parantaminen
-* Käyttäjälähtöinen suunnittelu
-* IoT-ekosysteemin edistäminen
-* Kestävät käytänteet
+#### Laitteiden lujatekoisuuden parantaminen
+
+@talaveraReviewIoTApplications2017
+Kentälle/käyttöön asennettavien laitteiden lujatekoisuuden parantaminen (Improve robustness for field deployments):
+Kaupallisten IoT-ratkaisuiden tulisi kestää huomattavia muutoksia lämpötilassa, kosteudessa ja valaistuksessa kestääkseen vuodenaikojen muutokset sekä maailmanlaajuisen ilmastovaihtelevuuden.
 
 @verdouwInternetThingsAgriculture2016a
-AIoT avoimet haasteet
-* Yhteentoimivuus
-* Skaalauttaminen
-* AIoT-teknologioiden jatkokehitys
-* Laitteiden lujittaminen
-* Langaton tiedonsiirto luotettavasti
-* Energiatehokkaat IoT-teknologiat
-* Analytiikka
-* Tietoturva
+IoT-laitteiden kehittäminen vaativiin olosuhteisiin ja luonnon objekteille (kasvit, eläimet, maapinta-ala, pilaantuvat ruokatuotteet) joihin itseensä laitteiden upottaminen/yhdistäminen on rajattua. Erityisesti laittelle, joissa sovelletaan viimeaikaista teknologista kehitystä, koska kypsempien teknologioiden sovelluksessa maatalouteen on jo paljon onnistumisia ja kehitystä.
 
 @tzounisInternetThingsAgriculture2017
-Haasteet
-* AIoT laitteiden ja ohjelmistojen haasteet
-* Organisatoriset haasteet ja yhteentoimivuus
-* Tietoverkon haasteet
-* Tietoturvan haasteet
-* Teknologiapaketin haasteet
+Havaintotason laitteiden tulee kestää muun muassa auringon säteilyä, suuria lämpötilavaihteluita, sadetta, ilmankosteutta, tuulta, tärinää.
+
+#### Langaton tiedonsiirto luotettavasti
+
+@verdouwInternetThingsAgriculture2016a
+Stabiilin ja luotettavan langattoman kehittäminen kaukaisille alueille, joihin on usein rajattu kenttä ja kaistanleveys.
+
+@tzounisInternetThingsAgriculture2017
+Laitteiden fyysinen ympäristö asettaa haasteita paitsi laitteille, myös verkolle. Langattomat verkot ovat yleisiä peltotuotannon sovelluksissa, missä verkkojen kaapeloinnin kustannukset voivat olla huomattavia ja kaapelointia voi olla vaikea toteuttaa.
+Ympäristövaikutukset ovat tunnetusti yksi suurimmista tekijöistä jotka vaikuttavat haitallisesti langattoman verkon yhteyksiin monitie-etenemisen ja sen taustamelua lisäävän vaikutuksen takia *(Wang et al., 2017)*. Lämpötilan (2), kosteuden (1), ihmisten ja muiden esteiden vaikutus on havaittu vaikuttavan langattomien verkkojen toimintaan. Tämän takia tieto tulee siirtää käyttäen luotettavia ja vakaita teknologioita, ottaen huomioon maatalouden käyttöympäristön vaatimukset ja haasteet.
+
+#### Analytiikka
+
+@verdouwInternetThingsAgriculture2016a
+Analytiikan kehittäminen yhdistämään esineiden data kolmannen osapuolen historia- ja ennustedatan kanssa, kuten satelliittidata, maaperä-, vesi- ja ilma-analyysit, logistiikkajärjestelmät, hintatietojen, vähittäismyynnin datan, kuluttajatietojen, ruokavaliotietojen jne.
+
+@tzounisInternetThingsAgriculture2017
+Suuri määrä yhteen liitettyjä/keskenään verkostoituja laitteita voi tuottaa suuria määriä dataa, jonka käsittely voi nopeasti osoittautua pienen mittakaavan palvelininfrastruktuureille liian vaativaksi *(Atzori et al., 2010; Ziegeldorf, Morchon, & Wehrle, 2014)*.
+Verkon reunalla tuotetun datan määrä voi pilveen siirrettäessä kuitenkin aiheuttaa huomattavia kuluja sekä rahallisesti että viiveinä. Siksi on tarpeen tasapainottaa verkon reunalla tapahtuva tiedon tallennus ja käsittely pilvessä tapahtuvien vastaavien kanssa.
+
+#### IoT-ekosysteemin edistäminen
+
+@talaveraReviewIoTApplications2017
+**(Chen et al., 2015)** mukaan kirjallisuudessa on huomattava aukko miten kehittää ja sopeuttaa IoT-ratkaisujen yksinkertaisia prototyyppejä tosielämän ratkaisuiksi. 
+
+@verdouwInternetThingsAgriculture2016a
+Yhteentoimivien IoT-teknologioiden skaalaus aikaisten omaksujien ulkopuolelle, erityisesti nykyisten sovellusten yksinkertaistamisella sekä edullisuuden parantamisella loppukäyttäjille, varmistaen sopivuuden ja käytettävyyden suurimmalle osalle viljelijöitä ja ruoka-alan yrityksiä. Tästä syystä myös pienille yrityksille sopivia, systemaattisen ekonomisen analyysin kustannuksista ja hyödyistä sisältäviä, liiketoimintamalleja tarvitaan.
+Sekä: IoT-teknologioiden edelleen kehitys laajan käytettävyyden saavuttamiseksi maatalouden monimuotoisessa käyttöympäristössä, esimerkiksi erilaiset ilmasto-olosuhteet, erilaiset satokasvit ja maaperät.
+
+#### Ohj.keh. parhaiden käytänteiden käyttöönotto
+
+@talaveraReviewIoTApplications2017
+**(Hussain et al., 2006; Jayaraman et al., 2015a)** mukaan asennettujen IoT-ratkaisujen mittakaavan ja kestävyyden kasvaessa aika ja vaiva tuotetun datan analysoinnissa, ohjelmakoodin parantelussa sekä uusien ominaisuuksien lisäämisessä kasvavat räjähdysmäisesti jos ohjelmistoa ei ole hyvin suunniteltu ja dokumentoitu.
+
+@tzounisInternetThingsAgriculture2017
+Samoin kuin akkujen kestävyys ja matala virrankulutus ovat havaintotason laitteiden vaatimuksia, tulee ne myös ohjelmoida niin hyvin, että laitteita ei tarvitse käynnistää uudestaan ohjelmisto-ongelman sattuessa.
+
+#### Modulaariset laitteet ja ohjelmistot
+
+@talaveraReviewIoTApplications2017
+**(Pang et al., 2015)** mukaan modulaariset suunnitteluratkaisut sekä laitteiston että ohjelmiston kehityksessä mahdollistavat suuremmassa määrin sekä uudelleenkäytön että käyttäjäkohtaisen räätälöinnin.
+
+#### Yksikköhintojen alentaminen
+
+@talaveraReviewIoTApplications2017
+Vaikka sulautettujen järjestelmien yksikköhinnat ovat laskeneet, korkealuokkaisten sensorien ja toimilaitteiden yksikköhinnoille ei ole käynyt samoin. Jotta satoja, mahdollisesti tuhansia laiteyksikköjä (node) käsittävien IoT-ratkaisuiden käyttöönotto mahdollistuisi, tulee laitteistojen yleiskustannusten, internetyhteyksien ja kansainvälisten data roaming -maksujen edelleen laskea **(Pang et al., 2015)**.
+
+#### Vanhan kanssa yhteensopivuuteen pyrkiminen
+
+@talaveraReviewIoTApplications2017
+Pyritään yhteensopivuuteen vanhan, olemassaolevan infrastruktuurin kanssa (Aim for a good compatibility with legacy infrastructure):
+Samoin kuin teollisuusautomaatiossa, on tärkeää kehittää ratkaisuita jotka sopivat asiakkaan olemassaolevaan infrastruktuuriin kuten erikoislaitteisiin, työkoneisiin ja ohjelmistoihin.
+
+#### Skaalautuvuuden huomioiminen
+
+@talaveraReviewIoTApplications2017
+Huomioidaan skaalautuvuus jo alkuvaiheessa (Consider scalability early on):
+**(Diedrichs et al., 2014)** mukaan laitemäärien kasvun myötä suurissa järjestelmäasennuksissa datan synkronisointi ja datan luotettavuus muodostuvat kriittisiksi.
+
+#### Käyttäjälähtöinen suunnittelu
+
+@talaveraReviewIoTApplications2017
+IoT-laitteiden asentamisen ja hallinnan tulisi olla selkeää ja yksinkertaista tavallisille käyttäjille. Lisäksi laitteen tulisi vaatia vain vähän tai ei ollenkaan ihmisen tekemää huoltoa elinkaarensa aikana sekä laitteiden käyttämän tietoliikenneratkaisun tulisi olla tarpeeksi älykäs uudelleenmäärittelemään tai parantamaan itse itsensä laiterikon sattuessa.
+
+#### Kestävät käytänteet
+
+@talaveraReviewIoTApplications2017
+Vaikka vain vaatimattomimmat ennusteet IoT-laitteiden käyttöönotosta toteutuisivat, laitteiden kierrätysstrategia tulisi suunnitella osana uutta ratkaisua ja sen elinkaarta ympäristövaikutusten minimoimiseksi.
+
+
 
 
 

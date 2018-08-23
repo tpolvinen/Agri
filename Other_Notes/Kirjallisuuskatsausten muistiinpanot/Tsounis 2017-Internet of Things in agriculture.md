@@ -83,7 +83,9 @@ Vain verkon resurssipalveluilla on kapasiteettia käsitellä IoT:n tuottamia dat
 
 Moderneissa maatalouden skenaarioissa tallennettu data automaattisesti käsitellään, tarkastetaan ja käytetään tai yhdistetään keinoälyn algoritmien avulla, koneoppimisen teknologioilla, mallinnusta hyödyntävillä päätöksentekojärjestelmillä, tietämyksen jalostamiseksi tarkasteltavasta ilmiöstä jota ei voida mitata suoraan. Nämä järjestelmät voivat ehdottaa optimaalista toimintamallia loppukäyttäjälle, tuottaa sopivia komentosignaaleja toimilaitteille, tarjoten täysautomatisoituja havaisemisen ja kontrolloinnin ratkaisuita.
 
-Useat tutkimukset ovat keskittyneet IoT:n keskeisten teknologioiden standardointiin. Perinteinen anturiverkon paradigma (hajautetut älykkäät laitteet, jotka anturoivat ympäristöään ja lähettävät dataa tallennettavaksi ja/tai ohjaavat toimilaitteita) on kehittymässä kohti laitteiden ja esineiden yhteentoimivuutta.
+- Useat tutkimukset ovat keskittyneet IoT:n keskeisten teknologioiden standardointiin. 
+
+Perinteinen anturiverkon paradigma (hajautetut älykkäät laitteet, jotka anturoivat ympäristöään ja lähettävät dataa tallennettavaksi ja/tai ohjaavat toimilaitteita) on kehittymässä kohti laitteiden ja esineiden yhteentoimivuutta.
 
 IoT:n muihin osiin kuuluvat teknologiat, jotka tukevat laitteiden ja/tai käyttäjien välistä viestintää, alustapalvelut, ohjelmistot, laiteabstraktiot ja ohjelmistokehityksen työkalut *(Atzori et al., 2010; Miorandi et al., 2012)*.  
 
@@ -104,17 +106,17 @@ Realististen WSN/langattomien anturiverkkojen käyttöönotto on huomattavan haa
 
 Ympäristötekijät voivat aiheuttaa virheellisiä mittauksia tai tuhota sensorin.
 
-Virtalähteiden uusiminen voi olla hajautetuissa järjestelmissä vaikeaa, jolloin virrankulutus rajoittaa laitevalintoja ja energiatehokkuus tulee aina ottaa huomioon suunnittelussa.
+- Virtalähteiden uusiminen voi olla hajautetuissa järjestelmissä vaikeaa, jolloin virrankulutus rajoittaa laitevalintoja ja energiatehokkuus tulee aina ottaa huomioon suunnittelussa.
 
 Vikaantumisten välttämiseksi kentällä sulautettujen järjestelmien ohjelmakoodi tulee olla laadukasta ja se vaatii syvää ohjelmointiosaamista ja tarpeeksi läpikotaista/perusteellista testausta *(Barrenetxea, Ingelrest, Schaefer, & Vetterli, 2008; Langendoen, Baggio, & Visser, 2006)*.
 
 ### Wireless communication protocols in agriculture
 
-Kuten monien muiden IoT:n aspektien yhteydessä, yhteentoimivuus on myös langattoman tietoliikenteen suurin haaste.
+- Kuten monien muiden IoT:n aspektien yhteydessä, yhteentoimivuus on myös langattoman tietoliikenteen suurin haaste.
 
-Toinen langattoman tietoliikenteen yleinen haaste on keskenään samoilla taajuuskaistoilla toimivien laitteiden toisilleen aiheuttamat häiriöt. 
+- Toinen langattoman tietoliikenteen yleinen haaste on keskenään samoilla taajuuskaistoilla toimivien laitteiden toisilleen aiheuttamat häiriöt. 
 
-Langattoman tietoliikenteessä käytettävät useat erilaiset teknologiat ja standardit haittaavat yhteentoimivuutta tietoliikennetasolla.
+- Langattoman tietoliikenteessä käytettävät useat erilaiset teknologiat ja standardit haittaavat yhteentoimivuutta tietoliikennetasolla.
 
 Maatalouden käyttöönotoissa korkeat lämpötilat ja kosteus ovat yleisiä.
 Lämpötilan on osoitettu vaikuttavan huomattavalla tavalla vastaanotetun signaalin voimakkuuteen, kun lämpötila nousee 25 °C:sta 65 °C:een *(Bannister, Giorgetti, and Gupta, 2008)*.
@@ -137,13 +139,13 @@ Ympäristötekijöiden tarkkailu tuotanto- tai viljely-ympäristössä ja viime 
 
 Viime aikoina perinteinen anturiverkko on kehittynyt IoT-ystävälliseksi ratkaisuksi yleisempien tietoliikenne standardien avulla, mahdollistaen internet-yhteydet ja älykkään analytiikan käyttöönoton, pyrkien parantamaan tarkkailua ja/tai kontrollointia.
 
-On saatavilla monipuolisia laskentatehokkaita laitteita, kätevän kokoisia ja edullisia, joita voidaan käyttää akuilla pitkiä aikoja, ilman energiankeräimiä tai niiden kanssa.
+- On saatavilla monipuolisia laskentatehokkaita laitteita, kätevän kokoisia ja edullisia, joita voidaan käyttää akuilla pitkiä aikoja, ilman energiankeräimiä tai niiden kanssa.
 Nykyisissä sulautetuissa laitteissa on tarpeeksi resursseja vaativien sensorien (kuvantaminen) tukemiseen ja edistyneiden tietoliikenneprotokollien käyttöön, laajentaen perinteisen WSN:n tietoliikenneominaisuuksia.
 
 Luokittelu kirjallisuudesta löytyneille tarkkailun ja kontrolloinnin ratkaisuille:
-- Tarkkailu ja joissain tapauksissa aikaisten varoitusten tuottaminen yksinkertaisten sääntöjen perusteella. Esimerkiksi monipistetarkkailu kasvihuoneessa ilmasto-olosuhteiden muutosten havaitsemiseksi.
-- Tarkkailu, analytiikka (meta-processing, toteutus resurssipalvelussa) ja kontrolli. Sisältäen myös kontrolli-ehdotukset käyttäjälle sekä täysautomaattisen kontrolloinnin.
-- Tarkkailu laskentatehoa enemmän vaativien sensorien (kuvantaminen) avulla sekä tehokkaampien päätelaitteiden (end-node) avulla. Kuvantamisdataa käsitellään joko pelkkään järjestelmän tarkkailuun tai kuvankäsittelyyn laitteessa, verkon reunalla sumutietojenkäsittelynä, resurssipalvelussa/palvelimella.
+* Tarkkailu ja joissain tapauksissa aikaisten varoitusten tuottaminen yksinkertaisten sääntöjen perusteella. Esimerkiksi monipistetarkkailu kasvihuoneessa ilmasto-olosuhteiden muutosten havaitsemiseksi.
+* Tarkkailu, analytiikka (meta-processing, toteutus resurssipalvelussa) ja kontrolli. Sisältäen myös kontrolli-ehdotukset käyttäjälle sekä täysautomaattisen kontrolloinnin.
+* Tarkkailu laskentatehoa enemmän vaativien sensorien (kuvantaminen) avulla sekä tehokkaampien päätelaitteiden (end-node) avulla. Kuvantamisdataa käsitellään joko pelkkään järjestelmän tarkkailuun tai kuvankäsittelyyn laitteessa, verkon reunalla sumutietojenkäsittelynä, resurssipalvelussa/palvelimella.
 
 
 ## Controlled environment agriculture
@@ -260,14 +262,14 @@ FarmBeats on Microsoftin julkaisema maatalouden IoT-alustaratkaisu. FarmBeats tu
 
 ## Internet of Things hardware & software challenges in agriculture 
 
-Havaintotason laitteiden tulee kestää muun muassa auringon säteilyä, suuria lämpötilavaihteluita, sadetta, ilmankosteutta, tuulta, tärinää.
+- Havaintotason laitteiden tulee kestää muun muassa auringon säteilyä, suuria lämpötilavaihteluita, sadetta, ilmankosteutta, tuulta, tärinää.
 
-Havaintotason laitteiden tulee pysyä aktiivisina ja toimia luotettavasti pitkiä aikoja usein rajatun akkukapasiteetin varassa. Matalateho-ominaisuudet ovat pakollisia, koska akkujen vaihtoa tiheällä aikavälillä ei ole helppoa toteuttaa *hajautetuissa järjestelmissä jossa laitteita voi olla huomattavia määriä ja ne voivat usein olla vaikeasti saavutettavia*.
-Energiankeräimillä kuten aurinkokennolla tai tuuliturbiinilla voidaan rajatussa määrin pienentää tätä ongelmaa, mutta laitteen virrankulutuksen tulee olla energiankeräimen kykyjen rajoissa.
+- Havaintotason laitteiden tulee pysyä aktiivisina ja toimia luotettavasti pitkiä aikoja usein rajatun akkukapasiteetin varassa. Matalateho-ominaisuudet ovat pakollisia, koska akkujen vaihtoa tiheällä aikavälillä ei ole helppoa toteuttaa *hajautetuissa järjestelmissä jossa laitteita voi olla huomattavia määriä ja ne voivat usein olla vaikeasti saavutettavia*.
+- Energiankeräimillä kuten aurinkokennolla tai tuuliturbiinilla voidaan rajatussa määrin pienentää tätä ongelmaa, mutta laitteen virrankulutuksen tulee olla energiankeräimen kykyjen rajoissa.
 
-Samoin kuin akkujen kestävyys ja matala virrankulutus ovat havaintotason laitteiden vaatimuksia, tulee ne myös ohjelmoida niin hyvin, että laitteita ei tarvitse käynnistää uudestaan ohjelmisto-ongelman sattuessa.
+- Samoin kuin akkujen kestävyys ja matala virrankulutus ovat havaintotason laitteiden vaatimuksia, tulee ne myös ohjelmoida niin hyvin, että laitteita ei tarvitse käynnistää uudestaan ohjelmisto-ongelman sattuessa.
 
-Suuri määrä yhteen liitettyjä/keskenään verkostoituja laitteita voi tuottaa suuria määriä dataa, jonka käsittely voi nopeasti osoittautua pienen mittakaavan palvelininfrastruktuureille liian vaativaksi *(Atzori et al., 2010; Ziegeldorf, Morchon, & Wehrle, 2014)*.
+- Suuri määrä yhteen liitettyjä/keskenään verkostoituja laitteita voi tuottaa suuria määriä dataa, jonka käsittely voi nopeasti osoittautua pienen mittakaavan palvelininfrastruktuureille liian vaativaksi *(Atzori et al., 2010; Ziegeldorf, Morchon, & Wehrle, 2014)*.
 
 
 ## Organisational challenges & interoperability
@@ -277,45 +279,45 @@ Logistiikan infrastruktuuri pyrkii mahdollistamaan tiedon vaihdannan ja tuotteid
 Pilvipalvelut tarjoavat korkealuokkaisia palveluita, laiteriippumattomia sovelluskehitystyökaluja sekä tallennustilaa ja laskentatehoa verkon reunalla tuotetun datan käsittelemiseksi.
 Pilvipalvelut ovat IoT-teknologioiden ideaali täydentäjä kehitettäessä "CloudIoT"-paradigman mukaisia järjestelmiä.
 
-Verkon reunalla tuotetun datan määrä voi pilveen siirrettäessä kuitenkin aiheuttaa huomattavia kuluja sekä rahallisesti että viiveinä. Siksi on tarpeen tasapainottaa verkon reunalla tapahtuva tiedon tallennus ja käsittely pilvessä tapahtuvien vastaavien kanssa.
+- Verkon reunalla tuotetun datan määrä voi pilveen siirrettäessä kuitenkin aiheuttaa huomattavia kuluja sekä rahallisesti että viiveinä. Siksi on tarpeen tasapainottaa verkon reunalla tapahtuva tiedon tallennus ja käsittely pilvessä tapahtuvien vastaavien kanssa.
 
 Sumutietojenkäsittely jatkaa pilviteknologioita, -työkaluja ja sovelluskehityksen horisontteja pilvitietojenkäsittelyn paradigman jatkeena.
 
 ## Networking challenges
 
-Laitteiden fyysinen ympäristö asettaa haasteita paitsi laitteille, myös verkolle. Langattomat verkot ovat yleisiä peltotuotannon sovelluksissa, missä verkkojen kaapeloinnin kustannukset voivat olla huomattavia ja kaapelointia voi olla vaikea toteuttaa.
+- Laitteiden fyysinen ympäristö asettaa haasteita paitsi laitteille, myös verkolle. Langattomat verkot ovat yleisiä peltotuotannon sovelluksissa, missä verkkojen kaapeloinnin kustannukset voivat olla huomattavia ja kaapelointia voi olla vaikea toteuttaa.
 
-Ympäristövaikutukset ovat tunnetusti yksi suurimmista tekijöistä jotka vaikuttavat haitallisesti langattoman verkon yhteyksiin monitie-etenemisen ja sen taustamelua lisäävän vaikutuksen takia *(Wang et al., 2017)*. Lämpötilan (2), kosteuden (1), ihmisten ja muiden esteiden vaikutus on havaittu vaikuttavan langattomien verkkojen toimintaan. Tämän takia tieto tulee siirtää käyttäen luotettavia ja vakaita teknologioita, ottaen huomioon maatalouden käyttöympäristön vaatimukset ja haasteet.
+- Ympäristövaikutukset ovat tunnetusti yksi suurimmista tekijöistä jotka vaikuttavat haitallisesti langattoman verkon yhteyksiin monitie-etenemisen ja sen taustamelua lisäävän vaikutuksen takia *(Wang et al., 2017)*. Lämpötilan (2), kosteuden (1), ihmisten ja muiden esteiden vaikutus on havaittu vaikuttavan langattomien verkkojen toimintaan. Tämän takia tieto tulee siirtää käyttäen luotettavia ja vakaita teknologioita, ottaen huomioon maatalouden käyttöympäristön vaatimukset ja haasteet.
 
 
 ## Security challenges
 
-Siirryttäessä IoT-sovellusten käyttöön sidosryhmien turvallisuus, autenttisuus, luottamuksellisuus ja yksityisyyden suoja tulee varmistaa. IoT-ratkaisut tulee suojata ulkoisia hyökkäyksiä vastaan havaintotasolla, turvata datan kerääminen tietoliikennetasolla ja vastaavasti sovellustasolla tarjota eritellyt takaukset siitä, että vain valtuutetuilla tahoilla on pääsy ja oikeudet muuttaa tietoja.  
+- Siirryttäessä IoT-sovellusten käyttöön sidosryhmien turvallisuus, autenttisuus, luottamuksellisuus ja yksityisyyden suoja tulee varmistaa. IoT-ratkaisut tulee suojata ulkoisia hyökkäyksiä vastaan havaintotasolla, turvata datan kerääminen tietoliikennetasolla ja vastaavasti sovellustasolla tarjota eritellyt takaukset siitä, että vain valtuutetuilla tahoilla on pääsy ja oikeudet muuttaa tietoja.  
 
-IoT:n tietoturva kiteytyy kolmeen vaatimukseen: tunnistus, luottamuksellisuus ja käyttöokeuksien hallinta *(Sicari, Rizzardi, Grieco, & Coen-Porisini, 2015)*.
+- IoT:n tietoturva kiteytyy kolmeen vaatimukseen: tunnistus, luottamuksellisuus ja käyttöokeuksien hallinta *(Sicari, Rizzardi, Grieco, & Coen-Porisini, 2015)*.
 
-Havaintotasolla yleisimpiin tietoturvakysymyksiin kuuluvat tiedon hankinnan turvallisuus (*information acquisition security*)sekä laitteistojen fyysinen turvallisuus. Fyysinen turvallisuus on erityisen tärkeä maatalouden toimintaympäristössä, jossa laitteet voivat sijaita avoimilla pelloilla ja toimia ilman valvontaa pitkiäkin aikoja. Sekä IoT-sovellusten hajautetun luonteen että vaihtelevien käyttöympäristöjen takia yksi tietoturvaprotokolla ei yleensä ole tarpeeksi *(Li, 2012)*.
+- Havaintotasolla yleisimpiin tietoturvakysymyksiin kuuluvat tiedon hankinnan turvallisuus (*information acquisition security*)sekä laitteistojen fyysinen turvallisuus. Fyysinen turvallisuus on erityisen tärkeä maatalouden toimintaympäristössä, jossa laitteet voivat sijaita avoimilla pelloilla ja toimia ilman valvontaa pitkiäkin aikoja. Sekä IoT-sovellusten hajautetun luonteen että vaihtelevien käyttöympäristöjen takia yksi tietoturvaprotokolla ei yleensä ole tarpeeksi *(Li, 2012)*.
 
-RFID:n tietoturvaongelmat liittyvät yleensä tietojen vuotamiseen, mikä voi paljastaa paikkatietoja tai muuta arkaluontoista tietoa. Tietojen salaus, ns. blocker tag:it, tagien taajuusmuutokset, häirinnän käyttö ja tagien fyysisen tuhoamisen käytänteet *(Matharu, Upadhyay, & Chaudhary, 2014)*.
+- RFID:n tietoturvaongelmat liittyvät yleensä tietojen vuotamiseen, mikä voi paljastaa paikkatietoja tai muuta arkaluontoista tietoa. Tietojen salaus, ns. blocker tag:it, tagien taajuusmuutokset, häirinnän käyttö ja tagien fyysisen tuhoamisen käytänteet *(Matharu, Upadhyay, & Chaudhary, 2014)*.
 
-Sensorilaitteiden tietoturvan parantamiseksi tulisi käyttää salausalgoritmeja, avaintenjakelun käytänteitä, tunkeutumisenhavaitsemisjärjestelmiä ja *turvallisuusreitityskäytänteitä*, huomioiden laitteiden asettamat rajoitukset.
+- Sensorilaitteiden tietoturvan parantamiseksi tulisi käyttää salausalgoritmeja, avaintenjakelun käytänteitä, tunkeutumisenhavaitsemisjärjestelmiä ja *turvallisuusreitityskäytänteitä*, huomioiden laitteiden asettamat rajoitukset.
 
-Nykyisessä IoT-konseptissa datavirta kulkee laitteilta yhdyskäytävälle, joka lataa tiedon edelleen verkkoon kuten pilvipalveluun. Sensorilaitteille on olemassa useita tietoturvakäytänteitä kuten salausalgoritmeja, tunnistusmekanismeja, datavirran hallintakäytänteitä, datan suodatusmekanismeja jne. *(Li, 2012)*.
+- Nykyisessä IoT-konseptissa datavirta kulkee laitteilta yhdyskäytävälle, joka lataa tiedon edelleen verkkoon kuten pilvipalveluun. Sensorilaitteille on olemassa useita tietoturvakäytänteitä kuten salausalgoritmeja, tunnistusmekanismeja, datavirran hallintakäytänteitä, datan suodatusmekanismeja jne. *(Li, 2012)*.
 
-Myös havaintotaso tarvitsee *information acquisition security measures*. Pyrittäessä estämään valtuuttamattomien tahojen pääsy kerättyyn dataan tunnistus, luottamuksellisuus ja käyttöokeuksien hallinta tulee turvata myös datan hankinnan vaiheessa ja hallinnointi-, reititys- ja sensorilaitteiden tunnistuskäytänteiden käyttö varmistaa. (2)
+- Myös havaintotaso tarvitsee *information acquisition security measures*. Pyrittäessä estämään valtuuttamattomien tahojen pääsy kerättyyn dataan tunnistus, luottamuksellisuus ja käyttöokeuksien hallinta tulee turvata myös datan hankinnan vaiheessa ja hallinnointi-, reititys- ja sensorilaitteiden tunnistuskäytänteiden käyttö varmistaa. (2)
 
 
 ## Stack challenges
 
-Tietoliikennetason ja sovellustason välissä olevan väliohjelmiston tietoturva tulee huomioida.
+- Tietoliikennetason ja sovellustason välissä olevan väliohjelmiston tietoturva tulee huomioida.
 
-Väliohjelmisto hoitaa sekä tiedon käsittelyä että rajapintoja tietoliikennetason ja sovellustason välillä. Väliohjelmistojen tietoturva vaatii luottamuksellisuutta tietojen käsittelyssä ja turvallista tietojen taltiointia.
+- Väliohjelmisto hoitaa sekä tiedon käsittelyä että rajapintoja tietoliikennetason ja sovellustason välillä. Väliohjelmistojen tietoturva vaatii luottamuksellisuutta tietojen käsittelyssä ja turvallista tietojen taltiointia.
 
-Tietoliikennetasolla langattomat tietoliikenneyhteydet voivat olla haastavia tietoturvalle jopa kehittyneemmille laitteille kuin IoT-sovelluksissa yleensä käytetään. IoT-arkkitehtuuri voi helposti altistua palvelunestohyökkäykselle, valtuudettomalle pääsy-yritykselle, väliintulohyökkäykselle, haittaohjelmainjektiolle jotka kohdistuvat ja vaikuttavat luottamuksellisuuteen ja tiedon eheyteen. Todentaminen, tunkeutumisen havaitseminen, avaintenhallinta ja *negotiation mechanisms* voivat tarjota ratkaisuita tietoliikennetason uhkia vastaan.
+- Tietoliikennetasolla langattomat tietoliikenneyhteydet voivat olla haastavia tietoturvalle jopa kehittyneemmille laitteille kuin IoT-sovelluksissa yleensä käytetään. IoT-arkkitehtuuri voi helposti altistua palvelunestohyökkäykselle, valtuudettomalle pääsy-yritykselle, väliintulohyökkäykselle, haittaohjelmainjektiolle jotka kohdistuvat ja vaikuttavat luottamuksellisuuteen ja tiedon eheyteen. Todentaminen, tunkeutumisen havaitseminen, avaintenhallinta ja *negotiation mechanisms* voivat tarjota ratkaisuita tietoliikennetason uhkia vastaan.
 
-Sovellustaso on IoT-arkkitehtuurin ylimpänä tasona on lähellä *ja usein päällekkäinen* pilvipalveluiden kanssa. Sovellustason tietoturvakysymykset ovat myös lähellä pilvipalveluiden vastaavia, kuten tietoturva, yksityisyys, varmuuskopiointi ja tietojen pelastus.
+- Sovellustaso on IoT-arkkitehtuurin ylimpänä tasona on lähellä *ja usein päällekkäinen* pilvipalveluiden kanssa. Sovellustason tietoturvakysymykset ovat myös lähellä pilvipalveluiden vastaavia, kuten tietoturva, yksityisyys, varmuuskopiointi ja tietojen pelastus.
 
-Myös sovellustasolla hallintamekanismien tulee hallinnoida tiedon käyttöoikeuksia, sen omistajuutta ja pääsyoikeuksia tietoihin sekä fyysisisten käyttäjien tapauksessa että laitteiden, järjestelmien ja organisaatioiden välillä.
+- Myös sovellustasolla hallintamekanismien tulee hallinnoida tiedon käyttöoikeuksia, sen omistajuutta ja pääsyoikeuksia tietoihin sekä fyysisisten käyttäjien tapauksessa että laitteiden, järjestelmien ja organisaatioiden välillä.
 
 ## Potential value of IoT in agriculture
 
@@ -345,11 +347,11 @@ Autonomiset järjestelmät voivat valvoa ja ohjata toimilaitteita optimaalisella
 
 Tuotantoketjut voivat valvoa tuotteiden elinkaaren jokaista vaihetta, tehdä automaattista analytiikkaa/päättelyä sekä lisätä kuluttajien luottamusta läpinäkyvän tuotantoketjun tietojen esille tuomisella.
 
-Tietoturvauhat ovat todellisia ja tuotannossa käytettävät tietoliikenneverkot tarvitsevat turvaamista.
+- Tietoturvauhat ovat todellisia ja tuotannossa käytettävät tietoliikenneverkot tarvitsevat turvaamista.
 
 Todennäköisesti toteutuvassa IoT-ratkaisujen kentässä/ekosysteemissä/skenaariossa eri toimijat tulevat käyttämään keskenään erilaisia laitteita. Yhteentoimivuuden parantamiseksi datan suodatusta ja semanttista (merkitystä koskeva) annotointia tulee tehdä ainakin jossain määrin eri toimijoiden omilla tahoillaan tuottamalle tiedolle. Vain tällä tavoin toimittaessa voidaan pyrkiä jaetun päätöksenteko- tai asiantuntijajärjestelmän optimointiin.
 
-Tietoturvasta, anonymiteetistä ja pääsynhallinnasta huolehtiminen on kriittisen tärkeää jaetun päätöksentekojärjestelmän laajalle käyttöönotolle.  
+- Tietoturvasta, anonymiteetistä ja pääsynhallinnasta huolehtiminen on kriittisen tärkeää jaetun päätöksentekojärjestelmän laajalle käyttöönotolle.  
 
 
 

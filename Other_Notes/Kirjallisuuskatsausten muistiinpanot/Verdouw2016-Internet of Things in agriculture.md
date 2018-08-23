@@ -112,16 +112,25 @@ Katsauksessa todettiin, että tekijöille saatavilla olevista papereista mikää
 Havaitut tai käsitellyt haasteet viittaavat siihen, että nykyiset IoT-sovellukset ja teknologioiat maatalouden alalla ovat usei pirstaleisia, vailla saumatonta integraatiota ja erityisesti edistyneemmät sovellukset ovat kokeellisissa vaiheissa. Toiminnalliset sovellukset ovat pääasiassa aikaisten omaksujien käytössä ja keskittyvät perustoiminnallisuuksiin hienorakeisella tasolla (?).
 
 Tärkeitä haasteita nykyisessä tilanteessa on:
-* Valtavan IoT-laitteiden ja datan heterogeenisyyden yhteentoimivuuden varmistaminen avoimilla IoT-arkkitehtuureilla, alustoilla ja standardeilla.
-* Yhteentoimivien IoT-teknologioiden skaalaus aikaisten omaksujien ulkopuolelle, erityisesti nykyisten sovellusten yksinkertaistamisella sekä edullisuuden parantamisella loppukäyttäjille, varmistaen sopivuuden ja käytettävyyden suurimmalle osalle viljelijöitä ja ruoka-alan yrityksiä. Tästä syystä myös pienille yrityksille sopivia, systemaattisen ekonomisen analyysin kustannuksista ja hyödyistä sisältäviä, liiketoimintamalleja tarvitaan.
-* IoT-teknologioiden edelleen kehitys laajan käytettävyyden saavuttamiseksi maatalouden monimuotoisessa käyttöympäristössä, esimerkiksi erilaiset ilmasto-olosuhteet, erilaiset satokasvit ja maaperät.
-* IoT-laitteiden kehittäminen vaativiin olosuhteisiin ja luonnon objekteille (kasvit, eläimet, maapinta-ala, pilaantuvat ruokatuotteet) joihin itseensä laitteiden upottaminen/yhdistäminen on rajattua. Erityisesti laittelle, joissa sovelletaan viimeaikaista teknologista kehitystä, koska kypsempien teknologioiden sovelluksessa maatalouteen on jo paljon onnistumisia ja kehitystä.
-* Stabiilin ja luotettavan langattoman kehittäminen kaukaisille alueille, joihin on usein rajattu kenttä ja kaistanleveys.
-* Energiatehokkaiden IoT-teknologioiden kehittäminen, mukaanlukien laitteiden ja yhteyksien kehittäminen maaseudun tarpeisiin.
+
+- Valtavan IoT-laitteiden ja datan heterogeenisyyden yhteentoimivuuden varmistaminen avoimilla IoT-arkkitehtuureilla, alustoilla ja standardeilla.
+
+- Yhteentoimivien IoT-teknologioiden skaalaus aikaisten omaksujien ulkopuolelle, erityisesti nykyisten sovellusten yksinkertaistamisella sekä edullisuuden parantamisella loppukäyttäjille, varmistaen sopivuuden ja käytettävyyden suurimmalle osalle viljelijöitä ja ruoka-alan yrityksiä. Tästä syystä myös pienille yrityksille sopivia, systemaattisen ekonomisen analyysin kustannuksista ja hyödyistä sisältäviä, liiketoimintamalleja tarvitaan.
+
+- IoT-teknologioiden edelleen kehitys laajan käytettävyyden saavuttamiseksi maatalouden monimuotoisessa käyttöympäristössä, esimerkiksi erilaiset ilmasto-olosuhteet, erilaiset satokasvit ja maaperät.
+
+- IoT-laitteiden kehittäminen vaativiin olosuhteisiin ja luonnon objekteille (kasvit, eläimet, maapinta-ala, pilaantuvat ruokatuotteet) joihin itseensä laitteiden upottaminen/yhdistäminen on rajattua. Erityisesti laittelle, joissa sovelletaan viimeaikaista teknologista kehitystä, koska kypsempien teknologioiden sovelluksessa maatalouteen on jo paljon onnistumisia ja kehitystä.
+
++ Stabiilin ja luotettavan langattoman kehittäminen kaukaisille alueille, joihin on usein rajattu kenttä ja kaistanleveys.
+
+- Energiatehokkaiden IoT-teknologioiden kehittäminen, mukaanlukien laitteiden ja yhteyksien kehittäminen maaseudun tarpeisiin.
+
 * Analytiikan kehittäminen yhdistämään esineiden data kolmannen osapuolen historia- ja ennustedatan kanssa, kuten satelliittidata, maaperä-, vesi- ja ilma-analyysit, logistiikkajärjestelmät, hintatietojen, vähittäismyynnin datan, kuluttajatietojen, ruokavaliotietojen jne.
-* Luotettavan tietoturvan, yksityisyydensuojan ja datan omistajuuden ratkaisujen saatavuus, jotka soveltuvat dynaamisten ja monimutkaisten sidosryhmien verkostojen tarpeisiin kun sidosryhmiin kuuluu valtava määrä hyvin pieniä yrityksiä, suuria monikansallisia konserneja ja viranomaisia joiden kaikkien tulee toimia yhteistyössä.
+
+- Luotettavan tietoturvan, yksityisyydensuojan ja datan omistajuuden ratkaisujen saatavuus, jotka soveltuvat dynaamisten ja monimutkaisten sidosryhmien verkostojen tarpeisiin kun sidosryhmiin kuuluu valtava määrä hyvin pieniä yrityksiä, suuria monikansallisia konserneja ja viranomaisia joiden kaikkien tulee toimia yhteistyössä.
 
 ## Conclusions
+
 Katsauksen mukaan AIoT on saanut runsaasti huomiota tieteelliseltä yhteisöltä, erityisesti Kiinassa.
 
 Yleisimmin käsitellyt aiheet olivat ruoan tuotantoketju sekä peltokasvituotanto.

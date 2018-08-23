@@ -124,14 +124,14 @@ Kirjallisuuskatsauksessa käsitellyistä tutkimuksissa AIoT:tä käytetään eni
 ## Meta (poistettava otsikko)
 Tässä luvussa pyritään kuvailemaan toteutetun tutkimuksen tarkoitus, tavoitteet, tutkimuskysymykset, aineisto, menetelmät ja eteneminen.
 
-*tutkimusongelma?*
+Opinnäytetyön keskeinen tutkimusongelma on, että maatalouden IoT-ratkaisut eivät ole laajasti tunnettuja, aiheesta ei ole saatavilla yleisluontoisia katsauksia suomen toimintaympäristön näkökulmasta ja aiheetta sivuavia opinnäytetöitä on kirjoitettu vain muutamia.
 
-Tutkimuskysymyksiin pyritään vastaamaan käyttämällä kuvailevaa kirjallisuuskatsausta ja asiantuntijoiden teemahaastatteluja. Teemahaastatteluiden materiaali analysoidaan soveltamalla sisällönanalyysin keinoja ja *kuvailevalla tekstillä tutkimustuloksissa*
+Tutkimuskysymyksiin pyritään vastaamaan käyttämällä kuvailevaa kirjallisuuskatsausta ja asiantuntijoiden teemahaastatteluja. Käyttämällä tutkimusmenelminä sekä teemahaastatteluja että kirjallisuuskatsausta pyritään lisäämään ymmärrystä tutkittavasta ilmiöstä eri lähestymistapoja käyttäen. *tähän voisi tulla mainita Onwuegbuzie & Frels (2016) s.39 "Multimodal approach"ista, jossa voidaan laajentaa CRLää mm. asiantuntijoiden, secondary data:n s.41 (organisaatioiden keräämiä kyselyitä, tutkimuksia jne.), avulla. secondary data lienee Tutki ja kirjoita s.186 mukaan Valmiit aineistot?*
 
-Ilmiön ymmärryksen lisäämiseen voidaan Kanasen (2010) mukaan käyttää menetelmätriangulaatiota.
-Menetelmätriangulaatio eli useiden menetelmien käyttö on tällöin myös tutkimusstrateginen valinta. (@kananenOpinnaytetyonKirjoittamisenKaytannon2010)
+Opinnäytetyössä pyritään tukemaan laadullista menetelmää käyttämällä menetelmätriangulaatiota eli monimetodista lähestymistapaa. (ks. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 39; @gubriumSageHandbookInterview2012, 284) Menetelmätriangulaatio tehdään soveltamalla määrällistä menetelmää haastattelumateriaalin sisällönanalyysin tulosten tarkastelussa, minkä lisäksi haastattelujen tuloksia kuvaillaan tutkimustuloksissa laadullisesti. 
 
-Tässä opinnäytetyössä pyritään tukemaan laadullista menetelmää käyttämällä menetelmätriangulaatiota eli monimetodista lähestymistapaa. (ks. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 39; @gubriumSageHandbookInterview2012, 284) Menetelmätriangulaatio tehdään soveltamalla määrällistä menetelmää haastattelumateriaalin sisällönanalyysin tulosten tarkastelussa. *tähän voisi tulla mainita Onwuegbuzie & Frels (2016) s.39 "Multimodal approach"ista, jossa voidaan laajentaa CRLää mm. asiantuntijoiden, secondary data:n s.41 (organisaatioiden keräämiä kyselyitä, tutkimuksia jne.), avulla. secondary data lienee Tutki ja kirjoita s.186 mukaan Valmiit aineistot?*
+Kanasen (2010) mukaan menetelmätriangulaatiota voidaan käyttää juuri tutkittavan ilmiön ymmärryksen lisäämiseen. Menetelmätriangulaatio eli useiden menetelmien käyttö on tällöin myös tutkimusstrateginen valinta. (@kananenOpinnaytetyonKirjoittamisenKaytannon2010)
+
 
 ## Tutkimuksen tarkoitus
 
@@ -154,8 +154,6 @@ I) Millaista tutkimusta IoT-teknologioiden soveltamisesta kasvintuotantoon on ju
 II) Miten kasvintuotannossa hyödynnetään IoT-teknologioita?
 
 ## Tutkimusstrategian/menetelmän valinta
-
-*Koska katsauksessa halutaan käsitellä laaja-alaisesti huomattavan erilaisia aineistoja tutkimusraporteista yritysjulkaisuihin. Koska halutaan tuottaa kattava kuva tutkimuksesta, markkinolla saatavilla olevista ratkaisuista ja kasvintuotannon kentällä vallitsevasta tilanteesta.*
 
 Opinnäytetyö tehtiin käyttäen laadullisia tutkimusmenetelmiä koska tutkimustehtävänä on koota yhteen laadulliseksi yhteenvedoksi tutkimuksien tuloksia, erilaisten julkaisujen sisältöjä ja asiantuntijoiden näkemyksiä.
 
@@ -263,7 +261,7 @@ Käytetty hieman erilaisia hakulauseita eri kantoihin niiden vaatimusten ja toim
 
 
 *Tuloksena kohtuullinen määrä tieteellisiä lähteitä.*
-Lähteiden joukosta on valittu aihetta käsittelevät kirjallisuuskatsaukset, joista käydään läpi tuloksien lisäksi tutkimusmenetelmät. Näitä menetelmiä käytetään hyväksi soveltuvin osin tämän opinnäytetyön seuraavissa aineistohaun vaiheissa. Tällä pyritään varmistamaan, että katsauksissa selkeästi havaitut asiakokonaisuudet tulevat huomioiduksi,hakumenetelmät ja asiasanat ovat laadukkaita sekä tutkittavalle ilmiölle sopivia. 
+Lähteiden joukosta on valittu aihetta käsittelevät kirjallisuuskatsaukset, joista käydään läpi tuloksien lisäksi tutkimusmenetelmät. Näitä menetelmiä käytetään hyväksi soveltuvin osin seuraavissa aineistohaun vaiheissa. Tällä pyritään varmistamaan, että katsauksissa selkeästi havaitut asiakokonaisuudet tulevat huomioiduksi, hakumenetelmät ja asiasanat ovat laadukkaita sekä tutkittavalle ilmiölle sopivia. 
 
 Kirjallisuuskatsausten käyttämät tietokannat:
     Talaveran: Google Scholar, IEEE, Scopus
@@ -279,12 +277,13 @@ Kirjallisuuskatsausten käyttämät tietokannat:
 *Aineistoa kerättiin myös hakutoiminnoilla löydettyjen tekstien/julkaisujen perusteella automaattisesti suositeltujen julkaisujen joukosta (esimerkiksi ResearchGate:n Suggested for you -toiminto sekä IEEE Xplore:n Related Articles -toiminto) sekä asiantuntijakeskusteluissa suositeltujen julkaisujen joukosta.*
 
 Alustavia aineistohakuja tehtiin hakukoneista Google-haulla (https://google.com) ja Google Scholar -haulla (https://scholar.google.fi) sekä ResearchGate:n (https://www.researchgate.net) haku- ja suositustoimintojen avulla. Haaga-Heliaan ostetuista tietokannoista (http://libguides.haaga-helia.fi/az.php) alustavia hakuja tehtiin tietokantoihin: 
-Passport Global Market (http://go.euromonitor.com/passport), 
-Doria (http://www.doria.fi), 
-Elsevier ScienceDirect Freedom Collection (https://www.elsevier.com/solutions/sciencedirect), 
-EBSCO Academic Search Elite (https://www.ebsco.com/products/research-databases/academic-search-elite), 
-Sage Premier SAGE Journals Online (https://uk.sagepub.com/en-gb/eur/sage-premier), 
-IEEE Xplore Electronic Library (https://ieeexplore.ieee.org/Xplore/home.jsp).
+
+* Passport Global Market (http://go.euromonitor.com/passport), 
+* Doria (http://www.doria.fi), 
+* Elsevier ScienceDirect Freedom Collection (https://www.elsevier.com/solutions/sciencedirect), 
+* EBSCO Academic Search Elite (https://www.ebsco.com/products/research-databases/academic-search-elite), 
+* Sage Premier SAGE Journals Online (https://uk.sagepub.com/en-gb/eur/sage-premier), 
+* IEEE Xplore Electronic Library (https://ieeexplore.ieee.org/Xplore/home.jsp).
 
 *Viitekehyksen kirjojen haku on ilmeisesti erillään, eikä kuvailla tässä vaikka muistiinpanoissa onkin muiden hakujen seassa, ks. Kirjallisuuskatsausten lähteiden haku.md kohta Haettu HHFinnasta <16-04-2018> r274*
 
@@ -303,7 +302,7 @@ IEEE Xplore Electronic Library (https://ieeexplore.ieee.org/Xplore/home.jsp).
 
 Näiden lisäksi käytettiin Google Scholar -hakukonetta (https://scholar.google.fi)
 
-Hakulauseissa käytettiin keskeisinä hakusanoina: "IoT", "Internet of Things", "Agriculture", "Precision Farming", "Smart Farming". Hakulauseita laajennettiin mahdollisuuksien mukaan kunkin tietokannan hakutoimintojen rajoissa.
+Hakulauseissa käytettiin keskeisinä hakusanoina: "IoT", "Internet of Things", "Agriculture", "Precision Farming", "Smart Farming". Hakulauseita muokattiin kunkin tietokannan hakutoimintojen mahdollisuuksien puitteissa. Useiden tietokantojen hakutoiminnot rajoittivat hakulauseissa käytettävien hakusanojen määrää. Tällöin maataloutta kuvaavan toisen hakusanaryhmän hakusanoista (ks. Asiasanojen valintaperusteet) jätettiin harkinnanvaraisesti pois vähemmän merkittäviä hakusanoja. Erilaisten hakulauseiden antamia hakutuloksia vertailtiin keskenään, jonka jälkeen voitiin muotoilla kullekin tietokannalle sopiva hakulause.
 
 
 ##### Asiasanojen valintaperusteet
@@ -311,16 +310,16 @@ Hakulauseissa käytettiin keskeisinä hakusanoina: "IoT", "Internet of Things", 
 *per @talaveraReviewIoTApplications2017 Muistiinpanoja.md r67*
 *katso mallia muista oppareista kans!*
 
-
+Alustavissa aineistohauissa löydettyjen julkaisujen asiasanojen sekä löydettyjen kirjallisuuskatsausten käyttämien hakusanojen joukosta koottiin tutkittavalle ilmiölle keskeisimmät hakusanat.
 
 Asiasanojen valinnassa käytettiin vain englanninkielisiä sanoja, koska suomenkielisten aineistojen arvellaan käyttävän sekä suomen- että englanninkielisiä asiasanoja ja löytyvän niiden avulla.
 
-IoT:tä käsittelevien yleisteosten asiasanat jätettiin pois, koska kirjojen relevanteiksi katsotut asiasanat toistuivat muualla aineistossa. Lisäksi kirjallisuuskatsauksen seuraavissa vaiheissa ei enää haettu IoT:tä yleisesti käsittelevää kirjallisuutta.
+Valintaprosessissa IoT:tä käsittelevien yleisteosten asiasanat jätettiin pois, koska kirjojen ilmiölle merkityksellisiksi arvioidut asiasanat toistuivat myös muualla aineistossa. Lisäksi kirjallisuuskatsauksen seuraavissa vaiheissa ei enää haettu IoT:tä yleisesti käsittelevää kirjallisuutta.
 
-Samoin pois jätettiin asiasanat, jotka eivät selkeästi liity kasvintuotannon IoT:n teknologiaratkaisuihin.
+Samoin pois jätettiin asiasanat, jotka eivät selkeästi liity kasvintuotannon IoT:n tutkimukseen ja teknologiaratkaisuihin.
 
 *Kirjallisuuskatsausten hausta ei näy tuloksia missään!? Jätetäänkö pois?*
-**Kirjallisuuskatsausten hakuun** käytettiin asiasanoja kirjallisuuskatsauksista. Useiten toistuvat asiasanat "IoT" ja "Internet of Things" valittiin ensimmäiseksi ryhmäksi. Toiseksi ryhmäksi valittiin kirjallisuuskatsauksia koskevat asiasanat "literature review", "Systematic literature review" sekä "Survey". Kolmanteen asiasanaryhmään valittiin sellaiset asiasanat, joiden arvioitiin toistuvan kirjallisuuskatsauksissa ja joita ei valittu edellisiin ryhmiin. Kolmanteen ryhmään lisättiin vielä Precision Agriculture:   
+**Kirjallisuuskatsausten hakuun** käytettiin hakusanoina alustavissa aineistohauissa löydettyjen kirjallisuuskatsausten asiasanoja. Useiten toistuvat asiasanat "IoT" ja "Internet of Things" valittiin ensimmäiseksi hakusanaryhmäksi. Toiseksi hakusanaryhmäksi valittiin kirjallisuuskatsauksia koskevat asiasanat "literature review", "Systematic literature review" sekä "Survey". Kolmanteen hakusanaryhmään valittiin sellaiset asiasanat, joiden arvioitiin toistuvan kirjallisuuskatsauksissa ja joita ei valittu edellisiin ryhmiin. Kolmanteen ryhmään lisättiin vielä Precision Agriculture, jolloin kolmannen hakusanaryhmään kuuluvat:
     Agriculture
     Agro-industry
     Big data analysis
@@ -332,7 +331,7 @@ Samoin pois jätettiin asiasanat, jotka eivät selkeästi liity kasvintuotannon 
     Precision Agriculture
     Smart Farming
 
-**Artikkelien hakuun** käytettiin kirjallisuuskatsausten hakulauseissa käytettyjä hakusanoja, joista valittiin arviolta keskeisimmät kasvintuotannon IoT-ratkaisuiden näkökulmasta. Näihin lisättiin muissa aikaisemmissa vaiheissa löydetyt asiasanat, joiden arvioitiin mahdollisesti parantavan hakutulosten kattavuutta:
+**Muun aineiston hakuun** käytettiin kirjallisuuskatsausten hakulauseissa käytettyjä hakusanoja, joista valittiin arviolta keskeisimmät kasvintuotannon IoT-ratkaisuiden ja tutkimuksen näkökulmista. Näihin lisättiin muissa aikaisemmissa vaiheissa löydetyt asiasanat, joiden arvioitiin mahdollisesti parantavan hakutulosten kattavuutta.
 
 Asiasanoista muodostettiin hakulause, joka on jaettu kahteen ryhmään. Ensimmäiseen ryhmään valittiin asiasanat "IoT" ja "Internet of Things". Toiseksi ryhmäksi valittiin
 
@@ -390,114 +389,7 @@ Seed
 Water
 Weather
 
-Hakulausetta muokattiin kunkin tietokannan hakutoimintojen mukaan.
-
-
-Academic Search Elite (EBSCO)
-    Advanced Search
-        Hakulauseella
-(AB "Internet of Things" OR IoT) AND (AB agriculture OR AB "precision agriculture" OR AB "smart agriculture" OR AB "smart farming" OR AB "precision farming" OR AB "Plant Production" OR AB Greenhouses OR AB "Plant factories" OR AB "Food production" OR AB Horticulture OR AB Irrigation OR AB Crop OR AB Cereals OR AB Fruit OR AB Vegetable  OR AB Farm OR AB Farming)
-Rajattu: kokoteksti <24-04-2018  17:15>
-
-ACM Digital Library
-    Advanced Search
-        Hakulauseella
-recordAbstract:(+"Internet of Things" +agriculture) <25-04-2018  20:46>
-    
-Business Premium (ProQuest)
-    Advanced Search
-        Database: Science and Technology
-            Full text
-            Hakulauseella
-ab("internet of things") AND ab(agriculture) <25-04-2018  22:16>
-
-Dart
-    Hakulauseella
-        "Internet of Things" agriculture <25-04-2018  22:43>
-            5 hakutulosta
-
-Sage Journals Online (Sage Premier)
-    Advanced Search
-        Full access
-        Hakulauseella
-            [Abstract "internet of things"] AND [Abstract agriculture] <25-04-2018  23:26>
-            [Abstract "internet of things"] AND [Abstract greenhouse] <26-04-2018  08:32>
-            [Abstract "internet of things"] AND [All "vertical farming"]
-            [Abstract "internet of things"] AND [[Abstract agriculture] OR [Abstract "plant factory"] OR [Abstract "precision agriculture"] OR [Abstract "smart farming"] OR [Abstract "vertical farming"] OR [Abstract "plant factory"] OR [Abstract farm] OR [Abstract greenhouse]]
-
-Theseus
-    Koko Theseus
-        Hakulauseella
-("Internet of Things") AND (agriculture OR "plant factory" OR "precision agriculture" OR "smart farming" OR "vertical farming" OR "plant factory" OR farm OR greenhouse) <26-04-2018  13:19>
-                84 hakutulosta (kirjoitettaessa <13-08-2018  18:24> 104)
-
-#### Kirjallisuuskatsauksen aineistojen haun tulokset ja aineistojen valinta
-
-Aineistojen valinnassa: pitää käsitellä IoT:tä JA kasvintuotantoa; ei pelkästään teknologiaratkaisu, prioriteetti tieteellisillä julkaisuilla, sitten opinnäytetöillä, konferenssijulkaisuja vain jos tekijät ovat varteenotettavia ja luotettavia, sitten organisaatioiden omat julkaisut.
-
-*Missä vaiheessa löydettiin IoF2020? On käytössä <21-04-2018  23:29> ResearchGaten kautta.*
-Aaltodoc (https://aaltodoc.aalto.fi) 
-    Elovaara, Joona: Aggregating OPC UA Server for Remote Access to Agricultural Work Machines
-        Vain teknologiaratkaisu. Voi käyttää taustan mallina ja sis. k-kats.
-    Nikkilä, Raimo: Automated control of compliance with production standards in precision agriculture
-        Tuotantosäännöstöjen automaattinen valvonta täsmäviljelyssä, teknologiaratkaisuja: FMIS, sun muut
-Silmäilyn perusteella muut hakutulokset eivät käsittele kasvintuotannon IoT-ratkaisuja.
-
-Academic Search Elite (EBSCO)
-    9 hakutulosta
-        Silmäilyn perusteella valitut:
-            Lin: Research and Application Progress of Agricultural Big Data Technology and Resources. 
-                esimerkkejä Big Datan käytöstä maataloudessa.
-            Electronic Design: 3 Ways the IoT Revolutionizes Farming
-                karjanseuranta, täsmäviljely, itsenäiset traktorit
-            eWeek Preimesberger: IoT Platform Maker infiswift Aims to Modernize Farming
-                Alustatoimittaja, jolla on erikoistunut maatalouden IoT-alusta, muiden muassa.
-            Professional Engineering Blake: From the factory to the fields
-                Taustaa, peltorobotiikan kehitys per Bosh BoniRob, Autonomous Tractor Company: traktori oppii työstä, Panasonic: tomaatinpoimintarobotti
-            industryandbusiness.ca: Business re-imagined: IIoT is set to transform energy, agriculture
-                Taustaa, Accenturen Accenture Precision Agriculture Service, Accenture Connected Crop Solution (ks. muut Accenture-lähteet Evernotessa)
-            EI TÄTÄ: Lv: Construction of Cucumber Powdery Mildew Early Warning System...
-                Lämpötilan ja kosteuden mittaus, laskettu tautiennuste, ei aktuointia.
-
-ACM Digital Library
-    11 hakutulosta
-    Silmäilyn perusteella valittu:
-        Moisescu: Cyber physical systems based model-driven development for precision agriculture
-            Kuvaa maatalouden järjestelmien järjestelmän kompleksisuutta. Lähteissä ollutta IBM-artikkelia ei heti löydetty annetulla osoitteella, mutta IBM:llä on paljon maatalouteen liittyvää tutkimusta [https://www.ibm.com/search?lang=en&cc=us&q=agriculture] "Mello U., Lloyd Treinish, Precision agriculture Using predictive weather analytics to feed future generations, 2016 http://www.research.ibm.com/articles/precision_agriculture.shtml"
-
-Business Premium (ProQuest)
-    2 hakutulosta
-    Silmäilyn perusteella valittu:
-        Helios Wire to Launch Satellite-Enabled Machine to Machine (M2M) Connectivity to Democratize the Internet of Things (IoT)
-            Uutinen, sateliitti kapean kaistanleveyden IoT & M2M -ratkaisuille
-
-Sage Journals Online (Sage Premier)
-    yht. 19 hakutulosta
-Hakutulokset eivät käsittele kasvintuotannon IoT:tä yleisellä tasolla, vaan keskittyvät tiettyihin teknologioihin. Osa käsittelee vain tiettyä teknologiaa kasvintuotannon IoT:ssä ja osa ei käsittele kasvintuotannon IoT-ratkaisuja.
-
-Theseus
-    84 hakutulosta
-        Silmäilyn perusteella valittu:
-            Riikonen: Big data päätöksenteon apuvälineenä kasvinviljelytilalla
-                Tiedoilla mahd. arvioida tilan onnistumista, datan omistajuus, analyysi Agronet-keskusteluista: pinnallista ja enemmän kiinnostaa satelliittikuvaus ISOBUS paikkatieto, paremmat katelaskelmat, ympäristövaikutusarviointi, vaatii politiikkaa testausta pilotointia, heikot mahdollisuudet, tiedonjako voimavaraksi.
-            Laajalahti: Alkutuotannon kyberjohtamisen toimintaympäristö
-                Tämä on mukana jo aikaisemmin hankituissa materiaaleissa.
-
-FAO Agris
-   Haettu AGRIS-haulla (http://agris.fao.org/agris-search/index.do)  <08-07-2018>
-    Hakulause:
-        internet of things
-        (valittu AGROVOC descriptor "internet of things")
-    Löydetty:
-        Valittu otsikon, asiananojen, julkaisuvuoden ja abstraktin ensimmäisten lauseiden mukaan 
-
-FAO AGP-haku
-    Haettu AGP-sivujen custom Google-haulla <13-07-2018  16:07>
-    Hakulause:
-        Internet of things
-    Löydetty:
-        Hakutuloksia: about 6510 results
-
+*tarvitaanko tähän hakusanojen valintaan muuta kuvailua?*
 
 
 #### MAHD. Kirjallisuuskatsauksen aineiston analyysimenetelmä
@@ -508,37 +400,27 @@ FAO AGP-haku
 
 #### Meta (poistettava otsikko)
 
-Haastatteluissa pyrittiin tuomaan esille AIoT:n erilaisia ilmentymiä mahdollisimman laaja-alaisesti ja kunkin haastateltavan asiantuntijan erikoisalaan ja kokemuksiin syventyen.
+Kokonaisuutena teemahaastatteluissa pyrittiin tuomaan esille AIoT:n erilaisia ilmentymiä mahdollisimman laaja-alaisesti. Yksittäisissä teemahaastatteluissa pyrittiin syventymään kunkin haastateltavan asiantuntijan erikoisalaan ja kokemuksiin. Tämän takia teemahaastattelujen kysymykset pidettiin avoimina ja kutakin teemaa käsiteltiin haastateltavan asiantuntemuksen mukaan.
 
-Tässä opinnäytetyössä sovelletaan ... Teemahaastattelun eteneminen tapahtuu tiettyjen keskeisten teemojen varassa ja haastattelun aihepiirit ovat kaikille haastateltaville samat. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 47-48). *Mutta ei täysin tässä työssä.*
+Teemahaastattelu sopii tekijän näkemyksen mukaan menetelmänä luontevasti tässä opinnäytetyössä tehtyihin asiantuntijahaastatteluihin, koska haastattelujen rakenne ei ole rajattu tiettyihin ennalta määriteltyihin kysymyksiin vaan nojautuu haastatteluille asetettuihin teemoihin. Teemahaastattelun eteneminen tapahtuu näiden keskeisten teemojen varassa ja haastattelun aihepiirit ovat kaikille haastateltaville samat. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 47-48) Tämä mahdollistaa joustavasti kunkin haastateltavan oman asiantuntemusalueen käsittelyn.
 
-Teemahaastattelu sopii tekijän näkemyksen mukaan luontevasti tässä opinnäytetyössä tehtyihin asiantuntijahaastatteluihin, koska haastattelujen rakenne ei ole rajattu tiettyihin ennalta määriteltyihin kysymyksiin vaan nojautuu haastatteluille asetettuihin teemoihin. Tämä mahdollistaa joustavasti kunkin haastateltavan oman asiantuntemusalueen käsittelyn.
-(@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 48). 
+Hirsjärven ja Hurmeen esittämän joustavuusperiaatteen mukaisesti teema-alueiden etukäteen hahmottelulla pyrittiin "turvaamaan tarvittavan tiedon saanti" sekä antamaan harkinnan varaa yksittäisissä haastatteluissa käsiteltäviin ilmiöihin (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015).
 
+Saman kaltaisesti Kanasen (2010) mukaan haastattelutilanteissa voi ilmetä ennalta arvaamattomia polkuja, joita haastattelijan tulisi voida joustavasti seurata niiden ilmetessä (@kananenOpinnaytetyonKirjoittamisenKaytannon2010, 56).
 
-*(Hirsjärven ja Hurmeen) joustavuusperiaatteen mukaisesti teema-alueiden etukäteen hahmottelulla pyrittiin "turvaamaan tarvittavan tiedon saanti" sekä antamaan harkinnan varaa yksittäisissä haastatteluissa käsiteltäviin ilmiöihin.*
+Kuvaillun kaltainen joustavuus mahdollisti tässä tapauksessa teemojen ja haastattelukysymysten  harkinnanvaraisen täsmentämisen aikaisemmista haastatteluista saatujen kokemusten perusteella. Laadullisen tutkimuksen ominaispiirteenä onkin tutkimusmenetelmällisten ratkaisuiden täsmentyminen tutkimuksen edetessä (@valliIkkunoitaTutkimusmetodeihinNakokulmia2018, 73).
 
-*Laadullisen tutkimuksen ominaispiirteenä on tutkimusmenetelmällisten ratkaisuiden täsmentyminen tutkimuksen edetessä (Valli:Ikkunoita2-Kiviniemi, 73) mikä mahdollisti myös haastattelu...*
+Teemahaastatteluja tulisi yleisesti tehdä syvällisemmän tiedon hankkimiseksi useita kierroksia, mutta opinnäytetyön rajatun työmäärän ja ajan puitteissa päädyttiin tekemään vain yksi haastattelukierros. 
 
-*Lisäksi tekijän asiantuntemuksen puute kasvintuotannon ja maatalouden aloilta olisi todennäköisesti vaikuttanut haastattelukysymysten laatuun negatiivisesti.*
-
-Teemahaastatteluja tulisi yleisesti tehdä syvällisemmän tiedon hankkimiseksi useita kierroksia, mutta opinnäytetyön rajatun työmäärän ja ajan puitteissa päädyttiin tekemään vain yksi haastattelukierros.
-
-Kanasen (2010) mukaan "haastattelijan pitäisi olla joustava haastattelutilanteessaan, jotta hän uskaltaisi lähteä ennalta arvaamattomillekin poluille, jos sellaisia paljastuu." (@kananenOpinnaytetyonKirjoittamisenKaytannon2010, 56)
-
-*"Hirsjärvi ja Hurme (2000, 58) suosittelee haastattelemaan niin monta kuin on välttämätöntä tarvitsemansa tiedon saamiseksi. Laadul- lisessa tutkimuksessa haastateltavien määrä pyrkii olemaan joko liian suuri tai pieni. Liian pienestä aineistosta ei voi tehdä tilastollisia yleistyksiä tai testata ryhmien välisiä eroja. Liian suuresta joukosta jää syvällinen tulkinta puuttumaan. (Hirsjärvi &Hurme 2000, 58–59.) "*
-
-Tutkimuksen luotettavuutta pyritään parantamaan hyväksyttämällä haastatteluista tehdyt johtopäätökset muistiinpanoineen haastateltavalla.
+Haastatteluista saatujen tietojen luotettavuutta pyrittiin parantamaan hyväksyttämällä haastatteluista tehdyt johtopäätökset muistiinpanoineen haastateltavalla.
 
 #### Haastateltavien valinta
 
-Haastateltavien määrää rajoitti käytettävät resurssit ja aika. Opinnäytetyön laajuuden ollessa rajattu, päädyttiin viiteen haastateltavaan. Toisaalta Hirsjärven ja Hurmeen (2015) mukaan voidaan laadullisessa tutkimuksessa jo muutaman haastateltavan avulla saada merkittävää tietoa. Haastateltavien valinnassa edettiin aluksi keräämällä kontakteja ja keskustelemalla kokeilevasti mahdollisten haastateltavien kanssa erilaisissa tapahtumissa. Samalla pyrittiin keskusteluissa myös lumipallomenetelmän omaisesti hankkimaan uusia kontakteja. *Miten ihmeessä sanotaan että tehtiin kirjan ohjeen mukaan?*. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 59) 
+Haastateltavien määrää rajoitti käytettävät resurssit ja aika. Opinnäytetyön laajuuden ollessa rajattu, päädyttiin viiteen haastateltavaan mikä on tekijän mielestä ilmiön monitahoisuuden huomioon ottaen pieni määrä. Toisaalta Hirsjärven ja Hurmeen (2015, 59) mukaan voidaan laadullisessa tutkimuksessa jo muutaman haastateltavan avulla saada merkittävää tietoa. Haastateltavien valinnassa edettiin aluksi keräämällä kontakteja ja keskustelemalla mahdollisten haastateltavien kanssa erilaisissa tapahtumissa. Samalla pyrittiin keskusteluissa myös Hirsjärven ja Hurmeen (2015, 59) sekä Tuomin ja Sarajärven (2018, 99) kuvailevan lumipallomenetelmän omaisesti hankkimaan uusia kontakteja. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 59; @tuomiLaadullinenTutkimusJa2018, 99)
 
-Haastateltavien valintaan vaikutti erityisesti lähestyttävyys. Useita lupaavia kontakteja ei saatu haastateltaviksi kokeilevien keskustelujenkaan jälkeen ja useilta ei saatu vastauksia haastattelupyyntöihin. 
+Haastateltavien valintaan vaikutti suurelta osin haastateltavien lähestyttävyys. Useita lupaavia kontakteja ei saatu haastateltaviksi kokeilevien keskustelujenkaan jälkeen ja useilta kontaktoiduilta ei saatu vastauksia haastattelupyyntöihin. 
 
-Haastateltaviksi olisi ollut valittujen asiantuntijoiden lisäksi hyvä saada kasvihuonetuotantoon erikoistuneita asiantuntijoita sekä viljelijöitä kasvihuone-, puutarha- ja peltotuotannon aloilta.
-
-*Lumipallo-otanta nyt myös Sisällönanalyysi-kirjassa! Ota viitteeksi tähän.*
+Haastateltaviksi olisi ollut hyvä saada valittujen asiantuntijoiden lisäksi kasvihuonetuotantoon erikoistuneita asiantuntijoita sekä viljelijöitä kasvihuone-, puutarha- ja peltotuotannon aloilta.
 
 
 #### Teemahaastatteluiden toteutus
@@ -746,6 +628,24 @@ Kategorioiden ja alikategorioiden yleisimmät koodit kerättiin loogisiksi teemo
 Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset *(koska kuvaileva, havainnot?)*. Kirjallisuuskatsauksen ja teemahaastatteluiden tuloksia tarkastellaan erikseen, jonka jälkeen tuloksista tehdään kuvaileva yhteenveto. Lopuksi esitellään vastaukset tutkimuskysymyksiin tuloksista tehtyjen havaintojen ja johtopäätösten perusteella.
 
 ## Kirjallisuuskatsauksen tulokset
+
+### MAHD. Kirjallisuuskatsausten erot
+
+### AIoT:n sovellusalueet
+
+...
+
+### AIoT:n teknologiat
+
+...
+
+### AIoT:n avoimet haasteet
+
+...
+
+### Esitetyt AIoT-arkkitehtuurit
+
+...
 
 ## Haastattelujen tulokset
 
