@@ -1586,25 +1586,30 @@ Langattoman tietoliikenteessä käytettävät useat erilaiset teknologiat ja sta
 @wolfertBigDataSmart2017
 - Sovellusinfrastruktuurien kuten alustapalveluiden ja standardien jatkokehitys sekä niiden käyttöönotto organisaatioissa on kriittistä näiden kahden skenaarion "taistelussa".
 - Koska maatilakohtainen data yleisesti pysyy yhden yrityksen hallussa, on tarvetta investoinneille yhteisen infrastruktuurin rakentamiselle datan siirtelylle ja integraatiolle, jotta dataa hyödyntäviä sovelluksia voitaisiin kehittää. Keskeinen näihin sovelluksiin liittyvä kysymys on tulevatko ne olemaan suljettuja, omisteisia (proprietary) vai avoimia järjestelmiä.
+Avoimempiin ratkaisuihin siirtymistä edistävät osakuntiin tai koalitioihin järjestäytyneet viljelijät, jotka ovat huolestuneet datan yksityisyydestä ja turvallisuudesta, mutta jotka haluavat myös tuottaa arvoa oman datansa avulla. tai ainakin hyötyä Big Datan sovelluksista.
 
 *standardisaatio liittyy usein tietoturvaan*
 
 #### Tieto- ja kyberturvallisuus
 
 @talaveraReviewIoTApplications2017
-**(Jiang and Zhang, 2013)** kuvailevat tietoturvaongelman IoT:n käyttöönoton keskeiseksi haasteeksi maataloudessa. Lisäksi katsauksessa käsitellyistä tutkimuksista vain muutama otti tietoturvan huomioon ylipäätään ja niissäkin sovellettiin hajanaisia strategioita tietoturvariskien lieventämiseksi. Katsauksen tekijöiden mukaan maatalouden IoT-sovelluksissa on selkeä tarve ratkaisuille, jotka huomioivat kokonaisvaltaisen tietoturvan (end-to-end information security) sekä kentän laitteiden fyysisen eheyden.
+**(Jiang and Zhang, 2013)** kuvailevat tietoturvaongelman IoT:n käyttöönoton keskeiseksi haasteeksi maataloudessa. 
+- Lisäksi katsauksessa käsitellyistä tutkimuksista vain muutama otti tietoturvan huomioon ylipäätään ja niissäkin sovellettiin hajanaisia strategioita tietoturvariskien lieventämiseksi. 
+- Katsauksen tekijöiden mukaan maatalouden IoT-sovelluksissa on selkeä tarve ratkaisuille, jotka huomioivat kokonaisvaltaisen tietoturvan (end-to-end information security) sekä kentän laitteiden fyysisen eheyden.
 
 @verdouwInternetThingsAgriculture2016a
-Tärkeä haaste: Luotettavan tietoturvan, yksityisyydensuojan ja datan omistajuuden ratkaisujen saatavuus, jotka soveltuvat dynaamisten ja monimutkaisten sidosryhmien verkostojen tarpeisiin kun sidosryhmiin kuuluu valtava määrä hyvin pieniä yrityksiä, suuria monikansallisia konserneja ja viranomaisia joiden kaikkien tulee toimia yhteistyössä.
+- Tärkeä haaste: Luotettavan tietoturvan, yksityisyydensuojan ja datan omistajuuden ratkaisujen saatavuus, jotka soveltuvat dynaamisten ja monimutkaisten sidosryhmien verkostojen tarpeisiin kun sidosryhmiin kuuluu valtava määrä hyvin pieniä yrityksiä, suuria monikansallisia konserneja ja viranomaisia joiden kaikkien tulee toimia yhteistyössä.
 
 @tzounisInternetThingsAgriculture2017
-Siirryttäessä IoT-sovellusten käyttöön sidosryhmien turvallisuus, autenttisuus, luottamuksellisuus ja yksityisyyden suoja tulee varmistaa. IoT-ratkaisut tulee suojata ulkoisia hyökkäyksiä vastaan havaintotasolla, turvata datan kerääminen tietoliikennetasolla ja vastaavasti sovellustasolla tarjota eritellyt takaukset siitä, että vain valtuutetuilla tahoilla on pääsy ja oikeudet muuttaa tietoja.  
-IoT:n tietoturva kiteytyy kolmeen vaatimukseen: tunnistus, luottamuksellisuus ja käyttöokeuksien hallinta *(Sicari, Rizzardi, Grieco, & Coen-Porisini, 2015)*.
-Havaintotasolla yleisimpiin tietoturvakysymyksiin kuuluvat tiedon hankinnan turvallisuus (*information acquisition security*)sekä laitteistojen fyysinen turvallisuus. Fyysinen turvallisuus on erityisen tärkeä maatalouden toimintaympäristössä, jossa laitteet voivat sijaita avoimilla pelloilla ja toimia ilman valvontaa pitkiäkin aikoja. Sekä IoT-sovellusten hajautetun luonteen että vaihtelevien käyttöympäristöjen takia yksi tietoturvaprotokolla ei yleensä ole tarpeeksi *(Li, 2012)*.
+- Siirryttäessä IoT-sovellusten käyttöön sidosryhmien turvallisuus, autenttisuus, luottamuksellisuus ja yksityisyyden suoja tulee varmistaa. IoT-ratkaisut tulee suojata ulkoisia hyökkäyksiä vastaan havaintotasolla, turvata datan kerääminen tietoliikennetasolla ja vastaavasti sovellustasolla tarjota eritellyt takaukset siitä, että vain valtuutetuilla tahoilla on pääsy ja oikeudet muuttaa tietoja.  
+- IoT:n tietoturva kiteytyy kolmeen vaatimukseen: tunnistus, luottamuksellisuus ja käyttöokeuksien hallinta *(Sicari, Rizzardi, Grieco, & Coen-Porisini, 2015)*.
+- Havaintotasolla yleisimpiin tietoturvakysymyksiin kuuluvat tiedon hankinnan turvallisuus (*information acquisition security*)sekä laitteistojen fyysinen turvallisuus. Fyysinen turvallisuus on erityisen tärkeä maatalouden toimintaympäristössä, jossa laitteet voivat sijaita avoimilla pelloilla ja toimia ilman valvontaa pitkiäkin aikoja. 
+Sekä IoT-sovellusten hajautetun luonteen että vaihtelevien käyttöympäristöjen takia yksi tietoturvaprotokolla ei yleensä ole tarpeeksi *(Li, 2012)*.
 RFID:n tietoturvaongelmat liittyvät yleensä tietojen vuotamiseen, mikä voi paljastaa paikkatietoja tai muuta arkaluontoista tietoa. Tietojen salaus, ns. blocker tag:it, tagien taajuusmuutokset, häirinnän käyttö ja tagien fyysisen tuhoamisen käytänteet *(Matharu, Upadhyay, & Chaudhary, 2014)*.
-Sensorilaitteiden tietoturvan parantamiseksi tulisi käyttää salausalgoritmeja, avaintenjakelun käytänteitä, tunkeutumisenhavaitsemisjärjestelmiä ja *turvallisuusreitityskäytänteitä*, huomioiden laitteiden asettamat rajoitukset.
+- Sensorilaitteiden tietoturvan parantamiseksi tulisi käyttää salausalgoritmeja, avaintenjakelun käytänteitä, tunkeutumisenhavaitsemisjärjestelmiä ja *turvallisuusreitityskäytänteitä*, huomioiden laitteiden asettamat rajoitukset.
 Nykyisessä IoT-konseptissa datavirta kulkee laitteilta yhdyskäytävälle, joka lataa tiedon edelleen verkkoon kuten pilvipalveluun. Sensorilaitteille on olemassa useita tietoturvakäytänteitä kuten salausalgoritmeja, tunnistusmekanismeja, datavirran hallintakäytänteitä, datan suodatusmekanismeja jne. *(Li, 2012)*.
-Myös havaintotaso tarvitsee *information acquisition security measures*. Pyrittäessä estämään valtuuttamattomien tahojen pääsy kerättyyn dataan tunnistus, luottamuksellisuus ja käyttöokeuksien hallinta tulee turvata myös datan hankinnan vaiheessa ja hallinnointi-, reititys- ja sensorilaitteiden tunnistuskäytänteiden käyttö varmistaa. (2)
+Myös havaintotaso tarvitsee *information acquisition security measures*. 
+- Pyrittäessä estämään valtuuttamattomien tahojen pääsy kerättyyn dataan tunnistus, luottamuksellisuus ja käyttöokeuksien hallinta tulee turvata myös datan hankinnan vaiheessa ja hallinnointi-, reititys- ja sensorilaitteiden tunnistuskäytänteiden käyttö varmistaa. (2)
 Stack challenges:
 Tietoliikennetason ja sovellustason välissä olevan väliohjelmiston tietoturva tulee huomioida.
 Väliohjelmisto hoitaa sekä tiedon käsittelyä että rajapintoja tietoliikennetason ja sovellustason välillä. Väliohjelmistojen tietoturva vaatii luottamuksellisuutta tietojen käsittelyssä ja turvallista tietojen taltiointia.
@@ -1615,8 +1620,6 @@ Conclusion:
 Tietoturvauhat ovat todellisia ja tuotannossa käytettävät tietoliikenneverkot tarvitsevat turvaamista.
 Tietoturvasta, anonymiteetistä ja pääsynhallinnasta huolehtiminen on kriittisen tärkeää jaetun päätöksentekojärjestelmän laajalle käyttöönotolle.
 
-@wolfertBigDataSmart2017
-Avoimempiin ratkaisuihin siirtymistä edistävät osakuntiin tai koalitioihin järjestäytyneet viljelijät, jotka ovat huolestuneet datan yksityisyydestä ja turvallisuudesta, mutta jotka haluavat myös tuottaa arvoa oman datansa avulla tai ainakin hyötyä Big Datan sovelluksista.
 
 #### Laitteiden energiatehokkuus
 
