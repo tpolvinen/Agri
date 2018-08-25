@@ -84,10 +84,27 @@ monitoring & control using advanced IoT devices [16, 38, 78-86] sometimes suppor
 predictive crop growth models [79, 87, 88]. Many are also focusing 
 getting information in general from fields or farmlands [38, 81, 88-92]. Using these approaches, several papers are specifically applying IoT for 
 sustainability management including ecology, biodiversity and natural resources, e.g. water [19, 43, 78, 82, 93, 94]. Some papers are dealing with 
-IoT and precision agriculture in general [95-98] and other themes that are occasionally mentioned are 
-pest management by early warning systems [16, 99], 
-agricultural machinery [100] and 
-data management [101]."
+IoT and precision agriculture in general [95-98] and other themes that are occasionally mentioned are pest management by early warning systems [16, 99], agricultural machinery [100] and data management [101]."
+
+#### agri-food supply chain
+
+"Most of the references that deal with the agri-food supply chain are focusing on food safety & quality [10, 22, 30-34, 42, 50, 58, 61, 62, 106-122]. This is probably due to the recent crises (e.g. baby milk powder) and food scandals in China. 
+Many were also developing a concrete monitoring system for that purpose [10, 20, 42, 46, 50, 106, 108-110, 112, 113, 116, 118, 120]. 
+Related to that some were specifically referring to hazard analysis and early warning systems [13, 109, 123]. 
+Then there were a lot of references that dealt with tracking and tracing systems based on IoT [13, 15, 31, 32, 41, 45, 46, 49-52, 56-58, 84, 120, 122-131].
+Several references relate to (cold chain) logistics and condition monitoring [26, 36, 49, 57, 121, 122, 129, 132-135], some specifically to transparency [136] and trust [137]. 
+Some references were related to sustainability, i.c. environmental pollution [128, 138]. 
+Other themes that were mentioned are social media & e-commerce [139], inventory management [120], shelf life [59, 140], consumer interaction [62] and virtualization [53, 141]."
+
+#### greenhouse horticulture
+
+Most of the references in the domain of greenhouse horticulture deal with monitoring and control of the greenhouse climate using advanced sensors for e.g. temperature, humidity and actuators for e.g. ventilation and irrigation [12, 35, 47, 142-148]. Some are aiming at a concrete management system [149, 150] or focus on energy management [140]. One reference deals with Big Data [29]
+
+#### open air horticulture
+
+"The same holds for open air horticulture (incl. orchards) focusing on monitoring & control of products [157-159]. Other themes that are mentioned are early warning and pest management [27, 160], traceability [161], expert systems and internet trading [162], micro-irrigation [14] and Big Data [160]."
+
+**Leisure agriculture ja livestock farming jätetään pois.**
 
 #### Teemat
 
@@ -125,7 +142,7 @@ Tärkeitä haasteita nykyisessä tilanteessa on:
 
 - Energiatehokkaiden IoT-teknologioiden kehittäminen, mukaanlukien laitteiden ja yhteyksien kehittäminen maaseudun tarpeisiin.
 
-* Analytiikan kehittäminen yhdistämään esineiden data kolmannen osapuolen historia- ja ennustedatan kanssa, kuten satelliittidata, maaperä-, vesi- ja ilma-analyysit, logistiikkajärjestelmät, hintatietojen, vähittäismyynnin datan, kuluttajatietojen, ruokavaliotietojen jne.
++ Analytiikan kehittäminen yhdistämään esineiden data kolmannen osapuolen historia- ja ennustedatan kanssa, kuten satelliittidata, maaperä-, vesi- ja ilma-analyysit, logistiikkajärjestelmät, hintatietojen, vähittäismyynnin datan, kuluttajatietojen, ruokavaliotietojen jne.
 
 - Luotettavan tietoturvan, yksityisyydensuojan ja datan omistajuuden ratkaisujen saatavuus, jotka soveltuvat dynaamisten ja monimutkaisten sidosryhmien verkostojen tarpeisiin kun sidosryhmiin kuuluu valtava määrä hyvin pieniä yrityksiä, suuria monikansallisia konserneja ja viranomaisia joiden kaikkien tulee toimia yhteistyössä.
 
