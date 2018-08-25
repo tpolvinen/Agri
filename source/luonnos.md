@@ -629,11 +629,71 @@ Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset *(koska kuvaileva, h
 
 ## Kirjallisuuskatsauksen tulokset
 
+*Ks. Tutkimuskysymykset*
+
+*I) Millaista tutkimusta IoT-teknologioiden soveltamisesta kasvintuotantoon on julkaistu?*
+
+*Millaisia teknologiasovelluksia tutkimuksissa on esitelty?*
+*Minkä tyyppiset sovellukset tulevat tutkimusmateriaalissa selkeimmin esille, eli millaisista sovelluksista ja teknologioista kirjoitetaan ja tehdään tutkimusta tällä hetkellä?*
+*Muut kysymykset? Vaikuttavuus, mitä tilanne kertoo ylipäänsä, jne.*
+
+*II) Miten kasvintuotannossa hyödynnetään IoT-teknologioita?*
+
 ### MAHD. Kirjallisuuskatsausten erot
 
 ### AIoT:n sovellusalueet
 
-...
+*Mitkä ovat keskeiset AIoT:n teknologiaratkaisuit?*
+
+Talavera et al. tekemässä kirjallisuuskatsauksessa käsitelyt IoT-teknologiat jaoteltiin neljään teknologian osa-alueeseen: **valvonta** (monitoring) 62 %, **kontrollointi** (control) 25 %, **logistiikka** (logistics) 7 %, **ennustus** (prediction) 6 %. Suurin osa katsauksessa käsitellyistä tutkimuksista keskittyi valvotaan, konrollointiin vastaavasti neljännes, logistiikan ja ennusteiden ollessa harvinaisempia tutkimuskohteita.
+
+**Valvonta**-osa-alueen tutkimukset käsittelevät muun muassa satokasvien fyysisten ominaisuuksien ja ympäristöparametrien kaukomittausta. Lisäksi osassa tutkimuksia tarkastellaan langattomia sensoriverkkoja viljelytoiminnassaan käyttäviä maatiloja. 
+
+Valvontaa käsittelevien tutkimusten kohteina olevien teknologiasovellusten pääasiallinen tarkoitus on informaation automaattinen keruu ilman operaattoria sekä kerätyn datan siirto palvelimelle tai tallennuspalveluun käsittelyä ja visualisointia varten. Järjestelmiin integroidut tarkkailutyökalut mahdollistavat sekä jatkuvan viestinnän käytetyn langattoman sensoriverkon kanssa että tallennettuun tietoon pääsyn Internetin yli.
+
+IoT-perustainen älykäs maanviljelytoiminta tuottaa lisäarvoa viljelijöille auttamalla heitä merkityksellisen tiedon keräämisessä satokasveista ja tilan toiminnasta käyttämällä sensorilaitteita. Osa Talavera et al. (2017) tekemän kirjallisuuskatsauksen käsittelemistä IoT-järjestelmistä kykeni näyttämään, käsittelemään ja analysoimaan tietoa käyttämällä pilvipalveluita uusien näkemysten ja suositusten tuottamiseen paremman päätöksenteon mahdollistamiseksi.
+
+Talavera et al. (2017) kirjallisuuskatsauksessa valvonnan osa-alueen tutkimuksissa käsitellyt teknologiasovellukset jaettiin kolmeen arkkitehtuuritasoon: I) WSN:n tukema havaintokerros (perception layer) II) tietoliikennekerros (network layer), missä sensoreilta saatu informaatio siirretään pitkiä matkoja ja III) sovelluskerros (application layer) joka pitää sisällään web-palvelimen ja tietokannan.
+
+Valvontaa käsittelevien tutkimusten esittelemät teknologiasovellukset keskittyvät tarkkailemaan useita erityyppisiä fyysisiä muuttujia sen mukaan, mihin alikategoriaan ne kuuluivat. 
+
+Valvonnan osa-alueen tutkimukset jaettiin Talavera et al. (2017) kirjallisuuskatsauksessa valvonnan kohteen mukaan ilmanlaadun 34.5 %, maaperän 27.3 %, vedenlaadun 16.4%, kasvien 10.9 % sekä muiden kohteiden 10.9 % tarkkailuun.
+
+Monet Talavera et al. (2017) kirjallisuuskatsauksessa viitatuista tutkimuksista käsitelivät useampia alikategorioita.
+
+**Kontrollointi**
+
+* Talavera: 46 Valvonta
+* Tzounis:7 Valvonta ja kontrollointi/hallinta/säätäminen/ohjaaminen
+
+* Talavera: 17 Kontrollointi
+
+* Talavera: 4 Ennustus
+
+* Talavera: 5 Logistiikka
+* Tzounis: 11 Ruokaketjun tarkkailu
+
+
+* Verdouw: 26 Maanviljelys yleisesti  
+
+* Verdouw: 33 Peltoviljely  
+* Tzounis: 17 Avomaan viljely 
+
+* Verdouw: 68 Ruokaketjut  
+
+* Verdouw: 14 Kasvihuonetuotanto 
+* Tzounis: 37 Säädellyn tilan viljely
+
+* Verdouw: 3 Harrasteviljely  
+
+* Verdouw: 8 Puutarhatuotanto 
+
+* Verdouw: 5 Ruoan kulutus
+
+* Tzounis: 9 IoT Middleware ja yhteentoimivuus 
+
+* Tzounis: 14 Usean tason asennukset ja kaupalliset ratkaisut
+
 
 ### AIoT:n teknologiat
 

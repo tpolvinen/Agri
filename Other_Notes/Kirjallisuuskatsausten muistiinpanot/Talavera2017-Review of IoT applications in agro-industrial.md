@@ -48,7 +48,7 @@ Lopulta 3578:sta hakutuloksesta valittiin 72. Suurin osa valikoiduista tutkimuks
 
 *"What are the main technological solutions of the Internet of Things in agro-industrial and environmental fields?"*
 
-Valittujen tutkimusten havaittiin jakautuvan neljään sovellusaueeseen seuraavasti: tarkkailu (monitoring) 62 %, kontrollointi (control) 25 %, logistiikka (logistics) 7 %, ennustus (prediction) 6 %.
+Valittujen tutkimusten havaittiin jakautuvan neljään sovellusaueeseen seuraavasti: valvonta (oli:tarkkailu) (monitoring) 62 %, kontrollointi (control) 25 %, logistiikka (logistics) 7 %, ennustus (prediction) 6 %.
 
 #### Mittaus/Tarkkailu-kategoria:
 
