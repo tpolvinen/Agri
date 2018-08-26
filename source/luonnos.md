@@ -52,6 +52,7 @@ Tässä opinnäytetyössä käytetään lähdeviittausten tyylinä Södertörns 
 
 satotasomittaus
 pilvipalvelu: tietojenkäsittelyn resurssipalvelu
+langaton sensori- ja toimilaiteverkko (Wireless Sensor and Actuator Network, WSAN)
 
 # JOHDANTO
 
@@ -645,23 +646,38 @@ Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset *(koska kuvaileva, h
 
 *Mitkä ovat keskeiset AIoT:n teknologiaratkaisuit?*
 
-Talavera et al. tekemässä kirjallisuuskatsauksessa käsitelyt IoT-teknologiat jaoteltiin neljään teknologian osa-alueeseen: **valvonta** (monitoring) 62 %, **kontrollointi** (control) 25 %, **logistiikka** (logistics) 7 %, **ennustus** (prediction) 6 %. Suurin osa katsauksessa käsitellyistä tutkimuksista keskittyi valvotaan, konrollointiin vastaavasti neljännes, logistiikan ja ennusteiden ollessa harvinaisempia tutkimuskohteita.
+Talavera et al. tekemässä kirjallisuuskatsauksessa IoT-teknologioita käsittelevät tutkimukset on jaoteltu neljään teknologian osa-alueeseen: **valvonta** (monitoring) 62 %, **kontrollointi** (control) 25 %, **logistiikka** (logistics) 7 % ja **ennustus** (prediction) 6 %. Suurin osa katsauksessa käsitellyistä tutkimuksista keskittyi valvotaan, konrollointiin vastaavasti neljännes, logistiikan ja ennusteiden ollessa harvinaisempia tutkimuskohteita.
+
+*Miten muut kirjallisuuskatsaukset? Miten niiden aineisto jakautui?*
 
 **Valvonta**-osa-alueen tutkimukset käsittelevät muun muassa satokasvien fyysisten ominaisuuksien ja ympäristöparametrien kaukomittausta. Lisäksi osassa tutkimuksia tarkastellaan langattomia sensoriverkkoja viljelytoiminnassaan käyttäviä maatiloja. 
 
-Valvontaa käsittelevien tutkimusten kohteina olevien teknologiasovellusten pääasiallinen tarkoitus on informaation automaattinen keruu ilman operaattoria sekä kerätyn datan siirto palvelimelle tai tallennuspalveluun käsittelyä ja visualisointia varten. Järjestelmiin integroidut tarkkailutyökalut mahdollistavat sekä jatkuvan viestinnän käytetyn langattoman sensoriverkon kanssa että tallennettuun tietoon pääsyn Internetin yli.
+Valvontaa käsittelevien tutkimusten kohteina olevien teknologiasovellusten pääasiallinen tarkoitus on informaation automaattinen keruu ilman operaattoria sekä kerätyn datan siirto palvelimelle tai tallennuspalveluun käsittelyä ja visualisointia varten. Järjestelmiin integroidut valvontatyökalut mahdollistavat sekä jatkuvan viestinnän käytetyn langattoman sensoriverkon kanssa että tallennettuun tietoon pääsyn Internetin yli.
 
 IoT-perustainen älykäs maanviljelytoiminta tuottaa lisäarvoa viljelijöille auttamalla heitä merkityksellisen tiedon keräämisessä satokasveista ja tilan toiminnasta käyttämällä sensorilaitteita. Osa Talavera et al. (2017) tekemän kirjallisuuskatsauksen käsittelemistä IoT-järjestelmistä kykeni näyttämään, käsittelemään ja analysoimaan tietoa käyttämällä pilvipalveluita uusien näkemysten ja suositusten tuottamiseen paremman päätöksenteon mahdollistamiseksi.
 
-Talavera et al. (2017) kirjallisuuskatsauksessa valvonnan osa-alueen tutkimuksissa käsitellyt teknologiasovellukset jaettiin kolmeen arkkitehtuuritasoon: I) WSN:n tukema havaintokerros (perception layer) II) tietoliikennekerros (network layer), missä sensoreilta saatu informaatio siirretään pitkiä matkoja ja III) sovelluskerros (application layer) joka pitää sisällään web-palvelimen ja tietokannan.
+Talavera et al. (2017) kirjallisuuskatsauksessa valvonnan osa-alueen tutkimuksissa käsitellyt teknologiasovellukset jaettiin kolmeen arkkitehtuuritasoon: I) WSN:n tukema havaintokerros (perception layer) II) tietoliikennekerros (network layer), missä sensoreilta saatu informaatio siirretään pitkiä matkoja ja III) sovelluskerros (application layer) joka pitää sisällään web-palvelimet ja tietokannat.
 
-Valvontaa käsittelevien tutkimusten esittelemät teknologiasovellukset keskittyvät tarkkailemaan useita erityyppisiä fyysisiä muuttujia sen mukaan, mihin alikategoriaan ne kuuluivat. 
+Valvontaa käsittelevien tutkimusten esittelemät teknologiasovellukset keskittyvät tarkkailemaan useita erityyppisiä fyysisiä muuttujia. Sovellukset voidaan analyysin helpottamiseksi jakaa ryhmiin tarkkailun kohteen mukaan.
 
-Valvonnan osa-alueen tutkimukset jaettiin Talavera et al. (2017) kirjallisuuskatsauksessa valvonnan kohteen mukaan ilmanlaadun 34.5 %, maaperän 27.3 %, vedenlaadun 16.4%, kasvien 10.9 % sekä muiden kohteiden 10.9 % tarkkailuun.
+Valvonnan osa-alueen tutkimukset jaettiin Talavera et al. (2017) kirjallisuuskatsauksessa tarkkailun kohteen mukaan ilmanlaadun 34.5 %, maaperän 27.3 %, vedenlaadun 16.4%, kasvien 10.9 % sekä muiden kohteiden 10.9 % tarkkailuun. Monet tutkimuksista käsitelivät useampia tarkkailun kohteita.
 
-Monet Talavera et al. (2017) kirjallisuuskatsauksessa viitatuista tutkimuksista käsitelivät useampia alikategorioita.
+**Kontrollointi**-osa-alueen tutkimukset käsittelevät ohjattavaan ympäristöön asennettuja etätoimilaitteita (remote actuator). Toisin kuin valvonta-osa-alueen ratkaisuissa joissa tiedon kulku on yksisuuntainen, tämän osa-alueen ratkaisuissa tiedon kulku on kaksisuuntainen. Tällöin komentoja voidaan lähettää palvelimelta tai käyttöpalvelusta langattomaan sensori- ja toimilaiteverkkoon (Wireless Sensor and Actuator Network, WSAN) toimilaitteiden kontrolloimiseksi tuotantoprosessin tai -ympäristöön vaikuttamiseksi.
 
-**Kontrollointi**
+Talavera et al. (2017) kirjallisuuskatsauksessa kontrolloinnin osa-alueen tutkimuksissa komentoja lähetettään joko käyttäjän toimesta käyttöliittymän avulla tai analytiikkamodulien tukeman päätöksentekoalgoritmin tuloksena. Katsauksen käsittelemistä tutkimuksista useat järjestelmät pyrkivät veden, lannoitteiden ja kasvinsuojeluaineiden käytön optimointiin. Tähän optimointiin pyrittään sääennustepalveluiden ja paikallisen (on-site) WSN:n tuottaman informaation perusteella.
+
+Osa-alueen tutkimusten esittämät teknologiaratkaisut voivat auttaa viljelijöitä optimoimaan kasteluveden käyttöä säätämällä kastelun ajastusta ja määrää kasvien todellisen tarpeen mukaiseksi. Talavera et al. (2017) kirjallisuuskatsauksessa käsitellyt kontrollointijärjestelmät on ohjelmoitu sopeutuviksi, esimerkisi keskeyttämään kastelu sateen sattuessa. Kokonaisuudessaan käsitellyt ratkaisut voivat säästää rahaa ja samalla tarjota arvokasta tietoa kasteluveden, lannoitteiden, kasvinsuojeluaineiden ja sähkön kulutuksesta.
+
+Talavera et al. (2017) kirjallisuuskatsauksessa käsitellyissä tutkimuksissa käytettyjen toimilaitteiden tyypit vaihtelevat huomattavasti. Toimilaitteiden tyypit jakautuivat seuraavasti: kastelu 72.22 %, lannoitus 5.56 %, kasvinsuojelu 5.56%, valaistus 5.56 %, pääsyn hallinta 5.56 %. Lisäksi osa katsauksessa käsitellyistä tutkimuksista käytti toimilaitteita logistiikassa 5.56 %.
+
+**Logistiikka**-osa-alueen tutkimukset keskittyivät Talavera et al. (2017) kirjallisuuskatsauksessa fyysisten kokonaisuuksien virtaukseen ja siihen liittyvään informaatioon tuottajalta kuluttajalle kulutuskysynnän tyydyttämiseksi. Tähän sisältyy maataloustuotanto, hankinta, kuljetus, varastointi, lastaus, käsittely, pakkaus, jakelu sekä niihin liittyvät toiminnot. Maatalouden logistiikan tavoitteisiin kuuluivat muun muassa maataloustuotteiden arvon lisäys, jakelukustannuksien vähentäminen, kuljetustehokkuuden lisäys, tarpeettoman hävikin vähentäminen sekä jossakin määrin riskien välttäminen. Käsiteltyjen logistiikan osa-alueen tutkimukset ryhmiteltiin seuraavalla tavalla: tuotanto 55.6 %, kaupankäynti 22.2 %, kuljetus 22.2 %.
+
+**Ennustus**-osa-alueen tutkimukset keskittyivät Talavera et al. (2017) kirjallisuuskatsauksessa viljelijän päätöksenteossa tarvittavan tiedon ja työkalujen tuottamiseen. Esitettyjen ratkaisujen arkkitehtuurissa oli tähän tarkoitukseen erityiset modulit. Ratkaisujen ennustamat muuttujat ryhmiteltiin seuraavalla tavalla: ympäristöolosuhteet 42.86 %, tuotantoennusteet 42.86 % ja satoennusteet 14.29 %.
+
+
+
+---
+Omaa ryhmittelyä:
 
 * Talavera: 46 Valvonta
 * Tzounis:7 Valvonta ja kontrollointi/hallinta/säätäminen/ohjaaminen
@@ -694,6 +710,7 @@ Monet Talavera et al. (2017) kirjallisuuskatsauksessa viitatuista tutkimuksista 
 
 * Tzounis: 14 Usean tason asennukset ja kaupalliset ratkaisut
 
+---
 
 ### AIoT:n teknologiat
 
