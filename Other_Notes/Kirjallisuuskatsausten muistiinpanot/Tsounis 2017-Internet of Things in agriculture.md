@@ -152,33 +152,33 @@ Nykyisissä sulautetuissa laitteissa on tarpeeksi resursseja vaativien sensorien
 
 Kasvihuoneissa tarvitaan tarkempaa kontrollointia ja tarkkailua kasvihuonetuotannon ollessa intensiivisempää.
 
-Useat tutkimukset keskittyvät vain paikallisena tai etänä toteutettuun tarkkailuun, jonka tuottamaa tietoa esitetään useilla visuaalisilla tavoilla. (5)
+- Useat tutkimukset keskittyvät vain paikallisena tai etänä toteutettuun tarkkailuun, jonka tuottamaa tietoa esitetään useilla visuaalisilla tavoilla. (5)
 
-Useissa tutkimuksissa on esitetty järjestelmiä, jotka käyttävät analytiikkaa, datan siirtoa resurssipalveluihin internetin yli. Käyttäen laskentaa ja kasvien sekä ilmaston (climate) mallinnusta, järjestelmät tuottavat arvioita ilmaston ja/tai kasvien tilasta paremman päätöksenteon mahdollistamiseksi tai aikaisten varoitusten tuottamiseksi. (11)
+- Useissa tutkimuksissa on esitetty järjestelmiä, jotka käyttävät analytiikkaa, datan siirtoa resurssipalveluihin internetin yli. Käyttäen laskentaa ja kasvien sekä ilmaston (climate) mallinnusta, järjestelmät tuottavat arvioita ilmaston ja/tai kasvien tilasta paremman päätöksenteon mahdollistamiseksi tai aikaisten varoitusten tuottamiseksi. (11)
 
-AIoT-ratkaisut, joissa sovelletaan maataloustuotannon (pilvi-)resurssipalveluita ovat kasvihuonetuotannon yhteydessä jatkuvasti yleisempiä. Sensorilaitteet keräävät dataa joka ladataan resurssipalveluun missä data analysoidaan (syvästi?), nopeammin, edullisemmin, luotettavasti ja tehokkaasti. (2)
+- AIoT-ratkaisut, joissa sovelletaan maataloustuotannon (pilvi-)resurssipalveluita ovat kasvihuonetuotannon yhteydessä jatkuvasti yleisempiä. Sensorilaitteet keräävät dataa joka ladataan resurssipalveluun missä data analysoidaan (syvästi?), nopeammin, edullisemmin, luotettavasti ja tehokkaasti. (2)
 
-Kasvitehtaat ovat yleistymässä "...in the wider frame of urban CEA in smart cities, there have been a number of studies focussing on artificial growth systems"
+- Kasvitehtaat ovat yleistymässä "...in the wider frame of urban CEA in smart cities, there have been a number of studies focussing on artificial growth systems"
 
-Osassa tutkimuksia on otettu käyttöön kasvihuoneissa yhden tai useamman toimilaitejärjelmän kontrollointi kuten ilmastointi-, kastelujärjestelmä. (2) Kontrollointi voidaan toteuttaa etäisesti kahdella tavalla: joko viljelijän toimesta käsisäätöisesti tai järjestelmän hallinnoijan toimesta ja päätöksentekojärjestelmän avustamana.
+- Osassa tutkimuksia on otettu käyttöön kasvihuoneissa yhden tai useamman toimilaitejärjelmän kontrollointi kuten ilmastointi-, kastelujärjestelmä. (2) Kontrollointi voidaan toteuttaa etäisesti kahdella tavalla: joko viljelijän toimesta käsisäätöisesti tai järjestelmän hallinnoijan toimesta ja päätöksentekojärjestelmän avustamana.
 
-Järjestelmät voivat sisältää integroidun tuholaistorjunnan (IPM)(1), etävalvonnan, varoitukset ja kontrolloinnin sekä pellolla että kasvihuoneissa (3).
+- Järjestelmät voivat sisältää integroidun tuholaistorjunnan (IPM)(1), etävalvonnan, varoitukset ja kontrolloinnin sekä pellolla että kasvihuoneissa (3).
 
-On useita tutkimuksia joissa pyritään tuottamaan täysautomatisoitu kontrollointi, joissa kontrollikäskyt on tuotettu sensoridatan analytiikan avulla. (5)
+- On useita tutkimuksia joissa pyritään tuottamaan täysautomatisoitu kontrollointi, joissa kontrollikäskyt on tuotettu sensoridatan analytiikan avulla. (5)
 
 ## Open-field agriculture
 
-Tutkimuksissa keskitytään yleensä ilmasto-olosuhteiden ja maaperän mittaamiseen. Usein tutkimuksissa käytetään maaperämittauksissa useita antureita eri syvyyksillä.
+- Tutkimuksissa keskitytään yleensä ilmasto-olosuhteiden ja maaperän mittaamiseen. Usein tutkimuksissa käytetään maaperämittauksissa useita antureita eri syvyyksillä.
 
 Kastelun optimoimiseksi pyritään kastelemaan vain niin paljon kuin kasvi tarvitsee. (1)
 
-Optisia sensoreita on käytetty kasvien heijastuskyvyn mittaamiseen tai lämpötilan etävalvontaan, mutta myös pellon yleistilanteen kartoittamiseen. (4)
+- Optisia sensoreita on käytetty kasvien heijastuskyvyn mittaamiseen tai lämpötilan etävalvontaan, mutta myös pellon yleistilanteen kartoittamiseen. (4)
 
-IoT:n ja GIS (Geographical Information System) integraatiota on esitetty kun tarkka paikkatieto on tarpeellista. (4)
+- IoT:n ja GIS (Geographical Information System) integraatiota on esitetty kun tarkka paikkatieto on tarpeellista. (4)
 
-Maanalaiset sensoriverkot voivat antaa huomattavia etuja peltotuotannon sovelluksissa. (3)
+- Maanalaiset sensoriverkot voivat antaa huomattavia etuja peltotuotannon sovelluksissa. (3)
 
-Kehitys sulautettujen laitteiden teknologioissa sekä niiden hintojen aleneminen on mahdollistanut tehokkaiden anturilaitteiden käytön ja paikallisen tiedonkäsittelyn sumutietojenkäsittelynä. Kuvantamisdataa tuottavia anturilaitteita käytetään tutkimuksissa tavallisina turvakameroina (2), eläinten tunkeutumisen havaitsemiseksi (1), hyönteisten tai muiden kasvien uhkien havaitsemiseksi (2) ja satokasvien kasvun tarkkailuun (1).
+- Kehitys sulautettujen laitteiden teknologioissa sekä niiden hintojen aleneminen on mahdollistanut tehokkaiden anturilaitteiden käytön ja paikallisen tiedonkäsittelyn sumutietojenkäsittelynä. Kuvantamisdataa tuottavia anturilaitteita käytetään tutkimuksissa tavallisina turvakameroina (2), eläinten tunkeutumisen havaitsemiseksi (1), hyönteisten tai muiden kasvien uhkien havaitsemiseksi (2) ja satokasvien kasvun tarkkailuun (1).
 
 ## Livestock applications
 
@@ -186,27 +186,28 @@ Ei käsitellä. Lälläspöö. :P
 
 ## Food supply chain tracking
 
-Moderni maatalous on tyypillisesti yhä teollisempaa.
-Ruoan turvallisuuden ja laadun takaamiseksi standardisointimekanismeja on otettava käyttöön jokaisessa tuotannon vaiheessa.
-Tämän tarve on kasvattanut yleistä kiinnostusta ruokaketjun jäljitettävyysjärjestelmiä kohtaan.
-IoT-teknologiat tarjoavat tätä varten useita tarvittavia työkaluja tällaisen infrastruktuurin ja palveluiden rakentamiseen ja ylläpitoon.
+- Moderni maatalous on tyypillisesti yhä teollisempaa.
+- Ruoan turvallisuuden ja laadun takaamiseksi standardisointimekanismeja on otettava käyttöön jokaisessa tuotannon vaiheessa.
+- Tämän tarve on kasvattanut yleistä kiinnostusta ruokaketjun jäljitettävyysjärjestelmiä kohtaan.
+- IoT-teknologiat tarjoavat tätä varten useita tarvittavia työkaluja tällaisen infrastruktuurin ja palveluiden rakentamiseen ja ylläpitoon.
 
-Tarkastellussa kirjallisuudessa ratkaisut keskittyvät joko ruoan tuotantoketjun liiketoiminnan puoleen tai teknologioihin. Muutamat julkaisut pyrkivät esittämään ratkaisuita molempien puolien kattamiseen.
+- Tarkastellussa kirjallisuudessa ratkaisut keskittyvät joko ruoan tuotantoketjun liiketoiminnan puoleen tai teknologioihin. Muutamat julkaisut pyrkivät esittämään ratkaisuita molempien puolien kattamiseen.
 
-Ruoan tuotantoketjun yleisin IoT-teknologia on RFID-tunniste, joiden avulla voidaan seurata maatalouden tuotteita.
+- Ruoan tuotantoketjun yleisin IoT-teknologia on RFID-tunniste, joiden avulla voidaan seurata maatalouden tuotteita.
 
-IoT-paradigman mukaan viime aikaisissa tutkimuksissa on yhdistetty useita sensoreita rikastamaan kerättävää tietoa tuotteen tilasta aina kun tuotteen RFID luetaan ja tallennetaan. (2)
+- IoT-paradigman mukaan viime aikaisissa tutkimuksissa on yhdistetty useita sensoreita rikastamaan kerättävää tietoa tuotteen tilasta aina kun tuotteen RFID luetaan ja tallennetaan. (2)
 
-IoT:n yleiseen luonteeseen kuuluu ratkaisujen hajautuneisuus sekä asynkroninen ja heterogeeninen tietovirta. Tämän takia ruoan tuotantoketjun palveluissa nimeäminen on kriittisen tärkeää tiedon tarkalle ja nopealle löytämiselle. (1)
+- IoT:n yleiseen luonteeseen kuuluu ratkaisujen hajautuneisuus sekä asynkroninen ja heterogeeninen tietovirta. Tämän takia ruoan tuotantoketjun palveluissa nimeäminen on kriittisen tärkeää tiedon tarkalle ja nopealle löytämiselle. (1)
 
-IoT-infrastruktuurin toteutuminen johtaa tuotantoketjujen virtualisointiin, koska fyysinen läheisyys ei enää ole tarpeellista. *(Verdouw et al., 2013)*.
+- IoT-infrastruktuurin toteutuminen johtaa tuotantoketjujen virtualisointiin, koska fyysinen läheisyys ei enää ole tarpeellista. *(Verdouw et al., 2013)*.
 Tarkastellussa kirjallisuudessa on mallinnuksien avulla analysoitu ruoan tuotantoketjujen ongelmia ja pyritty ratkaisemaan niitä IoT-teknologioiden avulla. (2)
 
-IoT:ssä sovellettavien useiden teknologioiden kehitys yhdistettynä niiden kestävyyden parantumiseen sekä kypsyyteen IoT:ssä on antanut tutkijoille mahdollisuuden kehittää kokonaisia järjestelmiä joissa käytetään sensorimoduleita ja ohjelmistoinfrastruktuureita.
-Ohjelmistot ovat (hosted) resurssipalvelussa tai jaettu sidosryhmien kesken.
+- IoT:ssä sovellettavien useiden teknologioiden kehitys yhdistettynä niiden kestävyyden parantumiseen sekä kypsyyteen IoT:ssä on antanut tutkijoille mahdollisuuden kehittää kokonaisia järjestelmiä joissa käytetään sensorimoduleita ja ohjelmistoinfrastruktuureita.
+- Ohjelmistot ovat (hosted) resurssipalvelussa tai jaettu sidosryhmien kesken.
+
 Kokonaiset järjestelmät tarjoavat automatisoituja palveluita (intelligent schemes?) ja automatisoitua perustelua (reasoning) perustuen mitattuun ilmiöön ja keinoälyyn. (3)
 
-Muut julkaisut lähestyvät ruoan tuotantoketjujärjestelmän tiedonhallintajärjestelmän organisointiin (1) tai miten suunnitella järjestelmä taloudellisen tuoton maksimoimiseksi (1).
+- Muut julkaisut lähestyvät ruoan tuotantoketjujärjestelmän tiedonhallintajärjestelmän organisointiin (1) tai miten suunnitella järjestelmä taloudellisen tuoton maksimoimiseksi (1).
 
 ## Internet of Things middleware and interoperability
 
