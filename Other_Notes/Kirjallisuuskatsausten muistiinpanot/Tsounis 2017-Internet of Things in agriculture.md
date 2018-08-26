@@ -135,14 +135,14 @@ IoT-teknologiat tarjoavat tätä varten kaikki tarvittavat työkalut tällaisen 
 
 ## Agricultural monitoring and control
 
-Ympäristötekijöiden tarkkailu tuotanto- tai viljely-ympäristössä ja viime aikoina myös kasvien ilmastoon reagoinnin tarkkailu, on kriittistä oikeiden ja aikaisempaa tarkempien päätösten tekemiselle, joilla pyritään optimoimaan tuotannon määrä ja laatu.
+- Ympäristötekijöiden tarkkailu tuotanto- tai viljely-ympäristössä ja viime aikoina myös kasvien ilmastoon reagoinnin tarkkailu, on kriittistä oikeiden ja aikaisempaa tarkempien päätösten tekemiselle, joilla pyritään optimoimaan tuotannon määrä ja laatu.
 
-Viime aikoina perinteinen anturiverkko on kehittynyt IoT-ystävälliseksi ratkaisuksi yleisempien tietoliikenne standardien avulla, mahdollistaen internet-yhteydet ja älykkään analytiikan käyttöönoton, pyrkien parantamaan tarkkailua ja/tai kontrollointia.
+- Viime aikoina perinteinen anturiverkko on kehittynyt IoT-ystävälliseksi ratkaisuksi yleisempien tietoliikenne standardien avulla, mahdollistaen internet-yhteydet ja älykkään analytiikan käyttöönoton, pyrkien parantamaan tarkkailua ja/tai kontrollointia.
 
 - On saatavilla monipuolisia laskentatehokkaita laitteita, kätevän kokoisia ja edullisia, joita voidaan käyttää akuilla pitkiä aikoja, ilman energiankeräimiä tai niiden kanssa.
 Nykyisissä sulautetuissa laitteissa on tarpeeksi resursseja vaativien sensorien (kuvantaminen) tukemiseen ja edistyneiden tietoliikenneprotokollien käyttöön, laajentaen perinteisen WSN:n tietoliikenneominaisuuksia.
 
-Luokittelu kirjallisuudesta löytyneille tarkkailun ja kontrolloinnin ratkaisuille:
+- Luokittelu kirjallisuudesta löytyneille tarkkailun ja kontrolloinnin ratkaisuille:
 * Tarkkailu ja joissain tapauksissa aikaisten varoitusten tuottaminen yksinkertaisten sääntöjen perusteella. Esimerkiksi monipistetarkkailu kasvihuoneessa ilmasto-olosuhteiden muutosten havaitsemiseksi.
 * Tarkkailu, analytiikka (meta-processing, toteutus resurssipalvelussa) ja kontrolli. Sisältäen myös kontrolli-ehdotukset käyttäjälle sekä täysautomaattisen kontrolloinnin.
 * Tarkkailu laskentatehoa enemmän vaativien sensorien (kuvantaminen) avulla sekä tehokkaampien päätelaitteiden (end-node) avulla. Kuvantamisdataa käsitellään joko pelkkään järjestelmän tarkkailuun tai kuvankäsittelyyn laitteessa, verkon reunalla sumutietojenkäsittelynä, resurssipalvelussa/palvelimella.
