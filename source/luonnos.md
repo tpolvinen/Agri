@@ -53,6 +53,7 @@ Tässä opinnäytetyössä käytetään lähdeviittausten tyylinä Södertörns 
 satotasomittaus
 pilvipalvelu: tietojenkäsittelyn resurssipalvelu
 langaton sensori- ja toimilaiteverkko (Wireless Sensor and Actuator Network, WSAN)
+integroitu tuholaistorjunta (IPM)
 
 # JOHDANTO
 
@@ -247,13 +248,11 @@ Lisäksi ollaan käytetty aiheeseen tutustuttaessa löydettyjä lähteitä jos n
 
 *(@onwuegbuzieStepsComprehensiveLiterature2016, 58) figure 3.3 kuvaaja 7 askeleen toiminnasta*
 
-Alustavien hakujen tuloksista valittiin joukko keskeisimmiksi arvioituja asiasanoja. Nämä asiasanat yhdistettiin löydettyjen kirjallisuuskatsausten tutkimusmenetelmien vastaaviin.
+Alustavien hakujen tulosten mukaan valittiin harkinnanvaraisesti joukko keskeisimpiä asiasanoja. Nämä asiasanat yhdistettiin löydettyjen kirjallisuuskatsausten tutkimusmenetelmissä käytettyihin asiasanoihin, joista valittiin harkinnanvaraisesti keskeisimmät.
 
-Kirjallisuuskatsausten tutkimus- ja hakumenetelmiä käytettiin malleina paranneltaessa omia vastaavia sekä katsausten tutkimustuloksia käytettiin verrokkeina omien havaintojen tarkistamisessa.
+Kirjallisuuskatsausten tutkimus- ja hakumenetelmiä käytettiin malleina muotoiltaessa omia vastaavia. Lisäksi katsausten tutkimustuloksia käytettiin verrokkeina omien havaintojen tarkistamisessa.
 
 Muiden katsausten, koosteiden ja vastaavien julkaisujen tuloksia, havaintoja ja tekstejä käytettiin niin ikään omien hakutulosten ja havaintojen vertailuun.
-
-
 
 Käytetty hieman erilaisia hakulauseita eri kantoihin niiden vaatimusten ja toimintojen mukaan.
 
@@ -597,7 +596,7 @@ Koodien havaintojen määristä laadittiin kuvaajat, joiden muodosta ja koosta v
 Haastattelujen sisällön rakenteen havainnollistamiseksi kussakin haastattelussa havaitut koodit haastattelukohtaisine havaintomäärineen taulukoitiin yhteen ja laadittiin kuvaajat, joista voidaan havainnoida kategorioiden ja koodien jakautumista haastattelukohtaisesti ja verrata niitä toisiin haastatteluihin ja kategorioihin. 
 
 *Heatmap*
-Koodien yhteneväisyyksien analysointi lämpökartan avulla tehtiin havainnoimalla samankaltaisella tavalla esiintyviä koodiryhmiä. Koska koodit ja niiden havainnot perustuvat vain yhden tekijän omaan tulkintaan, analyysissä ei voida luottaa kahden samalla tavalla havainnoidun koodin tai koodiryhmän asiasisältöjen olevan haastattelumateriaalissa samankaltaisia. Samankaltaisesti esiintyvien koodien ryhmistä voidaan havainnoida miten ryhmän koodeja on havaittu haastattelumateriaalissa. Koodien järjestely ja ryhmittely mahdollistaa haastattelujen ominaispiirteiden havainnoinnin koodien määrien yhteneväisyyksien avulla, ottaen huomioon myös havaintojen puuttumiset. Lisäksi lämpökartassa esiintyvien koodiryhmien asiasisältöjen tulkinnalla voidaan pyrkiä löytämään aikaisemmin huomaamatta jääneitä yhteyksiä.
+Koodien yhteneväisyyksien analysointi lämpökartan avulla tehtiin havainnoimalla samankaltaisella tavalla esiintyviä koodiryhmiä. *Koska koodit ja niiden havainnot perustuvat vain yhden tekijän omaan tulkintaan, analyysissä ei voida luottaa kahden samalla tavalla havainnoidun koodin tai koodiryhmän asiasisältöjen olevan haastattelumateriaalissa samankaltaisia.* Samankaltaisesti esiintyvien koodien ryhmistä voidaan havainnoida miten ryhmän koodeja on havaittu haastattelumateriaalissa. Koodien järjestely ja ryhmittely mahdollistaa haastattelujen ominaispiirteiden havainnoinnin koodien määrien yhteneväisyyksien avulla, ottaen huomioon myös havaintojen puuttumiset. Lisäksi lämpökartassa esiintyvien koodiryhmien asiasisältöjen tulkinnalla voidaan pyrkiä löytämään aikaisemmin huomaamatta jääneitä yhteyksiä.
 
 *Koodien määrät kategorioissa*
 Itse koodien määrän voidaan tulkita viittaavan erilaisten asiasisältöjen määrään. Koodien määristä kategorioittain ja alikategorioittain ryhmiteltyinä voidaan tehdä tulkintoja ryhmittelyjen laajuuksista asiasisältöjen määrien perusteella. Toisaalta kategoriat, alikategoriat ja niiden sisällään pitämät koodit voivat olla yleisluontoisempia kuin toiset, jolloin lukuja voi pitää vain suuntaa-antavina.
@@ -649,93 +648,83 @@ Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset *(koska kuvaileva, h
 Talavera et al. tekemässä kirjallisuuskatsauksessa IoT-teknologioita käsittelevät tutkimukset on jaoteltu neljään teknologian osa-alueeseen: **valvonta** (monitoring) 62 %, **kontrollointi** (control) 25 %, **logistiikka** (logistics) 7 % ja **ennustus** (prediction) 6 %. Suurin osa katsauksessa käsitellyistä tutkimuksista keskittyi valvotaan, konrollointiin vastaavasti neljännes, logistiikan ja ennusteiden ollessa harvinaisempia tutkimuskohteita.
 
 Tzounis et al. kirjallisuuskatsauksessa vastaavasti jaottelu on tehty sovellusalueiden mukaan: 
-**valvonta ja kontrollointi** 7, **kasvihuonetuotanto** 37, **peltotuotanto** 17, **eläintuotanto** 13, **tuotantoketju** 11, **väliohjelmisto** 9 ja **järjestelmät kaupalliset ratkaisut** 14.
+**valvonta ja kontrollointi** 7, **kasvihuonetuotanto** 37, **peltotuotanto** 17, **tuotantoketju** 11, **väliohjelmisto** 9 ja **järjestelmät kaupalliset ratkaisut** 14. Lisäksi sovellusalueissa on myös eläintuotanto 13, joka jää opinnäytetyön aiheen ulkopuolelle, eikä sitä käsitellä tässä kirjallisuuskatsauksessa.
+
+Verdouw et al. kirjallisuuskatsauksessa jaottelu on tehty samoin sovellusalueiden mukaan: **tuotantoketju** 68, **peltotuotanto** 33, **maatalouden yleiset sovellukset** 26, **kasvihuonetuotanto** 14, **avomaan tuotanto** 8. Lisäksi sovellusalueita ovat: Kalastus ja vesiviljely 3, ruoan kulutus 5, vapaa-ajan viljely 3 ja eläintuotanto 8. Nämä sovellusalueet jäävät opinnäytetyön aiheen ulkopuolelle, eikä niitä käsitellä tässä kirjallisuuskatsauksessa. Lisäksi Verdouw et al. havaitsivat käsitellyistä julkaisuista aiheeseen liittyviä yleisiä teemoja, jotka ovat **täsmäviljely**, **ruoan jäljitettävyyden järjestelmät**, **ruoan turvallisuuden ja laadunvalvonnan järjestelmät** ja **kuluttajien vuorovaikutus**.
+
 
 *Miten muut kirjallisuuskatsaukset? Miten niiden aineisto jakautui?*
 
-**Valvonta**-osa-alueen tutkimukset käsittelevät muun muassa satokasvien fyysisten ominaisuuksien ja ympäristöparametrien kaukomittausta. Lisäksi osassa tutkimuksia tarkastellaan langattomia sensoriverkkoja viljelytoiminnassaan käyttäviä maatiloja. (@talaveraReviewIoTApplications2017)
+#### Valvonta
 
-Valvontaa käsittelevien tutkimusten kohteina olevien teknologiasovellusten pääasiallinen tarkoitus on informaation automaattinen keruu ilman operaattoria sekä kerätyn datan siirto palvelimelle tai tallennuspalveluun käsittelyä ja visualisointia varten (@talaveraReviewIoTApplications2017). 
+**Valvonta**-osa-alueen julkaisut käsittelevät muun muassa satokasvien fyysisten ominaisuuksien ja ympäristöparametrien kaukomittausta. Lisäksi osassa julkaisuja tarkastellaan langattomia sensoriverkkoja viljelytoiminnassaan käyttäviä maatiloja. (@talaveraReviewIoTApplications2017)
+
+Valvontaa käsittelevien julkaisujen kohteina olevien teknologiasovellusten pääasiallinen tarkoitus on informaation automaattinen keruu ilman operaattoria sekä kerätyn datan siirto palvelimelle tai tallennuspalveluun käsittelyä ja visualisointia varten (@talaveraReviewIoTApplications2017). 
 Viime aikoina perinteinen anturiverkko on kehittynyt IoT-ystävälliseksi ratkaisuksi yleisten tietoliikennestandardien avulla, mahdollistaen internet-yhteydet ja älykkään analytiikan käyttöönoton, pyrkien parantamaan valvontaa ja/tai kontrollointia (@tzounisInternetThingsAgriculture2017).
 Järjestelmiin integroidut valvontatyökalut mahdollistavat sekä jatkuvan viestinnän käytetyn langattoman sensoriverkon kanssa että tallennettuun tietoon pääsyn Internetin yli (@talaveraReviewIoTApplications2017). 
  
 IoT-perustainen älykäs maanviljelytoiminta tuottaa lisäarvoa viljelijöille auttamalla heitä merkityksellisen tiedon keräämisessä satokasveista ja tilan toiminnasta käyttämällä sensorilaitteita. Osa Talavera et al. (2017) tekemän kirjallisuuskatsauksen käsittelemistä IoT-järjestelmistä kykeni näyttämään, käsittelemään ja analysoimaan tietoa käyttämällä pilvipalveluita uusien näkemysten ja suositusten tuottamiseen paremman päätöksenteon mahdollistamiseksi. Tzounis et al. (2017) korostivat samoin valvonnan ratkaisujen tärkeyttä aikaisempaa tarkempien päätösten tekemisessä tuotannon määrän ja laadun optimoimiseksi. Heidän mukaansa valvonnan kohteeksi on viime aikoina tullut ympäristöparametrien lisäksi kasvien reaktioiden tarkkailu. (@talaveraReviewIoTApplications2017; @tzounisInternetThingsAgriculture2017)
 
-Talavera et al. (2017) kirjallisuuskatsauksessa valvonnan osa-alueen tutkimuksissa käsitellyt teknologiasovellukset jaettiin kolmeen arkkitehtuuritasoon: I) WSN:n tukema havaintokerros (perception layer) II) tietoliikennekerros (network layer), missä sensoreilta saatu informaatio siirretään pitkiä matkoja ja III) sovelluskerros (application layer) joka pitää sisällään web-palvelimet ja tietokannat.
+Talavera et al. (2017) kirjallisuuskatsauksessa valvonnan osa-alueen julkaisuissa käsitellyt teknologiasovellukset jaettiin kolmeen arkkitehtuuritasoon: I) WSN:n tukema havaintokerros (perception layer) II) tietoliikennekerros (network layer), missä sensoreilta saatu informaatio siirretään pitkiä matkoja ja III) sovelluskerros (application layer) joka pitää sisällään web-palvelimet ja tietokannat.
 
-Valvontaa käsittelevien tutkimusten esittelemät teknologiasovellukset keskittyvät tarkkailemaan useita erityyppisiä fyysisiä muuttujia. Sovellukset voidaan analyysin helpottamiseksi jakaa ryhmiin tarkkailun kohteen mukaan.
+Valvontaa käsittelevien julkaisujen esittelemät teknologiasovellukset keskittyvät tarkkailemaan useita eri tyyppisiä fyysisiä muuttujia. Sovellukset voidaan *analyysin helpottamiseksi* jakaa ryhmiin tarkkailun kohteen mukaan.
 
-Valvonnan osa-alueen tutkimukset jaettiin Talavera et al. (2017) kirjallisuuskatsauksessa tarkkailun kohteen mukaan ilmanlaadun 34.5 %, maaperän 27.3 %, vedenlaadun 16.4%, kasvien 10.9 % sekä muiden kohteiden 10.9 % tarkkailuun. Monet tutkimuksista käsitelivät useampia tarkkailun kohteita (@talaveraReviewIoTApplications2017). Tzounis et al. vastaavasti luokittelivat valvonnan osa-alueen ratkaisut niiden toiminnallisuuksien mukaan ja yhdessä kontrolloinnin ratkaisujen kanssa: tarkkailuun ja jossain tapauksissa varoitusten tuottamiseen havaintojen perusteella; tarkkailuun analytiikan ja kontrolloinnin kanssa, järjestelmän tekemien suositusten ja/tai täysautomaattisen kontrollin kanssa; sekä tarkkailuun laskentatehoa vaativien sensorityyppien ja tehokkaampien sensorilaitteiden kanssa. Kasvihuone ja -tehdassovelluksia käsittelevistä tutkimuksista useat keskittyvät vain paikallisena tai etänä toteutettuun tarkkailuun, jonka tuottamaa tietoa voidaan esittää useilla visuaalisilla tavoilla. (@tzounisInternetThingsAgriculture2017)
+Valvonnan osa-alueen julkaisut jaettiin Talavera et al. (2017) kirjallisuuskatsauksessa tarkkailun kohteen mukaan ilmanlaadun 34.5 %, maaperän 27.3 %, vedenlaadun 16.4%, kasvien 10.9 % sekä muiden kohteiden 10.9 % tarkkailuun. Monet julkaisuista käsitelivät useampia tarkkailun kohteita (@talaveraReviewIoTApplications2017). Tzounis et al. vastaavasti luokittelivat valvonnan osa-alueen ratkaisut niiden toiminnallisuuksien mukaan ja yhdessä kontrolloinnin ratkaisujen kanssa: tarkkailuun ja jossain tapauksissa varoitusten tuottamiseen havaintojen perusteella; tarkkailuun analytiikan ja kontrolloinnin kanssa; järjestelmän tekemien suositusten ja/tai täysautomaattisen kontrollin kanssa; sekä tarkkailuun laskentatehoa vaativien sensorityyppien ja tehokkaampien sensorilaitteiden kanssa. Kasvihuone ja -tehdassovelluksia käsittelevistä julkaisuista useat keskittyvät vain paikallisena tai etänä toteutettuun tarkkailuun, jonka tuottamaa tietoa voidaan esittää useilla visuaalisilla tavoilla. (@tzounisInternetThingsAgriculture2017)
 
-Peltotuotannon sovelluksia Tzounis et al. (2017) kirjallisuuskatsauksessa käsittelevissä tutkimuksissa keskitytään yleensä ilmasto-olosuhteiden ja maaperän mittaamiseen. Usein tutkimuksissa käytetään maaperämittauksissa useita antureita eri syvyyksillä. Useissa tutkimuksissa optisia sensoreita on käytetty kasvien heijastuskyvyn mittaamiseen tai lämpötilan etävalvontaan, mutta myös pellon yleistilanteen kartoittamiseen. Osassa tutkimuksia on havaittu, että maanalaiset sensoriverkot voivat tuottaa huomattavia etuja peltotuotannon sovelluksissa. Kehitys sulautettujen laitteiden teknologioissa sekä niiden hintojen aleneminen on mahdollistanut tehokkaiden anturilaitteiden käytön ja paikallisen tiedonkäsittelyn sumutietojenkäsittelynä. Kuvantamisdataa tuottavia anturilaitteita käytetään tutkimuksissa tavallisina turvakameroina, eläinten tunkeutumisen havaitsemiseksi, hyönteisten tai haittakasvien uhkien havaitsemiseksi ja satokasvien kasvun tarkkailuun. Peltotuotannon sovellusten tutkimuksissa on myös käsitelty IoT-ratkaisuiden ja paikkatietojärjestelmien integraatiota jos täsmällinen paikkatieto on ollut tarpeellinen. (@tzounisInternetThingsAgriculture2017)
+Peltotuotannon sovelluksia Tzounis et al. (2017) kirjallisuuskatsauksessa käsittelevissä julkaisuissa keskitytään yleensä ilmasto-olosuhteiden ja maaperän mittaamiseen. Usein julkaisuissa käytetään maaperämittauksissa useita antureita eri syvyyksillä. Useissa julkaisuissa optisia sensoreita on käytetty kasvien heijastuskyvyn mittaamiseen tai lämpötilan etävalvontaan, mutta myös pellon yleistilanteen kartoittamiseen. Osassa julkaisuista on havaittu, että peltotuotannon sovelluksissa maanalaiset sensoriverkot voivat tuottaa huomattavia etuja. Kehitys sulautettujen laitteiden teknologioissa sekä niiden hintojen aleneminen on mahdollistanut tehokkaiden anturilaitteiden käytön ja paikallisen tiedonkäsittelyn sumutietojenkäsittelynä. Kuvantamisdataa tuottavia anturilaitteita käytetään julkaisuissa tavallisina turvakameroina, eläinten tunkeutumisen havaitsemiseksi, hyönteisten tai haittakasvien uhkien havaitsemiseksi ja satokasvien kasvun tarkkailuun. Peltotuotannon sovellusten julkaisuissa on myös käsitelty IoT-ratkaisuiden ja paikkatietojärjestelmien integraatiota jos täsmällinen paikkatieto on ollut tarpeellinen. (@tzounisInternetThingsAgriculture2017)
 
-**Kontrollointi**-osa-alueen tutkimukset käsittelevät ohjattavaan ympäristöön asennettuja etätoimilaitteita (remote actuator). Toisin kuin valvonta-osa-alueen ratkaisuissa joissa tiedon kulku on yksisuuntainen, tämän osa-alueen ratkaisuissa tiedon kulku on kaksisuuntainen. Tällöin komentoja voidaan lähettää palvelimelta tai käyttöpalvelusta langattomaan sensori- ja toimilaiteverkkoon (Wireless Sensor and Actuator Network, WSAN) toimilaitteiden kontrolloimiseksi tuotantoprosessiin tai -ympäristöön vaikuttamiseksi.
+#### Kontrollointi
 
-Talavera et al. (2017) kirjallisuuskatsauksessa kontrolloinnin osa-alueen tutkimuksissa komentoja lähetetään joko käyttäjän toimesta käyttöliittymän avulla tai analytiikkamodulien tukeman päätöksentekoalgoritmin tuloksena. Katsauksen käsittelemistä tutkimuksista useat järjestelmät pyrkivät veden, lannoitteiden ja kasvinsuojeluaineiden käytön optimointiin. Tähän optimointiin pyrittään sääennustepalveluiden ja paikallisen (on-site) WSN:n tuottaman informaation perusteella. (@talaveraReviewIoTApplications2017)
+**Kontrollointi**-osa-alueen julkaisut käsittelevät ohjattavaan ympäristöön asennettuja etätoimilaitteita (remote actuator). Toisin kuin valvonta-osa-alueen ratkaisuissa joissa tiedon kulku on yksisuuntainen, tämän osa-alueen ratkaisuissa tiedon kulku on kaksisuuntainen. Tällöin komentoja voidaan lähettää palvelimelta tai pilvipalvelusta langattomaan sensori- ja toimilaiteverkkoon (Wireless Sensor and Actuator Network, WSAN), jossa tuotantoprosessiin tai -ympäristöön voidaan vaikuttaa toimilaitteita kontrolloimalla.
 
-Kasvihuoneiden ja -tehtaiden kontrollointijärjestelmät, joissa sovelletaan data-analytiikkaa ja dataa siirretään pilvipalveluihin internetin yli, ovat Tzounis et al. (2017) kirjallisuuskatsauksessa selkeästi esillä. Analytiikan, kasvi- ja ilmastomallinnuksen avulla järjestelmät tuottavat arvioita viljely-ympäristön ilmaston ja/tai kasvien tilasta paremman päätöksenteon mahdollistamiseksi tai varoitusten tuottamiseksi. Useissa tutkimuksissa esitetyt kasvihuonetuotannon järjestelmät ovat parantaneet resurssitehokkuutta ja muun muassa kastelun täsmällisyyttä. Kasvihuonetuotannon yhteydessä pilvipalveluita soveltavat ratkaisut ja kasvitehtaat ovat jatkuvasti yleistymässä ja pilvipalveluiden avulla dataa voidaan analysoida syvällisemmin, nopeammin, tehokkaammin, edullisemmin ja luotettavammin kuin aikaisemmin. (@tzounisInternetThingsAgriculture2017)
+Kasvi- ja ilmastomallinnuksen sekä data-analytiikan avulla järjestelmät voivat tuottaa arvioita viljely-ympäristön ilmaston ja/tai kasvien tilasta paremman päätöksenteon mahdollistamiseksi tai varoitusten tuottamiseksi. Useissa julkaisuissa esitetyt kasvihuonetuotannon järjestelmät ovat parantaneet resurssitehokkuutta ja muun muassa kastelun täsmällisyyttä. Kasvihuonetuotannon yhteydessä pilvipalveluita soveltavat ratkaisut ja kasvitehtaat ovat jatkuvasti yleistymässä ja pilvipalveluiden avulla dataa voidaan analysoida syvällisemmin, nopeammin, tehokkaammin, edullisemmin ja luotettavammin kuin aikaisemmin. (@tzounisInternetThingsAgriculture2017; @verdouwInternetThingsAgriculture2016a) *Mites peltotuotannon järjestelmät, onko tuloksia?*
 
-Osa-alueen tutkimusten esittämät teknologiaratkaisut voivat auttaa viljelijöitä optimoimaan kasteluveden käyttöä säätämällä kastelun ajastusta ja määrää kasvien todellisen tarpeen mukaiseksi. Talavera et al. (2017) kirjallisuuskatsauksessa käsitellyt kontrollointijärjestelmät on ohjelmoitu sopeutuviksi, esimerkisi keskeyttämään kastelu sateen sattuessa. Kokonaisuudessaan käsitellyt ratkaisut voivat säästää rahaa ja samalla tarjota arvokasta tietoa kasteluveden, lannoitteiden, kasvinsuojeluaineiden ja sähkön kulutuksesta. (@talaveraReviewIoTApplications2017)
+Osa-alueen julkaisujen esittämät teknologiaratkaisut voivat auttaa viljelijöitä optimoimaan kasteluveden käyttöä säätämällä kastelun ajastusta ja määrää kasvien todellisen tarpeen mukaiseksi. Talavera et al. (2017) kirjallisuuskatsauksessa käsitellyt kontrollointijärjestelmät on ohjelmoitu sopeutuviksi, esimerkisi keskeyttämään kastelu sateen sattuessa. Kokonaisuudessaan käsitellyt ratkaisut voivat säästää rahaa ja samalla tarjota arvokasta tietoa kasteluveden, lannoitteiden, kasvinsuojeluaineiden ja sähkön kulutuksesta. (@talaveraReviewIoTApplications2017)
 
-Talavera et al. (2017) kirjallisuuskatsauksessa käsitellyissä tutkimuksissa käytettyjen toimilaitteiden tyypit vaihtelevat huomattavasti. Toimilaitteiden tyypit jakautuivat seuraavasti: kastelu 72.22 %, lannoitus 5.56 %, kasvinsuojelu 5.56%, valaistus 5.56 %, pääsyn hallinta 5.56 %. Lisäksi osa katsauksessa käsitellyistä tutkimuksista käytti toimilaitteita logistiikassa 5.56 %. (@talaveraReviewIoTApplications2017)
+Talavera et al. (2017) kirjallisuuskatsauksessa kontrolloinnin osa-alueen julkaisuissa komentoja lähetetään joko käyttäjän toimesta käyttöliittymän avulla tai analytiikkamodulien tukeman päätöksentekoalgoritmin tuloksena. Katsauksen käsittelemistä julkaisuista useat järjestelmät pyrkivät veden, lannoitteiden ja kasvinsuojeluaineiden käytön optimointiin. Tähän optimointiin pyrittään sääennustepalveluiden ja paikallisen (on-site) WSN:n tuottaman informaation perusteella. (@talaveraReviewIoTApplications2017)
 
-Tzounis et al. (2017) kirjallisuuskatsauksessa käsitellyissä tutkimuksissa viidessä pyritään tuottamaan täysautomatisoitu kontrollointi, joissa kontrollikäskyt on tuotettu sensoridatasta tehdyn analytiikan tulosten perusteella. Näin pyritään toteuttamaan täysautomatisoitu kierto sensorien tekemästä havainnosta analytiikan kautta tehtyyn päätökseen, joka toteutetaan toimilaitteilla. Lopulta tapahtunutta muutosta viljely-ympäristössä tarkastellaan sensoreilla, jolloin kierto alkaa taas alusta. Kahdessa tutkimuksessa on toteutettu kasvihuoneissa langattomaan sensori- ja toimilaiteverkkoon perustuva yhden tai useamman toimilaitejärjelmän kuten ilmastointi- ja kastelujärjestelmän kontrollointi. Näissä järjestelmiä voidaa kontrolloida etäisesti kahdella tavalla: joko viljelijän toimesta käsisäätöisesti tai järjestelmän hallinnoijan toimesta ja päätöksentekojärjestelmän avustamana. Kahdessa tutkimuksessa esitellyt järjestelmät sisältävät etävalvonnan, varoitukset ja kontrolloinnin peltotuotannossa. Kasvihuoneissa tai vastaavissa hallituissa ympäristöissä vastaavia järjestelmiä käsitteleviä tutkimuksia on kolme. Yhdessä tutkimuksessa on toteutettu myös integroitu tuholaistorjunta (IPM). (@tzounisInternetThingsAgriculture2017)
+Kasvihuoneiden ja -tehtaiden kontrollointijärjestelmät, joissa sovelletaan data-analytiikkaa ja dataa siirretään pilvipalveluihin internetin yli, ovat Tzounis et al. (2017) kirjallisuuskatsauksessa selkeästi esillä, mutta Verdouw et al. (2016) katsauksessa vähemmistönä. Verdouw et al. havaitsivat, että useimmat kasvihuonejärjestelmiä käsittelevät julkaisut keskittyivät kasvihuoneen ilmaston ja kastelun tarkkailuun ja kontrollointiin. Pieni osa pyrki kasvihuoneen kontrollointijärjestelmän toteuttamiseen tai energiankulutuksen hallintaan. Puutarhatuotannon järjestelmät keskittyvät pääasiassa tuotteiden tarkkailuun ja kontrollointiin, osan pyrkiessä tuholaistorjunnan ja aikaisten varoitusten järjestelmien toteuttamiseen. Yksittäiset julkaisut käsittelivät jäljitettävyyttä, asiantuntijajärjestelmiä, kaupankäyntiä internetissä, tarkkuuskastelua ja Big Datan käyttöä. (@tzounisInternetThingsAgriculture2017; @verdouwInternetThingsAgriculture2016a)
 
+*Tämä jää vähän irtonaiseksi nyt:*
+Talavera et al. (2017) kirjallisuuskatsauksessa käsitellyissä julkaisuissa käytettyjen toimilaitteiden tyypit vaihtelevat huomattavasti. Toimilaitteiden tyypit jakautuivat seuraavasti: kastelu 72.22 %, lannoitus 5.56 %, kasvinsuojelu 5.56%, valaistus 5.56 %, pääsyn hallinta 5.56 %. Lisäksi osa katsauksessa käsitellyistä julkaisuista käytti toimilaitteita logistiikassa 5.56 %. (@talaveraReviewIoTApplications2017)
 
-**Logistiikka**-osa-alueen tutkimukset keskittyivät Talavera et al. (2017) kirjallisuuskatsauksessa fyysisten kokonaisuuksien virtaukseen ja siihen liittyvään informaatioon tuottajalta kuluttajalle kulutuskysynnän tyydyttämiseksi. Tähän sisältyy maataloustuotanto, hankinta, kuljetus, varastointi, lastaus, käsittely, pakkaus, jakelu sekä niihin liittyvät toiminnot. Maatalouden logistiikan tavoitteisiin kuuluivat muun muassa maataloustuotteiden arvon lisäys, jakelukustannuksien vähentäminen, kuljetustehokkuuden lisäys, tarpeettoman hävikin vähentäminen sekä jossakin määrin riskien välttäminen. Käsiteltyjen logistiikan osa-alueen tutkimukset ryhmiteltiin seuraavalla tavalla: tuotanto 55.6 %, kaupankäynti 22.2 %, kuljetus 22.2 %. (@talaveraReviewIoTApplications2017)
+Tzounis et al. (2017) kirjallisuuskatsauksessa käsitellyissä julkaisuissa viidessä *Kuinka suuri määrä kokonaisuudesta?* pyritään tuottamaan täysautomatisoitu kontrollointi, joissa kontrollikäskyt on tuotettu sensoridatasta tehdyn analytiikan tulosten perusteella. Näin pyritään toteuttamaan täysautomatisoitu kierto sensorien tekemästä havainnosta analytiikan kautta tehtyyn päätökseen, joka toteutetaan toimilaitteilla. Lopulta tapahtunutta muutosta viljely-ympäristössä tarkastellaan sensoreilla, jolloin kierto alkaa taas alusta. Kahdessa julkaisuista on toteutettu kasvihuoneissa langattomaan sensori- ja toimilaiteverkkoon perustuva yhden tai useamman toimilaitejärjelmän kuten ilmastointi- ja kastelujärjestelmän kontrollointi. Näissä järjestelmiä voidaa kontrolloida etäisesti kahdella tavalla: joko viljelijän toimesta käsisäätöisesti tai järjestelmän hallinnoijan toimesta ja päätöksentekojärjestelmän avustamana. Kahdessa julkaisussa esitellyt järjestelmät sisältävät peltotuotannon etävalvonnan, varoitukset ja kontrolloinnin. Kasvihuoneissa tai vastaavissa hallituissa ympäristöissä vastaavia järjestelmiä käsitteleviä julkaisuja on kolme. Yhdessä julkaisussa on toteutettu myös integroitu tuholaistorjunta (IPM). (@tzounisInternetThingsAgriculture2017)
 
-Tzounis et al. (2017) kirjallisuuskatsauksessa vastaava osa-alue on ruoan tuotantoketjun seuranta. Heidän mukaansa moderni maatalous on tyypillisesti yhä teollisempaa tuotantoa ja ruoan turvallisuuden ja laadun takaamiseksi standardisointimekanismeja on otettava käyttöön jokaisessa tuotannon vaiheessa. Tämän tarve on kasvattanut yleistä kiinnostusta ruokaketjun jäljitettävyysjärjestelmiä kohtaan. IoT-teknologiat tarjoavat tätä varten useita tarvittavia työkaluja jäljitettävyysjärjestelmien infrastruktuurin ja palveluiden rakentamiseen ja ylläpitoon.
-Katsauksessa tarkastellussa kirjallisuudessa ratkaisut keskittyvät joko ruoan tuotantoketjun liiketoiminnan puoleen tai teknologioihin. Muutamat julkaisut pyrkivät esittämään ratkaisuita molempien puolien kattamiseen. (@tzounisInternetThingsAgriculture2017)
+#### Logistiikka
 
-RFID-tunniste on ruoan tuotantoketjuissa yleisin käytössä oleva IoT-teknologia, jonka avulla voidaan seurata maatalouden tuotteiden liikkumista tuotantoketjussa. IoT-paradigman mukaisesti viime aikaisissa tutkimuksissa on yhdistetty useita sensoreita rikastamaan kerättävää tietoa tuotteen tilasta aina kun tuotteen RFID luetaan ja tallennetaan. (@tzounisInternetThingsAgriculture2017)
+**Logistiikka**-osa-alueen julkaisut keskittyivät fyysisten kokonaisuuksien virtaukseen ja siihen liittyvään informaatioon tuottajalta kuluttajalle kulutuskysynnän tyydyttämiseksi. Tähän sisältyy maataloustuotanto, hankinta, kuljetus, varastointi, lastaus, käsittely, pakkaus, jakelu sekä niihin liittyvät toiminnot. Maatalouden logistiikan tavoitteisiin kuuluivat muun muassa maataloustuotteiden arvon lisäys, jakelukustannuksien vähentäminen, kuljetustehokkuuden lisäys, tarpeettoman hävikin vähentäminen sekä jossakin määrin riskien välttäminen. 
 
-IoT:n yleiseen luonteeseen kuuluu ratkaisujen hajautuneisuus sekä asynkroninen ja heterogeeninen tietovirta. Tämän takia ruoan tuotantoketjun palveluissa Tzounis et al. (2017) mukaan nimeäminen on kriittisen tärkeää tiedon tarkalle ja nopealle löytämiselle. IoT-infrastruktuurin toteutuminen puolestaan johtaa tuotantoketjujen virtualisointiin, koska tarkkailijoiden ei enää ole tarpeellista olla fyysinen lähellä varsinaista tuotantoa. Tuotannon valvonnan lisäksi Tzounis et al. (2017) kirjallisuuskatsauksessa kahdessa tutkimuksissa on mallinnuksien avulla analysoitu ruoan tuotantoketjujen ongelmia ja pyritty ratkaisemaan niitä IoT-teknologioiden avulla. Osa katsauksen käsittelemistä tuotantoketjun tutkimuksista pyrkii tuotantoketjun kokonaisvaltaisen tiedonhallintajärjestelmän tuottamiseen tai tuotantojärjestelmän suunnitteluun taloudellisen tuoton maksimoimisen lähtökohdasta. (@tzounisInternetThingsAgriculture2017)
+RFID-tunniste on ruoan tuotantoketjuissa yleisin käytössä oleva IoT-teknologia, jonka avulla voidaan seurata maatalouden tuotteiden liikkumista tuotantoketjussa. IoT-paradigman mukaisesti viime aikaisissa julkaisuissa on yhdistetty useita sensoreita rikastamaan kerättävää tietoa tuotteen tilasta aina kun tuotteen RFID luetaan ja tallennetaan. (@tzounisInternetThingsAgriculture2017)
 
-Useiden IoT-teknologioiden kehitys yhdistettynä niiden kestävyyden parantumiseen ja kypsymiseen on mahdollistanut tutkijoille sensorimoduleita ja ohjelmistoinfrastruktuureita soveltavien kokonaisten tuotantoketjun seurantajärjestelmien kehittämisen. Näiden seurantajärjestelmien käyttämät ohjelmistot voivat sijaita keskitetysti yhdessä pilvipalvelussa tai ne voivat toimia hajautetusti eri sidosryhmien kesken. (@tzounisInternetThingsAgriculture2017)
+IoT:n yleiseen luonteeseen kuuluu ratkaisujen hajautuneisuus sekä asynkroninen ja heterogeeninen tietovirta. *Tämän takia ruoan tuotantoketjun palveluissa Tzounis et al. (2017) mukaan nimeäminen on kriittisen tärkeää tiedon tarkalle ja nopealle löytämiselle.* IoT-infrastruktuurin toteutuminen johtaa Tzounis et al. (2017) mukaan tuotantoketjujen virtualisointiin, koska tarkkailijoiden ei enää ole tarpeellista olla fyysinen lähellä varsinaista tuotantoa. (@tzounisInternetThingsAgriculture2017)
 
-**Ennustus**-osa-alueen tutkimukset keskittyivät Talavera et al. (2017) kirjallisuuskatsauksessa viljelijän päätöksenteossa tarvittavan tiedon ja työkalujen tuottamiseen. Esitettyjen ratkaisujen arkkitehtuurissa oli tähän tarkoitukseen erityiset modulit. Ratkaisujen ennustamat muuttujat ryhmiteltiin seuraavalla tavalla: ympäristöolosuhteet 42.86 %, tuotantoennusteet 42.86 % ja satoennusteet 14.29 %.
+Useiden IoT-teknologioiden kehitys yhdistettynä niiden kestävyyden parantumiseen ja kypsymiseen on mahdollistanut tutkijoille sensorimoduleita ja ohjelmistoinfrastruktuureita soveltavien kokonaisten tuotantoketjun seurantajärjestelmien kehittämisen. Näiden seurantajärjestelmien käyttämät ohjelmistot voivat sijaita keskitetysti yhdessä pilvipalvelussa tai ne voivat toimia hajautetusti eri sidosryhmien kesken.(@tzounisInternetThingsAgriculture2017)
 
+Tzounis et al. (2017) ja Verdouw et al. (2016) kirjallisuuskatsauksissa logistiikkaa vastaava osa-alue on ruoan tuotantoketjun seuranta. Tzounis et al. mukaan moderni maatalous on tyypillisesti yhä teollisempaa tuotantoa ja ruoan turvallisuuden ja laadun takaamiseksi standardisointimekanismeja on otettava käyttöön jokaisessa tuotannon vaiheessa. Tämän tarve on kasvattanut yleistä kiinnostusta ruokaketjun jäljitettävyysjärjestelmiä kohtaan. IoT-teknologiat tarjoavat tätä varten useita tarvittavia työkaluja jäljitettävyysjärjestelmien infrastruktuurin ja palveluiden rakentamiseen ja ylläpitoon. (@tzounisInternetThingsAgriculture2017; @verdouwInternetThingsAgriculture2016a) 
 
+Tzounis et al. (2017) kirjallisuuskatsauksessa ruoan tuotantoketjun ratkaisut keskittyvät joko tuotantoketjun liiketoiminnan puoleen tai siinä sovellettaviin teknologioihin. Muutamat julkaisut pyrkivät esittämään ratkaisuita molempien puolien kattamiseen. Tuotannon valvonnan lisäksi katsauksessa kahdessa julkaisussa on mallinnuksien avulla analysoitu ruoan tuotantoketjujen ongelmia ja pyritty ratkaisemaan niitä IoT-teknologioiden avulla. Osassa julkaisuja pyritään tuotantoketjun kokonaisvaltaisen tiedonhallintajärjestelmän tuottamiseen tai tuotantojärjestelmän suunnitteluun taloudellisen tuoton maksimoimisen lähtökohdasta. (@tzounisInternetThingsAgriculture2017)
 
----
-Omaa ryhmittelyä:
+Verdouw et al. (2016) kirjallisuuskatsauksen käsittelemistä julkaisuista selkeästi suurin osa keskittyy tuotantoketjun IoT-ratkaisuihin. Näistä suurin osa (29/68) keskittyy ruoan turvallisuuteen ja laatuun, mikä tekijöiden mukaan voi johtua Kiinassa tapahtuneista ruokatuotannon kriiseistä ja skandaaleista. Useissa (14) julkaisuissa pyrittiin konkreettisen tuotantoketjun tarkkailujärjestelmän kehittämiseen. Tarkkailujärjestelmiin liittyen kolmessa julkaisussa keskitytään tuotantoketjun vaara-analyyseihin ja aikaisten varoitusten tuottamiseen.  
+Toiseksi eniten katsauksessa tuotantoketjuun liittyvistä julkaisuista (26) keskittyy erilaisiin seurannan ja jäljittämisen IoT-ratkaisuihin. Lisäksi useat julkaisut liittyvät kylmäketjun logistiikkaan sen olosuhteiden valvontaan, osa niistä erityisesti läpinäkyvyyteen ja luottamukseen. Osa julkaisuista käsittelee tuotantoketjun kestävyyttä ympäristön kannalta kuten saastuttavuutta. Muita julkaisuissa käsiteltyjä aiheita ovat sosiaalinen media yhdessä sähköisen kaupankäynnin kanssa, tuoteinventaarion hallinta, tuotteiden säilyvyys, kuluttajien vuorovaikutus ja virtualisaatio. (@verdouwInternetThingsAgriculture2016a)
 
-* Talavera: 46 Valvonta
-* Tzounis:7 Valvonta ja kontrollointi/hallinta/säätäminen/ohjaaminen
-
-* Talavera: 17 Kontrollointi
-
-* Talavera: 4 Ennustus
-
-* Talavera: 5 Logistiikka
-* Tzounis: 11 Ruokaketjun tarkkailu
+Talavera et al. (2017) kirjallisuuskatsauksessa käsiteltyjen logistiikan osa-alueen julkaisut ryhmiteltiin tuotantoon 55.6 %, kaupankäyntiin 22.2 % ja kuljetukseen 22.2 %. (@talaveraReviewIoTApplications2017)
 
 
-* Verdouw: 26 Maanviljelys yleisesti  
+#### Ennustus
 
-* Verdouw: 33 Peltoviljely  
-* Tzounis: 17 Avomaan viljely 
+**Ennustus**-osa-alueen julkaisut keskittyivät Talavera et al. (2017) kirjallisuuskatsauksessa viljelijän päätöksenteossa tarvittavan tiedon ja työkalujen tuottamiseen. Esitettyjen ratkaisujen arkkitehtuurissa oli tähän tarkoitukseen erityiset modulit. Ratkaisujen ennustamat muuttujat ryhmiteltiin seuraavalla tavalla: ympäristöolosuhteet 42.86 %, tuotantoennusteet 42.86 % ja satoennusteet 14.29 %.
 
-* Verdouw: 68 Ruokaketjut  
+*ks. edellisistä kohdista aikaiset varoitukset kans*
 
-* Verdouw: 14 Kasvihuonetuotanto 
-* Tzounis: 37 Säädellyn tilan viljely
 
-* Verdouw: 3 Harrasteviljely  
+#### Maatalouden yleiset sovellukset
 
-* Verdouw: 8 Puutarhatuotanto 
-
-* Verdouw: 5 Ruoan kulutus
-
-* Tzounis: 9 IoT Middleware ja yhteentoimivuus 
-
-* Tzounis: 14 Usean tason asennukset ja kaupalliset ratkaisut
-
----
+**maatalouden yleiset sovellukset** 26 (@verdouwInternetThingsAgriculture2016a)
+Verdouw et al. kirjallisuuskatsauksessa useat julkaisut käsittelevät täsmäviljelyä ja erityisesti täsmäviljelyn tietojärjestelmiä. Osa keskittyy tuotantoympäristön tarkkailuun ja kontrollointiin kuten kastelujärjestelmiin tai vastaaviin. Muutamassa julkaisussa keskitytään IoT-perustaisen yleisen hallinta- ja tietojärjestelmän suunnitteluun. Muita relevantteja aiheita käsitellyissä julkaisuissa ovat ruoan laadun parantaminen, ruoan turvallisuus ja jäljitettävyys, veden hallinta, maaseudun kehittäminen, kaupunkiviljely ja kuluttajien vuorovaikutus. 
 
 ### AIoT:n teknologiat
 
-...
+*Väliohjelmistot per Tzounis et al.*
 
 ### AIoT:n avoimet haasteet
 
@@ -851,6 +840,11 @@ Vaikka vain vaatimattomimmat ennusteet IoT-laitteiden käyttöönotosta toteutui
 ### Esitetyt AIoT-arkkitehtuurit
 
 ...
+
+
+### Kirjallisuuskatsausten yhteenvedot (?)
+
+
 
 ## Haastattelujen tulokset
 

@@ -64,51 +64,59 @@ Generally, it can be concluded that the area of food supply chains is addressed 
 * Greenhouse horticulture
 * Open air horticulture (incl. orchards)
 
-#### "agriculture in general, 
+sovellusalueiden mukaan: 
+**maatalouden yleiset sovellukset** 26, 
+**peltotuotanto** 33, 
+**tuotantoketju** 68, 
+**kasvihuonetuotanto** 14, 
+**avomaan tuotanto** 8.
 
-several papers focus on 
-precision agriculture [63, 67] or 
-sensing and monitoring the production environment [64, 65, 68-71]. Others try to design a
-general management information system based on IoT [55, 72, 73]. Other relevant themes that are touched upon are: 
-product quality improvement [45], 
-food safety and traceability [65, 74, 75], 
-water management [60, 71], 
-rural development [76], 
-urban agriculture [77] and 
-consumer interaction [37]."
+#### "agriculture in general (26)
 
-#### "arable farming 
+- several papers focus on 
+- precision agriculture [63 (information system), 67 (PA system?)] or 
+- sensing and monitoring the production environment [64 (monitoring and control), 65, 68 (monitoring) 69 (wisdom?) 70 (IoT) 71 (smart irrigation)]. 
+- Others try to design a general management information system based on IoT [55 (control WSAN), 72 (information), 73 (information, cloud)]. 
+- Other relevant themes that are touched upon are: 
+* product quality improvement [45 (model, information)], 
+* food safety and traceability [65 (information), 74 (meta), 75 (RFID)], 
+* water management [60 (survey WSN), 71 (smart irrigation)], 
+* rural development [76], 
+* urban agriculture [77 (IoT tech in urban ag)] and 
+* consumer interaction [37 (information)]."
+
+#### "arable farming (33)
 
 many papers are somehow dealing with 
 monitoring & control using advanced IoT devices [16, 38, 78-86] sometimes supported by
-predictive crop growth models [79, 87, 88]. Many are also focusing 
-getting information in general from fields or farmlands [38, 81, 88-92]. Using these approaches, several papers are specifically applying IoT for 
-sustainability management including ecology, biodiversity and natural resources, e.g. water [19, 43, 78, 82, 93, 94]. Some papers are dealing with 
-IoT and precision agriculture in general [95-98] and other themes that are occasionally mentioned are pest management by early warning systems [16, 99], agricultural machinery [100] and data management [101]."
+- predictive crop growth models [79, 87, 88]. Many are also focusing 
+- getting information in general from fields or farmlands [38, 81, 88-92]. Using these approaches, several papers are specifically applying IoT for 
+- sustainability management including ecology, biodiversity and natural resources, e.g. water [19, 43, 78, 82, 93, 94]. Some papers are dealing with 
+- IoT and precision agriculture in general [95-98] and other themes that are occasionally mentioned are pest management by early warning systems [16, 99], agricultural machinery [100] and data management [101]."
 
-#### agri-food supply chain
+#### agri-food supply chain (68)
 
-"Most of the references that deal with the agri-food supply chain are focusing on food safety & quality [10, 22, 30-34, 42, 50, 58, 61, 62, 106-122]. This is probably due to the recent crises (e.g. baby milk powder) and food scandals in China. 
-Many were also developing a concrete monitoring system for that purpose [10, 20, 42, 46, 50, 106, 108-110, 112, 113, 116, 118, 120]. 
-Related to that some were specifically referring to hazard analysis and early warning systems [13, 109, 123]. 
-Then there were a lot of references that dealt with tracking and tracing systems based on IoT [13, 15, 31, 32, 41, 45, 46, 49-52, 56-58, 84, 120, 122-131].
-Several references relate to (cold chain) logistics and condition monitoring [26, 36, 49, 57, 121, 122, 129, 132-135], some specifically to transparency [136] and trust [137]. 
-Some references were related to sustainability, i.c. environmental pollution [128, 138]. 
-Other themes that were mentioned are social media & e-commerce [139], inventory management [120], shelf life [59, 140], consumer interaction [62] and virtualization [53, 141]."
+- "Most of the references that deal with the agri-food supply chain are focusing on food safety & quality [10, 22, 30-34, 42, 50, 58, 61, 62, 106-122]. This is probably due to the recent crises (e.g. baby milk powder) and food scandals in China. 
+- Many were also developing a concrete monitoring system for that purpose [10, 20, 42, 46, 50, 106, 108-110, 112, 113, 116, 118, 120]. 
+- Related to that some were specifically referring to hazard analysis and early warning systems [13, 109, 123]. 
+- Then there were a lot of references that dealt with tracking and tracing systems based on IoT [13, 15, 31, 32, 41, 45, 46, 49-52, 56-58, 84, 120, 122-131].
+- Several references relate to (cold chain) logistics and condition monitoring [26, 36, 49, 57, 121, 122, 129, 132-135], some specifically to transparency [136] and trust [137]. 
+- Some references were related to sustainability, i.c. environmental pollution [128, 138]. 
+- Other themes that were mentioned are social media & e-commerce [139], inventory management [120], shelf life [59, 140], consumer interaction [62] and virtualization [53, 141]."
 
-#### greenhouse horticulture
+#### greenhouse horticulture (14)
 
-Most of the references in the domain of greenhouse horticulture deal with monitoring and control of the greenhouse climate using advanced sensors for e.g. temperature, humidity and actuators for e.g. ventilation and irrigation [12, 35, 47, 142-148]. Some are aiming at a concrete management system [149, 150] or focus on energy management [140]. One reference deals with Big Data [29]
+- Most of the references in the domain of greenhouse horticulture deal with monitoring and control of the greenhouse climate using advanced sensors for e.g. temperature, humidity and actuators for e.g. ventilation and irrigation [12, 35, 47, 142-148]. Some are aiming at a concrete management system [149, 150] or focus on energy management [140]. One reference deals with Big Data [29]
 
-#### open air horticulture
+#### open air horticulture (8)
 
-"The same holds for open air horticulture (incl. orchards) focusing on monitoring & control of products [157-159]. Other themes that are mentioned are early warning and pest management [27, 160], traceability [161], expert systems and internet trading [162], micro-irrigation [14] and Big Data [160]."
+- "The same holds for open air horticulture (incl. orchards) focusing on monitoring & control of products [157-159]. Other themes that are mentioned are early warning and pest management [27, 160], traceability [161], expert systems and internet trading [162], micro-irrigation [14] and Big Data [160]."
 
 **Leisure agriculture ja livestock farming jätetään pois.**
 
 #### Teemat
 
-"From the applications in the areas above several generic themes can be identified, in particular precision farming in arable- livestock farming and horticulture, food traceability, food safety and quality management and consumer interaction."
+- "From the applications in the areas above several generic themes can be identified, in particular precision farming in arable- livestock farming and horticulture, food traceability, food safety and quality management and consumer interaction."
 * Precision farming (in arable farming and horticulture)
 * Food traceability systems
 * Food safety and quality management systems
