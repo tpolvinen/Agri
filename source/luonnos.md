@@ -641,6 +641,26 @@ Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset *(koska kuvaileva, h
 
 ### MAHD. Kirjallisuuskatsausten erot
 
+
+### AIoT:n teknologiat
+
+Keskeisimpiä yleisen IoT:n mahdollistavia teknologioita (joiden integroinnilla voidaan toteuttaa IoT-konsepti) ovat Atzori et al. (2010) mukaan ovat tunnistus-, anturointi- ja tietoliikennetekniikka sekä väliohjelmistot.
+*Ei laajaa katsausta kustakin, vaan pyritään yleiskuvan tuottamiseen sekä teknologian roolin IoT:ssä kuvailu.*
+
+#### Tunnistus-, anturointi- ja tietoliikennetekniikka
+
+Langattomassa tietoliikennetekniikassa käytettävien radiolaitteiden koko, paino, energiankulutus ja hinta ovat pienentyneet huomattavasti. Tämä on mahdollistanut niiden sulauttamisen lähes kaikkiin esineisiin, mikä on osaltaan johtanut kehitystä IoT:n suuntaan. Keskeinen osa IoT:n kehitystä ovat RFID-tunnisteet, joilla voidaan tarkkailla kohteiden tosiaikaisesti. Sensoriverkot ovat toinen keskeinen IoT:n mahdollistava teknologia. Sensoriverkkoja voidaan käyttää ympäristön tai laitteiden anturointiin. Ympäristön tarkkailu sensoriverkkojen avulla on IoT:n sovelluskohteena useissa tutkimuksissa. Lisäksi sensoriverkkojen avulla voidaan rikastuttaa esimerkiksi RFID-tunnisteiden lukemisessa tuotettua tietoa muun muassa liike-, paikka- ja lämpötilatiedoilla. (@atzoriInternetThingsSurvey2010)
+
+
+
+#### Väliohjelmistot
+
+
+*Väliohjelmistot per Atzori et al. & Tzounis et al.*
+
+*missä vertailtaisiin visioita iof2020 ja tiekartan välillä?*
+
+
 ### AIoT:n sovellusalueet
 
 *Mitkä ovat keskeiset AIoT:n teknologiaratkaisuit?*
@@ -654,6 +674,8 @@ Verdouw et al. kirjallisuuskatsauksessa jaottelu on tehty samoin sovellusalueide
 
 
 *Miten muut kirjallisuuskatsaukset? Miten niiden aineisto jakautui?*
+
+Seuraavassa osiossa käsitellään kastsauksen aineistossa viitatut teknologiasovellukset ja kirjallisuuskatsausten havainnot osa-alueittain **valvonnan**, **kontrolloinnin**, **logistiikan**, **ennustuksen** osioissa. Lisäksi käsitellään **maatalouden IoT:n yleiset sovellukset** *ja muut?* omana osa-alueenaan.
 
 #### Valvonta
 
@@ -717,14 +739,12 @@ Talavera et al. (2017) kirjallisuuskatsauksessa käsiteltyjen logistiikan osa-al
 *ks. edellisistä kohdista aikaiset varoitukset kans*
 
 
-#### Maatalouden yleiset sovellukset
+#### Maatalouden IoT:n yleiset sovellukset
 
 **maatalouden yleiset sovellukset** 26 (@verdouwInternetThingsAgriculture2016a)
 Verdouw et al. kirjallisuuskatsauksessa useat julkaisut käsittelevät täsmäviljelyä ja erityisesti täsmäviljelyn tietojärjestelmiä. Osa keskittyy tuotantoympäristön tarkkailuun ja kontrollointiin kuten kastelujärjestelmiin tai vastaaviin. Muutamassa julkaisussa keskitytään IoT-perustaisen yleisen hallinta- ja tietojärjestelmän suunnitteluun. Muita relevantteja aiheita käsitellyissä julkaisuissa ovat ruoan laadun parantaminen, ruoan turvallisuus ja jäljitettävyys, veden hallinta, maaseudun kehittäminen, kaupunkiviljely ja kuluttajien vuorovaikutus. 
 
-### AIoT:n teknologiat
 
-*Väliohjelmistot per Tzounis et al.*
 
 ### AIoT:n avoimet haasteet
 
@@ -769,7 +789,9 @@ Selkeästä tarpeesta huolimatta Talavera et al. havaitsivat kirjallisuuskatsauk
 Kirjallisuuskatsauksessaan Verdouw et al. (2016) kertovat energiatehokkaiden IoT-teknologioiden kehittämisen, mukaanlukien laitteiden ja tietoliikenneyhteyksien kehittämisen maaseudun tarpeisiin, olevan keskeisiä AIoT-järjestelmien kehityksen haasteita (@verdouwInternetThingsAgriculture2016a).
 
 Yksi IoT-ratkaisuiden laitteille asetettuja keskeisiä vaatimuksia on energiatehokkuus. Tämä koskee erityisesti laitteita, jotka ovat tyypillisiä AIoT-ratkaisuille: jotka eivät ole yhteydessä sähköverkkoon, jotka asennetaan ulkotiloihin ja joita ei huolleta säännöllisesti. 
-Energiatehokkuuteen liittyvä virrankulutus on Talavera et al. (2017) tekemässä kirjallisuuskatsauksessa useiden lähteiden mukaan suurin IoT-laitteiden elinkaarta rajoittava tekijä. Laitteiden elinkaarta voitaisiin heidän mukaansa pidentää virrankulutusta vähentämällä, lisäämällä energiakeräimiä sekä käyttämällä vaihtoehtoisia tehon varastointilaitteita akkujen sijaan. (@talaveraReviewIoTApplications2017)
+Energiatehokkuuteen liittyvä virrankulutus on Talavera et al. (2017) kirjallisuuskatsauksessa useiden lähteiden mukaan suurin IoT-laitteiden elinkaarta rajoittava tekijä. Laitteiden elinkaarta voitaisiin heidän mukaansa pidentää virrankulutusta vähentämällä, lisäämällä energiakeräimiä sekä käyttämällä vaihtoehtoisia tehon varastointilaitteita akkujen sijaan. (@talaveraReviewIoTApplications2017)
+
+Vastaavasti Atzori et al. (2010) mainitsevat katsauksessaan, että sensoriverkkoja käsittelevissä julkaisuissa esitellyissä ratkaisuissa pyritään erityisesti energiatehokkuuden parantamiseen, koska energia on useimmissa sensoriverkkojen käyttötapauksissa harvinaisin resurssi.
 
 Langattomien sensoriverkkojen kehittämisen haasteena on useiden voimanlähteiden energiakeräimien sekä aikaisempaa energiatehokkaampien sensoreiden kehittäminen akuttomien WSN-ratkaisuiden mahdollistamiseksi. Nämä ovat erityisen tärkeitä AIoT-ratkaisuille koska laitteiden akkujen lataus tai vaihtaminen ei ole aina käytännöllistä, samalla kun energialähteitä kuten aurinko- ja tuulienergiaa on usein saatavilla käyttöympäristöstä. (@talaveraReviewIoTApplications2017)
 
@@ -789,9 +811,12 @@ Myös Tzounis et al. (2017) mukaan IoT-laitteita on haastavaa kehittää vaativi
 
 #### Langattoman tiedonsiirron haasteet
 
-Samoin kuin laitteiden kestävyydelle, toimintaympäristö asettaa haasteita myös langattomalle tiedonsiirrolle (@tzounisInternetThingsAgriculture2017). Verdouw et al. (2016) mukaan yksi keskeisiä AIoT:n kehityksen haasteita on vakaan ja luotettavan langattoman yhteyden kehittäminen kaukaisille alueille, joilla on usein rajattu peittoalue ja kaistanleveys (@verdouwInternetThingsAgriculture2016a).
+Samoin kuin laitteiden kestävyydelle, toimintaympäristö asettaa haasteita myös langattomalle tiedonsiirrolle (@tzounisInternetThingsAgriculture2017). Verdouw et al. (2016) mukaan yksi keskeisiä AIoT:n kehityksen haasteita on vakaan ja luotettavan langattoman yhteyden kehittäminen kaukaisille alueille, joilla on usein rajattu peittoalue ja kaistanleveys (@verdouwInternetThingsAgriculture2016a). 
 
 Langattomat verkot ovat yleisiä peltotuotannon sovelluksissa, missä verkkojen kaapeloinnin kustannukset voivat olla huomattavia ja kaapelointia voi olla vaikea toteuttaa. Ympäristövaikutukset ovat yksi suurimmista tekijöistä jotka vaikuttavat haitallisesti langattoman verkon yhteyksiin monitie-etenemisen ja sen taustamelua lisäävän vaikutuksen takia. Lämpötilan, kosteuden, ihmisten ja muiden esteiden vaikutuksen on havaittu vaikuttavan langattomien verkkojen toimintaan. Tämän takia tiedonsiirtoon tulisi käyttää luotettavia ja vakaita teknologioita, ottaen huomioon maatalouden käyttöympäristön vaatimukset ja haasteet. (@tzounisInternetThingsAgriculture2017)
+
+*tämä jää nyt vähän irralliseksi:*
+Sensoriverkkojen luotettavuuden, kesvävyyden ja vikasietoisuuden kehittäminen on Atzori et al. (2010) mukaan keskeisiä IoT:n teknologiakehityksen haasteita (@atzoriInternetThingsSurvey2010).
 
 Lisäksi langattoman tietoliikenteen yleinen haaste on keskenään samoilla taajuuskaistoilla toimivien laitteiden toisilleen aiheuttamat häiriöt. Käytössä olevien useiden erilaisten teknologioiden ja standardien monimuotoisuus voi käytännössä haitata tietoliikennetason yhteentoimivuutta. (@tzounisInternetThingsAgriculture2017)
 
@@ -804,7 +829,7 @@ Tzounis et al. (2017) huomauttavat kirjallisuuskatsauksessaan analytiikkaratkais
 
 #### AIoT-ekosysteemin laajentamisen haasteet
 
-Talavera et al. (2017) huomauttivat, että kirjallisuudessa on huomattava aukko IoT-ratkaisujen yksinkertaisien prototyyppien kehittämisestä tosielämän ratkaisuiksi (@talaveraReviewIoTApplications2017).
+Talavera et al. (2017) huomauttavat, että kirjallisuudessa on huomattava aukko IoT-ratkaisujen yksinkertaisien prototyyppien kehittämisestä tosielämän ratkaisuiksi (@talaveraReviewIoTApplications2017).
 
 Tosielämän ratkaisujen laajan omaksunnan saavuttamiseksi AIoT-ratkaisujen kehityksen haasteena puolestaan on sovittaa ratkaisut toimimaan hyvin erilaisissa käyttöympäristöissä. Järjestelmien tulisi toimia erilaisissa ilmasto-olosuhteissa, maaperissä ja erilaisten satokasvien kanssa. (@verdouwInternetThingsAgriculture2016a)
 
@@ -822,19 +847,17 @@ Samoin kuin akkujen kestävyys ja matala virrankulutus ovat havaintotason laitte
 
 Talavera et al.
 
-Vaikka sulautettujen järjestelmien yksikköhinnat ovat laskeneet, korkealuokkaisten sensorien ja toimilaitteiden yksikköhinnoille ei ole käynyt samoin. Jotta satoja, mahdollisesti tuhansia laiteyksikköjä käsittävien IoT-ratkaisuiden käyttöönotto mahdollistuisi, tulisi laitteistojen yleiskustannusten, internetyhteyksien ja kansainvälisten data roaming -maksujen edelleen laskea. 
+Vaikka sulautettujen järjestelmien yksikköhinnat ovat laskeneet, korkealuokkaisten sensorien ja toimilaitteiden yksikköhinnoille ei ole käynyt samoin. Jotta satoja, mahdollisesti tuhansia laiteyksikköjä käsittävien IoT-ratkaisuiden käyttöönotto mahdollistuisi, tulisi laitteistojen yleiskustannusten, internetyhteyksien ja kansainvälisten data roaming -maksujen edelleen laskea. (@talaveraReviewIoTApplications2017)
 
-Aikaisempaa enemmän modulaarisiksi suunnitellut laitteet ja ohjelmistot voisivat puolestaan mahdollistaa tehokkaamman uudelleenkäytön ja järjestelmien räätälöinnin. 
+Aikaisempaa enemmän modulaarisiksi suunnitellut laitteet ja ohjelmistot voisivat puolestaan mahdollistaa tehokkaamman uudelleenkäytön ja järjestelmien räätälöinnin. (@talaveraReviewIoTApplications2017)
 
-AIoT-järjestelmiä tulisi lähtökohtaisesti kehittää yhteensopiviksi vanhan, olemassaolevan infrastruktuurin kanssa. Samoin kuin teollisuusautomaatiossa, on tärkeää kehittää ratkaisuita jotka sopivat asiakkaan olemassaolevaan infrastruktuuriin kuten erikoislaitteisiin, työkoneisiin ja ohjelmistoihin.
+AIoT-järjestelmiä tulisi lähtökohtaisesti kehittää yhteensopiviksi vanhan, olemassaolevan infrastruktuurin kanssa. Samoin kuin teollisuusautomaatiossa, on tärkeää kehittää ratkaisuita jotka sopivat asiakkaan olemassaolevaan infrastruktuuriin kuten erikoislaitteisiin, työkoneisiin ja ohjelmistoihin. (@talaveraReviewIoTApplications2017)
 
-Järjestelmien skaalautuvuus tulisi huomioida jo aikaisessa kehitysvaiheessa. Laitemäärien kasvun myötä kasvavien järjestelmien datan synkronisoinnin toimivuus ja datan luotettavuus muodostuvat kriittisiksi.
+Järjestelmien skaalautuvuus tulisi huomioida jo aikaisessa kehitysvaiheessa. Laitemäärien kasvun myötä kasvavien järjestelmien datan synkronisoinnin toimivuus ja datan luotettavuus muodostuvat kriittisiksi. (@talaveraReviewIoTApplications2017) Skaalautuvuus on myös sensoriverkkojen kehityksen haaste, koska sensorilaitteiden määrät voivat kasvaa hyvin suuriksi (@atzoriInternetThingsSurvey2010).
 
-IoT-laitteiden asentamisen ja hallinnan tulisi olla selkeää ja yksinkertaista tavallisille käyttäjille. Lisäksi laitteen tulisi vaatia vain vähän tai ei ollenkaan ihmisen tekemää huoltoa elinkaarensa aikana sekä laitteiden käyttämän tietoliikenneratkaisun tulisi olla tarpeeksi älykäs uudelleenmäärittelemään tai parantamaan itse itsensä laiterikon sattuessa.
+IoT-laitteiden asentamisen ja hallinnan tulisi olla selkeää ja yksinkertaista tavallisille käyttäjille. Lisäksi laitteen tulisi vaatia vain vähän tai ei ollenkaan ihmisen tekemää huoltoa elinkaarensa aikana sekä laitteiden käyttämän tietoliikenneratkaisun tulisi olla tarpeeksi älykäs uudelleenmäärittelemään tai parantamaan itse itsensä laiterikon sattuessa. (@talaveraReviewIoTApplications2017)
 
-Vaikka vain vaatimattomimmat ennusteet IoT-laitteiden käyttöönotosta toteutuisivat, laitteiden kierrätysstrategia tulisi suunnitella osana uutta ratkaisua ja sen elinkaarta ympäristövaikutusten minimoimiseksi.
-
-(@talaveraReviewIoTApplications2017)
+Vaikka vain vaatimattomimmat ennusteet IoT-laitteiden käyttöönotosta toteutuisivat, laitteiden kierrätysstrategia tulisi suunnitella osana uutta ratkaisua ja sen elinkaarta ympäristövaikutusten minimoimiseksi. (@talaveraReviewIoTApplications2017)
 
 
 ### Esitetyt AIoT-arkkitehtuurit
