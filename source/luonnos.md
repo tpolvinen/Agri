@@ -92,7 +92,7 @@ Ensin tutustutaan osailmiöhin IoT, IIoT, AIoT ja kasvintuotanto, joiden määri
 
 *Tähän IoT:n määritelmät, historia*
 
-*historiaa: ensimmäinen IoT-laite oli kokisautomaatti, RFID-tägit ensimmäinen merkittävä "asia" (thing)*
+*historiaa: ensimmäinen IoT-laite oli kokisautomaatti, RFID-tägit ensimmäinen merkittävä "asia" (thing) ks. madakamInternetThingsIoT2015*
 
 *Vermesan & Friessin "Internet of Things - Global Technological and Societal Trends..." kuvaa IoT-taustaa hyvin. Entä muut kirjat?*
 
@@ -654,11 +654,8 @@ AIoT:n avoimia haasteita ovat standardisaatio, tieto- ja kyberturvallisuus, lait
 ### AIoT:n teknologiat
 
 Keskeisimpiä yleisen IoT:n mahdollistavia teknologioita ovat Atzori et al. (2010) mukaan tunnistus-, anturointi- ja tietoliikennetekniikka sekä väliohjelmistot. IoT-konsepti voidaan toteuttaa näiden integroinnilla. (@atzoriInternetThingsSurvey2010)
-Langattomassa tietoliikennetekniikassa käytettävien radiolaitteiden koko, paino ja energiankulutus ovat pienentyneet ja hinta laskenut huomattavasti. Tämä on mahdollistanut niiden sulauttamisen lähes kaikkiin esineisiin, mikä on osaltaan johtanut kehitystä IoT-konseptin suuntaan. Keskeinen osa IoT:n kehitystä ovat RFID-tunnisteet, joilla voidaan tarkkailla kohteiden liikkumista järjestelmässä tosiaikaisesti. Sensoriverkot ovat toinen keskeinen IoT:n mahdollistava teknologia. Sensoriverkkoja voidaan käyttää ympäristön tai laitteiden anturointiin. Ympäristön tarkkailu sensoriverkkojen avulla on useiden tutkimusten IoT-ratkaisuiden kohteena. Lisäksi sensoriverkkojen avulla voidaan rikastuttaa esimerkiksi RFID-tunnisteiden lukemisessa tuotettua tietoa muun muassa liike-, paikka- ja lämpötilatiedoilla. (@atzoriInternetThingsSurvey2010)
+Langattomassa tietoliikennetekniikassa käytettävien radiolaitteiden koko, paino ja energiankulutus ovat pienentyneet ja hinta laskenut huomattavasti. Tämä on mahdollistanut niiden sulauttamisen lähes kaikkiin esineisiin, mikä on osaltaan johtanut kehitystä IoT-konseptin suuntaan. Keskeinen osa IoT:n kehitystä ovat RFID-tunnisteet, joilla voidaan tarkkailla niillä merkittyjen fyysisten kohteiden liikkumista järjestelmässä tosiaikaisesti. Sensoriverkot ovat toinen keskeinen IoT:n mahdollistava teknologia. Sensoriverkkoja voidaan käyttää ympäristön tai laitteiden anturointiin. Ympäristön tarkkailu sensoriverkkojen avulla on Atzori et al. kirjallisuuskatsauksessa useiden tutkimusten IoT-ratkaisuiden kohteena. Lisäksi sensoriverkkojen avulla voidaan rikastuttaa esimerkiksi RFID-tunnisteiden lukemisessa tuotettua tietoa muun muassa liike-, paikka- ja lämpötilatiedoilla. (@atzoriInternetThingsSurvey2010)
 
-*Ei laajaa katsausta kustakin, vaan pyritään yleiskuvan tuottamiseen sekä teknologian roolin IoT:ssä kuvailu.*
-
-Lisäksi tietojenkäsittely!
 
 Vastaavasti Talavera et al. (2017) ryhmittelivät AIoT-ratkaisuissa sovelletut teknologiat ja infrastruktuurit seitsemään ryhmään: 
 #### Valvottavat muuttujat *(sensing variables)*
@@ -670,6 +667,7 @@ Vastaavasti Talavera et al. (2017) ryhmittelivät AIoT-ratkaisuissa sovelletut t
 #### Tiedon visualisointistrategiat
 
  (@talaveraReviewIoTApplications2017)
+
 
 *Gubbi et al. (2013) (@gubbiInternetThingsIoT2013) 3.3 IoT Elements 3.3.1 RFID 3.3.2 WSN 3.3.3 Addressing scemes 3.3.4 Data storage and analytics 3.3.5 Visualization*
 
@@ -756,15 +754,18 @@ Tzounis et al. (2017) kirjallisuuskatsauksessa käsitellyissä julkaisuissa viid
 
 #### Logistiikka
 
-**Logistiikka**-osa-alueen julkaisut keskittyivät fyysisten kokonaisuuksien virtaukseen ja siihen liittyvään informaatioon tuottajalta kuluttajalle kulutuskysynnän tyydyttämiseksi. Tähän sisältyy maataloustuotanto, hankinta, kuljetus, varastointi, lastaus, käsittely, pakkaus, jakelu sekä niihin liittyvät toiminnot. Maatalouden logistiikan tavoitteisiin kuuluivat muun muassa maataloustuotteiden arvon lisäys, jakelukustannuksien vähentäminen, kuljetustehokkuuden lisäys, tarpeettoman hävikin vähentäminen sekä jossakin määrin riskien välttäminen. 
+Logistiikan osa-alueen julkaisut keskittyvät fyysisten kokonaisuuksien virtaukseen ja siihen liittyvään informaatioon tuottajalta kuluttajalle kulutuskysynnän tyydyttämiseksi. Tähän sisältyy maataloustuotanto, hankinta, kuljetus, varastointi, lastaus, käsittely, pakkaus, jakelu sekä niihin liittyvät toiminnot. Maatalouden logistiikan tavoitteisiin kuuluivat muun muassa maataloustuotteiden arvon lisäys, jakelukustannuksien vähentäminen, kuljetustehokkuuden lisäys, tarpeettoman hävikin vähentäminen sekä jossakin määrin riskien välttäminen. 
 
-RFID-tunniste on ruoan tuotantoketjuissa yleisin käytössä oleva IoT-teknologia, jonka avulla voidaan seurata maatalouden tuotteiden liikkumista tuotantoketjussa. IoT-paradigman mukaisesti viime aikaisissa julkaisuissa on yhdistetty useita sensoreita rikastamaan kerättävää tietoa tuotteen tilasta aina kun tuotteen RFID luetaan ja tallennetaan. (@tzounisInternetThingsAgriculture2017)
+RFID-tunniste on ruoan tuotantoketjuissa yleisin käytössä oleva IoT-teknologia, jonka avulla voidaan seurata maatalouden tuotteiden liikkumista tuotantoketjussa. IoT-paradigman mukaisesti viime aikaisissa julkaisuissa on yhdistetty useita sensoreita rikastamaan kerättävää tietoa tuotteen tilasta aina kun tuotteen RFID-tunniste luetaan ja tallennetaan. (@tzounisInternetThingsAgriculture2017)
 
-IoT:n yleiseen luonteeseen kuuluu ratkaisujen hajautuneisuus sekä asynkroninen ja heterogeeninen tietovirta. *Tämän takia ruoan tuotantoketjun palveluissa Tzounis et al. (2017) mukaan nimeäminen on kriittisen tärkeää tiedon tarkalle ja nopealle löytämiselle.* IoT-infrastruktuurin toteutuminen johtaa Tzounis et al. (2017) mukaan tuotantoketjujen virtualisointiin, koska tarkkailijoiden ei enää ole tarpeellista olla fyysinen lähellä varsinaista tuotantoa. (@tzounisInternetThingsAgriculture2017)
+IoT:n yleiseen luonteeseen kuuluu ratkaisujen hajautuneisuus sekä asynkroninen ja heterogeeninen tietovirta. Tästä johtuen ruoan tuotantoketjun palveluissa nimeäminen ja nimeämiskäytännöt ovat tärkeitä tiedon tarkalle ja nopealle löytämiselle. IoT-infrastruktuurin toteutuminen johtaa tuotantoketjujen virtualisointiin, koska tarkkailun ei enää tarvitse tapahtua fyysisesti varsinaisen tuotannon lähellä. (@tzounisInternetThingsAgriculture2017)
 
 Useiden IoT-teknologioiden kehitys yhdistettynä niiden kestävyyden parantumiseen ja kypsymiseen on mahdollistanut tutkijoille sensorimoduleita ja ohjelmistoinfrastruktuureita soveltavien kokonaisten tuotantoketjun seurantajärjestelmien kehittämisen. Näiden seurantajärjestelmien käyttämät ohjelmistot voivat sijaita keskitetysti yhdessä pilvipalvelussa tai ne voivat toimia hajautetusti eri sidosryhmien kesken.(@tzounisInternetThingsAgriculture2017)
 
-Tzounis et al. (2017) ja Verdouw et al. (2016) kirjallisuuskatsauksissa logistiikkaa vastaava osa-alue on ruoan tuotantoketjun seuranta. Tzounis et al. mukaan moderni maatalous on tyypillisesti yhä teollisempaa tuotantoa ja ruoan turvallisuuden ja laadun takaamiseksi standardisointimekanismeja on otettava käyttöön jokaisessa tuotannon vaiheessa. Tämän tarve on kasvattanut yleistä kiinnostusta ruokaketjun jäljitettävyysjärjestelmiä kohtaan. IoT-teknologiat tarjoavat tätä varten useita tarvittavia työkaluja jäljitettävyysjärjestelmien infrastruktuurin ja palveluiden rakentamiseen ja ylläpitoon. (@tzounisInternetThingsAgriculture2017; @verdouwInternetThingsAgriculture2016a) 
+*Logistiikkaa vastaava osa-alue Tzounis et al. (2017) ja Verdouw et al. (2016) kirjallisuuskatsauksissa on ruoan tuotantoketjun seuranta.*
+
+*(Teolliset IoT-sovellukset)*
+Ruoan tuotantoketjut voivat olla erittäin monimutkaisia ja hajautettuja. Maantieteelliset ja ajalliset skaalat ovat suuria, prosessit monimutkaisia ja sidosryhmät moninaisia. Tuotantoketjun kompleksisuus on aiheuttanut useita ongelmia laaduntarkkailussa, toiminnan tehokkuudessa ja ruoan turvallisuudessa. (@xuInternetThingsIndustries2014) Moderni maatalous on toimintatavoiltaan tyypillisesti yhä teollisempaa, jolloin ruoan turvallisuuden ja laadun takaamiseksi standardisointimekanismeja tulisi ottaa käyttöön kaikissa tuotantoketjun vaiheissa. Ruoan laadun ja turvallisuuden tarpeet ovat kasvattaneet yleistä kiinnostusta ruokaketjun jäljitettävyysjärjestelmiä kohtaan. IoT-teknologiat tarjoavat mahdollisuuksia vastata tuotantoketjun jäljitettävyyden, läpinäkyvyyden ja hallittavuuden haasteisiin. *Jäljitettävyysjärjestelmien infrastruktuurin ja palveluiden raketamiseen IoT-teknologiat tarjoavat samoin useita tarvittavia työkaluja.* Ruoan tuotantoketjua voitaisiin IoT-teknologioiden avulla tarkkailla pellosta pöytään asti täsmäviljelystä ruoan tuotantoon, prosessointiin, varastointiin, jakeluun ja kulutukseen. Tulevaisuudessa on odotettavissa turvallisempien, tehokkaampien ja kestävämpien ruoan tuotantoketjujen toteutuminen, minkä lisäksi tuotantoketjuista saatava massadata mahdollistaisi data-analyysiin perustuvan liiketoimintaprosessien ja päätöksenteon parantamisen. (@xuInternetThingsIndustries2014; @tzounisInternetThingsAgriculture2017) 
 
 Tzounis et al. (2017) kirjallisuuskatsauksessa ruoan tuotantoketjun ratkaisut keskittyvät joko tuotantoketjun liiketoiminnan puoleen tai siinä sovellettaviin teknologioihin. Muutamat julkaisut pyrkivät esittämään ratkaisuita molempien puolien kattamiseen. Tuotannon valvonnan lisäksi katsauksessa kahdessa julkaisussa on mallinnuksien avulla analysoitu ruoan tuotantoketjujen ongelmia ja pyritty ratkaisemaan niitä IoT-teknologioiden avulla. Osassa julkaisuja pyritään tuotantoketjun kokonaisvaltaisen tiedonhallintajärjestelmän tuottamiseen tai tuotantojärjestelmän suunnitteluun taloudellisen tuoton maksimoimisen lähtökohdasta. (@tzounisInternetThingsAgriculture2017)
 
@@ -789,6 +790,8 @@ Verdouw et al. kirjallisuuskatsauksessa useat julkaisut käsittelevät täsmävi
 
 
 ### AIoT:n avoimet haasteet
+
+*Tähän vielä haasteita Xu et al. @xuInternetThingsIndustries2014*
 
 Aineistossa käsitellyt AIoT:n avoimet haasteet.
 
@@ -908,7 +911,10 @@ Vaikka vain vaatimattomimmat ennusteet IoT-laitteiden käyttöönotosta toteutui
 ### Esitetyt AIoT-arkkitehtuurit
 
 
-ITU-arkkitehtuuri
+*muista myös ITU-arkkitehtuuri*
+*Verdouw et al. (2016) teknologiat ovat vain laite-, tietoliikenne- ja sovelluskerrokset.*
+*Xu et al. (2014) arkkitehtuuri on havainnointikerros (sis. sekä havainnointi (sensing) että kontrollointi (actuation), tietoliikennekerros, palvelukerros ja liittymäkerros (sekä UI että muille järjestelmille).*
+*Talavera et al. (2017) vastaavasti fyysinen, tietoliikenne, palvelu ja sovellus*
 
 ## Haastattelujen tulokset
 

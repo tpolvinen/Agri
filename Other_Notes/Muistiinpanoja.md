@@ -1721,12 +1721,28 @@ Vaikka vain vaatimattomimmat ennusteet IoT-laitteiden käyttöönotosta toteutui
 
 ---
 
+Kamilaris et al. (@kamilarisReviewPracticeBig2017)
+"Nowadays, agricultural practices are being supported by biotechnology (Rahman et al., 2013) and emerging digital technologies such as remote sensing (Bastiaanssen et al., 2000), cloud computing
+(Hashem et al., 2015) and Internet of Things (IoT) (Weber and Weber, 2010), leading to the notion of “smart farming” (Tyagi, 2016; Babinet Gilles et al., 2015). The deployment of new information and communication technologies (ICT) for field-level crop/farm management extend the precision agriculture concept (Lokers et al., 2016), enhancing the existing tasks of management and decision making by context (Kamilaris et al., 2016), situation and location awareness (Karmas et al.,
+2016)."
 
+---
 
+## Kamilaris 2017 1.14: A review on the practice of big data analysis in agriculture
+(@kamilarisReviewPracticeBig2017)
 
+Massadata-analyysi on johtanut useisiin edistysaskeliin eri teollisuudenaloilla, mutta maatalouden alalla sitä ei ole vielä otettu laajasti käyttöön.
 
+Massadata-analyysissä tarvittavien laitteiden ja ohjelmistojen, tekniikoiden ja menetelmien saatavuus, yhdessä lisääntyvän massadatalähteiden avoimuuden kanssa edistää uutta tutkimusta ja julkisen sektorin sekä liiketoiminnan hankkeita maataloussektorilla. Massadatan käyttö maataloussektorilla on vielä aikaisessa kehitysvaiheessa ja useita esteitä täytyy ylittää sen laajamittaisen käyttöönoton toteuttamiseksi.
 
+Useat digitaaliset uudet teknologiat kuten IoT, pilvipalvelut ja kaukohavainnointi johtavat smart farming -käsitteen.
 
+Smart farming on tärkeä
+Maataloustuotannon haasteisiin kuten tuottavuuteen, ympäristöystävällisyyteen, ruoan turvallisuuteen ja tuotannon kestävyyteen vastatessa . Monimutkaisia ja ennalta-arvaamattomia maatalouden ekosysteemejä tulee ymmärtää ja analysoida paremmin. Digitaalisen teknologiat auttavat ymmärtämään niitä seuraamalla ja mittaamalla fyysisten ympäristöjen ominaisuuksia (aspects), tuottaen samalla suuria määriä dataa ennennäkemättömällä nopeudella. Tämä tarkoittaa heterogeenisistä lähteistä tulevan valtavan datamäärän keräämisen, tallentamisen, esikäsittelyn, mallinnuksen ja analyysin tarvetta. Samoin maatalouden massadatan käsittely vaatii huomattavia investointeja tallennuksen ja käsittelyn infrastruktuureihin, joiden tulee joissain sovelluksissa toimia lähes tosiaikaisesti.
+
+Viimeaikainen käytäntö on lähestyä maatalouden ongelmia kuva-analyysin keinoilla, käyttäen etähavainnoinnilla joko lentävillä laitteilla tai satelliiteilla tuotettua kuvantamisdataa. Maataloudessa etähavainnoinnilla on mahdollista saavuttaa useita etuja.
+
+Etähavainnointia käytetään myös vakuutuksien korvauspäätösten teossa, kuten satovahinkojen, kuivuuden tai liiallisen sateen vaikutusten sekä tulva- ja paloriskien arvioinnissa. 
 
 
 
