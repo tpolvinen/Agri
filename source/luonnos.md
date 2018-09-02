@@ -629,7 +629,7 @@ Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset *(koska kuvaileva, h
 
 ## Kirjallisuuskatsauksen tulokset
 
-*Ks. Tutkimuskysymykset*
+*Ks. Tutkimuskysymykset:*
 
 *I) Millaista tutkimusta IoT-teknologioiden soveltamisesta kasvintuotantoon on julkaistu?*
 
@@ -639,22 +639,45 @@ Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset *(koska kuvaileva, h
 
 *II) Miten kasvintuotannossa hyödynnetään IoT-teknologioita?*
 
+Käsitellään AIoT-ratkaisuissa käytettävät teknologiat, AIoT-ratkaisujen sovellusalueet, AIoT:n avoimet haasteet ja tutkimuksissa esitetyt AIoT-arkkitehtuurit.
+
+AIoT:n teknologiat on ryhmitelty seuraavasti: tunnistus-, anturointi- ja tietoliikennetekniikka, väliohjelmistot ja *tietojenkäsittely?*.
+
+AIoT:n sovellusalueet on ryhmitelty seuraavasti: valvonta, kontrollointi, logistiikka, ennustus ja AIoT:n yleiset sovellukset.
+
+AIoT:n avoimia haasteita ovat standardisaatio, tieto- ja kyberturvallisuus, laitteiden energiatehokkuus, laitteiden kestävyys, langaton tiedonsiirto, analytiikka, AIoT:n ekosysteemin laajentaminen, ohjelmistokehitys ja muut haasteet.
+
+
 ### MAHD. Kirjallisuuskatsausten erot
 
 
 ### AIoT:n teknologiat
 
-Keskeisimpiä yleisen IoT:n mahdollistavia teknologioita ovat Atzori et al. (2010) mukaan ovat tunnistus-, anturointi- ja tietoliikennetekniikka sekä väliohjelmistot. IoT-konsepti voidaan toteuttaa näiden integroinnilla. (@atzoriInternetThingsSurvey2010)
+Keskeisimpiä yleisen IoT:n mahdollistavia teknologioita ovat Atzori et al. (2010) mukaan tunnistus-, anturointi- ja tietoliikennetekniikka sekä väliohjelmistot. IoT-konsepti voidaan toteuttaa näiden integroinnilla. (@atzoriInternetThingsSurvey2010)
+Langattomassa tietoliikennetekniikassa käytettävien radiolaitteiden koko, paino ja energiankulutus ovat pienentyneet ja hinta laskenut huomattavasti. Tämä on mahdollistanut niiden sulauttamisen lähes kaikkiin esineisiin, mikä on osaltaan johtanut kehitystä IoT-konseptin suuntaan. Keskeinen osa IoT:n kehitystä ovat RFID-tunnisteet, joilla voidaan tarkkailla kohteiden liikkumista järjestelmässä tosiaikaisesti. Sensoriverkot ovat toinen keskeinen IoT:n mahdollistava teknologia. Sensoriverkkoja voidaan käyttää ympäristön tai laitteiden anturointiin. Ympäristön tarkkailu sensoriverkkojen avulla on useiden tutkimusten IoT-ratkaisuiden kohteena. Lisäksi sensoriverkkojen avulla voidaan rikastuttaa esimerkiksi RFID-tunnisteiden lukemisessa tuotettua tietoa muun muassa liike-, paikka- ja lämpötilatiedoilla. (@atzoriInternetThingsSurvey2010)
+
 *Ei laajaa katsausta kustakin, vaan pyritään yleiskuvan tuottamiseen sekä teknologian roolin IoT:ssä kuvailu.*
+
 Lisäksi tietojenkäsittely!
+
+Vastaavasti Talavera et al. (2017) ryhmittelivät AIoT-ratkaisuissa sovelletut teknologiat ja infrastruktuurit seitsemään ryhmään: 
+#### Valvottavat muuttujat *(sensing variables)*
+#### Toimilaitteet
+#### Virtalähteet *(power sources)*
+#### Tietoliikennetekniikat
+#### Verkon reunan tietojenkäsittely (edge computing)
+#### Tiedon tallennusstrategiat
+#### Tiedon visualisointistrategiat
+
+ (@talaveraReviewIoTApplications2017)
 
 *Gubbi et al. (2013) (@gubbiInternetThingsIoT2013) 3.3 IoT Elements 3.3.1 RFID 3.3.2 WSN 3.3.3 Addressing scemes 3.3.4 Data storage and analytics 3.3.5 Visualization*
 
 #### Tunnistus-, anturointi- ja tietoliikennetekniikka
 
-Langattomassa tietoliikennetekniikassa käytettävien radiolaitteiden koko, paino ja energiankulutus ovat pienentyneet ja hinta laskenut huomattavasti. Tämä on mahdollistanut niiden sulauttamisen lähes kaikkiin esineisiin, mikä on osaltaan johtanut kehitystä IoT-konseptin suuntaan. Keskeinen osa IoT:n kehitystä ovat RFID-tunnisteet, joilla voidaan tarkkailla kohteiden liikkumista järjestelmässä tosiaikaisesti. Sensoriverkot ovat toinen keskeinen IoT:n mahdollistava teknologia. Sensoriverkkoja voidaan käyttää ympäristön tai laitteiden anturointiin. Ympäristön tarkkailu sensoriverkkojen avulla on useiden tutkimusten IoT-ratkaisuiden kohteena. Lisäksi sensoriverkkojen avulla voidaan rikastuttaa esimerkiksi RFID-tunnisteiden lukemisessa tuotettua tietoa muun muassa liike-, paikka- ja lämpötilatiedoilla. (@atzoriInternetThingsSurvey2010)
 
 
+*WSN WSAN*
 
 *Per mahdollistava teknologia: millaisia muissa lähteissä on nämä tunnistus- anturointi- ja tietoliikennetekniikat?*
 
@@ -684,7 +707,7 @@ Maatalouden tuottama data on yleensä hyvin heterogeenistä niin datan kuvaaman 
 
 *Mitkä ovat keskeiset AIoT:n teknologiaratkaisuit?*
 
-Talavera et al. tekemässä kirjallisuuskatsauksessa IoT-teknologioita käsittelevät tutkimukset on jaoteltu neljään teknologian osa-alueeseen: **valvonta** (monitoring) 62 %, **kontrollointi** (control) 25 %, **logistiikka** (logistics) 7 % ja **ennustus** (prediction) 6 %. Suurin osa katsauksessa käsitellyistä tutkimuksista keskittyi valvotaan, konrollointiin vastaavasti neljännes, logistiikan ja ennusteiden ollessa harvinaisempia tutkimuskohteita.
+Talavera et al. tekemässä kirjallisuuskatsauksessa IoT-teknologioita käsittelevät tutkimukset on jaoteltu neljään teknologian osa-alueeseen: **valvonta** (monitoring) 46, **kontrollointi** (control) 17, **logistiikka** (logistics) 5 ja **ennustus** (prediction) 4. Suurin osa katsauksessa käsitellyistä tutkimuksista keskittyi valvotaan, konrollointiin vastaavasti neljännes, logistiikan ja ennusteiden ollessa harvinaisempia tutkimuskohteita.
 
 Tzounis et al. kirjallisuuskatsauksessa vastaavasti jaottelu on tehty sovellusalueiden mukaan: 
 **valvonta ja kontrollointi** 7, **kasvihuonetuotanto** 37, **peltotuotanto** 17, **tuotantoketju** 11, **väliohjelmisto** 9 ja **järjestelmät kaupalliset ratkaisut** 14. Lisäksi sovellusalueissa on myös eläintuotanto 13, joka jää opinnäytetyön aiheen ulkopuolelle, eikä sitä käsitellä tässä kirjallisuuskatsauksessa.
@@ -768,6 +791,9 @@ Verdouw et al. kirjallisuuskatsauksessa useat julkaisut käsittelevät täsmävi
 ### AIoT:n avoimet haasteet
 
 Aineistossa käsitellyt AIoT:n avoimet haasteet.
+
+Vaikka IoT:n konseptin toteuttaminen on mahdollista, tutkimustyötä tarvitaan vielä. Standardisaatio, tutkimuskohteet, osoite/tietoliikenne, tietoturva.
+Atzori et al. (2010) yleiset IoT:n haasteet: standardit, järjestelmien välisen liikkuvuuden tuki, nimeäminen, tietoliikenneprotokollat, tietoliikenteen tyypittely ja QoS, todentaminen, datan eheys, yksityisyys, digitaalinen unohtaminen. (@atzoriInternetThingsSurvey2010)
 
 
 #### Standardisaation haasteet
@@ -881,12 +907,8 @@ Vaikka vain vaatimattomimmat ennusteet IoT-laitteiden käyttöönotosta toteutui
 
 ### Esitetyt AIoT-arkkitehtuurit
 
-...
 
-
-### Kirjallisuuskatsausten yhteenvedot (?)
-
-
+ITU-arkkitehtuuri
 
 ## Haastattelujen tulokset
 

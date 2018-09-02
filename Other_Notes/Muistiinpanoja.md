@@ -341,7 +341,7 @@ Muistiinpanot:
                 Infrastruktuurit ja teknologiat valituissa IoT-ratkaisuissa jaettiin seitsemään ryhmään:
                     *(i) sensing variables, (ii) actuator devices, (iii) power sources, (iv) communication technologies, (v) edge computing technologies (Shi et al., 2016), (vi) storage strategies, and (vii) visualization strategies*
                     (i) sensing variables 
-                        Noin 26 % käsitellyistä tutkimuksista mittasi lämpötilaa, 16 % kosteutta, 11 % fysikaaliskemiallisia ominaisuuksia ja 10 % säteilyä. Lämpötilan ja fysikaaliskemian sensorit olivat jakautuneet kaikkiin alikategorioihin. 55 % sensoreista oli ilmanlaadun mittaukseen. Tämän perusteella ilman lämpötilaa, ilmankosteutta, maaperän kosteutta ja auringonsäteilyä voidaan pitää universaaleina muuttujina maatalouden sovelluksissa.
+                        Noin 26 % käsitellyistä tutkimuksista mittasi lämpötilaa, 16 % kosteutta, 11 % fysikokemiallisia ominaisuuksia ja 10 % säteilyä. Lämpötilan ja fysikokemian sensorit olivat jakautuneet kaikkiin alikategorioihin. 55 % sensoreista oli ilmanlaadun mittaukseen. Tämän perusteella ilman lämpötilaa, ilmankosteutta, maaperän kosteutta ja auringonsäteilyä voidaan pitää universaaleina muuttujina maatalouden sovelluksissa.
                     (ii) actuator devices
                         Aktuaattori- tai toimilaitteita oli käsitellyistä tutkimuksissa käytössä huomattavasti vähemmän kuin sensoreita. Suurin osa toimilaitteista oli käytössä kontrolloinnin ja logistiikan kategorioissa. 60 % toimilaitteista oli käytössä kasteluprosesseissa.
                     (iii) power sources
