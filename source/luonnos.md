@@ -639,23 +639,37 @@ Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset *(koska kuvaileva, h
 
 *II) Miten kasvintuotannossa hyödynnetään IoT-teknologioita?*
 
-Käsitellään AIoT-ratkaisuissa käytettävät teknologiat, AIoT-ratkaisujen sovellusalueet, AIoT:n avoimet haasteet ja tutkimuksissa esitetyt AIoT-arkkitehtuurit.
+Tässä osiossa käsitellään kirjallisuuskatsauksen tulokset jaoteltuina seuraavasti: AIoT-ratkaisuissa käytettävät teknologiat, AIoT-ratkaisujen sovellusalueet, AIoT:n avoimet haasteet ja tutkimuksissa esitetyt AIoT-arkkitehtuurit.
 
-AIoT:n teknologiat on ryhmitelty seuraavasti: tunnistus-, anturointi- ja tietoliikennetekniikka, väliohjelmistot ja *tietojenkäsittely?*.
+**AIoT-ratkaisuissa käytettävät teknologiat** on ryhmitelty seuraavasti: 
+Valvottavat muuttujat
+Toimilaitteet
+Virtalähteet
+Tietoliikennetekniikat
+Verkon reunan tietojenkäsittely (edge computing)
+Tiedon tallennusstrategiat
+Tiedon visualisointistrategiat
 
-AIoT:n sovellusalueet on ryhmitelty seuraavasti: valvonta, kontrollointi, logistiikka, ennustus ja AIoT:n yleiset sovellukset.
+*Tunnistus-, anturointi- ja tietoliikennetekniikka*
+*Väliohjelmistot*
+*Tietojenkäsittely (?)*
 
-AIoT:n avoimia haasteita ovat standardisaatio, tieto- ja kyberturvallisuus, laitteiden energiatehokkuus, laitteiden kestävyys, langaton tiedonsiirto, analytiikka, AIoT:n ekosysteemin laajentaminen, ohjelmistokehitys ja muut haasteet.
+*Oli, pois:tunnistus-, anturointi- ja tietoliikennetekniikka, väliohjelmistot ja tietojenkäsittely?*
 
+**AIoT-ratkaisujen sovellusalueet** on ryhmitelty seuraavasti: valvonta, kontrollointi, logistiikka, ennustus ja yleiset sovellukset.
 
-### MAHD. Kirjallisuuskatsausten erot
+**AIoT:n avoimet haasteet** on ryhmitelty seuraavasti: standardisaatio, tieto- ja kyberturvallisuus, laitteiden energiatehokkuus, laitteiden kestävyys, langaton tiedonsiirto, analytiikka, AIoT:n ekosysteemin laajentaminen, ohjelmistokehitys ja muut haasteet.
+
+**Esitetyt AIoT-arkkitehtuurit** on koottu omaan osioonsa.
 
 
 ### AIoT:n teknologiat
 
-Keskeisimpiä yleisen IoT:n mahdollistavia teknologioita ovat Atzori et al. (2010) mukaan tunnistus-, anturointi- ja tietoliikennetekniikka sekä väliohjelmistot. IoT-konsepti voidaan toteuttaa näiden integroinnilla. (@atzoriInternetThingsSurvey2010)
-Langattomassa tietoliikennetekniikassa käytettävien radiolaitteiden koko, paino ja energiankulutus ovat pienentyneet ja hinta laskenut huomattavasti. Tämä on mahdollistanut niiden sulauttamisen lähes kaikkiin esineisiin, mikä on osaltaan johtanut kehitystä IoT-konseptin suuntaan. Keskeinen osa IoT:n kehitystä ovat RFID-tunnisteet, joilla voidaan tarkkailla niillä merkittyjen fyysisten kohteiden liikkumista järjestelmässä tosiaikaisesti. Sensoriverkot ovat toinen keskeinen IoT:n mahdollistava teknologia. Sensoriverkkoja voidaan käyttää ympäristön tai laitteiden anturointiin. Ympäristön tarkkailu sensoriverkkojen avulla on Atzori et al. kirjallisuuskatsauksessa useiden tutkimusten IoT-ratkaisuiden kohteena. Lisäksi sensoriverkkojen avulla voidaan rikastuttaa esimerkiksi RFID-tunnisteiden lukemisessa tuotettua tietoa muun muassa liike-, paikka- ja lämpötilatiedoilla. (@atzoriInternetThingsSurvey2010)
-
+Keskeisimpiä yleisen IoT:n mahdollistavia teknologioita ovat Atzori et al. (2010) mukaan tunnistus-, anturointi- ja tietoliikennetekniikka sekä väliohjelmistot. IoT-konsepti voidaan lähtökohtaisesti toteuttaa näiden teknologioiden integroinnilla. (@atzoriInternetThingsSurvey2010) Tämä on selkeästi havaittavissa useissa ehdotetuissa AIoT-arkkitehtuureissa. 
+*tunnistus:* Keskeinen osa IoT:n kehitystä ovat RFID-tunnisteet, joilla voidaan tarkkailla niillä merkittyjen fyysisten kohteiden liikkumista järjestelmässä tosiaikaisesti.
+*anturointi:* Sensoriverkot ovat toinen keskeinen IoT:n mahdollistava teknologia. Sensoriverkkoja voidaan käyttää ympäristön tai laitteiden anturointiin. Ympäristön tarkkailu sensoriverkkojen avulla on Atzori et al. kirjallisuuskatsauksessa useiden tutkimusten IoT-ratkaisuiden kohteena. Lisäksi sensoriverkkojen avulla voidaan rikastuttaa esimerkiksi RFID-tunnisteiden lukemisessa tuotettua tietoa muun muassa liike-, paikka- ja lämpötilatiedoilla.
+*tietoliikennetekniikka:* Langattomassa tietoliikennetekniikassa käytettävien radiolaitteiden koko, paino ja energiankulutus ovat pienentyneet ja hinta laskenut huomattavasti. Tämä on mahdollistanut niiden sulauttamisen lähes kaikkiin esineisiin, mikä on osaltaan johtanut kehitystä IoT-konseptin suuntaan. (@atzoriInternetThingsSurvey2010)
+*väliohjelmistot?* 
 
 Vastaavasti Talavera et al. (2017) ryhmittelivät AIoT-ratkaisuissa sovelletut teknologiat ja infrastruktuurit seitsemään ryhmään: 
 #### Valvottavat muuttujat *(sensing variables)*
@@ -671,7 +685,7 @@ Vastaavasti Talavera et al. (2017) ryhmittelivät AIoT-ratkaisuissa sovelletut t
 
 *Gubbi et al. (2013) (@gubbiInternetThingsIoT2013) 3.3 IoT Elements 3.3.1 RFID 3.3.2 WSN 3.3.3 Addressing scemes 3.3.4 Data storage and analytics 3.3.5 Visualization*
 
-#### Tunnistus-, anturointi- ja tietoliikennetekniikka
+#### ? Tunnistus-, anturointi- ja tietoliikennetekniikka
 
 
 
@@ -680,23 +694,21 @@ Vastaavasti Talavera et al. (2017) ryhmittelivät AIoT-ratkaisuissa sovelletut t
 *Per mahdollistava teknologia: millaisia muissa lähteissä on nämä tunnistus- anturointi- ja tietoliikennetekniikat?*
 
 
-#### Väliohjelmistot
+#### ? Väliohjelmistot
 
 
 *Väliohjelmistot per Atzori et al. & Tzounis et al.*
 
 *missä vertailtaisiin visioita iof2020 ja tiekartan välillä?*
+Väliohjelmistojen avulla voidaan yksinkertaistaa sovelluskehitystä sekä helpottaa vanhojen teknologioiden integrointia uusien kanssa. Näiden IoT-ratkaisuiden kehitykselle keskeisten vahvuuksien takia väliohjelmistot ovat keränneet kirjallisuudessa runsaasti huomiota. (@atzoriInternetThingsSurvey2010)
 
-Väliohjelmistot voivat toimia sovellustasona tai ohjelmistoina järjestelmien osien välillä, IoT-ratkaisuissa usein laitteiden ja sovellustason välissä. Väliohjelmistoilla voidaan abstraktoida laitteiden toiminnallisuuksia antaen sovelluskehittäjille geneerisiä ohjelmistokehityksen työkaluja, joiden avulla kehittäjien ei tarvitse keskittyä tiettyjen laitteiden teknisiin yksityiskohtiin. Geneerisillä työkaluilla voidaan näin väliohjelmistoa hyväksi käyttäen tuottaa sovelluksia, jotka ovat yhteensopivia kaikkien väliohjelmiston kanssa yhteensopivien laitteiden kanssa. (@tzounisInternetThingsAgriculture2017)
-
-Väliohjelmistoilla on keskeinen rooli uusien palveluiden kehittämisen yksinkertaistamisessa ja vanhojen teknologioiden integroinnissa uusien kanssa. Väliohjelmistot ovat tämän takia keränneet runsaasti huomiota. (@atzoriInternetThingsSurvey2010)
-
-*Väliohjelmistolla voidaan pilvipohjainen infrastruktuuri, palvelukeskeinen arkkitehtuuri ja sensoriverkot yhdistää geneerisellä tavalla, jolloin samoja toiminnallisuuksia voidaan hyödyntää kaiken tyyppisissä ratkaisuissa. (@tzounisInternetThingsAgriculture2017)*
-
-*Granell et al. (2016), 7 FI-WARE Generic Enablers, jotka ovat sovellus- ja käyttötapausagnostisia. Lisäksi GE:t ovat riippumattomia sovellusaloista, kuten ympäristö-, maatalous- tai energia-ala. GE:t abstraktoivat pilvipalvelut, alatason IoT-ratkaisujen tekniset yksityiskohdat ja Big Datan käsittelyn avoimien määrittelyjen ja ohjelmistorajapintojen avulla.*
+Väliohjelmistot voivat toimia sovellustasona tai ohjelmistoina järjestelmien osien välillä, IoT-ratkaisuissa usein laitteiden ja sovellustason välissä. Väliohjelmistoilla voidaan abstraktoida laitteiden toiminnallisuuksia antaen sovelluskehittäjille geneerisiä ohjelmistokehityksen työkaluja, joiden avulla kehittäjien ei tarvitse keskittyä tiettyjen laitteiden teknisiin yksityiskohtiin. Geneerisillä työkaluilla voidaan näin väliohjelmistoa hyväksi käyttäen tuottaa sovelluksia, jotka ovat yhteensopivia kaikkien väliohjelmiston kanssa yhteensopivien laitteiden kanssa. Tämän lisäksi väliohjelmistojen avulla voidaan yhdistaa pilvipohjainen infrastruktuuri, palvelukeskeinen arkkitehtuuri ja sensoriverkot geneerisellä tavalla, jolloin samoja toiminnallisuuksia voidaan hyödyntää useissa erilaisissa järjestelmissä. (@tzounisInternetThingsAgriculture2017)
 
 
-#### Tietojenkäsittely (?)
+*Granell et al. (2016), 7 FI-WARE -hankkeessa toteutetut niin sanotut Generic Enabler - mitäihmettäneovat? - , jotka ovat sovellus- ja käyttötapausagnostisia. Lisäksi GE:t ovat riippumattomia sovellusaloista, kuten ympäristö-, maatalous- tai energia-ala. GE:t abstraktoivat pilvipalvelut, alatason IoT-ratkaisujen tekniset yksityiskohdat ja Big Datan käsittelyn avoimien määrittelyjen ja ohjelmistorajapintojen avulla.*
+
+
+#### ? Tietojenkäsittely (?)
 
 Maatalouden tuottama data on yleensä hyvin heterogeenistä niin datan kuvaaman kohteen kuin datan tuotantotapojenkin osalta. (@wolfertBigDataSmart2017)
 
