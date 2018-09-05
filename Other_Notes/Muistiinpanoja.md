@@ -847,12 +847,16 @@ Mahdollinen rakenne:
 
 ## Katsaukset:
 
-* Sundmaeker: Internet of Food and Farm 2020
+* Sundmaeker: Internet of Food and Farm 2020 (@sundmaekerInternetFoodFarm2016)
     Muistiinpanot:
         "Surprise: Agriculture is doing more with IoT innovation than most other industries" - Jahangir Mohammed @SurpriseAgricultureDoing2014
 
         Maatalous on elintärkeä Euroopan ruokkimiseksi terveellä tavalla, mutta Euroopalla on myös tärkeä rooli maailman ruoantuotannossa. Euroopan maataloussektorilla on laajat sosiaaliset ja kaupalliset vaikutukset 
 
+        Arkkitehtuuri (konsepti/konseptuaalinen, SmartAgriFood-hankkeesta):
+        **Alin kerros**: fyysinen taso, sensorit, toimilaitteet, datalähteet, paikalliset tietojärjestelmät (ja verkot?)
+        **Pilvipalvelu-alustakerros**: pilvipohjaiset tietojärjestelmät, muut datalähteet (satelliitti jne.), sovelluskaupat (App store), käyttäjien päätelaitteet (älypuhelimet, tietokoneet jne.)
+        **Palvelukerros**: konehuollon järjestelmä (breakdown service), kuluttajien ruoan turvallisuuspalvelu, sääpalvelu, ruiskutusneuvontapalvelu
 
 
 * Tzounis: Internet of Things in agriculture, recent advances and future challenges 2017
@@ -930,10 +934,11 @@ Intel
 Accenture
 CEMA
 365FarmNet https://www.365farmnet.com/en/
+John Deere Precision Planting <11-05-2018  16:27>  
+Oracle <11-05-2018  16:27>  
+Internet of Food SIG (Internet Society) http://internet-of-food.org <04-09-2018  19:46>
 
-Uusia <11-05-2018  16:27>  
-    John Deere Precision Planting
-    Oracle
+
 
 SST Software
 Matt Waits, '99 agricultural economics, is CEO of SST Software <03-07-2018  10:48>

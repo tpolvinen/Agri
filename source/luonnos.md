@@ -641,6 +641,12 @@ Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset *(koska kuvaileva, h
 
 Tässä osiossa käsitellään kirjallisuuskatsauksen tulokset jaoteltuina seuraavasti: AIoT-ratkaisuissa käytettävät teknologiat, AIoT-ratkaisujen sovellusalueet, AIoT:n avoimet haasteet ja tutkimuksissa esitetyt AIoT-arkkitehtuurit.
 
+*Kokeillaan Sundmaeker et al. mukaan: missä ollaan nyt (4.2); minne ollaan menossa (4.3); haasteet per tekninen ja ei-tekninen dimensio @sundmaekerInternetFoodFarm2016*
+Maatilojen ja ruokatuotannon yritysten kehityksen suunta on kohti laajamittaista, teollista ja teknologiaintensiivistä tuotantoa. Samaan aikaan uudet IoT-teknologiat mahdollistavat uusia liiketoimintamalleja. Monet kasvuyritykset pyrkivät toteuttamaan ruokatuotannossa aikaisempaa lyhyempää tuotantoketjua, joskus poistaen kokonaisia osia yleisestä ruoan tuotantoketjusta. Näille uusille liiketoimintamalleille tiedon tuotanto ja toimittaminen on ennemmin ennakkoehto kuin toiminnan sivutuote. Samalla liiketoimintakumppaneiden välinen toiminta on muuttumassa entistä dynaamisemmaksi sekä kilpailu korkealuokkaisista ja suuren marginaalin tuotteista on muodostumassa yleisemmäksi. IoT-teknologioiden mahdollistamat dataperustaiset hallintokäytänteet ovat keskeisiä aikaisempaa tarkemmalle tuotantoprosessin hallittavuudelle. Tuotantoprosessien tarkempi hallittavuus puolestaan voi johtaa suoranaiseen loikkaukseen tuottavuudessa ja kestävyydessä. (@sundmaekerInternetFoodFarm2016)
+
+Viimeisen kymmenen vuoden aikana **täsmäviljely**n tekniikoita on otettu käyttöön onnistuneesti. Näillä tekniikoilla pyritään hyvin tarkan havainnoinnin, kontrolloinnin ja käsittelyn avulla  maaperän, satokasvien ja eläimien tekijöiden perusteella alueellisen ja ajallisen vaihtelevuuden hallinnoimiseen. Esimerkiksi traktorin ja työkoneen automaattiohjauksen avulla ruiskutettavien kasvinsuojelu- ja lannoitepanosten käyttö tehostuu päällekkäisen ruiskutuksen vähentyessä, samalla vähentäen päästöjä. Täsmäviljelyn käyttöönotto on kuitenkin jäänyt vähäiseksi ja täsmäviljelyssä tuotetun tiedon älykäs käyttö on rajattua. Keskeisimpiä pullonkauloja käyttöönotolle ovat tiedon ja järjestelmien integraatio, helppokäyttöisyys ja kohtuullinen hinta. Täsmäviljelyn konseptia askeleen pidemmälle menevässä niin sanotussa **smart farming**issa toimenpiteet käynnistyvät tosiaikaisten tapahtumien havaitsemisesta ja perustuvat paikan lisäksi dataan, johon on lisätty konteksti- ja tilannetietoisuus. (@sundmaekerInternetFoodFarm2016)
+
+
 **AIoT-ratkaisuissa käytettävät teknologiat** on ryhmitelty seuraavasti: 
 Valvottavat muuttujat
 Toimilaitteet
@@ -656,7 +662,14 @@ Tiedon visualisointistrategiat
 
 *Oli, pois:tunnistus-, anturointi- ja tietoliikennetekniikka, väliohjelmistot ja tietojenkäsittely?*
 
-**AIoT-ratkaisujen sovellusalueet** on ryhmitelty seuraavasti: valvonta, kontrollointi, logistiikka, ennustus ja yleiset sovellukset.
+**AIoT-ratkaisujen sovellusalueet** on ryhmitelty seuraavasti: 
+valvonta
+kontrollointi
+logistiikka
+ennustus
+yleiset sovellukset
+
+*vai olisiko sittenkin "peltotuotanto, kasvihuonetuotanto, puutarhatuotanto, muut"?*
 
 **AIoT:n avoimet haasteet** on ryhmitelty seuraavasti: standardisaatio, tieto- ja kyberturvallisuus, laitteiden energiatehokkuus, laitteiden kestävyys, langaton tiedonsiirto, analytiikka, AIoT:n ekosysteemin laajentaminen, ohjelmistokehitys ja muut haasteet.
 
@@ -671,19 +684,8 @@ Keskeisimpiä yleisen IoT:n mahdollistavia teknologioita ovat Atzori et al. (201
 *tietoliikennetekniikka:* Langattomassa tietoliikennetekniikassa käytettävien radiolaitteiden koko, paino ja energiankulutus ovat pienentyneet ja hinta laskenut huomattavasti. Tämä on mahdollistanut niiden sulauttamisen lähes kaikkiin esineisiin, mikä on osaltaan johtanut kehitystä IoT-konseptin suuntaan. (@atzoriInternetThingsSurvey2010)
 *väliohjelmistot?* 
 
-Vastaavasti Talavera et al. (2017) ryhmittelivät AIoT-ratkaisuissa sovelletut teknologiat ja infrastruktuurit seitsemään ryhmään: 
-#### Valvottavat muuttujat *(sensing variables)*
-#### Toimilaitteet
-#### Virtalähteet *(power sources)*
-#### Tietoliikennetekniikat
-#### Verkon reunan tietojenkäsittely (edge computing)
-#### Tiedon tallennusstrategiat
-#### Tiedon visualisointistrategiat
+Talavera et al. tekemässä kirjallisuuskatsauksessa IoT-teknologioita käsittelevät tutkimukset on jaoteltu neljään teknologian osa-alueeseen: **valvonta** (monitoring) 46, **kontrollointi** (control) 17, **logistiikka** (logistics) 5 ja **ennustus** (prediction) 4. Suurin osa katsauksessa käsitellyistä tutkimuksista keskittyi valvotaan, konrollointiin vastaavasti neljännes, logistiikan ja ennusteiden ollessa harvinaisempia tutkimuskohteita.
 
- (@talaveraReviewIoTApplications2017)
-
-
-*Gubbi et al. (2013) (@gubbiInternetThingsIoT2013) 3.3 IoT Elements 3.3.1 RFID 3.3.2 WSN 3.3.3 Addressing scemes 3.3.4 Data storage and analytics 3.3.5 Visualization*
 
 #### ? Tunnistus-, anturointi- ja tietoliikennetekniikka
 
@@ -717,15 +719,26 @@ Maatalouden tuottama data on yleensä hyvin heterogeenistä niin datan kuvaaman 
 
 *Mitkä ovat keskeiset AIoT:n teknologiaratkaisuit?*
 
-Talavera et al. tekemässä kirjallisuuskatsauksessa IoT-teknologioita käsittelevät tutkimukset on jaoteltu neljään teknologian osa-alueeseen: **valvonta** (monitoring) 46, **kontrollointi** (control) 17, **logistiikka** (logistics) 5 ja **ennustus** (prediction) 4. Suurin osa katsauksessa käsitellyistä tutkimuksista keskittyi valvotaan, konrollointiin vastaavasti neljännes, logistiikan ja ennusteiden ollessa harvinaisempia tutkimuskohteita.
+
 
 Tzounis et al. kirjallisuuskatsauksessa vastaavasti jaottelu on tehty sovellusalueiden mukaan: 
 **valvonta ja kontrollointi** 7, **kasvihuonetuotanto** 37, **peltotuotanto** 17, **tuotantoketju** 11, **väliohjelmisto** 9 ja **järjestelmät kaupalliset ratkaisut** 14. Lisäksi sovellusalueissa on myös eläintuotanto 13, joka jää opinnäytetyön aiheen ulkopuolelle, eikä sitä käsitellä tässä kirjallisuuskatsauksessa.
 
 Verdouw et al. kirjallisuuskatsauksessa jaottelu on tehty samoin sovellusalueiden mukaan: **tuotantoketju** 68, **peltotuotanto** 33, **maatalouden yleiset sovellukset** 26, **kasvihuonetuotanto** 14, **avomaan tuotanto** 8. Lisäksi sovellusalueita ovat: Kalastus ja vesiviljely 3, ruoan kulutus 5, vapaa-ajan viljely 3 ja eläintuotanto 8. Nämä sovellusalueet jäävät opinnäytetyön aiheen ulkopuolelle, eikä niitä käsitellä tässä kirjallisuuskatsauksessa. Lisäksi Verdouw et al. havaitsivat käsitellyistä julkaisuista aiheeseen liittyviä yleisiä teemoja, jotka ovat **täsmäviljely**, **ruoan jäljitettävyyden järjestelmät**, **ruoan turvallisuuden ja laadunvalvonnan järjestelmät** ja **kuluttajien vuorovaikutus**.
 
+Vastaavasti Talavera et al. (2017) ryhmittelivät AIoT-ratkaisuissa sovelletut teknologiat ja infrastruktuurit seitsemään ryhmään: 
+#### Valvottavat muuttujat *(sensing variables)*
+#### Toimilaitteet
+#### Virtalähteet *(power sources)*
+#### Tietoliikennetekniikat
+#### Verkon reunan tietojenkäsittely (edge computing)
+#### Tiedon tallennusstrategiat
+#### Tiedon visualisointistrategiat
 
-*Miten muut kirjallisuuskatsaukset? Miten niiden aineisto jakautui?*
+ (@talaveraReviewIoTApplications2017)
+
+
+*Gubbi et al. (2013) (@gubbiInternetThingsIoT2013) 3.3 IoT Elements 3.3.1 RFID 3.3.2 WSN 3.3.3 Addressing scemes 3.3.4 Data storage and analytics 3.3.5 Visualization*
 
 Seuraavassa osiossa käsitellään kastsauksen aineistossa viitatut teknologiasovellukset ja kirjallisuuskatsausten havainnot osa-alueittain **valvonnan**, **kontrolloinnin**, **logistiikan**, **ennustuksen** osioissa. Lisäksi käsitellään **maatalouden IoT:n yleiset sovellukset** *ja muut?* omana osa-alueenaan.
 
@@ -1127,7 +1140,7 @@ Koodien havaintojen määrien jakaantuminen sekä haastattelujen kesken sekä et
 Toisaalta segmenttien eroavaisuuksien ja koodien asiasisältöjen erojen *jonkin muunkin?* takia pelkät kokonaismäärät eivät itsessään tuo lisäselvyyttä haastattelumateriaalin sisällön tulkinnalle. Kokonaismääriä voidaan tarvittaessa käyttää esimerkiksi eri haastattelujen kategoriakohtaisten havaintomäärien suhteuttamisessa toisiinsa.
 
 ### Haastattelujen kuvaus???
-
+#### Meta (poistettava otsikko)
 Tässä *osiossa/luvussa* kuvaillaan haastatteluissa käsiteltyjen teemojen mukaan jaotellut haastattelutulokset.
 
 Haastateltavat
