@@ -663,28 +663,29 @@ Läpinäkyvyys tarkoittaa tässä tapauksessa kuluttajien tiedon tarpeiden mukai
 
 **Minne matka? Tulevaisuudenkuvia ja mahdollisuuksia**
 Ruoan tuotannon IoT-sovellukset ja teknologiat ovat vielä pirstaleisia eikä niillä ole saumatonta integraatiota. Erityisesti edistyksellisemmät ratkaisut ovat kokeellisessa kehitysvaiheessa. Käytössä olevat ratkaisut  keskittyvät perustoiminnallisuuksiin ja ovat pääasiassa pienen aikaisten omaksujien joukon käytössä. Tämän tilanteen odotetaan kuitenkin muuttuvan lähivuosien aikana. IoT-teknologiat ovat kypsymässä nopealla tahdilla ja ne ovat viime aikoina olleet sekä käyttäjien että laitevalmistajien huomion kohteena. Tämä voi johtaa useiden keskeisten edistysaskeleiden toteutumiseen, kuten:
-* IoT-ratkaisuiden integraation varmistaminen avoimien arkkitehtuurien, alustojen ja standardien avulla;
-* Keskenään yhteistoimintakykyisten IoT-ratkaisuiden käytön skaalaus aikaisten omaksujien joukon ulkopuolelle, mukaan lukien nykyisten ratkaisujen yksinkertaistaminen viljelijöiden ja laitetoimittajien valtavirran kiinnostuksen varmistamiseksi;
-* IoT-teknologioiden käytettävyyden edelleen kehittäminen maatalouden käyttötapauksia ja olosuhteiden vaatimuksia vastaaviksi. (@sundmaekerInternetFoodFarm2016)
+    * IoT-ratkaisuiden integraation varmistaminen avoimien arkkitehtuurien, alustojen ja standardien avulla;
+    * Keskenään yhteistoimintakykyisten IoT-ratkaisuiden käytön skaalaus aikaisten omaksujien joukon ulkopuolelle, mukaan lukien nykyisten ratkaisujen yksinkertaistaminen viljelijöiden ja laitetoimittajien valtavirran kiinnostuksen varmistamiseksi;
+    * IoT-teknologioiden käytettävyyden edelleen kehittäminen maatalouden käyttötapauksia ja olosuhteiden vaatimuksia vastaaviksi. (@sundmaekerInternetFoodFarm2016)
 
 Näiden edistysaskeleiden toteutumisen voidaan odottaa johtavan edellä mainittujen sovellusalueiden kehittymiseen huomattavalla tavalla. **Täsmäviljely** voi kehittyä **smart farming**iksi, jossa maatilasta muodostuu älykäs yhteistoimintakykyisten laitteiden verkko. Keskeinen edistysaskel tulee olemaan havainnoinnin ja tarkkailun, älykkään analytiikan ja suunnittelun sekä viljelyprosessien älykkään kontrolloinnin saumaton integraatio kaikissa keskeisissä prosesseissa. **Seuranta ja jäljittäminen** voivat kehittyä kokonaisvaltaiseksi tuotantoketjun läpinäkyvyydeksi aina yksittäisten tuotteiden tasolle asti. Jäljitettävyyden toiminnot voivat edelleen integroitua älykkäiden seurantajärjestelmien kanssa lisäten dataa tuotteiden ominaisuuksista, tuotantotavoista ja tuotannon olosuhteista.
-**Ruoan turvallisuuden ja laadunhallinnan** järjestelmät voivat kehittyä reaktiivisista lähestymistavoista proaktiivisiin, joissa tuotantoketjuja voidaan tarkkailla, kontrolloida, suunnitella ja optimoida etäisesti tosiaikaisen tiedon perusteella. Tämän toteuttamiseksi uusia sensorityyppejä voidaan ottaa käyttöön, tuotetun sensoridatan ajantasaisuutta ja yhteentoimivuutta voidaan parantaa, etähallintaa voidaan parantaa edistyneillä uusilla toimilaitteilla ja laaduntarkkailun järjestelmiä voidaan parantaa lisäämällä niiden älykkyyttä.
+**Ruoan turvallisuuden ja laadunhallinnan** järjestelmät voivat kehittyä reaktiivisista lähestymistavoista proaktiivisiin, joissa tuotantoketjuja voidaan tarkkailla, kontrolloida, uudelleensuunnitella ja optimoida etäisesti tosiaikaisen tiedon perusteella. Tämän toteuttamiseksi uusia sensorityyppejä voidaan ottaa käyttöön, tuotetun sensoridatan ajantasaisuutta ja yhteentoimivuutta voidaan parantaa, etähallintaa voidaan parantaa edistyneillä uusilla toimilaitteilla ja laaduntarkkailun järjestelmiä voidaan parantaa lisäämällä niiden älykkyyttä.
 **Ruoan prosessointi ja valmistus** voi kehittyä notkeiden hallintajärjestelmien avulla, jolloin tuotannon koneet toimivat autonomisina, älykkäinä ja yhteenliitettyinä kokonaisuuden osina. Tämän toteuttamiseksi voidaan koneisiin integroida tehokkaita sensoreita tuotannon tosiaikaisen tarkkailun ja koneiden yhteentoimivuuden varmistamiseksi. Tuotannon seurantajärjestelmien algoritmien avulla voidaan havaita laatupoikkeamia aikaisessa vaiheessa.
 **Kuluttajien ruokatietoisuus** voi kehittyä lähtökohdiltaan kuluttajakeskeiseksi kokonaisuudeksi, jossa erilaiset sovellukset ja järjestelmät voivat yhdistää ruokakeskeistä tietoa eri sidosryhmiltä personoitujen ruokasuositusten tuottamiseksi.  (@sundmaekerInternetFoodFarm2016)
 
-Viljely ja ruoantuotanto tulevat muuttumaan
-uudet kontrollimekanismit ja liiketoimintamallit:
-**Datavetoinen viljely**
-*Kiertotalous*
-**Itsenäiset maatilan toiminnat**
-**Kysyntävetoinen viljely**
-**Tulosperusteiset maatalouspalvelut**
-**Kaupunkiviljely**
-**Notkeat kasvi(ruoka)tehtaat**
-**Virtuaaliset ruoan tuotantoketjut**
-**Personoitu ravinto**
+IoT-ratkaisut mahdollistavat fyysisten objektien virtausten ja niihin liittyvän tiedon irrottamisen toisistaan [14]. Tällöin viljelyprosesseja ja ruoan tuotantoketjuja voidaan tarkkailla, kontrolloida, uudelleensuunnitella ja optimoida etäisesti ja tosiaikaisesti perustuen fyysisiä objekteja vastaaviin virtuaalisiin esineisiin. Tämän johdosta maanviljely voi muuttua kytkettyjen laitteiden älykkäiksi verkoiksi jotka ovat kontekstin huomioivia, jotka voidaan tunnistaa, havainnoida ja kontrolloida etäisesti. Tämän puolestaan voi odottaa muuttavan maatalouden tuotantoprosesseja ennen näkemättömällä tavalla, tuottaen uusia liiketoimintamalleja ja kontrolloinnin mekanismeja kuten: 
+    * **Datavetoinen viljely**: IoT-ratkaisut mahdollistavat viljelijöiden siirtymisen näppituntumalla viljelystä mitattuun digitaaliseen tietoon perustuvaan viljelyn hallintaan. Tämä on keskeistä jatkuvasti vaativammaksi muuttuvassa liiketoimintaympäristössä selviytymiselle. IoT-ratkaisuiden havainto- ja kytkettävyysteknologiat mahdollistavat oikea-aikaisen ja tarkan operatiivisen datan virran päätöksentekojärjestelmille.
+    * **Kiertotalous**: IoT-ratkaisut mahdollistavat aikaisempaa sujuvamman resurssien hallinnan ja jakamisen tuotantoketjussa, lujittaen toimijoiden yhteistoimintaa. Eri teollisuudenalat voivat yhteistoiminnassa jaella toimintansa sivutuotteita ja jätteitä lämmön, veden, paineen, lannoitteiden jne. muodossa. Symbioottiset viljelyjärjestelmät kuten aquaponiset viljelmät voivat hyötyä erityisen paljon uusista IoT-teknologioihin perustuvista kontrollointijärjestelmistä, jotka mahdollistavat niiden hajautetun ja autonomisen toiminnan.
+    * **Itsenäiset maatilan toiminnot**: IoT-ratkaisut mahdollistavat kytkettävyyden parantamisen ja älykkyyden lisäyksen maatalousautomaatiossa. Tämä mahdollistaa maatalouden koneiden muuttumisen autonomisiksi ja itsemukautuviksi järjestelmiksi, jotka voivat toimia, tehdä itsenäisiä päätöksiä ja oppia ilman paikan päällä tai etänä tapahtuvaa ihmisen tekemää ohjausta. Tälläisiä järjestelmiä ovat esimerkiksi kitkentärobotit ja itseohjaavat traktorit.  
+    * **Kysyntävetoinen viljely**: IoT-ratkaisut mahdollistavat tuotantoprosessien tarkan ja oikea-aikaisen tarkkailun ja kontrolloinnin, mikä puolestaan mahdollistaa tuotannon määrän ja laadun ennustettavuuden. Myös liiketoiminnan ja kuluttajien kanssa kommunikoinnin uudet menetelmät voidaan ottaa huomioon suoraan tuotantoprosessien ohjaamisessa, jolloin maatilat voivat siirtyä anonyymistä, tuotanto-orientoituneesta ja kustannushinnoitteluvetoisesta toimintamallista arvohinnoittelu- ja informaatiovetoiseen toimintamalliin, jossa tarjontaa kohdennetaan jatkuvasti kysynnän mukaan.
+    * **Tulosperusteiset maatalouspalvelut**: IoT-ratkaisut voivat huomattavasti parantaa maatilojen tuotantoprosessien havainnoinin ja kontrolloinnin mahdollisuuksia. Tämä mahdollistaa maanviljelyn yhä suuremman siirtymisen pelkkien tuotteiden ja palveluiden myynnistä asiakkaille merkityksellisten ja mitattavien tulosten tuottamiseen, kuten sadon, säästetyn energian tai koneiden käytettävyysajan [35].  
+    * **Kaupunkiviljely**: IoT-ratkaisut tukevat kontrolloitujen viljelytilojen sijoittamista kaupunkialueille kuluttajien läheisyyteen. Näissä ratkaisuissa yhdistetään edistyneiden sensori- ja toimilaiteteknologioiden IoT-sovelluksia uusien viljelymenetelmien kuten hydroponiikan kanssa.  
+    * **Notkeat ruokatehtaat**: IoT-ratkaisut mahdollistavat hajautetun ja joustavan ruoan prosessoinnin ruokaa havainnoivien sensoreiden, paikallisen tietojenkäsittelyn ja tiedonhankinnan sekä kytkettävyyden lisäämisellä ruoan prosessoinnin laitteisiin.
+    * **Virtuaaliset ruoan tuotantoketjut**: IoT-ratkaisut mahdollistavat ruoan tuotantoprosessien hallinnoinnin virtualisoinnin, mikä puolestaan mahdollistaa edistyneen etänä tehtävän suunnittelun, uudelleensuunnitelun, tarkkailun ja kontrolloinnin sekä uudet liiketoimintamallit.
 
 Haasteet!
+Per tekninen ja ei-tekninen dimensio
+
+
 
 **AIoT-ratkaisuissa käytettävät teknologiat** on ryhmitelty seuraavasti: 
 Valvottavat muuttujat
