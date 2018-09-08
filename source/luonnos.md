@@ -687,6 +687,7 @@ Per tekninen ja ei-tekninen dimensio
 
 
 
+
 **AIoT-ratkaisuissa käytettävät teknologiat** on ryhmitelty seuraavasti: 
 Valvottavat muuttujat
 Toimilaitteet
@@ -717,6 +718,8 @@ yleiset sovellukset
 
 
 ### AIoT:n teknologiat
+
+*Mitkä ovat keskeiset AIoT:n teknologiaratkaisuit?*
 
 Keskeisimpiä yleisen IoT:n mahdollistavia teknologioita ovat Atzori et al. (2010) mukaan tunnistus-, anturointi- ja tietoliikennetekniikka sekä väliohjelmistot. IoT-konsepti voidaan lähtökohtaisesti toteuttaa näiden teknologioiden integroinnilla. (@atzoriInternetThingsSurvey2010) Tämä on selkeästi havaittavissa useissa ehdotetuissa AIoT-arkkitehtuureissa. 
 *tunnistus:* Keskeinen osa IoT:n kehitystä ovat RFID-tunnisteet, joilla voidaan tarkkailla niillä merkittyjen fyysisten kohteiden liikkumista järjestelmässä tosiaikaisesti.
@@ -757,16 +760,12 @@ Maatalouden tuottama data on yleensä hyvin heterogeenistä niin datan kuvaaman 
 
 ### AIoT:n sovellusalueet
 
-*Mitkä ovat keskeiset AIoT:n teknologiaratkaisuit?*
-
-
-
-Tzounis et al. kirjallisuuskatsauksessa vastaavasti jaottelu on tehty sovellusalueiden mukaan: 
+Tzounis et al. kirjallisuuskatsauksessa sovellusalueet ovat: 
 **valvonta ja kontrollointi** 7, **kasvihuonetuotanto** 37, **peltotuotanto** 17, **tuotantoketju** 11, **väliohjelmisto** 9 ja **järjestelmät kaupalliset ratkaisut** 14. Lisäksi sovellusalueissa on myös eläintuotanto 13, joka jää opinnäytetyön aiheen ulkopuolelle, eikä sitä käsitellä tässä kirjallisuuskatsauksessa.
 
-Verdouw et al. kirjallisuuskatsauksessa jaottelu on tehty samoin sovellusalueiden mukaan: **tuotantoketju** 68, **peltotuotanto** 33, **maatalouden yleiset sovellukset** 26, **kasvihuonetuotanto** 14, **avomaan tuotanto** 8. Lisäksi sovellusalueita ovat: Kalastus ja vesiviljely 3, ruoan kulutus 5, vapaa-ajan viljely 3 ja eläintuotanto 8. Nämä sovellusalueet jäävät opinnäytetyön aiheen ulkopuolelle, eikä niitä käsitellä tässä kirjallisuuskatsauksessa. Lisäksi Verdouw et al. havaitsivat käsitellyistä julkaisuista aiheeseen liittyviä yleisiä teemoja, jotka ovat **täsmäviljely**, **ruoan jäljitettävyyden järjestelmät**, **ruoan turvallisuuden ja laadunvalvonnan järjestelmät** ja **kuluttajien vuorovaikutus**.
+Verdouw et al. kirjallisuuskatsauksessa sovellusaluet ovat: **tuotantoketju** 68, **peltotuotanto** 33, **maatalouden yleiset sovellukset** 26, **kasvihuonetuotanto** 14, **avomaan tuotanto** 8. Lisäksi sovellusalueita ovat: Kalastus ja vesiviljely 3, ruoan kulutus 5, vapaa-ajan viljely 3 ja eläintuotanto 8. Nämä sovellusalueet jäävät opinnäytetyön aiheen ulkopuolelle, eikä niitä käsitellä tässä kirjallisuuskatsauksessa. Lisäksi Verdouw et al. havaitsivat käsitellyistä julkaisuista aiheeseen liittyviä yleisiä teemoja, jotka ovat **täsmäviljely**, **ruoan jäljitettävyyden järjestelmät**, **ruoan turvallisuuden ja laadunvalvonnan järjestelmät** ja **kuluttajien vuorovaikutus**.
 
-Vastaavasti Talavera et al. (2017) ryhmittelivät AIoT-ratkaisuissa sovelletut teknologiat ja infrastruktuurit seitsemään ryhmään: 
+Talavera et al. (2017) ryhmittelivät AIoT-ratkaisuissa sovelletut teknologiat ja infrastruktuurit seitsemään ryhmään: 
 #### Valvottavat muuttujat *(sensing variables)*
 #### Toimilaitteet
 #### Virtalähteet *(power sources)*
@@ -863,12 +862,29 @@ Aineistossa käsitellyt AIoT:n avoimet haasteet.
 Vaikka IoT:n konseptin toteuttaminen on mahdollista, tutkimustyötä tarvitaan vielä. Standardisaatio, tutkimuskohteet, osoite/tietoliikenne, tietoturva.
 Atzori et al. (2010) yleiset IoT:n haasteet: standardit, järjestelmien välisen liikkuvuuden tuki, nimeäminen, tietoliikenneprotokollat, tietoliikenteen tyypittely ja QoS, todentaminen, datan eheys, yksityisyys, digitaalinen unohtaminen. (@atzoriInternetThingsSurvey2010)
 
+*Haasteet per Sundmaeker et al. @sundmaekerInternetFoodFarm2016*
+ICT- ja erityisesti IoT-teknologiat muuttavat maataloutta nopealla tahdilla. Suuren mittakaavan käyttöönottojen kautta näillä teknologioilla on selkeä potentiaali tuottaa huomattavia etuja kestävän maanviljelyn muodossa, varmistamalla ruokaturvaa pienempien ympäristövaikutusten kautta sekä takaamalla terveellisen ruoantuotannon. Etujen saavuttamiseen tarvitaan kuitenkin tiettyjen IoT:n teknisten ja yhteiskunnallisten haasteiden ja esteiden voittamista. Nämä vaikeudet tuottavat kuitenkin myös uusia mahdollisuuksia teknologiselle kehitykselle ja arvon tuottamiselle.  
+*Tekniset:*
+*IoT-laitteiden kehitys*
+*Tietoliikenneverkkojen ja pilvipalveluiden kehitys*
+*Tietohuolto (analytiikka, 3. osapuolen data, FMIS*
+*Tietoturva*
+*IoT-alustat/platformit*
+*Ei-tekniset:*
+*Liiketoimintamallit*
+*Yhteiskunnalliset aspektit*
+*Politiikka ja säännökset*
+*Sidosryhmien osallisuus/osallistaminen*
+
+
 
 #### Standardisaation haasteet
 
-AIoT:n alalla vahva standardisaatio parantaisi eri valmistajien laitteiden ja järjestelmien välistä yhteentoimivuutta. Valtava kirjo erilaisia IoT-laitteita ja niiden tuottamaa heterogeenistä dataa asettavat huomattavia haasteita standardisaatiolle, jonka avulla niiden yhteentoimivuutta voitaisiin edistää. Yksi tärkeimmistä avoimista haasteista on olemassaolevien IoT-ratkaisuiden integraatio avoimilla IoT-arkkitehtuureilla, alustoilla ja standardeilla. Vahvan standardisaation mahdollistaman yhteistoiminnallisuuden avulla koko IoT-teknologiapaketin tietoturva vahvistuisi; alkaen kentällä olevista laiteista pilvipalveluihin ja loppukäyttäjän käyttöliittymiin asti. (@talaveraReviewIoTApplications2017; @verdouwInternetThingsAgriculture2016a)
+AIoT:n alalla vahva standardisaatio parantaisi eri valmistajien laitteiden ja järjestelmien välistä yhteentoimivuutta. Valtava kirjo erilaisia IoT-laitteita ja niiden tuottamaa heterogeenistä dataa asettavat huomattavia haasteita standardisaatiolle, jonka avulla niiden yhteentoimivuutta voitaisiin edistää. Yksi tärkeimmistä avoimista haasteista on olemassaolevien IoT-ratkaisuiden integraatio avoimilla IoT-arkkitehtuureilla, alustoilla ja standardeilla. Vahvan standardisaation mahdollistaman yhteistoiminnallisuuden avulla koko IoT-teknologiapaketin tietoturva vahvistuisi; alkaen kentällä olevista laitteista pilvipalveluihin ja loppukäyttäjän käyttöliittymiin asti. (@talaveraReviewIoTApplications2017; @verdouwInternetThingsAgriculture2016a)
 
-IoT-teknologiapaketin yhteentoimivuuden edistämiseksi on tarvetta investoinneille yhteisen infrastruktuurin rakentamiselle datan siirtelyä ja integraatiota varten jotta dataa hyödyntäviä sovelluksia voitaisiin kehittää. Tällä hetkellä on yleistä, että maatilakohtainen data pysyy yhden yrityksen hallussa mikä asettaa esteitä integroivalle sovelluskehitykselle. Keskeinen näihin sovelluksiin liittyvä kysymys on, tulevatko ne olemaan suljettuja ja omisteisia vai avoimia järjestelmiä. Sovellusinfrastruktuurien kuten alustapalveluiden ja standardien jatkokehitys sekä niiden käyttöönotto organisaatioissa on kriittinen tekijä näiden kahden skenaarion "taistelun" ratkaisussa. Avoimempiin ratkaisuihin siirtymistä edistävät erityiseti osakuntiin tai koalitioihin järjestäytyneet viljelijät, jotka ovat huolestuneet datan yksityisyydestä ja turvallisuudesta, mutta haluavat myös tuottaa arvoa oman datansa avulla. (@wolfertBigDataSmart2017)
+IoT-teknologiapaketin yhteentoimivuuden edistämiseksi on tarvetta investoinneille yhteisen infrastruktuurin rakentamiselle, jotta datan siirtely ja integraatio mahdollistuisi. Tämän kautta mahdollistuisi dataa hyödyntävien sovelluksiei kehittäminen. Tällä hetkellä on yleistä, että maatilakohtainen data pysyy yhden yrityksen hallussa mikä asettaa esteitä integroivalle sovelluskehitykselle. Keskeinen näihin sovelluksiin liittyvä kysymys on, tulevatko ne olemaan suljettuja ja omisteisia vai avoimia järjestelmiä. Sovellusinfrastruktuurien kuten alustapalveluiden ja standardien jatkokehitys sekä niiden käyttöönotto organisaatioissa on kriittinen tekijä näiden kahden skenaarion "taistelun" ratkaisussa. Avoimempiin ratkaisuihin siirtymistä edistävät erityiseti osakuntiin tai koalitioihin järjestäytyneet viljelijät, jotka ovat huolestuneet datan yksityisyydestä ja turvallisuudesta, mutta haluavat myös tuottaa arvoa oman datansa avulla. (@wolfertBigDataSmart2017)
+
+Suljetut arkkitehtuurit, alustat ja standardit asettavat esteitä AIoT-ratkaisuiden laajamittaiselle omaksumiselle yhteen toimittajaan lukittumisen, järjestelmien yhteensopimattomuuden jne. riskien takia. Yksi maatalous- ja ruokatuotantosektorin haasteista on uusien avoimien ja maailmanlaajuisten standardien määrittely sekä jatkuva linjaaminen nykyisten sekä IT- että maatalousalan standardisointihankkeiden kanssa. (@sundmaekerInternetFoodFarm2016)
 
 Standardisaation tärkeys näkyi myös Tzounis et al. (2017) tekemässä kirjallisuuskatsauksessa, jossa havaittiin useiden tutkimusten keskittyvän IoT:n keskeisten teknologioiden standardointiin. Kuten monien muiden IoT:n aspektien yhteydessä, yhteentoimivuus on heidän mukaansa myös langattoman tietoliikenteen suurin haaste ja he keskittyvät katsauksessaan standardisaation haasteissa nimenomaisesti langattoman tietoliikenteeseen. (@tzounisInternetThingsAgriculture2017) Muut aineistossa käsitellyt kirjallisuuskatsaukset käsittelivät standardisaatiota laajemmin eri lähtökohdista.
 
@@ -899,16 +915,18 @@ Selkeästä tarpeesta huolimatta Talavera et al. havaitsivat kirjallisuuskatsauk
 
 #### Laitteiden energiatehokkuuden haasteet
 
-Kirjallisuuskatsauksessaan Verdouw et al. (2016) kertovat energiatehokkaiden IoT-teknologioiden kehittämisen, mukaanlukien laitteiden ja tietoliikenneyhteyksien kehittämisen maaseudun tarpeisiin, olevan keskeisiä AIoT-järjestelmien kehityksen haasteita (@verdouwInternetThingsAgriculture2016a).
+AIoT-järjestelmien kehityksen keskeisiä haasteita on energiatehokkaiden IoT-teknologioiden, laitteiden ja tietoliikenneyhteyksien kehittäminen nimenomaisesti maatalouden tarpeisiin  (@sundmaekerInternetFoodFarm2016; @verdouwInternetThingsAgriculture2016a).
 
-Yksi IoT-ratkaisuiden laitteille asetettuja keskeisiä vaatimuksia on energiatehokkuus. Tämä koskee erityisesti laitteita, jotka ovat tyypillisiä AIoT-ratkaisuille: jotka eivät ole yhteydessä sähköverkkoon, jotka asennetaan ulkotiloihin ja joita ei huolleta säännöllisesti. 
-Energiatehokkuuteen liittyvä virrankulutus on Talavera et al. (2017) kirjallisuuskatsauksessa useiden lähteiden mukaan suurin IoT-laitteiden elinkaarta rajoittava tekijä. Laitteiden elinkaarta voitaisiin heidän mukaansa pidentää virrankulutusta vähentämällä, lisäämällä energiakeräimiä sekä käyttämällä vaihtoehtoisia tehon varastointilaitteita akkujen sijaan. (@talaveraReviewIoTApplications2017)
+Tämä koskee erityisesti laitteita, jotka ovat tyypillisiä AIoT-ratkaisuille: jotka eivät ole yhteydessä sähköverkkoon, joita käytetään ulkona ja joita ei huolleta säännöllisesti. 
+Energiatehokkuuteen liittyvä virrankulutus on Talavera et al. (2017) kirjallisuuskatsauksessa useiden tutkimusten mukaan suurin IoT-laitteiden elinkaarta rajoittava tekijä. Laitteiden elinkaarta voitaisiin heidän mukaansa pidentää virrankulutusta vähentämällä, lisäämällä energiakeräimiä sekä käyttämällä vaihtoehtoisia tehon varastointilaitteita akkujen sijaan. (@talaveraReviewIoTApplications2017)
 
-Vastaavasti Atzori et al. (2010) mainitsevat katsauksessaan, että sensoriverkkoja käsittelevissä julkaisuissa esitellyissä ratkaisuissa pyritään erityisesti energiatehokkuuden parantamiseen, koska energia on useimmissa sensoriverkkojen käyttötapauksissa harvinaisin resurssi.
+Vastaavasti Atzori et al. (2010) kertovat katsauksessaan, että julkaisuissa esitellyssä ratkaisuissa joissa käsitellään sensoriverkkoja pyritään erityisesti energiatehokkuuden parantamiseen. Tämän perusteena on energian oleminen harvinaisin käytettävissä oleva resurssi useimmissa sensoriverkkojen käyttötapauksissa.
 
 Langattomien sensoriverkkojen kehittämisen haasteena on useiden voimanlähteiden energiakeräimien sekä aikaisempaa energiatehokkaampien sensoreiden kehittäminen akuttomien WSN-ratkaisuiden mahdollistamiseksi. Nämä ovat erityisen tärkeitä AIoT-ratkaisuille koska laitteiden akkujen lataus tai vaihtaminen ei ole aina käytännöllistä, samalla kun energialähteitä kuten aurinko- ja tuulienergiaa on usein saatavilla käyttöympäristöstä. (@talaveraReviewIoTApplications2017)
 
 Samoin Tzounis et al. mukaan AIoT-ratkaisuiden *laite-/havaintotason* laitteiden tulee pysyä aktiivisina ja toimia luotettavasti pitkiä aikoja usein rajatun akkukapasiteetin varassa. Matala virrankulutus on myös heidän mukaansa tarpeellinen, koska akkujen vaihtoa ei ole tiheällä aikavälillä käytännöllistä toteuttaa. Energiankeräimillä kuten aurinkokennoilla tai *tuuliturbiineilla* voidaan rajatussa määrin pienentää tätä ongelmaa, mutta laitteen energiankulutuksen tulee olla suunniteltu energiankeräimen mukaan. (@tzounisInternetThingsAgriculture2017)
+
+AIoT:n etujen saavuttamiseksi tulisi sekä sensori- että toimilaitteiden energiankulutusta vähentää niin paljon, että niistä voisi tulla lähes täysin riippumattomia ulkoisista energialähteistä (@sundmaekerInternetFoodFarm2016).
 
 Energiankulutuksen hallintaan energiankeräimen mukaan on pyritty *muun muassa* kehittämällä aurinkoenergialla toimivien laitteiden virrankäytön hallintaa varten älykäs hallintastrategia. Tämän avulla pyritään hankkimaan laitteen tarvitsema energia suoraan aurinkokennosta ja välttämään muuntajien ja akkujen tarve. Tällöin laitteiden hyötysuhde paranee, paino/tilavuussuhde pienenee ja hinta laskee. (@talaveraReviewIoTApplications2017)
 

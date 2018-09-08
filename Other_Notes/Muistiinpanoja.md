@@ -847,6 +847,7 @@ Mahdollinen rakenne:
 
 ## Katsaukset:
 
+* Tzounis: Internet of Things in agriculture, recent advances and future challenges 2017
 * Sundmaeker: Internet of Food and Farm 2020 (@sundmaekerInternetFoodFarm2016)
     Muistiinpanot:
         "Surprise: Agriculture is doing more with IoT innovation than most other industries" - Jahangir Mohammed @SurpriseAgricultureDoing2014
@@ -858,17 +859,20 @@ Mahdollinen rakenne:
         **Pilvipalvelu-alustakerros**: pilvipohjaiset tietojärjestelmät, muut datalähteet (satelliitti jne.), sovelluskaupat (App store), käyttäjien päätelaitteet (älypuhelimet, tietokoneet jne.)
         **Palvelukerros**: konehuollon järjestelmä (breakdown service), kuluttajien ruoan turvallisuuspalvelu, sääpalvelu, ruiskutusneuvontapalvelu
 
+* Sundmaeker: Vision and Challenges for Realizing the Internet of Things
+* Stočes: Internet of things (iot) in agriculture-selected aspects 2016
 
-* Tzounis: Internet of Things in agriculture, recent advances and future challenges 2017
+
+
 * Pivoto: Scientific development of smart farming technologies and their application in Brazil
 * Farooq: A Review on Internet of Things (IoT) 2015
 * Gubbi: Internet of Things (IoT): A vision, architectural elements, and future directions 2013
 * Shaikh: Enabling Technologies for Green Internet of Things 2017
 * Khodadadi: Internet of Things: An Overview
 * Bo: The Application of Cloud Computing and the Internet of Things in Agriculture and Forestry
-* Sundmaeker: Vision and Challenges for Realizing the Internet of Things
+
 * Dlodlo: The internet of things in agriculture for sustainable rural development (2015)
-* Stočes: Internet of things (iot) in agriculture-selected aspects 2016
+
 * Motlagh: Low-Altitude Unmanned Aerial Vehicles-Based Internet of Things Services: Comprehensive Survey and Future Perspectives 2016
 * Fahran: A survey on the challenges and opportunities of the Internet of Things (IoT) 2017
 * Fantana: Internet of Things - Converging Technologies for Smart Environments and Integrated Ecosystems 2013
@@ -1748,6 +1752,17 @@ Maataloustuotannon haasteisiin kuten tuottavuuteen, ympäristöystävällisyytee
 Viimeaikainen käytäntö on lähestyä maatalouden ongelmia kuva-analyysin keinoilla, käyttäen etähavainnoinnilla joko lentävillä laitteilla tai satelliiteilla tuotettua kuvantamisdataa. Maataloudessa etähavainnoinnilla on mahdollista saavuttaa useita etuja.
 
 Etähavainnointia käytetään myös vakuutuksien korvauspäätösten teossa, kuten satovahinkojen, kuivuuden tai liiallisen sateen vaikutusten sekä tulva- ja paloriskien arvioinnissa. 
+
+---
+
+Knuth et al. 2018  Adoption of Farm Management Systems for Cross Compliance - An empirical case in Germany
+	(FMS lienee tässä tapauksessa sama kuin FMIS)
+	Kehitetyt FMIS-ratkaisut ovat hyvin heterogeenisiä (kehitetty erillään eri osavaltioissa, erilaisten toimijoiden toimesta);
+	FMIS-järjestelmien omaksunta on vaihtelevaa, omaksuntaluvut useimmissa Saksan osavalloissa ovat matalia tai hyvin matalia;
+	Viljelijöiden luottamus läpäistä viranomaistarkastukset kasvaa FMIS-ratkaisun omaksunnan myötä (FMIS on tutkitusty hyödyksi ympäristösäädösten noudattamisessa käytännössä);
+	Erityinen tarve viljelijöillä on viranomaisvaatimusten (paperisodan/byrokratian) kanssa toimintaan;
+	FMIS-ratkaisun tulisi olla helppokäyttöinen (tarvitaan lisää tutkimusta miten suunnitella FMIS joka on käytettävä ja ymmärrettävä viljelijöille kaikilla koulutustaustoilla; osallistavalla suunnitteluprosessilla), räätälöitävissä viljelijän omia tarpeita ja käyttötapauksia vastaavaksi ja olla saatavilla kohtuulliseen hintaan.
+
 
 
 
