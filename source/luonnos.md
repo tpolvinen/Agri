@@ -641,8 +641,6 @@ Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset *(koska kuvaileva, h
 
 Tässä osiossa käsitellään kirjallisuuskatsauksen tulokset jaoteltuina seuraavasti: yleinen kuvailu, AIoT-ratkaisuissa käytettävät teknologiat, AIoT-ratkaisujen sovellusalueet, AIoT:n avoimet haasteet ja tutkimuksissa esitetyt AIoT-arkkitehtuurit.
 
-*Kokeillaan Sundmaeker et al. mukaan: missä ollaan nyt (4.2); minne ollaan menossa (4.3); haasteet per tekninen ja ei-tekninen dimensio @sundmaekerInternetFoodFarm2016*
-
 **Uudet liiketoimintamallit**
 Maatilojen ja ruokatuotannon yritysten yleisen kehityksen suunta on kohti laajamittaista, teollista ja teknologiaintensiivistä tuotantoa. Samaan aikaan uudet IoT-teknologiat mahdollistavat uusia liiketoimintamalleja. Monet kasvuyritykset pyrkivät toteuttamaan ruokatuotannossa aikaisempaa lyhyempää tuotantoketjua, joskus poistaen kokonaisia osia yleisestä ruoan tuotantoketjusta. Näille uusille liiketoimintamalleille tiedon tuotanto ja toimittaminen on ennemmän ennakkoehto kuin toiminnan sivutuote. Samalla liiketoimintakumppaneiden välinen toiminta on muuttumassa entistä dynaamisemmaksi sekä kilpailu korkealuokkaisista ja suuren marginaalin tuotteista on muodostumassa yleisemmäksi. IoT-teknologioiden mahdollistamat dataperustaiset hallintokäytänteet ovat keskeisiä aikaisempaa tarkemmalle tuotantoprosessien hallittavuudelle. Tuotantoprosessien tarkempi hallittavuus puolestaan voi johtaa suoranaiseen loikkaukseen tuottavuudessa ja kestävyydessä. (@sundmaekerInternetFoodFarm2016)
 
@@ -681,11 +679,6 @@ IoT-ratkaisut mahdollistavat fyysisten objektien virtausten ja niihin liittyvän
     * **Kaupunkiviljely**: IoT-ratkaisut tukevat kontrolloitujen viljelytilojen sijoittamista kaupunkialueille kuluttajien läheisyyteen. Näissä ratkaisuissa yhdistetään edistyneiden sensori- ja toimilaiteteknologioiden IoT-sovelluksia uusien viljelymenetelmien kuten hydroponiikan kanssa.  
     * **Notkeat ruokatehtaat**: IoT-ratkaisut mahdollistavat hajautetun ja joustavan ruoan prosessoinnin ruokaa havainnoivien sensoreiden, paikallisen tietojenkäsittelyn ja tiedonhankinnan sekä kytkettävyyden lisäämisellä ruoan prosessoinnin laitteisiin.
     * **Virtuaaliset ruoan tuotantoketjut**: IoT-ratkaisut mahdollistavat ruoan tuotantoprosessien hallinnoinnin virtualisoinnin, mikä puolestaan mahdollistaa edistyneen etänä tehtävän suunnittelun, uudelleensuunnitelun, tarkkailun ja kontrolloinnin sekä uudet liiketoimintamallit.
-
-Haasteet!
-Per tekninen ja ei-tekninen dimensio
-
-
 
 
 **AIoT-ratkaisuissa käytettävät teknologiat** on ryhmitelty seuraavasti: 
@@ -865,10 +858,6 @@ Atzori et al. (2010) yleiset IoT:n haasteet: standardit, järjestelmien välisen
 *Haasteet per Sundmaeker et al. @sundmaekerInternetFoodFarm2016*
 ICT- ja erityisesti IoT-teknologiat muuttavat maataloutta nopealla tahdilla. Suuren mittakaavan käyttöönottojen kautta näillä teknologioilla on selkeä potentiaali tuottaa huomattavia etuja kestävän maanviljelyn muodossa, varmistamalla ruokaturvaa pienempien ympäristövaikutusten kautta sekä takaamalla terveellisen ruoantuotannon. Etujen saavuttamiseen tarvitaan kuitenkin tiettyjen IoT:n teknisten ja yhteiskunnallisten haasteiden ja esteiden voittamista. Nämä vaikeudet tuottavat kuitenkin myös uusia mahdollisuuksia teknologiselle kehitykselle ja arvon tuottamiselle.  
 *Tekniset:*
-*IoT-laitteiden kehitys*
-*Tietoliikenneverkkojen ja pilvipalveluiden kehitys*
-*Tietohuolto (analytiikka, 3. osapuolen data, FMIS*
-*Tietoturva*
 *IoT-alustat/platformit*
 *Ei-tekniset:*
 *Liiketoimintamallit*
@@ -895,22 +884,24 @@ Standardisaation tärkeys näkyi myös Tzounis et al. (2017) tekemässä kirjall
 
 *IoT:n tietoturva kiteytyy kolmeen vaatimukseen: tunnistus, luottamuksellisuus ja käyttöokeuksien hallinta (@tzounisInternetThingsAgriculture2017).*
 
-Maatalouden IoT-sovelluksissa on selkeä tarve ratkaisuille, jotka huomioivat kokonaisvaltaisen tietoturvan *(end-to-end information security)* sekä kentällä käytettävien laitteiden fyysisen turvallisuuden ja eheyden. Luotettavan kokonaisvaltaisen tietoturvan, yksityisyydensuojan ja datan omistajuuden ratkaisujen saatavuuden varmistaminen on ylipäätään huomattava haaste. Erityisen haastavaksi tämän tekee maatalouden toimintaympäristössä vaatimus ratkaisujen soveltuvuudesta dynaamisten ja monimutkaisten sidosryhmien verkostojen tarpeisiin, kun sidosryhmiin kuuluu valtava määrä hyvin pieniä yrityksiä, suuria monikansallisia konserneja sekä viranomaisia joiden kaikkien tulisi toimia yhteistyössä. (@talaveraReviewIoTApplications2017; @verdouwInternetThingsAgriculture2016a)
+Muiden teollisuudenalojen tapaan maatalouden tuotantoketjujen muuttuessa yhä datavetoisemmiksi datasta muodostuu yhä arvokkaampaa omaisuutta. Viljelytoiminnasta laitteiden keräämä data voi sisältää suuria määriä viljelijöille toimintakriittistä tietoa, kuten tietoja maaperän hedelmällisyydestä ja satoisuudesta. Tästä johtuen viljelijöiden tulisi saada vahva vakuus heidän tuottamansa data suojauksesta erityisesti pilvipalveluiden yhteydessä. Useat käyttäjät ovat huolissaan datan omistajuudesta, yksityisyydestä ja turvallisuudesta, mikä usein johtaa luottamuspulaan ja odottavaan asenteeseen. Toisaalta useilta maatiloilta aggregoidulla datalla on potentiaalia huomattavaan arvon tuottamiseen. Viljelijöiden tulisi kuitenkin ymmärtää tällaisesta datan kokoamisesta saavutettavat edut sekä saada vakuudet heidän tietojen turvallisesta käsittelystä. DRM-ratkaisut tulisi siis tuoda myös maatalouden järjestelmiin, erityisesti dataa jakavissa ja yhdistelevissä skenaarioissa. Lisäksi teknisen tietoturvan näkökulmasta haasteena on datan eheyden ja autenttisuuden takaaminen. Tämä on tärkeää ruoan turvallisuuden ja jäljitettävyyden sovelluksissa, joissa tuotteen alkuperän ja prosessoinnin tietojen tulee olla luotettavia. (@sundmaekerInternetFoodFarm2016)
 
-Sidosryhmien turvallisuus, autenttisuus, luottamuksellisuus ja yksityisyyden suoja tulisi varmistaa siirryttäessä perinteisistä toimintamalleista IoT-sovellusten käyttöön. IoT-ratkaisut tulisi suojata ulkoisia hyökkäyksiä vastaan havaintotasolla, turvata datan kerääminen tietoliikennetasolla ja vastaavasti sovellustasolla tarjota eritellyt takaukset siitä, että vain valtuutetuilla tahoilla on pääsy ja oikeudet muuttaa tietoja. (@tzounisInternetThingsAgriculture2017)
+Maatalouden IoT-sovelluksissa on selkeä tarve ratkaisuille, jotka huomioivat sekä kokonaisvaltaisen tietoturvan *(end-to-end information security)* että kentällä käytettävien laitteiden fyysisen turvallisuuden ja eheyden. Luotettavan kokonaisvaltaisen tietoturvan, yksityisyyden suojan ja datan omistajuuden ratkaisujen saatavuuden varmistaminen on ylipäätään huomattava haaste. Erityisen haastavaksi tämän tekee maatalouden toimintaympäristössä vaatimus ratkaisujen soveltuvuudesta dynaamisten ja monimutkaisten sidosryhmien verkostojen tarpeisiin, kun sidosryhmiin kuuluu valtava määrä hyvin pieniä yrityksiä, suuria monikansallisia konserneja sekä viranomaisia joiden kaikkien tulisi toimia yhteistyössä. (@talaveraReviewIoTApplications2017; @verdouwInternetThingsAgriculture2016a)
 
-*Havainto- tai* laitetasolla yleisimpiä avoimia tietoturvahaasteita ovat datan hankintavaiheen tietoturva ja laitteistojen fyysinen turvallisuus. Laitteiden fyysinen tietoturva on tärkeä maatalouden toimintaympäristössä, jossa laitteet voivat sijaita avoimilla pelloilla ja toimia ilman valvontaa pitkiäkin aikoja. Sensorilaitteiden tietoturvan parantamiseksi tulisi käyttää salausalgoritmeja, avaintenjakelun käytänteitä, tunkeutumisenhavaitsemisjärjestelmiä ja turvallisia reitityssääntöjä, huomioiden laitteiden asettamat rajoitukset. Pyrittäessä estämään valtuuttamattomien tahojen pääsy kerättyyn dataan käyttäjätunnistus, tietojen luottamuksellisuus ja käyttöokeuksien hallinta tulee ottaa huomioon myös datan hankintavaiheessa. (@tzounisInternetThingsAgriculture2017)
+Sidosryhmien tietojen turvallisuus, autenttisuus, luottamuksellisuus ja yksityisyyden suoja tulisi varmistaa siirryttäessä perinteisistä toimintamalleista IoT-sovellusten käyttöön. IoT-ratkaisut tulisi suojata ulkoisia hyökkäyksiä vastaan havaintotasolla, turvata datan kerääminen tietoliikennetasolla ja vastaavasti sovellustasolla tarjota eritellyt vakuudet siitä, että vain valtuutetuilla tahoilla on pääsy ja oikeudet muuttaa tietoja. (@tzounisInternetThingsAgriculture2017)
 
-Tietoliikennetason ja sovellustason välillä toimivan väliohjelmiston (middleware) tietoturva tulee myös huomioida. Väliohjelmisto hoitaa sekä tiedon käsittelyä että rajapintoja tietoliikennetason ja sovellustason välillä, jolloin myös sen tietoturva vaatii luottamuksellisuutta tietojen käsittelyssä ja turvallista tietojen taltiointia. (@tzounisInternetThingsAgriculture2017)
+Laitteiden fyysinen tietoturva on tärkeä maatalouden toimintaympäristössä, jossa laitteet voivat sijaita avoimilla pelloilla ja toimia ilman valvontaa pitkiäkin aikoja. Laitetasolla yleisimpiä avoimia tietoturvahaasteita ovat datan tuotantovaiheen tietoturva ja laitteistojen fyysinen turvallisuus. Sensorilaitteiden tietoturvan parantamiseksi tulisi käyttää salausalgoritmeja, avaintenjakelun käytänteitä, tunkeutumisenhavaitsemisjärjestelmiä ja turvallisia reitityssääntöjä, kuitenkin huomioiden laitteiden asettamat rajoitukset. Pyrittäessä estämään valtuuttamattomien tahojen pääsy kerättyyn dataan käyttäjätunnistus, tietojen luottamuksellisuus ja käyttöokeuksien hallinta tulee ottaa huomioon myös datan tuotantovaiheessa. (@tzounisInternetThingsAgriculture2017)
 
-Tietoliikennetasolla langattomien tietoliikenneyhteyksien tietoturvan toteuttaminen voi olla haastavaa IoT-sovelluksissa yleensä käytettäville laitteille. IoT-järjestelmät voivat helposti altistua palvelunestohyökkäykselle, valtuudettomalle pääsy-yritykselle, väliintulohyökkäykselle ja/tai haittaohjelmainjektiolle jotka kohdistuvat ja vaikuttavat järjestelmän luottamuksellisuuteen ja tiedon eheyteen. Todentaminen, tunkeutumisen havaitseminen, avaintenhallinta ja *negotiation mechanisms* voivat tarjota ratkaisuita tietoliikennetason uhkia vastaan. (@tzounisInternetThingsAgriculture2017)
+Tietoliikennetason ja sovellustason välillä toimivan väliohjelmiston (middleware) tietoturva tulee myös ottaa huomioon. Väliohjelmiston hoitaessa sekä tiedon käsittelyä että rajapintoja tietoliikenne- ja sovellustasojen välillä, sen tietoturva vaatii luottamuksellisuutta tietojen käsittelyssä ja turvallista tietojen taltiointia. (@tzounisInternetThingsAgriculture2017)
 
-Sovellustaso IoT-arkkitehtuurin ylimpänä tasona on lähellä *ja usein päällekkäinen* pilvipalveluiden kanssa. Sovellustason tietoturvakysymykset ovat myös lähellä pilvipalveluiden vastaavia, kuten tietoturva, yksityisyyden suoja, varmuuskopiointi ja tietojen pelastus.
+IoT-sovelluksissa yleensä käytettäville laitteille langattomien tietoliikenneyhteyksien tietoturvan toteuttaminen voi olla haastavaa. IoT-järjestelmät voivat helposti altistua palvelunestohyökkäykselle, valtuudettomalle pääsy-yritykselle, väliintulohyökkäykselle ja/tai haittaohjelmainjektiolle jotka kohdistuvat ja vaikuttavat järjestelmän luottamuksellisuuteen ja tiedon eheyteen. Todentaminen, tunkeutumisen havaitseminen, avaintenhallinta ja *negotiation mechanisms* voivat tarjota ratkaisuita tietoliikennetason uhkia vastaan. (@tzounisInternetThingsAgriculture2017)
+
+Sovellustaso IoT-arkkitehtuurin ylimpänä tasona on lähellä *ja usein päällekkäinen* pilvipalveluiden kanssa. Sovellustason tietoturvakysymykset ovat samankaltaisia pilvipalveluiden vastaavien kanssa, kuten tietoturva, yksityisyyden suoja, varmuuskopiointi ja tietojen pelastus.
 Myös sovellustasolla hallintamekanismien tulee hallinnoida tiedon käyttöoikeuksia, sen omistajuutta ja pääsyoikeuksia tietoihin sekä fyysisisten käyttäjien tapauksessa että laitteiden, järjestelmien ja organisaatioiden välillä. (@tzounisInternetThingsAgriculture2017)
 
 Kokonaisuudessaan tietoturvauhat ovat todellisia ja tuotannossa käytettävät tietoliikenneverkot tarvitsevat turvaamista. Tietoturvasta, anonymiteetistä ja pääsynhallinnasta huolehtiminen on kriittisen tärkeää jaetun päätöksentekojärjestelmän laajalle käyttöönotolle. (@tzounisInternetThingsAgriculture2017)
 
-Selkeästä tarpeesta huolimatta Talavera et al. havaitsivat kirjallisuuskatsauksessaan, että katsauksessa käsitellyistä tutkimuksista vain muutama otti tietoturvan huomioon ylipäätään ja niissäkin sovellettiin hajanaisia strategioita tietoturvariskien lieventämiseksi (@talaveraReviewIoTApplications2017). Toisaalta Tzounis et al. käsittelivät kirjallisuuskatsauksessaan AIoT-ratkaisuiden tietoturvaa laajasti ja erityisesti järjestelmäkehityksen näkökulmasta (@tzounisInternetThingsAgriculture2017).
+Selkeästä tarpeesta huolimatta Talavera et al. (2017) havaitsivat kirjallisuuskatsauksessaan, että katsauksessa käsitellyistä tutkimuksista vain muutama otti tietoturvan ylipäätään huomioon ja niissäkin sovellettiin vain hajanaisia strategioita tietoturvariskien lieventämiseksi (@talaveraReviewIoTApplications2017). Toisaalta Tzounis et al. (2017) käsittelivät kirjallisuuskatsauksessaan AIoT-ratkaisuiden tietoturvaa laajasti ja erityisesti järjestelmäkehityksen näkökulmasta (@tzounisInternetThingsAgriculture2017).
 
 
 #### Laitteiden energiatehokkuuden haasteet
@@ -942,19 +933,20 @@ Myös Tzounis et al. (2017) mukaan IoT-laitteita on haastavaa kehittää vaativi
 
 #### Langattoman tiedonsiirron haasteet
 
-Samoin kuin laitteiden kestävyydelle, toimintaympäristö asettaa haasteita myös langattomalle tiedonsiirrolle (@tzounisInternetThingsAgriculture2017). Verdouw et al. (2016) mukaan yksi keskeisiä AIoT:n kehityksen haasteita on vakaan ja luotettavan langattoman yhteyden kehittäminen kaukaisille alueille, joilla on usein rajattu peittoalue ja kaistanleveys (@verdouwInternetThingsAgriculture2016a). 
+Samoin kuin laitteiden kestävyydelle, toimintaympäristö asettaa haasteita myös langattomalle tiedonsiirrolle (@tzounisInternetThingsAgriculture2017). Yksi keskeisiä AIoT:n kehityksen haasteita on vakaan ja luotettavan langattoman yhteyden kehittäminen kaukaisille alueille, joilla on usein rajattu peittoalue ja kaistanleveys (@atzoriInternetThingsSurvey2010; @sundmaekerInternetFoodFarm2016; @verdouwInternetThingsAgriculture2016a). Suuren mittakaavan AIoT-laitteiden käyttöönotot edellyttävät tietoliikenneverkkojen arkkitehtuurin uudistamista, jotta verkot voisivat sopeutua tiettyihin datan tuotannon kuvioihin ja vaihtelevaan tietoliikennemäärään (@sundmaekerInternetFoodFarm2016).
 
 Langattomat verkot ovat yleisiä peltotuotannon sovelluksissa, missä verkkojen kaapeloinnin kustannukset voivat olla huomattavia ja kaapelointia voi olla vaikea toteuttaa. Ympäristövaikutukset ovat yksi suurimmista tekijöistä jotka vaikuttavat haitallisesti langattoman verkon yhteyksiin monitie-etenemisen ja sen taustamelua lisäävän vaikutuksen takia. Lämpötilan, kosteuden, ihmisten ja muiden esteiden vaikutuksen on havaittu vaikuttavan langattomien verkkojen toimintaan. Tämän takia tiedonsiirtoon tulisi käyttää luotettavia ja vakaita teknologioita, ottaen huomioon maatalouden käyttöympäristön vaatimukset ja haasteet. (@tzounisInternetThingsAgriculture2017)
-
-*tämä jää nyt vähän irralliseksi:*
-Sensoriverkkojen luotettavuuden, kesvävyyden ja vikasietoisuuden kehittäminen on Atzori et al. (2010) mukaan keskeisiä IoT:n teknologiakehityksen haasteita (@atzoriInternetThingsSurvey2010).
 
 Lisäksi langattoman tietoliikenteen yleinen haaste on keskenään samoilla taajuuskaistoilla toimivien laitteiden toisilleen aiheuttamat häiriöt. Käytössä olevien useiden erilaisten teknologioiden ja standardien monimuotoisuus voi käytännössä haitata tietoliikennetason yhteentoimivuutta. (@tzounisInternetThingsAgriculture2017)
 
 
-#### Analytiikkaratkaisuiden haasteet
+#### Analytiikkaratkaisuiden ja tietopalveluiden haasteet
 
-AIoT-ratkaisuiden analytiikkatoimintojen kehittämisen haasteena on AIoT-järjestelmien itse tuottaman datan yhdistäminen kolmannen osapuolen historia- ja ennustedatan kanssa. Kolmannen osapuolen data voi olla sekä julkisten että yksityisten toimijoiden tuottamaa, kuten satelliittidata, maaperä-, vesi- ja ilma-analyysit, logistiikkajärjestelmät, hintatiedot, vähittäismyyntinnin data, kuluttajatiedot kuten ruokavaliotiedot jne. (@verdouwInternetThingsAgriculture2016a)
+Datan tuottaminen ja kerääminen on vasta IoT-ratkaisuiden ensimmäinen askel. Varsinainen tavoite on tuottaa arvoa datasta merkityksellisen ja *toimittavan* tiedon muodossa. Tätä silmälläpitäen tietopalvelut ovat maatalousalalla vielä kehityksen alkuvaiheessa. Lyhyen aikavälin kehitys kohdistuu yleensä päätöksenteon tukemisen järjestelmiin. Edistyneempien ennustavaan mallinnukseen ja kysyntäperusteiseen tuotannon suunnitteluun kykenevien data-analytiikan ratkaisuiden kehittäminen on maatalousalalla vielä avoin haaste. (@sundmaekerInternetFoodFarm2016)
+
+Lisäksi analytiikan kehittämisen haasteena on järjestelmien itse tuottaman datan ja kolmansien osapuolien historia- ja ennustedatan yhdistäminen. Kolmannen osapuolen data voi olla sekä julkisten että yksityisten toimijoiden tuottamaa, kuten satelliittidata, maaperä-, vesi- ja ilma-analyysit, logistiikkajärjestelmät, hintatiedot, vähittäismyyntinnin data, kuluttajatiedot kuten ruokavaliotiedot jne. (@sundmaekerInternetFoodFarm2016; @verdouwInternetThingsAgriculture2016a)
+
+Data-analytiikkapalveluiden kontekstissa tietopalveluiden käytettävyys on myös otettava huomioon. Maatilan tiedonhallintajärjestelmien tulisi olla sekä helposti räätälöitävissä erikokoisten maatilojen käyttötapauksiin että käyttäjäille helposti opittavia, samalla kun niiden tulisi mahdollistaa yhteentoimivuus tuotantoketjun muiden toimijoiden kanssa. (@sundmaekerInternetFoodFarm2016)
 
 Tzounis et al. (2017) huomauttavat kirjallisuuskatsauksessaan analytiikkaratkaisuiden haasteisiin liittyen, että käytännössä suuri määrä keskenään verkostoituja laitteita voi tuottaa niin suuria määriä dataa, että sen käsittely voi nopeasti osoittautua pienen mittakaavan palvelininfrastruktuureille liian vaativaksi. Tähän haasteeseen vastaamiseksi analytiikkaratkaisuiden kehittämistä voisi suunnata pilvipohjaisten resurssipalveluiden päällä toimiviksi. Toisaalta verkon reunalla tuotetun datan suuri määrä voi pilveen siirrettäessä aiheuttaa huomattavia kuluja sekä rahallisesti että viiveinä. Siksi olisi tarpeen tasapainottaa verkon reunalla tapahtuva tiedon tallennus ja käsittely resurssipalveluissa tapahtuvien vastaavien kanssa. (@tzounisInternetThingsAgriculture2017)
 
@@ -976,19 +968,23 @@ Samoin kuin akkujen kestävyys ja matala virrankulutus ovat havaintotason laitte
 
 #### Muut haasteet
 
-Talavera et al.
+Erityisesti ruoan jäljitettävyyden ja ruoan turvallisuuden käyttötapauksissa IoT-järjestelmien kehityksessä on selkeä haaste sekä uudentyyppisten sensori- ja tietoliikenneratkaisuiden että kustannustehokkuuden parantamiseksi. Nykyiset biosensorit, samoin kuin RFID- ja NFC-tunnisteet eivät aina ole sopivia ratkaisuita verrattaessa sensorin kustannuksia mitattavan ruokatuotteen hintaan, erityisesti jos pyritään havannoimaan yksittäisiä tuotteita. (@sundmaekerInternetFoodFarm2016)
 
-Vaikka sulautettujen järjestelmien yksikköhinnat ovat laskeneet, korkealuokkaisten sensorien ja toimilaitteiden yksikköhinnoille ei ole käynyt samoin. Jotta satoja, mahdollisesti tuhansia laiteyksikköjä käsittävien IoT-ratkaisuiden käyttöönotto mahdollistuisi, tulisi laitteistojen yleiskustannusten, internetyhteyksien ja kansainvälisten data roaming -maksujen edelleen laskea. (@talaveraReviewIoTApplications2017)
+Vaikka sulautettujen järjestelmien yksikköhinnat ovat laskeneet, korkealuokkaisten sensorien ja toimilaitteiden yksikköhinnoille ei ole käynyt samoin. Jotta satoja, mahdollisesti tuhansia laiteyksikköjä käsittävien IoT-ratkaisuiden käyttöönotto mahdollistuisi, tulisi laitteistojen yleiskustannusten, internetyhteyksien sekä kansainvälisten data roaming -maksujen edelleen laskea. (@talaveraReviewIoTApplications2017)
+
+Suurempi mittakaava vaatii laitteilta myös enemmän tietojenkäsittelykykyä ja älykkyyttä, jotta laitteet kykenisivät tarvittaessa konfiguroimaan ja hallinnoimaan toimintojaan itsenäisesti. IoT-ratkaisujen lupaamia etuja ei voida täysin saavuttaa ilman huomattavaa lisäystä verkon reunalla olevien laitteiden tietojenkäsittely- ja laskentakyvyssä. (@sundmaekerInternetFoodFarm2016)
+
+Laitteiden tulisi vaatia vain vähän tai ei ollenkaan ihmisen tekemää huoltoa elinkaarensa aikana. Lisäksi laitteiden käyttämän tietoliikenneratkaisun tulisi olla tarpeeksi älykäs uudelleenkonfiguroimaan tai parantamaan itse itsensä laiterikon sattuessa. (@talaveraReviewIoTApplications2017)
 
 Aikaisempaa enemmän modulaarisiksi suunnitellut laitteet ja ohjelmistot voisivat puolestaan mahdollistaa tehokkaamman uudelleenkäytön ja järjestelmien räätälöinnin. (@talaveraReviewIoTApplications2017)
 
-AIoT-järjestelmiä tulisi lähtökohtaisesti kehittää yhteensopiviksi vanhan, olemassaolevan infrastruktuurin kanssa. Samoin kuin teollisuusautomaatiossa, on tärkeää kehittää ratkaisuita jotka sopivat asiakkaan olemassaolevaan infrastruktuuriin kuten erikoislaitteisiin, työkoneisiin ja ohjelmistoihin. (@talaveraReviewIoTApplications2017)
+AIoT-järjestelmiä tulisi lähtökohtaisesti kehittää yhteensopiviksi vanhan, olemassaolevan infrastruktuurin kanssa. Samoin kuin teollisuusautomaatiossa, on tärkeää kehittää ratkaisuita jotka sopivat asiakkaan olemassaolevaan infrastruktuuriin kuten erikoislaitteisiin, työkoneisiin ja ohjelmistoihin. Käytettävyydeltään IoT-laitteiden asentamisen ja hallinoinnin tulisi olla niin selkeää ja yksinkertaista, että tavalliset käyttäjät pystyvät käyttämään niitä ilman erityisosaamista. (@talaveraReviewIoTApplications2017)
 
 Järjestelmien skaalautuvuus tulisi huomioida jo aikaisessa kehitysvaiheessa. Laitemäärien kasvun myötä kasvavien järjestelmien datan synkronisoinnin toimivuus ja datan luotettavuus muodostuvat kriittisiksi. (@talaveraReviewIoTApplications2017) Skaalautuvuus on myös sensoriverkkojen kehityksen haaste, koska sensorilaitteiden määrät voivat kasvaa hyvin suuriksi (@atzoriInternetThingsSurvey2010).
 
-IoT-laitteiden asentamisen ja hallinnan tulisi olla selkeää ja yksinkertaista tavallisille käyttäjille. Lisäksi laitteen tulisi vaatia vain vähän tai ei ollenkaan ihmisen tekemää huoltoa elinkaarensa aikana sekä laitteiden käyttämän tietoliikenneratkaisun tulisi olla tarpeeksi älykäs uudelleenmäärittelemään tai parantamaan itse itsensä laiterikon sattuessa. (@talaveraReviewIoTApplications2017)
-
 Vaikka vain vaatimattomimmat ennusteet IoT-laitteiden käyttöönotosta toteutuisivat, laitteiden kierrätysstrategia tulisi suunnitella osana uutta ratkaisua ja sen elinkaarta ympäristövaikutusten minimoimiseksi. (@talaveraReviewIoTApplications2017)
+
+Muihin teollisuudenaloihin verrattuna maatalouden tuotteisiin on usein vaikeampaa liittää IoT-laitteita. Ruokatuotteiden kanssa tämä vaatisi usein lisäpakkausta, jotta voitaisiin varmistaa ettei laitteista ole haittaa kuluttajille tai ympäristölle. Tämä lisäisi kustannuksia ja tuotteen hintaa, jolloin yleiset IoT:n potentiaalit eivät aina ole käytännöllisesti ja yhteismitallisesti siirrettävissä ruokatuotteisiin. (@sundmaekerInternetFoodFarm2016)
 
 
 ### Esitetyt AIoT-arkkitehtuurit
