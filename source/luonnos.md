@@ -6,19 +6,12 @@ Category: IT
 Date: 2017-10-12 18:40
 Template: ../template/template.docx
 bibliography: ../bib/AIoT.bib
-csl: ../style/harvard1.csl
+csl: ../style/sodertorns-hogskola-harvard.csl
 ...
 
-# bibliografian testaus:
-Pelkkänä: ckey    @elovaaraAggregatingOPCUA2015
-Sulkeissa: (ckey)    (@elovaaraAggregatingOPCUA2015)
-Sulkeissa, sivunumeroilla: (ckey 3, 33)    (@elovaaraAggregatingOPCUA2015 3, 33)
-Pelkkänä: ckey    buyya2016internet
-Sulkeissa: (ckey)  (@buyya2016internet)
-Sulkeissa, sivunumeroilla: (ckey 3, 33)    (@buyya2016internet 3, 33)
 
 # HUOM: 
-"Meta (poistettava otsikko)" -otsikot, samoin kuin muutkin "...(poistettava otsikko)" -otsikot, ovat luonnoksessa mukana helpottamassa osioiden käsittelyä luonnostelu- ja kirjoitusvaiheissa. Nämä otsikot poistetaan ja niiden alla oleva teksti jää korkeamman tason otsikon alle.*
+*"Meta (poistettava otsikko)" -otsikot, samoin kuin muutkin "...(poistettava otsikko)" -otsikot, ovat luonnoksessa mukana helpottamassa osioiden käsittelyä luonnostelu- ja kirjoitusvaiheissa. Nämä otsikot poistetaan ja niiden alla oleva teksti jää korkeamman tason otsikon alle.*
 
 # TIIVISTELMÄ
 
@@ -44,7 +37,7 @@ Tässä opinnäytetyössä käytetään lähdeviittausten tyylinä Södertörns 
 
 # SISÄLLYSLUETTELO
 
-# LUETTELO GRAAFEISTA JA KAAVIOISTA
+# LUETTELO KUVAAJISTA JA KAAVIOISTA
 
 # LYHENNELUETTELO
 
@@ -625,21 +618,13 @@ Kategorioiden ja alikategorioiden yleisimmät koodit kerättiin loogisiksi teemo
 
 ## Meta (poistettava otsikko)
 
-Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset *(koska kuvaileva, havainnot?)*. Kirjallisuuskatsauksen ja teemahaastatteluiden tuloksia tarkastellaan erikseen, jonka jälkeen tuloksista tehdään kuvaileva yhteenveto. Lopuksi esitellään vastaukset tutkimuskysymyksiin tuloksista tehtyjen havaintojen ja johtopäätösten perusteella.
+Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset. Kirjallisuuskatsauksen ja teemahaastatteluiden tuloksia tarkastellaan erikseen, jonka jälkeen tuloksista tehdään kuvaileva yhteenveto. Lopuksi esitellään vastaukset tutkimuskysymyksiin tuloksista tehtyjen havaintojen ja johtopäätösten perusteella.
 
 ## Kirjallisuuskatsauksen tulokset
 
-*Ks. Tutkimuskysymykset:*
-
-*I) Millaista tutkimusta IoT-teknologioiden soveltamisesta kasvintuotantoon on julkaistu?*
-
-*Millaisia teknologiasovelluksia tutkimuksissa on esitelty?*
-*Minkä tyyppiset sovellukset tulevat tutkimusmateriaalissa selkeimmin esille, eli millaisista sovelluksista ja teknologioista kirjoitetaan ja tehdään tutkimusta tällä hetkellä?*
-*Muut kysymykset? Vaikuttavuus, mitä tilanne kertoo ylipäänsä, jne.*
-
-*II) Miten kasvintuotannossa hyödynnetään IoT-teknologioita?*
-
 Tässä osiossa käsitellään kirjallisuuskatsauksen tulokset jaoteltuina seuraavasti: yleinen kuvailu, AIoT-ratkaisuissa käytettävät teknologiat, AIoT-ratkaisujen sovellusalueet, AIoT:n avoimet haasteet ja tutkimuksissa esitetyt AIoT-arkkitehtuurit.
+
+### Yleinen kuvailu
 
 **Uudet liiketoimintamallit**
 Maatilojen ja ruokatuotannon yritysten yleisen kehityksen suunta on kohti laajamittaista, teollista ja teknologiaintensiivistä tuotantoa. Samaan aikaan uudet IoT-teknologiat mahdollistavat uusia liiketoimintamalleja. Monet kasvuyritykset pyrkivät toteuttamaan ruokatuotannossa aikaisempaa lyhyempää tuotantoketjua, joskus poistaen kokonaisia osia yleisestä ruoan tuotantoketjusta. Näille uusille liiketoimintamalleille tiedon tuotanto ja toimittaminen on ennemmän ennakkoehto kuin toiminnan sivutuote. Samalla liiketoimintakumppaneiden välinen toiminta on muuttumassa entistä dynaamisemmaksi sekä kilpailu korkealuokkaisista ja suuren marginaalin tuotteista on muodostumassa yleisemmäksi. IoT-teknologioiden mahdollistamat dataperustaiset hallintokäytänteet ovat keskeisiä aikaisempaa tarkemmalle tuotantoprosessien hallittavuudelle. Tuotantoprosessien tarkempi hallittavuus puolestaan voi johtaa suoranaiseen loikkaukseen tuottavuudessa ja kestävyydessä. (@sundmaekerInternetFoodFarm2016)
@@ -761,13 +746,13 @@ Verdouw et al. kirjallisuuskatsauksessa sovellusaluet ovat: **tuotantoketju** 68
 Talavera et al. (2017) ryhmittelivät AIoT-ratkaisuissa sovelletut teknologiat ja infrastruktuurit seitsemään ryhmään: 
 #### Valvottavat muuttujat *(sensing variables)*
 #### Toimilaitteet
-#### Virtalähteet *(power sources)*
+#### Voimanlähteet *(power sources)*
 #### Tietoliikennetekniikat
 #### Verkon reunan tietojenkäsittely (edge computing)
 #### Tiedon tallennusstrategiat
 #### Tiedon visualisointistrategiat
 
- (@talaveraReviewIoTApplications2017)
+(@talaveraReviewIoTApplications2017)
 
 
 *Gubbi et al. (2013) (@gubbiInternetThingsIoT2013) 3.3 IoT Elements 3.3.1 RFID 3.3.2 WSN 3.3.3 Addressing scemes 3.3.4 Data storage and analytics 3.3.5 Visualization*
@@ -834,7 +819,7 @@ Talavera et al. (2017) kirjallisuuskatsauksessa käsiteltyjen logistiikan osa-al
 
 #### Ennustus
 
-**Ennustus**-osa-alueen julkaisut keskittyivät Talavera et al. (2017) kirjallisuuskatsauksessa viljelijän päätöksenteossa tarvittavan tiedon ja työkalujen tuottamiseen. Esitettyjen ratkaisujen arkkitehtuurissa oli tähän tarkoitukseen erityiset modulit. Ratkaisujen ennustamat muuttujat ryhmiteltiin seuraavalla tavalla: ympäristöolosuhteet 42.86 %, tuotantoennusteet 42.86 % ja satoennusteet 14.29 %.
+**Ennustus**-osa-alueen julkaisut keskittyivät Talavera et al. (2017) kirjallisuuskatsauksessa viljelijän päätöksenteossa tarvittavan tiedon ja työkalujen tuottamiseen. Esitettyjen ratkaisujen arkkitehtuurissa oli tähän tarkoitukseen erityiset modulit. Ratkaisujen ennustamat muuttujat ryhmiteltiin seuraavalla tavalla: ympäristöolosuhteet 42.86 %, tuotantoennusteet 42.86 % ja satoennusteet 14.29 %. (@talaveraReviewIoTApplications2017)
 
 *ks. edellisistä kohdista aikaiset varoitukset kans*
 
@@ -857,12 +842,7 @@ Atzori et al. (2010) yleiset IoT:n haasteet: standardit, järjestelmien välisen
 
 *Haasteet per Sundmaeker et al. @sundmaekerInternetFoodFarm2016*
 ICT- ja erityisesti IoT-teknologiat muuttavat maataloutta nopealla tahdilla. Suuren mittakaavan käyttöönottojen kautta näillä teknologioilla on selkeä potentiaali tuottaa huomattavia etuja kestävän maanviljelyn muodossa, varmistamalla ruokaturvaa pienempien ympäristövaikutusten kautta sekä takaamalla terveellisen ruoantuotannon. Etujen saavuttamiseen tarvitaan kuitenkin tiettyjen IoT:n teknisten ja yhteiskunnallisten haasteiden ja esteiden voittamista. Nämä vaikeudet tuottavat kuitenkin myös uusia mahdollisuuksia teknologiselle kehitykselle ja arvon tuottamiselle.  
-*Tekniset:*
-*IoT-alustat/platformit*
-*Ei-tekniset:*
-*Liiketoimintamallit*
-*Yhteiskunnalliset aspektit*
-*Politiikka ja säännökset*
+
 *Sidosryhmien osallisuus/osallistaminen*
 
 
@@ -873,11 +853,9 @@ AIoT:n alalla vahva standardisaatio parantaisi eri valmistajien laitteiden ja j�
 
 IoT-teknologiapaketin yhteentoimivuuden edistämiseksi on tarvetta investoinneille yhteisen infrastruktuurin rakentamiselle, jotta datan siirtely ja integraatio mahdollistuisi. Tämän kautta mahdollistuisi dataa hyödyntävien sovelluksiei kehittäminen. Tällä hetkellä on yleistä, että maatilakohtainen data pysyy yhden yrityksen hallussa mikä asettaa esteitä integroivalle sovelluskehitykselle. Keskeinen näihin sovelluksiin liittyvä kysymys on, tulevatko ne olemaan suljettuja ja omisteisia vai avoimia järjestelmiä. Sovellusinfrastruktuurien kuten alustapalveluiden ja standardien jatkokehitys sekä niiden käyttöönotto organisaatioissa on kriittinen tekijä näiden kahden skenaarion "taistelun" ratkaisussa. Avoimempiin ratkaisuihin siirtymistä edistävät erityiseti osakuntiin tai koalitioihin järjestäytyneet viljelijät, jotka ovat huolestuneet datan yksityisyydestä ja turvallisuudesta, mutta haluavat myös tuottaa arvoa oman datansa avulla. (@wolfertBigDataSmart2017)
 
-Suljetut arkkitehtuurit, alustat ja standardit asettavat esteitä AIoT-ratkaisuiden laajamittaiselle omaksumiselle yhteen toimittajaan lukittumisen, järjestelmien yhteensopimattomuuden jne. riskien takia. Yksi maatalous- ja ruokatuotantosektorin haasteista on uusien avoimien ja maailmanlaajuisten standardien määrittely sekä jatkuva linjaaminen nykyisten sekä IT- että maatalousalan standardisointihankkeiden kanssa. (@sundmaekerInternetFoodFarm2016)
+Yhteen toimittajaan lukittumisen, järjestelmien yhteensopimattomuuden jne. riskien takia suljetut arkkitehtuurit, alustat ja standardit asettavat esteitä AIoT-ratkaisuiden laajamittaiselle omaksumiselle. Yksi maatalous- ja ruokatuotantosektorin haasteista on uusien avoimien ja maailmanlaajuisten standardien määrittely sekä niiden jatkuva linjaaminen nykyisten IT- ja maatalousalan standardisointihankkeiden kanssa. Lisäksi AIoT:n haasteita käsiteltäessä tulisi painottaa päätöksenteon avustamista sovellustasolla. Päätöksenteon avustamisen avulla voidaan realisoida AIoT-ratkaisujen tarjoamia etuja, mutta siihen tarvitaan väljästi kytkettyjä, modulaarisia, rajapintaperustaisia ohjelmistoympäristöjä, jotka mahdollistavat sensoridatan keräämisen ja eri lähteistä kerätyn datan vuorovaikutteisuuden. Tämä tarve korostuu pienissä ja keskisuurissa maatalousyrityksissä, jotka muodostavat suurimman osan alan ja tuotantoketjujen toimijoista. (@sundmaekerInternetFoodFarm2016)
 
-Standardisaation tärkeys näkyi myös Tzounis et al. (2017) tekemässä kirjallisuuskatsauksessa, jossa havaittiin useiden tutkimusten keskittyvän IoT:n keskeisten teknologioiden standardointiin. Kuten monien muiden IoT:n aspektien yhteydessä, yhteentoimivuus on heidän mukaansa myös langattoman tietoliikenteen suurin haaste ja he keskittyvät katsauksessaan standardisaation haasteissa nimenomaisesti langattoman tietoliikenteeseen. (@tzounisInternetThingsAgriculture2017) Muut aineistossa käsitellyt kirjallisuuskatsaukset käsittelivät standardisaatiota laajemmin eri lähtökohdista.
-
-*standardisaatio liittyy usein tietoturvaan*
+Standardisaation tärkeys näkyi myös Tzounis et al. (2017) tekemässä kirjallisuuskatsauksessa, jossa havaittiin useiden tutkimusten keskittyvän IoT:n keskeisten teknologioiden standardointiin. Kuten monien muiden IoT:n aspektien yhteydessä, yhteentoimivuus on heidän mukaansa myös langattoman tietoliikenteen suurin haaste. He keskittyvätkin katsauksessaan standardisaation haasteista nimenomaisesti langattomaan tietoliikenteeseen. (@tzounisInternetThingsAgriculture2017) Muut aineistossa käsitellyt kirjallisuuskatsaukset käsittelivät standardisaatiota laajemmin eri lähtökohdista.
 
 
 #### Tieto- ja kyberturvallisuuden haasteet
@@ -892,7 +870,7 @@ Sidosryhmien tietojen turvallisuus, autenttisuus, luottamuksellisuus ja yksityis
 
 Laitteiden fyysinen tietoturva on tärkeä maatalouden toimintaympäristössä, jossa laitteet voivat sijaita avoimilla pelloilla ja toimia ilman valvontaa pitkiäkin aikoja. Laitetasolla yleisimpiä avoimia tietoturvahaasteita ovat datan tuotantovaiheen tietoturva ja laitteistojen fyysinen turvallisuus. Sensorilaitteiden tietoturvan parantamiseksi tulisi käyttää salausalgoritmeja, avaintenjakelun käytänteitä, tunkeutumisenhavaitsemisjärjestelmiä ja turvallisia reitityssääntöjä, kuitenkin huomioiden laitteiden asettamat rajoitukset. Pyrittäessä estämään valtuuttamattomien tahojen pääsy kerättyyn dataan käyttäjätunnistus, tietojen luottamuksellisuus ja käyttöokeuksien hallinta tulee ottaa huomioon myös datan tuotantovaiheessa. (@tzounisInternetThingsAgriculture2017)
 
-Tietoliikennetason ja sovellustason välillä toimivan väliohjelmiston (middleware) tietoturva tulee myös ottaa huomioon. Väliohjelmiston hoitaessa sekä tiedon käsittelyä että rajapintoja tietoliikenne- ja sovellustasojen välillä, sen tietoturva vaatii luottamuksellisuutta tietojen käsittelyssä ja turvallista tietojen taltiointia. (@tzounisInternetThingsAgriculture2017)
+Tietoliikennetason ja sovellustason välillä toimivan väliohjelmiston (middleware) tietoturva tulee myös ottaa huomioon. Väliohjelmiston hoitaessa sekä tiedon käsittelyä että rajapintoja tietoliikenne- ja sovellustasojen välillä, sen tietoturva vaatii luottamuksellisuutta tietojen käsittelyssä ja turvallisuutta tietojen taltioinnissa. (@tzounisInternetThingsAgriculture2017)
 
 IoT-sovelluksissa yleensä käytettäville laitteille langattomien tietoliikenneyhteyksien tietoturvan toteuttaminen voi olla haastavaa. IoT-järjestelmät voivat helposti altistua palvelunestohyökkäykselle, valtuudettomalle pääsy-yritykselle, väliintulohyökkäykselle ja/tai haittaohjelmainjektiolle jotka kohdistuvat ja vaikuttavat järjestelmän luottamuksellisuuteen ja tiedon eheyteen. Todentaminen, tunkeutumisen havaitseminen, avaintenhallinta ja *negotiation mechanisms* voivat tarjota ratkaisuita tietoliikennetason uhkia vastaan. (@tzounisInternetThingsAgriculture2017)
 
@@ -966,7 +944,7 @@ AIoT-ratkaisuiden ohjelmistokehityksen haasteena on ottaa käyttöön ohjelmisto
 Samoin kuin akkujen kestävyys ja matala virrankulutus ovat havaintotason laitteiden vaatimuksia, tulee ne myös ohjelmoida niin hyvin, että laitteita ei tarvitse käynnistää uudestaan ohjelmisto-ongelman sattuessa  (@tzounisInternetThingsAgriculture2017).
 
 
-#### Muut haasteet
+#### Muut tekniset haasteet
 
 Erityisesti ruoan jäljitettävyyden ja ruoan turvallisuuden käyttötapauksissa IoT-järjestelmien kehityksessä on selkeä haaste sekä uudentyyppisten sensori- ja tietoliikenneratkaisuiden että kustannustehokkuuden parantamiseksi. Nykyiset biosensorit, samoin kuin RFID- ja NFC-tunnisteet eivät aina ole sopivia ratkaisuita verrattaessa sensorin kustannuksia mitattavan ruokatuotteen hintaan, erityisesti jos pyritään havannoimaan yksittäisiä tuotteita. (@sundmaekerInternetFoodFarm2016)
 
@@ -976,7 +954,7 @@ Suurempi mittakaava vaatii laitteilta myös enemmän tietojenkäsittelykykyä ja
 
 Laitteiden tulisi vaatia vain vähän tai ei ollenkaan ihmisen tekemää huoltoa elinkaarensa aikana. Lisäksi laitteiden käyttämän tietoliikenneratkaisun tulisi olla tarpeeksi älykäs uudelleenkonfiguroimaan tai parantamaan itse itsensä laiterikon sattuessa. (@talaveraReviewIoTApplications2017)
 
-Aikaisempaa enemmän modulaarisiksi suunnitellut laitteet ja ohjelmistot voisivat puolestaan mahdollistaa tehokkaamman uudelleenkäytön ja järjestelmien räätälöinnin. (@talaveraReviewIoTApplications2017)
+Laitteiden ja ohjelmistojen tehokas uudelleenkäytettävyys voi olla haastavaa monoliittisiksi suunnitelluissa järjestelmissä. Aikaisempaa enemmän modulaarisiksi suunnitellut laitteet ja ohjelmistot voisivat puolestaan mahdollistaa tehokkaamman uudelleenkäytön ja järjestelmien räätälöinnin. (@talaveraReviewIoTApplications2017)
 
 AIoT-järjestelmiä tulisi lähtökohtaisesti kehittää yhteensopiviksi vanhan, olemassaolevan infrastruktuurin kanssa. Samoin kuin teollisuusautomaatiossa, on tärkeää kehittää ratkaisuita jotka sopivat asiakkaan olemassaolevaan infrastruktuuriin kuten erikoislaitteisiin, työkoneisiin ja ohjelmistoihin. Käytettävyydeltään IoT-laitteiden asentamisen ja hallinoinnin tulisi olla niin selkeää ja yksinkertaista, että tavalliset käyttäjät pystyvät käyttämään niitä ilman erityisosaamista. (@talaveraReviewIoTApplications2017)
 
@@ -985,6 +963,18 @@ Järjestelmien skaalautuvuus tulisi huomioida jo aikaisessa kehitysvaiheessa. La
 Vaikka vain vaatimattomimmat ennusteet IoT-laitteiden käyttöönotosta toteutuisivat, laitteiden kierrätysstrategia tulisi suunnitella osana uutta ratkaisua ja sen elinkaarta ympäristövaikutusten minimoimiseksi. (@talaveraReviewIoTApplications2017)
 
 Muihin teollisuudenaloihin verrattuna maatalouden tuotteisiin on usein vaikeampaa liittää IoT-laitteita. Ruokatuotteiden kanssa tämä vaatisi usein lisäpakkausta, jotta voitaisiin varmistaa ettei laitteista ole haittaa kuluttajille tai ympäristölle. Tämä lisäisi kustannuksia ja tuotteen hintaa, jolloin yleiset IoT:n potentiaalit eivät aina ole käytännöllisesti ja yhteismitallisesti siirrettävissä ruokatuotteisiin. (@sundmaekerInternetFoodFarm2016)
+
+
+#### Muut haasteet
+
+Teknisten haasteiden ohella AIoT-ratkaisuiden kehityksessä on useita haasteita, joista keskeisimpiä ovat uusien liiketoimintamallien kehittäminen, yhteisölliset haasteet, poliikan ja säännöstelyn haasteet ja sidosryhmien haasteet. 
+Uusien liiketoimintamallien kehittämisessä IoT-ratkaisuille perustuvan liiketoiminnan kestävyys sekä ratkaisuiden tuottajille että käyttäjille vaatii vielä tutkimusta, erityisesti suuren mittakaavan ratkaisuiden osalta. Käyttäjien näkökulmasta mitattavissa olevien hyötyjen tulee kompensoida hankinnan ja käytön kustannukset. AIoT-ratkaisuiden hankintakustannukset ovat usein laajemman käyttöönoton este varsinkin pienikokoisille maatiloille. (@sundmaekerInternetFoodFarm2016)
+
+Samoin yhteisöllisissä haasteissa AIoT-teknologioiden tulisi vielä selkeästi näyttää toteen hyödyllisyytensä. Tuotetun tiedon tulisi olla hyödyllistä ja käytettävää viljelijöille ja muille ruoan tuotantoketjun toimijoille. Teknologioiden hyödyt tulisi tuoda esille tosielämän käyttötapauksissa, joista tiedon ja tietoisuuden levittäminen on haastavaa hyvin pirstaleisella alalla. Yhteisöllisenä haasteena AIoT-teknologioiden leviämiselle on myös niiden käyttäjiltään vaatima tietoteknisten taitojen taso. Tähän haasteeseen vastaamiseen vaadittaisiin koulutukseen panostamista, jotta digitaalisen kuilun syntyminen maatalouden alalla voitaisiin välttää. (@sundmaekerInternetFoodFarm2016)
+
+Politiikka ja säännöstely ovat keskeisessä asemassa AIoT-innovaatioiden omaksunnan leviämisessä. Poliittisten linjausten ja säännöstelyn tulisi madaltaa olemassaolevia esteitä, esimerkiksi viljelijöiden datan yksityisyyden suojaamiseksi sekä nopeiden tietoliikenneyhteyksien rakentamisen ja tietoteknisten taitojen koulutuksen edistämiseksi. (@sundmaekerInternetFoodFarm2016)
+
+Sidosryhmien kohtaamat haasteet liittyvät maatalousalan sidosryhmäverkoston dynaamiseen muutostilaan, missä uudet toimijat ottavat vakiintuneiden toimijoiden rooleja maatalouden datan ja tiedon käsittelyssä. AIoT-ratkaisuiden vaikutukset voivat johtaa organisatorisiin ongelmiin ja muutoksiin maataloudessa ja tuotantokejuissa. (@sundmaekerInternetFoodFarm2016)
 
 
 ### Esitetyt AIoT-arkkitehtuurit
