@@ -635,7 +635,7 @@ Viimeisen kymmenen vuoden aikana täsmäviljelyn tekniikoita on otettu käyttö�
 **Älykäs logistiikka** 
 Logistiikkapäätösten tulee pohjautua siihen tosiasiaan, että tuotteiden laadulliset ominaisuudet muuttuvat ajan kuluessa ja ympäristöolosuhteiden vaikutuksesta. Ruokatuotteiden yksilöllinen merkintä on monimutkaista ja se ei ole todellisuudessa kannattavaa, ottaen huomioon ruokatuoteiden käytännön käsittelyn erilaisissa pakkauksissa, laatikoissa, kuormalavoilla ja lähetyksissä. IoT mahdollistaa edistyksellisiä ratkaisuita lähetysten ja tuotteiden seurannassa ja jäljittämisessä aina tuotannosta kuluttajalle asti. Siinä missä tuotantoketjun toimijat ovat aikaisemmin toteuttaneet tuotantonsa tarkkailua paikallisesti, voivat he näiden IoT-ratkaisuiden avulla ja perustuen virtuaalisiin esineisiin tarkkailla, kontrolloida, suunnitella ja tehostaa liiketoimintaprosessejaan etäisesti ja tosiaikaisesti internetin ylitse. Ruokatuotteiden jäljitettävyys on usein lakisääteisesti toteutettua, konventionaalisilla järjestelmillä toimivaa ja yksittäisen yrityksen toimintaan keskittyvää toimintaa. Jäljitettävyystietoja käsittelevät järjestelmät ovat usein suljettuja, eivätkä palvele avoimesti ja yhteisesti useita liiketoimintakumppaneita jotka dynaamisesti muuttavat liiketoimintaprosessejaan ja -kumppanuuksiaan tilanteiden muuttuessa. (@sundmaekerInternetFoodFarm2016)
 
-Sensoriteknologioita käytetään kasvavassa määrin ruoan turvallisuuden ja laadunhallinnan järjestelmissä. Lämpötilasensorit ovat yleisessä käytössä kylmäketjujen tarkkailussa. Myös kosteus-, valo- ja etyleenisensoreita käytetään jatkuvasti enemmän. Suurin osa näistä on kuitenkin tietoa tallentavia laitteita, joiden tietoja tarkastellaan vasta jälkikäteen kun laatupoikkeama on havaittu. Langattomien tietoliikennetekniikoiden käyttöönotto näissä sovelluksissa on vasta alkuvaiheessa. Langattomasti toimivien sensorilaitteiden hintojen kohtuullistaminen on keskeinen tekijä laajan käyttöönoton saavuttamiseksi. Useat lupaavat sensoriteknologiat ovat samoin kehityskaarensa alkuvaiheessa, jonka takia tuotteiden mikrobiologista laatua voidaan tarkkailla vain laboratorioissa. Tällöin laaduntarkkailun mikrobiologinen tieto ei ole kovin ajantasaista. Useissa ruoan laaduntarkkailun ratkaisuissa on sovellettu sensorilaitteiden lisäksi ennustavaa analyysiä sekä säilyvyysajan määrittelemiseksi että aktiivisesti kypsymisprosesseihin vaikuttamiseksi. (@sundmaekerInternetFoodFarm2016)
+Sensoriteknologioita käytetään kasvavassa määrin ruoan turvallisuuden ja laadunvalvonnan järjestelmissä. Lämpötilasensorit ovat yleisessä käytössä kylmäketjujen tarkkailussa. Myös kosteus-, valo- ja etyleenisensoreita käytetään jatkuvasti enemmän. Suurin osa näistä on kuitenkin tietoa tallentavia laitteita, joiden tietoja tarkastellaan vasta jälkikäteen kun laatupoikkeama on havaittu. Langattomien tietoliikennetekniikoiden käyttöönotto näissä sovelluksissa on vasta alkuvaiheessa. Langattomasti toimivien sensorilaitteiden hintojen kohtuullistaminen on keskeinen tekijä laajan käyttöönoton saavuttamiseksi. Useat lupaavat sensoriteknologiat ovat samoin kehityskaarensa alkuvaiheessa, jonka takia tuotteiden mikrobiologista laatua voidaan tarkkailla vain laboratorioissa. Tällöin laaduntarkkailun mikrobiologinen tieto ei ole kovin ajantasaista. Useissa ruoan laaduntarkkailun ratkaisuissa on sovellettu sensorilaitteiden lisäksi ennustavaa analyysiä sekä säilyvyysajan määrittelemiseksi että aktiivisesti kypsymisprosesseihin vaikuttamiseksi. (@sundmaekerInternetFoodFarm2016)
 
 **Älykäs ruoan prosessointi ja valmistus** 
 Tällä hetkellä ruoan prosessoinnin laitokset ovat vielä usein keskitetysti kontrolloituja. IoT-ratkaisujen soveltaminen ruokatuotannon tehtaissa tulee perustumaan hajautetumpaan hallintamalliin, jossa koneet muuttuvat järjestelmiksi joilla on omaa tiedonkäsittelykapasiteettia ja lisättyä älykkyyttä ja jotka kommunikoivat suoraan toisten koneiden kanssa. Tälläisissa tehtaissa laitteisto on yhä suuremmissa määrin autonomista, hoitaen itse tarvitsemansa huollon järjestelyt ja mukautuen tosiaikaisesti muuttuviin tuotantovaatimuksiin. Tämä lähestymistapa on nähtävissä muun muassa Industry 4.0 ja Factory of the Future -aloitteissa. (@sundmaekerInternetFoodFarm2016)
@@ -651,7 +651,7 @@ Ruoan tuotannon IoT-sovellukset ja teknologiat ovat vielä pirstaleisia eikä ni
     * IoT-teknologioiden käytettävyyden edelleen kehittäminen maatalouden käyttötapauksia ja olosuhteiden vaatimuksia vastaaviksi. (@sundmaekerInternetFoodFarm2016)
 
 Näiden edistysaskeleiden toteutumisen voidaan odottaa johtavan edellä mainittujen sovellusalueiden kehittymiseen huomattavalla tavalla. **Täsmäviljely** voi kehittyä **smart farming**iksi, jossa maatilasta muodostuu älykäs yhteistoimintakykyisten laitteiden verkko. Keskeinen edistysaskel tulee olemaan havainnoinnin ja tarkkailun, älykkään analytiikan ja suunnittelun sekä viljelyprosessien älykkään kontrolloinnin saumaton integraatio kaikissa keskeisissä prosesseissa. **Seuranta ja jäljittäminen** voivat kehittyä kokonaisvaltaiseksi tuotantoketjun läpinäkyvyydeksi aina yksittäisten tuotteiden tasolle asti. Jäljitettävyyden toiminnot voivat edelleen integroitua älykkäiden seurantajärjestelmien kanssa lisäten dataa tuotteiden ominaisuuksista, tuotantotavoista ja tuotannon olosuhteista.
-**Ruoan turvallisuuden ja laadunhallinnan** järjestelmät voivat kehittyä reaktiivisista lähestymistavoista proaktiivisiin, joissa tuotantoketjuja voidaan tarkkailla, kontrolloida, uudelleensuunnitella ja optimoida etäisesti tosiaikaisen tiedon perusteella. Tämän toteuttamiseksi uusia sensorityyppejä voidaan ottaa käyttöön, tuotetun sensoridatan ajantasaisuutta ja yhteentoimivuutta voidaan parantaa, etähallintaa voidaan parantaa edistyneillä uusilla toimilaitteilla ja laaduntarkkailun järjestelmiä voidaan parantaa lisäämällä niiden älykkyyttä.
+**Ruoan turvallisuuden ja laadunvalvonnan** järjestelmät voivat kehittyä reaktiivisista lähestymistavoista proaktiivisiin, joissa tuotantoketjuja voidaan tarkkailla, kontrolloida, uudelleensuunnitella ja optimoida etäisesti tosiaikaisen tiedon perusteella. Tämän toteuttamiseksi uusia sensorityyppejä voidaan ottaa käyttöön, tuotetun sensoridatan ajantasaisuutta ja yhteentoimivuutta voidaan parantaa, etähallintaa voidaan parantaa edistyneillä uusilla toimilaitteilla ja laaduntarkkailun järjestelmiä voidaan parantaa lisäämällä niiden älykkyyttä.
 **Ruoan prosessointi ja valmistus** voi kehittyä notkeiden hallintajärjestelmien avulla, jolloin tuotannon koneet toimivat autonomisina, älykkäinä ja yhteenliitettyinä kokonaisuuden osina. Tämän toteuttamiseksi voidaan koneisiin integroida tehokkaita sensoreita tuotannon tosiaikaisen tarkkailun ja koneiden yhteentoimivuuden varmistamiseksi. Tuotannon seurantajärjestelmien algoritmien avulla voidaan havaita laatupoikkeamia aikaisessa vaiheessa.
 **Kuluttajien ruokatietoisuus** voi kehittyä lähtökohdiltaan kuluttajakeskeiseksi kokonaisuudeksi, jossa erilaiset sovellukset ja järjestelmät voivat yhdistää ruokakeskeistä tietoa eri sidosryhmiltä personoitujen ruokasuositusten tuottamiseksi.  (@sundmaekerInternetFoodFarm2016)
 
@@ -665,37 +665,49 @@ IoT-ratkaisut mahdollistavat fyysisten objektien virtausten ja niihin liittyvän
     * **Notkeat ruokatehtaat**: IoT-ratkaisut mahdollistavat hajautetun ja joustavan ruoan prosessoinnin ruokaa havainnoivien sensoreiden, paikallisen tietojenkäsittelyn ja tiedonhankinnan sekä kytkettävyyden lisäämisellä ruoan prosessoinnin laitteisiin.
     * **Virtuaaliset ruoan tuotantoketjut**: IoT-ratkaisut mahdollistavat ruoan tuotantoprosessien hallinnoinnin virtualisoinnin, mikä puolestaan mahdollistaa edistyneen etänä tehtävän suunnittelun, uudelleensuunnitelun, tarkkailun ja kontrolloinnin sekä uudet liiketoimintamallit.
 
+### Väliotsikko - AIoT:n teknologioiden ryhmittelyt
 
-**AIoT-ratkaisuissa käytettävät teknologiat** on ryhmitelty seuraavasti: 
-Valvottavat muuttujat
-Toimilaitteet
-Virtalähteet
-Tietoliikennetekniikat
-Verkon reunan tietojenkäsittely (edge computing)
-Tiedon tallennusstrategiat
-Tiedon visualisointistrategiat
+**AIoT-ratkaisuissa käytettävät teknologiat**
+AIoT-ratkaisuissa sovelletut teknologiat ja infrastruktuurit on jaoteltu seitsemään ryhmään Talavera et al. (2017) kirjallisuuskatsauksen mukaisesti: 
+1. Valvottavat ympäristömuuttujat
+2. Toimilaitteet
+3. Voimanlähteet
+4. Tietoliikennetekniikat
+5. Verkon reunan tietojenkäsittely (edge computing)
+6. Tiedon tallennusstrategiat
+7. Tiedon visualisointistrategiat
+
 
 *Tunnistus-, anturointi- ja tietoliikennetekniikka*
 *Väliohjelmistot*
 *Tietojenkäsittely (?)*
 
-*Oli, pois:tunnistus-, anturointi- ja tietoliikennetekniikka, väliohjelmistot ja tietojenkäsittely?*
 
-**AIoT-ratkaisujen sovellusalueet** on ryhmitelty seuraavasti: 
-valvonta
-kontrollointi
-logistiikka
-ennustus
+
+Talavera et al. (2017) kirjallisuuskatsauksessa **AIoT-ratkaisujen sovellusalueet** on ryhmitelty seuraavasti: 
+1. valvonta
+2. kontrollointi
+3. logistiikka
+4. ennustus
 yleiset sovellukset
 
-*vai olisiko sittenkin "peltotuotanto, kasvihuonetuotanto, puutarhatuotanto, muut"?*
-
-**AIoT:n avoimet haasteet** on ryhmitelty seuraavasti: standardisaatio, tieto- ja kyberturvallisuus, laitteiden energiatehokkuus, laitteiden kestävyys, langaton tiedonsiirto, analytiikka, AIoT:n ekosysteemin laajentaminen, ohjelmistokehitys ja muut haasteet.
+**AIoT:n avoimet haasteet** on ryhmitelty seuraavasti: 
+standardisaatio, 
+tieto- ja kyberturvallisuus, 
+laitteiden energiatehokkuus, 
+laitteiden kestävyys, 
+langaton tiedonsiirto, 
+analytiikka, 
+AIoT:n ekosysteemin laajentaminen, 
+ohjelmistokehitys ja 
+muut haasteet.
 
 **Esitetyt AIoT-arkkitehtuurit** on koottu omaan osioonsa.
 
 
 ### AIoT:n teknologiat
+
+#### Meta (poistettava otsikko)
 
 *Mitkä ovat keskeiset AIoT:n teknologiaratkaisuit?*
 
@@ -705,12 +717,8 @@ Keskeisimpiä yleisen IoT:n mahdollistavia teknologioita ovat Atzori et al. (201
 *tietoliikennetekniikka:* Langattomassa tietoliikennetekniikassa käytettävien radiolaitteiden koko, paino ja energiankulutus ovat pienentyneet ja hinta laskenut huomattavasti. Tämä on mahdollistanut niiden sulauttamisen lähes kaikkiin esineisiin, mikä on osaltaan johtanut kehitystä IoT-konseptin suuntaan. (@atzoriInternetThingsSurvey2010)
 *väliohjelmistot?* 
 
-Talavera et al. tekemässä kirjallisuuskatsauksessa IoT-teknologioita käsittelevät tutkimukset on jaoteltu neljään teknologian osa-alueeseen: **valvonta** (monitoring) 46, **kontrollointi** (control) 17, **logistiikka** (logistics) 5 ja **ennustus** (prediction) 4. Suurin osa katsauksessa käsitellyistä tutkimuksista keskittyi valvotaan, konrollointiin vastaavasti neljännes, logistiikan ja ennusteiden ollessa harvinaisempia tutkimuskohteita.
-
 
 #### ? Tunnistus-, anturointi- ja tietoliikennetekniikka
-
-
 
 *WSN WSAN*
 
@@ -718,7 +726,6 @@ Talavera et al. tekemässä kirjallisuuskatsauksessa IoT-teknologioita käsittel
 
 
 #### ? Väliohjelmistot
-
 
 *Väliohjelmistot per Atzori et al. & Tzounis et al.*
 
@@ -735,6 +742,15 @@ Väliohjelmistot voivat toimia sovellustasona tai ohjelmistoina järjestelmien o
 
 Maatalouden tuottama data on yleensä hyvin heterogeenistä niin datan kuvaaman kohteen kuin datan tuotantotapojenkin osalta. (@wolfertBigDataSmart2017)
 
+*Gubbi et al. (2013) (@gubbiInternetThingsIoT2013) 3.3 IoT Elements 3.3.1 RFID 3.3.2 WSN 3.3.3 Addressing scemes 3.3.4 Data storage and analytics 3.3.5 Visualization*
+
+Seuraavassa osiossa käsitellään kastsauksen aineistossa viitatut teknologiasovellukset ja kirjallisuuskatsausten havainnot osa-alueittain **valvonnan**, **kontrolloinnin**, **logistiikan**, **ennustuksen** osioissa. Lisäksi käsitellään **maatalouden IoT:n yleiset sovellukset** *ja muut?* omana osa-alueenaan.
+
+
+#### Maatalouden IoT:n yleiset sovellukset
+
+**maatalouden yleiset sovellukset** 26 (@verdouwInternetThingsAgriculture2016a)
+Verdouw et al. kirjallisuuskatsauksessa useat julkaisut käsittelevät täsmäviljelyä ja erityisesti täsmäviljelyn tietojärjestelmiä. Osa keskittyy tuotantoympäristön tarkkailuun ja kontrollointiin kuten kastelujärjestelmiin tai vastaaviin. Muutamassa julkaisussa keskitytään IoT-perustaisen yleisen hallinta- ja tietojärjestelmän suunnitteluun. Muita relevantteja aiheita käsitellyissä julkaisuissa ovat ruoan laadun parantaminen, ruoan turvallisuus ja jäljitettävyys, veden hallinta, maaseudun kehittäminen, kaupunkiviljely ja kuluttajien vuorovaikutus. 
 
 ### AIoT:n sovellusalueet
 
@@ -743,21 +759,8 @@ Tzounis et al. kirjallisuuskatsauksessa sovellusalueet ovat:
 
 Verdouw et al. kirjallisuuskatsauksessa sovellusaluet ovat: **tuotantoketju** 68, **peltotuotanto** 33, **maatalouden yleiset sovellukset** 26, **kasvihuonetuotanto** 14, **avomaan tuotanto** 8. Lisäksi sovellusalueita ovat: Kalastus ja vesiviljely 3, ruoan kulutus 5, vapaa-ajan viljely 3 ja eläintuotanto 8. Nämä sovellusalueet jäävät opinnäytetyön aiheen ulkopuolelle, eikä niitä käsitellä tässä kirjallisuuskatsauksessa. Lisäksi Verdouw et al. havaitsivat käsitellyistä julkaisuista aiheeseen liittyviä yleisiä teemoja, jotka ovat **täsmäviljely**, **ruoan jäljitettävyyden järjestelmät**, **ruoan turvallisuuden ja laadunvalvonnan järjestelmät** ja **kuluttajien vuorovaikutus**.
 
-Talavera et al. (2017) ryhmittelivät AIoT-ratkaisuissa sovelletut teknologiat ja infrastruktuurit seitsemään ryhmään: 
-#### Valvottavat muuttujat *(sensing variables)*
-#### Toimilaitteet
-#### Voimanlähteet *(power sources)*
-#### Tietoliikennetekniikat
-#### Verkon reunan tietojenkäsittely (edge computing)
-#### Tiedon tallennusstrategiat
-#### Tiedon visualisointistrategiat
+Talavera et al. tekemässä kirjallisuuskatsauksessa IoT-teknologioita käsittelevät tutkimukset on jaoteltu neljään teknologiasovellusten osa-alueeseen: valvonta, kontrollointi, logistiikka ja ennustus. Suurin osa katsauksessa käsitellyistä tutkimuksista keskittyi valvotaan, konrollointiin vastaavasti neljännes, logistiikan ja ennusteiden ollessa harvinaisempia tutkimuskohteita. Määrällisesti osa-alueita käsittelevät tutkimukset jakautuvat seuraavasti: valvontaa käsitteleviä tutkimuksia on 46, kontrollointia käsitteleviä 17, logistiikkaa 5 ja ennustusta 4.
 
-(@talaveraReviewIoTApplications2017)
-
-
-*Gubbi et al. (2013) (@gubbiInternetThingsIoT2013) 3.3 IoT Elements 3.3.1 RFID 3.3.2 WSN 3.3.3 Addressing scemes 3.3.4 Data storage and analytics 3.3.5 Visualization*
-
-Seuraavassa osiossa käsitellään kastsauksen aineistossa viitatut teknologiasovellukset ja kirjallisuuskatsausten havainnot osa-alueittain **valvonnan**, **kontrolloinnin**, **logistiikan**, **ennustuksen** osioissa. Lisäksi käsitellään **maatalouden IoT:n yleiset sovellukset** *ja muut?* omana osa-alueenaan.
 
 #### Valvonta
 
@@ -824,10 +827,6 @@ Talavera et al. (2017) kirjallisuuskatsauksessa käsiteltyjen logistiikan osa-al
 *ks. edellisistä kohdista aikaiset varoitukset kans*
 
 
-#### Maatalouden IoT:n yleiset sovellukset
-
-**maatalouden yleiset sovellukset** 26 (@verdouwInternetThingsAgriculture2016a)
-Verdouw et al. kirjallisuuskatsauksessa useat julkaisut käsittelevät täsmäviljelyä ja erityisesti täsmäviljelyn tietojärjestelmiä. Osa keskittyy tuotantoympäristön tarkkailuun ja kontrollointiin kuten kastelujärjestelmiin tai vastaaviin. Muutamassa julkaisussa keskitytään IoT-perustaisen yleisen hallinta- ja tietojärjestelmän suunnitteluun. Muita relevantteja aiheita käsitellyissä julkaisuissa ovat ruoan laadun parantaminen, ruoan turvallisuus ja jäljitettävyys, veden hallinta, maaseudun kehittäminen, kaupunkiviljely ja kuluttajien vuorovaikutus. 
 
 
 
