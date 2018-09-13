@@ -120,18 +120,18 @@ Kirjallisuuskatsauksessa käsitellyistä tutkimuksissa AIoT:tä käytetään eni
 ## Meta (poistettava otsikko)
 Tässä luvussa pyritään kuvailemaan toteutetun tutkimuksen tarkoitus, tavoitteet, tutkimuskysymykset, aineisto, menetelmät ja eteneminen.
 
-Opinnäytetyön keskeinen tutkimusongelma on, että maatalouden IoT-ratkaisut eivät ole laajasti tunnettuja, aiheesta ei ole saatavilla yleisluontoisia katsauksia suomen toimintaympäristön näkökulmasta ja aiheetta sivuavia opinnäytetöitä on kirjoitettu vain muutamia.
+Opinnäytetyön keskeinen tutkimusongelma on, että maatalouden IoT-ratkaisut eivät ole laajasti tunnettuja, aiheesta ei ole saatavilla yleisluontoisia katsauksia suomen toimintaympäristön näkökulmasta ja aihetta sivuavia opinnäytetöitä on kirjoitettu vain muutamia.
 
 Tutkimuskysymyksiin pyritään vastaamaan käyttämällä kuvailevaa kirjallisuuskatsausta ja asiantuntijoiden teemahaastatteluja. Käyttämällä tutkimusmenelminä sekä teemahaastatteluja että kirjallisuuskatsausta pyritään lisäämään ymmärrystä tutkittavasta ilmiöstä eri lähestymistapoja käyttäen. *tähän voisi tulla mainita Onwuegbuzie & Frels (2016) s.39 "Multimodal approach"ista, jossa voidaan laajentaa CRLää mm. asiantuntijoiden, secondary data:n s.41 (organisaatioiden keräämiä kyselyitä, tutkimuksia jne.), avulla. secondary data lienee Tutki ja kirjoita s.186 mukaan Valmiit aineistot?*
 
-Opinnäytetyössä pyritään tukemaan laadullista menetelmää käyttämällä menetelmätriangulaatiota eli monimetodista lähestymistapaa. (ks. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 39; @gubriumSageHandbookInterview2012, 284) Menetelmätriangulaatio tehdään soveltamalla määrällistä menetelmää haastattelumateriaalin sisällönanalyysin tulosten tarkastelussa, minkä lisäksi haastattelujen tuloksia kuvaillaan tutkimustuloksissa laadullisesti. 
+Opinnäytetyössä pyritään tukemaan laadullista menetelmää käyttämällä menetelmätriangulaatiota eli monimetodista lähestymistapaa. (ks. @hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 39; @gubriumSageHandbookInterview2012, 284) Menetelmätriangulaatio tehdään soveltamalla määrällistä menetelmää haastattelumateriaalin sisällönanalyysin tulosten tarkastelussa, minkä lisäksi haastattelujen tuloksia kuvaillaan tutkimustuloksissa laadullisesti. 
 
 Kanasen (2010) mukaan menetelmätriangulaatiota voidaan käyttää juuri tutkittavan ilmiön ymmärryksen lisäämiseen. Menetelmätriangulaatio eli useiden menetelmien käyttö on tällöin myös tutkimusstrateginen valinta. (@kananenOpinnaytetyonKirjoittamisenKaytannon2010)
 
 
 ## Tutkimuksen tarkoitus
 
-Opinnäytetyön tarkoituksena on tuottaa lukijalle kattava kuva kasvintuotannossa sovellettavien IoT-ratkaisuiden tilanteesta ja niiden tarjoamista mahdollisuuksista. Tietoa saadaan *tähän keskeiset asiakokonaisuudet* 
+Opinnäytetyön tarkoituksena on tuottaa lukijalle kattava kuva kasvintuotannossa sovellettavien IoT-ratkaisuiden tilanteesta ja niiden tarjoamista mahdollisuuksista. Tietoa saadaan *tähän keskeiset asiakokonaisuudet kuten avoimet haasteet jne.* 
 
 
 ## Tutkimuksen tavoitteet
@@ -229,7 +229,7 @@ Aineiston pelkistämisen analyysimallissa edetään tunnistamalla asiat, joista 
 
 ## Aineisto ja (tutkimus)menetelmät
 
-Aineiston keruumenetelmiä oli useita. Kirjallisuuskatsauksen tekemistä edelsi tutkittavaan ilmiöön tutustuminen alustavien aineistohakujen avulla, keräämällä mahdollisten tiedonantajien kontakteja, käyden asiantuntijakeskusteluja, vierailemalla alan tapahtumissa ja haastatteluja tehden. Kirjallisuuskatsauksen aluksi haettiin IoT:tä yleistasolla ja ilmiönä käsittelevää kirjallisuutta. Seuraavaksi haettiin kasvintuotannon ja maatalouden IoT-sovelluksia käsitteleviä kirjallisuuskatsauksia. Valittujen kirjallisuuskatsausten pohjalta muotoiltiin hakumenetelmät ja valittiin osa lähteistä. Hakumenetelmien tuloksista on valittu tekijän harkinnan mukaan tutkittavaa ilmiötä parhaiten kuvaavat. 
+Aineiston keruumenetelmiä oli useita. Kirjallisuuskatsauksen tekemistä edelsi tutkittavaan ilmiöön tutustuminen alustavien aineistohakujen avulla, keräämällä mahdollisten tiedonantajien kontakteja, käyden asiantuntijakeskusteluja, vierailemalla alan tapahtumissa ja haastatteluja tehden. Kirjallisuuskatsauksen aluksi haettiin IoT:tä yleistasolla ja ilmiönä käsittelevää kirjallisuutta. Seuraavaksi haettiin kasvintuotannon ja maatalouden IoT-sovelluksia käsitteleviä kirjallisuuskatsauksia. Valittujen kirjallisuuskatsausten pohjalta muotoiltiin hakumenetelmät ja valittiin osa lähteistä. Hakumenetelmien tuloksista on valittu tekijän harkinnan mukaan tutkittavaa ilmiötä parhaiten kuvaavat ja työhön sopivat lähteet. 
 
 Tutkimuksen alustavassa vaiheessa ilmiöön tutustuttaessa tehtiin useita hakuja aiheeseen liittyvillä asiasanoilla, selattiin erilaisten organisaatioiden ja julkaisujen verkkosivuja, haettiin asiantuntijakontakteja eri tapahtumista jne. Löydöt merkittiin muistiin mahdollista myöhempää käyttöä varten.
 
@@ -238,40 +238,20 @@ Lisäksi ollaan käytetty aiheeseen tutustuttaessa löydettyjä lähteitä jos n
 
 ### Kuvailevan kirjallisuuskatsausksen toteutus
 
-*7 askelta: **EXPLORATION PHASE** explore topics, 2 initiate search, 3 store & organize information, 4 select/deselect information, 5 expand search to one more MODE, **INTERPRETATION PHASE** 6 analyze & synthesize information, **COMMUNICATION PHASE** 7 present report. Toistetaan tarvittavia askeleita, pyöritään kahta tai useampaa askelta, seurataan johtolankoja niiden tullessa esiin (emergent), haastatellaan tutkijoita (@onwuegbuzieStepsComprehensiveLiterature2016, 54)*
-
-*(@onwuegbuzieStepsComprehensiveLiterature2016, 58) figure 3.3 kuvaaja 7 askeleen toiminnasta*
-
-Alustavien hakujen tulosten mukaan valittiin harkinnanvaraisesti joukko keskeisimpiä asiasanoja. Nämä asiasanat yhdistettiin löydettyjen kirjallisuuskatsausten tutkimusmenetelmissä käytettyihin asiasanoihin, joista valittiin harkinnanvaraisesti keskeisimmät.
+Alustavien hakujen tulosten mukaan valittiin harkinnanvaraisesti joukko keskeisimpiä asiasanoja. Nämä asiasanat yhdistettiin löydettyjen kirjallisuuskatsausten tutkimusmenetelmissä käytettyihin asiasanoihin, joista valittiin harkinnanvaraisesti opinnäytetyön aiheelle keskeisimmät.
 
 Kirjallisuuskatsausten tutkimus- ja hakumenetelmiä käytettiin malleina muotoiltaessa omia vastaavia. Lisäksi katsausten tutkimustuloksia käytettiin verrokkeina omien havaintojen tarkistamisessa.
 
 Muiden katsausten, koosteiden ja vastaavien julkaisujen tuloksia, havaintoja ja tekstejä käytettiin niin ikään omien hakutulosten ja havaintojen vertailuun.
 
-Käytetty hieman erilaisia hakulauseita eri kantoihin niiden vaatimusten ja toimintojen mukaan.
+Eri tietokantoihin tehdyissä hauissa käytettiin kunkin kannan hakutoimintoihin sovellettuja hakulauseita. Usein tämä tarkoitti hakulauseiden lyhentämistä tietokantojen hakutoimintojen sallimiin hakusanamääriin sopiviksi.
 
-*Tähän Talaveran katsauksesta + hakuliitteestä metodia*
-
-
-
-*Tuloksena kohtuullinen määrä tieteellisiä lähteitä.*
-Lähteiden joukosta on valittu aihetta käsittelevät kirjallisuuskatsaukset, joista käydään läpi tuloksien lisäksi tutkimusmenetelmät. Näitä menetelmiä käytetään hyväksi soveltuvin osin seuraavissa aineistohaun vaiheissa. Tällä pyritään varmistamaan, että katsauksissa selkeästi havaitut asiakokonaisuudet tulevat huomioiduksi, hakumenetelmät ja asiasanat ovat laadukkaita sekä tutkittavalle ilmiölle sopivia. 
-
-Kirjallisuuskatsausten käyttämät tietokannat:
-    Talaveran: Google Scholar, IEEE, Scopus
-    Kamilaris: IEEE, ScienceDirect, Web of Science, Google Scholar
-    Verdouw: Scopus, Google Scholar 
-    "*We searched in the Scopus database for papers that on the one hand include Internet of Things or IoT in the title and on the other hand agriculture, farming or food in the title, abstract or the keywords section. In addition, we used generic references on IoT and enabling technologies by using Google scholar especially searching for review articles that provide an overview of the application of specific enabling technologies in the agricultural domain.*"
-
-
+Hakujen tuloksena saatiin joukko erilaisia julkaisuita, joiden joukosta on valittu aihetta käsittelevät kirjallisuuskatsaukset. Kirjallisuuskatsauksista käytiin läpi tuloksien lisäksi tutkimusmenetelmät. Näitä menetelmiä käytettiin soveltuvin osin mallina seuraavissa aineistohaun vaiheissa. Tällä pyrittiin varmistamaan, että katsauksissa selkeästi havaitut asiakokonaisuudet tulevat huomioiduksi, hakumenetelmät ja asiasanat ovat laadukkaita sekä tutkittavalle ilmiölle sopivia.
 
 
 #### Kirjallisuuskatsauksen aineistojen haku
 
-*Aineistoa kerättiin myös hakutoiminnoilla löydettyjen tekstien/julkaisujen perusteella automaattisesti suositeltujen julkaisujen joukosta (esimerkiksi ResearchGate:n Suggested for you -toiminto sekä IEEE Xplore:n Related Articles -toiminto) sekä asiantuntijakeskusteluissa suositeltujen julkaisujen joukosta.*
-
-Alustavia aineistohakuja tehtiin hakukoneista Google-haulla (https://google.com) ja Google Scholar -haulla (https://scholar.google.fi) sekä ResearchGate:n (https://www.researchgate.net) haku- ja suositustoimintojen avulla. Haaga-Heliaan ostetuista tietokannoista (http://libguides.haaga-helia.fi/az.php) alustavia hakuja tehtiin tietokantoihin: 
-
+Alustavia aineistohakuja tehtiin hakukoneista Google-haulla (https://google.com) ja Google Scholar -haulla (https://scholar.google.fi) sekä ResearchGate:n (https://www.researchgate.net) haku- ja suositustoimintojen avulla. Haaga-Helian kirjaston tarjoamista tietokannoista (http://libguides.haaga-helia.fi/az.php) alustavia hakuja tehtiin seuraaviin: 
 * Passport Global Market (http://go.euromonitor.com/passport), 
 * Doria (http://www.doria.fi), 
 * Elsevier ScienceDirect Freedom Collection (https://www.elsevier.com/solutions/sciencedirect), 
@@ -279,56 +259,42 @@ Alustavia aineistohakuja tehtiin hakukoneista Google-haulla (https://google.com)
 * Sage Premier SAGE Journals Online (https://uk.sagepub.com/en-gb/eur/sage-premier), 
 * IEEE Xplore Electronic Library (https://ieeexplore.ieee.org/Xplore/home.jsp).
 
-*Viitekehyksen kirjojen haku on ilmeisesti erillään, eikä kuvailla tässä vaikka muistiinpanoissa onkin muiden hakujen seassa, ks. Kirjallisuuskatsausten lähteiden haku.md kohta Haettu HHFinnasta <16-04-2018> r274*
+Järjestelmälliseen hakuun valittiin Haaga-Heliaan ostetuista tietokannoista ne, joista voitiin olettaa löytyvän IT-alan julkaisuja, koska tutkittava ilmiötä lähestytään tietotekniikan näkökulmasta ja maatalouden alakohtaisia tietokantoja ei ollut käytettävissä:
+* Aaltodoc (https://aaltodoc.aalto.fi)
+* EBSCO Academic Search Elite (https://www.ebsco.com/products/research-databases/academic-search-elite)
+* ACM Digital Library
+* ProQuest Business Premium
+* Dart
+* Passport Global Market (http://go.euromonitor.com/passport)
+* Sage Premier SAGE Journals Online (https://uk.sagepub.com/en-gb/eur/sage-premier)
+* Theseus
+* Elsevier ScienceDirect Freedom Collection (https://www.elsevier.com/solutions/sciencedirect)
+* IEEE Xplore Electronic Library (https://ieeexplore.ieee.org/Xplore/home.jsp)
 
-Järjestelmälliseen hakuun valittiin Haaga-Heliaan ostetuista tietokannoista ne, joista voitiin olettaa löytyvän IT-alan julkaisuja, koska tutkittava ilmiötä lähestytään tekniikan näkökulmasta ja maatalouden alakohtaisia tietokantoja ei ollut käytettävissä.
+Näiden lisäksi käytettiin Google Scholar -hakukonetta (https://scholar.google.fi).
 
-Aaltodoc (https://aaltodoc.aalto.fi), 
-EBSCO Academic Search Elite (https://www.ebsco.com/products/research-databases/academic-search-elite), 
-ACM Digital Library, 
-ProQuest Business Premium, 
-Dart, 
-Passport Global Market (http://go.euromonitor.com/passport), 
-Sage Premier SAGE Journals Online (https://uk.sagepub.com/en-gb/eur/sage-premier),
-Theseus, 
-Elsevier ScienceDirect Freedom Collection (https://www.elsevier.com/solutions/sciencedirect),
-IEEE Xplore Electronic Library (https://ieeexplore.ieee.org/Xplore/home.jsp).
+Hakulauseissa käytettiin keskeisinä hakusanoina: "IoT", "Internet of Things", "Agriculture", "Precision Farming", "Smart Farming". Hakusanojen  Hakulauseita muokattiin kunkin tietokannan hakutoimintojen mahdollisuuksien puitteissa. Useiden tietokantojen hakutoiminnot rajoittivat hakulauseissa käytettävien hakusanojen määrää. Tällöin maataloutta kuvaavan toisen hakusanaryhmän hakusanoista (ks. Asiasanojen valintaperusteet) jätettiin harkinnanvaraisesti pois vähemmän merkittäviä hakusanoja ja/tai hakulause jaettiin useampaan hakuun. Erilaisten hakulauseiden antamia hakutuloksia vertailtiin keskenään, jonka jälkeen voitiin muotoilla kullekin tietokannalle sopiva hakulause.
 
-Näiden lisäksi käytettiin Google Scholar -hakukonetta (https://scholar.google.fi)
-
-Hakulauseissa käytettiin keskeisinä hakusanoina: "IoT", "Internet of Things", "Agriculture", "Precision Farming", "Smart Farming". Hakulauseita muokattiin kunkin tietokannan hakutoimintojen mahdollisuuksien puitteissa. Useiden tietokantojen hakutoiminnot rajoittivat hakulauseissa käytettävien hakusanojen määrää. Tällöin maataloutta kuvaavan toisen hakusanaryhmän hakusanoista (ks. Asiasanojen valintaperusteet) jätettiin harkinnanvaraisesti pois vähemmän merkittäviä hakusanoja. Erilaisten hakulauseiden antamia hakutuloksia vertailtiin keskenään, jonka jälkeen voitiin muotoilla kullekin tietokannalle sopiva hakulause.
+Tietokantahakujen lisäksi aineistoa kerättiin valittujen julkaisujen perusteella tietokantojen suosittelemien julkaisujen joukosta. Esimerkiksi ResearchGate:n Suggested for you sekä IEEE Xplore:n Related Articles -toiminnot ehdottivat useita lähteiksi valittuja julkaisuja.
 
 
 ##### Asiasanojen valintaperusteet
 
-*per @talaveraReviewIoTApplications2017 Muistiinpanoja.md r67*
-*katso mallia muista oppareista kans!*
+Alustavissa aineistohauissa löydettyjen julkaisujen asiasanojen sekä löydettyjen kirjallisuuskatsausten käyttämien hakusanojen joukosta koottiin tutkittavalle ilmiölle keskeisimmät hakusanat. Asiasanojen valinnassa käytettiin vain englanninkielisiä sanoja, koska suomenkielisten aineistojen arvellaan käyttävän sekä suomen- että englanninkielisiä asiasanoja ja löytyvän niiden avulla. IoT:tä käsittelevien yleisteosten asiasanat jätettiin pois, koska kirjojen ilmiölle merkityksellisiksi arvioidut asiasanat toistuivat myös muualla aineistossa ja ne tulivat valituiksi sitä kautta. Lisäksi kirjallisuuskatsauksen seuraavissa vaiheissa ei enää haettu IoT:tä yleisesti käsittelevää kirjallisuutta. Samoin pois jätettiin asiasanat, jotka eivät selkeästi liity kasvintuotannon IoT:n tutkimukseen ja teknologiaratkaisuihin.
 
-Alustavissa aineistohauissa löydettyjen julkaisujen asiasanojen sekä löydettyjen kirjallisuuskatsausten käyttämien hakusanojen joukosta koottiin tutkittavalle ilmiölle keskeisimmät hakusanat.
+Kirjallisuuskatsausten hakuun käytettiin hakusanoina alustavissa aineistohauissa löydettyjen kirjallisuuskatsausten asiasanoja. Useiten toistuvat asiasanat "IoT" ja "Internet of Things" valittiin ensimmäiseksi hakusanaryhmäksi. Toiseksi hakusanaryhmäksi valittiin kirjallisuuskatsauksia koskevat asiasanat "literature review", "Systematic literature review" sekä "Survey". Kolmanteen hakusanaryhmään valittiin sellaiset asiasanat, joiden arvioitiin toistuvan kirjallisuuskatsauksissa ja joita ei valittu edellisiin ryhmiin. Kolmanteen ryhmään lisättiin vielä Precision Agriculture, jolloin kolmannen hakusanaryhmään kuuluvat:
+Agriculture
+Agro-industry
+Big data analysis
+Consumer Information
+Environmental monitoring
+IIoT
+Industrial Internet of Things
+Precision Farming
+Precision Agriculture
+Smart Farming
 
-Asiasanojen valinnassa käytettiin vain englanninkielisiä sanoja, koska suomenkielisten aineistojen arvellaan käyttävän sekä suomen- että englanninkielisiä asiasanoja ja löytyvän niiden avulla.
-
-Valintaprosessissa IoT:tä käsittelevien yleisteosten asiasanat jätettiin pois, koska kirjojen ilmiölle merkityksellisiksi arvioidut asiasanat toistuivat myös muualla aineistossa. Lisäksi kirjallisuuskatsauksen seuraavissa vaiheissa ei enää haettu IoT:tä yleisesti käsittelevää kirjallisuutta.
-
-Samoin pois jätettiin asiasanat, jotka eivät selkeästi liity kasvintuotannon IoT:n tutkimukseen ja teknologiaratkaisuihin.
-
-*Kirjallisuuskatsausten hausta ei näy tuloksia missään!? Jätetäänkö pois?*
-**Kirjallisuuskatsausten hakuun** käytettiin hakusanoina alustavissa aineistohauissa löydettyjen kirjallisuuskatsausten asiasanoja. Useiten toistuvat asiasanat "IoT" ja "Internet of Things" valittiin ensimmäiseksi hakusanaryhmäksi. Toiseksi hakusanaryhmäksi valittiin kirjallisuuskatsauksia koskevat asiasanat "literature review", "Systematic literature review" sekä "Survey". Kolmanteen hakusanaryhmään valittiin sellaiset asiasanat, joiden arvioitiin toistuvan kirjallisuuskatsauksissa ja joita ei valittu edellisiin ryhmiin. Kolmanteen ryhmään lisättiin vielä Precision Agriculture, jolloin kolmannen hakusanaryhmään kuuluvat:
-    Agriculture
-    Agro-industry
-    Big data analysis
-    Consumer Information
-    Environmental monitoring
-    IIoT
-    Industrial Internet of Things
-    Precision Farming
-    Precision Agriculture
-    Smart Farming
-
-**Muun aineiston hakuun** käytettiin kirjallisuuskatsausten hakulauseissa käytettyjä hakusanoja, joista valittiin arviolta keskeisimmät kasvintuotannon IoT-ratkaisuiden ja tutkimuksen näkökulmista. Näihin lisättiin muissa aikaisemmissa vaiheissa löydetyt asiasanat, joiden arvioitiin mahdollisesti parantavan hakutulosten kattavuutta.
-
-Asiasanoista muodostettiin hakulause, joka on jaettu kahteen ryhmään. Ensimmäiseen ryhmään valittiin asiasanat "IoT" ja "Internet of Things". Toiseksi ryhmäksi valittiin
-
+Aineiston hakuun käytettiin löydettyjen kirjallisuuskatsausten hakulauseissa käytettyjä hakusanoja, joista valittiin arviolta keskeisimmät kasvintuotannon IoT-ratkaisuiden ja tutkimuksen näkökulmista. Näihin lisättiin muissa aikaisemmissa vaiheissa löydetyt asiasanat, joiden arvioitiin parantavan hakutulosten kattavuutta. Asiasanoista muodostettiin hakulause, joka on jaettu kahteen ryhmään. Ensimmäiseen ryhmään valittiin asiasanat "IoT" ja "Internet of Things". Toiseksi ryhmäksi valittiin:
 Agriculture
 Precision Agriculture
 Smart Agriculture
@@ -383,12 +349,6 @@ Seed
 Water
 Weather
 
-*tarvitaanko tähän hakusanojen valintaan muuta kuvailua?*
-
-
-#### MAHD. Kirjallisuuskatsauksen aineiston analyysimenetelmä
-
-*Tarvitaanko kuvailevasta kirjallisuuskatsausksesta Aineiston analyysimenetelmä -kappaletta?*
 
 ### Asiantuntijoiden teemahaastattelut
 
@@ -396,54 +356,47 @@ Weather
 
 Kokonaisuutena teemahaastatteluissa pyrittiin tuomaan esille AIoT:n erilaisia ilmentymiä mahdollisimman laaja-alaisesti. Yksittäisissä teemahaastatteluissa pyrittiin syventymään kunkin haastateltavan asiantuntijan erikoisalaan ja kokemuksiin. Tämän takia teemahaastattelujen kysymykset pidettiin avoimina ja kutakin teemaa käsiteltiin haastateltavan asiantuntemuksen mukaan.
 
-Teemahaastattelu sopii tekijän näkemyksen mukaan menetelmänä luontevasti tässä opinnäytetyössä tehtyihin asiantuntijahaastatteluihin, koska haastattelujen rakenne ei ole rajattu tiettyihin ennalta määriteltyihin kysymyksiin vaan nojautuu haastatteluille asetettuihin teemoihin. Teemahaastattelun eteneminen tapahtuu näiden keskeisten teemojen varassa ja haastattelun aihepiirit ovat kaikille haastateltaville samat. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 47-48) Tämä mahdollistaa joustavasti kunkin haastateltavan oman asiantuntemusalueen käsittelyn.
+Teemahaastattelu sopii tekijän näkemyksen mukaan menetelmänä luontevasti tässä opinnäytetyössä tehtyihin asiantuntijahaastatteluihin, koska teemahaastattelujen rakenne ei ole rajattu tiettyihin ennalta määriteltyihin kysymyksiin vaan nojautuu haastatteluille asetettuihin teemoihin. Teemahaastattelun eteneminen tapahtuu näiden keskeisten teemojen varassa ja haastattelun aihepiirit ovat kaikille haastateltaville samat. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 47-48) Tämä mahdollistaa joustavasti kunkin haastateltavan oman asiantuntemusalueen käsittelyn.
 
-Hirsjärven ja Hurmeen esittämän joustavuusperiaatteen mukaisesti teema-alueiden etukäteen hahmottelulla pyrittiin "turvaamaan tarvittavan tiedon saanti" sekä antamaan harkinnan varaa yksittäisissä haastatteluissa käsiteltäviin ilmiöihin (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015).
-
-Saman kaltaisesti Kanasen (2010) mukaan haastattelutilanteissa voi ilmetä ennalta arvaamattomia polkuja, joita haastattelijan tulisi voida joustavasti seurata niiden ilmetessä (@kananenOpinnaytetyonKirjoittamisenKaytannon2010, 56).
+Hirsjärven ja Hurmeen esittämän joustavuusperiaatteen mukaisesti teema-alueiden etukäteen hahmottelulla pyrittiin sekä "turvaamaan tarvittavan tiedon saanti" että antamaan harkinnan varaa yksittäisissä haastatteluissa käsiteltäviin ilmiöihin (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015). Saman kaltaisesti Kanasen (2010) mukaan haastattelutilanteissa voi ilmetä ennalta arvaamattomia polkuja, joita haastattelijan tulisi voida joustavasti seurata niiden ilmetessä (@kananenOpinnaytetyonKirjoittamisenKaytannon2010, 56).
 
 Kuvaillun kaltainen joustavuus mahdollisti tässä tapauksessa teemojen ja haastattelukysymysten  harkinnanvaraisen täsmentämisen aikaisemmista haastatteluista saatujen kokemusten perusteella. Laadullisen tutkimuksen ominaispiirteenä onkin tutkimusmenetelmällisten ratkaisuiden täsmentyminen tutkimuksen edetessä (@valliIkkunoitaTutkimusmetodeihinNakokulmia2018, 73).
 
-Teemahaastatteluja tulisi yleisesti tehdä syvällisemmän tiedon hankkimiseksi useita kierroksia, mutta opinnäytetyön rajatun työmäärän ja ajan puitteissa päädyttiin tekemään vain yksi haastattelukierros. 
-
-Haastatteluista saatujen tietojen luotettavuutta pyrittiin parantamaan hyväksyttämällä haastatteluista tehdyt johtopäätökset muistiinpanoineen haastateltavalla.
+Teemahaastatteluja tulisi yleisesti tehdä syvällisemmän tiedon hankkimiseksi useita kierroksia, mutta opinnäytetyön rajatun työmäärän ja ajan puitteissa päädyttiin tekemään vain yksi haastattelukierros. Haastatteluista saatujen tietojen luotettavuutta pyrittiin parantamaan hyväksyttämällä haastatteluista tehdyt johtopäätökset muistiinpanoineen haastateltavalla.
 
 #### Haastateltavien valinta
 
 Haastateltavien määrää rajoitti käytettävät resurssit ja aika. Opinnäytetyön laajuuden ollessa rajattu, päädyttiin viiteen haastateltavaan mikä on tekijän mielestä ilmiön monitahoisuuden huomioon ottaen pieni määrä. Toisaalta Hirsjärven ja Hurmeen (2015, 59) mukaan voidaan laadullisessa tutkimuksessa jo muutaman haastateltavan avulla saada merkittävää tietoa. Haastateltavien valinnassa edettiin aluksi keräämällä kontakteja ja keskustelemalla mahdollisten haastateltavien kanssa erilaisissa tapahtumissa. Samalla pyrittiin keskusteluissa myös Hirsjärven ja Hurmeen (2015, 59) sekä Tuomin ja Sarajärven (2018, 99) kuvailevan lumipallomenetelmän omaisesti hankkimaan uusia kontakteja. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 59; @tuomiLaadullinenTutkimusJa2018, 99)
 
-Haastateltavien valintaan vaikutti suurelta osin haastateltavien lähestyttävyys. Useita lupaavia kontakteja ei saatu haastateltaviksi kokeilevien keskustelujenkaan jälkeen ja useilta kontaktoiduilta ei saatu vastauksia haastattelupyyntöihin. 
+Haastateltavien valintaan vaikutti suurelta osin haastateltavien lähestyttävyys. Useita lupaavia kontakteja ei saatu haastateltaviksi alustavien keskustelujen jälkeen ja useilta kontakteilta ei saatu vastauksia haastattelupyyntöihin. 
 
 Haastateltaviksi olisi ollut hyvä saada valittujen asiantuntijoiden lisäksi kasvihuonetuotantoon erikoistuneita asiantuntijoita sekä viljelijöitä kasvihuone-, puutarha- ja peltotuotannon aloilta.
 
 
 #### Teemahaastatteluiden toteutus
 
-Haastattelujen teemat laadittiin *mikä on nimitys pohjatyölle, kun tutkimusaiheeseen perehdytään ensimmäisessä vaiheessa?* kerätyn materiaalin ja alustavien keskustelujen perusteella.
+Haastattelujen teemat laadittiin alustavilla hauilla kerätyn aineiston ja alustavien keskustelujen perusteella. Poiketen yleisistä teemahaastattelujen menetelmäohjeista haastatteluiden teemoja voitiin muutettaa tarvittaessa ennen haastatteluja harkinnanvaraisesti, mutta pitäen huolta kaikkien teemojen käsittelystä kaikissa haastatteluissa. Perusteena tälle on se, että tämän työn asiantuntijahaastatteluissa ei ollut tarpeellista tutkia haastateltavien reaktioita tietyssä järjestyksessä esille otettuihin teemoihin. Tarvittaessa teemojen hienosäätöä tehtiin kunkin haastateltavan asiantuntijan erikoistumisen mukaan, ottaen huomioon aikaisemmista haastatteluista saadut kokemukset ja taustatyöstä saadut tiedot. Haastattelun teemoja voitiin järjestellä uudelleen myös haastattelutilanteen niin vaatiessa, myötäillen haastattelun kulkua teemasta toiseen.
 
-*"Puolistrukturoiduille menetelmille on siis ominaista, että jokin haastattelun näkökohta on lyöty lukkoon, mutta ei kaikkia." (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 47)*
-
-Tämä ohje on tarkoitettu henkilöiden reaktioiden tarkasteluun, mikä ei tässä opinnäytetyössä ole tutkimuksen kohteena (*LÄHDE?*). Tämän takia teemahaastatteluiden teemoja muutettiin ennen haastatteluja harkinnanvaraisesti kunkin haastateltavan asiantuntijan erikoistumisen mukaan, ottaen huomioon aikaisemmista haastatteluista saadut kokemukset ja taustatyöstä saadut tiedot. Haastattelun teemoja voitiin järjestellä uudelleen myös haastattelutilanteen niin vaatiessa, myötäillen haastateltavan *taipumuksia?*.
-
-*Milloin haastateltiin?*
-*Missä haastateltiin?*
+Haastattelut toteutettiin 8.11.2017 - 11.4.2018 välisenä aikana. Haastateltavat saivat itse valita haastattelulle sopivan paikan ja ajankohdan, mitkä olivat yleensä arkipäivisin haastateltavien työpaikoilla. Yksi haastattelu tehtiin haastateltavan kotona ja yksi puhelimitse.
 
 Haastattelujen litteroinnissa käytetään yleiskielistä litterointia. Yleiskielistä litterointia tarkempaa sanatarkkaa litterointia on käytetty, jos sanojen poistamisella litteroinnista on arvioitu olevan tarkoitusta mahdollisesti muuttava vaikutus.
 
 #### Haastatteluaineiston analyysimenetelmä
 
-"Koska opinnäytetyön tutkimuskysymyksillä haettiin tietoa laadulliseen
-tutkimusongelmaan, valittiin aineiston analyysimenetelmäksi sisällönanalyysi." *tähän kuvaus sisällönanalyysistä, systemaattinen aineiston analyysimenetelmä, jolla voidaan järjestellä ja kuvata tutkimusaineistoa. Keskeisenä on löytää väittämiä, jotka ilmaisevat jotain tutkittavasta ilmiöstä. Vastausta haetaan tutkimuksen tarkoitukseen ja tutkimus-tehtäviin. Tutkimustehtävät voivat tarkentua aineiston keruun ja analyysin aikana. (Kylmä & Juvakka 2007, 110-119.)*
+Haastatteluaineiston analyysimenetelmäksi valittiin sisällönanalyysi, koska opinnäytetyön tutkimusongelma on laadullinen. Tällä pyritään tuomaan aineistosta esille systemaattisesti sen laadullisia ominaisuuksia ja näin vastaamaan opinnäytetyön tutkimuskysymyksiin.
+
+Sisällönanalyysiä käytetään tutkimusaineiston systemaattisena analyysimenetelmänä, jolla järjestellään ja kuvaillaan tarkasteltavaa aineistoa. Analyysin keskeinen tehtävä on löytää tutkittavaa ilmiötä kuvailevia väittämiä, joilla voidaan vastata tutkimustehtäviin.
+
+
 
 *Hirsjärvi et al. Tutkimushaastattelu... s.137 (7.1 Analyysin yleisiä piirteitä) "Neljännessä lähestymistavassa haastattelija tulkitsee (litteroitua) aineistoa joko yksin tai yhdessä muiden tutkijoiden kanssa. Tässä voidaan käyttää kolmea menettelyä: 1) Aineistoa järjestetään ja tuodaan esiin sen rakentuminen. Tämä on usein välttämätöntä, kun on kyseessä laaja aineisto. Tämä vaihe tapahtuu nykyisin usein litteroimalla ja analysoimalla aineistoa tietokoneella. 2) Aineiston selventäminen. Tässä eliminoidaan suuresta aineistosta pois asiaan kuulumattomia osia: toistoja ja ei-olennaisia seikkoja. 3) Varsinainen analyysi merkitsee tiivistämistä, luokittelua, narratiivin etsimistä, tulkintaa ja ad hoc -menettelyä (tästä tarkemmin tuonnempana)."*
 
 ##### Sisällönanalyysi
 
-*Olisi tyylikästä, jos kaikki IoT-ketjun osa-alueet tulisivat tasaisesti esille, mutta epätasaisuus saattaa viitata AIoT-sovellusten kypsyyden keskeneräisyyteen, omaksumiseen, käytettävyyteen jne.*
 
 *Koska analyysi on tehty kokonaan kirjoittajan toimesta, on siinä suurempi vaara virheisiin kuin useamman tekijän tarkistamissa vastaavissa.*
 
-*Jos affiniteettianalyysissä/taulukoinnissa/sisällönanalyysissä korostuvat integraatiot ja muut kokonaisuuden luomiseen tähtäävät asiasisällöt, voisi ehkä ja mahdollisesti päätellä, että ollaan vaiheessa. :)*
+
 
 *Tuomi ja Sarajärvi 4.4.5 teoriaohjaava sisällönanalyysi: lähtökohdiltaan samoin kuin aineistolähtöinen sisällönanalyysi, mutta abstrahoinssa empiirinen aineisto liitetään teoreettisiin käsitteisiin. Aineistosta luodut vs. jo tiedetyt*
 *keskeistä: poimiiko alkup. aineistosta asioita alun perinkään "teorian" mukaan vai lähestytäänkö aineistosta sen omilla ehdoilla, vasta edetessä pakotetaan sen tiettyyn sopivaksi katsottuun "teoriaan".*
@@ -454,7 +407,7 @@ tutkimusongelmaan, valittiin aineiston analyysimenetelmäksi sisällönanalyysi.
 
 *Tuomi ja Sarajärvi "Ehkä keskeisintä ei kuitenkaan ole se, millä nimellä analyysia kutsutaan, vaan se, että se on tehty systemaattisesti, että lukija ymmärtää, mitä on tehty ja että tulokset ovat perusteltuja."*
 
-*tämä kappale on tässä eräänlaisenä tiivistelmänä* Sisällönanalyysiä käytetään yleisesti haettaessa vastauksia laadullisiin tutkimuskysymyksiin. (LÄHDE?) Haastattelumateriaalin analysointiin valittiin sisällönanalyysin kaltainen metodi, jolla pyrittiin tuomaan esille haastatteluissa käsiteltyjen teemojen esiintymiä ja yhteyksiä. Aineistolähtöisellä metodilla pyrittiin myös parantamaan havaintojen luotettavuutta.
+*tämä kappale on tässä eräänlaisenä tiivistelmänä* Sisällönanalyysiä käytetään yleisesti haettaessa vastauksia laadullisiin tutkimuskysymyksiin. Haastattelumateriaalin analysointiin valittiin *sisällönanalyysin kaltainen menetelmä*, jolla pyrittiin tuomaan esille haastatteluissa käsiteltyjen teemojen esiintymiä ja yhteyksiä. Aineistolähtöisellä metodilla pyrittiin myös parantamaan havaintojen luotettavuutta.
 Havaittujen esiintymien yleisyyden, samankaltaisuuksien tarkastelun ja havainnollistamisen avulla pyritään sekä trianguloimaan haastattelumateriaalista tehtyjä johtopäätöksiä että tuottamaan lukijalle käsitys haastattelumateriaalin keskeisistä teemoista.
 
 Tutkittaessa eri metodeita haastattelumateriaalin havainnollistamiseen ja tiivistämiseen tutustuttiin pintapuolisesti ensin affiniteettianalyysiin, sisällönanalyysiin, aineistolähtöiseen teoriaan (Grounded theory, ankkuroitu teoria), sisällön teemoitteluun ja taulukointiin. 
@@ -733,7 +686,7 @@ Keskeisimpiä yleisen IoT:n mahdollistavia teknologioita ovat Atzori et al. (201
 *missä vertailtaisiin visioita iof2020 ja tiekartan välillä?*
 Väliohjelmistojen avulla voidaan yksinkertaistaa sovelluskehitystä sekä helpottaa vanhojen teknologioiden integrointia uusien kanssa. Näiden IoT-ratkaisuiden kehitykselle keskeisten vahvuuksien takia väliohjelmistot ovat keränneet kirjallisuudessa runsaasti huomiota. (@atzoriInternetThingsSurvey2010)
 
-Väliohjelmistot voivat toimia sovellustasona tai ohjelmistoina järjestelmien osien välillä, IoT-ratkaisuissa usein laitteiden ja sovellustason välissä. Väliohjelmistoilla voidaan abstraktoida laitteiden toiminnallisuuksia antaen sovelluskehittäjille geneerisiä ohjelmistokehityksen työkaluja, joiden avulla kehittäjien ei tarvitse keskittyä tiettyjen laitteiden teknisiin yksityiskohtiin. Geneerisillä työkaluilla voidaan näin väliohjelmistoa hyväksi käyttäen tuottaa sovelluksia, jotka ovat yhteensopivia kaikkien väliohjelmiston kanssa yhteensopivien laitteiden kanssa. Tämän lisäksi väliohjelmistojen avulla voidaan yhdistaa pilvipohjainen infrastruktuuri, palvelukeskeinen arkkitehtuuri ja sensoriverkot geneerisellä tavalla, jolloin samoja toiminnallisuuksia voidaan hyödyntää useissa erilaisissa järjestelmissä. (@tzounisInternetThingsAgriculture2017)
+Väliohjelmistot voivat toimia sovelluskerroksena tai ohjelmistoina järjestelmien osien välillä, IoT-ratkaisuissa usein laitteiden ja sovelluskerroksen välissä. Väliohjelmistoilla voidaan abstraktoida laitteiden toiminnallisuuksia antaen sovelluskehittäjille geneerisiä ohjelmistokehityksen työkaluja, joiden avulla kehittäjien ei tarvitse keskittyä tiettyjen laitteiden teknisiin yksityiskohtiin. Geneerisillä työkaluilla voidaan näin väliohjelmistoa hyväksi käyttäen tuottaa sovelluksia, jotka ovat yhteensopivia kaikkien väliohjelmiston kanssa yhteensopivien laitteiden kanssa. Tämän lisäksi väliohjelmistojen avulla voidaan yhdistaa pilvipohjainen infrastruktuuri, palvelukeskeinen arkkitehtuuri ja sensoriverkot geneerisellä tavalla, jolloin samoja toiminnallisuuksia voidaan hyödyntää useissa erilaisissa järjestelmissä. (@tzounisInternetThingsAgriculture2017)
 
 
 *Granell et al. (2016), 7 FI-WARE -hankkeessa toteutetut niin sanotut Generic Enabler - mitäihmettäneovat? - , jotka ovat sovellus- ja käyttötapausagnostisia. Lisäksi GE:t ovat riippumattomia sovellusaloista, kuten ympäristö-, maatalous- tai energia-ala. GE:t abstraktoivat pilvipalvelut, alatason IoT-ratkaisujen tekniset yksityiskohdat ja Big Datan käsittelyn avoimien määrittelyjen ja ohjelmistorajapintojen avulla.*
@@ -984,9 +937,13 @@ Sidosryhmien kohtaamat haasteet liittyvät maatalousalan sidosryhmäverkoston dy
 
 
 *muista myös ITU-arkkitehtuuri*
-*Verdouw et al. (2016) teknologiat ovat vain laite-, tietoliikenne- ja sovelluskerrokset.*
-*Xu et al. (2014) arkkitehtuuri on havainnointikerros (sis. sekä havainnointi (sensing) että kontrollointi (actuation), tietoliikennekerros, palvelukerros ja liittymäkerros (sekä UI että muille järjestelmille).*
-*Talavera et al. (2017) vastaavasti fyysinen, tietoliikenne, palvelu ja sovellus*
+*Xu et al. (2014) arkkitehtuuri on havainnointikerros (sis. sekä havainnointi (sensing) että kontrollointi (actuation), tietoliikennekerros, palvelukerros ja liittymäkerros (sekä UI että muille järjestelmille). "International Telecommunication Union recommends that IoT architecture consists of five different layers: sensing, accessing, networking, middleware, and application layers."*
+
+Katsauksen aineistossa on esitetty useita erilaisia arkkitehtuurimalleja yhteenvetona IoT-järjestelmien toteutuksista. Näillä arkkitehtuureilla pyritään havainnollistamaan järjestelmien osien kuten sensorilaitteiden, tietoverkkojen, yhdyskäytävien, ohjelmistojen, pilvipalveluiden, jne. toiminnallisuuksia ja keskinäisiä riippuvuuksia.
+
+Arkkitehtuurit on usein jaoteltu kerroksittain, esimerkiksi Talavera et al. (2017) kirjallisuuskatsauksessa esitetyssä arkkitehtuurissa kerrokset ovat fyysinen-, tietoliikenne-, palvelu- ja sovelluskerros. (@talaveraReviewIoTApplications2017) Vastaavasti Verdouw et al. (2016) jaottelevat IoT-arkkitehtuurin laite-, verkko- ja sovelluskerroksiin (@verdouwInternetThingsAgriculture2016a). Xu et al. (2014) puolestaan esittivät arkkitehtuurin, jossa jaottelu tehtiin havainnointi-, tietoverkko-, palvelu- ja liittymäkerroksiin (@xuInternetThingsIndustries2014).
+
+
 
 ## Haastattelujen tulokset
 
@@ -994,6 +951,10 @@ Sidosryhmien kohtaamat haasteet liittyvät maatalousalan sidosryhmäverkoston dy
 ### Haastattelujen tuloksien kuvailu teemojen mukaan ryhmiteltyinä
 
 *Tähän lista ryhmittelyn  alikategorioista ja kaaviot niiden havaintojen määristä; ryhmityksen mukaan ja asiasisältöjen mukaan.*
+
+*Jos affiniteettianalyysissä/taulukoinnissa/sisällönanalyysissä korostuvat integraatiot ja muut kokonaisuuden luomiseen tähtäävät asiasisällöt, voisi ehkä ja mahdollisesti päätellä, että ollaan vaiheessa. :)*
+
+*Olisi tyylikästä, jos kaikki IoT-ketjun osa-alueet tulisivat tasaisesti esille, mutta epätasaisuus saattaa viitata AIoT-sovellusten kypsyyden keskeneräisyyteen, omaksumiseen, käytettävyyteen jne.*
 
 
 #### Tekniikka: Tietojenkäsittely (168 havaintoa)
