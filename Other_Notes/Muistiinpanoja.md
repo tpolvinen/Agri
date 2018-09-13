@@ -1763,8 +1763,13 @@ Knuth et al. 2018  Adoption of Farm Management Systems for Cross Compliance - An
 	Erityinen tarve viljelijöillä on viranomaisvaatimusten (paperisodan/byrokratian) kanssa toimintaan;
 	FMIS-ratkaisun tulisi olla helppokäyttöinen (tarvitaan lisää tutkimusta miten suunnitella FMIS joka on käytettävä ja ymmärrettävä viljelijöille kaikilla koulutustaustoilla; osallistavalla suunnitteluprosessilla), räätälöitävissä viljelijän omia tarpeita ja käyttötapauksia vastaavaksi ja olla saatavilla kohtuulliseen hintaan.
 
+---
 
-
+Taustaan!
+Harnessing-IoT-Global-Development.pdf
+CISCO
+	- Widely disparate definitions of the IoT exist The ITU has defined the IoT as “a global infrastructure for the information society, enabling advanced services by interconnecting (physical and virtual) things based on existing and evolving interoperable information and communication technologies” (Recommendation ITU-T Y 2060) [3] 
+	- According to the ITU GSR 2015 Discussion Paper on regulation and the Internet of Things,25 one possible explanation for why the IoT is advancing rapidly now is that it is moving from a position where it delivers incremental efficiency improvements to existing business models to one where it positively impacts new business models and processes as well [26]
 
 
 
