@@ -84,6 +84,8 @@ Ensin tutustutaan osailmiöhin IoT, IIoT, AIoT ja kasvintuotanto, joiden määri
 ## Esineiden internetin eli Internet of Things:in taustaa
 
 *Tähän IoT:n määritelmät, historia*
+*Madakam et al. 2.2 Genesis, 2.3 Time Series*
+*Enabling Things to Talk 1 Introduction to the IoT ja 13 Summary and Outlook @bassiEnablingThingsTalk2016*
 
 *historiaa: ensimmäinen IoT-laite oli kokisautomaatti, RFID-tägit ensimmäinen merkittävä "asia" (thing) ks. madakamInternetThingsIoT2015*
 
@@ -383,6 +385,8 @@ Haastattelujen litteroinnissa käytetään yleiskielistä litterointia. Yleiskie
 
 #### Haastatteluaineiston analyysimenetelmä
 
+##### Meta (poistettava otsikko)
+
 Haastatteluaineiston analyysimenetelmäksi valittiin sisällönanalyysi, koska opinnäytetyön tutkimusongelma on laadullinen. Tällä pyritään tuomaan aineistosta esille systemaattisesti sen laadullisia ominaisuuksia ja näin vastaamaan opinnäytetyön tutkimuskysymyksiin.
 
 Sisällönanalyysiä käytetään tutkimusaineiston systemaattisena analyysimenetelmänä, jolla järjestellään ja kuvaillaan tarkasteltavaa aineistoa. Analyysin keskeinen tehtävä on löytää tutkittavaa ilmiötä kuvailevia väittämiä, joilla voidaan vastata tutkimustehtäviin.
@@ -416,7 +420,7 @@ Käytännön kokeilujen kautta päädyttiin sisällönanalyysiä soveltavaan met
 
 Käytetyn metodin avulla pyrittiin tiivistämään materiaalista havaitut merkitykselliset ilmaisut, asiasanat ja asiasisällöt asiakokonaisuuksiksi joiden samankaltaisuutta, erilaisuutta, esiintymiä ja yhteyksiä voidaan tarkastella ja analysoida. Analyysillä pyrittiin sekä trianguloimaan haastatteluista tehtyjä johtopäätöksiä että hakemaan uusia näkökulmia haastattelumateriaaliin. 
 
-Triangulaation luotettavuutta sekä uusien näkökulmien havainnointia pyrittiin edistämään soveltamalla aineistolähtöistä (eng. Groud up) kategorioiden kehittelyä, jossa aikaisempien tietojen vaikutus tutkittavasta ilmiöstä pyrittiin minimoimaan. Tämän takia tuloksena saadut kategoriat eivät vastaa muissa aihetta käsittelevissä julkaisuissa käytettyjä. Tämä voi vähentää havaintojen vertailtavuutta mutta toisaalta voi tuoda paremmin esille juuri tämän haastattelumateriaalin erityispiirteet.
+Triangulaation luotettavuutta sekä uusien näkökulmien havainnointia pyrittiin edistämään soveltamalla aineistolähtöistä (engl. Groud up) kategorioiden kehittelyä, jossa aikaisempien tietojen vaikutus tutkittavasta ilmiöstä pyrittiin minimoimaan. Tämän takia tuloksena saadut kategoriat eivät vastaa muissa aihetta käsittelevissä julkaisuissa käytettyjä. Tämä voi vähentää havaintojen vertailtavuutta mutta toisaalta voi tuoda paremmin esille juuri tämän haastattelumateriaalin erityispiirteet.
 *Tarvitaanko näihin metodeihin lähdeviittaukset?*
 
 Tuloksia tarkasteltaessa on otettava huomioon, että koodien havaittu yleisyys ei välttämättä korreloi niiden merkittävyyden kanssa. Lisäksi suuressa osassa koodeja havaittiin vain muutamia esiintymiä, jolloin virheellisten havaintojen vaikutus koodin ja alikategorian luokittelussa voi johtaa analyysiä harhaan. Samoin on otettava huomioon tekijän kokemattomuus, mikä voi korostaa virheiden ja tekijän omien subjektiivisten näkemysten vaikutuksia. 
@@ -823,12 +827,12 @@ Sidosryhmien tietojen turvallisuus, autenttisuus, luottamuksellisuus ja yksityis
 
 Laitteiden fyysinen tietoturva on tärkeä maatalouden toimintaympäristössä, jossa laitteet voivat sijaita avoimilla pelloilla ja toimia ilman valvontaa pitkiäkin aikoja. Laitetasolla yleisimpiä avoimia tietoturvahaasteita ovat datan tuotantovaiheen tietoturva ja laitteistojen fyysinen turvallisuus. Sensorilaitteiden tietoturvan parantamiseksi tulisi käyttää salausalgoritmeja, avaintenjakelun käytänteitä, tunkeutumisenhavaitsemisjärjestelmiä ja turvallisia reitityssääntöjä, kuitenkin huomioiden laitteiden asettamat rajoitukset. Pyrittäessä estämään valtuuttamattomien tahojen pääsy kerättyyn dataan käyttäjätunnistus, tietojen luottamuksellisuus ja käyttöokeuksien hallinta tulee ottaa huomioon myös datan tuotantovaiheessa. (@tzounisInternetThingsAgriculture2017)
 
-Tietoliikennetason ja sovellustason välillä toimivan väliohjelmiston (middleware) tietoturva tulee myös ottaa huomioon. Väliohjelmiston hoitaessa sekä tiedon käsittelyä että rajapintoja tietoliikenne- ja sovellustasojen välillä, sen tietoturva vaatii luottamuksellisuutta tietojen käsittelyssä ja turvallisuutta tietojen taltioinnissa. (@tzounisInternetThingsAgriculture2017)
+tietoliikennekerroksen ja sovelluskerroksen välillä toimivan väliohjelmiston (middleware) tietoturva tulee myös ottaa huomioon. Väliohjelmiston hoitaessa sekä tiedon käsittelyä että rajapintoja tietoliikenne- ja sovelluskerrosten välillä, sen tietoturva vaatii luottamuksellisuutta tietojen käsittelyssä ja turvallisuutta tietojen taltioinnissa. (@tzounisInternetThingsAgriculture2017)
 
 IoT-sovelluksissa yleensä käytettäville laitteille langattomien tietoliikenneyhteyksien tietoturvan toteuttaminen voi olla haastavaa. IoT-järjestelmät voivat helposti altistua palvelunestohyökkäykselle, valtuudettomalle pääsy-yritykselle, väliintulohyökkäykselle ja/tai haittaohjelmainjektiolle jotka kohdistuvat ja vaikuttavat järjestelmän luottamuksellisuuteen ja tiedon eheyteen. Todentaminen, tunkeutumisen havaitseminen, avaintenhallinta ja *negotiation mechanisms* voivat tarjota ratkaisuita tietoliikennetason uhkia vastaan. (@tzounisInternetThingsAgriculture2017)
 
-Sovellustaso IoT-arkkitehtuurin ylimpänä tasona on lähellä *ja usein päällekkäinen* pilvipalveluiden kanssa. Sovellustason tietoturvakysymykset ovat samankaltaisia pilvipalveluiden vastaavien kanssa, kuten tietoturva, yksityisyyden suoja, varmuuskopiointi ja tietojen pelastus.
-Myös sovellustasolla hallintamekanismien tulee hallinnoida tiedon käyttöoikeuksia, sen omistajuutta ja pääsyoikeuksia tietoihin sekä fyysisisten käyttäjien tapauksessa että laitteiden, järjestelmien ja organisaatioiden välillä. (@tzounisInternetThingsAgriculture2017)
+Sovelluskerros IoT-arkkitehtuurin ylimpänä tasona on lähellä *ja usein päällekkäinen* pilvipalveluiden kanssa. Sovelluskerroksen tietoturvakysymykset ovat samankaltaisia pilvipalveluiden vastaavien kanssa, kuten tietoturva, yksityisyyden suoja, varmuuskopiointi ja tietojen pelastus.
+Myös sovelluskerroksessa hallintamekanismien tulee hallinnoida tiedon käyttöoikeuksia, sen omistajuutta ja pääsyoikeuksia tietoihin sekä fyysisisten käyttäjien tapauksessa että laitteiden, järjestelmien ja organisaatioiden välillä. (@tzounisInternetThingsAgriculture2017)
 
 Kokonaisuudessaan tietoturvauhat ovat todellisia ja tuotannossa käytettävät tietoliikenneverkot tarvitsevat turvaamista. Tietoturvasta, anonymiteetistä ja pääsynhallinnasta huolehtiminen on kriittisen tärkeää jaetun päätöksentekojärjestelmän laajalle käyttöönotolle. (@tzounisInternetThingsAgriculture2017)
 
@@ -935,15 +939,27 @@ Sidosryhmien kohtaamat haasteet liittyvät maatalousalan sidosryhmäverkoston dy
 
 ### Esitetyt AIoT-arkkitehtuurit
 
++Atzori
+-Kamilaris
+
++ITU
++Talavera
++Verdouw
++Xu
+
 
 *muista myös ITU-arkkitehtuuri*
 *Xu et al. (2014) arkkitehtuuri on havainnointikerros (sis. sekä havainnointi (sensing) että kontrollointi (actuation), tietoliikennekerros, palvelukerros ja liittymäkerros (sekä UI että muille järjestelmille). "International Telecommunication Union recommends that IoT architecture consists of five different layers: sensing, accessing, networking, middleware, and application layers."*
 
-Katsauksen aineistossa on esitetty useita erilaisia arkkitehtuurimalleja yhteenvetona IoT-järjestelmien toteutuksista. Näillä arkkitehtuureilla pyritään havainnollistamaan järjestelmien osien kuten sensorilaitteiden, tietoverkkojen, yhdyskäytävien, ohjelmistojen, pilvipalveluiden, jne. toiminnallisuuksia ja keskinäisiä riippuvuuksia.
+Katsauksen aineistossa on esitetty useita erilaisia arkkitehtuurimalleja yhteenvetona IoT-järjestelmien toteutuksista. Näillä arkkitehtuureilla pyritään havainnollistamaan järjestelmien osien kuten sensorilaitteiden, tietoverkkojen, yhdyskäytävien, ohjelmistojen, pilvipalveluiden jne. toiminnallisuuksia ja keskinäisiä riippuvuuksia. Xu et al. (2014) mukaan palvelukeskeinen arkkitehtuuri (engl. Service Oriented Architecture, SOA) sopii hyvin IoT-ratkaisuiden suunnitteluun, koska se mahdollistaa heterogeenisten järjestelmien ja laitteiden integroinnin (@xuInternetThingsIndustries2014).
 
-Arkkitehtuurit on usein jaoteltu kerroksittain, esimerkiksi Talavera et al. (2017) kirjallisuuskatsauksessa esitetyssä arkkitehtuurissa kerrokset ovat fyysinen-, tietoliikenne-, palvelu- ja sovelluskerros. (@talaveraReviewIoTApplications2017) Vastaavasti Verdouw et al. (2016) jaottelevat IoT-arkkitehtuurin laite-, verkko- ja sovelluskerroksiin (@verdouwInternetThingsAgriculture2016a). Xu et al. (2014) puolestaan esittivät arkkitehtuurin, jossa jaottelu tehtiin havainnointi-, tietoverkko-, palvelu- ja liittymäkerroksiin (@xuInternetThingsIndustries2014).
+IoT-järjestelmien arkkitehtuurin tulee ottaa huomioon erilaiset arkkitehtuurimallit, tietoliikenneratkaisut, älykkäät laitteet, verkkopalvelut ja -sovellukset, liiketoimintamallit ja -prosessit, yhteistoiminnallisen tiedonkäsittelyn ratkaisut, tietoturva jne. Lisäksi arkkitehtuurin tulee huomioida suunniteltavan ratkaisun jatkettavuus, skaalautuvuus, modulaarisuus ja yhteistoiminnallisuus heterogeenisten laitteiden kanssa. (@xuInternetThingsIndustries2014)
 
+Kansainvälinen televiestintäliitto (engl. International Telecommunication Union, lyhenne ITU) on suosituksessaan ITU-T Y.2060 (2012) kuvaillut nelikerroksisen IoT-arkkitehtuurin. Kerrokset on jaoteltu sovelluskerrokseen, palvelu- ja sovellustuen kerrokseen, tietoliikenne- ja laitekerrokseen. 
 
+Kirjallisuuskatsauksissa esitetyt arkkitehtuurit on usein jaoteltu palvelukeskeisen arkkitehtuurimallin mukaisesti kerroksittain, esimerkiksi Talavera et al. (2017) kirjallisuuskatsauksessa esitetyssä arkkitehtuurissa kerrokset ovat fyysinen-, tietoliikenne-, palvelu- ja sovelluskerros. (@talaveraReviewIoTApplications2017) Vastaavasti Verdouw et al. (2016) jaottelevat IoT-arkkitehtuurin laite-, verkko- ja sovelluskerroksiin (@verdouwInternetThingsAgriculture2016a). Xu et al. (2014) puolestaan esittivät arkkitehtuurin, jossa jaottelu tehtiin havainnointi-, tietoverkko-, palvelu- ja liittymäkerrokseen (@xuInternetThingsIndustries2014).
+
+Sovelluskerros on Atzori et al. (2010) mukaan IoT-arkkitehtuurin ylin kerros, joka on lähinnä käyttäjää ja joka käyttää väliohjelmistokerroksen palveluita. Viime vuosina julkaistut väliohjelmistokerroksen arkkitehtuurit on suunniteltu palvelukeskeinen arkkitehtuurin mallin mukaisesti. Vaikka tätä varten yleisesti hyväksyttyä arkkitehtuurimallia ei ole, esitetyt arkkitehtuurit käsittelevät keskenään samankaltaisia toimintoja kuten laitteiden toiminnallisuuksien ja tietoliikennetoimintojen abstraktointia. (@atzoriInternetThingsSurvey2010)
 
 ## Haastattelujen tulokset
 
@@ -1202,7 +1218,7 @@ Kasvihuoneissa automatiikan laitteissa anturointi ja tietoverkot ovat jo yleises
 
 On tärkeää huomata, että tehdasmaisessa toimintaympäristössä yksi valmistaja on voinut rakentaa kattavan kokonaisratkaisun tai 2-3 toimijaa ovat voineet muodostaa pienen ekosysteemin, joiden tuotteet muodostavat keskenään vastaavan kokonaisratkaisun. Tämänkaltaisen ratkaisun ei tarvitse olla yhteensopiva tai toimia minkään muun toimittajan järjestelmien kanssa, mikä tekee tuotekehityksestä paljon helpompaa peltotuotannon vastaavaan tuotekehitykseen verrattuna. Tuotekehityksen lisäksi Suomessa on pitkälle tutkittu suljettuja kasvihuoneita, joissa sovelletaan hyvin pitkälle automatisoituja monikerrosviljelyn ratkaisuita. (@aHaastattelu2017)
 
-Haastattelussa D.D. kertoi, että AIoT:n ja maatalouden digitalisaation alueella on jo tällä hetkellä tarjolla valmiita teknologiaratkaisuita ja niitä on riippuen maatalouden osa-alueesta jossain määrin otettu käyttöön (@dHaastattelu2018). Nykyiset ratkaisut ovat vielä E.E.n mukaan keskenään erilaisia ja osittain omiin tuotekategorioihinsa siiloutuneita, esimerkiksi laitetelemetriatuotteet ja maatilan tiedonhallintajärjestelmät (eng. Farm Management Information System, FMIS) toimivat vielä selkeästi erillään (@eHaastattelu2018). Teknologiaratkaisuiden käyttöönotto on kentällä A.A.n mukaan tapauskohtaista ja niitä otetaan käyttöön yksittäin eikä koko viljelyprosessin laajuisesti. Koko viljelyprosessin kattavien yksittäisten ratkaisuiden kehittäminen onkin hänen mukaansa hyvin vaikeaa. (@aHaastattelu2017) Vastaavasti C.C. kertoi AIoT-ratkaisuita on kaupallisina tuotteina saatavilla vähän ja kentällä käytössä olevissa ratkaisuissa voi lähinnä olla joitain varsinaisten IoT-ratkaisuiden piirteitä ja toiminnallisuuksia (@cHaastattelu2017). 
+Haastattelussa D.D. kertoi, että AIoT:n ja maatalouden digitalisaation alueella on jo tällä hetkellä tarjolla valmiita teknologiaratkaisuita ja niitä on riippuen maatalouden osa-alueesta jossain määrin otettu käyttöön (@dHaastattelu2018). Nykyiset ratkaisut ovat vielä E.E.n mukaan keskenään erilaisia ja osittain omiin tuotekategorioihinsa siiloutuneita, esimerkiksi laitetelemetriatuotteet ja maatilan tiedonhallintajärjestelmät (engl. Farm Management Information System, FMIS) toimivat vielä selkeästi erillään (@eHaastattelu2018). Teknologiaratkaisuiden käyttöönotto on kentällä A.A.n mukaan tapauskohtaista ja niitä otetaan käyttöön yksittäin eikä koko viljelyprosessin laajuisesti. Koko viljelyprosessin kattavien yksittäisten ratkaisuiden kehittäminen onkin hänen mukaansa hyvin vaikeaa. (@aHaastattelu2017) Vastaavasti C.C. kertoi AIoT-ratkaisuita on kaupallisina tuotteina saatavilla vähän ja kentällä käytössä olevissa ratkaisuissa voi lähinnä olla joitain varsinaisten IoT-ratkaisuiden piirteitä ja toiminnallisuuksia (@cHaastattelu2017). 
 
 Vaikka meneillään on E.E.n mukaan IoT-teknologioiden yleistymisen aalto, laitteita jotka olisi alunperin suunniteltu IoT-laitteiksi on C.C.n mukaan aika vähän. Näillä tarkoitetaan laitteita, joilla on oma verkko-osoite, josta voidaan sekä kerätä dataa että jonka toimintaan voidaan vaikuttaa verkon ylitse. Oikeiksi IoT-ratkaisuiksi luokiteltavien tuotteiden yleistymistä odotetaan C.C.n mukaan tapahtuvaksi lähiaikoina. (@cHaastattelu2017; @eHaastattelu2018) 
 
@@ -1388,7 +1404,7 @@ Myös E.E. oli samoilla linjoilla ruokaturvan suhteen. Hänen mukaansa Suomen os
 
 **Verkkojen luotettavuus ja nopeus; pilvipalvelut maataloudessa; telemetriaratkaisut; puhelinverkko; UA-laitteet; valokuituverkot; radioverkot;**
 **Syrjäseutujen verkkojen nopeus ja luotettavuus; maatalouden tuottaman datan määrän kasvu; UA-laitteet**
-D.D. kertoi haastattelussa, että syrjäseutujen tietoliikenneverkkojen luotettavuus ja nopeus on maatalouden näkökulmasta merkittävä haaste. Lisäksi pilvipalveluiden yleistyminen maatalouden käytössä asettaa kasvavia vaatimuksia tietoliikenneyhteyksien luotettavuudelle (@dHaastattelu2018). A.A. mainitsi, että Suomessa telemetriaratkaisut on lähtökohtaisesti rakennettu matkapuhelinverkon varaan ja C.C.n mukaan SMS-viestiratkaisu on ollut valmistajille tämän maan toimintaympäristössä luotettava valinta (@aHaastattelu2017; @cHaastattelu2017). Lisäksi D.D. arveli, että UA-laitteilla (miehittämätön ilma-alus, Eng. Unmanned Aircraft) tuotetun datan määrä voi olla syrjäseutujen tietoliikenneverkkojen kaistanleveydelle liian suuri (@dHaastattelu2018). Samoin C.C.n mukaan käytännössä verkot eivät kanna UA-laitteiden tuottamaa kuvantamisdatan määriä, vaikka teoriassa se onkin mahdollista. Valokuituverkoissa tämä kyllä onnistuu, mutta radioverkoissa verkot ovat ahtaat ja matkapuhelinverkon nopeuden kasvattaminen riittäväksi haja-asutusalueella missä mastoväli on suuri, on erittäin haastavaa. (@cHaastattelu2017)
+D.D. kertoi haastattelussa, että syrjäseutujen tietoliikenneverkkojen luotettavuus ja nopeus on maatalouden näkökulmasta merkittävä haaste. Lisäksi pilvipalveluiden yleistyminen maatalouden käytössä asettaa kasvavia vaatimuksia tietoliikenneyhteyksien luotettavuudelle (@dHaastattelu2018). A.A. mainitsi, että Suomessa telemetriaratkaisut on lähtökohtaisesti rakennettu matkapuhelinverkon varaan ja C.C.n mukaan SMS-viestiratkaisu on ollut valmistajille tämän maan toimintaympäristössä luotettava valinta (@aHaastattelu2017; @cHaastattelu2017). Lisäksi D.D. arveli, että UA-laitteilla (miehittämätön ilma-alus, engl. Unmanned Aircraft) tuotetun datan määrä voi olla syrjäseutujen tietoliikenneverkkojen kaistanleveydelle liian suuri (@dHaastattelu2018). Samoin C.C.n mukaan käytännössä verkot eivät kanna UA-laitteiden tuottamaa kuvantamisdatan määriä, vaikka teoriassa se onkin mahdollista. Valokuituverkoissa tämä kyllä onnistuu, mutta radioverkoissa verkot ovat ahtaat ja matkapuhelinverkon nopeuden kasvattaminen riittäväksi haja-asutusalueella missä mastoväli on suuri, on erittäin haastavaa. (@cHaastattelu2017)
 
 A.A.n mukaan tehtäessä kuvantamista ja sen analytiikkaa UA-laitteilla on tarve saada kuvantamisdatan analyysin tulokset käytännössä saman tien kun ollaan vielä pellolla. 5G-tekniikoista voisi olla hyötyä ison datamäärän viemisessä pilveen ja takaisin, jotta voitaisiin saada analyysi pellosta noin 10 minuutin kuluessa. (@aHaastattelu2017) Toisaalta C.C.n mukaan tulevat 5G-ratkaisut lisäävät nopeutta lyhyillä matkoilla, eivätkä pitkillä matkoilla (@cHaastattelu2017). A.A. kertoi, että 3G ei sekään vielä kanna joka paikkaan mihin pitäisi, mikä on hänen mukaansa iso ongelma. Erityisesti suomalainen ongelma on maan pituus, peltojen pirstaleisuus ja sijainnit laaksopaikoilla, joissa kuuluvuus voi olla huono. (@aHaastattelu2017)
 
