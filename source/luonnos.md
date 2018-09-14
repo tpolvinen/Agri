@@ -101,21 +101,6 @@ Ensin tutustutaan osailmiöhin IoT, IIoT, AIoT ja kasvintuotanto, joiden määri
 
 *...ja miten AIoT on osa IIoTtä.*
 
-Kirjallisuuskatsausten havainnot:
-
-@talaveraReviewIoTApplications2017
-
-Taustat
-IoT-määrittelyt
-Arkkitehtuurit
-IoT-ratkaisut auttavat
-Kirjallisuuden kuvailu
-Avoimet haasteet
-
-Kirjallisuuskatsauksessa käsitellyistä tutkimuksissa AIoT:tä käytetään eniten tarkkailuun (monitoring) 62 %. Toiseksi suurin osuus oli kontrollointi (control) 25 %, logistiikan (logistics) 7 % ja ennusteiden (prediction) 6 % ollessa esillä tutkimuksissa, mutta huomattavasti pienemmällä osuudella.
-
-
-@verdouwInternetThingsAgriculture2016a
 
 # OPINNÄYTETYÖN TARKOITUS, TAVOITE JA TUTKIMUSKYSYMYKSET / TUTKIMUSSUUNNITELMA
 
@@ -601,12 +586,12 @@ Näiden edistysaskeleiden toteutumisen voidaan odottaa johtavan edellä mainittu
 **Ruoan prosessointi ja valmistus** voi kehittyä notkeiden hallintajärjestelmien avulla, jolloin tuotannon koneet toimivat autonomisina, älykkäinä ja yhteenliitettyinä kokonaisuuden osina. Tämän toteuttamiseksi voidaan koneisiin integroida tehokkaita sensoreita tuotannon tosiaikaisen tarkkailun ja koneiden yhteentoimivuuden varmistamiseksi. Tuotannon seurantajärjestelmien algoritmien avulla voidaan havaita laatupoikkeamia aikaisessa vaiheessa.
 **Kuluttajien ruokatietoisuus** voi kehittyä lähtökohdiltaan kuluttajakeskeiseksi kokonaisuudeksi, jossa erilaiset sovellukset ja järjestelmät voivat yhdistää ruokakeskeistä tietoa eri sidosryhmiltä personoitujen ruokasuositusten tuottamiseksi.  (@sundmaekerInternetFoodFarm2016)
 
-IoT-ratkaisut mahdollistavat fyysisten objektien virtausten ja niihin liittyvän tiedon irrottamisen toisistaan [14]. Tällöin viljelyprosesseja ja ruoan tuotantoketjuja voidaan tarkkailla, kontrolloida, uudelleensuunnitella ja optimoida etäisesti ja tosiaikaisesti perustuen fyysisiä objekteja vastaaviin virtuaalisiin esineisiin. Tämän johdosta maanviljely voi muuttua kytkettyjen laitteiden älykkäiksi verkoiksi jotka ovat kontekstin huomioivia, jotka voidaan tunnistaa, havainnoida ja kontrolloida etäisesti. Tämän puolestaan voi odottaa muuttavan maatalouden tuotantoprosesseja ennen näkemättömällä tavalla, tuottaen uusia liiketoimintamalleja ja kontrolloinnin mekanismeja kuten: 
+IoT-ratkaisut mahdollistavat fyysisten objektien virtausten ja niihin liittyvän tiedon irrottamisen toisistaan (@verdouwVirtualizationFoodSupply2015). Tällöin viljelyprosesseja ja ruoan tuotantoketjuja voidaan tarkkailla, kontrolloida, uudelleensuunnitella ja optimoida etäisesti ja tosiaikaisesti perustuen fyysisiä objekteja vastaaviin virtuaalisiin esineisiin. Tämän johdosta maanviljely voi muuttua kytkettyjen laitteiden älykkäiksi verkoiksi jotka ovat kontekstin huomioivia, jotka voidaan tunnistaa, havainnoida ja kontrolloida etäisesti. Tämän puolestaan voi odottaa muuttavan maatalouden tuotantoprosesseja ennen näkemättömällä tavalla, tuottaen uusia liiketoimintamalleja ja kontrolloinnin mekanismeja kuten: 
     * **Datavetoinen viljely**: IoT-ratkaisut mahdollistavat viljelijöiden siirtymisen näppituntumalla viljelystä mitattuun digitaaliseen tietoon perustuvaan viljelyn hallintaan. Tämä on keskeistä jatkuvasti vaativammaksi muuttuvassa liiketoimintaympäristössä selviytymiselle. IoT-ratkaisuiden havainto- ja kytkettävyysteknologiat mahdollistavat oikea-aikaisen ja tarkan operatiivisen datan virran päätöksentekojärjestelmille.
     * **Kiertotalous**: IoT-ratkaisut mahdollistavat aikaisempaa sujuvamman resurssien hallinnan ja jakamisen tuotantoketjussa, lujittaen toimijoiden yhteistoimintaa. Eri teollisuudenalat voivat yhteistoiminnassa jaella toimintansa sivutuotteita ja jätteitä lämmön, veden, paineen, lannoitteiden jne. muodossa. Symbioottiset viljelyjärjestelmät kuten aquaponiset viljelmät voivat hyötyä erityisen paljon uusista IoT-teknologioihin perustuvista kontrollointijärjestelmistä, jotka mahdollistavat niiden hajautetun ja autonomisen toiminnan.
     * **Itsenäiset maatilan toiminnot**: IoT-ratkaisut mahdollistavat kytkettävyyden parantamisen ja älykkyyden lisäyksen maatalousautomaatiossa. Tämä mahdollistaa maatalouden koneiden muuttumisen autonomisiksi ja itsemukautuviksi järjestelmiksi, jotka voivat toimia, tehdä itsenäisiä päätöksiä ja oppia ilman paikan päällä tai etänä tapahtuvaa ihmisen tekemää ohjausta. Tälläisiä järjestelmiä ovat esimerkiksi kitkentärobotit ja itseohjaavat traktorit.  
     * **Kysyntävetoinen viljely**: IoT-ratkaisut mahdollistavat tuotantoprosessien tarkan ja oikea-aikaisen tarkkailun ja kontrolloinnin, mikä puolestaan mahdollistaa tuotannon määrän ja laadun ennustettavuuden. Myös liiketoiminnan ja kuluttajien kanssa kommunikoinnin uudet menetelmät voidaan ottaa huomioon suoraan tuotantoprosessien ohjaamisessa, jolloin maatilat voivat siirtyä anonyymistä, tuotantokeskeisestä ja kustannushinnoitteluvetoisesta toimintamallista arvohinnoittelu- ja informaatiovetoiseen toimintamalliin, jossa tarjontaa kohdennetaan jatkuvasti kysynnän mukaan.
-    * **Tulosperusteiset maatalouspalvelut**: IoT-ratkaisut voivat huomattavasti parantaa maatilojen tuotantoprosessien havainnoinin ja kontrolloinnin mahdollisuuksia. Tämä mahdollistaa maanviljelyn yhä suuremman siirtymisen pelkkien tuotteiden ja palveluiden myynnistä asiakkaille merkityksellisten ja mitattavien tulosten tuottamiseen, kuten sadon, säästetyn energian tai koneiden käytettävyysajan [35].  
+    * **Tulosperusteiset maatalouspalvelut**: IoT-ratkaisut voivat huomattavasti parantaa maatilojen tuotantoprosessien havainnoinin ja kontrolloinnin mahdollisuuksia. Tämä mahdollistaa maanviljelyn yhä suuremman siirtymisen pelkkien tuotteiden ja palveluiden myynnistä asiakkaille merkityksellisten ja mitattavien tulosten tuottamiseen, kuten sadon, säästetyn energian tai koneiden käytettävyysajan (@worldeconomicforumIndustrialInternetThings2015).
     * **Kaupunkiviljely**: IoT-ratkaisut tukevat kontrolloitujen viljelytilojen sijoittamista kaupunkialueille kuluttajien läheisyyteen. Näissä ratkaisuissa yhdistetään edistyneiden sensori- ja toimilaiteteknologioiden IoT-sovelluksia uusien viljelymenetelmien kuten hydroponiikan kanssa.  
     * **Notkeat ruokatehtaat**: IoT-ratkaisut mahdollistavat hajautetun ja joustavan ruoan prosessoinnin ruokaa havainnoivien sensoreiden, paikallisen tietojenkäsittelyn ja tiedonhankinnan sekä kytkettävyyden lisäämisellä ruoan prosessoinnin laitteisiin.
     * **Virtuaaliset ruoan tuotantoketjut**: IoT-ratkaisut mahdollistavat ruoan tuotantoprosessien hallinnoinnin virtualisoinnin, mikä puolestaan mahdollistaa edistyneen etänä tehtävän suunnittelun, uudelleensuunnitelun, tarkkailun ja kontrolloinnin sekä uudet liiketoimintamallit.
@@ -778,7 +763,7 @@ Talavera et al. (2017) kirjallisuuskatsauksessa käsiteltyjen logistiikan osa-al
 
 ### AIoT:n avoimet haasteet
 
-*Tähän vielä haasteita Xu et al. @xuInternetThingsIndustries2014*
+*Tähän vielä haasteita Xu et al. @xuInternetThingsIndustries2014 sekä vermesanInternetThingsGlobal2011, 174 (etsi haasteita vermesanista muualtakin!) sekä kaloxylosUseFutureInternet2013 53-54 ja 56:"One of the main challenges in realizing the fully integrated agri-food-chain is the definition of an open, standardized infrastructure that supports the integration of vendor independent solutions and services"*
 
 Aineistossa käsitellyt AIoT:n avoimet haasteet.
 
@@ -789,7 +774,6 @@ Atzori et al. (2010) yleiset IoT:n haasteet: standardit, järjestelmien välisen
 ICT- ja erityisesti IoT-teknologiat muuttavat maataloutta nopealla tahdilla. Suuren mittakaavan käyttöönottojen kautta näillä teknologioilla on selkeä potentiaali tuottaa huomattavia etuja kestävän maanviljelyn muodossa, varmistamalla ruokaturvaa pienempien ympäristövaikutusten kautta sekä takaamalla terveellisen ruoantuotannon. Etujen saavuttamiseen tarvitaan kuitenkin tiettyjen IoT:n teknisten ja yhteiskunnallisten haasteiden ja esteiden voittamista. Nämä vaikeudet tuottavat kuitenkin myös uusia mahdollisuuksia teknologiselle kehitykselle ja arvon tuottamiselle.  
 
 *Sidosryhmien osallisuus/osallistaminen*
-
 
 
 #### Standardisaation haasteet
@@ -813,9 +797,9 @@ Maatalouden IoT-sovelluksissa on selkeä tarve ratkaisuille, jotka huomioivat se
 
 Sidosryhmien tietojen turvallisuus, autenttisuus, luottamuksellisuus ja yksityisyyden suoja tulisi varmistaa siirryttäessä perinteisistä toimintamalleista IoT-sovellusten käyttöön. IoT-ratkaisut tulisi suojata ulkoisia hyökkäyksiä vastaan havaintotasolla, turvata datan kerääminen tietoliikennetasolla ja vastaavasti sovellustasolla tarjota eritellyt vakuudet siitä, että vain valtuutetuilla tahoilla on pääsy ja oikeudet muuttaa tietoja. (@tzounisInternetThingsAgriculture2017)
 
-Laitteiden fyysinen tietoturva on tärkeä maatalouden toimintaympäristössä, jossa laitteet voivat sijaita avoimilla pelloilla ja toimia ilman valvontaa pitkiäkin aikoja. Laitetasolla yleisimpiä avoimia tietoturvahaasteita ovat datan tuotantovaiheen tietoturva ja laitteistojen fyysinen turvallisuus. Sensorilaitteiden tietoturvan parantamiseksi tulisi käyttää salausalgoritmeja, avaintenjakelun käytänteitä, tunkeutumisenhavaitsemisjärjestelmiä ja turvallisia reitityssääntöjä, kuitenkin huomioiden laitteiden asettamat rajoitukset. Pyrittäessä estämään valtuuttamattomien tahojen pääsy kerättyyn dataan käyttäjätunnistus, tietojen luottamuksellisuus ja käyttöokeuksien hallinta tulee ottaa huomioon myös datan tuotantovaiheessa. (@tzounisInternetThingsAgriculture2017)
+Laitteiden fyysinen tietoturva on tärkeä maatalouden toimintaympäristössä, jossa laitteet voivat sijaita avoimilla pelloilla ja toimia ilman valvontaa pitkiäkin aikoja. Laitetasolla yleisimpiä avoimia tietoturvahaasteita ovat datan tuotantovaiheen tietoturva ja laitteistojen fyysinen turvallisuus. Sensorilaitteiden tietoturvan parantamiseksi tulisi käyttää salausalgoritmeja, avaintenjakelun käytänteitä, tunkeutumisenhavaitsemisjärjestelmiä ja turvallisia reitityssääntöjä, kuitenkin huomioiden laitteiden asettamat rajoitukset. Pyrittäessä estämään valtuuttamattomien tahojen pääsy kerättyyn dataan käyttäjätunnistus, tietojen luottamuksellisuus ja käyttöokeuksien hallinta tulee ottaa huomioon myös datan tuotantovaiheessa. (@tzounisInternetThingsAgriculture2017) Koska maatalouden järjestelmiin kuuluu usein automaattisesti kontrolloitavia toimilaitteita, on tietoturvasta huolehtiminen ja järjestelmien tunkeutujilta suojaaminen tärkeää käyttäjien fyysisen turvallisuuden takia (@gubbiInternetThingsIoT2013).
 
-tietoliikennekerroksen ja sovelluskerroksen välillä toimivan väliohjelmiston (middleware) tietoturva tulee myös ottaa huomioon. Väliohjelmiston hoitaessa sekä tiedon käsittelyä että rajapintoja tietoliikenne- ja sovelluskerrosten välillä, sen tietoturva vaatii luottamuksellisuutta tietojen käsittelyssä ja turvallisuutta tietojen taltioinnissa. (@tzounisInternetThingsAgriculture2017)
+Tietoliikennekerroksen ja sovelluskerroksen välillä toimivan väliohjelmiston (middleware) tietoturva tulee myös ottaa huomioon. Väliohjelmiston hoitaessa sekä tiedon käsittelyä että rajapintoja tietoliikenne- ja sovelluskerrosten välillä, sen tietoturva vaatii luottamuksellisuutta tietojen käsittelyssä ja turvallisuutta tietojen taltioinnissa. (@tzounisInternetThingsAgriculture2017)
 
 IoT-sovelluksissa yleensä käytettäville laitteille langattomien tietoliikenneyhteyksien tietoturvan toteuttaminen voi olla haastavaa. IoT-järjestelmät voivat helposti altistua palvelunestohyökkäykselle, valtuudettomalle pääsy-yritykselle, väliintulohyökkäykselle ja/tai haittaohjelmainjektiolle jotka kohdistuvat ja vaikuttavat järjestelmän luottamuksellisuuteen ja tiedon eheyteen. Todentaminen, tunkeutumisen havaitseminen, avaintenhallinta ja *negotiation mechanisms* voivat tarjota ratkaisuita tietoliikennetason uhkia vastaan. (@tzounisInternetThingsAgriculture2017)
 
@@ -897,7 +881,7 @@ Vaikka sulautettujen järjestelmien yksikköhinnat ovat laskeneet, korkealuokkai
 
 Suurempi mittakaava vaatii laitteilta myös enemmän tietojenkäsittelykykyä ja älykkyyttä, jotta laitteet kykenisivät tarvittaessa konfiguroimaan ja hallinnoimaan toimintojaan itsenäisesti. IoT-ratkaisujen lupaamia etuja ei voida täysin saavuttaa ilman huomattavaa lisäystä verkon reunalla olevien laitteiden tietojenkäsittely- ja laskentakyvyssä. (@sundmaekerInternetFoodFarm2016)
 
-Laitteiden tulisi vaatia vain vähän tai ei ollenkaan ihmisen tekemää huoltoa elinkaarensa aikana. Lisäksi laitteiden käyttämän tietoliikenneratkaisun tulisi olla tarpeeksi älykäs uudelleenkonfiguroimaan tai parantamaan itse itsensä laiterikon sattuessa. (@talaveraReviewIoTApplications2017)
+Laitteiden tulisi vaatia vain vähän tai ei ollenkaan ihmisen tekemää huoltoa elinkaarensa aikana. Lisäksi laitteiden käyttämän tietoliikenneratkaisun tulisi olla tarpeeksi älykäs uudelleenkonfiguroimaan tai parantamaan itse itsensä laiterikon sattuessa. (@gubbiInternetThingsIoT2013; @talaveraReviewIoTApplications2017)
 
 Laitteiden ja ohjelmistojen tehokas uudelleenkäytettävyys voi olla haastavaa monoliittisiksi suunnitelluissa järjestelmissä. Aikaisempaa enemmän modulaarisiksi suunnitellut laitteet ja ohjelmistot voisivat puolestaan mahdollistaa tehokkaamman uudelleenkäytön ja järjestelmien räätälöinnin. (@talaveraReviewIoTApplications2017)
 
@@ -914,7 +898,9 @@ Muihin teollisuudenaloihin verrattuna maatalouden tuotteisiin on usein vaikeampa
 
 Teknisten haasteiden ohella AIoT-ratkaisuiden kehityksessä on useita haasteita, joista keskeisimpiä ovat uusien liiketoimintamallien kehittäminen, yhteisölliset haasteet, poliikan ja säännöstelyn haasteet ja sidosryhmien haasteet. 
 
-Uusien liiketoimintamallien kehittämisessä IoT-ratkaisuille perustuvan liiketoiminnan kestävyys sekä ratkaisuiden tuottajille että käyttäjille vaatii vielä tutkimusta, erityisesti suuren mittakaavan ratkaisuiden osalta. Käyttäjien näkökulmasta mitattavissa olevien hyötyjen tulee kompensoida hankinnan ja käytön kustannukset. AIoT-ratkaisuiden hankintakustannukset ovat usein laajemman käyttöönoton este varsinkin pienikokoisille maatiloille. (@sundmaekerInternetFoodFarm2016)
+Liiketoimintaprosessien monimutkaisuus ja sidosryhmien moninaisuus asettavat omat haasteensa IoT-ratkaisuiden kehittämiselle sekä tekniikan että liiketoiminnan osa-alueilla (@barmpounakisManagementControlApplications2015).
+
+Erityisesti suuren mittakaavan ratkaisuiden osalta tarvitaan vielä lisää tutkimusta miten uusia liiketoimintamalleja tulee kehittää jotta voidaan varmistua IoT-ratkaisuille perustuvan liiketoiminnan kestävyydestä sekä ratkaisuiden tuottajille että käyttäjille. Käyttäjien näkökulmasta mitattavissa olevien hyötyjen tulee kompensoida hankinnan ja käytön kustannukset. AIoT-ratkaisuiden hankintakustannukset ovat usein laajemman käyttöönoton este varsinkin pienikokoisille maatiloille. (@sundmaekerInternetFoodFarm2016)
 
 Suuren mittakaavan ratkaisuissa käyttöönottoa on hidastanut yleinen epävarmuus IoT:n vaikutuksista olemassa olevaan teollisuuteen, arvoketjuihin, liiketoimintamalleihin, työvoimaan ja lopulta tuottavuuteen sekä tuotteisiin. (@gilchrist2016industry)
 
@@ -929,24 +915,32 @@ Sidosryhmien kohtaamat haasteet liittyvät maatalousalan sidosryhmäverkoston dy
 
 +Atzori
 -Kamilaris
-
-+ITU
+-Madakam
 +Talavera
++Tzounis
 +Verdouw
+-Wolfert
 +Xu
 
++ITU
+*?IoT Forum -mikä on reference architecture suomeksi?*
 
-*muista myös ITU-arkkitehtuuri*
+
 *Xu et al. (2014) arkkitehtuuri on havainnointikerros (sis. sekä havainnointi (sensing) että kontrollointi (actuation), tietoliikennekerros, palvelukerros ja liittymäkerros (sekä UI että muille järjestelmille). "International Telecommunication Union recommends that IoT architecture consists of five different layers: sensing, accessing, networking, middleware, and application layers."*
 
-Katsauksen aineistossa on esitetty useita erilaisia arkkitehtuurimalleja yhteenvetona IoT-järjestelmien toteutuksista. Näillä arkkitehtuureilla pyritään havainnollistamaan järjestelmien osien kuten sensorilaitteiden, tietoverkkojen, yhdyskäytävien, ohjelmistojen, pilvipalveluiden jne. toiminnallisuuksia ja keskinäisiä riippuvuuksia. Xu et al. (2014) mukaan palvelukeskeinen arkkitehtuuri (engl. Service Oriented Architecture, SOA) sopii hyvin IoT-ratkaisuiden suunnitteluun, koska se mahdollistaa heterogeenisten järjestelmien ja laitteiden integroinnin (@xuInternetThingsIndustries2014).
+Katsauksen aineistossa on esitetty useita erilaisia arkkitehtuurimalleja yhteenvetona IoT-järjestelmien toteutuksista. Näillä arkkitehtuureilla pyritään havainnollistamaan järjestelmien osien kuten sensorilaitteiden, tietoverkkojen, yhdyskäytävien, ohjelmistojen, pilvipalveluiden jne. toiminnallisuuksia ja keskinäisiä riippuvuuksia. 
 
-IoT-järjestelmien arkkitehtuurin tulee ottaa huomioon erilaiset arkkitehtuurimallit, tietoliikenneratkaisut, älykkäät laitteet, verkkopalvelut ja -sovellukset, liiketoimintamallit ja -prosessit, yhteistoiminnallisen tiedonkäsittelyn ratkaisut, tietoturva jne. Lisäksi arkkitehtuurin tulee huomioida suunniteltavan ratkaisun jatkettavuus, skaalautuvuus, modulaarisuus ja yhteistoiminnallisuus heterogeenisten laitteiden kanssa. (@xuInternetThingsIndustries2014)
+Aikaisemmin käytettyjen tiedostonsiirtoon perustuvien arkkitehtuurien puutteita on pyritty korjaamaan siirtymällä soveltamaan palvelukeskeisiä arkkitehtuureja (engl. Service Oriented Architecture, SOA), mikä on ollut yleinen suuntaus julkaistuissa tutkimuksissa (@blankIGreenUbiquitousDynamic2013). Esineiden käsittely palveluina voi kuitenkin olla huomattava haaste IoT-arkkitehtuureille vaaditun laskentatehon ja hinnan asettamien rajoitusten takia (@vermesanInternetThingsGlobal2011, 174). Xu et al. (2014) mukaan palvelukeskeinen arkkitehtuuri kuitenkin sopii hyvin IoT-ratkaisuiden suunnitteluun, koska se mahdollistaa heterogeenisten järjestelmien ja laitteiden integroinnin (@xuInternetThingsIndustries2014). Samoin Granell et al. arvioivat palvelukeskeisen arkkitehtuurin olevan hyvin tehokas lähestymistapa IoT- ja pilviteknologioihin perustuvien palveluiden tuottamiseen(@granellFutureInternetTechnologies2016).
 
-Kansainvälinen televiestintäliitto (engl. International Telecommunication Union, lyhenne ITU) on suosituksessaan ITU-T Y.2060 (2012) kuvaillut nelikerroksisen IoT-arkkitehtuurin. Kerrokset on jaoteltu sovelluskerrokseen, palvelu- ja sovellustuen kerrokseen, tietoliikenne- ja laitekerrokseen. 
+IoT-järjestelmien arkkitehtuurin tulee ottaa huomioon erilaiset arkkitehtuurimallit, tietoliikenneratkaisut, älykkäät laitteet, verkkopalvelut ja -sovellukset, liiketoimintamallit ja -prosessit, yhteistoiminnallisen tiedonkäsittelyn ratkaisut, tietoturva jne. Lisäksi arkkitehtuurin tulee huomioida suunniteltavan ratkaisun jatkettavuus, skaalautuvuus, modulaarisuus ja yhteistoiminnallisuus heterogeenisten laitteiden kanssa. Samoin on otettava huomioon, että laitteet voivat liikkua ja saattavat toimia vuorovaikutuksessa muuttuvan ympäristön kanssa. Tällöin myös arkkitehtuurin ja sen mukaan rakennetun järjestelmän tulee voida sopeutua muutoksiin. (@xuInternetThingsIndustries2014)
 
-Kirjallisuuskatsauksissa esitetyt arkkitehtuurit on usein jaoteltu palvelukeskeisen arkkitehtuurimallin mukaisesti kerroksittain, esimerkiksi Talavera et al. (2017) kirjallisuuskatsauksessa esitetyssä arkkitehtuurissa kerrokset ovat fyysinen-, tietoliikenne-, palvelu- ja sovelluskerros. (@talaveraReviewIoTApplications2017) Vastaavasti Verdouw et al. (2016) jaottelevat IoT-arkkitehtuurin laite-, verkko- ja sovelluskerroksiin (@verdouwInternetThingsAgriculture2016a). Xu et al. (2014) puolestaan esittivät arkkitehtuurin, jossa jaottelu tehtiin havainnointi-, tietoverkko-, palvelu- ja liittymäkerrokseen (@xuInternetThingsIndustries2014).
+Kansainvälinen televiestintäliitto (engl. International Telecommunication Union, ITU) on suosituksessaan ITU-T Y.2060 (2012) kuvaillut nelikerroksisen IoT-arkkitehtuurin. Kerrokset on jaoteltu sovelluskerrokseen, palvelu- ja sovellustuen kerrokseen, tietoliikenne- ja laitekerrokseen. (@internationaltelecommunicationunion2060OverviewInternet2012)
 
+Kirjallisuuskatsauksissa esitetyt arkkitehtuurit on usein jaoteltu palvelukeskeisen arkkitehtuurimallin mukaisesti kerroksittain, esimerkiksi Talavera et al. (2017) kirjallisuuskatsauksessa esitetyssä arkkitehtuurissa kerrokset ovat fyysinen-, tietoliikenne-, palvelu- ja sovelluskerros. (@talaveraReviewIoTApplications2017) Vastaavasti Verdouw et al. (2016) jaottelevat IoT-arkkitehtuurin laite-, verkko- ja sovelluskerroksiin (@verdouwInternetThingsAgriculture2016a). Xu et al. (2014) puolestaan esittivät arkkitehtuurin, jossa jaottelu tehtiin havainnointi-, tietoverkko-, palvelu- ja liittymäkerrokseen (@xuInternetThingsIndustries2014). Tzounis et al. (2017) esittivät IoT-arkkitehtuurin jakautuvan havaintokerrokseen, tietoliikenne- ja sovelluskerrokseen, samoin kuin Vermesan et al. (2011) (@tzounisInternetThingsAgriculture2017; @vermesanInternetThingsGlobal2011). 
+
+Poikkeuksena edellisiin Barmpounakis et al. esittivät arkkitehtuurin, joka teknisten kerrosten sijaan perustuu Future Internet Public–Private Partnership:in (FI-PPP) yleiskäyttöisiin FI-WARE-hankkeessa kehitettyihin ohjelmistomoduleihin (Generic Enabler, GE) ja niiden laajennuksiin maatalouden vastaaviin moduleihin (domain specific enablers) (ks. Kaloxylos et al. (2013), 56-57). Tämän arkkitehtuurin tavoitteena on mahdollistaa yhteiskäytettävyys erilaisten palveluiden ja sidosryhmien välillä, toisin kuin muissa esitetyissä arkkitehtuureissa jossa keskitytään IoT-järjestelmien toiminnan kuvaamiseen. Arkkitehtuurin avulla pyritään tuottamaan alustapalvelu (engl. Platform as a Service, PAAS) jolla eri alojen sidosryhmät voivat toimia yhdessä. (@barmpounakisManagementControlApplications2015; @kaloxylosUseFutureInternet2013) 
+
+*tarvitaanko tätä kerrosten selittelyä?*
 Sovelluskerros on Atzori et al. (2010) mukaan IoT-arkkitehtuurin ylin kerros, joka on lähinnä käyttäjää ja joka käyttää väliohjelmistokerroksen palveluita. Viime vuosina julkaistut väliohjelmistokerroksen arkkitehtuurit on suunniteltu palvelukeskeinen arkkitehtuurin mallin mukaisesti. Vaikka tätä varten yleisesti hyväksyttyä arkkitehtuurimallia ei ole, esitetyt arkkitehtuurit käsittelevät keskenään samankaltaisia toimintoja kuten laitteiden toiminnallisuuksien ja tietoliikennetoimintojen abstraktointia. (@atzoriInternetThingsSurvey2010)
 
 ## Haastattelujen tulokset
