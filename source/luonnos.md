@@ -45,8 +45,8 @@ Tässä opinnäytetyössä käytetään lähdeviittausten tyylinä Södertörns 
 
 satotasomittaus
 pilvipalvelu: tietojenkäsittelyn resurssipalvelu
-langaton sensori- ja toimilaiteverkko (Wireless Sensor and Actuator Network, WSAN)
-integroitu tuholaistorjunta (IPM)
+langaton sensori- ja toimilaiteverkko (engl. Wireless Sensor and Actuator Network, WSAN)
+integroitu tuholaistorjunta (engl. Integrated Pest Management, IPM)
 
 # JOHDANTO
 
@@ -596,8 +596,12 @@ IoT-ratkaisut mahdollistavat fyysisten objektien virtausten ja niihin liittyvän
     * **Notkeat ruokatehtaat**: IoT-ratkaisut mahdollistavat hajautetun ja joustavan ruoan prosessoinnin ruokaa havainnoivien sensoreiden, paikallisen tietojenkäsittelyn ja tiedonhankinnan sekä kytkettävyyden lisäämisellä ruoan prosessoinnin laitteisiin.
     * **Virtuaaliset ruoan tuotantoketjut**: IoT-ratkaisut mahdollistavat ruoan tuotantoprosessien hallinnoinnin virtualisoinnin, mikä puolestaan mahdollistaa edistyneen etänä tehtävän suunnittelun, uudelleensuunnitelun, tarkkailun ja kontrolloinnin sekä uudet liiketoimintamallit.
 
-### Väliotsikko - AIoT:n teknologioiden ryhmittelyt
 
+### AIoT:n teknologiat
+
+#### Meta (poistettava otsikko)
+
+*Mitkä ovat keskeiset AIoT:n teknologiaratkaisuit?*
 **AIoT-ratkaisuissa käytettävät teknologiat**
 AIoT-ratkaisuissa sovelletut teknologiat ja infrastruktuurit on jaoteltu seitsemään ryhmään Talavera et al. (2017) kirjallisuuskatsauksen mukaisesti: 
 1. Valvottavat ympäristömuuttujat
@@ -613,34 +617,6 @@ AIoT-ratkaisuissa sovelletut teknologiat ja infrastruktuurit on jaoteltu seitsem
 *Väliohjelmistot*
 *Tietojenkäsittely (?)*
 
-
-
-Talavera et al. (2017) kirjallisuuskatsauksessa **AIoT-ratkaisujen sovellusalueet** on ryhmitelty seuraavasti: 
-1. valvonta
-2. kontrollointi
-3. logistiikka
-4. ennustus
-yleiset sovellukset
-
-**AIoT:n avoimet haasteet** on ryhmitelty seuraavasti: 
-standardisaatio, 
-tieto- ja kyberturvallisuus, 
-laitteiden energiatehokkuus, 
-laitteiden kestävyys, 
-langaton tiedonsiirto, 
-analytiikka, 
-AIoT:n ekosysteemin laajentaminen, 
-ohjelmistokehitys ja 
-muut haasteet.
-
-**Esitetyt AIoT-arkkitehtuurit** on koottu omaan osioonsa.
-
-
-### AIoT:n teknologiat
-
-#### Meta (poistettava otsikko)
-
-*Mitkä ovat keskeiset AIoT:n teknologiaratkaisuit?*
 
 Keskeisimpiä yleisen IoT:n mahdollistavia teknologioita ovat Atzori et al. (2010) mukaan tunnistus-, anturointi- ja tietoliikennetekniikka sekä väliohjelmistot. IoT-konsepti voidaan lähtökohtaisesti toteuttaa näiden teknologioiden integroinnilla. (@atzoriInternetThingsSurvey2010) Tämä on selkeästi havaittavissa useissa ehdotetuissa AIoT-arkkitehtuureissa. 
 *tunnistus:* Keskeinen osa IoT:n kehitystä ovat RFID-tunnisteet, joilla voidaan tarkkailla niillä merkittyjen fyysisten kohteiden liikkumista järjestelmässä tosiaikaisesti.
@@ -932,13 +908,14 @@ Katsauksen aineistossa on esitetty useita erilaisia arkkitehtuurimalleja yhteenv
 
 Aikaisemmin käytettyjen tiedostonsiirtoon perustuvien arkkitehtuurien puutteita on pyritty korjaamaan siirtymällä soveltamaan palvelukeskeisiä arkkitehtuureja (engl. Service Oriented Architecture, SOA), mikä on ollut yleinen suuntaus julkaistuissa tutkimuksissa (@blankIGreenUbiquitousDynamic2013). Esineiden käsittely palveluina voi kuitenkin olla huomattava haaste IoT-arkkitehtuureille vaaditun laskentatehon ja hinnan asettamien rajoitusten takia (@vermesanInternetThingsGlobal2011, 174). Xu et al. (2014) mukaan palvelukeskeinen arkkitehtuuri kuitenkin sopii hyvin IoT-ratkaisuiden suunnitteluun, koska se mahdollistaa heterogeenisten järjestelmien ja laitteiden integroinnin (@xuInternetThingsIndustries2014). Samoin Granell et al. arvioivat palvelukeskeisen arkkitehtuurin olevan hyvin tehokas lähestymistapa IoT- ja pilviteknologioihin perustuvien palveluiden tuottamiseen(@granellFutureInternetTechnologies2016).
 
-IoT-järjestelmien arkkitehtuurin tulee ottaa huomioon erilaiset arkkitehtuurimallit, tietoliikenneratkaisut, älykkäät laitteet, verkkopalvelut ja -sovellukset, liiketoimintamallit ja -prosessit, yhteistoiminnallisen tiedonkäsittelyn ratkaisut, tietoturva jne. Lisäksi arkkitehtuurin tulee huomioida suunniteltavan ratkaisun jatkettavuus, skaalautuvuus, modulaarisuus ja yhteistoiminnallisuus heterogeenisten laitteiden kanssa. Samoin on otettava huomioon, että laitteet voivat liikkua ja saattavat toimia vuorovaikutuksessa muuttuvan ympäristön kanssa. Tällöin myös arkkitehtuurin ja sen mukaan rakennetun järjestelmän tulee voida sopeutua muutoksiin. (@xuInternetThingsIndustries2014)
+Kokonaisuutena IoT-järjestelmien arkkitehtuurien tulee ottaa huomioon erilaiset arkkitehtuurimallit, tietoliikenneratkaisut, älykkäät laitteet, verkkopalvelut ja -sovellukset, liiketoimintamallit ja -prosessit, yhteistoiminnallisen tiedonkäsittelyn ratkaisut, tietoturva jne. Lisäksi arkkitehtuurin tulee huomioida suunniteltavan ratkaisun jatkettavuus, skaalautuvuus, modulaarisuus ja yhteistoiminnallisuus heterogeenisten laitteiden kanssa. Samoin on otettava huomioon, että laitteet voivat liikkua ja saattavat toimia vuorovaikutuksessa muuttuvan ympäristön kanssa. Tällöin myös arkkitehtuurin ja sen mukaan rakennetun järjestelmän tulee voida sopeutua muutoksiin. (@xuInternetThingsIndustries2014)
 
+*Miksi tämä on tässä? Mikä tekee tästä ITU:n arkkitehtuurista merkittävän?*
 Kansainvälinen televiestintäliitto (engl. International Telecommunication Union, ITU) on suosituksessaan ITU-T Y.2060 (2012) kuvaillut nelikerroksisen IoT-arkkitehtuurin. Kerrokset on jaoteltu sovelluskerrokseen, palvelu- ja sovellustuen kerrokseen, tietoliikenne- ja laitekerrokseen. (@internationaltelecommunicationunion2060OverviewInternet2012)
 
 Kirjallisuuskatsauksissa esitetyt arkkitehtuurit on usein jaoteltu palvelukeskeisen arkkitehtuurimallin mukaisesti kerroksittain, esimerkiksi Talavera et al. (2017) kirjallisuuskatsauksessa esitetyssä arkkitehtuurissa kerrokset ovat fyysinen-, tietoliikenne-, palvelu- ja sovelluskerros. (@talaveraReviewIoTApplications2017) Vastaavasti Verdouw et al. (2016) jaottelevat IoT-arkkitehtuurin laite-, verkko- ja sovelluskerroksiin (@verdouwInternetThingsAgriculture2016a). Xu et al. (2014) puolestaan esittivät arkkitehtuurin, jossa jaottelu tehtiin havainnointi-, tietoverkko-, palvelu- ja liittymäkerrokseen (@xuInternetThingsIndustries2014). Tzounis et al. (2017) esittivät IoT-arkkitehtuurin jakautuvan havaintokerrokseen, tietoliikenne- ja sovelluskerrokseen, samoin kuin Vermesan et al. (2011) (@tzounisInternetThingsAgriculture2017; @vermesanInternetThingsGlobal2011). 
 
-Poikkeuksena edellisiin Barmpounakis et al. esittivät arkkitehtuurin, joka teknisten kerrosten sijaan perustuu Future Internet Public–Private Partnership:in (FI-PPP) yleiskäyttöisiin FI-WARE-hankkeessa kehitettyihin ohjelmistomoduleihin (Generic Enabler, GE) ja niiden laajennuksiin maatalouden vastaaviin moduleihin (domain specific enablers) (ks. Kaloxylos et al. (2013), 56-57). Tämän arkkitehtuurin tavoitteena on mahdollistaa yhteiskäytettävyys erilaisten palveluiden ja sidosryhmien välillä, toisin kuin muissa esitetyissä arkkitehtuureissa jossa keskitytään IoT-järjestelmien toiminnan kuvaamiseen. Arkkitehtuurin avulla pyritään tuottamaan alustapalvelu (engl. Platform as a Service, PAAS) jolla eri alojen sidosryhmät voivat toimia yhdessä. (@barmpounakisManagementControlApplications2015; @kaloxylosUseFutureInternet2013) 
+Poikkeuksena edellisiin Barmpounakis et al. esittivät arkkitehtuurin, joka teknisten kerrosten sijaan perustuu Future Internet Public–Private Partnership:in (FI-PPP) yleiskäyttöisiin FI-WARE-hankkeessa kehitettyihin ohjelmistomoduleihin (Generic Enabler, GE) ja niiden laajennuksiin maatalouden vastaaviin moduleihin (domain specific enablers) (ks. Kaloxylos et al. (2013), 56-57). Tämän arkkitehtuurin tavoitteena on mahdollistaa yhteiskäytettävyys erilaisten palveluiden ja sidosryhmien välillä, toisin kuin muissa esitetyissä arkkitehtuureissa jossa keskitytään IoT-järjestelmien toiminnalliseen kuvailuun. Arkkitehtuurin avulla pyritään tuottamaan alustapalvelu (engl. Platform as a Service, PAAS) jolla ruokaketjun eri alojen sidosryhmät voivat toimia yhdessä. (@barmpounakisManagementControlApplications2015; @kaloxylosUseFutureInternet2013) 
 
 *tarvitaanko tätä kerrosten selittelyä?*
 Sovelluskerros on Atzori et al. (2010) mukaan IoT-arkkitehtuurin ylin kerros, joka on lähinnä käyttäjää ja joka käyttää väliohjelmistokerroksen palveluita. Viime vuosina julkaistut väliohjelmistokerroksen arkkitehtuurit on suunniteltu palvelukeskeinen arkkitehtuurin mallin mukaisesti. Vaikka tätä varten yleisesti hyväksyttyä arkkitehtuurimallia ei ole, esitetyt arkkitehtuurit käsittelevät keskenään samankaltaisia toimintoja kuten laitteiden toiminnallisuuksien ja tietoliikennetoimintojen abstraktointia. (@atzoriInternetThingsSurvey2010)
