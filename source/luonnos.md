@@ -136,8 +136,6 @@ II) Miten kasvintuotannossa hyödynnetään IoT-teknologioita?
 
 ## Tutkimusstrategian/menetelmän valinta
 
-*Tässä osiossa perustellaan tutkimusmenetelmien valinta, millaiset seikat puoltavat valittujen menetelmien valintaa ja mitä ongelmia valituilla menetelmillä on.*
-
 Opinnäytetyö tehtiin käyttäen laadullisia tutkimusmenetelmiä koska tutkimustehtävänä on koota yhteen laadulliseksi yhteenvedoksi tutkimuksien tuloksia, erilaisten julkaisujen sisältöjä ja asiantuntijoiden näkemyksiä.
 
 Tutkimusmenetelmien valintaan on vaikuttanut voimakkaasti tutkimustehtävä ja tutkimuskysymysten asettelu. Tämän opinnäytetyön tutkimustehtävä viittaa laadulliselle tutkimukselle ominaisiin kohteisiin kuten ilmiön kuvailuun, käsitteiden ja rakenteiden jäsentämiseen, tiedonantajien kokemuksiin ja näkemyksiin sekä aineistolähtöiseen lähestymistapaan. Laadullisten eli kvalitatiivisten menetelmien valintaa puoltavat tutkimuskysymysten laadullinen luonne ja väljä asettelu. Opinnäytetyön tutkimuskysymyksillä pyritään laadullisen tutkimuksen menetelmäsuuntauksen mukaisesti ymmärtämään kohteen laatua, ominaisuuksia ja merkityksiä kokonaisvaltaisesti (ks. @hirsjarviTutkiJaKirjoita2009, 160-161). Opinnäytetyössä käsiteltävä aineisto kerättiin narratiivisella kirjallisuuskatsauksella ja teemahaastatteluilla. Aineisto on laadullista, tekstimuotoista ja sitä on tarkoitus analysoida lukemalla mikä osaltaan puoltaa laadullisten menetelmien valintaa.
@@ -152,8 +150,6 @@ Hirsjärven ja Hurmeen (2015, 35-36) esittämät haastattelun haitat, kuten 1) h
 
 
 ## Kirjallisuuskatsaus
-
-*Tässä osiossa kerrotaan lyhyesti mitä kirjallisuuskatsauksella voidaan tehdä sekä yleisesti että tutkimusmenetelmänä, kirjallisuuskatsauksen tarkoitukset ja perustelut sekä lopuksi sivutaan kirjallisuuskatsauksen tyyppejä.*
 
 Kirjallisuuskatsauksella voidaan Baumeisterin ja Learyn (1997, 311) mukaan rakentaa siltaa kiireisen lukijan ja valtavan, hajallaan olevan teoriatiedon välille. Katsauksella voidaan myös esittää tutkittavasta ilmiöstä laajempia teoreettisia johtopäätöksiä mitä yksittäisen empiirisen tutkimuksen puitteissa on mahdollista. (@baumeisterWritingNarrativeLiterature1997, 311) Kirjassaan Mikä kirjallisuuskatsaus? Salminen (2011, 39) kuvailee kirjallisuuskatsausta tutkimusmenetelmänä ja -tekniikkana, jonka avulla voidaan koota yhteen tutkimuksien tuloksia ja näin rakentaa perustaa uusille tutkimustuloksille. Kirjallisuuskatsauksella tehdään siis ’tutkimusta tutkimuksesta’. Hänen mukaansa tutkija voi kirjallisuuskatsauksen avulla  laaja-alaisesti ja systemaattisesti kerätä erinomaista materiaalia oman alansa tutkimuksesta. (@salminenMikaKirjallisuuskatsausJohdatus2011, 4, 39) Samoin Baumeisterin ja Learyn (1997, 312) mukaan narratiivinen kirjallisuuskatsaus on teoriakehityksen tekniikka, jota voidaan käyttää myös hypoteesien rakentamiseen. Heidän mukaansa narratiivista kirjallisuuskatsausta voidaan käyttää useiden eri aihepiirien tutkimusten linkittämiseen pyrittäessä joko tutkimusten uudelleentulkintaan tai yhteenliittämiseen. (@baumeisterWritingNarrativeLiterature1997, 312) Hirsjärven et al. (2009, 121) mukaan kirjallisuuskatsauksella on kaksi keskeistä tarkoitusta: Kirjallisuuskatsauksen tulee tuoda esiin, miten ja mistä näkökulmista tutkittavaa ilmiotä on tutkittu sekä miten tekeillä oleva tutkimus liittyy aikaisemmin tehtyihin tutkimuksiin. (@hirsjarviTutkiJaKirjoita2009, 121)
 
@@ -352,9 +348,9 @@ Haastateltaviksi olisi ollut hyvä saada valittujen asiantuntijoiden lisäksi ka
 
 Haastattelujen teemat laadittiin alustavilla hauilla kerätyn aineiston ja alustavien keskustelujen perusteella. Poiketen yleisistä teemahaastattelujen menetelmäohjeista haastatteluiden teemoja voitiin muutettaa tarvittaessa ennen haastatteluja harkinnanvaraisesti, mutta pitäen huolta kaikkien teemojen käsittelystä kaikissa haastatteluissa. Perusteena tälle on se, että tämän työn asiantuntijahaastatteluissa ei ollut tarpeellista tutkia haastateltavien reaktioita tietyssä järjestyksessä esille otettuihin teemoihin. Tarvittaessa teemojen hienosäätöä tehtiin kunkin haastateltavan asiantuntijan erikoistumisen mukaan, ottaen huomioon aikaisemmista haastatteluista saadut kokemukset ja taustatyöstä saadut tiedot. Haastattelun teemoja voitiin järjestellä uudelleen myös haastattelutilanteen niin vaatiessa, myötäillen haastattelun kulkua teemasta toiseen.
 
-Haastattelut toteutettiin 8.11.2017 - 11.4.2018 välisenä aikana. Haastateltavat saivat itse valita haastattelulle sopivan paikan ja ajankohdan, mitkä olivat yleensä arkipäivisin haastateltavien työpaikoilla. Yksi haastattelu tehtiin haastateltavan kotona ja yksi puhelimitse.
+Haastattelut toteutettiin 8.11.2017 - 11.4.2018 välisenä aikana. Haastateltavat saivat itse valita haastattelulle sopivan paikan ja ajankohdan, mitkä olivat kolmessa tapauksessa työaikaan arkipäivisin haastateltavien työpaikoilla. Yksi haastattelu tehtiin haastateltavan maatilalla ja yksi puhelimitse.
 
-Haastattelujen litteroinnissa käytetään yleiskielistä litterointia. Yleiskielistä litterointia tarkempaa sanatarkkaa litterointia on käytetty, jos sanojen poistamisella litteroinnista on arvioitu olevan tarkoitusta mahdollisesti muuttava vaikutus.
+Haastattelujen litteroinnissa käytetään yleiskielistä litterointia. Yleiskielistä litterointia tarkempaa sanatarkkaa litterointia on käytetty, jos yleiskielisellä litteroinnilla on arvioitu olevan mahdollisesti tarkoitusta muuttava vaikutus.
 
 #### Haastatteluaineiston analyysimenetelmä
 
