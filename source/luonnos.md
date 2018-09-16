@@ -405,67 +405,17 @@ Koodien havaintojen laskennassa olisi voinut vertailun vuoksi käyttää myös s
 
 ###### Sisällönanalyysin kulku
 
-"Sisällönanalyysi" toteutettiin lukemalla haastattelumateriaali huolellisesti, merkitsemällä taulukkoon havaitut merkitykselliset ilmaisut koodeina, kategorisoimalla koodit ja analysoimalla saatuja tuloksia. Saatuja tuloksia käytettiin haastattelumateriaalista tehtyjen aikaisempien havaintojen ja päätelmien tarkistamisessa ja uusien asiayhteyksien etsimisessä.
-*miten tutkimuskysymyksiin pyrittiin vastaamaan*
+Sisällönanalyysi eteni aineiston **koodauksen ja kategorisoinnin** kautta **taulukointiin**, josta edettiin **analyysiin** ja jonka perusteella tehtiin **johtopäätökset** (ks. @tuomiLaadullinenTutkimusJa2018, 104 - 107).
+Sisällönanalyysi toteutettiin lukemalla haastattelumateriaali huolellisesti, merkitsemällä taulukkoon havaitut merkitykselliset ilmaisut koodeina, kategorisoimalla koodit ja analysoimalla saatuja tuloksia. Saatuja tuloksia käytettiin haastattelumateriaalista tehtyjen aikaisempien havaintojen ja päätelmien tarkistamisessa sekä uusien asiayhteyksien etsimisessä.
+
 Analyysillä pyrittiin vastaamaan tutkimuskysymyksiin havainnoimalla tutkimuskysymyksille relevanttien teemojen ilmetymiä koodeissa, kategorioiden sisällä ja sisällön rakenteessa.
-*miten koko aineiston koodeja havainnointiin/tarkasteltiin, millä perusteella johtopäätöksiä tehtiin -- johtopäätökset sitten tutkimustuloksissa*
-Haastattelujen sisällön rakennetta analysoitiin havainnoimalla koodien ja kategorioiden esiintymistä ja keskinäisiä jakautumia laatimalla kuvaajia edelleen taulukoiduista ja uudelleenjärjestellyistä havainnoista. 
-*yhteenveto miten koodeja havaittiin/tarkasteltiin, eli miten haastattelut profiloitiin*
-Analyysin johtopäätöksiä tehtiin -- ottaen huomioon koodien havainnoinnin epävarmuustekijät -- kuvaajista havaituista trendeistä sekä kategorioiden ja koodien keskinäisten jakautumien rakenteista.
-*miten pyrittiin löytämään kehityskulun kuvaa yksittäisistä teemoista havainnoimalla*
-Samoin kuin haastattelujen yhteneväisyyksiä ja eroavaisuuksia, myös tutkimusaiheen kokonaiskuvaa pyrittiin hahmottamaan sisällönanalyysin avulla. Haastattelumateriaalissa käsitellyistä teemoista pyrittiin muodostamaan koodien havaintoja tarkistelemalla yleiskuva käsitellyistä teemoista sekä kunkin haastattelun ominaisista teemoista.
 
+Haastattelujen sisällön rakennetta analysoitiin havainnoimalla koodien ja kategorioiden esiintymistä ja keskinäisiä jakautumia laatimalla kuvaajia taulukoiduista ja uudelleenjärjestellyistä havainnoista. 
 
+Analyysin johtopäätöksiä tehtiin -- ottaen huomioon koodien havainnoinnin epävarmuustekijät -- kuvaajista havaituista trendeistä sekä kategorioiden ja koodien keskinäisestä jakautumisesta.
 
+Samoin kuin haastattelujen yhteneväisyyksiä ja eroavaisuuksia, myös tutkimusaiheen kokonaiskuvaa pyrittiin hahmottamaan sisällönanalyysin avulla. Haastattelumateriaalissa käsitellyistä teemoista pyrittiin muodostamaan koodien havaintoja tarkistelemalla yleiskuva sekä kaikissa haastatteluissa käsitellyistä teemoista että kullekin haastattelulle ominaisista teemoista.
 
-
-
-
-Tuomi ja Sarajärvi, Sisällönanalyysi s.97
-
-Seuraavassa Laineen kuvausta on
-hieman muokattu, mutta periaatteessa kuvaus on pysynyt samana:
-1. Päätä, mikä tässä aineistossa kiinnostaa ja tee VAHVA PÄÄTÖS!
-2a. Käy läpi aineisto, erota ja merkitse ne asiat, jotka sisältyvät kiinnostukseesi.
-2b. Kaikki muu jää pois tästä tutkimuksesta!
-2c. Kerää merkityt asiat yhteen ja erilleen muusta aineistosta.
-3. Luokittele, teemoita tai tyypittele aineisto.
-4. Kirjoita yhteenveto.
-
-...
-
-Kohdasta kaksi käytetään metodikirjallisuudessa nimitystä aineiston
-litterointi tai koodaaminen. Se, millaisia koodimerkkejä tms. käyttää, on
-jokaisen oma asia. Siihen ei ole olemassa mitään yhtenäistä ohjeistusta.
-Koodimerkeillä on kuitenkin viisi tärkeää tehtävää:
-1. Ne ovat sisään kirjoitettuja muistiinpanoja.
-2. Niillä jäsennetään sitä, mitä tutkijan mielestä aineistossa käsitellään.
-3. Ne toimivat tekstin kuvailun apuvälineenä.
-4. Ne toimivat aineiston jäsennyksen testausvälineenä.
-5. Niiden avulla voidaan etsiä ja tarkistaa tekstin eri kohtia eli ne toimivat osoitteena
-
-...
-
-Luokittelua pidetään
-yksinkertaisimpana aineiston järjestämisen muotona. Itse asiassa sitä pidetään
-kvantitatiivisena analyysina sisällön teemoin. Alkeellisimmillaan aineistosta
-määritellään luokkia ja lasketaan, montako kertaa jokainen luokka esiintyy
-aineistossa. Luokiteltu aineisto voidaan esittää taulukkona.
-
-Teemoittelu voi olla periaatteessa luokituksen kaltaista, mutta siinä
-painottuu, mitä kustakin teemasta on sanottu. Lukumäärillä on tai ei ole
-merkitystä riippuen laadullisen tutkimuksen perinteestä. Kaikkiaan kyse on
-laadullisen aineiston pilkkomisesta ja ryhmittelystä erilaisten aihepiirien
-mukaan. Näin on mahdollista vertailla tiettyjen teemojen esiintymistä
-aineistossa. Ennen
-
-
-
-
-
-
-
-**Koodaus & Kategorisointi** *-> Taulukointi -> Analyysi -> Johtopäätökset*
 
 ###### Haastattelumateriaalin koodaus ja koodien kategorisointi
 
@@ -482,23 +432,21 @@ Ensimmäisen läpikäynnin tuloksena saatiin 159 koodia ja toisella läpikäynni
 Toisen läpikäynnin aikana ja sen jälkeen koodeja luokiteltiin ensin alikategorioihin ja myöhemmin kategorioihin. Samoin kuin ensimmäisellä läpikäynnillä koodeja, alikategorioita ja kategorioita vertailtiin ja muokattiin jatkuvasti. Jatkuvalla vertailulla pyrittiin myös varmistamaan sekä teemojen oikeellisuus että havaintojen esiintymisten kirjaus. Tuloksena kategorioiksi muodostuivat Maataloustuotanto, Tekniikka ja Toimintaympäristö. Näiden alla on 33 alikategoriaa, joihin koodit on luokiteltu.
 
 
-*Koodaus & Kategorisointi -> **Taulukointi** -> Analyysi -> Johtopäätökset*
-
 ###### Haastattelumateriaalin koodien taulukointi
 
-Kategoriat, alikategoriat ja koodit havaintoineen taulukoitiin. *Koodit* Taulukossa koodien esiintymät laskettiin yhteen koodikohtaisesti, jonka jälkeen laskettiin koodikohtaiset esiintymät haastattelukohtaisesti. Saaduista luvuista tuotettiin taulukkoon yksinkertainen lämpökartta, josta voidaan visuaalisesti havainnoida koodien esiintymiä sekä haastattelukohtaisesti että koko materiaalissa yhdessä. 
+Kategoriat, alikategoriat ja koodit havaintoineen taulukoitiin. Taulukossa koodien esiintymät laskettiin yhteen koodikohtaisesti, jonka jälkeen laskettiin koodikohtaiset esiintymät haastattelukohtaisesti. Saaduista luvuista tuotettiin taulukkoon yksinkertainen lämpökartta, josta voidaan visuaalisesti havainnoida koodien esiintymiä sekä haastattelukohtaisesti että koko materiaalissa yhdessä. 
 
-Kopioimalla haastattelu- ja kategoriakohtaiset tiedot omiksi taulukoikseen pystyttiin järjestelemällä ja kuvaajia laatimalla tarkastella tehtyjä havaintoja eri konteksteissa ja lähestymiskulmista. Vertailun helpottamiseksi haastattelukohtaiset taulukot koottiin omaan taulukkoonsa *Koodit haastatteluittain*, johon lisättiin myös kaikkien havaintojen yhteenlasketut tiedot. Taulukkoon tehtiin myös tietojen havainnollistamiseksi kaaviot havaintojen määristä. Kaavioiden muotoja vertailemalla voidaan havainnoida miten eri koodien havainnot jakautuvat eri haastatteluissa ja kategorioissa, eli keskityttiinkö muutamaan aiheeseen vai käsiteltiinkö useampia asiakokonaisuuksia.
+Kopioimalla haastattelu- ja kategoriakohtaiset tiedot omiksi taulukoikseen pystyttiin järjestelemällä ja kuvaajia laatimalla tarkastella tehtyjä havaintoja eri konteksteissa ja lähestymiskulmista. Vertailun helpottamiseksi haastattelukohtaiset taulukot koottiin omaan taulukkoonsa , johon lisättiin myös kaikkien havaintojen yhteenlasketut tiedot. Taulukkoon tehtiin myös tietojen havainnollistamiseksi kaaviot havaintojen määristä. Kaavioiden muotoja vertailemalla voidaan havainnoida miten eri koodien havainnot jakautuvat eri haastatteluissa ja kategorioissa, eli keskityttiinkö muutamaan aiheeseen vai käsiteltiinkö useampia asiakokonaisuuksia.
 
-Koodien alikategoriakohtaisia määriä vertailtiin keskenään omassa taulukossaan *Koodien määrät kategorioissa*, josta voidaan tarkastella alikategoriakohtaisesti koodien edustamien asiasisältöjen piirteitä.
+Koodien alikategoriakohtaisia määriä vertailtiin keskenään omassa taulukossaan, josta voidaan tarkastella alikategoriakohtaisesti koodien edustamien asiasisältöjen piirteitä.
 
-Haastattelujen keskinäisiä yhteneväisyyksiä ja eroavaisuuksia pyrittiin tuomaan esille kopioimalla omaan taulukkoonsa *Koodit Havainnot >1* yli kerran yksittäisestä haastattelusta havaitut koodit. Haastattelukohtaisten koodien ryhmiä vertailtiin sekä haastattelujen kesken että koko haastattelumateriaalista yli viidesti havaittuijen koodien ryhmään. Haastattelujen koodiryhmien vertailuun otettiin mukaan kahdesti tai useammin havaitut koodit, koska haluttiin varmistaa koodien merkitsevyys vertailtaessa haastatteluja keskenään. Vastaavasti yli viidesti koko haastattelumateriaalista havaittujen koodien arveltiin olevan tarpeeksi usein ilmeneviä, jotta ne ovat relevantteja kokonaisuuden kannalta ja vertailukelpoisia haastattelukohtaisten koodien kanssa. Taulukossa merkittiin haastattelukohtaiset koodit, jotka ilmenivät ainakin kerran myös joko muissa haastattelukohtaisissa koodiryhmissä tai koko haastattelumateriaalia edustavassa koodiryhmässä. Tällöin voitiin havaita kullekin haastattelulle yksilölliset koodit, joista oli tehty haastattelumateriaalissa ainakin kaksi havaintoa ja joita ei havaittu muissa haastatteluissa yli yhtä kertaa. Nämä koodit saattavat siis viitata kyseisen haastattelun teemoihin, jotka havaittiin haastattelussa, mutta ei yleisesti koko haastattelumateriaalissa. Lisäksi taulukossa laskettiin kuinka monta koko haastattelumateriaalin koodien ryhmän koodeista löytyi kustakin haastattelukohtaisten koodien ryhmästä. Saaduista luvuista voitiin laskea, kuinka suuri osa kunkin haastattelun koodeista löytyy koko materiaalin eniten havainnoitujen koodien joukosta. Nämä luvut voivat puolestaan viitata kyseisen haastattelun aiheiden geneerisyyteen haastattelumateriaalissa.
+Haastattelujen keskinäisiä yhteneväisyyksiä ja eroavaisuuksia pyrittiin tuomaan esille kopioimalla omaan taulukkoonsa yli kerran yksittäisestä haastattelusta havaitut koodit. Haastattelukohtaisten koodien ryhmiä vertailtiin sekä haastattelujen kesken että koko haastattelumateriaalista yli viidesti havaittuijen koodien ryhmään. Haastattelujen koodiryhmien vertailuun otettiin mukaan kahdesti tai useammin havaitut koodit, koska haluttiin varmistaa koodien merkitsevyys vertailtaessa haastatteluja keskenään. Vastaavasti yli viidesti koko haastattelumateriaalista havaittujen koodien arveltiin olevan tarpeeksi usein ilmeneviä, jotta ne ovat relevantteja kokonaisuuden kannalta ja vertailukelpoisia haastattelukohtaisten koodien kanssa. Taulukossa merkittiin haastattelukohtaiset koodit, jotka ilmenivät ainakin kerran myös joko muissa haastattelukohtaisissa koodiryhmissä tai koko haastattelumateriaalia edustavassa koodiryhmässä. Tällöin voitiin havaita kullekin haastattelulle yksilölliset koodit, joista oli tehty haastattelumateriaalissa ainakin kaksi havaintoa ja joita ei havaittu muissa haastatteluissa yli yhtä kertaa. Nämä koodit saattavat siis viitata kyseisen haastattelun teemoihin, jotka havaittiin haastattelussa, mutta ei yleisesti koko haastattelumateriaalissa. Lisäksi taulukossa laskettiin kuinka monta koko haastattelumateriaalin koodien ryhmän koodeista löytyi kustakin haastattelukohtaisten koodien ryhmästä. Saaduista luvuista voitiin laskea, kuinka suuri osa kunkin haastattelun koodeista löytyy koko materiaalin eniten havainnoitujen koodien joukosta. Nämä luvut voivat puolestaan viitata kyseisen haastattelun aiheiden geneerisyyteen haastattelumateriaalissa.
 
-Kategorioiden, koodien ja niiden havaintojen määrien havainnollistamiseksi koostettiin taulukko *Kategoriat per Haastattelu* haastattelukohtaisista koodien havainnoista. Kategorioista, koodien määristä ja koodien havaintomääristä koostettiin kuvaajat, joista nähdään kategorioiden jakautuminen haastatteluissa sekä koodien määrien että koodien havaintojen määrien mukaan, niiden jakautuminen haastatteluihin ja eriteltynä kategorioittain. Näistä kuvaajista voidaan tarkistella haastattelujen keskinäisiä eroja kategoriatasolla sekä kuinka suuri osa tietyssä haastattelussa havaituista koodeista ja sen havainnoista on mistäkin kategoriasta ja miten kategorioiden kaikki koodit ja havainnot jakaantuvat eri haastatteluihin. Lisäksi voidaan vertailla haastattelujen kategorioiden jakautumista haastattelujen välillä sekä koodien määrän että koodien havaintojen määrän mukaan.
+Kategorioiden, koodien ja niiden havaintojen määrien havainnollistamiseksi koostettiin taulukko haastattelukohtaisista koodien havainnoista. Kategorioista, koodien määristä ja koodien havaintomääristä koostettiin kuvaajat, joista nähdään kategorioiden jakautuminen haastatteluissa sekä koodien määrien että koodien havaintojen määrien mukaan, niiden jakautuminen haastatteluihin ja eriteltynä kategorioittain. Näistä kuvaajista voidaan tarkistella haastattelujen keskinäisiä eroja kategoriatasolla sekä kuinka suuri osa tietyssä haastattelussa havaituista koodeista ja sen havainnoista on mistäkin kategoriasta ja miten kategorioiden kaikki koodit ja havainnot jakaantuvat eri haastatteluihin. Lisäksi voidaan vertailla haastattelujen kategorioiden jakautumista haastattelujen välillä sekä koodien määrän että koodien havaintojen määrän mukaan.
 
-Koodien havaintojen keskinäisiä yhteneväisyyksiä ja niiden kautta teemojen esiintymisten samankaltaisuuksia kartoitettiin lämpökartalla *heatmap*, johon koodit järjestettiin samankaltaisuuden perusteella R heatmap.2 -funktion avulla. Samankaltaisuus määriteltiin koodin haastattelukohtaisten esiintymiskertojen mukaan, esimerkiksi koodit Tekniikka-Standardi-Muut ja Toimintaympäristö-Tuotantoketju-Liiketoiminnan ekosysteemi olivat samankaltaisia molempien esiintyessä yhtä monta kertaa samoissa haastatteluissa: Haastattelussa 1 neljä kertaa, haastattelussa 2 kerran, haastattelussa 3 kahdesti ja lopuissa haastatteluissa ei kertaakaan.
+Koodien havaintojen keskinäisiä yhteneväisyyksiä ja niiden kautta teemojen esiintymisten samankaltaisuuksia kartoitettiin lämpökartalla, johon koodit järjestettiin samankaltaisuuden perusteella R heatmap.2 -funktion avulla (ks. liite R heatmap.2). Samankaltaisuus määriteltiin koodin haastattelukohtaisten esiintymiskertojen mukaan, esimerkiksi koodit Tekniikka-Standardi-Muut ja Toimintaympäristö-Tuotantoketju-Liiketoiminnan ekosysteemi olivat samankaltaisia molempien esiintyessä yhtä monta kertaa samoissa haastatteluissa: Haastattelussa 1 neljä kertaa, haastattelussa 2 kerran, haastattelussa 3 kahdesti ja lopuissa haastatteluissa ei kertaakaan.
 
-Lopuksi haastattelumateriaalin sanamäärät laskettiin analysaattoriohjelmalla ja taulukoitiin omaan taulukkoonsa *Sanamäärät*. Analysaattoriin syötettiin haastattelujen äänitteistä litteroidusta tekstistä muokattu versio, joka sisälsi vain haastateltavien itse sanomat sanat. 
+Lopuksi haastattelumateriaalin sanamäärät laskettiin analysaattoriohjelmalla ja taulukoitiin omaan taulukkoonsa. Analysaattoriin syötettiin haastattelujen äänitteistä litteroidusta tekstistä muokattu versio, joka sisälsi vain haastateltavien itse sanomat sanat. 
 
 Useammin kuin kerran löytyneistä sanoista (1920 sanaa) valittiin haastattelujen aikaisempien käsittelyvaiheiden tuoman kokemuksen perusteella arviolta merkitsevät sanat, joiden sanarungolla, ja/tai alkukirjaimilla haettiin kaikkien sanojen joukosta (6011 sanaa) sanan eri taivutusmuodot, lyhennelmät ja virheellisesti kirjoitetut esiintymät. Sanojen havaitut synonyymit ja selkeästi haastatteluissa samaa tarkoittavien sanojen esiintymät laskettiin yhteen. 
 
@@ -507,42 +455,37 @@ Esimerkiksi sanat täsmäviljely, täsmäviljejyn, täsmäviljelyä, täsmävi
 Tuloksena saatiin 118 asiasanaa, joiden esiintymät taulukoitiin, järjestettiin ja joiden esiintymien määristä laadittiin kuvaaja. Taulukon ja kuvaajan avulla voidaan arvioida haastattelumateriaalin keskeisimpien teemojen yleisyyttä ja keskinäisiä suhteita.
 
 
-*Koodaus & Kategorisointi -> Taulukointi -> **Analyysi** -> Johtopäätökset*
-
 ###### Haastattelumateriaalin analysointi taulukoitujen tietojen avulla
 
 Haastattelumateriaalista havaittujen koodien määrien perusteella analysoitiin miten eri kategoriat jakautuvat eri haastatteluissa sekä havaintojen määrän että kategorioiden (ja alikategorioiden) mukaan. Myös koodien määrät kategorioissa ja alikategorioissa taulukoitiin ja määriä vertailtiin keskenään. 
+*Mahd. kuvaaja taulukosta välilehdeltä Koodit*
 
-*Koodit haastatteluittain*
-Koodien havaintojen määristä laadittiin kuvaajat, joiden muodosta ja koosta voidaan tehdä tulkintoja koodien jakautumisesta sekä haastatteluiden välillä että kategorioiden sisällä kussakin haastattelussa. Lisäksi kaikkien havaintojen yhdistävän taulukon kuvaajaa voidaan verrata haastattelukohtaisiin vastaaviin. 
+Koodien havaintojen määristä laadittiin kuvaajat, joiden muodosta ja koosta voidaan tehdä tulkintoja koodien jakautumisesta sekä haastatteluiden välillä että kategorioiden sisällä kussakin haastattelussa. Lisäksi kaikkien havaintojen yhdistävän taulukon kuvaajaa voidaan verrata haastattelukohtaisiin vastaaviin.
+*Mahd. kuvaaja taulukosta välilehdeltä Koodit haastatteluittain*
 
-*Kategoriat per Haastattelu*
-Haastattelujen sisällön rakenteen havainnollistamiseksi kussakin haastattelussa havaitut koodit haastattelukohtaisine havaintomäärineen taulukoitiin yhteen ja laadittiin kuvaajat, joista voidaan havainnoida kategorioiden ja koodien jakautumista haastattelukohtaisesti ja verrata niitä toisiin haastatteluihin ja kategorioihin. 
+Haastattelujen sisällön rakenteen havainnollistamiseksi kussakin haastattelussa havaitut koodit haastattelukohtaisine havaintomäärineen taulukoitiin yhteen ja laadittiin kuvaajat, joista voidaan havainnoida kategorioiden ja koodien jakautumista haastattelukohtaisesti ja verrata niitä toisiin haastatteluihin ja kategorioihin.
+*Mahd. kuvaaja taulukosta välilehdeltä Kategoriat per Haastattelu*
 
-*Heatmap*
-Koodien yhteneväisyyksien analysointi lämpökartan avulla tehtiin havainnoimalla samankaltaisella tavalla esiintyviä koodiryhmiä. *Koska koodit ja niiden havainnot perustuvat vain yhden tekijän omaan tulkintaan, analyysissä ei voida luottaa kahden samalla tavalla havainnoidun koodin tai koodiryhmän asiasisältöjen olevan haastattelumateriaalissa samankaltaisia.* Samankaltaisesti esiintyvien koodien ryhmistä voidaan havainnoida miten ryhmän koodeja on havaittu haastattelumateriaalissa. Koodien järjestely ja ryhmittely mahdollistaa haastattelujen ominaispiirteiden havainnoinnin koodien määrien yhteneväisyyksien avulla, ottaen huomioon myös havaintojen puuttumiset. Lisäksi lämpökartassa esiintyvien koodiryhmien asiasisältöjen tulkinnalla voidaan pyrkiä löytämään aikaisemmin huomaamatta jääneitä yhteyksiä.
+Koodien keskinäisiä yhteneväisyyksiä pyrittiin analysoimaan lämpökartan avulla havainnoimalla samankaltaisella tavalla esiintyviä koodiryhmiä. Koska koodit ja niiden havainnot perustuvat vain yhden tekijän omaan tulkintaan, analyysissä ei voida täysin luottaa kahden samalla tavalla havainnoidun koodin tai koodiryhmän asiasisältöjen olevan haastattelumateriaalissa samankaltaisia. Samankaltaisesti esiintyvien koodien ryhmistä voidaan havainnoida miten ryhmän koodeja on havaittu haastattelumateriaalissa. Koodien järjestely ja ryhmittely mahdollistaa haastattelujen ominaispiirteiden havainnoinnin koodien määrien yhteneväisyyksien avulla, ottaen huomioon myös havaintojen puuttumiset. Lisäksi lämpökartassa esiintyvien koodiryhmien asiasisältöjen tulkinnalla voidaan pyrkiä löytämään aikaisemmin huomaamatta jääneitä yhteyksiä.
+*Mahd. kuvaaja lämpökartasta heatmap*
 
-*Koodien määrät kategorioissa*
 Itse koodien määrän voidaan tulkita viittaavan erilaisten asiasisältöjen määrään. Koodien määristä kategorioittain ja alikategorioittain ryhmiteltyinä voidaan tehdä tulkintoja ryhmittelyjen laajuuksista asiasisältöjen määrien perusteella. Toisaalta kategoriat, alikategoriat ja niiden sisällään pitämät koodit voivat olla yleisluontoisempia kuin toiset, jolloin lukuja voi pitää vain suuntaa-antavina.
+*Mahd. kuvaaja taulukosta välilehdeltä Koodien määrät kategorioissa*
 
-*Koodit Havainnot >1*
 Haastattelujen yhteneväisyyksien ja eroavaisuuksien tulkintaa varten taulukoitiin yksittäisissä haastatteluissa yli yksi kertaa havaitut koodit samaan taulukkoon viisi kertaa koko haastattelumateriaalissa havaittujen koodien kanssa. Vertailuista saatujen lukujen mukaan voidaan tehdä tulkintoja kunkin haastattelun yksilöllisyydestä niissä havaittujen koodien perusteella.
+*Mahd. kuvaaja taulukosta välilehdeltä Koodit Havainnot >1* 
 
-*Sanamäärät*
 Koodien, alikategorioiden ja kategorioiden mukaan tehtyjä havaintoja vertailtiin myös koko haastattelumateriaalissa esiintyviin asiasanoihin. Asiasanojen määrien perusteella järjesteltyä asiasanalistaa voidaan vertailla yleisimpiin koodeihin ja tarkistella ovatko molemmilla metodeilla tehdyt havainnot samansuuntaisia vai löytyykö niiden väliltä selkeitä eroja.
+*Mahd. kuvaaja taulukosta välilehdeltä Sanamäärät*
 
-
-*Koodaus & Kategorisointi -> Taulukointi -> Analyysi ->* **Johtopäätökset**
 
 ###### Haastattelumateriaalista johtopäätösten vetäminen analyysin perusteella
 
 *Esiintymien tiheyden ja samankaltaisuuden avulla pyrittiin luomaan kokonaiskuva teemojen yleisyydestä, yhtäläisyyksistä ja erilaisuudesta.*
 
-Kategorioiden ja teemojen määrien kuvaajien analysoinnin avulla voidaan vetää johtopäätöksiä  haastattelujen yleisestä luonteesta ja keskeisistä asiasisällöistä, esimerkiksi keskittyivätkö haastateltavat muutamaan ydinaiheeseen vai laajempiin asiakokonaisuuksien kuvailuun. Lisäksi voidaan päätellä mihin asiakokonaisuuksiin haastatteluissa keskityttiin haastattelukohtaisesti ja yhteensä koko haastattelumateriaalissa.
+Kategorioiden ja teemojen määrien kuvaajien analysoinnin avulla voidaan vetää johtopäätöksiä  haastattelujen yleisestä luonteesta ja keskeisistä asiasisällöistä. Esimerkiksi keskittyivätkö haastateltavat muutamaan ydinaiheeseen vai laajempiin asiakokonaisuuksien kuvailuun. Lisäksi voidaan päätellä mihin asiakokonaisuuksiin haastatteluissa keskityttiin haastattelukohtaisesti ja yhteensä koko haastattelumateriaalissa.
 
-Kategorioissa ja alikategorioissa esiintyvien koodien määristä puolestaan voidaan päätellä kuinka monipuolisia asiakokonaisuuksia kategoriat ja alikategoriat pitävät sisällään.
-
-Kategorioiden ja alikategorioiden yleisimmät koodit kerättiin loogisiksi teemojen ryhmiksi, joista kirjoitettiin kuvaukset haastattelumateriaalin keskeisistä teemoista. Ryhmien yleisimpien koodien samankaltaisuutta muihin koodeihin verrattuna tarkasteltiin myös laaditun lämpökartan avulla. Lämpökartta havainnollistaa erityisesti haastattelujen välisiä yhteneväisyyksiä ja eroavaisuuksia kooditasolla. Karttaa havainnoidessa tulee huomioida, että kartalla samankaltaiset koodit eivät välttämättä ole sisällöltään yhteydessä toisiinta vaan esiintyvät samoissa haastatteluissa yhtä monesti. Lämpökartassa samankaltaisista teemoista on valittu tarkasteltavaksi sellaiset, joilla on looginen yhteys toisiinsa haastattelumateriaalissa ja joista on useita havaintoja.
+Kategorioissa ja alikategorioissa esiintyvien koodien määristä puolestaan voidaan päätellä kuinka monipuolisia asiakokonaisuuksia kategoriat ja alikategoriat pitävät sisällään. Kategorioiden ja alikategorioiden yleisimmät koodit kerättiin loogisiksi teemojen ryhmiksi, joista kirjoitettiin kuvaukset haastattelumateriaalin keskeisistä teemoista. Ryhmien yleisimpien koodien samankaltaisuutta muihin koodeihin verrattuna tarkasteltiin myös laaditun lämpökartan avulla. Lämpökartta havainnollistaa erityisesti haastattelujen välisiä yhteneväisyyksiä ja eroavaisuuksia kooditasolla. Karttaa havainnoidessa tulee huomioida, että kartalla samankaltaiset koodit eivät välttämättä ole sisällöltään yhteydessä toisiinta vaan esiintyvät samoissa haastatteluissa yhtä monesti. Lämpökartassa samankaltaisista teemoista on valittu tarkasteltavaksi sellaiset, joilla on looginen yhteys toisiinsa haastattelumateriaalissa ja joista on useita havaintoja.
 
 
 # TUTKIMUSTULOKSET
@@ -1520,3 +1463,5 @@ Teknologia koneoppimisen ja keinoälyn soveltamiseen peltotuotannossa on E.E.n m
 # KAUPALLISET LÄHTEET
 
 # LIITTEET
+
+R heatmap.2
