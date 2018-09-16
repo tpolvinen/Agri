@@ -48,6 +48,34 @@ pilvipalvelu: tietojenkäsittelyn resurssipalvelu
 langaton anturi- ja toimilaiteverkko (engl. Wireless Sensor and Actuator Network, WSAN)
 integroitu tuholaistorjunta (engl. Integrated Pest Management, IPM)
 
+Haastatteluissa esiintyviä termejä:
+täsmäviljely
+lohko, peltolohko
+panos
+tasasäätö
+vihreä vallankumous
+tilakoko
+telemetria
+full-liner
+ohjaustiedosto
+Comma Separated Value (CSV)
+Monikerrosviljely = useissa päällekkäisissä tasoissa tapahtuvaa viljelyä, mikä eroaa tavallisen kasvihuoneen yhdessä tasossa tapahtuvasta viljelystä.
+Jaettu lannoitus
+UA-laite (Drooni, UA, pienoiskopteri, neliroottoripienoiskopteri)
+yhteen valmistajaan lukittuminen (vendor lock, yhden valmistajan loukku)
+maatilanhallintajärjestelmä (FMS)
+maatilan tiedonhallintajärjestelmä (FMIS)
+viljelysuunnitteluohjelma
+ortomosaiikkikartta
+Smart Farming
+agriculture 4.0
+agriculture 3.0
+satovaste
+sadonlisä
+CAN-väylä
+tuotantotapatieto
+laatuerä
+
 # JOHDANTO
 
 *1 - 2 sivua, Kirjoitetaan kun muut luvut ovat valmiit. <15-05-2018  12:25> Siirretty Tiiviisti.md:hen työstettäväksi.*
@@ -361,36 +389,18 @@ Haastatteluaineiston analyysimenetelmäksi valittiin sisällönanalyysi, koska o
 Sisällönanalyysiä käytetään tutkimusaineiston systemaattisena analyysimenetelmänä, jolla järjestellään ja kuvaillaan tarkasteltavaa aineistoa. Analyysin keskeinen tehtävä on löytää tutkittavaa ilmiötä kuvailevia väittämiä, joilla voidaan vastata tutkimustehtäviin.
 
 
-
-*Hirsjärvi et al. Tutkimushaastattelu... s.137 (7.1 Analyysin yleisiä piirteitä) "Neljännessä lähestymistavassa haastattelija tulkitsee (litteroitua) aineistoa joko yksin tai yhdessä muiden tutkijoiden kanssa. Tässä voidaan käyttää kolmea menettelyä: 1) Aineistoa järjestetään ja tuodaan esiin sen rakentuminen. Tämä on usein välttämätöntä, kun on kyseessä laaja aineisto. Tämä vaihe tapahtuu nykyisin usein litteroimalla ja analysoimalla aineistoa tietokoneella. 2) Aineiston selventäminen. Tässä eliminoidaan suuresta aineistosta pois asiaan kuulumattomia osia: toistoja ja ei-olennaisia seikkoja. 3) Varsinainen analyysi merkitsee tiivistämistä, luokittelua, narratiivin etsimistä, tulkintaa ja ad hoc -menettelyä (tästä tarkemmin tuonnempana)."*
-
 ##### Sisällönanalyysi
 
-
-*Koska analyysi on tehty kokonaan kirjoittajan toimesta, on siinä suurempi vaara virheisiin kuin useamman tekijän tarkistamissa vastaavissa.*
-
-
-
-*Tuomi ja Sarajärvi 4.4.5 teoriaohjaava sisällönanalyysi: lähtökohdiltaan samoin kuin aineistolähtöinen sisällönanalyysi, mutta abstrahoinssa empiirinen aineisto liitetään teoreettisiin käsitteisiin. Aineistosta luodut vs. jo tiedetyt*
-*keskeistä: poimiiko alkup. aineistosta asioita alun perinkään "teorian" mukaan vai lähestytäänkö aineistosta sen omilla ehdoilla, vasta edetessä pakotetaan sen tiettyyn sopivaksi katsottuun "teoriaan".*
-
-*Tuomi ja Sarajärvi 4.4.7 aineiston kvantifionti: sisällönanalyysiä voidaan jatkaa luokittelun jälkeen kvantifiomalla aineisto. (...lasketaan kuinka monta kertaa sama asia esiintyy...tai kuinka moni tutkittava ilmaisee saman asian...)*
-
-*Tuomi ja Sarajärvi "Esimerkiksi aineiston teemoittaminen (Kuvio 14, s. 106) ennen varsinaisen analyysin aloittamista saattaa joskus olla sisällönanalyysia selkeyttävä tai ainakin helpottava. Toisaalta temaattisen analyysin kuvaaminen systemaattisena taulukkona kuten sisällönanalyysissa (tämän kirjan mukaan) saattaa antaa lukijalle selkeämmän kuvan analyysin etenemisestä, tai se ainakin säästää tilaa raportissa suhteessa useampaan käsitekarttaan ja niiden tiivistämiseen."*
-
-*Tuomi ja Sarajärvi "Ehkä keskeisintä ei kuitenkaan ole se, millä nimellä analyysia kutsutaan, vaan se, että se on tehty systemaattisesti, että lukija ymmärtää, mitä on tehty ja että tulokset ovat perusteltuja."*
-
-*tämä kappale on tässä eräänlaisenä tiivistelmänä* Sisällönanalyysiä käytetään yleisesti haettaessa vastauksia laadullisiin tutkimuskysymyksiin. Haastattelumateriaalin analysointiin valittiin *sisällönanalyysin kaltainen menetelmä*, jolla pyrittiin tuomaan esille haastatteluissa käsiteltyjen teemojen esiintymiä ja yhteyksiä. Aineistolähtöisellä metodilla pyrittiin myös parantamaan havaintojen luotettavuutta.
+Sisällönanalyysiä käytetään yleisesti haettaessa vastauksia laadullisiin tutkimuskysymyksiin. Haastattelumateriaalin analysointiin valittiin sisällönanalyysi, jolla pyritään tuomaan esille haastatteluissa käsiteltyjen teemojen esiintymiä ja yhteyksiä sekä tiivistämään aineistoa (ks. @hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 137). Aineistolähtöisellä menetelmällä pyritään myös parantamaan havaintojen luotettavuutta.
 Havaittujen esiintymien yleisyyden, samankaltaisuuksien tarkastelun ja havainnollistamisen avulla pyritään sekä trianguloimaan haastattelumateriaalista tehtyjä johtopäätöksiä että tuottamaan lukijalle käsitys haastattelumateriaalin keskeisistä teemoista.
 
-Tutkittaessa eri metodeita haastattelumateriaalin havainnollistamiseen ja tiivistämiseen tutustuttiin pintapuolisesti ensin affiniteettianalyysiin, sisällönanalyysiin, aineistolähtöiseen teoriaan (Grounded theory, ankkuroitu teoria), sisällön teemoitteluun ja taulukointiin. 
+Tutkittaessa eri menetelmiä haastattelumateriaalin havainnollistamiseen ja tiivistämiseen tutustuttiin pintapuolisesti ensin affiniteettianalyysiin, sisällönanalyysiin, aineistolähtöiseen teoriaan (engl. Grounded theory, ankkuroitu teoria), sisällön teemoitteluun ja taulukointiin. 
 
-Käytännön kokeilujen kautta päädyttiin sisällönanalyysiä soveltavaan metodiin, jossa käytettiin taulukointia, havaintojen ja sanamäärien analysointia sekä jatkuvan aineiston vertailun metodia. Havainnollistamiseen käytettiin kuvaajia ja lämpökarttoja, jotka perustuivat haastattelumateriaalista löydettyjen ilmaisujen esiintymien lukumääriin ja keskinäisiin suhteisiin.
+Käytännön kokeilujen kautta päädyttiin sisällönanalyysiä soveltavaan menetelmään, jossa käytetään taulukointia, havaintojen ja sanamäärien analysointia sekä jatkuvan aineiston vertailun metodia. Havainnollistamiseen käytetään kuvaajia ja lämpökarttoja, jotka perustuivat haastattelumateriaalista löydettyjen ilmaisujen esiintymien lukumääriin ja keskinäisiin suhteisiin.
 
-Käytetyn metodin avulla pyrittiin tiivistämään materiaalista havaitut merkitykselliset ilmaisut, asiasanat ja asiasisällöt asiakokonaisuuksiksi joiden samankaltaisuutta, erilaisuutta, esiintymiä ja yhteyksiä voidaan tarkastella ja analysoida. Analyysillä pyrittiin sekä trianguloimaan haastatteluista tehtyjä johtopäätöksiä että hakemaan uusia näkökulmia haastattelumateriaaliin. 
+Käytetyn menetelmän avulla pyrittiin tiivistämään materiaalista havaitut merkitykselliset ilmaisut, asiasanat ja asiasisällöt asiakokonaisuuksiksi joiden samankaltaisuutta, erilaisuutta, esiintymiä ja yhteyksiä voidaan tarkastella ja analysoida. Analyysillä pyrittiin sekä trianguloimaan haastatteluista tehtyjä johtopäätöksiä että hakemaan uusia näkökulmia haastattelumateriaaliin. 
 
 Triangulaation luotettavuutta sekä uusien näkökulmien havainnointia pyrittiin edistämään soveltamalla aineistolähtöistä (engl. Groud up) kategorioiden kehittelyä, jossa aikaisempien tietojen vaikutus tutkittavasta ilmiöstä pyrittiin minimoimaan. Tämän takia tuloksena saadut kategoriat eivät vastaa muissa aihetta käsittelevissä julkaisuissa käytettyjä. Tämä voi vähentää havaintojen vertailtavuutta mutta toisaalta voi tuoda paremmin esille juuri tämän haastattelumateriaalin erityispiirteet.
-*Tarvitaanko näihin metodeihin lähdeviittaukset?*
 
 Tuloksia tarkasteltaessa on otettava huomioon, että koodien havaittu yleisyys ei välttämättä korreloi niiden merkittävyyden kanssa. Lisäksi suuressa osassa koodeja havaittiin vain muutamia esiintymiä, jolloin virheellisten havaintojen vaikutus koodin ja alikategorian luokittelussa voi johtaa analyysiä harhaan. Samoin on otettava huomioon tekijän kokemattomuus, mikä voi korostaa virheiden ja tekijän omien subjektiivisten näkemysten vaikutuksia. 
 
@@ -492,7 +502,7 @@ Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset. Kirjallisuuskatsauk
 
 ## Kirjallisuuskatsauksen tulokset
 
-Tässä osiossa käsitellään kirjallisuuskatsauksen tulokset jaoteltuina seuraavasti: yleinen kuvailu, AIoT-ratkaisuissa käytettävät teknologiat, AIoT-ratkaisujen sovellusalueet, AIoT:n avoimet haasteet ja tutkimuksissa esitetyt AIoT-arkkitehtuurit.
+Tässä osiossa käsitellään kirjallisuuskatsauksen tulokset jaoteltuina seuraavasti: yleinen kuvailu, AIoT-ratkaisuissa käytettävät teknologiat, AIoT-ratkaisujen sovellusalueet, AIoT:n avoimet haasteet ja aineistossa esitetyt AIoT-arkkitehtuurit.
 
 ### Yleinen kuvailu
 
@@ -1031,7 +1041,7 @@ Haastatteluissa yli kerran havaitut koodit löytyivät 53 - 61 % osuudella niide
 
 Samasta otannasta löytyi vain kerran otannassa ilmeneviä koodeja 17 - 30 % kunkin haastattelun vertailuun otetuista koodeista. Haastattelun 1 otannassa oli 19 uniikkia koodia, mikä oli 30 % haastattelusta yli kerran havaituista koodeista. Tämä oli Haastattelu 3:n kanssa (29 %) suurin osuus, muiden vastaavien osuuksien ollessa 25 %, 22 % ja 17 %.
 
-*tähän voisi laittaa kivan kuvaajan osuuksista*
+*Mahd. kuvaaja osuuksista*
 
 Lukuja tulkitessa tulee ottaa huomioon, että jo yhden koodin havainnon ero aiheutti Haastattelu 4:n ja Haastattelu 5:n välille 2,5 %:n eron. Lisäksi useiden koodien ollessa päällekkäisiä ja/tai samoja aiheita eri konteksteissa käsitteleviä, voidaan lukuja pitää korkeintaan suuntaa-antavina. Luvuista kuitenkin peilautuu haastattelujen luonne, joka antoi kullekin haastateltavalle asiantuntijalle tilaa käsitellä oman osaamisalueensa asioita omalla tavallaan, omien kokemustensa ja tietojensa viitekehyksessä. Suurimman osan kunkin haastattelun koodeista löytyvät myös muista haastattelujen havainnoista, jolloin voidaan arvioida haastattelujen asiasisältöjen olleen suurelta osalta samankaltaisia.
 
@@ -1105,40 +1115,7 @@ Toisaalta segmenttien eroavaisuuksien ja koodien asiasisältöjen erojen *jonkin
 #### Meta (poistettava otsikko)
 Tässä *osiossa/luvussa* kuvaillaan haastatteluissa käsiteltyjen teemojen mukaan jaotellut haastattelutulokset.
 
-Haastateltavat
-A.A. @aHaastattelu2017
-B.B. @bHaastattelu2017
-C.C. @cHaastattelu2017
-D.D. @dHaastattelu2018
-E.E. @eHaastattelu2018
-
-Haastatteluissa esiintyviä termejä:
-täsmäviljely
-lohko, peltolohko
-panos
-tasasäätö
-vihreä vallankumous
-tilakoko
-telemetria
-full-liner
-ohjaustiedosto
-Comma Separated Value (CSV)
-Monikerrosviljely = useissa päällekkäisissä tasoissa tapahtuvaa viljelyä, mikä eroaa tavallisen kasvihuoneen yhdessä tasossa tapahtuvasta viljelystä.
-Jaettu lannoitus
-UA-laite (Drooni, UA, pienoiskopteri, neliroottoripienoiskopteri)
-yhteen valmistajaan lukittuminen (vendor lock, yhden valmistajan loukku)
-maatilanhallintajärjestelmä (FMS)
-maatilan tiedonhallintajärjestelmä (FMIS)
-viljelysuunnitteluohjelma
-ortomosaiikkikartta
-Smart Farming
-agriculture 4.0
-agriculture 3.0
-satovaste
-sadonlisä
-CAN-väylä
-tuotantotapatieto
-laatuerä
+Haastateltavat: A.A., B.B., C.C., D.D., E.E.
 
 #### AIoTn tilanne yleensä
 
