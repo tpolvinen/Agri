@@ -485,7 +485,7 @@ Ruoan tuotannon IoT-sovellukset ja teknologiat ovat vielä pirstaleisia eikä ni
 Näiden edistysaskeleiden toteutumisen voidaan odottaa johtavan edellä mainittujen sovellusalueiden kehittymiseen huomattavalla tavalla. **Täsmäviljely** voi kehittyä **smart farming**iksi, jossa maatilasta muodostuu älykäs yhteistoimintakykyisten laitteiden verkko. Keskeinen edistysaskel tulee olemaan havainnoinnin ja tarkkailun, älykkään analytiikan ja suunnittelun sekä viljelyprosessien älykkään kontrolloinnin saumaton integraatio kaikissa keskeisissä prosesseissa. **Seuranta ja jäljittäminen** voivat kehittyä kokonaisvaltaiseksi tuotantoketjun läpinäkyvyydeksi aina yksittäisten tuotteiden tasolle asti. Jäljitettävyyden toiminnot voivat edelleen integroitua älykkäiden seurantajärjestelmien kanssa lisäten dataa tuotteiden ominaisuuksista, tuotantotavoista ja tuotannon olosuhteista.
 **Ruoan turvallisuuden ja laadunvalvonnan** järjestelmät voivat kehittyä reaktiivisista lähestymistavoista proaktiivisiin, joissa tuotantoketjuja voidaan tarkkailla, kontrolloida, uudelleensuunnitella ja optimoida etäisesti tosiaikaisen tiedon perusteella. Tämän toteuttamiseksi uusia anturityyppejä voidaan ottaa käyttöön, tuotetun anturidatan ajantasaisuutta ja yhteentoimivuutta voidaan parantaa, etähallintaa voidaan parantaa edistyneillä uusilla toimilaitteilla ja laaduntarkkailun järjestelmiä voidaan parantaa lisäämällä niiden älykkyyttä.
 **Ruoan prosessointi ja valmistus** voi kehittyä notkeiden hallintajärjestelmien avulla, jolloin tuotannon koneet toimivat autonomisina, älykkäinä ja yhteenliitettyinä kokonaisuuden osina. Tämän toteuttamiseksi voidaan koneisiin integroida tehokkaita antureita tuotannon tosiaikaisen tarkkailun ja koneiden yhteentoimivuuden varmistamiseksi. Tuotannon seurantajärjestelmien algoritmien avulla voidaan havaita laatupoikkeamia aikaisessa vaiheessa.
-**Kuluttajien ruokatietoisuus** voi kehittyä lähtökohdiltaan kuluttajakeskeiseksi kokonaisuudeksi, jossa erilaiset sovellukset ja järjestelmät voivat yhdistää ruokakeskeistä tietoa eri sidosryhmiltä personoitujen ruokasuositusten tuottamiseksi.  (@sundmaekerInternetFoodFarm2016)
+**Kuluttajien ruokatietoisuus** voi kehittyä lähtökohdiltaan kuluttajakeskeiseksi kokonaisuudeksi, jossa erilaiset sovellukset ja järjestelmät voivat yhdistää ruokakeskeistä tietoa eri sidosryhmiltä personoitujen ruokasuositusten tuottamiseksi. (@sundmaekerInternetFoodFarm2016)
 
 IoT-ratkaisut mahdollistavat fyysisten objektien virtausten ja niihin liittyvän tiedon irrottamisen toisistaan (@verdouwVirtualizationFoodSupply2015). Tällöin viljelyprosesseja ja ruoan tuotantoketjuja voidaan tarkkailla, kontrolloida, uudelleensuunnitella ja optimoida etäisesti ja tosiaikaisesti perustuen fyysisiä objekteja vastaaviin virtuaalisiin esineisiin. Tämän johdosta maanviljely voi muuttua kytkettyjen laitteiden älykkäiksi verkoiksi jotka ovat kontekstin huomioivia, jotka voidaan tunnistaa, havainnoida ja kontrolloida etäisesti. Tämän puolestaan voi odottaa muuttavan maatalouden tuotantoprosesseja ennen näkemättömällä tavalla, tuottaen uusia liiketoimintamalleja ja kontrolloinnin mekanismeja kuten: 
     * **Datavetoinen viljely**: IoT-ratkaisut mahdollistavat viljelijöiden siirtymisen näppituntumalla viljelystä mitattuun digitaaliseen tietoon perustuvaan viljelyn hallintaan. Tämä on keskeistä jatkuvasti vaativammaksi muuttuvassa liiketoimintaympäristössä selviytymiselle. IoT-ratkaisuiden havainto- ja kytkettävyysteknologiat mahdollistavat oikea-aikaisen ja tarkan operatiivisen datan virran päätöksentekojärjestelmille.
@@ -532,33 +532,38 @@ Xu
     C) verkot (WSAN, AHN)
     D) palvelunhallinta
 
-
 *Mitkä ovat keskeiset AIoT:n teknologiaratkaisuit?*
 **AIoT-ratkaisuissa käytettävät teknologiat**
 
 Keskeisimpiä yleisen IoT:n mahdollistavia teknologioita ovat Atzori et al. (2010) mukaan tunnistus-, anturointi- ja tietoliikennetekniikka sekä väliohjelmistot. IoT-konsepti voidaan lähtökohtaisesti toteuttaa näiden teknologioiden integroinnilla (@atzoriInternetThingsSurvey2010). Tämä on selkeästi havaittavissa useissa ehdotetuissa AIoT-arkkitehtuureissa (ks. @talaveraReviewIoTApplications2017; @tzounisInternetThingsAgriculture2017; @vermesanInternetThingsGlobal2011; @verdouwInternetThingsAgriculture2016a; @xuInternetThingsIndustries2014). 
 
-Keskeinen osa IoT:n kehitystä ovat RFID-tunnisteet, joilla voidaan tarkkailla niillä merkittyjen fyysisten kohteiden liikkumista järjestelmässä tosiaikaisesti. Anturiverkot ovat RFID-tunnisteiden lisäksi toinen keskeinen IoT:n mahdollistava teknologia. Anturiverkkoja voidaan käyttää ympäristön tai laitteiden anturointiin. Useat tutkimukset Atzori et al. (2010) kirjallisuuskatsauksessa keskittyvät ympäristön tarkkailuun anturiverkkojen avulla. Vastaavasti Verdouw et al. (2016) katsauksessa 
+**RFID ja anturiverkot**
+Keskeinen osa IoT:n kehitystä ovat RFID-tunnisteet, joilla voidaan tarkkailla niillä merkittyjen fyysisten kohteiden liikkumista järjestelmässä tosiaikaisesti (@atzoriInternetThingsSurvey2010; @xuInternetThingsIndustries2014). 
 
-Lisäksi anturiverkkojen avulla voidaan rikastuttaa esimerkiksi RFID-tunnisteiden lukemisessa tuotettua tietoa muun muassa liike-, paikka- ja lämpötilatiedoilla. Langattomassa tietoliikennetekniikassa käytettävien radiolaitteiden koko, paino ja energiankulutus ovat pienentyneet ja hinta laskenut huomattavasti. Tämä on mahdollistanut niiden sulauttamisen lähes kaikkiin esineisiin, mikä on osaltaan johtanut kehitystä IoT-konseptin suuntaan. (@atzoriInternetThingsSurvey2010)
+Lisäksi RFID-tunnisteiden avulla voidaan pyrkiä vähentämään työvoimakustannuksia, yksinkertaistamaan tuotantoprosesseja, lisäämään varastotietojen tarkkuutta ja parantamaan tuotannon hyötysuhdetta.
+(@xuInternetThingsIndustries2014) 
 
-Aineistossa keskeisissä kirjallisuuskatsauksissa suuri osa käsitellyistä julkaisuista keskittyy ympäristömuuttujien kuten lämpötilan, kosteuden, fysikokemiallisten ominaisuuksien ja säteilyn mittaamiseen ja seuraamiseen (@atzoriInternetThingsSurvey2010; @talaveraReviewIoTApplications2017; @verdouwInternetThingsAgriculture2016a *entä muut?*). Lisäksi viimeaikaisissa ympäristön tarkkailu- ja mittausratkaisuissa on myös päätöksentekoa ja hallinnointia tukevia toiminnallisuuksia. Ympäristön tarkkailua ja havainnointia selkeästi pienempi osa julkaisuista käsittelee aktuointia kuten kastelujärjestelmien kontrollointia toimilaitteiden avulla. Näistä suuri osa käsittelee täsmäviljelyn järjestelmien toteutuksia AIoT-sovellusten avulla (@verdouwInternetThingsAgriculture2016a). Suurin osa toimilaitteista on käytössä kontrolloinnin tai logistiikan järjestelmissä.  Talavera et al. (2017) kirjallisuuskatsauksessa 26 %:ssa käsitellyistä julkaisuissa mitattiin lämpötilaa, 16 %:ssa kosteutta, 11 %:ssa fysikokemiallisia ominaisuuksia ja 10 %:ssa säteilyä. Kyseisessä katsauksessa lämpötilan ja fysikokemian anturit olivat jakautuneet kaikkiin edellä mainittuihin kategorioihin. Ilmanlaadun mittauksen antureita käsiteltiin 55 %:ssa julkaisuista. Talavera et al. (2017) mukaan tämän perusteella ilman lämpötilaa, ilmankosteutta, maaperän kosteutta ja auringonsäteilyä voidaan pitää universaaleina muuttujina maatalouden sovelluksissa. (@talaveraReviewIoTApplications2017)
+Anturiverkot ovat RFID-tunnisteiden lisäksi toinen keskeinen IoT:n mahdollistava teknologia. Anturiverkkoja voidaan käyttää ympäristön tai laitteiden anturointiin. Useat tutkimukset Atzori et al. (2010) kirjallisuuskatsauksessa keskittyvät ympäristön tarkkailuun anturiverkkojen avulla (@atzoriInternetThingsSurvey2010). Tarkkailun lisäksi anturiverkkojen avulla voidaan rikastuttaa esimerkiksi RFID-tunnisteiden lukemisessa tuotettua tietoa muun muassa anturiverkkojen tuottamalla tiedolla kuten liike-, paikka- ja lämpötiladatalla (@atzoriInternetThingsSurvey2010; @xuInternetThingsIndustries2014). Langattomassa tietoliikennetekniikassa käytettävien radiolaitteiden koko, paino ja energiankulutus ovat pienentyneet ja hinta laskenut huomattavasti. Tämä on mahdollistanut niiden sulauttamisen lähes kaikkiin esineisiin, mikä on osaltaan johtanut kehitystä IoT-konseptin suuntaan. (@atzoriInternetThingsSurvey2010)
 
-Laitteiden voimanlähteistä kirjallisuuskatsauksien julkaisuissa käsitellään useiten aurinkopaneelien ja akkujen yhdistelmiä. Toisaalta jos laitteita käytetään toimilaitteina niiden voimanlähteenä käytetään useiten verkkovirtaa. *Edistyksellisempiä energiankeräimiä ei Talavera et al. (2017) katsauksessa havaittu yhtään.* 
+Aineistossa keskeisissä kirjallisuuskatsauksissa suuri osa käsitellyistä julkaisuista keskittyy ympäristömuuttujien kuten lämpötilan, kosteuden, fysikokemiallisten ominaisuuksien ja säteilyn mittaamiseen ja seuraamiseen (@atzoriInternetThingsSurvey2010; @talaveraReviewIoTApplications2017; @verdouwInternetThingsAgriculture2016a). Lisäksi viimeaikaisissa ympäristön tarkkailu- ja mittausratkaisuissa on myös päätöksentekoa ja hallinnointia tukevia toiminnallisuuksia. Ympäristön tarkkailua ja havainnointia selkeästi pienempi osa julkaisuista käsittelee aktuointia kuten kastelujärjestelmien kontrollointia toimilaitteiden avulla. Näistä suuri osa käsittelee täsmäviljelyn järjestelmien toteutuksia AIoT-sovellusten avulla ja osa erityisesti täsmäviljelyn tietojärjestelmiä (@verdouwInternetThingsAgriculture2016a). Suurin osa toimilaitteista on käytössä kontrolloinnin tai logistiikan järjestelmissä.  Talavera et al. (2017) kirjallisuuskatsauksessa 26 %:ssa käsitellyistä julkaisuissa mitattiin lämpötilaa, 16 %:ssa kosteutta, 11 %:ssa fysikokemiallisia ominaisuuksia ja 10 %:ssa säteilyä. Kyseisessä katsauksessa lämpötilan ja fysikokemian anturit olivat jakautuneet kaikkiin edellä mainittuihin kategorioihin. Ilmanlaadun mittauksen antureita käsiteltiin 55 %:ssa julkaisuista. Talavera et al. (2017) mukaan tämän perusteella ilman lämpötilaa, ilmankosteutta, maaperän kosteutta ja auringonsäteilyä voidaan pitää universaaleina muuttujina maatalouden sovelluksissa. (@talaveraReviewIoTApplications2017)
 
-Viimeaikaisissa tutkimuksissa on korostettu AIoT-laitteiden energiatehokkuuden merkitystä. Akkujen lataus ja vaihtaminen voi olla epäkäytännöllistä suurissa anturiverkkojärjestelmissä. Maanviljely-ympäristössä on usein saatavilla ympäristön energialähteitä, jolloin on luontevaa keskittyä erilaisten energiankeräinratkaisuiden kehittämiseen. Tutkimuksissa on muun muassa esitetty ratkaisuita, joilla aurinkoenergiaa voidaan hyödyntää suoraan aurinkokennosta ilman akkuja ja sähkömuuntajia tai maaperän kosteutta voidaan käyttää sensorilaitteiden energialähteenä. Tällaisten ns. self-power -laitteiden trendi on todennäköisesti kasvava. Laitteet voivat myös älykkäiden algoritmien avulla tehdä hajautettuja yhteistoiminnallisia alueellisia mittauksia, jolloin voidaan vähentää päällekkäisten mittausten aiheuttamaa energiankulutusta ja älykkäästi pitää yllä kattavan alueellisen mittauksen laatua. (@talaveraReviewIoTApplications2017)
+**Energiatehokkuus**
+Laitteiden voimanlähteistä kirjallisuuskatsauksien julkaisuissa käsitellään useiten aurinkopaneelien ja akkujen yhdistelmiä. Toisaalta jos laitteita käytetään toimilaitteina niiden voimanlähteenä käytetään useiten verkkovirtaa. *Edistyksellisempiä energiankeräimiä ei Talavera et al. (2017) katsauksessa havaittu yhtään.* Viimeaikaisissa tutkimuksissa on korostettu AIoT-laitteiden energiatehokkuuden merkitystä. Akkujen lataus ja vaihtaminen voi olla epäkäytännöllistä suurissa anturiverkkojärjestelmissä. Maanviljely-ympäristössä on usein saatavilla ympäristön energialähteitä, jolloin on luontevaa keskittyä erilaisten energiankeräinratkaisuiden kehittämiseen. Tutkimuksissa on muun muassa esitetty ratkaisuita, joilla aurinkoenergiaa voidaan hyödyntää suoraan aurinkokennosta ilman akkuja ja sähkömuuntajia tai maaperän kosteutta voidaan käyttää sensorilaitteiden energialähteenä. Tällaisten ns. self-power -laitteiden trendi on todennäköisesti kasvava. Laitteet voivat myös älykkäiden algoritmien avulla tehdä hajautettuja yhteistoiminnallisia alueellisia mittauksia, jolloin voidaan vähentää päällekkäisten mittausten aiheuttamaa energiankulutusta ja älykkäästi pitää yllä kattavan alueellisen mittauksen laatua. (@talaveraReviewIoTApplications2017)
 
-Tietoliikennetekniikoista yleisimpiä ovat langattomien henkilökohtaisten verkkojen protokolliin perustuvat ratkaisut. Matkapuhelinverkkoja käyttävät tietoliikenneratkaisut ovat toiseksi yleisimpiä. Jotkin julkaisuista käsittelevät myös NFC-lähitiedonsiirtoteknologian (engl. near-field communication) sovelluksia. Pienitehoiset tietoliikenneteknologiat kuten SigFox ja LoRa ovat kasvattaneet suosiotaan IoT-sovelluksissa pienen virrankulutuksensa, laajan kattavuusalueen ja suhteellisen edullisuutensa ansiosta. (@talaveraReviewIoTApplications2017)
+**Tietoliikennetekniikat**
+Tietoliikennetekniikoista yleisimpiä ovat langattomien henkilökohtaisten verkkojen protokolliin perustuvat ratkaisut. Matkapuhelinverkkoja käyttävät tietoliikenneratkaisut ovat toiseksi yleisimpiä. Jotkin julkaisuista käsittelevät myös NFC-lähitiedonsiirtoteknologian (engl. near-field communication) sovelluksia. Pienitehoiset tietoliikenneteknologiat kuten SigFox ja LoRa ovat kasvattaneet suosiotaan IoT-sovelluksissa pienen virrankulutuksensa, laajan kattavuusalueen ja suhteellisen edullisuutensa ansiosta. (@talaveraReviewIoTApplications2017) Teollisuuden anturiverkkojen käyttämien tietoliikenneprotokollien soveltuvuus sellaisenaan IoT-ratkaisuihin ei ole paras mahdollinen johtuen IoT-laitteiden heterogeenisyydestä laskentatehon, tietoliikennekapasiteetin ja tarvittavan verkon palvelunlaadun suhteen (@xuInternetThingsIndustries2014).
 
-Verkon reunan tietojenkäsittelyä sivuavissa julkaisuissa useiten käytettiin mikrokontrolleripohjaisia ratkaisuita, yhden piirilevyn tietokoneiden ratkaisuiden ollessa harvinaisia. *Ei yhtään per Talavera et al.* 
+**Verkon reunan tietojenkäsittely**ä sivuavissa julkaisuissa useiten käytettiin mikrokontrolleripohjaisia ratkaisuita, yhden piirilevyn tietokoneiden ratkaisuiden ollessa harvinaisia. *Ei yhtään per Talavera et al.* 
 
-Tiedon tallennusratkaisuita käsittelevissä julkaisuissa suuri osa käytti omia ratkaisuita, pilvipalveluiden käytön ollessa vähäisempää. *Oisko kyse enemmän tutkimusprojekteista, joissa ei niin pilveä vedetä kun ei tarvitse skaalautua?*
+**Tiedon tallennusratkaisuita** käsittelevissä julkaisuissa suuri osa käytti omia ratkaisuita, pilvipalveluiden käytön ollessa vähäisempää. *Oisko kyse enemmän tutkimusprojekteista, joissa ei niin pilveä vedetä kun ei tarvitse skaalautua?*
 
-Huomattava osa keskeisten kirjallisuuskatsausten julkaisuista käsittelee yleiskäyttöisen IoT-pohjaisen tiedonhallintajärjestelmän kehittämistä. Tietojärjestelmiä voidaan käyttää myös ennus 
+Huomattava osa keskeisten kirjallisuuskatsausten julkaisuista käsittelee yleiskäyttöisen IoT-pohjaisen tiedonhallintajärjestelmän kehittämistä. Tietojärjestelmiä voidaan käyttää myös ennustamaan satokasvien kasvua mallinnuksien avulla (@verdouwInternetThingsAgriculture2016a)
 
-Tiedon näyttö loppukäyttäjille toteutettiin *selkeästi suurimmassa per Talavera et al.* osassa julkaisuja web-pohjaisten ratkaisujen avulla, muiden ollessa mobiili- ja paikallisratkaisuita.
+**Tiedon näyttö** loppukäyttäjille toteutettiin *selkeästi suurimmassa per Talavera et al.* osassa julkaisuja web-pohjaisten ratkaisujen avulla, muiden ollessa mobiili- ja paikallisratkaisuita.
 
 *viimeaikaiset, logistiikka tähän*
+
+**Muita relevantteja aiheita** käsitellyissä julkaisuissa ovat ruoan laadun parantaminen, ruoan turvallisuus ja jäljitettävyys, veden hallinta, maaseudun kehittäminen, kaupunkiviljely ja kuluttajien vuorovaikutus (@verdouwInternetThingsAgriculture2016a).
 
 Talavera et al. (2017) kirjallisuuskatsauksssa suurin osa katsauksessa käsitellyistä julkaisuista ei nimenomaisesti ota kantaa tietoturvaan. Katsauksen tekijät löysivät vain yksittäisiä asiaa sivuavia julkaisuita.
 
@@ -572,29 +577,13 @@ AIoT-ratkaisuissa sovelletut teknologiat ja infrastruktuurit on jaoteltu seitsem
 7. Tiedon visualisointistrategiat
 
 
-*Tunnistus-, anturointi- ja tietoliikennetekniikka*
-*Väliohjelmistot*
-*Tietojenkäsittely (?)*
-
-
-
-
-
-#### ? Tunnistus-, anturointi- ja tietoliikennetekniikka
-
-*WSN WSAN*
-
-*Per mahdollistava teknologia: millaisia muissa lähteissä on nämä tunnistus- anturointi- ja tietoliikennetekniikat?*
-
-
 #### ? Väliohjelmistot
 
 *Väliohjelmistot per Atzori et al. & Tzounis et al.*
 
 *missä vertailtaisiin visioita iof2020 ja tiekartan välillä?*
-Väliohjelmistojen avulla voidaan yksinkertaistaa sovelluskehitystä sekä helpottaa vanhojen teknologioiden integrointia uusien kanssa. Näiden IoT-ratkaisuiden kehitykselle keskeisten vahvuuksien takia väliohjelmistot ovat keränneet kirjallisuudessa runsaasti huomiota. (@atzoriInternetThingsSurvey2010)
 
-Väliohjelmistot voivat toimia sovelluskerroksena tai ohjelmistoina järjestelmien osien välillä, IoT-ratkaisuissa usein laitteiden ja sovelluskerroksen välissä. Väliohjelmistoilla voidaan abstraktoida laitteiden toiminnallisuuksia antaen sovelluskehittäjille geneerisiä ohjelmistokehityksen työkaluja, joiden avulla kehittäjien ei tarvitse keskittyä tiettyjen laitteiden teknisiin yksityiskohtiin. Geneerisillä työkaluilla voidaan näin väliohjelmistoa hyväksi käyttäen tuottaa sovelluksia, jotka ovat yhteensopivia kaikkien väliohjelmiston kanssa yhteensopivien laitteiden kanssa. Tämän lisäksi väliohjelmistojen avulla voidaan yhdistaa pilvipohjainen infrastruktuuri, palvelukeskeinen arkkitehtuuri ja anturiverkot geneerisellä tavalla, jolloin samoja toiminnallisuuksia voidaan hyödyntää useissa erilaisissa järjestelmissä. (@tzounisInternetThingsAgriculture2017)
+**Väliohjelmistot** voivat toimia sovelluskerroksena tai ohjelmistoina järjestelmien osien välillä, IoT-ratkaisuissa usein laitteiden ja sovelluskerroksen välissä. Väliohjelmistoilla voidaan yksinkertaistaa sovelluskehitystä sekä helpottaa vanhojen teknologioiden integrointia uusien kanssa. Tämä voidaan tehdä abstraktoimalla laitteiden toiminnallisuuksia antaen sovelluskehittäjille geneerisiä ohjelmistokehityksen työkaluja laitteiden käsittelyyn, jolloin kehittäjien ei tarvitse keskittyä yksittäisten laitteiden teknisiin yksityiskohtiin. Geneerisillä työkaluilla voidaan näin väliohjelmistoa hyväksi käyttäen tuottaa sovelluksia, jotka ovat yhteensopivia kaikkien väliohjelmiston kanssa yhteensopivien laitteiden kanssa. Tämän lisäksi väliohjelmistojen avulla voidaan yhdistaa pilvipohjainen infrastruktuuri, palvelukeskeinen arkkitehtuuri ja anturiverkot geneerisellä tavalla, jolloin samoja toiminnallisuuksia voidaan hyödyntää useissa erilaisissa järjestelmissä. Näiden IoT-ratkaisuiden kehitykselle keskeisten vahvuuksien takia väliohjelmistot ovat keränneet kirjallisuudessa runsaasti huomiota. (@atzoriInternetThingsSurvey2010; @tzounisInternetThingsAgriculture2017)
 
 
 *Granell et al. (2016), 7 FI-WARE -hankkeessa toteutetut niin sanotut Generic Enabler - mitäihmettäneovat? - , jotka ovat sovellus- ja käyttötapausagnostisia. Lisäksi GE:t ovat riippumattomia sovellusaloista, kuten ympäristö-, maatalous- tai energia-ala. GE:t abstraktoivat pilvipalvelut, alatason IoT-ratkaisujen tekniset yksityiskohdat ja Big Datan käsittelyn avoimien määrittelyjen ja ohjelmistorajapintojen avulla.*
@@ -609,12 +598,10 @@ Maatalouden tuottama data on yleensä hyvin heterogeenistä niin datan kuvaaman 
 Seuraavassa osiossa käsitellään kastsauksen aineistossa viitatut teknologiasovellukset ja kirjallisuuskatsausten havainnot osa-alueittain **valvonnan**, **kontrolloinnin**, **logistiikan**, **ennustuksen** osioissa. Lisäksi käsitellään **maatalouden IoT:n yleiset sovellukset** *ja muut?* omana osa-alueenaan.
 
 
-#### AIoT-teknologioiden yleiset sovellukset
-
-**maatalouden yleiset sovellukset** 26 (@verdouwInternetThingsAgriculture2016a)
-Verdouw et al. kirjallisuuskatsauksessa useat julkaisut käsittelevät täsmäviljelyä ja erityisesti täsmäviljelyn tietojärjestelmiä. Osa keskittyy tuotantoympäristön tarkkailuun ja kontrollointiin kuten kastelujärjestelmiin tai vastaaviin. Muutamassa julkaisussa keskitytään IoT-perustaisen yleisen hallinta- ja tietojärjestelmän suunnitteluun. Muita relevantteja aiheita käsitellyissä julkaisuissa ovat ruoan laadun parantaminen, ruoan turvallisuus ja jäljitettävyys, veden hallinta, maaseudun kehittäminen, kaupunkiviljely ja kuluttajien vuorovaikutus. 
 
 ### AIoT:n sovellusalueet
+
+AIoT-ratkaisuiden sovellusalueiden luokittelu ja rajaukset vaihtelevat aineiston kirjallisuuskatsausten välillä, usein riippuen katsausten tekijöiden lähtökohdista, tutkimuskysymyksistä ja näkökulmista. Tässä osiossa käydään läpi keskeisimpien kirjallisuuskatsauksien jaottelut ja niihin luokiteltujen julkaisujen määrät. Tällä pyritään antamaan lukijalle yleiskuva katsausten keskeisistä teemoista ja niiden yleisyydestä.
 
 Tzounis et al. kirjallisuuskatsauksessa sovellusalueet ovat: 
 **valvonta ja kontrollointi** 7, **kasvihuonetuotanto** 37, **peltotuotanto** 17, **tuotantoketju** 11, **väliohjelmisto** 9 ja **järjestelmät kaupalliset ratkaisut** 14. Lisäksi sovellusalueissa on myös eläintuotanto 13, joka jää opinnäytetyön aiheen ulkopuolelle, eikä sitä käsitellä tässä kirjallisuuskatsauksessa.
@@ -626,7 +613,7 @@ Talavera et al. tekemässä kirjallisuuskatsauksessa IoT-teknologioita käsittel
 
 #### Valvonta
 
-**Valvonta**-osa-alueen julkaisut käsittelevät muun muassa satokasvien fyysisten ominaisuuksien ja ympäristöolosuhteiden kaukomittausta. Lisäksi osassa julkaisuja tarkastellaan langattomia anturiverkkoja viljelytoiminnassaan käyttäviä maatiloja. (@talaveraReviewIoTApplications2017)
+Valvonnan osa-alueen julkaisut käsittelevät muun muassa satokasvien fyysisten ominaisuuksien ja ympäristöolosuhteiden kaukomittausta. Lisäksi osassa julkaisuja tarkastellaan langattomia anturiverkkoja viljelytoiminnassaan käyttäviä maatiloja. (@talaveraReviewIoTApplications2017)
 
 Valvontaa käsittelevien julkaisujen kohteina olevien teknologiasovellusten pääasiallinen tarkoitus on informaation automaattinen keruu ilman operaattoria sekä kerätyn datan siirto palvelimelle tai tallennuspalveluun käsittelyä ja visualisointia varten (@talaveraReviewIoTApplications2017). 
 Viime aikoina perinteinen anturiverkko on kehittynyt IoT-ystävälliseksi ratkaisuksi yleisten tietoliikennestandardien avulla, mahdollistaen internet-yhteydet ja älykkään analytiikan käyttöönoton, pyrkien parantamaan valvontaa ja/tai kontrollointia (@tzounisInternetThingsAgriculture2017).
@@ -646,7 +633,7 @@ Viimeaikaisissa tutkimuksissa ympäristön tarkkailu- ja mittausratkaisuihin on 
 
 #### Kontrollointi
 
-**Kontrollointi**-osa-alueen julkaisut käsittelevät ohjattavaan ympäristöön asennettuja etätoimilaitteita (remote actuator). Toisin kuin valvonta-osa-alueen ratkaisuissa joissa tiedon kulku on yksisuuntainen, tämän osa-alueen ratkaisuissa tiedon kulku on kaksisuuntainen. Tällöin komentoja voidaan lähettää palvelimelta tai pilvipalvelusta langattomaan anturi- ja toimilaiteverkkoon (Wireless Sensor and Actuator Network, WSAN), jossa tuotantoprosessiin tai -ympäristöön voidaan vaikuttaa toimilaitteita kontrolloimalla.
+Kontrolloinnin osa-alueen julkaisut käsittelevät ohjattavaan ympäristöön asennettuja etätoimilaitteita (remote actuator). Toisin kuin valvonta-osa-alueen ratkaisuissa joissa tiedon kulku on yksisuuntainen, tämän osa-alueen ratkaisuissa tiedon kulku on kaksisuuntainen. Tällöin komentoja voidaan lähettää palvelimelta tai pilvipalvelusta langattomaan anturi- ja toimilaiteverkkoon (Wireless Sensor and Actuator Network, WSAN), jossa tuotantoprosessiin tai -ympäristöön voidaan vaikuttaa toimilaitteita kontrolloimalla.
 
 Kasvi- ja ilmastomallinnuksen sekä data-analytiikan avulla järjestelmät voivat tuottaa arvioita viljely-ympäristön ilmaston ja/tai kasvien tilasta paremman päätöksenteon mahdollistamiseksi tai varoitusten tuottamiseksi. Useissa julkaisuissa esitetyt kasvihuonetuotannon järjestelmät ovat parantaneet resurssitehokkuutta ja muun muassa kastelun täsmällisyyttä. Kasvihuonetuotannon yhteydessä pilvipalveluita soveltavat ratkaisut ja kasvitehtaat ovat jatkuvasti yleistymässä ja pilvipalveluiden avulla dataa voidaan analysoida syvällisemmin, nopeammin, tehokkaammin, edullisemmin ja luotettavammin kuin aikaisemmin. (@tzounisInternetThingsAgriculture2017; @verdouwInternetThingsAgriculture2016a) *Mites peltotuotannon järjestelmät, onko tuloksia?*
 
@@ -694,9 +681,6 @@ Talavera et al. (2017) kirjallisuuskatsauksessa käsiteltyjen logistiikan osa-al
 
 
 *ks. edellisistä kohdista aikaiset varoitukset kans*
-
-
-
 
 
 ### AIoT:n avoimet haasteet
