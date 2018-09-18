@@ -541,7 +541,7 @@ Muistiinpanot:
         Tietoliikenneyhteyksistä painotus oli erilaisissa langattomissa verkkosovelluksissa/verkoissa.
 
         Nämä havainnot osoittavat, että vaikka IoT kerää paljon huomiota, se on edelleen alkuvaiheessa maatalouden alalla.
-        Sovellukset ovat usei pirstaleisia, vailla saumatonta integraatiota ja erityisesti edistyneemmät sovellukset ovat kokeellisissa vaiheissa.
+        Sovellukset ovat usein pirstaleisia, vailla saumatonta integraatiota ja erityisesti edistyneemmät sovellukset ovat kokeellisissa vaiheissa.
         Keskeisimpiin/tärkeimpiin avoimiin haasteisiin kuuluvat:
             * Olemassaolevien IoT-ratkaisuiden integraatio avoimilla IoT-arkkitehtuureilla, alustoilla ja standardeilla.
             * Yhteentoimivien IoT-teknologioiden skaalaus aikaisten omaksujien ulkopuolelle, erityisesti nykyisten sovellusten yksinkertaistamisella sekä loppukäyttäjien maksamien hintojen alentamisella.

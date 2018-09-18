@@ -355,9 +355,9 @@ Teemahaastatteluja tulisi yleisesti tehdä syvällisemmän tiedon hankkimiseksi 
 
 #### Haastateltavien valinta
 
-Haastateltavien määrää rajoitti käytettävät resurssit ja aika. Opinnäytetyön laajuuden ollessa rajattu, päädyttiin viiteen haastateltavaan mikä on tekijän mielestä ilmiön monitahoisuuden huomioon ottaen pieni määrä. Toisaalta Hirsjärven ja Hurmeen (2015, 59) mukaan voidaan laadullisessa tutkimuksessa jo muutaman haastateltavan avulla saada merkittävää tietoa. Haastateltavien valinnassa edettiin aluksi keräämällä kontakteja ja keskustelemalla mahdollisten haastateltavien kanssa erilaisissa tapahtumissa. Samalla pyrittiin keskusteluissa myös Hirsjärven ja Hurmeen (2015, 59) sekä Tuomin ja Sarajärven (2018, 99) kuvailevan lumipallomenetelmän omaisesti hankkimaan uusia kontakteja. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 59; @tuomiLaadullinenTutkimusJa2018, 99)
+Haastateltavien määrää rajoitti käytettävät resurssit ja aika. Opinnäytetyön laajuuden ollessa rajattu, päädyttiin viiteen haastateltavaan mikä on tekijän mielestä ilmiön monitahoisuuden huomioon ottaen pieni määrä. Toisaalta Hirsjärven ja Hurmeen (2015, 59) mukaan voidaan laadullisessa tutkimuksessa jo muutaman haastateltavan avulla saada merkittävää tietoa. Haastateltavien valinnassa edettiin aluksi keräämällä kontakteja ja keskustelemalla asiantuntijoiden kanssa erilaisissa tapahtumissa. Samalla pyrittiin keskusteluissa myös Hirsjärven ja Hurmeen (2015, 59) sekä Tuomin ja Sarajärven (2018, 99) kuvailevan lumipallomenetelmän omaisesti hankkimaan uusia kontakteja. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 59; @tuomiLaadullinenTutkimusJa2018, 99)
 
-Haastateltavien valintaan vaikutti suurelta osin haastateltavien lähestyttävyys. Useita lupaavia kontakteja ei saatu haastateltaviksi alustavien keskustelujen jälkeen ja useilta kontakteilta ei saatu vastauksia haastattelupyyntöihin. Haastateltaviksi olisi ollut hyvä saada valittujen asiantuntijoiden lisäksi kasvihuonetuotantoon erikoistuneita asiantuntijoita sekä viljelijöitä kasvihuone-, puutarha- ja peltotuotannon aloilta. Tämä ei kuitenkaan toteutunut opinnäytetyön laajuuden rajallisuuden vuoksi ja jätetään jatkotutkimuksen aiheeksi.
+Haastateltaviksi valittiin AIoT:hen perehtyneitä asiantuntijoita, jotka tulivat esille aiheeseen liittyvistä julkaisuista, tavattiin tapahtumissa tai joita muut asiantuntijat suosittelivat haastateltaviksi. Haastateltavien valintaan vaikutti myös suurelta osin haastateltavien lähestyttävyys. Useita lupaavia kontakteja ei saatu haastateltaviksi alustavien keskustelujen jälkeen ja useilta kontakteilta ei saatu vastauksia haastattelupyyntöihin. Haastateltaviksi olisi ollut hyvä saada valittujen asiantuntijoiden lisäksi kasvihuonetuotantoon erikoistuneita asiantuntijoita sekä viljelijöitä kasvihuone-, puutarha- ja peltotuotannon aloilta. Tämä ei kuitenkaan toteutunut opinnäytetyön laajuuden rajallisuuden vuoksi ja jätetään jatkotutkimuksen aiheeksi.
 
 
 #### Teemahaastatteluiden toteutus
@@ -440,8 +440,6 @@ Koodien, alikategorioiden ja kategorioiden mukaan tehtyjä havaintoja vertailtii
 
 
 ###### Haastattelumateriaalista johtopäätösten vetäminen analyysin perusteella
-
-*Esiintymien tiheyden ja samankaltaisuuden avulla pyrittiin luomaan kokonaiskuva teemojen yleisyydestä, yhtäläisyyksistä ja erilaisuudesta.*
 
 Kategorioiden ja teemojen määrien kuvaajien analysoinnin avulla voidaan vetää johtopäätöksiä  haastattelujen yleisestä luonteesta ja keskeisistä asiasisällöistä. Esimerkiksi keskittyivätkö haastateltavat muutamaan ydinaiheeseen vai laajempiin asiakokonaisuuksien kuvailuun. Lisäksi voidaan päätellä mihin asiakokonaisuuksiin haastatteluissa keskityttiin haastattelukohtaisesti ja yhteensä koko haastattelumateriaalissa.
 
@@ -538,7 +536,13 @@ Xu
 *Mitkä ovat keskeiset AIoT:n teknologiaratkaisuit?*
 **AIoT-ratkaisuissa käytettävät teknologiat**
 
-Aineistossa olevissa kirjallisuuskatsauksissa suuri osa käsitellyistä julkaisuista keskittyy ympäristömuuttujien kuten lämpötilan, kosteuden, fysikokemiallisten ominaisuuksien ja säteilyn mittaamiseen ja seuraamiseen. Viime aikoina saataville tulleissa ympäristön tarkkailu- ja mittausratkaisuissa on myös päätöksentekoa ja hallinnointia tukevia toiminnallisuuksia. Selkeästi pienempi osa julkaisuista käsittelee aktuointia kuten kastelujärjestelmien kontrollointia toimilaitteiden avulla. Suurin osa toimilaitteista on käytössä kontrolloinnin tai logistiikan järjestelmissä.  Talavera et al. (2017) kirjallisuuskatsauksessa noin 26 %:ssa käsitellyistä julkaisuissa mitattiin lämpötilaa, 16 %:ssa kosteutta, 11 %:ssa fysikokemiallisia ominaisuuksia ja 10 %:ssa säteilyä. Lämpötilan ja fysikokemian anturit olivat jakautuneet kaikkiin edellä mainittuihin kategorioihin. Ilmanlaadun mittauksen antureita käsiteltiin 55 %:ssa julkaisuista. Tämän perusteella ilman lämpötilaa, ilmankosteutta, maaperän kosteutta ja auringonsäteilyä voidaan pitää universaaleina muuttujina maatalouden sovelluksissa. (@talaveraReviewIoTApplications2017)
+Keskeisimpiä yleisen IoT:n mahdollistavia teknologioita ovat Atzori et al. (2010) mukaan tunnistus-, anturointi- ja tietoliikennetekniikka sekä väliohjelmistot. IoT-konsepti voidaan lähtökohtaisesti toteuttaa näiden teknologioiden integroinnilla (@atzoriInternetThingsSurvey2010). Tämä on selkeästi havaittavissa useissa ehdotetuissa AIoT-arkkitehtuureissa (ks. @talaveraReviewIoTApplications2017; @tzounisInternetThingsAgriculture2017; @vermesanInternetThingsGlobal2011; @verdouwInternetThingsAgriculture2016a; @xuInternetThingsIndustries2014). 
+
+Keskeinen osa IoT:n kehitystä ovat RFID-tunnisteet, joilla voidaan tarkkailla niillä merkittyjen fyysisten kohteiden liikkumista järjestelmässä tosiaikaisesti. Anturiverkot ovat RFID-tunnisteiden lisäksi toinen keskeinen IoT:n mahdollistava teknologia. Anturiverkkoja voidaan käyttää ympäristön tai laitteiden anturointiin. Useat tutkimukset Atzori et al. (2010) kirjallisuuskatsauksessa keskittyvät ympäristön tarkkailuun anturiverkkojen avulla. Vastaavasti Verdouw et al. (2016) katsauksessa 
+
+Lisäksi anturiverkkojen avulla voidaan rikastuttaa esimerkiksi RFID-tunnisteiden lukemisessa tuotettua tietoa muun muassa liike-, paikka- ja lämpötilatiedoilla. Langattomassa tietoliikennetekniikassa käytettävien radiolaitteiden koko, paino ja energiankulutus ovat pienentyneet ja hinta laskenut huomattavasti. Tämä on mahdollistanut niiden sulauttamisen lähes kaikkiin esineisiin, mikä on osaltaan johtanut kehitystä IoT-konseptin suuntaan. (@atzoriInternetThingsSurvey2010)
+
+Aineistossa keskeisissä kirjallisuuskatsauksissa suuri osa käsitellyistä julkaisuista keskittyy ympäristömuuttujien kuten lämpötilan, kosteuden, fysikokemiallisten ominaisuuksien ja säteilyn mittaamiseen ja seuraamiseen (@atzoriInternetThingsSurvey2010; @talaveraReviewIoTApplications2017; @verdouwInternetThingsAgriculture2016a *entä muut?*). Lisäksi viimeaikaisissa ympäristön tarkkailu- ja mittausratkaisuissa on myös päätöksentekoa ja hallinnointia tukevia toiminnallisuuksia. Ympäristön tarkkailua ja havainnointia selkeästi pienempi osa julkaisuista käsittelee aktuointia kuten kastelujärjestelmien kontrollointia toimilaitteiden avulla. Näistä suuri osa käsittelee täsmäviljelyn järjestelmien toteutuksia AIoT-sovellusten avulla (@verdouwInternetThingsAgriculture2016a). Suurin osa toimilaitteista on käytössä kontrolloinnin tai logistiikan järjestelmissä.  Talavera et al. (2017) kirjallisuuskatsauksessa 26 %:ssa käsitellyistä julkaisuissa mitattiin lämpötilaa, 16 %:ssa kosteutta, 11 %:ssa fysikokemiallisia ominaisuuksia ja 10 %:ssa säteilyä. Kyseisessä katsauksessa lämpötilan ja fysikokemian anturit olivat jakautuneet kaikkiin edellä mainittuihin kategorioihin. Ilmanlaadun mittauksen antureita käsiteltiin 55 %:ssa julkaisuista. Talavera et al. (2017) mukaan tämän perusteella ilman lämpötilaa, ilmankosteutta, maaperän kosteutta ja auringonsäteilyä voidaan pitää universaaleina muuttujina maatalouden sovelluksissa. (@talaveraReviewIoTApplications2017)
 
 Laitteiden voimanlähteistä kirjallisuuskatsauksien julkaisuissa käsitellään useiten aurinkopaneelien ja akkujen yhdistelmiä. Toisaalta jos laitteita käytetään toimilaitteina niiden voimanlähteenä käytetään useiten verkkovirtaa. *Edistyksellisempiä energiankeräimiä ei Talavera et al. (2017) katsauksessa havaittu yhtään.* 
 
@@ -549,6 +553,8 @@ Tietoliikennetekniikoista yleisimpiä ovat langattomien henkilökohtaisten verkk
 Verkon reunan tietojenkäsittelyä sivuavissa julkaisuissa useiten käytettiin mikrokontrolleripohjaisia ratkaisuita, yhden piirilevyn tietokoneiden ratkaisuiden ollessa harvinaisia. *Ei yhtään per Talavera et al.* 
 
 Tiedon tallennusratkaisuita käsittelevissä julkaisuissa suuri osa käytti omia ratkaisuita, pilvipalveluiden käytön ollessa vähäisempää. *Oisko kyse enemmän tutkimusprojekteista, joissa ei niin pilveä vedetä kun ei tarvitse skaalautua?*
+
+Huomattava osa keskeisten kirjallisuuskatsausten julkaisuista käsittelee yleiskäyttöisen IoT-pohjaisen tiedonhallintajärjestelmän kehittämistä. Tietojärjestelmiä voidaan käyttää myös ennus 
 
 Tiedon näyttö loppukäyttäjille toteutettiin *selkeästi suurimmassa per Talavera et al.* osassa julkaisuja web-pohjaisten ratkaisujen avulla, muiden ollessa mobiili- ja paikallisratkaisuita.
 
@@ -571,9 +577,7 @@ AIoT-ratkaisuissa sovelletut teknologiat ja infrastruktuurit on jaoteltu seitsem
 *Tietojenkäsittely (?)*
 
 
-Keskeisimpiä yleisen IoT:n mahdollistavia teknologioita ovat Atzori et al. (2010) mukaan tunnistus-, anturointi- ja tietoliikennetekniikka sekä väliohjelmistot. IoT-konsepti voidaan lähtökohtaisesti toteuttaa näiden teknologioiden integroinnilla (@atzoriInternetThingsSurvey2010). Tämä on selkeästi havaittavissa useissa ehdotetuissa AIoT-arkkitehtuureissa (ks. @talaveraReviewIoTApplications2017; @tzounisInternetThingsAgriculture2017; @vermesanInternetThingsGlobal2011; @verdouwInternetThingsAgriculture2016a; @xuInternetThingsIndustries2014). 
 
-Keskeinen osa IoT:n kehitystä ovat RFID-tunnisteet, joilla voidaan tarkkailla niillä merkittyjen fyysisten kohteiden liikkumista järjestelmässä tosiaikaisesti. Anturiverkot ovat RFID-tunnisteiden lisäksi toinen keskeinen IoT:n mahdollistava teknologia. Anturiverkkoja voidaan käyttää ympäristön tai laitteiden anturointiin. Useat tutkimukset Atzori et al. (2010) kirjallisuuskatsauksessa keskittyvät ympäristön tarkkailuun anturiverkkojen avulla. *Mites muut katsaukset?* Lisäksi anturiverkkojen avulla voidaan rikastuttaa esimerkiksi RFID-tunnisteiden lukemisessa tuotettua tietoa muun muassa liike-, paikka- ja lämpötilatiedoilla. Langattomassa tietoliikennetekniikassa käytettävien radiolaitteiden koko, paino ja energiankulutus ovat pienentyneet ja hinta laskenut huomattavasti. Tämä on mahdollistanut niiden sulauttamisen lähes kaikkiin esineisiin, mikä on osaltaan johtanut kehitystä IoT-konseptin suuntaan. (@atzoriInternetThingsSurvey2010)
 
 
 #### ? Tunnistus-, anturointi- ja tietoliikennetekniikka
@@ -682,8 +686,8 @@ Talavera et al. (2017) kirjallisuuskatsauksessa käsiteltyjen logistiikan osa-al
 
 #### Ennustus
 
-**Ennustus**-osa-alueen julkaisut keskittyivät Talavera et al. (2017) kirjallisuuskatsauksessa viljelijän päätöksenteossa tarvittavan tiedon ja työkalujen tuottamiseen. Esitettyjen ratkaisujen arkkitehtuurissa oli tähän tarkoitukseen erityiset modulit. Ratkaisujen ennustamat muuttujat ryhmiteltiin seuraavalla tavalla: ympäristöolosuhteet 42.86 %, tuotantoennusteet 42.86 % ja satoennusteet 14.29 %. (@talaveraReviewIoTApplications2017)
-*alueellinen näytteenotto maaperän kosteusantureille WSN:in sisällä*
+**Ennustus**-osa-alueen julkaisut keskittyivät Talavera et al. (2017) kirjallisuuskatsauksessa viljelijän päätöksenteossa tarvittavan tiedon ja työkalujen tuottamiseen. Esitettyjen ratkaisujen arkkitehtuurissa oli tähän tarkoitukseen erityiset modulit. Ratkaisujen ennustamat muuttujat ryhmiteltiin seuraavalla tavalla: ympäristöolosuhteet 42.86 %, tuotantoennusteet 42.86 % ja satoennusteet 14.29 %. (@talaveraReviewIoTApplications2017) Samoin Verdouw et al. katsauksessa useat julkaisuista käsittelivät viljelyn tarkkailun ja kontrollintijärjestelmien toiminnan tukemista kasvien kasvua ennustavilla mallinnusjärjestelmillä (@verdouwInternetThingsAgriculture2016a). 
+
 *integroitiin kuivuuden tarkkailu ja ennustus sekä kastelun ennustus IoT-ratkaisua käyttäen*
 *IoT-pohjaisen maataloustuotannon järjestelmän jolla pyritään tasaamaan tuotteiden kysyntää ja tarjontaa. Tähän päästiin mittaamalla ympäristömuuttujia ja kehittämällä ennustusjärjestelmä kasvun ja satoisuuden ennustamiseen.*
 *järjestelmän, jolla pyritään viljelymaan dynaamiseen analysointiin mobiilien anturien avulla. Järjestelmä pyrki luomaan hallintasuunnitelmia rypäleiden kasvatukselle*
