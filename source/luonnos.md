@@ -551,7 +551,7 @@ Talavera et al. (2017) kirjallisuuskatsauksssa suurin osa katsauksessa käsitell
 **Väliohjelmistot** voivat toimia sovelluskerroksena tai ohjelmistoina järjestelmien osien välillä, IoT-ratkaisuissa usein laitteiden ja sovelluskerroksen välissä. Väliohjelmistoilla voidaan yksinkertaistaa sovelluskehitystä sekä helpottaa vanhojen teknologioiden integrointia uusien kanssa. Tämä voidaan tehdä abstraktoimalla laitteiden toiminnallisuuksia antaen sovelluskehittäjille geneerisiä ohjelmistokehityksen työkaluja laitteiden käsittelyyn, jolloin kehittäjien ei tarvitse keskittyä yksittäisten laitteiden teknisiin yksityiskohtiin. Geneerisillä työkaluilla voidaan näin väliohjelmistoa hyväksi käyttäen tuottaa sovelluksia, jotka ovat yhteensopivia kaikkien väliohjelmiston kanssa yhteensopivien laitteiden kanssa. Tämän lisäksi väliohjelmistojen avulla voidaan yhdistaa pilvipohjainen infrastruktuuri, palvelukeskeinen arkkitehtuuri ja anturiverkot geneerisellä tavalla, jolloin samoja toiminnallisuuksia voidaan hyödyntää useissa erilaisissa järjestelmissä. Näiden IoT-ratkaisuiden kehitykselle keskeisten vahvuuksien takia väliohjelmistot ovat keränneet kirjallisuudessa runsaasti huomiota. (@atzoriInternetThingsSurvey2010; @tzounisInternetThingsAgriculture2017)
 
 
-*Granell et al. (2016), 7 FI-WARE -hankkeessa toteutetut niin sanotut Generic Enabler - mitäihmettäneovat? - , jotka ovat sovellus- ja käyttötapausagnostisia. Lisäksi GE:t ovat riippumattomia sovellusaloista, kuten ympäristö-, maatalous- tai energia-ala. GE:t abstraktoivat pilvipalvelut, alatason IoT-ratkaisujen tekniset yksityiskohdat ja Big Datan käsittelyn avoimien määrittelyjen ja ohjelmistorajapintojen avulla.*
+*Granell et al. (2016), 7 FI-WARE -hankkeessa toteutetut niin sanotut Generic Enabler - mitäihmettäneovat? - , jotka ovat sovellus- ja käyttötapausagnostisia. Lisäksi GE:t ovat riippumattomia sovellusaloista, kuten ympäristö-, maatalous- tai energia-ala. GE:t abstraktoivat pilvipalvelut, alatason IoT-ratkaisujen tekniset yksityiskohdat ja massadatan (Big Data) käsittelyn avoimien määrittelyjen ja ohjelmistorajapintojen avulla.*
 
 
 ### AIoT:n sovellusalueet
@@ -595,7 +595,7 @@ Osa-alueen julkaisujen esittämät teknologiaratkaisut voivat auttaa viljelijöi
 
 Talavera et al. (2017) kirjallisuuskatsauksessa kontrolloinnin osa-alueen julkaisuissa komentoja lähetetään joko käyttäjän toimesta käyttöliittymän avulla tai analytiikkamodulien tukeman päätöksentekoalgoritmin tuloksena. Katsauksen käsittelemistä julkaisuista useat järjestelmät pyrkivät veden, lannoitteiden ja kasvinsuojeluaineiden käytön optimointiin. Tähän optimointiin pyrittään sääennustepalveluiden ja paikallisen anturiverkon tuottaman tiedon perusteella. (@talaveraReviewIoTApplications2017)
 
-Kasvihuoneiden ja -tehtaiden kontrollointijärjestelmät, joissa sovelletaan data-analytiikkaa ja dataa siirretään pilvipalveluihin internetin yli, ovat Tzounis et al. (2017) kirjallisuuskatsauksessa selkeästi esillä, mutta Verdouw et al. (2016) katsauksessa vähemmistönä. Verdouw et al. havaitsivat, että useimmat kasvihuonejärjestelmiä käsittelevät julkaisut keskittyivät kasvihuoneen ilmaston ja kastelun tarkkailuun ja kontrollointiin. Pieni osa pyrki kasvihuoneen kontrollointijärjestelmän toteuttamiseen tai energiankulutuksen hallintaan. Puutarhatuotannon järjestelmät keskittyvät pääasiassa tuotteiden tarkkailuun ja kontrollointiin, osan pyrkiessä tuholaistorjunnan ja aikaisten varoitusten järjestelmien toteuttamiseen. Yksittäiset julkaisut käsittelivät jäljitettävyyttä, asiantuntijajärjestelmiä, kaupankäyntiä internetissä, tarkkuuskastelua ja Big Datan käyttöä. (@tzounisInternetThingsAgriculture2017; @verdouwInternetThingsAgriculture2016a)
+Kasvihuoneiden ja -tehtaiden kontrollointijärjestelmät, joissa sovelletaan data-analytiikkaa ja dataa siirretään pilvipalveluihin internetin yli, ovat Tzounis et al. (2017) kirjallisuuskatsauksessa selkeästi esillä, mutta Verdouw et al. (2016) katsauksessa vähemmistönä. Verdouw et al. havaitsivat, että useimmat kasvihuonejärjestelmiä käsittelevät julkaisut keskittyivät kasvihuoneen ilmaston ja kastelun tarkkailuun ja kontrollointiin. Pieni osa pyrki kasvihuoneen kontrollointijärjestelmän toteuttamiseen tai energiankulutuksen hallintaan. Puutarhatuotannon järjestelmät keskittyvät pääasiassa tuotteiden tarkkailuun ja kontrollointiin, osan pyrkiessä tuholaistorjunnan ja aikaisten varoitusten järjestelmien toteuttamiseen. Yksittäiset julkaisut käsittelivät jäljitettävyyttä, asiantuntijajärjestelmiä, kaupankäyntiä internetissä, tarkkuuskastelua ja massadatan käyttöä. (@tzounisInternetThingsAgriculture2017; @verdouwInternetThingsAgriculture2016a)
 
 *Tämä jää vähän irtonaiseksi nyt:*
 Talavera et al. (2017) kirjallisuuskatsauksessa käsitellyissä julkaisuissa käytettyjen toimilaitteiden tyypit vaihtelevat huomattavasti. Toimilaitteiden tyypit jakautuivat seuraavasti: kastelu 72.22 %, lannoitus 5.56 %, kasvinsuojelu 5.56%, valaistus 5.56 %, pääsyn hallinta 5.56 %. Lisäksi osa katsauksessa käsitellyistä julkaisuista käytti toimilaitteita logistiikassa 5.56 %. (@talaveraReviewIoTApplications2017)
@@ -644,7 +644,7 @@ Vaikka IoT:n konseptin toteuttaminen on mahdollista, tutkimustyötä tarvitaan v
 Atzori et al. (2010) yleiset IoT:n haasteet: standardit, järjestelmien välisen liikkuvuuden tuki, nimeäminen, tietoliikenneprotokollat, tietoliikenteen tyypittely ja QoS, todentaminen, datan eheys, yksityisyys, digitaalinen unohtaminen. (@atzoriInternetThingsSurvey2010)
 
 *Haasteet per Sundmaeker et al. @sundmaekerInternetFoodFarm2016*
-ICT- ja erityisesti IoT-teknologiat muuttavat maataloutta nopealla tahdilla. Suuren mittakaavan käyttöönottojen kautta näillä teknologioilla on selkeä potentiaali tuottaa huomattavia etuja kestävän maanviljelyn muodossa, varmistamalla ruokaturvaa pienempien ympäristövaikutusten kautta sekä takaamalla terveellisen ruoantuotannon. Etujen saavuttamiseen tarvitaan kuitenkin tiettyjen IoT:n teknisten ja yhteiskunnallisten haasteiden ja esteiden voittamista. Nämä vaikeudet tuottavat kuitenkin myös uusia mahdollisuuksia teknologiselle kehitykselle ja arvon tuottamiselle.  
+ICT- ja erityisesti IoT-teknologiat muuttavat maataloutta nopealla tahdilla. Suuren mittakaavan käyttöönottojen kautta näillä teknologioilla on selkeä potentiaali tuottaa huomattavia etuja tehokkaan ja kestävän maanviljelyn muodossa, varmistamalla ruokaturvaa pienempien ympäristövaikutusten kautta sekä takaamalla terveellisen ja turvallisen ruoantuotannon. Etujen saavuttamiseksi vaaditaan useiden IoT:n teknisten ja yhteiskunnallisten haasteiden ja esteiden voittamista. Nämä haasteet voivat kuitenkin tuottaa myös uusia mahdollisuuksia teknologiselle kehitykselle ja arvon tuottamiselle.  
 
 *Sidosryhmien osallisuus/osallistaminen*
 
@@ -944,9 +944,6 @@ Lukuja tulkitessa tulee ottaa huomioon, että jo yhden koodin havainnon ero aihe
 
 ##### Haastatteluissa havaitut
 
-*KUINKA MONTA HAVAINTOA PER SEGMENTTI KESKIMÄÄRIN PER HAASTATTELU?*
-*HUOM: YHDEN SEGMENTIN SISÄLLÄ YKSI KOODI VAIN YHDEN KERRAN. Muuutta? Segmenttien koko vaihtelee rajusti.*
-
 *Kannattaa tsekata myös koodit, joista ei puhuta kuin tietyssä haastattelussa!*
 *yhteenvetona: mitkä ovat yleisimmät ja näkyvimmät tuotteet, mitkä ratkaisu/tuotekategoriat?*
 
@@ -1005,7 +1002,7 @@ Koodien havaintojen määrien jakaantuminen sekä haastattelujen kesken sekä et
 
 Toisaalta segmenttien eroavaisuuksien ja koodien asiasisältöjen erojen *jonkin muunkin?* takia pelkät kokonaismäärät eivät itsessään tuo lisäselvyyttä haastattelumateriaalin sisällön tulkinnalle. Kokonaismääriä voidaan tarvittaessa käyttää esimerkiksi eri haastattelujen kategoriakohtaisten havaintomäärien suhteuttamisessa toisiinsa.
 
-### Haastattelujen kuvaus???
+### Haastatteluaineiston kuvaus
 
 #### Meta (poistettava otsikko)
 Tässä *osiossa/luvussa* kuvaillaan haastatteluissa käsiteltyjen teemojen mukaan jaotellut haastattelutulokset.
@@ -1303,9 +1300,6 @@ D.D. kertoi, että järjestelmäintegraation, datan käsittelyn ja alustojen yht
 Tuotekehityksen seuraavassa vaiheessa koneoppimisen ja keinoälyn avulla voidaan automatisoida yhä enemmän toistuvia työsuoritteita. E.E.n mukaan eteneminen voisi hyvinkin lähteä liikkeelle itseohjaavista pellolla toimivista koneista. Autoteollisuudessa on kehitetty pitkälle itse ajavia autoja. Pellolla työkoneiden ei tarvitse liikkua muun liikenteen seassa, mikä tekee toimintaympäristöstä huomattavasti yksinkertaisemman ja helpomman toteuttaa. Keinoälyn voisi myös antaa tehdä päätöksiä viljelyaikana ja antaa sen hoitaa toimintaa. Nämä koneoppimisen ja keinoälyn avulla automatisoidut järjestelmät voivat olla hyvinkin lähitulevaisuuden maanviljelyn asioita. (@eHaastattelu2018)
 
 Teknologia koneoppimisen ja keinoälyn soveltamiseen peltotuotannossa on E.E.n mukaan jo sinänsä olemassa. Ainoa syy, että sen käyttöönotossa ollaan varovaisia on päättäjien, kuluttajien ja yleisesti ihmisten kokema pelko, kun kohdataan keinoälyn ajama kone. Ajan kuluessa teknologia tulee saavuttamaan ihmisten hyväksynnän. Digitaalisuus on tullut jäädäkseen ja sen vaikuttaa kaikkeen toimintaan maataloudessakin jatkuvasti voimakkaammin. (@eHaastattelu2018)
-
-
-## Haastatteluista saatujen tulosten vertailu kirjallisuuskatsauksen tuloksiin
 
 
 ## Tutkimuskysymyksien vastaukset
