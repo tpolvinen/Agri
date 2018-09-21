@@ -1771,7 +1771,39 @@ CISCO
 	- Widely disparate definitions of the IoT exist The ITU has defined the IoT as “a global infrastructure for the information society, enabling advanced services by interconnecting (physical and virtual) things based on existing and evolving interoperable information and communication technologies” (Recommendation ITU-T Y 2060) [3] 
 	- According to the ITU GSR 2015 Discussion Paper on regulation and the Internet of Things,25 one possible explanation for why the IoT is advancing rapidly now is that it is moving from a position where it delivers incremental efficiency improvements to existing business models to one where it positively impacts new business models and processes as well [26]
 
+---
 
+<21-09-2018  11:39>
+
+? Atzori
+**Talavera**
+    1. Valvottavat ympäristömuuttujat
+    2. Toimilaitteet
+    3. Voimanlähteet
+    4. Tietoliikennetekniikat
+    5. Verkon reunan tietojenkäsittely (edge computing)
+    6. Tiedon tallennusstrategiat
+    7. Tiedon visualisointistrategiat
+**Tzounis**
+    Luku 3. Internet of Things hardware, platforms and sensors in agriculture 
+    vähävirtaiset WSN:t
+    AIoT:n ja WSN:n yleiset anturit ja alustaominaisuudet
+    langattomat verkkoprotokollat
+**Verdouw**
+    Laitekerros: AutoID, anturointi, aktuointi
+    Tietoliikennekerros
+        "technologies such as networked RFID, nearfield communication and wireless (sensor) networks, including Zigbee, Bluetooth, Wi-Fi, and GPRS/3G/4G."
+    Sovelluskerros:
+        Palvelut perustoiminnoille:
+           "tracking, tracing, monitoring and event management."
+        joiden lisäksi kohteen dynaaminen tila, optimointi ja autonomiset laitteet 
+- Wolfert
+Xu
+    IV Key Enabling Technologies
+    A) tunnistus ja seurannan teknologiat
+    B) tietoliikennetekniikka
+    C) verkot (WSAN, AHN)
+    D) palvelunhallinta
 
 
 
