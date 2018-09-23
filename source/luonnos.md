@@ -230,19 +230,23 @@ Aineiston pelkistämisen analyysimallissa edetään tunnistamalla asiat, joista 
 
 ## Aineisto ja (tutkimus)menetelmät
 
-Aineiston keruumenetelmiä oli useita. Kirjallisuuskatsauksen tekemistä edelsi tutkittavaan ilmiöön tutustuminen alustavien aineistohakujen avulla, keräämällä mahdollisten tiedonantajien kontakteja, käyden asiantuntijakeskusteluja, vierailemalla alan tapahtumissa ja haastatteluja tehden. Kirjallisuuskatsauksen aluksi haettiin IoT:tä yleistasolla ja ilmiönä käsittelevää kirjallisuutta. Seuraavaksi haettiin kasvintuotannon ja maatalouden IoT-sovelluksia käsitteleviä kirjallisuuskatsauksia. Valittujen kirjallisuuskatsausten pohjalta muotoiltiin hakumenetelmät ja valittiin osa lähteistä. Hakumenetelmien tuloksista on valittu tekijän harkinnan mukaan tutkittavaa ilmiötä parhaiten kuvaavat ja työhön sopivat lähteet. 
+Tässä osiossa kuvaillaan aineiston hankinnassa ja tutkimuksessa käytetyt menetelmät. Kuvailevasta kirjallisuuskatsauksesta kuvaillaan lyhyesti sen alustava työvaihe ja toteutus, aineiston haku ja haussa käytettyjen asiasanojen valintaperusteet.
 
-Tutkimuksen alustavassa vaiheessa ilmiöön tutustuttaessa tehtiin useita hakuja aiheeseen liittyvillä asiasanoilla, selattiin erilaisten organisaatioiden ja julkaisujen verkkosivuja, haettiin asiantuntijakontakteja eri tapahtumista jne. Löydöt merkittiin muistiin mahdollista myöhempää käyttöä varten. Lisäksi ollaan käytetty aiheeseen tutustuttaessa löydettyjä aineistoja jos ne ovat tekijän harkinnan mukaan olleet tähdellisiä aiheen käsittelylle ja ymmärryksen luomiselle.
+### Kuvaileva kirjallisuuskatsaus
+
+Kirjallisuuskatsauksen aneiston keruumenetelmiä oli useita. Kirjallisuuskatsauksen tekemistä edelsi tutkittavaan ilmiöön tutustuminen alustavien aineistohakujen avulla, keräämällä mahdollisten tiedonantajien kontakteja, käyden asiantuntijakeskusteluja, vierailemalla alan tapahtumissa ja haastatteluja tehden. Kirjallisuuskatsauksen aluksi haettiin IoT:tä yleistasolla ja ilmiönä käsittelevää kirjallisuutta. Seuraavaksi haettiin kasvintuotannon ja maatalouden IoT-sovelluksia käsitteleviä kirjallisuuskatsauksia. Valittujen kirjallisuuskatsausten pohjalta muotoiltiin hakumenetelmät ja valittiin osa lähteistä. Hakujen tuloksista on valittu tekijän harkinnan mukaan tutkittavaa ilmiötä parhaiten kuvaavat ja työhön sopivat lähteet. 
+
+Tutkimuksen alustavassa vaiheessa ilmiöön tutustuttaessa tehtiin useita hakuja aiheeseen liittyvillä asiasanoilla, selattiin erilaisten organisaatioiden ja julkaisujen verkkosivuja, haettiin asiantuntijakontakteja eri tapahtumista jne. Löydöt merkittiin muistiin mahdollista myöhempää käyttöä varten. Alustavassa vaiheessa löydettyjä aineistoja on käytetty myös kirjallisuuskatsausksessa jos ne ovat tekijän harkinnan mukaan olleet tähdellisiä aiheen käsittelylle ja ymmärryksen luomiselle.
 
 
-### Kuvailevan kirjallisuuskatsausksen toteutus
+#### Kuvailevan kirjallisuuskatsausksen toteutus
 
-Alustavien hakujen tulosten mukaan valittiin harkinnanvaraisesti joukko keskeisimpiä asiasanoja. Nämä asiasanat yhdistettiin löydettyjen kirjallisuuskatsausten tutkimusmenetelmissä käytettyihin asiasanoihin, joista valittiin harkinnanvaraisesti opinnäytetyön aiheelle keskeisimmät. Kirjallisuuskatsausten tutkimus- ja hakumenetelmiä käytettiin malleina muotoiltaessa omia vastaavia. Lisäksi katsausten tutkimustuloksia käytettiin verrokkeina omien havaintojen tarkistamisessa. Muiden katsausten, koosteiden ja vastaavien julkaisujen tuloksia, havaintoja ja tekstejä käytettiin niin ikään omien hakutulosten ja havaintojen vertailuun.
+Alustavien hakujen tulosten mukaan valittiin harkinnanvaraisesti joukko keskeisimpiä asiasanoja. Nämä asiasanat yhdistettiin löydettyjen kirjallisuuskatsausten tutkimusmenetelmissä käytettyihin asiasanoihin, joista valittiin harkinnanvaraisesti opinnäytetyön aiheelle keskeisimmät. Tutkimus- ja hakumenetelmien malleina käytettiin alustavassa vaiheessa löydettyjen keskeisten kirjallisuuskatsausten vastaavia. Lisäksi katsausten tutkimustuloksia käytettiin verrokkeina omien havaintojen tarkistamisessa. Muiden katsausten, koosteiden ja vastaavien julkaisujen tuloksia, havaintoja ja tekstejä käytettiin niin ikään omien hakutulosten ja havaintojen vertailuun.
 
 Eri tietokantoihin tehdyissä hauissa käytettiin kunkin kannan hakutoimintoihin sovellettuja hakulauseita. Usein tämä tarkoitti hakulauseiden lyhentämistä tietokantojen hakutoimintojen sallimiin hakusanamääriin sopiviksi. Hakujen tuloksena saatiin joukko erilaisia julkaisuita, joiden joukosta on valittu aihetta käsittelevät kirjallisuuskatsaukset. Kirjallisuuskatsauksista käytiin läpi tuloksien lisäksi tutkimusmenetelmät. Näitä menetelmiä käytettiin soveltuvin osin mallina seuraavissa aineistohaun vaiheissa. Tällä pyrittiin varmistamaan, että katsauksissa selkeästi havaitut asiakokonaisuudet tulevat huomioiduksi, hakumenetelmät ja asiasanat ovat laadukkaita sekä tutkittavalle ilmiölle sopivia.
 
 
-#### Kirjallisuuskatsauksen aineistojen haku
+##### Kirjallisuuskatsauksen aineistojen haku
 
 Alustavia aineistohakuja tehtiin hakukoneista Google-haulla (https://google.com) ja Google Scholar -haulla (https://scholar.google.fi) sekä ResearchGate:n (https://www.researchgate.net) haku- ja suositustoimintojen avulla. Haaga-Helian kirjaston tarjoamista tietokannoista (http://libguides.haaga-helia.fi/az.php) alustavia hakuja tehtiin seuraaviin: 
 * Passport Global Market (http://go.euromonitor.com/passport), 
@@ -264,14 +268,16 @@ Järjestelmälliseen hakuun valittiin Haaga-Heliaan ostetuista tietokannoista ne
 * Elsevier ScienceDirect Freedom Collection (https://www.elsevier.com/solutions/sciencedirect)
 * IEEE Xplore Electronic Library (https://ieeexplore.ieee.org/Xplore/home.jsp)
 
-Näiden lisäksi käytettiin Google Scholar -hakukonetta (https://scholar.google.fi).
+Näiden lisäksi käytettiin Google Scholar -hakukonetta (https://scholar.google.fi) ja ResearchGate-tutkimusportaalia (https://www.researchgate.net).
 
-Hakulauseissa käytettiin keskeisinä hakusanoina: "IoT", "Internet of Things", "Agriculture", "Precision Farming", "Smart Farming". Hakusanojen  Hakulauseita muokattiin kunkin tietokannan hakutoimintojen mahdollisuuksien puitteissa. Useiden tietokantojen hakutoiminnot rajoittivat hakulauseissa käytettävien hakusanojen määrää. Tällöin maataloutta kuvaavan toisen hakusanaryhmän hakusanoista (ks. Asiasanojen valintaperusteet) jätettiin harkinnanvaraisesti pois vähemmän merkittäviä hakusanoja ja/tai hakulause jaettiin useampaan hakuun. Erilaisten hakulauseiden antamia hakutuloksia vertailtiin keskenään, jonka jälkeen voitiin muotoilla kullekin tietokannalle sopiva hakulause. Tietokantahakujen lisäksi aineistoa kerättiin valittujen julkaisujen perusteella tietokantojen suosittelemien julkaisujen joukosta. Esimerkiksi ResearchGate:n Suggested for you sekä IEEE Xplore:n Related Articles -toiminnot ehdottivat useita lähteiksi valittuja julkaisuja.
+Hakulauseet muodostettiin kahdesta hakusanojen ryhmästä, joista ensimmäiseen valittiin IoT:lle keskeiset asiasanat ja toiseen ryhmään valittiin kasvintuotannolle ja maataloudelle keskeiset asiasanat. Ryhmien välillä käytettiin AND-operaattoria ja ryhmien sisällä käytettiin hakusanojen välillä OR-operaattoria.
+
+Hakulauseita muokattiin kunkin tietokannan hakutoimintojen mahdollisuuksien puitteissa. Useiden tietokantojen hakutoiminnot rajoittivat hakulauseissa käytettävien hakusanojen määrää. Tällöin maataloutta kuvaavan toisen hakusanaryhmän hakusanoista (ks. alla Asiasanojen valintaperusteet) jätettiin harkinnanvaraisesti pois vähemmän merkittäviä hakusanoja ja/tai hakulause jaettiin useampaan hakuun. Erilaisten hakulauseiden antamia hakutuloksia vertailtiin keskenään, jonka jälkeen voitiin muotoilla kullekin tietokannalle sopiva hakulause. Tietokantahakujen lisäksi aineistoa kerättiin valittujen julkaisujen perusteella tietokantojen suosittelemien julkaisujen joukosta. Esimerkiksi ResearchGate:n Suggested for you sekä IEEE Xplore:n Related Articles -toiminnot ehdottivat useita lähteiksi valittuja julkaisuja.
 
 
-##### Asiasanojen valintaperusteet
+###### Asiasanojen valintaperusteet
 
-Alustavissa aineistohauissa löydettyjen julkaisujen asiasanojen sekä löydettyjen kirjallisuuskatsausten käyttämien hakusanojen joukosta koottiin tutkittavalle ilmiölle keskeisimmät hakusanat. Asiasanojen valinnassa käytettiin vain englanninkielisiä sanoja, koska suomenkielisten aineistojen arvellaan käyttävän sekä suomen- että englanninkielisiä asiasanoja ja löytyvän niiden avulla. IoT:tä käsittelevien yleisteosten asiasanat jätettiin pois, koska kirjojen ilmiölle merkityksellisiksi arvioidut asiasanat toistuivat myös muualla aineistossa ja ne tulivat valituiksi sitä kautta. Lisäksi kirjallisuuskatsauksen seuraavissa vaiheissa ei enää haettu IoT:tä yleisesti käsittelevää kirjallisuutta. Samoin pois jätettiin asiasanat, jotka eivät selkeästi liity kasvintuotannon IoT:n tutkimukseen ja teknologiaratkaisuihin.
+Alustavissa aineistohauissa löydettyjen julkaisujen asiasanojen sekä löydettyjen kirjallisuuskatsausten käyttämien hakusanojen joukosta koottiin tutkittavalle ilmiölle keskeisimmät hakusanat. Asiasanojen valinnassa käytettiin vain englanninkielisiä sanoja, koska suomenkielisten aineistojen arveltiin käyttävän sekä suomen- että englanninkielisiä asiasanoja ja löytyvän englanninkielisten asiasanojen avulla. IoT:tä käsittelevien yleisteosten asiasanat jätettiin pois, koska kirjojen ilmiölle merkityksellisiksi arvioidut asiasanat toistuivat myös muualla aineistossa ja ne tulivat valituiksi sitä kautta. Lisäksi kirjallisuuskatsauksen seuraavissa vaiheissa ei enää haettu IoT:tä yleisesti käsittelevää kirjallisuutta. Samoin pois jätettiin asiasanat, jotka eivät selkeästi liity kasvintuotannon IoT:n tutkimukseen ja teknologiaratkaisuihin.
 
 Kirjallisuuskatsausten hakuun käytettiin hakusanoina alustavissa aineistohauissa löydettyjen kirjallisuuskatsausten asiasanoja. Useiten toistuvat asiasanat "IoT" ja "Internet of Things" valittiin ensimmäiseksi hakusanaryhmäksi. Toiseksi hakusanaryhmäksi valittiin kirjallisuuskatsauksia koskevat asiasanat "literature review", "Systematic literature review" sekä "Survey". Kolmanteen hakusanaryhmään valittiin sellaiset asiasanat, joiden arvioitiin toistuvan kirjallisuuskatsauksissa ja joita ei valittu edellisiin ryhmiin. Kolmanteen ryhmään lisättiin vielä Precision Agriculture, jolloin kolmannen hakusanaryhmään kuuluvat:
 Agriculture
@@ -285,7 +291,7 @@ Precision Farming
 Precision Agriculture
 Smart Farming
 
-Aineiston hakuun käytettiin löydettyjen kirjallisuuskatsausten hakulauseissa käytettyjä hakusanoja, joista valittiin arviolta keskeisimmät kasvintuotannon IoT-ratkaisuiden ja tutkimuksen näkökulmista. Näihin lisättiin muissa aikaisemmissa vaiheissa löydetyt asiasanat, joiden arvioitiin parantavan hakutulosten kattavuutta. Asiasanoista muodostettiin hakulause, joka on jaettu kahteen ryhmään. Ensimmäiseen ryhmään valittiin asiasanat "IoT" ja "Internet of Things". Toiseksi ryhmäksi valittiin:
+Aineiston hakuun käytettiin löydettyjen kirjallisuuskatsausten hakulauseissa käytettyjä hakusanoja, joista valittiin arviolta keskeisimmät kasvintuotannon IoT-ratkaisuiden ja tutkimuksen näkökulmista. Näihin lisättiin muissa aikaisemmissa vaiheissa löydetyt asiasanat, joiden arvioitiin parantavan hakutulosten kattavuutta. Asiasanoista muodostettiin hakulause, jonka hakusanat on jaettu kahteen ryhmään. Ensimmäiseen ryhmään valittiin asiasanat "IoT" ja "Internet of Things". Toiseksi ryhmäksi valittiin asiasanat:
 Agriculture
 Precision Agriculture
 Smart Agriculture
@@ -302,7 +308,7 @@ Agroindustry
 Big Data
 Greenhouses
 Smart Environments
-"Plant factories"
+Plant factories
 Product Traceability
 Drones
 Cloud Computing
@@ -347,7 +353,7 @@ Weather
 
 Kokonaisuutena teemahaastatteluissa pyrittiin tuomaan esille AIoT:n erilaisia ilmentymiä mahdollisimman laaja-alaisesti. Yksittäisissä teemahaastatteluissa pyrittiin syventymään kunkin haastateltavan asiantuntijan erikoisalaan ja kokemuksiin. Tämän takia teemahaastattelujen kysymykset pidettiin avoimina ja kutakin teemaa käsiteltiin haastateltavan asiantuntemuksen mukaan.
 
-Teemahaastattelu sopii tekijän näkemyksen mukaan menetelmänä luontevasti tässä opinnäytetyössä tehtyihin asiantuntijahaastatteluihin, koska teemahaastattelujen rakenne ei ole rajattu tiettyihin ennalta määriteltyihin kysymyksiin vaan nojautuu haastatteluille asetettuihin teemoihin. Teemahaastattelun eteneminen tapahtuu näiden keskeisten teemojen varassa ja haastattelun aihepiirit ovat kaikille haastateltaville samat. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 47-48) Tämä mahdollistaa joustavasti kunkin haastateltavan oman asiantuntemusalueen käsittelyn.
+Teemahaastattelu sopii tekijän arvion mukaan menetelmänä luontevasti tässä opinnäytetyössä tehtyihin asiantuntijahaastatteluihin, koska teemahaastattelun rakenne ei ole rajattu tiettyihin ennalta määriteltyihin kysymyksiin vaan nojautuu haastatteluille asetettuihin teemoihin. Teemahaastattelun eteneminen tapahtuu näiden keskeisten teemojen varassa ja haastattelun aihepiirit ovat kaikille haastateltaville samat. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 47-48) Tämä mahdollistaa joustavasti kunkin haastateltavan oman asiantuntemusalueen käsittelyn.
 
 Hirsjärven ja Hurmeen esittämän joustavuusperiaatteen mukaisesti teema-alueiden etukäteen hahmottelulla pyrittiin sekä "turvaamaan tarvittavan tiedon saanti" että antamaan harkinnan varaa yksittäisissä haastatteluissa käsiteltäviin ilmiöihin (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015). Saman kaltaisesti Kanasen (2010) mukaan haastattelutilanteissa voi ilmetä ennalta arvaamattomia polkuja, joita haastattelijan tulisi voida joustavasti seurata niiden ilmetessä (@kananenOpinnaytetyonKirjoittamisenKaytannon2010, 56). Kuvaillun kaltainen joustavuus mahdollisti tässä tapauksessa teemojen ja haastattelukysymysten  harkinnanvaraisen täsmentämisen aikaisemmista haastatteluista saatujen kokemusten perusteella. Laadullisen tutkimuksen ominaispiirteenä onkin tutkimusmenetelmällisten ratkaisuiden täsmentyminen tutkimuksen edetessä (@valliIkkunoitaTutkimusmetodeihinNakokulmia2018, 73).
 
@@ -355,9 +361,9 @@ Teemahaastatteluja tulisi yleisesti tehdä syvällisemmän tiedon hankkimiseksi 
 
 #### Haastateltavien valinta
 
-Haastateltavien määrää rajoitti käytettävät resurssit ja aika. Opinnäytetyön laajuuden ollessa rajattu, päädyttiin viiteen haastateltavaan mikä on tekijän mielestä ilmiön monitahoisuuden huomioon ottaen pieni määrä. Toisaalta Hirsjärven ja Hurmeen (2015, 59) mukaan voidaan laadullisessa tutkimuksessa jo muutaman haastateltavan avulla saada merkittävää tietoa. Haastateltavien valinnassa edettiin aluksi keräämällä kontakteja ja keskustelemalla asiantuntijoiden kanssa erilaisissa tapahtumissa. Samalla pyrittiin keskusteluissa myös Hirsjärven ja Hurmeen (2015, 59) sekä Tuomin ja Sarajärven (2018, 99) kuvailevan lumipallomenetelmän omaisesti hankkimaan uusia kontakteja. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 59; @tuomiLaadullinenTutkimusJa2018, 99)
+Haastateltavien määrää rajoitti käytettävät resurssit ja aika. Opinnäytetyön laajuuden ollessa rajattu, päädyttiin viiteen haastateltavaan mikä on tekijän arvion mukaan ilmiön monitahoisuuden huomioon ottaen pieni määrä. Toisaalta Hirsjärven ja Hurmeen (2015, 59) mukaan voidaan laadullisessa tutkimuksessa jo muutaman haastateltavan avulla saada merkittävää tietoa. Haastateltavien valinnassa edettiin aluksi keräämällä kontakteja ja keskustelemalla asiantuntijoiden kanssa erilaisissa tapahtumissa. Samalla pyrittiin keskusteluissa myös Hirsjärven ja Hurmeen (2015, 59) sekä Tuomin ja Sarajärven (2018, 99) kuvailevan lumipallomenetelmän omaisesti hankkimaan uusia kontakteja. (@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 59; @tuomiLaadullinenTutkimusJa2018, 99)
 
-Haastateltaviksi valittiin AIoT:hen perehtyneitä asiantuntijoita, jotka tulivat esille aiheeseen liittyvistä julkaisuista, tavattiin tapahtumissa tai joita muut asiantuntijat suosittelivat haastateltaviksi. Haastateltavien valintaan vaikutti myös suurelta osin haastateltavien lähestyttävyys. Useita lupaavia kontakteja ei saatu haastateltaviksi alustavien keskustelujen jälkeen ja useilta kontakteilta ei saatu vastauksia haastattelupyyntöihin. Haastateltaviksi olisi ollut hyvä saada valittujen asiantuntijoiden lisäksi kasvihuonetuotantoon erikoistuneita asiantuntijoita sekä viljelijöitä kasvihuone-, puutarha- ja peltotuotannon aloilta. Tämä ei kuitenkaan toteutunut opinnäytetyön laajuuden rajallisuuden vuoksi ja jätetään jatkotutkimuksen aiheeksi.
+Haastateltaviksi valittiin AIoT:hen perehtyneitä asiantuntijoita, jotka tulivat esille aiheeseen liittyvistä julkaisuista, tavattiin tapahtumissa tai joita muut asiantuntijat suosittelivat haastateltaviksi. Haastattelujen toteutumiseen ja tätä kautta haastateltavien valikoitumiseen vaikutti myös suurelta osin haastateltavien lähestyttävyys. Useita lupaavia kontakteja ei saatu haastateltaviksi alustavien keskustelujen jälkeen ja useilta kontakteilta ei saatu vastauksia haastattelupyyntöihin. Haastateltaviksi olisi ollut hyvä saada valittujen asiantuntijoiden lisäksi kasvihuone- ja puutarhatuotantoon erikoistuneita asiantuntijoita sekä viljelijöitä kasvihuone-, puutarha- ja peltotuotannon aloilta. Tämä ei kuitenkaan toteutunut suurelta osin opinnäytetyön laajuuden rajallisuuden vuoksi ja nämä haastattelut jätetään jatkotutkimuksen aiheeksi.
 
 
 #### Teemahaastatteluiden toteutus
@@ -370,7 +376,7 @@ Haastattelut toteutettiin 8.11.2017 - 11.4.2018 välisenä aikana. Haastateltava
 
 ##### Meta (poistettava otsikko)
 
-Haastatteluaineiston analyysimenetelmäksi valittiin sisällönanalyysi, koska opinnäytetyön tutkimusongelma on laadullinen. Tällä pyritään tuomaan aineistosta esille systemaattisesti sen laadullisia ominaisuuksia ja näin vastaamaan opinnäytetyön tutkimuskysymyksiin. Sisällönanalyysiä käytetään tutkimusaineiston systemaattisena analyysimenetelmänä, jolla järjestellään ja kuvaillaan tarkasteltavaa aineistoa. Analyysin keskeinen tehtävä on löytää tutkittavaa ilmiötä kuvailevia väittämiä, joilla voidaan vastata tutkimustehtäviin.
+Koska opinnäytetyön tutkimusongelma on laadullinen, haastatteluaineiston analyysimenetelmäksi valittiin sisällönanalyysi. Tällä pyritään tuomaan aineistosta esille systemaattisesti sen laadullisia ominaisuuksia ja näin vastaamaan opinnäytetyön tutkimuskysymyksiin. Sisällönanalyysiä käytetään tutkimusaineiston systemaattisena analyysimenetelmänä, jolla järjestellään ja kuvaillaan tarkasteltavaa aineistoa. Analyysin keskeinen tehtävä on löytää tutkittavaa ilmiötä kuvailevia väittämiä, joilla voidaan vastata tutkimustehtäviin.
 
 
 ##### Sisällönanalyysi
@@ -395,7 +401,7 @@ Analyysillä pyrittiin vastaamaan tutkimuskysymyksiin havainnoimalla tutkimuskys
 
 ###### Haastattelumateriaalin koodaus ja koodien kategorisointi
 
-Haastattelujen litteroinneista kirjoitettujen yleiskielisten tekstien segmentit numeroitiin haastattelun numeron ja juoksevan numeroinnin yhdistelmällä. Numeroinnin jälkeen aineistot luettiin huolellisesti ja koodit muodostettiin etsimällä aineistosta merkitykselliset ilmaisut. Ilmaisut pelkistettiin eli koodattiin, koodit taulukoitiin ja koodeille merkittiin ilmaisujen esiintymiskohta segmentin numerolla. Segmentissä havaittavien koodien määrälle ei asetettu rajoituksia ja kustakin segmentistä tehtiin usein monia havaintoja eri koodeille. Segmenttien pituus ja asiasisällöt vaihtelivat huomattavasti ja osittain tämän takia havainnot eivät välttämättä ole keskenään täysin vertailukelpoisia. Lisäksi havainoille ei merkitty painotuksia. Tämä on pyritty ottamaan huomioon koodien ja kategorioiden laadinnassa, mutta tuloksia ei voi loppujen lopuksi pitää kovin eksakteina vaan enemmänkin suuntaa antavina ja tulkinnanvaraisina. Tämän takia havaintoja pyritään käsittelemään suuntauksia ja trendejä peilaavina.
+Haastattelujen litteroinneista kirjoitettujen yleiskielisten tekstien segmentit numeroitiin haastattelun numeron ja juoksevan numeroinnin yhdistelmällä. Numeroinnin jälkeen aineistot luettiin huolellisesti ja koodit muodostettiin etsimällä aineistosta merkitykselliset ilmaisut. Ilmaisut pelkistettiin eli koodattiin, koodit taulukoitiin ja koodeille merkittiin ilmaisujen esiintymiskohta segmentin numerolla. Segmentissä havaittavien koodien määrälle ei asetettu rajoituksia ja usein kustakin segmentistä tehtiin useita havaintoja eri koodeille. Segmenttien pituus ja asiasisällöt vaihtelivat huomattavasti ja osittain tämän takia havainnot eivät välttämättä ole keskenään täysin vertailukelpoisia. Lisäksi tulee huomioida, että havainoille ei merkitty painotuksia. Tämä on pyritty ottamaan huomioon koodien ja kategorioiden laadinnassa, mutta tuloksia ei voi loppujen lopuksi pitää kovin eksakteina vaan enemmänkin suuntaa antavina ja tulkinnanvaraisina. Tämän takia havaintoja pyritään käsittelemään suuntauksia ja trendejä peilaavina.
 
 Osa koodeista oli yleisiä, osa taas samaa asiasisältöä tietystä näkökulmasta tai kontekstissa käsitteleviä. Samasta segmentistä voitiin tehdä havaintoja sekä tiettyä asiasisältöä käsittelevälle yleisluontoiselle koodille että samaa asiasisältöä tarkemmin rajatusti käsittelevälle koodille. Työn edetessä koodeja muokattiin jatkuvan vertailun metodin mukaisesti: koodeja vertailtiin keskenään, haastattelumateriaalia luettiin uudestaan eri näkökulmista ja koodeja muokattiin jatkuvasti tarkoituksenmukaisemmiksi. Ensimmäisen läpikäynnin tuloksena saatiin 159 koodia ja toisella läpikäynnillä koodien määrä nousi 180:een. Toisen läpikäynnin aikana ja sen jälkeen koodeja luokiteltiin ensin alikategorioihin ja myöhemmin kategorioihin. Samoin kuin ensimmäisellä läpikäynnillä koodeja, alikategorioita ja kategorioita vertailtiin ja muokattiin jatkuvasti. Jatkuvalla vertailulla pyrittiin myös varmistamaan sekä teemojen oikeellisuus että havaintojen esiintymisten kirjaus. Tuloksena kategorioiksi muodostuivat Maataloustuotanto, Tekniikka ja Toimintaympäristö. Näiden alla on 33 alikategoriaa, joihin koodit on luokiteltu.
 
@@ -410,9 +416,9 @@ Haastattelujen keskinäisiä yhteneväisyyksiä ja eroavaisuuksia pyrittiin tuom
 
 Kategorioiden, koodien ja niiden havaintojen määrien havainnollistamiseksi koostettiin taulukko haastattelukohtaisista koodien havainnoista. Kategorioista, koodien määristä ja koodien havaintomääristä koostettiin kuvaajat, joista nähdään kategorioiden jakautuminen haastatteluissa sekä koodien määrien että koodien havaintojen määrien mukaan, niiden jakautuminen haastatteluihin ja eriteltynä kategorioittain. Näistä kuvaajista voidaan tarkistella haastattelujen keskinäisiä eroja kategoriatasolla sekä kuinka suuri osa tietyssä haastattelussa havaituista koodeista ja sen havainnoista on mistäkin kategoriasta ja miten kategorioiden kaikki koodit ja havainnot jakaantuvat eri haastatteluihin. Lisäksi voidaan vertailla haastattelujen kategorioiden jakautumista haastattelujen välillä sekä koodien määrän että koodien havaintojen määrän mukaan.
 
-Koodien havaintojen keskinäisiä yhteneväisyyksiä ja niiden kautta teemojen esiintymisten samankaltaisuuksia kartoitettiin lämpökartalla, johon koodit järjestettiin samankaltaisuuden perusteella R heatmap.2 -funktion avulla (ks. liite R heatmap.2). Samankaltaisuus määriteltiin koodin haastattelukohtaisten esiintymiskertojen mukaan, esimerkiksi koodit Tekniikka-Standardi-Muut ja Toimintaympäristö-Tuotantoketju-Liiketoiminnan ekosysteemi olivat samankaltaisia molempien esiintyessä yhtä monta kertaa samoissa haastatteluissa: Haastattelussa 1 neljä kertaa, haastattelussa 2 kerran, haastattelussa 3 kahdesti ja lopuissa haastatteluissa ei kertaakaan.
+Koodien havaintojen keskinäisiä yhteneväisyyksiä ja niiden kautta teemojen esiintymisten samankaltaisuuksia kartoitettiin lämpökartalla, johon koodit järjestettiin samankaltaisuuden perusteella R heatmap.2 -funktion avulla (ks. liite R heatmap.2). Samankaltaisuus määriteltiin koodin haastattelukohtaisten esiintymiskertojen mukaan, esimerkiksi koodit "Tekniikka-Standardi-Muut" ja "Toimintaympäristö-Tuotantoketju-Liiketoiminnan ekosysteemi" olivat samankaltaisia molempien esiintyessä yhtä monta kertaa samoissa haastatteluissa: Haastattelussa 1 neljä kertaa, haastattelussa 2 kerran, haastattelussa 3 kahdesti ja lopuissa haastatteluissa ei kertaakaan.
 
-Lopuksi haastattelumateriaalin sanamäärät laskettiin analysaattoriohjelmalla ja taulukoitiin omaan taulukkoonsa. Analysaattoriin syötettiin haastattelujen äänitteistä litteroidusta tekstistä muokattu versio, joka sisälsi vain haastateltavien itse sanomat sanat. Useammin kuin kerran löytyneistä sanoista (1920 sanaa) valittiin haastattelujen aikaisempien käsittelyvaiheiden tuoman kokemuksen perusteella arviolta merkitsevät sanat, joiden sanarungolla, ja/tai alkukirjaimilla haettiin kaikkien sanojen joukosta (6011 sanaa) sanan eri taivutusmuodot, lyhennelmät ja virheellisesti kirjoitetut esiintymät. Sanojen havaitut synonyymit ja selkeästi haastatteluissa samaa tarkoittavien sanojen esiintymät laskettiin yhteen. Esimerkiksi sanat täsmäviljely, täsmäviljejyn, täsmäviljelyä, täsmäviljelydata, täsmäviljelykin, täsmäviljelykonferinssissa, täsmäviljelylaitteistolle, täsmäviljelylaitteita, täsmäviljelyllä, täsmäviljelyn, täsmäviljelyssä, täsmäviljelystä, täsmäviljelyteknologiaa, täsmäviljelyteknologiasta, täsmäviljelytietoa ja täsmäviljelyyn laskettiin yhteen, jolloin saatiin asiasanalle "täsmäviljely" yhteensä 27 esiintymää. Tuloksena saatiin 118 asiasanaa, joiden esiintymät taulukoitiin, järjestettiin ja joiden esiintymien määristä laadittiin kuvaaja. Taulukon ja kuvaajan avulla voidaan arvioida haastattelumateriaalin keskeisimpien teemojen yleisyyttä ja keskinäisiä suhteita.
+Lopuksi haastattelumateriaalin sanamäärät laskettiin analysaattoriohjelmalla ja taulukoitiin omaan taulukkoonsa. Analysaattoriin syötettiin haastattelujen äänitteistä litteroidusta tekstistä muokattu versio, joka sisälsi vain haastateltavien itse sanomat sanat. Litteroinneissa olevan haastateltavien kielen arvioitiin olevan keskenään tarpeeksi samankaltaista, että kielen normalisointia yleiskielelle ei tässä tapauksessa tarvita. Useammin kuin kerran löytyneistä sanoista (1920 sanaa) valittiin haastattelujen aikaisempien käsittelyvaiheiden tuoman kokemuksen perusteella ja harkinnanvaraisesti merkitsevät sanat, joiden sanarungolla, ja/tai alkukirjaimilla haettiin kaikkien sanojen joukosta (6011 sanaa) sanan eri taivutusmuodot, lyhennelmät ja virheellisesti kirjoitetut esiintymät. Sanojen havaitut synonyymit ja selkeästi haastatteluissa samaa tarkoittavien sanojen esiintymät laskettiin yhteen. Esimerkiksi sanat täsmäviljely, täsmäviljejyn, täsmäviljelyä, täsmäviljelydata, täsmäviljelykin, täsmäviljelykonferinssissa, täsmäviljelylaitteistolle, täsmäviljelylaitteita, täsmäviljelyllä, täsmäviljelyn, täsmäviljelyssä, täsmäviljelystä, täsmäviljelyteknologiaa, täsmäviljelyteknologiasta, täsmäviljelytietoa ja täsmäviljelyyn laskettiin yhteen, jolloin saatiin asiasanalle "täsmäviljely" yhteensä 27 esiintymää. Tuloksena saatiin 118 asiasanaa, joiden esiintymät taulukoitiin, järjestettiin ja joiden esiintymien määristä laadittiin kuvaaja. Taulukon ja kuvaajan avulla voidaan arvioida haastattelumateriaalin keskeisimpien teemojen yleisyyttä ja keskinäisiä suhteita.
 
 
 ###### Haastattelumateriaalin analysointi taulukoitujen tietojen avulla
@@ -552,6 +558,8 @@ Talavera et al. (2017) kirjallisuuskatsauksssa suurin osa katsauksessa käsitell
 
 ### AIoT:n sovellusalueet
 
+#### Meta (poistettava otsikko)
+
 AIoT-ratkaisuiden sovellusalueiden luokittelu ja rajaukset vaihtelevat aineiston kirjallisuuskatsausten välillä, usein riippuen katsausten tekijöiden lähtökohdista, tutkimuskysymyksistä ja näkökulmista. Tässä osiossa käydään läpi keskeisimpien kirjallisuuskatsauksien jaottelut ja niihin luokiteltujen julkaisujen määrät. Tällä pyritään antamaan lukijalle yleiskuva katsausten keskeisistä teemoista ja niiden yleisyydestä. Koska luokittelut eivät ole keskenään yhteensopivia, niistä ei sellaisenaan voi tehdä määrällistä yhteenvetoa ja tämän takia ne esitellään tässä osiossa erillisinä.
 
 Tzounis et al. kirjallisuuskatsauksessa sovellusalueet ovat: 
@@ -562,6 +570,7 @@ Verdouw et al. kirjallisuuskatsauksessa sovellusaluet ovat: **tuotantoketju** 68
 Talavera et al. tekemässä kirjallisuuskatsauksessa IoT-teknologioita käsittelevät tutkimukset on jaoteltu neljään teknologiasovellusten osa-alueeseen: valvonta, kontrollointi, logistiikka ja ennustus. Suurin osa katsauksessa käsitellyistä tutkimuksista keskittyi valvotaan, konrollointiin vastaavasti neljännes, logistiikan ja ennusteiden ollessa harvinaisempia tutkimuskohteita. Määrällisesti osa-alueita käsittelevät tutkimukset jakautuvat seuraavasti: valvontaa käsitteleviä tutkimuksia on 46, kontrollointia käsitteleviä 17, logistiikkaa 5 ja ennustusta 4.
 
 Seuraavassa osiossa käsitellään kastsauksen aineistossa viitatut teknologiasovellukset ja kirjallisuuskatsausten havainnot osa-alueittain **valvonnan**, **kontrolloinnin**, **logistiikan** ja **ennustuksen** osioissa.
+
 
 #### Valvonta
 
@@ -580,6 +589,7 @@ Valvontaa käsittelevien julkaisujen esittelemät teknologiasovellukset keskitty
 Peltotuotannon sovelluksia Tzounis et al. (2017) kirjallisuuskatsauksessa käsittelevissä julkaisuissa keskitytään yleensä ilmasto-olosuhteiden ja maaperän mittaamiseen. Usein julkaisuissa käytetään maaperämittauksissa useita antureita eri syvyyksillä. Useissa julkaisuissa optisia antureita on käytetty kasvien heijastuskyvyn mittaamiseen tai lämpötilan etävalvontaan, mutta myös pellon yleistilanteen kartoittamiseen. Osassa julkaisuista on havaittu, että peltotuotannon sovelluksissa maanalaiset anturiverkot voivat tuottaa huomattavia etuja. Kehitys sulautettujen laitteiden teknologioissa sekä niiden hintojen aleneminen on mahdollistanut tehokkaiden anturilaitteiden käytön ja paikallisen tiedonkäsittelyn sumutietojenkäsittelynä. Kuvantamisdataa tuottavia anturilaitteita käytetään julkaisuissa tavallisina turvakameroina, eläinten tunkeutumisen havaitsemiseksi, hyönteisten tai haittakasvien uhkien havaitsemiseksi ja satokasvien kasvun tarkkailuun. Peltotuotannon sovellusten julkaisuissa on myös käsitelty IoT-ratkaisuiden ja paikkatietojärjestelmien integraatiota jos täsmällinen paikkatieto on ollut tarpeellinen. (@tzounisInternetThingsAgriculture2017)
 
 Viimeaikaisissa tutkimuksissa ympäristön tarkkailu- ja mittausratkaisuihin on lisätty toiminnallisuuksia päätöksenteon ja hallinnoinnin tueksi. Esimerkiksi on esitetty automaattisen kasvitautineuvontapalvelun järjestelmäkehikko, joka integroi maatalousneuvonnan puhelinpalvelun ja IoT-pilvipalvelun. Järjestelmä käsittelee automaattisesti viljelijän lähettämiä kuvia kasvitaudista ja antaa diagnoosin sekä toimenpidesuosituksen kyseisen kasvitaudin hoitamiseksi. (@talaveraReviewIoTApplications2017)
+
 
 #### Kontrollointi
 
@@ -635,10 +645,7 @@ Tässä osiossa käsitellään kirjallisuuskatsauksen aineistossa esiintyneet AI
 
 Vaikka yleisesti IoT:n konseptin tai paradigman mukaisen vision toteuttaminen on mahdollista, tutkimustyötä tarvitaan vielä lisää esimerkiksi standardisaation, tietoliikenteen ja tietoturvan ratkaisujen kehittämiseksi. Atzori et al. (2010) mukaan IoT:n yleiset haasteet ja tutkimuskohteet ovat: standardit, järjestelmien välisen liikkuvuuden tuki, nimeäminen, tietoliikenneprotokollat, tietoliikenteen tyypittely ja palvelunlaatu, todentaminen, datan eheys, yksityisyys ja digitaalinen unohtaminen. (@atzoriInternetThingsSurvey2010)
 
-*Haasteet per Sundmaeker et al. @sundmaekerInternetFoodFarm2016*
-ICT- ja erityisesti IoT-teknologiat muuttavat maataloutta nopealla tahdilla. Suuren mittakaavan käyttöönottojen kautta näillä teknologioilla on selkeä potentiaali tuottaa huomattavia etuja tehokkaan ja kestävän maanviljelyn muodossa, varmistamalla ruokaturvaa pienempien ympäristövaikutusten kautta sekä takaamalla terveellisen ja turvallisen ruoantuotannon. Etujen saavuttamiseksi vaaditaan useiden IoT:n teknisten ja yhteiskunnallisten haasteiden ja esteiden voittamista. Nämä haasteet voivat kuitenkin tuottaa myös uusia mahdollisuuksia teknologiselle kehitykselle ja arvon tuottamiselle.  
-
-*Sidosryhmien osallisuus/osallistaminen*
+ICT- ja erityisesti IoT-teknologiat muuttavat maataloutta nopealla tahdilla. Suuren mittakaavan käyttöönottojen kautta näillä teknologioilla on selkeä potentiaali tuottaa huomattavia etuja tehokkaan ja kestävän maanviljelyn muodossa, varmistamalla ruokaturvaa pienempien ympäristövaikutusten kautta sekä takaamalla terveellisen ja turvallisen ruoantuotannon. Etujen saavuttamiseksi vaaditaan useiden IoT:n teknisten ja yhteiskunnallisten haasteiden ja esteiden voittamista. Nämä haasteet voivat kuitenkin tuottaa myös uusia mahdollisuuksia teknologiselle kehitykselle ja arvon tuottamiselle. (@@sundmaekerInternetFoodFarm2016)
 
 
 #### Standardisaation haasteet
@@ -687,13 +694,11 @@ Energiankulutuksen hallinnan lisäksi todennäköisesti kasvava trendi IoT-ratka
 AIoT-ratkaisuiden haastava toimintaympäristö asettaa laitteiden lujatekoisuudelle ja kestävyydelle huomattavan kovia vaatimuksia. Havaintotason laitteiden tulee kestää muun muassa auringon säteilyä, suuria lämpötilavaihteluita, sadetta, ilmankosteutta, tuulta ja tärinää (@tzounisInternetThingsAgriculture2017). Samoin Talavera et al. (2017) mukaan kaupallisten IoT-ratkaisuiden tulisi kestää huomattavia muutoksia lämpötilassa, kosteudessa ja valaistuksessa kestääkseen sekä vuodenaikojen muutokset että maailmanlaajuisen käyttöympäristön ilmaston vaihtelevuuden (@talaveraReviewIoTApplications2017). Myös Tzounis et al. (2017) mukaan IoT-laitteita on haastavaa kehittää vaativiin olosuhteisiin ja luonnon objekteille (kasvit, eläimet, maaperä, pilaantuvat ruokatuotteet) joihin itseensä laitteiden upottamista tai yhdistämistä voidaan toteuttaa vain rajatusti. Kypsien teknologioiden sovelluksista maataloudessa on jo paljon kokemusta, mutta uusien AIoT-teknologioiden sovelluksissa on vielä haasteita. (@tzounisInternetThingsAgriculture2017)
 
 
-#### Langattoman tiedonsiirron haasteet
+#### Langattoman tietoliikenteen haasteet
 
-Samoin kuin laitteiden kestävyydelle, toimintaympäristö asettaa haasteita myös langattomalle tiedonsiirrolle (@tzounisInternetThingsAgriculture2017). Yksi keskeisiä AIoT:n kehityksen haasteita on vakaan ja luotettavan langattoman yhteyden kehittäminen kaukaisille alueille, joilla on usein rajattu peittoalue ja kaistanleveys (@atzoriInternetThingsSurvey2010; @sundmaekerInternetFoodFarm2016; @verdouwInternetThingsAgriculture2016a; @vermesanInternetThingsGlobal2011, 174). Suuren mittakaavan AIoT-laitteiden käyttöönotot edellyttävät tietoliikenneverkkojen arkkitehtuurin uudistamista, jotta verkot voisivat sopeutua IoT-järjestelmien datan tuotannon muotoihin ja vaihtelevaan tietoliikennemäärään (@sundmaekerInternetFoodFarm2016).
+Samoin kuin laitteiden kestävyydelle, toimintaympäristö asettaa haasteita myös langattomalle tietoliikenteelle (@tzounisInternetThingsAgriculture2017). Yksi keskeisiä AIoT:n kehityksen haasteita on vakaiden ja luotettavien langattomien yhteyksien kehittäminen syrjäisille alueille, joilla on usein rajallinen peittoalue ja kaistanleveys (@atzoriInternetThingsSurvey2010; @sundmaekerInternetFoodFarm2016; @verdouwInternetThingsAgriculture2016a; @vermesanInternetThingsGlobal2011, 174). Suuren mittakaavan AIoT-laitteiden käyttöönotot edellyttävät tietoliikenneverkkojen arkkitehtuurin uudistamista, jotta verkot voisivat sopeutua IoT-järjestelmien datan tuotannon muotoihin ja vaihtelevaan tietoliikennemäärään (@sundmaekerInternetFoodFarm2016).
 
-Langattomat tietoliikenneverkot ovat yleisiä peltotuotannon sovelluksissa, missä verkkojen kaapeloinnin kustannukset voivat olla huomattavia ja kaapelointia voi olla vaikea toteuttaa. Ympäristövaikutukset ovat yksi suurimmista tekijöistä jotka vaikuttavat haitallisesti langattoman verkon yhteyksiin monitie-etenemisen ja sen taustamelua lisäävän vaikutuksen takia. Lämpötilan, kosteuden, ihmisten ja muiden esteiden vaikutuksen on havaittu vaikuttavan langattomien verkkojen toimintaan. Tämän takia tiedonsiirtoon tulisi käyttää luotettavia ja vakaita teknologioita, ottaen huomioon maatalouden käyttöympäristön vaatimukset ja haasteet. (@tzounisInternetThingsAgriculture2017)
-
-Lisäksi langattoman tietoliikenteen yleinen haaste on keskenään samoilla taajuuskaistoilla toimivien laitteiden toisilleen aiheuttamat häiriöt. Käytössä olevien useiden erilaisten teknologioiden ja standardien monimuotoisuus voi käytännössä haitata tietoliikennetason yhteentoimivuutta. (@tzounisInternetThingsAgriculture2017) Useissa julkaisuissa on mainittu yleisen ja heterogeenisiä tietoliikenneratkaisuita integroivan tietoliikennealustan tai -standardin kehittäminen avoimena haasteena (ks. alla kohta Muut tekniset haasteet). 
+Langattomat tietoliikenneverkot ovat yleisiä peltotuotannon sovelluksissa, missä verkkojen kaapeloinnin kustannukset voivat olla huomattavia ja kaapelointia voi olla vaikea toteuttaa. Peltotuotannon toimintaympäristö kuitenkin asettaa haasteita langattomille tietoliikenneratkaisuille: ympäristövaikutukset ovat yksi suurimmista tekijöistä jotka vaikuttavat haitallisesti langattoman verkon yhteyksiin monitie-etenemisen ja sen taustamelua lisäävän vaikutuksen takia. Lämpötilan, kosteuden, ihmisten ja muiden esteiden vaikutuksen on havaittu vaikuttavan langattomien verkkojen toimintaan. Tämän takia tiedonsiirtoon tulisi kehittää ja soveltaa luotettavia ja vakaita teknologioita, ottaen huomioon käyttöympäristön vaatimukset ja haasteet. (@tzounisInternetThingsAgriculture2017) Lisäksi langattoman tietoliikenteen yleinen haaste on keskenään samoilla taajuuskaistoilla toimivien laitteiden toisilleen aiheuttamat häiriöt. Käytössä olevien useiden erilaisten teknologioiden ja standardien monimuotoisuus voi käytännössä haitata tietoliikennetason yhteentoimivuutta. (@tzounisInternetThingsAgriculture2017) Useissa julkaisuissa on kuvailtu yleisen ja heterogeenisiä tietoliikenneratkaisuita integroivan tietoliikennealustan tai -standardin kehittämistä avoimena haasteena (ks. alla kohta Muut tekniset haasteet). 
 
 
 #### Analytiikkaratkaisuiden ja tietopalveluiden haasteet
@@ -770,12 +775,11 @@ Poikkeuksena edellisiin Barmpounakis et al. esittivät arkkitehtuurin, joka tekn
 
 ## Haastattelujen tulokset
 
-### Meta
+### Meta (poistettava otsikko)
 
 ### Haastattelujen tuloksien kuvailu teemojen mukaan ryhmiteltyinä
 
-*Tähän lista ryhmittelyn  alikategorioista ja kaaviot niiden havaintojen määristä; ryhmityksen mukaan ja asiasisältöjen mukaan.*
-
+Tässä osiossa kuvaillaan ensin haastattelumateriaalin asiasisältöjen havainnot jaoteltuina alaosioihin alikategorioiden ja niiden yleisten teemojen mukaan, minkä jälkeen käydään läpi sisällönanalyysiin taulukoinnin havainnot.
 
 #### Tekniikka: Tietojenkäsittely (168 havaintoa)
 
@@ -878,6 +882,26 @@ A.A.n mukaan suomalaisilla viljelijöillä voisi olla tarvetta USA:ssa toimivien
 *"...Lopuksi luotiin taulukot, joista keskeiset tulokset ovat helposti nähtävissä. Taulukot esitetään liitteissä 2, 3 ja 4."*
 *"...Keskeistä on löytää väittämiä, jotka ilmaisevat jotain tutkittavasta ilmiöstä."*
 
+* Koodit - Koodien jakautuminen excel-lämpökartalla (visuaalinen kuvailu)
+
+* Koodit haastatteluittain - Miten koodit jakautuvat haastatteluittain?
+    koodien jakautuminen excel-lämpökartalla (visuaalinen kuvailu)
+
+* Koodit haastatteluittain - Miten koodit jakautuvat yhteensä?
+    koodien jakautuminen excel-lämpökartalla (visuaalinen kuvailu)
+
+* Koodien määrät kategorioissa - Kuinka monia erilaisia asiasisältöjä eli koodeja kukin kategoria ja alikategoria pitää sisällään? Mitkä ovat keskeisimpiä ja mitkä harvinaisia?
+
+* Koodit Havainnot >1 - Kuinka monet kunkin haastattelun koodeista esiintyvät koko haastattelumateriaalissa yli viidesti? Kuinka monet kunkin haastattelun koodeista esiintyvät vain siinä haastattelussa? Näistä päätellen: kuinka yksilöllisiä haastattelut olivat asiasisällöiltään? 
+
+* Kategoriat per haastattelu - Miten kategoriat jakautuivat eri haastatteluissa?
+
+* Sanamäärät - Mitkä olivat yleisimmmät asiasanat haastattelumateriaalissa ja mitä niistä voi päätellä?
+
+* Kategoriakohtaiset taulukot - Miten kunkin kategorian asiasisällöt jakautuivat kussakin haastattelussa?
+
+* R-lämpökartta ja dendogrammi - Millaisia yhteneväisyyksiä eri asiasisältöjen esiintymisprofiileilla on? Voiko niiden perusteella löytää asiasisältöjen keskinäisiä yhteneväisyyksiä?
+
 ##### Koodien havaintojen haastattelukohtaiset kokonaismäärät
 
 Haastattelumateriaalista havaittiin yhdessä haastattelussa olevan enemmän havaintoja kuin muissa. 
@@ -885,7 +909,7 @@ Haastattelumateriaalista havaittiin yhdessä haastattelussa olevan enemmän hava
 Haastattelussa 1 on 116 eri koodin havaintoa, mikä oli enemmän kuin muissa haastatteluissa. Verrattuna muihin haastatteluihin, haastattelu 1:ssä oli myös eniten toistuvia havaintoja. Tämän mukaan asioita käsiteltiin haastattelu 1:ssä paitsi määrällisesti eniten, niitä käsiteltiin myös useiten. Tämä tukee tekijän tulkintaa siitä, että haastattelu 1 oli aihepiiriltään laajin ja vaihtelevin. Haastattelu 1 oli myös muita haastatteluja noin 20 minuuttia pidempi, mikä on voinut tuoda enemmän aikaa keskustella haastattelun aikana esille tulevista asiasisällöistä.
 
 Haastattelussa 2 havaittiin 88 eri koodin esiintymää, haastattelussa 3 vastaavasti 76, samoin haastattelussa 4 niitä oli 75 ja haastattelussa 5 havaintoja oli 78. Keskiarvoisesti haastattelua 1 lukuunottamatta havaittuja koodeja oli siis noin 79 haastattelua kohden. Haastattelu 1 mukaan lukien koodeja havaittiin keskiarvoisesti noin 87 haastattelua kohden.
-*vai koodien havaintoja?!*
+
 
 ##### Haastattelujen yhteneväisyydet ja eroavaisuudet
 
