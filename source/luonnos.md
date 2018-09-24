@@ -779,7 +779,7 @@ Poikkeuksena edellisiin Barmpounakis et al. esittivät arkkitehtuurin, joka tekn
 
 ### Haastattelujen tuloksien kuvailu teemojen mukaan ryhmiteltyinä
 
-Tässä osiossa kuvaillaan ensin haastattelumateriaalin asiasisältöjen havainnot jaoteltuina alaosioihin alikategorioiden ja niiden yleisten teemojen mukaan, minkä jälkeen käydään läpi sisällönanalyysiin taulukoinnin havainnot. Alaosioiden tekstissä koodien nimet on lihavoitu. 
+Tässä osiossa kuvaillaan ensin haastattelumateriaalin sisällönanalyysin määrälliset havainnot jaoteltuina alaosioihin alikategorioiden ja niiden yleisten teemojen mukaan, minkä jälkeen käydään läpi sisällönanalyysiin taulukoinnin havainnot. Alaosioiden tekstissä koodien nimet on lihavoitu. 
 
 #### Tietojenkäsittely
 
@@ -878,33 +878,45 @@ A.A.n mukaan suomalaisilla viljelijöillä voisi olla tarvetta USA:ssa toimivien
 
 #### Sisällönanalyysiin taulukoinnin havainnot
 
-*Koodit haastatteluittain - kussakin haastattelussa keskityttiin Tekniikka-kategoriassa muutamaan aiheeseen, joita "seuraavat" kaaviossa laskevat "hännät". Kuvaajat ovat kutakuinkin samanlaiset kaikissa haastatteluissa (mutta huom: koodit, siis asiat, ovat eri)*
-
-*Voisi tarkistaa kunkin haastiksen tekniikoista yleisimmät ja verrata! Mitkä koodit tulevat samoille alueille useissa haastiksissa -onko yhteisiä?*
-
-
 *"...Lopuksi luotiin taulukot, joista keskeiset tulokset ovat helposti nähtävissä. Taulukot esitetään liitteissä 2, 3 ja 4."*
-*"...Keskeistä on löytää väittämiä, jotka ilmaisevat jotain tutkittavasta ilmiöstä."*
 
-* Koodit - Koodien jakautuminen excel-lämpökartalla (visuaalinen kuvailu)
+Tässä osiossa kuvaillaan havaintoja sisällönanalyysissä tehdyistä taulukoista. ...   
 
-* Koodit haastatteluittain - Miten koodit jakautuvat haastatteluittain?
-    koodien jakautuminen excel-lämpökartalla (visuaalinen kuvailu)
+Kun havainnot jaotellaan erikseen haastatteluittain ja järjestellään kategorioiden mukaan havaintojen määrän järjestykseen, nähdään että kussakin haastattelussa koodien havaintojen jakauma on samankaltainen mutta havainnot kohdistuvat eri aihealueille eli koodeille. Kaikissa haastatteluissa kussakin kategoriassa on muutama keskeinen eniten havaintoja saanut koodi, useampia vähemmän havaintoja saaneita koodeja sekä useita vain yhden havainnon saanut koodi.
 
-* Koodit haastatteluittain - Miten koodit jakautuvat yhteensä?
-    koodien jakautuminen excel-lämpökartalla (visuaalinen kuvailu)
+*kuvaaja/liite: Koodit haastatteluittain-välilehdeltä, haastattelujen kuvaajat rinnakkain + kaikki yhteensä*
 
-* Koodien määrät kategorioissa - Kuinka monia erilaisia asiasisältöjä eli koodeja kukin kategoria ja alikategoria pitää sisällään? Mitkä ovat keskeisimpiä ja mitkä harvinaisia?
+*Tekniikka 1:137 2:110 3:99 4:60 5:89*
+*Maataloustuotanto 1:66 2:70 3:21 4:33 5:35*
+*Toimintaympäristö 1:65 2:24 3:34 4:37 5:31*
 
-* Koodit Havainnot >1 - Kuinka monet kunkin haastattelun koodeista esiintyvät koko haastattelumateriaalissa yli viidesti? Kuinka monet kunkin haastattelun koodeista esiintyvät vain siinä haastattelussa? Näistä päätellen: kuinka yksilöllisiä haastattelut olivat asiasisällöiltään? 
+Tekniikan kategorian koodien havaintoja on jokaisessa haastattelussa huomattavasti enemmän kuin Maataloustuotanto- ja Toimintaympäristö-kategorioissa, usein lähes yhtä paljon kuin kahdessa muussa yhteensä. B.B.:n haastattelussa (taulukoissa Haastattelu 2) Maataloustuotanto-kategorian koodien havaintoja oli muihin haastatteluihin verrattuna poikkeuksellisen paljon. Muissa haastatteluissa Maataloustuotanto- ja Toimintaympäristö-kategorioiden koodien havainnot jakautuvat tasaisemmin.    
 
-* Kategoriat per haastattelu - Miten kategoriat jakautuivat eri haastatteluissa?
+A.A.:n haastattelussa eniten havaintoja on asiasisällöillä jotka käsittelevät uusien teknologioiden omaksunnan mahdollisuuksia, digitalisaation aiheuttamaa toimintaympäristön muutosta, teollisuusautomaation teknologioita, täsmäviljelyä tuotantotapana ja pilvipalveluita. Useita havaintoja on myös asiasisällöillä avoimet teknologiastandardit, sensoridata ja mitattu digitaalinen tieto, tiedon tuottama lisäarvo, maataloustuotannon laitteiston ROI, sadon laatuerien tunnistaminen ja tuotantoketjun data. Kokonaisuudessaan haastattelun sisältö painottuu teknologioiden tuomiin mahdollisuuksiin ja niiden realisointiin maataloudessa. 
 
-* Sanamäärät - Mitkä olivat yleisimmmät asiasanat haastattelumateriaalissa ja mitä niistä voi päätellä?
+B.B.:n haastattelussa vastaavasti eniten havaintoja on asiasisällöillä, jotka käsittelevät päätöksenteon avustamista ja viljelysuositusten tuottamista tietojenkäsittelyn avulla, tuotantojärjestelmien integraatiota ja uusien teknologioiden omaksunnan mahdollisuuksia. Useita havaintoja on myös asiasisällöillä maataloustuotannon kannattavuus, viljelyprosessien optimointi, tiedonkäsittelyn alustapalvelut, Yaran N-sensor, teknologioiden omaksunta, sensoriteknologiat ja ihmisen rooli datan tulkitsijana. Kokonaisuudessaan haastattelun sisältö painottuu data-analytiikan ja sensoriteknologioiden sovellusten sekä niiden integraatioiden tuomiin mahdollisuuksiin maataloudessa.
 
-* Kategoriakohtaiset taulukot - Miten kunkin kategorian asiasisällöt jakautuivat kussakin haastattelussa?
+C.C.:n haastattelussa puolestaan eniten havaintoja on asiasisällöillä jotka käsittelevät ISOBUS-standardia, sensoriteknologioita ja teknologioiden omaksunnan laajuutta. Useita havaintoja on myös asiasisällöillä aidot IoT-järjestelmät ja laitteet, telemetriaratkaisut ja langattomat tietoliikennetekniikat. Kokonaisuudessaan haastattelun sisältö painottuu maatalouden tuotannon laitteisiin ja teknologioihin, tietoliikenneratkaisuihin ja teollisuusautomaation soveltamiseen maataloudessa.
 
-* R-lämpökartta ja dendogrammi - Millaisia yhteneväisyyksiä eri asiasisältöjen esiintymisprofiileilla on? Voiko niiden perusteella löytää asiasisältöjen keskinäisiä yhteneväisyyksiä?
+D.D.:n haastattelussa eniten havaintoja on asiasisällöillä jotka käsittelevät tiedonkäsittelyn alustapalveluita, viljelynsuunnittelujärjestelmiä, digitalisaation riskejä, tuotantojärjestelmien integraatioita ja laitteiden yhteensopivuutta. Useita havaintoja on myös asiasisällöillä datan integraatio, tietoliikennetekniikat, maatalouden toimintaympäristön hajanaisuus, tuotannon kannattavuus ja tuotantotapatieto. Kokonaisuudessaan haastattelun sisältö painottuu järjestelmien integroinnin sekä maatalouden toimintaympäristön haasteisiin.
+
+E.E.:n haastattelussa taas eniten havaintoja on asiasisällöillä jotka käsittelevät uusien teknologioiden omaksuntaa, maatalouden digitalisaatiota, toimintaympäristön muutosta, telemetriaratkaisuita, laitteiden integraatiota, viljelyprosessien optimointia ja automatisointia, päätöksenteon avustamista ja viljelijän työn helpottamista. Useita havaintoja on myös asiasisällöillä tiedon tuottama lisäarvo, data-analytiikka, maatilan tiedonhallintajärjestelmät ja teknologiaomaksunnan hyödyt. Kokonaisuudessaan haastattelun sisältö painottuu digitalisaation ja uusien teknologioiden mahdollistamaan muutokseen maataloudessa.
+
+Koko haastattelumateriaalin koodien havaintojen yhteenlasketut määrät jakautuvat samankaltaisesti yksittäisten haastattelujen havaintojen kanssa, kun ne järjestellään kategorioiden mukaan havaintojen määrän järjestykseen. Jokaisessa kategoriassa (Maataloustuotanto, Tekniikka ja Toimintaympäristö) on muutama keskeinen eniten havaintoja saanut koodi, jonka jälkeen havaintojen määrä laskee selkeästi ja päättyy "pitkään häntään" koodeja, jotka saivat vähän havaintoja.
+
+Koko haastattelumateriaalista yhteen kootuista havaintojen määristä nousevat esille uusien teknologioiden omaksunta ja sen hyödyt, tietojenkäsittelyn alustapalvelut, tiedon tuottama lisäarvo, järjestelmäintegraatiot, maatalouden toiminnan digitalisaatio, päätöksenteon avustaminen sekä viljelyprosessien optimointi ja automatisointi. Useita havaintoja on myös asiasisällöillä maataloustuotannon kannattavuus ja suomalaisen toimintaympäristön erityispiirteet, ISOBUS-standardi, telemetriaratkaisut, data-analytiikka ja datan integraatiot, pilvipalvelut, tietoliikenne- ja sensoritekniikat, laitteiden integraatio ja yhteensopivuus, tuotantotapatieto ja tuotantoketjun data.
+
+**Koodien määrät kategorioissa** - Kuinka monia erilaisia asiasisältöjä eli koodeja kukin kategoria ja alikategoria pitää sisällään? Mitkä ovat keskeisimpiä ja mitkä harvinaisia?
+
+**Koodit Havainnot >1** - Kuinka monet kunkin haastattelun koodeista esiintyvät koko haastattelumateriaalissa yli viidesti? Kuinka monet kunkin haastattelun koodeista esiintyvät vain siinä haastattelussa? Näistä päätellen: kuinka yksilöllisiä haastattelut olivat asiasisällöiltään? 
+
+**Kategoriat per haastattelu** - Miten kategoriat jakautuivat eri haastatteluissa?
+
+**Sanamäärät** - Mitkä olivat yleisimmmät asiasanat haastattelumateriaalissa ja mitä niistä voi päätellä?
+
+**Kategoriakohtaiset taulukot** - Miten kunkin kategorian asiasisällöt jakautuivat kussakin haastattelussa?
+
+**R-lämpökartta ja dendogrammi** - Millaisia yhteneväisyyksiä eri asiasisältöjen esiintymisprofiileilla on? Voiko niiden perusteella löytää asiasisältöjen keskinäisiä yhteneväisyyksiä?
 
 ##### Koodien havaintojen haastattelukohtaiset kokonaismäärät
 
@@ -943,35 +955,35 @@ Lukuja tulkitessa tulee ottaa huomioon, että jo yhden koodin havainnon ero aihe
 
 Koodit haastatteluittain -välilehti:
     Haastattelu 1
-        Eniten havaintoja, mutta kun mittakaavaa suhteutetaan muita haastatteluja vastaavaksi, niin kuvaaja muistuttaa silmämääräisesti muiden haastattelujen vastaavia. *Havainnot jakautuvat kaikissa haastatteluissa samalla tavalla, mutta eroa on kategorioissa/koodeissa!*
+        Eniten havaintoja, mutta kun mittakaavaa suhteutetaan muita haastatteluja vastaavaksi, niin kuvaaja muistuttaa silmämääräisesti muiden haastattelujen vastaavia.
         Maataloustuotanto 66
             Selkeästi enemmän havaintoja kuin kolmessa viimeisessä.Havainnot jakautuneet kohtuullisen usealle koodille.
             täsmäviljely, ROI, laatuerät, lannoitteet/syötteet ja tuotantotapatieto
         Tekniikka 137
-        Tuotantoympäristö
+        Toimintaympäristö 65
     Haastattelu 2
         Maataloustuotanto 70
             Keskittynein ja suurin määrä havaintoja, ei pitkää häntää.
             tiiviisti koodeissa päätöksenteon avustaminen, viljelysuositukset, järjestelmäintegraatio, kannatavuus ja viljelyprosessien automatisointi.
         Tekniikka 110
-        Tuotantoympäristö 
+        Toimintaympäristö 24
     Haastattelu 3
         Maataloustuotanto 21
             Maataloustuotannon havaintoja kaikista pienin määrä, keskittyneenä laitteiden hintojen halpenemiseen (sen tarpeeseen) ja tuotantotapatietoon, joihin liittyivät mm. koodit UA-laitteet ja viljelyprosessien automatisointi. Alikategorioista eniten havaintoja Laitteista.
         Tekniikka 99
-        Tuotantoympäristö 
+        Toimintaympäristö 34
     Haastattelu 4
         Maataloustuotanto 33
             Havaintojen määrien kuvaajasta ei nouse esille mitään erityistä.
             Eniten havaintoja koodeista Järjestelmäintegraatio, laitteiden integraatiot, kannattavuus ja tuotantotapatieto. Myös UA-laitteet ja viljelyprosessien automatisointi -havaintoja on 2 kumpaakin.
         Tekniikka 60
-        Tuotantoympäristö 
+        Toimintaympäristö 37
     Haastattelu 5
         Maataloustuotanto 35
             Havainnot keskittyneet muita jyrkemmin muutamaan koodiin. 
             Eniten havaintoja koodeista viljelyprosessien automatisointi ja päätöksenteon avustaminen, laitteiden integraatiot ja työn helpottaminen. Myös järjestelmäintegraatiot ja kannattavuus mainittu.
         Tekniikka 89
-        Tuotantoympäristö 
+        Toimintaympäristö 31
 
 Välilehdellä **Koodit Havainnot >1** ei oikeasti voi sanoa kuvaajasta Koodeista löytyy yhteen kootuista... muuta kuin noin 50 - 60 % koodeista on yhteisiä yhteen koottujen kanssa.
 Vastaavasti **Uniikit koodit haastatteluissa...** -kuvaaja ei tarkoita, että Haastattelu 4 olisi ollut geneerinen, vaan eniten haastattelussa toistuneet havainnot ovat toistuneet usein yhteen kootuissa koodeissa. 
