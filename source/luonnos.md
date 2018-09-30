@@ -1,82 +1,4 @@
 
-pandoc source/luonnos.md --smart --standalone --bibliography=bib/AIoT.bib --csl=style/sodertorns-hogskola-harvard.csl -M lang:fi --reference-docx=template/template.docx -o output/tPolvinenOppariY.docx
-
----
-
-Blah blah [see @talaveraReviewIoTApplications2017, 33-35; also @verdouwInternetThingsAgriculture2016a, ch. 1].
-
-Blah blah [see (ät)talaveraReviewIoTApplications2017, 33-35; also (ät)verdouwInternetThingsAgriculture2016a, ch. 1].
-
-Saadaan: Blah blah (see Talavera et al. 2017, s. 33–35; also Verdouw, Wolfert & Tekinerdogan 2016, ch. 1).
-
----
-
-Blah blah [@talaveraReviewIoTApplications2017, 33-35, 38-39 and *passim*].
-
-Blah blah [(ät)talaveraReviewIoTApplications2017, 33-35, 38-39 and *passim*].
-
-Saadaan: Blah blah (Talavera et al. 2017, s. 33–35, 38–39 and passim).
-
----
-
-Blah blah [@verdouwInternetThingsAgriculture2016a; @talaveraReviewIoTApplications2017].
-
-Blah blah [(ät)verdouwInternetThingsAgriculture2016a; (ät)talaveraReviewIoTApplications2017].
-
-Saadaan: Blah blah (Verdouw, Wolfert & Tekinerdogan 2016; Talavera et al. 2017).
-
----
-
-Talavera ja muut says blah [-@talaveraReviewIoTApplications2017].
-
-Talavera ja muut says blah [-(ät)talaveraReviewIoTApplications2017].
-
-Saadaan: Talavera ja muut says blah (2017).
-
----
-
-@talaveraReviewIoTApplications2017 [33] says blah.
-
-(ät)talaveraReviewIoTApplications2017 [33] says blah.
-
-Saadaan: Talavera et al. (2017, s. 33) says blah.
-
----
-
-Regex: kaarisulkeissa, ei saa sisältää @-merkkiä alussa \([^@][a-öA-Ö0-9]+\)
-
-Regex: kaarisulkeissa, @-merkki alussa \(@[a-öA-Ö0-9]+\)
-
-Regex: alku \(@[a-öA-Ö0-9]+;
-Regex: loppu ; @[a-öA-Ö0-9]+\)
-
-Regex: \(201[0-9]+\)
-
-(\()(@[a-öA-Ö0-9]+)(\))
-[$2]
-
-(\()(@[a-öA-Ö0-9]+)(, [0-9]+)(\))
-[$2$3]
-
-(\()(ks. )(@[a-öA-Ö0-9]+)(, [0-9]+)(\))
-[$2$3$4]
-
-(\()(ks. @[a-öA-Ö0-9]+, [0-9]+ - [0-9]+)(\))
-[$2$3]
-
-(\()(@[a-öA-Ö0-9]+, [0-9]+-[0-9]+)(\))
-[$2]
-
-(\()([0-9]+, )([0-9]+)(\))
-[$3]
-
-(\()([0-9]+, )([0-9]+-[0-9]+)(\))
-[$3]
-
-(\()(@[a-öA-Ö0-9]+)(; )(@[a-öA-Ö0-9]+)(\))
-[$2$3$4]
-
----
 
 # HUOM: 
 *"Meta (poistettava otsikko)" -otsikot, samoin kuin muutkin "...(poistettava otsikko)" -otsikot, ovat luonnoksessa mukana helpottamassa osioiden käsittelyä luonnostelu- ja kirjoitusvaiheissa. Nämä otsikot poistetaan ja niiden alla oleva teksti jää korkeamman tason otsikon alle.*
@@ -846,7 +768,7 @@ Aikaisemmin käytettyjen tiedostonsiirtoon perustuvien arkkitehtuurien puutteita
 
 Kokonaisuutena IoT-järjestelmien arkkitehtuurien tulee ottaa huomioon erilaiset arkkitehtuurimallit, tietoliikenneratkaisut, älykkäät laitteet, verkkopalvelut ja -sovellukset, liiketoimintamallit ja -prosessit, yhteistoiminnallisen tiedonkäsittelyn ratkaisut, tietoturva jne. Lisäksi arkkitehtuurin tulee huomioida suunniteltavan ratkaisun jatkettavuus, skaalautuvuus, modulaarisuus ja yhteistoiminnallisuus heterogeenisten laitteiden kanssa. Samoin on otettava huomioon, että laitteet voivat liikkua ja saattavat toimia vuorovaikutuksessa muuttuvan ympäristön kanssa. Tällöin myös arkkitehtuurin ja sen mukaan rakennetun järjestelmän tulee voida sopeutua muutoksiin. [@l.d.xuInternetThingsIndustries2014]
 
-Kansainvälinen televiestintäliitto (engl. International Telecommunication Union, ITU) on suosituksessaan ITU-T Y.2060 (2012) kuvaillut nelikerroksisen IoT-referenssiarkkitehtuurin. Suositus määrittelee IoT:n tietoyhteiskunnan globaalina infrastruktuurina, joka mahdollistaa edistyneet palvelut yhdistämällä esineet tieto- ja viestintäteknologioiden avulla. Kerrokset on jaoteltu sovelluskerrokseen, palvelu- ja sovellustuen kerrokseen, tietoliikenne- ja laitekerrokseen. [@internationaltelecommunicationunion2060OverviewInternet2012; @InternetThingsGlobal]
+Kansainvälinen televiestintäliitto (engl. International Telecommunication Union, ITU) on suosituksessaan ITU-T Y.2060 kuvaillut nelikerroksisen IoT-referenssiarkkitehtuurin. Suositus määrittelee IoT:n tietoyhteiskunnan globaalina infrastruktuurina, joka mahdollistaa edistyneet palvelut yhdistämällä esineet tieto- ja viestintäteknologioiden avulla. Kerrokset on jaoteltu sovelluskerrokseen, palvelu- ja sovellustuen kerrokseen, tietoliikenne- ja laitekerrokseen. [@internationaltelecommunicationunion2060OverviewInternet2012; @InternetThingsGlobal]
 
 Kirjallisuuskatsauksissa esitetyt arkkitehtuurit on usein jaoteltu palvelukeskeisen arkkitehtuurimallin mukaisesti kerroksittain, esimerkiksi @talaveraReviewIoTApplications2017 [2017] kirjallisuuskatsauksessa esitetyssä arkkitehtuurissa kerrokset ovat fyysinen-, tietoliikenne-, palvelu- ja sovelluskerros. Vastaavasti @verdouwInternetThingsAgriculture2016a [2016] jaottelevat IoT-arkkitehtuurin laite-, verkko- ja sovelluskerroksiin. @l.d.xuInternetThingsIndustries2014 [2014] puolestaan esittivät arkkitehtuurin, jossa jaottelu tehtiin havainnointi-, tietoverkko-, palvelu- ja liittymäkerrokseen. @tzounisInternetThingsAgriculture2017 [2017] esittivät IoT-arkkitehtuurin jakautuvan havaintokerrokseen, tietoliikenne- ja sovelluskerrokseen, samoin kuin @vermesanInternetThingsGlobal2011 [2011]. Sovelluskerros on @atzoriInternetThingsSurvey2010 [2010] mukaan IoT-arkkitehtuurin ylin kerros, joka on lähinnä käyttäjää ja joka käyttää väliohjelmistokerroksen palveluita. Viime vuosina julkaistut väliohjelmistokerroksen arkkitehtuurit on yleensä suunniteltu palvelukeskeinen arkkitehtuurin mallin mukaisesti. Vaikka tätä varten yleisesti hyväksyttyä arkkitehtuurimallia ei ole, esitetyt arkkitehtuurit käsittelevät keskenään samankaltaisia toimintoja kuten laitteiden toiminnallisuuksien ja tietoliikennetoimintojen abstraktointia. 
 
