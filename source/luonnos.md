@@ -205,34 +205,34 @@ Tutkimusmenetelmien valintaan on vaikuttanut voimakkaasti tutkimustehtävä ja t
 
 Kirjallisuuskatsauksen valintaa puoltavat tutkimuskysymysten asettamat vaatimukset kartoittaa ja vetään yhteen hajanaista teoriatietoa, mihin @baumeisterWritingNarrativeLiterature1997 [311] mukaan kirjallisuuskatsaus on sopiva. Samoin @baumeisterWritingNarrativeLiterature1997 [312] esittämistä perusteluista kirjallisuuskatsauksen valinnalle sopii tässä tapauksessa kokonaiskuvan rakentaminen tutkittavasta asiakokonaisuudesta. Saman suuntaisesti @salminenMikaKirjallisuuskatsausJohdatus2011 [4] antamista perusteluista kirjallisuuskatsauksen mahdollisuus koota yhteen tutkimuksien tuloksia uusien tutkimustulosten pohjaksi puoltaa kirjallisuuskatsauksen valintaa.
 
-Teemahaastattelun valintaa puoltavat tutkimuskysymysten vaatimusten lisäksi useat yleisesti käytössä olevat tutkimushaastattelun valintaperusteet. Tässä tapauksessa keskeisiä perusteita ovat Hirsjärven ja Hurmeen [35] esittämien perusteiden joukosta: 1) haastattelulla voidaan hankkia tietoa vähän kartoitetusta alueesta, jolloin tutkijan on vaikea ennakoida vastausten suuntia; 2) haastatteluissa voidaan saada monitahoisesti ja moniin suuntiin viittaavia vastauksia; 3) haastatteluissa saaduille vastauksille voidaan pyytää selvennöksiä; 4) haastateltavaa voidaan pyytää syventämään antamaansa vastausta, esimerkiksi perustelemaan mielipidettään [@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 35]. Samoin Tuomi ja Sarajärvi [79] kuvailevat haastattelun eduiksi joustavuutta kysymysten käsittelyssä, väärinymmärrysten selvittelyssä, ilmausten selventämisessä ja keskustelussa tiedonantajan kanssa [@tuomiLaadullinenTutkimusJa2018, 79].
+Teemahaastattelun valintaa puoltavat tutkimuskysymysten vaatimusten lisäksi useat yleisesti käytössä olevat tutkimushaastattelun valintaperusteet. Tässä tapauksessa keskeisiä perusteita ovat @hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015 [35] esittämien perusteiden joukosta: 1) haastattelulla voidaan hankkia tietoa vähän kartoitetusta alueesta, jolloin tutkijan on vaikea ennakoida vastausten suuntia; 2) haastatteluissa voidaan saada monitahoisesti ja moniin suuntiin viittaavia vastauksia; 3) haastatteluissa saaduille vastauksille voidaan pyytää selvennöksiä; 4) haastateltavaa voidaan pyytää syventämään antamaansa vastausta, esimerkiksi perustelemaan mielipidettään. Samoin @tuomiLaadullinenTutkimusJa2018 [79] kuvailevat haastattelun eduiksi joustavuutta kysymysten käsittelyssä, väärinymmärrysten selvittelyssä, ilmausten selventämisessä ja keskustelussa tiedonantajan kanssa.
 
 Lisäksi teemahaastattelun valintaa puoltaa tässä tapauksessa se, että sen avulla haastateltavien oma erikoistumisalue ja näkemykset pääsevät esille mikä on tärkeää tutkimuskysymyksiin vastaamisessa. Teemahaastattelu valittiin lomakehaastattelun sijaan ensisijaisesti joustavuutensa perusteella. Tämä mahdollisti asiantuntijahaastattelujen tekemisen ilman tarkkaan määriteltyjä haastattelukysymyksiä, joiden laatimiseen olisi tarvittu todennäköisesti enemmän asiantuntemusta kasvintuotannon alalta kuin tekijällä on. Toisaalta syvähaastattelu olisi antanut vielä enemmän joustoa, mutta haastattelutilanteet olisivat voineet tekijän kokemattomuuden takia olla vaikeasti hallittavissa. Samoin haastatteluaineiston analysointi olisi voinut olla vaikeampaa ilman etukäteen harkittuja teemoja.
 
-Hirsjärven ja Hurmeen [35-36] esittämät haastattelun haitat, kuten 1) haastattelun tekemisen vaatima taito, 2) sen vaatima aika ja kustannukset, 3) haastattelussa tehtävien virheiden mahdollisuus sekä 4) haastatteluista saatu epärelevantin materiaalin määrä katsottiin tässä tapauksessa olevan haastattelumenetelmän tarjoamiin etuihin verrattuina pieniä, jos ne otetaan huomioon ja niiden vaikutukset pyritään minimoimaan. [@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 35-36] Hurme ja Sarajärvi viittaavat kirjassaan Laadullinen tutkimus ja sisällönanalyysi [79] samoihin ongelmiin, kertoen niiden olevan yleisen näkemyksen mukaan pääasiassa menetelmällisiä ja ratkaistavissa haastattelijoiden koulutuksella, rahoituksella jne. [@tuomiLaadullinenTutkimusJa2018, 79]. 
+@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015 [35-36] esittämät haastattelun haitat, kuten 1) haastattelun tekemisen vaatima taito, 2) sen vaatima aika ja kustannukset, 3) haastattelussa tehtävien virheiden mahdollisuus sekä 4) haastatteluista saatu epärelevantin materiaalin määrä katsottiin tässä tapauksessa olevan haastattelumenetelmän tarjoamiin etuihin verrattuina pieniä, jos ne otetaan huomioon ja niiden vaikutukset pyritään minimoimaan. @tuomiLaadullinenTutkimusJa2018 [79] viittaavat samoihin ongelmiin, kertoen niiden olevan yleisen näkemyksen mukaan pääasiassa menetelmällisiä ja ratkaistavissa haastattelijoiden koulutuksella, rahoituksella jne. 
 
 
 ## Kirjallisuuskatsaus
 
-Kirjallisuuskatsauksella voidaan Baumeisterin ja Learyn [311] mukaan rakentaa siltaa kiireisen lukijan ja valtavan, hajallaan olevan teoriatiedon välille. Katsauksella voidaan myös esittää tutkittavasta ilmiöstä laajempia teoreettisia johtopäätöksiä mitä yksittäisen empiirisen tutkimuksen puitteissa on mahdollista. [@baumeisterWritingNarrativeLiterature1997, 311] Kirjassaan Mikä kirjallisuuskatsaus? Salminen [39] kuvailee kirjallisuuskatsausta tutkimusmenetelmänä ja -tekniikkana, jonka avulla voidaan koota yhteen tutkimuksien tuloksia ja näin rakentaa perustaa uusille tutkimustuloksille. Kirjallisuuskatsauksella tehdään siis ’tutkimusta tutkimuksesta’. Hänen mukaansa tutkija voi kirjallisuuskatsauksen avulla  laaja-alaisesti ja systemaattisesti kerätä erinomaista materiaalia oman alansa tutkimuksesta. [@salminenMikaKirjallisuuskatsausJohdatus2011, 4, 39] Saman suuntaisesti Baumeisterin ja Learyn [312] mukaan narratiivinen kirjallisuuskatsaus on teoriakehityksen tekniikka, jota voidaan käyttää myös hypoteesien rakentamiseen. Heidän mukaansa narratiivista kirjallisuuskatsausta voidaan käyttää useiden eri aihepiirien tutkimusten linkittämiseen pyrittäessä joko tutkimusten uudelleentulkintaan tai yhteenliittämiseen. [@baumeisterWritingNarrativeLiterature1997, 312] 
+Kirjallisuuskatsauksella voidaan @baumeisterWritingNarrativeLiterature1997 [311] mukaan rakentaa siltaa kiireisen lukijan ja valtavan, hajallaan olevan teoriatiedon välille. Katsauksella voidaan myös esittää tutkittavasta ilmiöstä laajempia teoreettisia johtopäätöksiä mitä yksittäisen empiirisen tutkimuksen puitteissa on mahdollista. Kirjassaan Mikä kirjallisuuskatsaus? @salminenMikaKirjallisuuskatsausJohdatus2011 [4, 39] kuvailee kirjallisuuskatsausta tutkimusmenetelmänä ja -tekniikkana, jonka avulla voidaan koota yhteen tutkimuksien tuloksia ja näin rakentaa perustaa uusille tutkimustuloksille. Kirjallisuuskatsauksella tehdään siis "tutkimusta tutkimuksesta". Hänen mukaansa tutkija voi kirjallisuuskatsauksen avulla  laaja-alaisesti ja systemaattisesti kerätä erinomaista materiaalia oman alansa tutkimuksesta. Saman suuntaisesti @baumeisterWritingNarrativeLiterature1997 [312] mukaan narratiivinen kirjallisuuskatsaus on teoriakehityksen tekniikka, jota voidaan käyttää myös hypoteesien rakentamiseen. Heidän mukaansa narratiivista kirjallisuuskatsausta voidaan käyttää useiden eri aihepiirien tutkimusten linkittämiseen pyrittäessä joko tutkimusten uudelleentulkintaan tai yhteenliittämiseen. 
 
-Kirjallisuuskatsauksella on Hirsjärven et al. [121] mukaan kaksi keskeistä tarkoitusta: Kirjallisuuskatsauksen tulee tuoda esiin, miten ja mistä näkökulmista tutkittavaa ilmiotä on tutkittu sekä miten tekeillä oleva tutkimus liittyy aikaisemmin tehtyihin tutkimuksiin. [@hirsjarviTutkiJaKirjoita2009, 121] Kirjallisuuskatsauksen tekemiselle Salminen [3] esittää Baumeisterin ja Learyn [312] mukaisesti viisi eriteltyä perustelua: 1) kirjallisuuskatsauksella voidaan tavoitella kokonaan uuden teorian rakentamista tai olemassa olevan kehittämistä, 2) kirjallisuuskatsauksen avulla voidaan arvioida teoriaa tai 3) rakentaa kokonaiskuvaa tutkittavasta asiakokonaisuudesta, 4) pyrkiä tunnistamaan ongelmia ja 5) seurata tietyn teorian historiallista kehitystä. [@salminenMikaKirjallisuuskatsausJohdatus2011, 3; @baumeisterWritingNarrativeLiterature1997, 312]
+Kirjallisuuskatsauksella on @hirsjarviTutkiJaKirjoita2009 [121] mukaan kaksi keskeistä tarkoitusta: Kirjallisuuskatsauksen tulee tuoda esiin, miten ja mistä näkökulmista tutkittavaa ilmiotä on tutkittu sekä miten tekeillä oleva tutkimus liittyy aikaisemmin tehtyihin tutkimuksiin. Kirjallisuuskatsauksen tekemiselle @salminenMikaKirjallisuuskatsausJohdatus2011 [3] esittää @baumeisterWritingNarrativeLiterature1997 [312] mukaisesti viisi eriteltyä perustelua: 1) kirjallisuuskatsauksella voidaan tavoitella kokonaan uuden teorian rakentamista tai olemassa olevan kehittämistä, 2) kirjallisuuskatsauksen avulla voidaan arvioida teoriaa tai 3) rakentaa kokonaiskuvaa tutkittavasta asiakokonaisuudesta, 4) pyrkiä tunnistamaan ongelmia ja 5) seurata tietyn teorian historiallista kehitystä. 
 
-Kirjallisuuskatsaus pitää tutkimusmenetelmänä sisällään useita eri tyyppejä. Sen kolmena perustyyppeinä pidetään Salmisen [6] mukaan kuvailevaa ja systemaattista kirjallisuuskatsausta sekä meta-analyysiä. Kirjallisuuskatsauksen tyypin valintaan vaikuttavat tutkittava ilmiö, tutkimuskysymykset ja käytettävät aineistot. [@salminenMikaKirjallisuuskatsausJohdatus2011, 6] Onwuegbuzien ja Frelsin [39] mukaan kirjallisuuskatsauksessa käsiteltäviä aineistoja voidaan laajentaa ja katsausta tukea multimodaalisilla eli monimuotoisilla aineistoilla kuten medialla, havainnoilla, blogiaineistolla, asiantuntijakeskusteluilla ja -haastatteluilla sekä toissijaisista tiedoista koostuvalla aineistolla [@onwuegbuzieStepsComprehensiveLiterature2016, 39].
+Kirjallisuuskatsaus pitää tutkimusmenetelmänä sisällään useita eri tyyppejä. Sen kolmena perustyyppeinä pidetään @salminenMikaKirjallisuuskatsausJohdatus2011 [6] mukaan kuvailevaa ja systemaattista kirjallisuuskatsausta sekä meta-analyysiä. Kirjallisuuskatsauksen tyypin valintaan vaikuttavat tutkittava ilmiö, tutkimuskysymykset ja käytettävät aineistot. @onwuegbuzieStepsComprehensiveLiterature2016 [39] mukaan kirjallisuuskatsauksessa käsiteltäviä aineistoja voidaan laajentaa ja katsausta tukea multimodaalisilla eli monimuotoisilla aineistoilla kuten medialla, havainnoilla, blogiaineistolla, asiantuntijakeskusteluilla ja -haastatteluilla sekä toissijaisista tiedoista koostuvalla aineistolla. 
 
 ## Kuvaileva kirjallisuuskatsaus
 
 Tässä opinnäytetyössä käytetään kirjallisuuskatsauksen menetelmänä kuvailevaa kirjallisuuskatsausta. Kuvailevan kirjallisuuskatsauksen orientaatioksi on valittu narratiivinen kirjallisuuskatsaus. *Aineistojen haun kuvailussa käytetään myös systemaattisen kirjallisuuskatsauksen menetelmiä aineistohaun kuvailussa/dokumentoinnissa.*
 
-Kuvaileva kirjallisuuskatsaus on Salmisen [6] mukaan yleisimmin käytettyjä kirjallisuuskatsauksen perustyyppejä. Hän kuvailee sitä yleiskatsaukseksi, jolla ei ole tiukkoja ja tarkkoja sääntöjä, eivätkä tutkimuskysymykset ole yhtä tiukasti rajattuja kuin systemaattisessa katsauksessa tai meta-analyysissä. Samoin katsauksessa käytetyt aineistot voivat olla laajoja eivätkä metodiset säännöt rajaa niiden valintaa. Kuvaileva katsaus toimii itsenäisenä menetelmänä, joka voi Salmisen mukaan tarjota uusia tutkittavia ilmiöitä systemaattista kirjallisuuskatsausta varten. [@salminenMikaKirjallisuuskatsausJohdatus2011, 6]
+Kuvaileva kirjallisuuskatsaus on @salminenMikaKirjallisuuskatsausJohdatus2011 [6] mukaan yleisimmin käytettyjä kirjallisuuskatsauksen perustyyppejä. Hän kuvailee sitä yleiskatsaukseksi, jolla ei ole tiukkoja ja tarkkoja sääntöjä, eivätkä tutkimuskysymykset ole yhtä tiukasti rajattuja kuin systemaattisessa katsauksessa tai meta-analyysissä. Samoin katsauksessa käytetyt aineistot voivat olla laajoja eivätkä metodiset säännöt rajaa niiden valintaa. Kuvaileva katsaus toimii itsenäisenä menetelmänä, joka voi Salmisen mukaan tarjota uusia tutkittavia ilmiöitä systemaattista kirjallisuuskatsausta varten. 
 
 *Menetelmän/prosessin vaiheet/kuvaus tähän.*
 
 ### Narratiivinen kuvaileva kirjallisuuskatsaus
 
-Salminen [7] kuvailee narratiivista kirjallisuuskatsausta metodisesti kevyimmäksi kirjallisuuskatsauksen muodoksi. Katsauksen prosessin tarkoituksena on tiivistää katsaukseen valittuja tutkimuksia. Sen avulla voidaan tuottaa laaja-alainen kuvaus käsiteltävästä aiheesta tai kuvailla aiheen historiaa ja kehityskulkua. Narratiivinen katsaus voi myös auttaa ajantasaistamaan tutkimustietoa. Narratiivisen katsauksen analyysi on muodoltaan kuvaileva synteesi, jolla on ytimekäs ja johdonmukainen yhteenveto. Näin narratiivisella katsauksella voidaan järjestää epäyhteinäistä tietoa jatkuvaksi tapahtumaksi, pyrkien samalla helppolukuiseen lopputulokseen. [@salminenMikaKirjallisuuskatsausJohdatus2011, 7] Onwuegbuzien ja Frelsin [23] mukaan narratiivinen kirjallisuuskatsaus vetää yhteen ja parhaimmillaan kritisoi tutkimuskohteena olevaa aihetta käsittelevää kirjallisuutta, mutta ei tarjoa laadullisten tai määrällisten tutkimustulosten integraatiota [@onwuegbuzieStepsComprehensiveLiterature2016, 23]. Saman suuntaisesti Salmisen [7] mukaan menetelmä ei tarjoa varsinaista analyyttistä tulosta [@salminenMikaKirjallisuuskatsausJohdatus2011, 7].
+@salminenMikaKirjallisuuskatsausJohdatus2011 [7] kuvailee narratiivista kirjallisuuskatsausta metodisesti kevyimmäksi kirjallisuuskatsauksen muodoksi. Katsauksen prosessin tarkoituksena on tiivistää katsaukseen valittuja tutkimuksia. Sen avulla voidaan tuottaa laaja-alainen kuvaus käsiteltävästä aiheesta tai kuvailla aiheen historiaa ja kehityskulkua. Narratiivinen katsaus voi myös auttaa ajantasaistamaan tutkimustietoa. Narratiivisen katsauksen analyysi on muodoltaan kuvaileva synteesi, jolla on ytimekäs ja johdonmukainen yhteenveto. Näin narratiivisella katsauksella voidaan järjestää epäyhteinäistä tietoa jatkuvaksi tapahtumaksi, pyrkien samalla helppolukuiseen lopputulokseen. @onwuegbuzieStepsComprehensiveLiterature2016 [23] mukaan narratiivinen kirjallisuuskatsaus vetää yhteen ja parhaimmillaan kritisoi tutkimuskohteena olevaa aihetta käsittelevää kirjallisuutta, mutta ei tarjoa laadullisten tai määrällisten tutkimustulosten integraatiota. Saman suuntaisesti @salminenMikaKirjallisuuskatsausJohdatus2011 [7] mukaan menetelmä ei tarjoa varsinaista analyyttistä tulosta.
 
-Narratiivisen kirjallisuuskatsauksen neljä yleisintä tyyppiä ovat: teoreettinen, historiallinen, metodologinen ja yleinen. Näista yleinen tyyppi on perinteinen, käsiteltävästä aiheesta uusinta kirjallisuutta käsittelevä ja keskeiset seikat esittelevä kirjoitus. [@onwuegbuzieStepsComprehensiveLiterature2016, 24] Tämän opinnäytetyön kirjallisuuskatsaus toteutetaan yleisen tyypin mukaisena narratiivisena katsauksena. Narratiivisella kirjallisuuskatsauksella on Salmisen [7] mukaan mahdollista päätyä luonteeltaan kirjallisuuskatsausten mukaiseen synteesiin, vaikka metodin avulla hankittu tutkimusaineisto ei olekaan valittu erityisen systemaattisella tavalla. Lisäksi narratiivisella katsauksella voidaan tuottaa kuvailevana tutkimustekniikkana ajantasaista tietoa, mitä muun tieteellisen kirjallisuuden avulla ei aina pystytä tuottamaan. [@salminenMikaKirjallisuuskatsausJohdatus2011, 7]
+Narratiivisen kirjallisuuskatsauksen neljä yleisintä tyyppiä ovat: teoreettinen, historiallinen, metodologinen ja yleinen. Näista yleinen tyyppi on perinteinen, käsiteltävästä aiheesta uusinta kirjallisuutta käsittelevä ja keskeiset seikat esittelevä kirjoitus. [@onwuegbuzieStepsComprehensiveLiterature2016, 24] Tämän opinnäytetyön kirjallisuuskatsaus toteutetaan yleisen tyypin mukaisena narratiivisena katsauksena. Narratiivisella kirjallisuuskatsauksella on @salminenMikaKirjallisuuskatsausJohdatus2011 [7] mukaan mahdollista päätyä luonteeltaan kirjallisuuskatsausten mukaiseen synteesiin, vaikka metodin avulla hankittu tutkimusaineisto ei olekaan valittu erityisen systemaattisella tavalla. Lisäksi narratiivisella katsauksella voidaan tuottaa kuvailevana tutkimustekniikkana ajantasaista tietoa, mitä muun tieteellisen kirjallisuuden avulla ei aina pystytä tuottamaan. 
 
 Siinä missä narratiiviset kirjallisuuskatsaukset voivat kuvailla laaja-alaisesti tutkimuskohteeseen liittyviä asiakokonaisuuksia, ne eivät yleensä tarjoa lukijoilleen selvitystä katsauksen laatijan tekemistä päätöksistä. Tämän lisäksi narratiiviset kirjallisuuskatsaukset eivät tarjoa tietoja käsitellyn kirjallisuuden hakuprosessista, kuinka monta tutkimusta valittiin käsiteltäviksi, millaisia valintakriteerejä käytettiin ja kuinka luotettavia tai päteviä käsiteltyjen tutkimusten tulokset ovat. [@onwuegbuzieStepsComprehensiveLiterature2016, 24]
 
@@ -243,7 +243,7 @@ Siinä missä narratiiviset kirjallisuuskatsaukset voivat kuvailla laaja-alaises
 
 Teemahaastattelussa menetelmän keskeinen piirre on haastattelun eteneminen yksityiskohtaisten kysymysten sijaan tiettyjen keskeisten aihepiirien eli teemojen varassa. Tällöin haastattelun keskeiset aihepiirit ovat kaikille haastateltaville samat, mutta haastattelukysymysten sanamuoto ja järjestys voivat vaihdella. Tällä menetelmällä kerätty aineiston on yleensä runsas vaikka haastateltavien määrä olisi ollut pienehkö. [@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 47-48, 135].
 
-Teemahaastattelun toteutukset voivat Tuomin ja Sarajärven [81] mukaan vaihdella tutkimusten välillä huomattavasti. Käsiteltävät teemat perustuvat tutkimuksen viitekehykseen, mutta haastattelujen yhdenmukaisuuden vaateen aste vaihtelee tutkimuksesta toiseen. Tutkija voi valita pitääkö kaikille haastateltaville esittää kaikki suunnitellut kysymykset, voiko kysymysten järjestys vaihdella, tuleeko kysymysten sanamuotojen olla jokaisessa haastattelussa samat jne. Teemahaastatteluiden toteutukset voivat vaihdella strukturoidusti etenevästä lähes syvähaastattelun tyyppiseen haastatteluun. Samoin teemojen sisältämien kysymysten pitäytyminen tutkimuksen viitekehyksessä esitettyyn vaihtelee tiukasti etukäteen tiedetyissä kysymyksissä pitäytymisestä aina intuitiiviseen kokemusperäisten havaintojen sallimiseen. [@tuomiLaadullinenTutkimusJa2018, 81]
+Teemahaastattelun toteutukset voivat @tuomiLaadullinenTutkimusJa2018 [81] mukaan vaihdella tutkimusten välillä huomattavasti. Käsiteltävät teemat perustuvat tutkimuksen viitekehykseen, mutta haastattelujen yhdenmukaisuuden vaateen aste vaihtelee tutkimuksesta toiseen. Tutkija voi valita pitääkö kaikille haastateltaville esittää kaikki suunnitellut kysymykset, voiko kysymysten järjestys vaihdella, tuleeko kysymysten sanamuotojen olla jokaisessa haastattelussa samat jne. Teemahaastatteluiden toteutukset voivat vaihdella strukturoidusti etenevästä lähes syvähaastattelun tyyppiseen haastatteluun. Samoin teemojen sisältämien kysymysten pitäytyminen tutkimuksen viitekehyksessä esitettyyn vaihtelee tiukasti etukäteen tiedetyissä kysymyksissä pitäytymisestä aina intuitiiviseen kokemusperäisten havaintojen sallimiseen. 
 
 
 ## Sisällönanalyysi
@@ -254,9 +254,9 @@ Tässä opinnäytetyössä sisällönanalyysiä ja sisällönerittelyä käytet�
 
 Sisällönanalyysi, samoin kuin temaatinen analyysi, kuuluu laadullisen tutkimuksen ryhmään jonka analyysimuotoja eivät lähtökohtaisesti ohjaa jokin teoria tai epistemologia, mutta joihin voidaan soveltaa monenlaisia teoreettisia tai epistemologisia lähtökohtia suhteellisen vapaasti. Toiseen laadullisen tutkimuksen ryhmään kuuluvat analyysimuodot joita vastaavasti ohjaa tietty teoria tai epistemologinen lähtökohta, kuten aineistolähtöinen teoria (engl. grounded theory) ja fenomenologinen analyysi. [@tuomiLaadullinenTutkimusJa2018, 103]
 
-Tuomi ja Sarajärvi [104-107] kuvaavat sisällönanalyysin toteuttamista Timo Laineen esittämän laadullisen tutkimuksen analyysin rungon mukaisesti: ensin tehdään päätös siitä mitä tutkitaan, sitten kerätään päätöksen mukaiset asiat aineistosta, luokitellaan saatu aineisto ja lopuksi kirjoitetaan yhteenveto. Keräämisestä käytetään metodikirjallisuudessa nimitystä aineiston litterointi tai koodaaminen. Pelkkää aineiston luokittelua ei ole mielekästä esittää ilman raportoitua yhteenvetoa. Luokittelua pidetään sisällön teemoin toteutettuna kvantitatiivisena analyysinä ja yksinkertaisimpana aineiston järjestämisen muotona. Luokiteltu aineisto voidaan esittää taulukkona ja aineiston luokittelusta voidaan alkeellisimmillaan tarkistaa, montako kertaa jokainen luokka esiintyy aineistossa. Teemoittelu on periaatteessa luokituksen kaltaista, mutta painottuen kustakin teemasta sanotun sitältöön. Sisällönanalyysissä on Tuomin mukaan kaikkiaan kyse laadullisen aineiston pilkkomisesta ja ryhmittelystä erilaisten aihepiirien mukaan, mikä mahdollistaa tiettyjen teemojen esiintymisen vertailun aineistossa. [@tuomiLaadullinenTutkimusJa2018, 104-107]
+@tuomiLaadullinenTutkimusJa2018 [104-107] kuvaavat sisällönanalyysin toteuttamista Timo Laineen esittämän laadullisen tutkimuksen analyysin rungon mukaisesti: ensin tehdään päätös siitä mitä tutkitaan, sitten kerätään päätöksen mukaiset asiat aineistosta, luokitellaan saatu aineisto ja lopuksi kirjoitetaan yhteenveto. Keräämisestä käytetään metodikirjallisuudessa nimitystä aineiston litterointi tai koodaaminen. Pelkkää aineiston luokittelua ei ole mielekästä esittää ilman raportoitua yhteenvetoa. Luokittelua pidetään sisällön teemoin toteutettuna kvantitatiivisena analyysinä ja yksinkertaisimpana aineiston järjestämisen muotona. Luokiteltu aineisto voidaan esittää taulukkona ja aineiston luokittelusta voidaan alkeellisimmillaan tarkistaa, montako kertaa jokainen luokka esiintyy aineistossa. Teemoittelu on periaatteessa luokituksen kaltaista, mutta painottuen kustakin teemasta sanotun sitältöön. Sisällönanalyysissä on Tuomin mukaan kaikkiaan kyse laadullisen aineiston pilkkomisesta ja ryhmittelystä erilaisten aihepiirien mukaan, mikä mahdollistaa tiettyjen teemojen esiintymisen vertailun aineistossa. 
 
-Sisällönanalyysissä voidaan käyttää Eskolan [212] kirjassa Ikkunoita tutkimusmetodeihin 2 esittämää analyysimuotojen jaottelua eli  aineistolähtöistä, teoriaohjaavaa ja teorialähtöistä analyysiä. Tämä analyysimuotojen jaottelu mahdollistaa analyysin tekoa ohjaavien tekijöiden huomioimisen paremmin kuin jaottelu induktiiviseen ja deduktiiviseen analyysiin. Tässä osiossa ei käsitellä teorialähtöistä analyysiä, koska se ei ole relevantti tälle opinnäytetyölle. Aineistolähtöisessä analyysissä teoreettinen kokonaisuus pyritään luomaan valitsemalla tutkimusaineistosta analyysiyksiköt tutkimuksen tarkoituksen ja tehtävänasettelun mukaisesti. Tuomin ja Sarajärven [107-109] mukaan on keskeistä, että analyysiyksiköitä ei ole asetettu tai harkittu etukäteen. Etukäteen asettelu ei ole aineistolähtöisyydestä johtuen mahdollista, samoin kuin ei voida etukäteen määritellä millaisia luokkia aineistosta voidaan muodostaa. Se selviää vasta analyysin edetessä. Periaatteessa aineistolähtöisessä analyysissä tutkimuksen metodologiset sitoumukset ohjaavat analyysiä. Analyysin oletetaan olevan aineistolähtöistä, jolloin toteutuksella ja lopputuloksella ei tulisi olla yhteyttä aikaisempiin tietoihin kuten havaintoihin ja teorioihin. Tämä yhteys on kuitenkin yleisesti katsottu olevan olemassa ja sen takia aineistolähtöinen tutkimus on erittäin vaikea toteuttaa. Tuomin ja Sarajärven [127] mukaan ei ole olemassa objektiivisia, "puhtaita" havaintoja sinällään, vaan tuloksiin vaikuttavat aina muun muassa tutkijan asettamat tutkimusasetelmat, menetelmät ja käsitteet. Tämä ongelma on erityisen vaikea aineistolähtöisessä tutkimuksessa, jossa tutkijan tulisi pystyä kontrolloimaan omien ennakkoluulojensa vaikutus ja varmistaa, että analyysi tapahtuu tiedonantajien ehdoilla. [@tuomiLaadullinenTutkimusJa2018, 107-109, 127; @valliIkkunoitaTutkimusmetodeihinNakokulmia2018, 212]
+Sisällönanalyysissä voidaan käyttää @valliIkkunoitaTutkimusmetodeihinNakokulmia2018 [212] Eskolan esittämää analyysimuotojen jaottelua eli  aineistolähtöistä, teoriaohjaavaa ja teorialähtöistä analyysiä. Tämä analyysimuotojen jaottelu mahdollistaa analyysin tekoa ohjaavien tekijöiden huomioimisen paremmin kuin jaottelu induktiiviseen ja deduktiiviseen analyysiin. Tässä osiossa ei käsitellä teorialähtöistä analyysiä, koska se ei ole relevantti tälle opinnäytetyölle. Aineistolähtöisessä analyysissä teoreettinen kokonaisuus pyritään luomaan valitsemalla tutkimusaineistosta analyysiyksiköt tutkimuksen tarkoituksen ja tehtävänasettelun mukaisesti. @tuomiLaadullinenTutkimusJa2018 [107-109] mukaan on keskeistä, että analyysiyksiköitä ei ole asetettu tai harkittu etukäteen. Etukäteen asettelu ei ole aineistolähtöisyydestä johtuen mahdollista, samoin kuin ei voida etukäteen määritellä millaisia luokkia aineistosta voidaan muodostaa. Se selviää vasta analyysin edetessä. Periaatteessa aineistolähtöisessä analyysissä tutkimuksen metodologiset sitoumukset ohjaavat analyysiä. Analyysin oletetaan olevan aineistolähtöistä, jolloin toteutuksella ja lopputuloksella ei tulisi olla yhteyttä aikaisempiin tietoihin kuten havaintoihin ja teorioihin. Tämä yhteys on kuitenkin yleisesti katsottu olevan olemassa ja sen takia aineistolähtöinen tutkimus on erittäin vaikea toteuttaa. @tuomiLaadullinenTutkimusJa2018 [127] mukaan ei ole olemassa objektiivisia, "puhtaita" havaintoja sinällään, vaan tuloksiin vaikuttavat aina muun muassa tutkijan asettamat tutkimusasetelmat, menetelmät ja käsitteet. Tämä ongelma on erityisen vaikea aineistolähtöisessä tutkimuksessa, jossa tutkijan tulisi pystyä kontrolloimaan omien ennakkoluulojensa vaikutus ja varmistaa, että analyysi tapahtuu tiedonantajien ehdoilla.
 
 Teoriaohjaavassa analyysissä puolestaan teoriaa voidaan käyttää analyysin apuna, mutta analyysiä ei tehdä suoraan teorian pohjalta. Analyysiyksiköt valitaan aineistosta käyttäen apuna aikaisempaa tietoa, joka voi ohjata tai auttaa analyysin kulkua. Analyysissä on ylipäätään tunnistettavissa aikaisemman tiedon vaikutus, joka on uusia ajatusuria avaava teorioita testaavan sijaan. Teoriaohjaava analyysi etenee alussa aineistolähtöisesti ja siirtyy loppuvaiheessa käyttämään aineistosta havaittua teoriaa analyysin ohjaamiseen. Analyysissä päättelyn logiikka on usein abduktiivinen ja ajatteluprosessissaan tutkija vaihtelee aineistolähtöisyyttä ja valmiita malleja, joita hän pyrkii yhdistelemään eri tavoilla. [@tuomiLaadullinenTutkimusJa2018, 109-110]
 
@@ -284,6 +284,7 @@ Eri tietokantoihin tehdyissä hauissa käytettiin kunkin kannan hakutoimintoihin
 ##### Kirjallisuuskatsauksen aineistojen haku
 
 Alustavia aineistohakuja tehtiin hakukoneista Google-haulla (https://google.com) ja Google Scholar -haulla (https://scholar.google.fi) sekä ResearchGate:n (https://www.researchgate.net) haku- ja suositustoimintojen avulla. Haaga-Helian kirjaston tarjoamista tietokannoista alustavia hakuja tehtiin seuraaviin: 
+
 * Passport Global Market (http://go.euromonitor.com/passport), 
 * Doria (http://www.doria.fi), 
 * Elsevier ScienceDirect Freedom Collection (https://www.elsevier.com/solutions/sciencedirect), 
@@ -292,6 +293,7 @@ Alustavia aineistohakuja tehtiin hakukoneista Google-haulla (https://google.com)
 * IEEE Xplore Electronic Library (https://ieeexplore.ieee.org/Xplore/home.jsp).
 
 Varsinaiseen hakuun valittiin Haaga-Helian kirjaston tarjoamista tietokannoista ne, joista voitiin olettaa löytyvän IT-alan julkaisuja, koska tutkittava ilmiötä lähestytään tietotekniikan näkökulmasta ja maatalouden alakohtaisia tietokantoja ei ollut käytettävissä:
+
 * Aaltodoc (https://aaltodoc.aalto.fi)
 * EBSCO Academic Search Elite (https://www.ebsco.com/products/research-databases/academic-search-elite)
 * ACM Digital Library
@@ -312,74 +314,30 @@ Hakulauseita muokattiin kunkin tietokannan hakutoimintojen mahdollisuuksien puit
 
 ###### Asiasanojen valintaperusteet
 
-Alustavissa aineistohauissa löydettyjen julkaisujen asiasanojen sekä löydettyjen kirjallisuuskatsausten käyttämien hakusanojen joukosta koottiin tutkittavalle ilmiölle keskeisimmät hakusanat. Asiasanojen valinnassa käytettiin vain englanninkielisiä sanoja, koska suomenkielisten aineistojen arveltiin käyttävän sekä suomen- että englanninkielisiä asiasanoja ja löytyvän englanninkielisten asiasanojen avulla. IoT:tä käsittelevien yleisteosten asiasanat jätettiin pois, koska kirjojen ilmiölle merkityksellisiksi arvioidut asiasanat toistuivat myös muualla aineistossa ja ne tulivat valituiksi sitä kautta. Lisäksi kirjallisuuskatsauksen seuraavissa vaiheissa ei enää haettu IoT:tä yleisesti käsittelevää kirjallisuutta. Samoin pois jätettiin asiasanat, jotka eivät selkeästi liity kasvintuotannon IoT:n tutkimukseen ja teknologiaratkaisuihin.
+Alustavissa aineistohauissa löydettyjen aineistojen asiasanojen sekä löydettyjen kirjallisuuskatsausten käyttämien hakusanojen joukosta koottiin tutkittavalle ilmiölle keskeisimmät hakusanat. Hakusanojen valinnassa käytettiin vain englanninkielisiä sanoja, koska suomenkielisten aineistojen arveltiin käyttävän sekä suomen- että englanninkielisiä asiasanoja ja löytyvän englanninkielisten hakusanojen avulla. Asiasanat, jotka eivät selkeästi liittyneet kasvintuotannon IoT:n tutkimukseen ja teknologiaratkaisuihin jätettiin pois. Asiasanoista muodostettiin hakulause, jonka hakusanat on jaettu kahteen ryhmään. Ensimmäiseen ryhmään valittiin asiasanat "IoT" ja "Internet of Things". Toiseksi ryhmäksi valittiin Taulukko 1:ssä luetellut asiasanat.
 
-Kirjallisuuskatsausten hakuun käytettiin hakusanoina alustavissa aineistohauissa löydettyjen kirjallisuuskatsausten asiasanoja. Useiten toistuvat asiasanat "IoT" ja "Internet of Things" valittiin ensimmäiseksi hakusanaryhmäksi. Toiseksi hakusanaryhmäksi valittiin kirjallisuuskatsauksia koskevat asiasanat "literature review", "Systematic literature review" sekä "Survey". Kolmanteen hakusanaryhmään valittiin sellaiset asiasanat, joiden arvioitiin toistuvan kirjallisuuskatsauksissa ja joita ei valittu edellisiin ryhmiin. Kolmanteen ryhmään lisättiin vielä Precision Agriculture, jolloin kolmannen hakusanaryhmään kuuluvat:
-Agriculture
-Agro-industry
-Big data analysis
-Consumer Information
-Environmental monitoring
-IIoT
-Industrial Internet of Things
-Precision Farming
-Precision Agriculture
-Smart Farming
+Taulukko 1. Toiseen asiasanaryhmään valitut asiasanat.
 
-Aineiston hakuun käytettiin löydettyjen kirjallisuuskatsausten hakulauseissa käytettyjä hakusanoja, joista valittiin arviolta keskeisimmät kasvintuotannon IoT-ratkaisuiden ja tutkimuksen näkökulmista. Näihin lisättiin muissa aikaisemmissa vaiheissa löydetyt asiasanat, joiden arvioitiin parantavan hakutulosten kattavuutta. Asiasanoista muodostettiin hakulause, jonka hakusanat on jaettu kahteen ryhmään. Ensimmäiseen ryhmään valittiin asiasanat "IoT" ja "Internet of Things". Toiseksi ryhmäksi valittiin asiasanat:
-Agriculture
-Precision Agriculture
-Smart Agriculture
-Smart Farming
-Precision Farming
-Web of Things
-IoT applications
-Plant Production
-Agriculture technology
-Agricultural industry
-Agribusiness
-Agricultural products
-Agroindustry
-Big Data
-Greenhouses
-Smart Environments
-Plant factories
-Product Traceability
-Drones
-Cloud Computing
-Environmental monitoring
-Wireless Sensor Networks
-Sensor discovery
-Sensor integration
-Sensor-cloud
-Sensor-cloud for agricultural applications
-Equipment status
-"Telemetry"
-Telemetry applications
-Ubiquitous sensing
-Food production
-Horticulture
-Irrigation
-Crop
-Cereals
-Fruit
-Vegetable
-Climate
-Drought
-Farm
-Farming
-Feed production
-Fertilizers
-Flooding
-Forecast
-Fruit storage
-Harvesting
-Industrial
-Pest
-Plant
-Seed
-Water
-Weather
+|Toinen asiasanaryhmä| | |
+|---|---|---|
+|Agriculture|Drones|Vegetable|
+|Precision Agriculture|Cloud Computing|Climate|
+|Smart Agriculture|Environmental monitoring|Drought|
+|Smart Farming|Wireless Sensor Networks|Farm|
+|Precision Farming|Sensor discovery|Farming|
+|Web of Things|Sensor integration|Feed production|
+|IoT applications|Sensor-cloud|Fertilizers|
+|Plant Production|Sensor-cloud for agricultural applications|Flooding|
+|Agriculture technology|Equipment status|Forecast|
+|Agricultural industry|Telemetry|Fruit storage|
+|Agribusiness|Telemetry applications|Harvesting|
+|Agricultural products|Ubiquitous sensing|Industrial|
+|Agroindustry|Food production|Pest|
+|Big Data|Horticulture|Plant|
+|Greenhouses|Irrigation|Seed|
+|Smart Environments|Crop|Water|
+|Plant factories|Cereals|Weather|
+|Product Traceability|Fruit|-|
 
 
 ### Asiantuntijoiden teemahaastattelut
