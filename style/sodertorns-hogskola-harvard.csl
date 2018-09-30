@@ -19,16 +19,16 @@
     <updated>2018-03-31T04:01:14+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
-  <locale xml:lang="sv">
+  <locale xml:lang="fi">
     <terms>
       <term name="et-al">et al.</term>
       <term name="page" form="short">
         <single>s.</single>
-        <multiple>ss.</multiple>
+        <multiple>s.</multiple>
       </term>
       <term name="number-of-pages" form="short">
         <single>s.</single>
-        <multiple>ss.</multiple>
+        <multiple>s.</multiple>
       </term>
     </terms>
   </locale>
@@ -324,8 +324,8 @@
   </macro>
   <citation and="symbol" et-al-min="6" et-al-use-first="1" et-al-subsequent-min="4" et-al-subsequent-use-first="1" disambiguate-add-names="true" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" givenname-disambiguation-rule="primary-name" collapse="year">
     <sort>
-      <key macro="issued"/>
       <key macro="author"/>
+      <key variable="title"/>
     </sort>
     <layout delimiter="; " prefix="(" suffix=")">
       <group delimiter=", ">

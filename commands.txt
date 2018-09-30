@@ -30,3 +30,9 @@ pandoc Tutkimusraportti.md --smart --standalone --bibliography /Users/tatu/Docum
 NEW FOLDER STRUCTURE:
 
 pandoc source/oppari.md --smart --standalone --bibliography bib/agri.bib --csl=style/harvard1.csl --reference-docx=template/template.docx -o output/tPolvinenOppariZ.docx
+
+
+LATEST GREATEST  <30-09-2018  10:48>
+
+~/Reps/Agri-repot/Agri • 
+pandoc source/luonnos.md --smart --standalone --bibliography=bib/AIoT.bib --csl=style/sodertorns-hogskola-harvard.csl --reference-docx=template/template.docx -o output/tPolvinenOppariY.docx
