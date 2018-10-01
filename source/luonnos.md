@@ -80,7 +80,7 @@ laatuerä
 
 *voisiko tässä käsitellä löydettyjen kirjallisuuskatsausten tuloksia teoriataustana?*
 *Voisiko tässä osassa käsitellä myös keskeiset teemat, kuten tarve (FAO:väestönkasvu, ei lisää viljelymaata, elintason nousu jne.), mitä tehdään tarpeen tyydyttämiseksi, mitä ongelmia/haasteita kohdataan, mitä tulevaisuudessa on...?*
-Tässä luvussa pyritään kuvailemaan millainen kasvintuotannon IoT:n tausta on, millaisista osailmiöistä se koostuu ja mitä kasvintuotannon IoT:stä on kirjoitettu. *Ompas kömöä kieltä, mutta palataan tähän kun luku on kirjoitettu.*
+Tässä luvussa kuvaillaan kasvintuotannon IoT:n taustaa, millaisista osailmiöistä se koostuu ja mitä kasvintuotannon IoT:stä on julkaistu.
 Ensin tutustutaan osailmiöhin IoT, IIoT, AIoT ja kasvintuotanto, joiden määrittelyä, taustaa, historiaa ja nykytilaa kuvaillaan pintapuolisesti. IoT:iin liittyviä ilmiöitä IIoT sekä AIoT kuvaillaan myös pintapuolisesti ja osoitetaan miten ne liittyvät kasvintuotannon IoT:iin.
 
 ## Kasvintuotanon taustaa
@@ -165,13 +165,13 @@ vähemmän nälänhätää ja aliravitsemusta, mutta samalla väestö on koko aj
 
 ## Meta (poistettava otsikko)
 
-Tässä luvussa pyritään kuvailemaan toteutetun tutkimuksen tarkoitus, tavoitteet, tutkimuskysymykset, aineisto, menetelmät ja eteneminen.
+Tässä luvussa kuvaillaan toteutetun tutkimuksen tarkoitus, tavoitteet, tutkimuskysymykset, aineisto, menetelmät ja eteneminen.
 
 Opinnäytetyön keskeinen tutkimusongelma on, että kasvintuotannon IoT-ratkaisut eivät ole laajasti tunnettuja, *aiheesta ei ole julkaistu yleisluontoisia katsauksia suomen toimintaympäristön näkökulmasta* ja aihetta sivuavia opinnäytetöitä on julkaistu vain muutamia.
 
 Tutkimuskysymyksiin pyritään vastaamaan käyttämällä kuvailevaa kirjallisuuskatsausta ja asiantuntijoiden teemahaastatteluja. Käyttämällä tutkimusmenelminä sekä teemahaastatteluja että kirjallisuuskatsausta pyritään lisäämään ymmärrystä tutkittavasta ilmiöstä eri lähestymistapoja käyttäen. 
 
-Menetelmätriangulaatiota eli monimetodista lähestymistapaa voidaan käyttää tutkittavan ilmiön ymmärryksen lisäämiseen. Menetelmätriangulaatio eli useiden menetelmien käyttö on tällöin myös tutkimusstrateginen valinta. [@kananenOpinnaytetyonKirjoittamisenKaytannon2010] Opinnäytetyössä pyritään tukemaan laadullista menetelmää menetelmätriangulaation avulla. [ks. @hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 39; @gubriumSageHandbookInterview2012, 284] Menetelmätriangulaatio pyritään toteuttamaan haastatteluaineiston laadullisen kuvailun ja määrällistä menetelmää soveltavan sisällönanalyysin avulla.
+Menetelmätriangulaatiota eli monimetodista lähestymistapaa voidaan käyttää tutkittavan ilmiön ymmärryksen lisäämiseen. Menetelmätriangulaatio eli useiden menetelmien käyttö on tällöin myös tutkimusstrateginen valinta. [@kananenOpinnaytetyonKirjoittamisenKaytannon2010] Opinnäytetyössä pyritään tukemaan laadullista menetelmää menetelmätriangulaation avulla. [ks. @hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 39; @gubriumSageHandbookInterview2012, 284] Menetelmätriangulaatio on toteutettu haastatteluaineiston laadullisen kuvailun ja määrällistä menetelmää soveltavan sisällönanalyysin avulla.
 
 
 ## Tutkimuksen tarkoitus
@@ -185,6 +185,8 @@ Opinnäytetyön tavoitteena on tarjota lukijalle sekä yleiskuva kasvintuotannon
 
 
 ## Tutkimuskysymykset
+
+Tutkimuskysymyksiä on kaksi, joissa molemmissa on alakysymyksiä:
 
 I) Millaista tutkimusta IoT-teknologioiden soveltamisesta kasvintuotantoon on julkaistu?
 
@@ -222,9 +224,7 @@ Kirjallisuuskatsaus pitää tutkimusmenetelmänä sisällään useita eri tyyppe
 
 ## Kuvaileva kirjallisuuskatsaus
 
-Tässä opinnäytetyössä käytetään kirjallisuuskatsauksen menetelmänä kuvailevaa kirjallisuuskatsausta. Kuvailevan kirjallisuuskatsauksen orientaatioksi on valittu narratiivinen kirjallisuuskatsaus. *Aineistojen haun kuvailussa käytetään myös systemaattisen kirjallisuuskatsauksen menetelmiä aineistohaun kuvailussa/dokumentoinnissa.*
-
-Kuvaileva kirjallisuuskatsaus on @salminenMikaKirjallisuuskatsausJohdatus2011 [6] mukaan yleisimmin käytettyjä kirjallisuuskatsauksen perustyyppejä. Hän kuvailee sitä yleiskatsaukseksi, jolla ei ole tiukkoja ja tarkkoja sääntöjä, eivätkä tutkimuskysymykset ole yhtä tiukasti rajattuja kuin systemaattisessa katsauksessa tai meta-analyysissä. Samoin katsauksessa käytetyt aineistot voivat olla laajoja eivätkä metodiset säännöt rajaa niiden valintaa. Kuvaileva katsaus toimii itsenäisenä menetelmänä, joka voi Salmisen mukaan tarjota uusia tutkittavia ilmiöitä systemaattista kirjallisuuskatsausta varten. 
+Tässä opinnäytetyössä käytetään kirjallisuuskatsauksen menetelmänä kuvailevaa kirjallisuuskatsausta. Kuvailevan kirjallisuuskatsauksen orientaatioksi on valittu narratiivinen kirjallisuuskatsaus. Kuvaileva kirjallisuuskatsaus on @salminenMikaKirjallisuuskatsausJohdatus2011 [6] mukaan yleisimmin käytettyjä kirjallisuuskatsauksen perustyyppejä. Hän kuvailee sitä yleiskatsaukseksi, jolla ei ole tiukkoja ja tarkkoja sääntöjä, eivätkä tutkimuskysymykset ole yhtä tiukasti rajattuja kuin systemaattisessa katsauksessa tai meta-analyysissä. Samoin katsauksessa käytetyt aineistot voivat olla laajoja eivätkä metodiset säännöt rajaa niiden valintaa. Kuvaileva katsaus toimii itsenäisenä menetelmänä, joka voi Salmisen mukaan tarjota uusia tutkittavia ilmiöitä systemaattista kirjallisuuskatsausta varten. 
 
 *Menetelmän/prosessin vaiheet/kuvaus tähän.*
 
@@ -263,9 +263,9 @@ Teoriaohjaavassa analyysissä puolestaan teoriaa voidaan käyttää analyysin ap
 Aineiston pelkistämisen analyysimallissa edetään tunnistamalla asiat, joista tutkimuksessa ollaan kiinnostuneita ja pelkistetään näitä asioita ilmaisevia lauseita yksittäisiksi ilmaisuiksi (redusointi). Seuraavaksi samaa kuvaavat ilmaisut luokitellaan samaan alaluokkaan (klusterointi) ja luokka nimetään sen sisältöä kuvaavasti. Tutkijan tulkinnasta riippuu, millä perusteella ilmaisut kuuluvat samaan luokkaan. Analyysiä jatketaan luokittelemalla samansisältöisiä alaluokkia yläluokkiin, jotka nimetään sisältöä kuvaavasti samoin kuin alaluokat. Aineistosta riippuen voidaan yläluokkia vielä luokitella pääluokkiin (abstrahointi). Lopulta kaikki luokat yhdistetään niitä kuvaavaan luokkaan ja luokkien avulla vastataan tutkimustehtävään. Kaikkiaan siis käsitteitä yhdistämällä voidaan saada vastaus tutkimustehtävään ja analyysimallin avulla pyritään tulkintaprosessin systematisointiin sekä tulkinnan mielivaltaisuuden välttämiseen. [@tuomiLaadullinenTutkimusJa2018, 114-116]
 
 
-## Aineisto ja (tutkimus)menetelmät
+## Aineisto ja tutkimusmenetelmät
 
-Tässä osiossa kuvaillaan aineiston hankinnassa ja tutkimuksessa käytetyt menetelmät. Kuvailevasta kirjallisuuskatsauksesta kuvaillaan lyhyesti sen alustava työvaihe ja toteutus, aineiston haku ja haussa käytettyjen asiasanojen valintaperusteet.
+Tässä osiossa kuvaillaan aineiston hankinnassa ja tutkimuksessa käytetyt menetelmät. Kuvailevasta kirjallisuuskatsauksesta kuvaillaan lyhyesti sen alustava työvaihe ja toteutus, aineiston haku ja haussa käytettyjen asiasanojen valintaperusteet. Asiantuntijoiden teemahaastatteluista kuvaillaan lyhyesti miten teemahaastattelun yleisiä käytänteitä on sovellettu, haastateltavien valinnan perusteet, Haastattelujen toteutus järjestelyineen, haastatteluaineiston analyysimenetelmä ja johtopäätösten perustelut.
 
 ### Kuvaileva kirjallisuuskatsaus
 
@@ -361,9 +361,10 @@ Haastateltaviksi valittiin AIoT:hen perehtyneitä asiantuntijoita, jotka tulivat
 
 #### Teemahaastatteluiden toteutus
 
-Haastattelujen teemat laadittiin alustavilla hauilla kerätyn aineiston ja alustavien keskustelujen perusteella. Poiketen yleisistä teemahaastattelujen menetelmäohjeista haastatteluiden teemoja voitiin muutettaa tarvittaessa ennen haastatteluja harkinnanvaraisesti, mutta pitäen huolta kaikkien teemojen käsittelystä kaikissa haastatteluissa. Perusteena tälle on se, että tämän työn asiantuntijahaastatteluissa ei ollut tarpeellista tutkia haastateltavien reaktioita tietyssä järjestyksessä esille otettuihin teemoihin. Tarvittaessa teemojen hienosäätöä tehtiin kunkin haastateltavan asiantuntijan erikoistumisen mukaan, ottaen huomioon aikaisemmista haastatteluista saadut kokemukset ja taustatyöstä saadut tiedot. Haastattelun teemoja voitiin järjestellä uudelleen myös haastattelutilanteen niin vaatiessa, myötäillen haastattelun kulkua teemasta toiseen.
+Haastattelujen teemat laadittiin alustavilla hauilla kerätyn aineiston ja alustavien keskustelujen perusteella. Poiketen yleisistä teemahaastattelujen menetelmäohjeista haastatteluiden teemoja voitiin muutettaa tarvittaessa ennen haastatteluja harkinnanvaraisesti, mutta pitäen huolta kaikkien teemojen käsittelystä kaikissa haastatteluissa. Perusteena tälle on se, että tämän työn asiantuntijahaastatteluissa ei ollut tarpeellista tutkia haastateltavien reaktioita tietyssä järjestyksessä esille otettuihin teemoihin. Tarvittaessa teemojen hienosäätöä tehtiin kunkin haastateltavan asiantuntijan erikoistumisen mukaan, ottaen huomioon aikaisemmista haastatteluista saadut kokemukset ja taustatyöstä saadut tiedot. Haastattelun teemoja järjesteltiin uudelleen myös haastattelutilanteen niin vaatiessa, myötäillen haastattelun kulkua mutta varmistamalla kaikkien suunniteltujen teemojen käsittelyn.
 
-Haastattelut toteutettiin 8.11.2017 - 11.4.2018 välisenä aikana. Haastateltavat saivat itse valita haastattelulle sopivan paikan ja ajankohdan, mitkä olivat kolmessa tapauksessa työaikaan arkipäivisin haastateltavien työpaikoilla. Yksi haastattelu tehtiin haastateltavan maatilalla ja yksi puhelimitse. Haastattelujen litteroinnissa käytetään yleiskielistä litterointia. Yleiskielistä litterointia tarkempaa sanatarkkaa litterointia on käytetty, jos yleiskielisellä litteroinnilla on arvioitu olevan mahdollisesti tarkoitusta muuttava vaikutus.
+Haastattelut toteutettiin 8.11.2017 - 11.4.2018 välisenä aikana. Haastateltavat saivat itse valita haastattelulle sopivan paikan ja ajankohdan, mitkä olivat kolmessa tapauksessa työaikaan arkipäivisin haastateltavien työpaikoilla. Yksi haastattelu tehtiin haastateltavan maatilalla ja yksi puhelimitse. Kaikki haastattelut äänitettiin haastateltavien suostumuksella ja äänitteistä kirjoitettiin litteroinnit. Haastattelujen litteroinnissa käytettiin yleiskielistä litterointia. Yleiskielistä litterointia tarkempaa sanatarkkaa litterointia käytettiin tarvittaessa, jos yleiskielisen litteroinnin arvioitiin mahdollisesti muuttavan haastateltavan sanojen tarkoitusta.
+
 
 #### Haastatteluaineiston analyysimenetelmä
 
@@ -441,7 +442,7 @@ Kategorioissa ja alikategorioissa esiintyvien koodien määristä puolestaan voi
 
 ## Meta (poistettava otsikko)
 
-Tässä luvussa pyritään kuvailemaan tutkimuksen tulokset. Kirjallisuuskatsauksen ja teemahaastatteluiden tuloksia tarkastellaan erikseen, jonka jälkeen tuloksista tehdään kuvaileva yhteenveto. Lopuksi esitellään vastaukset tutkimuskysymyksiin tuloksista tehtyjen havaintojen ja johtopäätösten perusteella.
+Tässä luvussa kuvaillaan tutkimuksen tulokset. Kirjallisuuskatsauksen ja teemahaastatteluiden tuloksia tarkastellaan erikseen ja tuloksista tehdään kuvaileva yhteenveto. Lopuksi tuloksista tehtyjen havaintojen ja johtopäätösten perusteella esitellään vastaukset tutkimuskysymyksiin.
 
 ## Kirjallisuuskatsauksen tulokset
 
@@ -667,6 +668,7 @@ Datan tuottaminen ja kerääminen on IoT-ratkaisuiden ensimmäinen askel. Varsin
 
 Data-analytiikkapalveluiden kontekstissa tulee ottaa huomioon myös tietopalveluiden käytettävyys. Maatilan tiedonhallintajärjestelmien tulisi olla sekä helposti räätälöitävissä erilaisten maatilojen käyttötapauksiin että käyttäjäille helposti opittavia, samalla kun niiden tulisi mahdollistaa yhteentoimivuus tuotantoketjun muiden toimijoiden kanssa. [@sundmaekerInternetFoodFarm2016] Analytiikkaratkaisuiden haasteisiin kuuluu myös tuotetun datan määrän vaikutukset. Käytännössä suuri määrä keskenään verkostoituja laitteita voi tuottaa niin suuria määriä dataa, että sen käsittely voi nopeasti osoittautua pienen mittakaavan palvelininfrastruktuureille liian vaativaksi. Tähän haasteeseen vastaamiseksi analytiikkaratkaisuiden kehittämistä voisi suunnata pilvipohjaisissa resurssipalveluissa toimiviksi. Toisaalta verkon reunalla tuotetun suuren datamäärän siirtäminen pilveen voi aiheuttaa huomattavia kuluja sekä rahallisesti että ajallisesti viiveinä. Siksi olisi tarpeen tasapainottaa verkon reunalla tapahtuva tiedon tallennus ja käsittely pilvipalveluissa tapahtuvien vastaavien kanssa. [@tzounisInternetThingsAgriculture2017]
 
+
 #### AIoT-ekosysteemin laajentamisen haasteet
 
 @talaveraReviewIoTApplications2017 [2017] huomasivat kirjallisuuskatsauksessaan, että kirjallisuudessa on huomattava aukko IoT-ratkaisujen yksinkertaisien prototyyppien kehittämisestä tosielämän ratkaisuiksi. Tosielämän ratkaisujen laajan omaksunnan saavuttamiseksi AIoT-ratkaisujen kehityksen haasteena puolestaan on sovittaa ratkaisut toimimaan hyvin erilaisissa käyttöympäristöissä. Järjestelmien tulisi toimia erilaisissa ilmasto-olosuhteissa, maaperissä ja erilaisten satokasvien kanssa. [@verdouwInternetThingsAgriculture2016a]
@@ -739,7 +741,7 @@ Poikkeuksena edellisiin @barmpounakisManagementControlApplications2015 [2015] es
 
 ### Haastattelujen tuloksien kuvailu teemojen mukaan ryhmiteltyinä
 
-Tässä osiossa kuvaillaan ensin haastatteluaineiston sisällönanalyysin määrälliset havainnot jaoteltuina alaosioihin alikategorioiden ja niiden yleisten teemojen mukaan, minkä jälkeen käydään läpi sisällönanalyysiin taulukoinnin havainnot. Alaosioiden tekstissä koodien nimet on lihavoitu. 
+Tässä osiossa kuvaillaan ensin haastatteluaineiston sisällönanalyysin määrälliset havainnot jaoteltuina alaosioihin alikategorioiden ja niiden yleisten teemojen mukaan, minkä jälkeen käydään läpi sisällönanalyysiin taulukoinnin havainnot. Alaosioiden tekstissä viittaukset yksittäisiin koodeihin ja koodien nimet on lihavoitu. 
 
 #### Tietojenkäsittely
 
@@ -838,7 +840,7 @@ A.A.n mukaan suomalaisilla viljelijöillä voisi olla tarvetta USA:ssa toimivien
 
 #### Sisällönanalyysiin taulukoinnin havainnot
 
-*Tässä osiossa kuvaillaan havaintoja sisällönanalyysissä tehdyistä taulukoista. ...* Taulukoinnin tuloksia tarkisteltaessa pyritään välttämään havaintojen lukumäärien käsittelyä ja keskittymään asiakokonaisuuksiin ja tulkintoihin, jotta yksittäiset havainnot eivät vaikuttaisi kokonaisuudesta tehtäviin johtopäätöksiin. Tämä johtuu suurelta osin yksittäisten havaintojen tulkinnanvaraisuudesta ja osin virheiden todennäköisyydestä havaintojen ollessa vain yhden tekijän tulkintoja haastatteluaineistosta.
+Tässä osiossa kuvaillaan sisällönanalyysin tulosten taulukoinnista tehtyjä havaintoja. Taulukoinnin tuloksia tarkisteltaessa pyritään välttämään havaintojen lukumäärien käsittelyä ja keskittymään asiakokonaisuuksiin ja tulkintoihin, jotta yksittäiset havainnot eivät vaikuttaisi kokonaisuudesta tehtäviin johtopäätöksiin. Tämä johtuu suurelta osin yksittäisten havaintojen tulkinnanvaraisuudesta ja osin virheiden todennäköisyydestä havaintojen ollessa vain yhden tekijän tulkintoja haastatteluaineistosta.
 
 Kun havainnot jaotellaan erikseen haastatteluittain ja järjestellään kategorioiden mukaan havaintojen määrän järjestykseen, nähdään että kussakin haastattelussa koodien havaintojen jakauma on samankaltainen mutta havainnot kohdistuvat eri aihealueille eli koodeille. Kaikissa haastatteluissa kussakin kategoriassa on muutama keskeinen eniten havaintoja saanut koodi, useampia vähemmän havaintoja saaneita koodeja sekä useita vain yhden havainnon saanut koodi.
 
@@ -880,9 +882,8 @@ Lukuja tulkitessa tulee ottaa huomioon, että jo yhden koodihavainnon ero voi he
 ### Haastatteluaineiston kuvaus
 
 #### Meta (poistettava otsikko)
-Tässä *osiossa/luvussa* kuvaillaan haastatteluissa käsiteltyjen teemojen mukaan jaotellut haastattelutulokset.
 
-Haastateltavat: A.A., B.B., C.C., D.D., E.E.
+Tässä osiossa kuvaillaan haastatteluissa käsiteltyjen teemojen mukaan jaotellut haastattelutulokset. Havainnot on tehty haastatteluaineiston litterointien ja niistä tehtyjen muistiinpanojen sisällöstä. Haastateltavista käytetään nimimerkkejä A.A., B.B., C.C., D.D. ja E.E.
 
 #### AIoTn tilanne yleensä
 
