@@ -181,7 +181,7 @@ Opinnäytetyön tarkoituksena on tuottaa lukijalle yleiskuva kasvintuotannossa s
 
 ## Tutkimuksen tavoitteet
 
-Opinnäytetyön tavoitteena on tarjota lukijalle sekä yleiskuva kasvintuotannon IoT -ratkaisuista että lähtökohta lukijan omalle tiedonhaulle aiheeseen tarkemmin tutustuttaessa.
+Opinnäytetyön tavoitteena on tarjota lukijalle yleiskuva kasvintuotannon IoT -ratkaisuista. Lisäksi opinnäytetyö voi toimia lähtökohta lukijan omalle tiedonhaulle aiheeseen tarkemmin tutustuttaessa.
 
 
 ## Tutkimuskysymykset
@@ -1134,11 +1134,18 @@ Teknologia koneoppimisen ja keinoälyn soveltamiseen peltotuotannossa on E.E.n m
 
 ### Tutkimuskysymyksien vastaukset
 
-# JOHTOPÄÄTÖS JA KESKUSTELU
-
 # POHDINTA
 
 ## Meta (poistettava otsikko)
+
+*Pohdinta = arvioi keskeisiä tuloksia, peilaa tietoperustaan ja aikaisempiin tutkimuksiin*
+    *johtopäätökset*
+    *luotettavuus (uskottavuus ja yleistettävyys)*
+    *hyödynnettävyys*
+
+Opinnäytetyön tavoitteena on koota yleiskuva kasvintuotannon IoT -ratkaisuista ja vastata tutkimuskysymyksiin *Millaista tutkimusta IoT -teknologioiden soveltamisesta kasvintuotantoon on julkaistu?* ja *Miten kasvintuotannossa hyödynnetään IoT -teknologioita?*
+
+Kysymyksiin pyrittiin vastaamaan keräämällä tietoa narratiivisen kuvailevan kirjallisuuskatsauksen ja asiantuntijoiden teemahaastattelujen avulla.
 
 *Oma huomio: (per haastis 1.33) vielä ei ole automaattisesti data-analyysin perusteella järjestelmien toimeenpanemia viljelytoimia, vaan viljelyprosessien haltuunottoa, mittaamisen ja anturoinnin laajempaa omaksuntaa/käyttöönottoa. Samoin haastiksessa 2 puhutaan havainnoinnista ja suoraan lannoittimeen vaikuttamisesta anturin avulla CAN-väylän kautta, mutta ei käsitellä automaattista toimintaa ja haastateltava välttäisi viljelypäätösten automaattista tekemistä ja toimeenpanoa. Samoin haastiksessa 3 oli: FMS tulee antamaan suosituksia helpottamaan viljelijän toimintaa ja päätöksentekoa -- mutta ei automaattisesti lähettämään työkoneita pelloille tehtävien kanssa.*
 
@@ -1152,8 +1159,6 @@ Jatkotutkimuksen aihe: haastatellaan kasvihuonetuotantoon erikoistuneita asiantu
 ## Luotettavuus
 
 ## Hyödynnettävyys
-
-# KAUPALLISET LÄHTEET
 
 # LIITTEET
 

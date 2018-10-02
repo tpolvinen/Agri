@@ -7,8 +7,6 @@
 ### AIoT:n avoimet haasteet
 ### Esitetyt AIoT-arkkitehtuurit
 
-Tee vielä nämä:
-
 ## Haastattelujen tulokset
 ### ...teemojen mukaan ryhmiteltyinä
 ### Haastatteluaineiston kuvaus
@@ -60,7 +58,7 @@ tuotetun datan määrä voi myös osoittautua haastavaksi, tiedonsiirrolle ja ka
 
 maatalouden tietojenkäsittelyn alustapalveluiden on vielä avoin haaste ja niiden kehitys on alkuvaiheessa, mutta useita ratkaisuita on jo tullut tai tulossa markkinoille
 
-kokonaisvaltaisia maatilan tiedonhallintajärjestelmiä ollaan kehittämässä ja ne ovat selkeästi tulossa markkinoille, ne mahdollistaisivat maatilan eri tietojärjestelmien tuottaman tiedon integraation ja voisivat välittää tuotantodataa edelleen analysoitavaksi ja/tai tuotantoketjulle 
+kokonaisvaltaisia maatilan tiedonhallintajärjestelmiä ollaan kehittämässä ja ne ovat selkeästi tulossa markkinoille, ne mahdollistaisivat maatilan eri tietojärjestelmien tuottaman tiedon integraation ja voisivat välittää tuotantodataa edelleen analysoitavaksi ja/tai tuotantoketjulle, viiden vuoden kuluttua ne voivat olla jo yleisessä käytössä 
 
 tuotetun ja käsitellyn datan omistajuus, siirreltävyys järjestelmästä toiseen ja integraatio palveluiden välillä on vielä avoin haaste
 
@@ -117,13 +115,15 @@ massadata
 
 tietoliikenneratkaisut ovat peltoviljelyn AIoT -ratkaisuissa yleensä langattomia verkkoja joista yleisimmin käytettyjä ovat yksityisiin langattomien verkkojen protokolliin perustuvat ratkaisut, osa matkapuhelinverkkoja käyttäviä, puutarha- ja erityisesti kasvihuonetuotannon ratkaisuissa on pitkään sovellettu tavallisia tai teollisuuden tietoliikenneratkaisuita
 
-*väliohjelmistot mahdollistavat laitteiden ja tietojärjestelmien toiminnallisuuksien abstraktoinnin, jolloin sovelluksista voidaan kehittää useille erilaisille laitteille ja järjestelmille sopivia*
+väliohjelmistot mahdollistavat laitteiden ja tietojärjestelmien toiminnallisuuksien abstraktoinnin, jolloin sovelluksista voidaan kehittää useille erilaisille laitteille ja järjestelmille sopivia
 
 radiolaitteiden koko, paino ja energiankulutus ovat pienentyneet ja hinta laskenut huomattavasti. Tämä on mahdollistanut niiden sulauttamisen lähes kaikkiin esineisiin
 
 langattoman tietoliikenteen haasteita asettaa käyttöympäristö
 
 Yksi keskeisiä AIoT:n kehityksen haasteita on vakaiden ja luotettavien langattomien yhteyksien kehittäminen alueille, joilla tietoliikenneyhteyhet ovat tällä hetkellä rajalliset
+
+erityisesti globaalin wifi- tai mobiiliverkon puuttuminen aiheuttaa ongelmia
 
 Suuren mittakaavan AIoT -laitteiden käyttöönotot edellyttävät tietoliikenneverkkojen arkkitehtuurin uudistamista, jotta verkot voisivat sopeutua IoT -järjestelmien datan tuotannon muotoihin ja vaihtelevaan tietoliikennemäärään
 
@@ -168,6 +168,8 @@ IoT -ratkaisut ovat vielä aikaisten omaksujien, ei keskivertoviljelijöiden kä
 
 Tulisi kehittää yhteentoimivia, yksinkertaisia, kestäviä ja käytettäviä tuotteita jotka voidaan räätälöidä ja ottaa laajaan käyttöön, myös yhteentoimivuus vanhan infran kanssa sekä kestävyys tulevien ratkaisuiden kanssa
 
+laitteiden pitkät elinkaaret asettavat haasteita, voiko laitteen ostaa jos ei ole varmuutta taustalla toimivan palvelun toiminnasta esimerkiksi traktorin 30 vuoden käyttöiän ajan
+
 Tarvitaan laajaa omaksuntaa, käytettävyyden parantamista ja hintojen halpenemista
 - C.C.n teollisuuden sensoripaketit -
 
@@ -196,7 +198,63 @@ Laitteiden fyysinen tietoturva on tärkeä maatalouden toimintaympäristössä, 
 
 Tietoturva on otettu huomioon vaihtelevasti
 
+Tietoturva ja laitteistojärjestelmien kyberturvallisuus tulee olemaan maatiloilla kasvava ongelma. 
+
 AIoT -teknologioiden tulisi vielä selkeästi näyttää toteen hyödyllisyytensä
+
+maanviljelyn prosessit tulisi saada myös peltotuotannossa haltuun samalla tarkkuudella kuin teollisessa tuotannossa, jolloin tuotantopanoksia voidaan säätää paremmin
+
+prosessihallinnalla voitaisiin saada haltuun myös maatalouden sivuvirtojen hallintaa
+
+tuotantotapatiedon välittämisellä kuluttajalle voitaisiin osoittaa mitattuun tietoon perustuen tuotteen ominaisuudet ja käsittely
+
+*on meneillään teknologia-aalto, jossa parhaiten sopivia ratkaisuita ollaan vasta hakemassa*
+
+*IoT on voimakkaasti tulossa maatalouteen,* missä se tulee toimimaan automaation taustalla
+
+automaation avulla yksi tila voisi hoitaa aikaisempaa suurempaa peltoalaa
+
+tehokkuutta tulee nostaa Suomen maataloudessa jotta pysyttäisiin muun maailman tahdissa mukana
+
+analytiikan avulla voitaisiin vaikuttaa automaattisesti viljely-ympäristöön, keinoälyn muodostaessa automaattisesti toimenpiteitä tai antaa valmiita suosituksia viljelijälle
+
+kasvihuoneautomaatiossa on vielä optimoinnin varaa, kasvitehtaidenkaan tuotanto ei vielä ole kannattavaa viljan tai perunoiden tuotannossa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
