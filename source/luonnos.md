@@ -167,12 +167,15 @@ vähemmän nälänhätää ja aliravitsemusta, mutta samalla väestö on koko aj
 
 Tässä luvussa kuvaillaan toteutetun tutkimuksen tarkoitus, tavoitteet, tutkimuskysymykset, aineisto, menetelmät ja eteneminen.
 
-Opinnäytetyön keskeinen tutkimusongelma on, että kasvintuotannon IoT -ratkaisut eivät ole laajasti tunnettuja, *aiheesta ei ole julkaistu yleisluontoisia katsauksia suomen toimintaympäristön näkökulmasta* ja aihetta sivuavia opinnäytetöitä on julkaistu vain muutamia.
+Opinnäytetyön aihepiirinä on kasvituotannon esineiden internetiin (Agriculture Internet of Things, AIoT) liittyvät tutkimukset, julkaisut ja teknologiasovellukset. Opinnäytetyössä haastatellaan asiaan perehtyneitä tutkijoita ja yritysten edustajia. 
+
+Opinnäytetyön keskeinen tutkimusongelma on, että kasvintuotannon IoT -ratkaisut eivät ole laajasti tunnettuja ja aihetta sivuavia opinnäytetöitä on julkaistu vain muutamia.
 
 Tutkimuskysymyksiin pyritään vastaamaan käyttämällä kuvailevaa kirjallisuuskatsausta ja asiantuntijoiden teemahaastatteluja. Käyttämällä tutkimusmenelminä sekä teemahaastatteluja että kirjallisuuskatsausta pyritään lisäämään ymmärrystä tutkittavasta ilmiöstä eri lähestymistapoja käyttäen. 
 
 Menetelmätriangulaatiota eli monimetodista lähestymistapaa voidaan käyttää tutkittavan ilmiön ymmärryksen lisäämiseen. Menetelmätriangulaatio eli useiden menetelmien käyttö on tällöin myös tutkimusstrateginen valinta. [@kananenOpinnaytetyonKirjoittamisenKaytannon2010] Opinnäytetyössä pyritään tukemaan laadullista menetelmää menetelmätriangulaation avulla. [ks. @hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 39; @gubriumSageHandbookInterview2012, 284] Menetelmätriangulaatio on toteutettu haastatteluaineiston laadullisen kuvailun ja määrällistä menetelmää soveltavan sisällönanalyysin avulla.
 
+Opinnäytetyön laajuuden rajallisuuden vuoksi aihealueeksi on rajattu kasvituotannon IoT -ratkaisut, minkä kirjoittaja arvioi olevan yleisen ruoantuotannon kannalta vaikuttavin ruoantuotannon osa. Samasta syystä tässä opinnäytetyössä ei käsitellä yksittäisiä teknologiaratkaisuita kuten verkkoprotokollia, sensoritekniikkaa tai algoritmejä, vaan keskitytään kuvailemaan kasvintuotannon IoT-ratkaisuita yleistasolla.
 
 ## Tutkimuksen tarkoitus
 
@@ -181,7 +184,7 @@ Opinnäytetyön tarkoituksena on tuottaa lukijalle yleiskuva kasvintuotannossa s
 
 ## Tutkimuksen tavoitteet
 
-Opinnäytetyön tavoitteena on tarjota lukijalle yleiskuva kasvintuotannon IoT -ratkaisuista. Lisäksi opinnäytetyö voi toimia lähtökohta lukijan omalle tiedonhaulle aiheeseen tarkemmin tutustuttaessa.
+Opinnäytetyön tavoitteena on tuottaa ajankohtainen yleiskuva kasvintuotannossa käytettäviin esineiden internetin (Internet of Things, IoT) teknologiasovelluksiin ja niiden tutkimukseen. Lisäksi opinnäytetyö voi toimia lähtökohta lukijan omalle tiedonhaulle aiheeseen tarkemmin tutustuttaessa.
 
 
 ## Tutkimuskysymykset
