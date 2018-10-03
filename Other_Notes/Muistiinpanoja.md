@@ -1806,16 +1806,197 @@ Xu
     D) palvelunhallinta
 
 
+---
+
+<03-10-2018  20:29>
+
+Jemmaan, pois luonnos.md:stä seminaariversion tieltä:
+
+# LUETTELO KUVAAJISTA JA KAAVIOISTA
+
+# LYHENNELUETTELO
+
+# SANASTO
+
+# TIIVISTELMÄ
+
+*Kirjoitetaan viimeiseksi.*
+
+*Essi Kinnusen opparin sekä Suvi Karjalaisen & Maaret Vesalon opparin mukaan:*
+
+Opinnäytetyön tarkoituksena oli kuvata tutkimustietoon ja asiantuntijahaastatteluihin perustuen...
+Tavoitteena oli koostaa...
+
+Opinnäytetyö toteutettiin kuvailevan kirjallisuuskatsauksen ja teemahaastattelun menetelmillä. Aineiston haut tehtiin *tietokannat  sun muut tähän* tietokantoihin.
+Lisäksi aineistoa haettiin käsinhaun ja Google Scholar -haun avulla. *entä muut haut esim organisaatioiden sivujen sisällä, ovatko käsinhakua nekin?*
+Aineisto koostui ... vuosina ... julkaistusta ... käsittelevästä tutkimusartikkelista, ... . Kirjallisuuskatsauksen aineisto kerättiin *sekä* eksplisiittisesti *että implisiittisesti?*. Teemahaastattelujen tulokset esitellään narratiivisena kuvailuna, minkä lisäksi haastatteluaineisto analysoitiin käyttämällä sisällönanalyysiä.
+
+Tutkimustulokset osoittivat, että... keskeistä on ...
+
+Tutkimustulosten avulla ... on mahdollisuus ... / Kirjallisuuskatsauksen/haastattelujen tulosten perustella näyttääkin siltä, että...
+Tutkimustuloksia voidaan hyödyntää... / Opinnäytetyön tulokset auttavat luomaan laaja-alaista käsitystä...
+
+*jatkotutkimuksen tarpeet tähän*
+
+Tässä opinnäytetyössä käytetään lähdeviittausten tyylinä mukailtua Södertörns högskola - Harvard -tyyliä.
+
+# SANASTO
+
+satotasomittaus
+pilvipalvelu: tietojenkäsittelyn resurssipalvelu
+langaton anturi- ja toimilaiteverkko (engl. Wireless Sensor and Actuator Network, WSAN)
+integroitu tuholaistorjunta (engl. Integrated Pest Management, IPM)
+
+Haastatteluissa esiintyviä termejä:
+täsmäviljely
+lohko, peltolohko
+panos
+tasasäätö
+vihreä vallankumous
+tilakoko
+telemetria
+full-liner
+ohjaustiedosto
+Comma Separated Value (CSV)
+Monikerrosviljely = useissa päällekkäisissä tasoissa tapahtuvaa viljelyä, mikä eroaa tavallisen kasvihuoneen yhdessä tasossa tapahtuvasta viljelystä.
+Jaettu lannoitus
+UA-laite (Drooni, UA, pienoiskopteri, neliroottoripienoiskopteri)
+yhteen valmistajaan lukittuminen (vendor lock, yhden valmistajan loukku)
+maatilanhallintajärjestelmä (FMS)
+maatilan tiedonhallintajärjestelmä (FMIS)
+viljelysuunnitteluohjelma
+ortomosaiikkikartta
+Smart Farming
+agriculture 4.0
+agriculture 3.0
+satovaste
+sadonlisä
+CAN-väylä
+tuotantotapatieto
+laatuerä
+
+# JOHDANTO
+
+*1 - 2 sivua, Kirjoitetaan kun muut luvut ovat valmiit. <15-05-2018  12:25> Siirretty Tiiviisti.md:hen työstettäväksi.*
+
+*(@onwuegbuzieStepsComprehensiveLiterature2016, 20, 57) Johdantoon tulee laittaa: **PROBLEM STATEMENT** Introduce and explain the problem -> Explore the importance of the problem -> Describe the synthesis of relevant scholarship (lit.rev. report here) -> State hyphotheses and correspondence to research design of the problem*
+
+# AIOT:N TAUSTA / TEORIATAUSTA / TEOREETTINEN VIITEKEHYS
 
 
+*voisiko tässä käsitellä löydettyjen kirjallisuuskatsausten tuloksia teoriataustana?*
+*Voisiko tässä osassa käsitellä myös keskeiset teemat, kuten tarve (FAO:väestönkasvu, ei lisää viljelymaata, elintason nousu jne.), mitä tehdään tarpeen tyydyttämiseksi, mitä ongelmia/haasteita kohdataan, mitä tulevaisuudessa on...?*
+Tässä luvussa kuvaillaan kasvintuotannon IoT:n taustaa, millaisista osailmiöistä se koostuu ja mitä kasvintuotannon IoT:stä on julkaistu.
+Ensin tutustutaan osailmiöhin IoT, IIoT, AIoT ja kasvintuotanto, joiden määrittelyä, taustaa, historiaa ja nykytilaa kuvaillaan pintapuolisesti. IoT:iin liittyviä ilmiöitä IIoT sekä AIoT kuvaillaan myös pintapuolisesti ja osoitetaan miten ne liittyvät kasvintuotannon IoT:iin.
+
+## Kasvintuotanon taustaa
+
+### Kasvintuotannon määrittely
+
+*Tähän kasvintuotannon määritelmä*
+
+### Kasvintuotannon historiaa
+
+*vallankumoukset, nykytilanteeseen johtavat kehityspolut*
+
+Wikipediaa!
+
+Maatalouden vallankumous
+
+https://fi.wikipedia.org/wiki/Maatalouden_vallankumous
+
+1. Neoliittinen vallankumous
+Maanviljelyn alku ja leviäminen
+n. 11000–8500 eaa.
+
+2. Englannin maatalouden vallankumous 
+n. 1690–1800 jaa.
+https://fi.wikipedia.org/wiki/Englannin_maatalouden_vallankumous
+
+Maanviljely tehostui huomattavasti useiden sosiaalisten, taloudellisten ja viljelytekniikan kehityksen aiheuttamien muutosten myötä.
+Teollinen vallankumous vaikutti merkittävästi maatalouskoneiden kehitykseen ja maatalouden mekanisoitumiseen, jolloin tuotanto tehostui huomattavasti.
+
+    Kero, Reino ja Kujanen, Hannu (toim.): ”Heikkonen, Esko Maatalouden tuotantotekniikan kehitys keskiajalta 1800-luvun puoliväliin”, Kivikirveestä tietotekniikkaan, tekniikan sosiaalihistoriaa kivikaudesta nykypäivään, s. 180-186. Turku: Turun yliopiston historian laitos, 1989. ISBN 951-880-296-3.
+
+3. Vihreä vallankumous
+n. 1960–1985
+https://fi.wikipedia.org/wiki/Vihreä_vallankumous
 
 
+Kehittyneissä maissa viljojen sadot kaksinkertaistuivat ja maailmanlaajuisesti kolminkertaistuivat. 
+
+Vihreä vallankumous muunsi maanviljelyn luomuviljelystä runsaasti ulkoisia panostuksia vaativaksi tehomaanviljelyksi tai teolliseksi maanviljelyksi.
+
+Vihreän vallankumouksen päätekniikat olivat:
+uudet lajikkeet
+keinokastelu
+lannoitteet
+torjunta-aineet (rikkakasvien, hyönteisten)
+koneistuminen[3]
+
+Tekniikat: pääasiassa satoisampien viljalajikkeiden (kasvinjalostus), epäorgaanisten lannoitteiden (lannoitteet), kasvitautien torjunta-aineiden (torjunta-aineet), rikkakasvien ja tuhohyönteisten torjunta-aineiden ja maanviljelyn koneistumisen (koneistuminen) avulla. (+ kosteuden säätely)
+
+vähemmän nälänhätää ja aliravitsemusta, mutta samalla väestö on koko ajan kasvanut, mikä on vähentänyt saavutettuja hyötyjä. Suuren väestömäärän seurauksena ympäristö kärsii monin paikoin liikakansoituksen vaikutuksista. Lannoitteiden käyttö on suuri vesistöjen kuormittaja, aiheuttaen rehevöitymistä.
+
+/Wikipediaa!
+
+### Peltokasvituotanto, taustaa
+
+### Puutarhatuotanto, taustaa
+
+### Kasvihuonetuotanto, taustaa
+
+## Esineiden internetin eli Internet of Things:in taustaa
+
+*Tähän IoT:n määritelmät, historia*
+*Madakam et al. 2.2 Genesis, 2.3 Time Series*
+*Enabling Things to Talk 1 Introduction to the IoT ja 13 Summary and Outlook @bassiEnablingThingsTalk2016*
+
+*historiaa: ensimmäinen IoT -laite oli kokisautomaatti, RFID-tägit ensimmäinen merkittävä "asia" (thing) ks. madakamInternetThingsIoT2015*
+
+*Vermesan & Friessin "Internet of Things - Global Technological and Societal Trends..." kuvaa IoT -taustaa hyvin. Entä muut kirjat?*
+
+*Ks. Muistiinpanoja.md CISCOn Harnessing-IoT -Global-Development.pdf*
+
+### Teollisuuden esineiden Internetin eli Industrial Internet of Things:in taustaa
+
+*Miten IIoT on osa IoTtä...*
+
+### Maatalouden esineiden Internetin eli Agricultural Internet of Things:in taustaa
+
+*...ja miten AIoT on osa IIoTtä.*
 
 
+# OPINNÄYTETYÖN TARKOITUS, TAVOITE JA TUTKIMUSKYSYMYKSET / TUTKIMUSSUUNNITELMA
+
+...
+
+rivi 368:
+### Yleinen kuvailu
+
+*Muita keskeisiä aiheita käsitellyissä julkaisuissa ovat ruoan laadun parantaminen, ruoan turvallisuus ja jäljitettävyys, veden hallinta, maaseudun kehittäminen, kaupunkiviljely ja kuluttajien vuorovaikutus [@verdouwInternetThingsAgriculture2016a].*
+
+...
+
+# POHDINTA
+
+*Pohdinnassa arvioidaan keskeisiä tuloksia, peilataan tietoperustaan ja aikaisempiin tutkimuksiin*
+    *johtopäätökset*
+    *luotettavuus (uskottavuus ja yleistettävyys)*
+    *hyödynnettävyys*
+
+Opinnäytetyön tavoitteena on koota yleiskuva kasvintuotannon IoT -ratkaisuista ja vastata tutkimuskysymyksiin:
+* Millaista tutkimusta IoT -teknologioiden soveltamisesta kasvintuotantoon on julkaistu?
+* Miten kasvintuotannossa hyödynnetään IoT -teknologioita?
+
+Kysymyksiin pyrittiin vastaamaan keräämällä tietoa narratiivisen kuvailevan kirjallisuuskatsauksen ja asiantuntijoiden teemahaastattelujen avulla.
 
 
+Maallikon lähestymistapa ja kysymykset voivat olla monelle tekniikan asiantuntijalle työläitä. Tekijän ennakko-odotukset ja alaan perehtymättömyys ovat kuitenkin voineet tuoda haastatteluihin tiettyä perusteellisuutta, selityksiä ja syy-yhteyksien avaamisia joita asiantunteva haastattelija ei olisi joutunut käymään läpi -- eivätkä ne mahdollisesti olisi välittyneet tekstiin niin akuutisti kuin asiaan aikaisemmin perehtynyt lukija tarvitsisi.
 
+...voitaisiin soveltaa havaintojen laskennassa sääntöä, jossa kahdessa tai kolmessa peräkkäisessä segmentissä havaittu koodi olisi laskettu yhdeksi havainnoksi. Tätä ei kuitenkaan katsottu tarpeelliseksi.
 
+Jatkotutkimuksen aiheita: haastatellaan kasvihuonetuotantoon erikoistuneita asiantuntijoita sekä viljelijöitä kasvihuone-, puutarha- ja peltotuotannon aloilta. Kartoitetaan erityisesti AIoT -ratkaisuita tuottavia yrityksiä ja hankkeita.
 
 
 

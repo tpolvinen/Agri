@@ -1,103 +1,22 @@
-
-
-# HUOM: 
-*"Meta (poistettava otsikko)" -otsikot, samoin kuin muutkin "...(poistettava otsikko)" -otsikot, ovat luonnoksessa mukana helpottamassa osioiden käsittelyä luonnostelu- ja kirjoitusvaiheissa. Nämä otsikot poistetaan ja niiden alla oleva teksti jää korkeamman tason otsikon alle.*
-
----
-
-# TIIVISTELMÄ
-
-*Kirjoitetaan viimeiseksi.*
-
-*Essi Kinnusen opparin sekä Suvi Karjalaisen & Maaret Vesalon opparin mukaan:*
-
-Opinnäytetyön tarkoituksena oli kuvata tutkimustietoon ja asiantuntijahaastatteluihin perustuen...
-Tavoitteena oli koostaa...
-
-Opinnäytetyö toteutettiin kuvailevan kirjallisuuskatsauksen ja teemahaastattelun menetelmillä. Aineiston haut tehtiin *tietokannat  sun muut tähän* tietokantoihin.
-Lisäksi aineistoa haettiin käsinhaun ja Google Scholar -haun avulla. *entä muut haut esim organisaatioiden sivujen sisällä, ovatko käsinhakua nekin?*
-Aineisto koostui ... vuosina ... julkaistusta ... käsittelevästä tutkimusartikkelista, ... . Kirjallisuuskatsauksen aineisto kerättiin *sekä* eksplisiittisesti *että implisiittisesti?*. Teemahaastattelujen tulokset esitellään narratiivisena kuvailuna, minkä lisäksi haastatteluaineisto analysoitiin käyttämällä sisällönanalyysiä.
-
-Tutkimustulokset osoittivat, että... keskeistä on ...
-
-Tutkimustulosten avulla ... on mahdollisuus ... / Kirjallisuuskatsauksen/haastattelujen tulosten perustella näyttääkin siltä, että...
-Tutkimustuloksia voidaan hyödyntää... / Opinnäytetyön tulokset auttavat luomaan laaja-alaista käsitystä...
-
-*jatkotutkimuksen tarpeet tähän*
-
-Tässä opinnäytetyössä käytetään lähdeviittausten tyylinä mukailtua Södertörns högskola - Harvard -tyyliä.
-
-# SISÄLLYSLUETTELO
-
-# LUETTELO KUVAAJISTA JA KAAVIOISTA
-
-# LYHENNELUETTELO
-
-# SANASTO
-
-satotasomittaus
-pilvipalvelu: tietojenkäsittelyn resurssipalvelu
-langaton anturi- ja toimilaiteverkko (engl. Wireless Sensor and Actuator Network, WSAN)
-integroitu tuholaistorjunta (engl. Integrated Pest Management, IPM)
-
-Haastatteluissa esiintyviä termejä:
-täsmäviljely
-lohko, peltolohko
-panos
-tasasäätö
-vihreä vallankumous
-tilakoko
-telemetria
-full-liner
-ohjaustiedosto
-Comma Separated Value (CSV)
-Monikerrosviljely = useissa päällekkäisissä tasoissa tapahtuvaa viljelyä, mikä eroaa tavallisen kasvihuoneen yhdessä tasossa tapahtuvasta viljelystä.
-Jaettu lannoitus
-UA-laite (Drooni, UA, pienoiskopteri, neliroottoripienoiskopteri)
-yhteen valmistajaan lukittuminen (vendor lock, yhden valmistajan loukku)
-maatilanhallintajärjestelmä (FMS)
-maatilan tiedonhallintajärjestelmä (FMIS)
-viljelysuunnitteluohjelma
-ortomosaiikkikartta
-Smart Farming
-agriculture 4.0
-agriculture 3.0
-satovaste
-sadonlisä
-CAN-väylä
-tuotantotapatieto
-laatuerä
-
 # JOHDANTO
 
-*1 - 2 sivua, Kirjoitetaan kun muut luvut ovat valmiit. <15-05-2018  12:25> Siirretty Tiiviisti.md:hen työstettäväksi.*
+*1 - 2 sivua - Kirjoitetaan kun muut luvut ovat valmiit.*
 
-*(@onwuegbuzieStepsComprehensiveLiterature2016, 20, 57) Johdantoon tulee laittaa: **PROBLEM STATEMENT** Introduce and explain the problem -> Explore the importance of the problem -> Describe the synthesis of relevant scholarship (lit.rev. report here) -> State hyphotheses and correspondence to research design of the problem*
+# AIOT:N TAUSTA 
 
-# AIOT:N TAUSTA / TEORIATAUSTA / TEOREETTINEN VIITEKEHYS
-
-## Meta (poistettava otsikko)
-
-*voisiko tässä käsitellä löydettyjen kirjallisuuskatsausten tuloksia teoriataustana?*
-*Voisiko tässä osassa käsitellä myös keskeiset teemat, kuten tarve (FAO:väestönkasvu, ei lisää viljelymaata, elintason nousu jne.), mitä tehdään tarpeen tyydyttämiseksi, mitä ongelmia/haasteita kohdataan, mitä tulevaisuudessa on...?*
 Tässä luvussa kuvaillaan kasvintuotannon IoT:n taustaa, millaisista osailmiöistä se koostuu ja mitä kasvintuotannon IoT:stä on julkaistu.
 Ensin tutustutaan osailmiöhin IoT, IIoT, AIoT ja kasvintuotanto, joiden määrittelyä, taustaa, historiaa ja nykytilaa kuvaillaan pintapuolisesti. IoT:iin liittyviä ilmiöitä IIoT sekä AIoT kuvaillaan myös pintapuolisesti ja osoitetaan miten ne liittyvät kasvintuotannon IoT:iin.
 
 ## Kasvintuotanon taustaa
 
-### Kasvintuotannon määrittely
 
-*Tähän kasvintuotannon määritelmä*
+*Tähän maatalouden vallankumoukset, nykytilanteeseen johtavat agriteknologian kehityspolut*
 
-### Kasvintuotannon historiaa
+*Muistiinpanoja Wikipediasta:*
 
-*vallankumoukset, nykytilanteeseen johtavat kehityspolut*
+*Maatalouden vallankumous*
 
-Wikipediaa!
-
-Maatalouden vallankumous
-
-https://fi.wikipedia.org/wiki/Maatalouden_vallankumous
+*https://fi.wikipedia.org/wiki/Maatalouden_vallankumous*
 
 1. Neoliittinen vallankumous
 Maanviljelyn alku ja leviäminen
@@ -126,44 +45,30 @@ uudet lajikkeet
 keinokastelu
 lannoitteet
 torjunta-aineet (rikkakasvien, hyönteisten)
-koneistuminen[3]
+koneistuminen
 
 Tekniikat: pääasiassa satoisampien viljalajikkeiden (kasvinjalostus), epäorgaanisten lannoitteiden (lannoitteet), kasvitautien torjunta-aineiden (torjunta-aineet), rikkakasvien ja tuhohyönteisten torjunta-aineiden ja maanviljelyn koneistumisen (koneistuminen) avulla. (+ kosteuden säätely)
 
 vähemmän nälänhätää ja aliravitsemusta, mutta samalla väestö on koko ajan kasvanut, mikä on vähentänyt saavutettuja hyötyjä. Suuren väestömäärän seurauksena ympäristö kärsii monin paikoin liikakansoituksen vaikutuksista. Lannoitteiden käyttö on suuri vesistöjen kuormittaja, aiheuttaen rehevöitymistä.
 
-/Wikipediaa!
+/Wikipediaa*
 
-### Peltokasvituotanto, taustaa
-
-### Puutarhatuotanto, taustaa
-
-### Kasvihuonetuotanto, taustaa
+*Tähän peltokasvituotannon, puutarhatuotannon, kasvihuonetuotannon taustaa*
 
 ## Esineiden internetin eli Internet of Things:in taustaa
 
 *Tähän IoT:n määritelmät, historia*
-*Madakam et al. 2.2 Genesis, 2.3 Time Series*
-*Enabling Things to Talk 1 Introduction to the IoT ja 13 Summary and Outlook @bassiEnablingThingsTalk2016*
-
-*historiaa: ensimmäinen IoT -laite oli kokisautomaatti, RFID-tägit ensimmäinen merkittävä "asia" (thing) ks. madakamInternetThingsIoT2015*
-
-*Vermesan & Friessin "Internet of Things - Global Technological and Societal Trends..." kuvaa IoT -taustaa hyvin. Entä muut kirjat?*
-
-*Ks. Muistiinpanoja.md CISCOn Harnessing-IoT -Global-Development.pdf*
 
 ### Teollisuuden esineiden Internetin eli Industrial Internet of Things:in taustaa
 
-*Miten IIoT on osa IoTtä...*
+*Tähän kuvaus miten IIoT on osa IoTtä...*
 
 ### Maatalouden esineiden Internetin eli Agricultural Internet of Things:in taustaa
 
 *...ja miten AIoT on osa IIoTtä.*
 
 
-# OPINNÄYTETYÖN TARKOITUS, TAVOITE JA TUTKIMUSKYSYMYKSET / TUTKIMUSSUUNNITELMA
-
-## Meta (poistettava otsikko)
+# OPINNÄYTETYÖN TARKOITUS, TAVOITE, TUTKIMUSKYSYMYKSET JA TUTKIMUSSUUNNITELMA
 
 Tässä luvussa kuvaillaan toteutetun tutkimuksen tarkoitus, tavoitteet, tutkimuskysymykset, aineisto, menetelmät ja eteneminen.
 
@@ -345,8 +250,6 @@ Taulukko 1. Toiseen asiasanaryhmään valitut asiasanat.
 
 ### Asiantuntijoiden teemahaastattelut
 
-#### Meta (poistettava otsikko)
-
 Kokonaisuutena teemahaastatteluissa pyrittiin tuomaan esille AIoT:n erilaisia ilmentymiä mahdollisimman laaja-alaisesti. Yksittäisissä teemahaastatteluissa pyrittiin syventymään kunkin haastateltavan asiantuntijan erikoisalaan ja kokemuksiin. Tämän takia teemahaastattelujen kysymykset pidettiin avoimina ja kutakin teemaa käsiteltiin haastateltavan asiantuntemuksen mukaan.
 
 Teemahaastattelu sopii tekijän arvion mukaan menetelmänä luontevasti tässä opinnäytetyössä tehtyihin asiantuntijahaastatteluihin, koska teemahaastattelun rakenne ei ole rajattu tiettyihin ennalta määriteltyihin kysymyksiin vaan nojautuu haastatteluille asetettuihin teemoihin. Teemahaastattelun eteneminen tapahtuu näiden keskeisten teemojen varassa ja haastattelun aihepiirit ovat kaikille haastateltaville samat. [@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 47-48] Tämä mahdollistaa joustavasti kunkin haastateltavan oman asiantuntemusalueen käsittelyn.
@@ -370,8 +273,6 @@ Haastattelut toteutettiin 8.11.2017 - 11.4.2018 välisenä aikana. Haastateltava
 
 
 #### Haastatteluaineiston analyysimenetelmä
-
-##### Meta (poistettava otsikko)
 
 Koska opinnäytetyön tutkimusongelma on laadullinen haastatteluaineiston analyysimenetelmäksi valittiin sisällönanalyysi. Sisällönanalyysillä pyritään systemaattisesti tuomaan aineistosta esille aineiston laadullisia ominaisuuksia järjestelemällä ja kuvailemalla aineistoa. Analyysin keskeinen tehtävä on löytää tutkittavaa ilmiötä kuvailevia väittämiä, joilla voidaan vastata opinnäytetyön tutkimuskysymyksiin.
 
@@ -445,8 +346,6 @@ Ryhmien yleisimpien koodien samankaltaisuutta muihin koodeihin verrattuna tarkas
 
 # TUTKIMUSTULOKSET
 
-## Meta (poistettava otsikko)
-
 Tässä luvussa kuvaillaan tutkimuksen tulokset. Kirjallisuuskatsauksen ja teemahaastatteluiden tuloksia tarkastellaan erikseen ja tuloksista tehdään kuvaileva yhteenveto. Lopuksi tuloksista tehtyjen havaintojen ja johtopäätösten perusteella esitellään vastaukset tutkimuskysymyksiin.
 
 ## Kirjallisuuskatsauksen tulokset
@@ -454,8 +353,6 @@ Tässä luvussa kuvaillaan tutkimuksen tulokset. Kirjallisuuskatsauksen ja teema
 Tässä osiossa käsitellään kirjallisuuskatsauksen tulokset jaoteltuina seuraavasti: yleinen kuvailu, AIoT -ratkaisuissa käytettävät teknologiat, AIoT -ratkaisujen sovellusalueet, AIoT:n avoimet haasteet ja aineistossa esitetyt AIoT -arkkitehtuurit.
 
 ### Yleinen kuvailu
-
-*Muita keskeisiä aiheita käsitellyissä julkaisuissa ovat ruoan laadun parantaminen, ruoan turvallisuus ja jäljitettävyys, veden hallinta, maaseudun kehittäminen, kaupunkiviljely ja kuluttajien vuorovaikutus [@verdouwInternetThingsAgriculture2016a].*
 
 **Uudet liiketoimintamallit** mahdollistuvat IoT -teknologioiden käyttöönoton myötä. Kokonaisuudessaan maatalouden voidaan odottaa muuttuvan IoT -teknologioiden vaikutuksesta huomattavasti. Maatilojen ja ruokatuotannon yritysten yleisen kehityksen suunta on kohti laajamittaista, teollista ja teknologiaintensiivistä tuotantoa. Samaan aikaan uudet IoT -teknologiat mahdollistavat uusia liiketoimintamalleja. Monet kasvuyritykset pyrkivät toteuttamaan ruokatuotannossa aikaisempaa lyhyempää tuotantoketjua, joskus poistaen kokonaisia osia yleisestä ruoan tuotantoketjusta. Näille uusille liiketoimintamalleille tiedon tuotanto ja toimittaminen on ennemmän ennakkoehto kuin toiminnan sivutuote. Samalla liiketoimintakumppaneiden välinen toiminta on muuttumassa entistä dynaamisemmaksi sekä kilpailu korkealuokkaisista ja suuren marginaalin tuotteista on muodostumassa yleisemmäksi. IoT -teknologioiden mahdollistamat dataperustaiset hallintokäytänteet ovat keskeisiä aikaisempaa tarkemmalle tuotantoprosessien hallittavuudelle. Tämän tuloksena maatilat voivat siirtyä perinteisestä tuotantokeskeisestä ja kustannushinnoitteluvetoisesta liiketoimintamallista arvohinnoittelu- ja informaatiovetoiseen malliin, jossa tarjontaa kohdennetaan jatkuvasti kysynnän mukaan. Tuotantoprosessien tarkempi hallittavuus puolestaan voi johtaa suoranaiseen loikkaukseen tuottavuudessa ja kestävyydessä. [@sundmaekerInternetFoodFarm2016; @verdouwInternetThingsAgriculture2016a]
 
@@ -518,8 +415,6 @@ Tiedon julkaisu loppukäyttäjille toteutettiin selkeästi suurimmassa osassa ju
 
 
 ### AIoT:n sovellusalueet
-
-#### Meta (poistettava otsikko)
 
 AIoT -ratkaisuiden sovellusalueiden luokittelu ja rajaukset vaihtelevat aineiston kirjallisuuskatsausten välillä, riippuen katsausten tekijöiden lähtökohdista, tutkimuskysymyksistä ja näkökulmista. Tässä osiossa käydään läpi keskeisimpien kirjallisuuskatsauksien jaottelut ja niihin luokiteltujen julkaisujen määrät. Tällä pyritään antamaan lukijalle yleiskuva katsausten keskeisistä teemoista ja niiden yleisyydestä. Koska luokittelut eivät ole keskenään yhteensopivia, niistä ei sellaisenaan voi tehdä määrällistä yhteenvetoa ja tämän takia ne esitellään tässä osiossa erillisinä.
 
@@ -735,8 +630,6 @@ Poikkeuksena edellisiin @barmpounakisManagementControlApplications2015 [2015] es
 
 ## Haastattelujen tulokset
 
-### Meta (poistettava otsikko)
-
 ### Haastattelujen tuloksien kuvaus teemojen mukaan ryhmiteltyinä
 
 Tässä osiossa kuvaillaan ensin haastatteluaineiston sisällönanalyysin määrälliset havainnot jaoteltuina alaosioihin alikategorioiden ja niiden yleisten teemojen mukaan, minkä jälkeen käydään läpi sisällönanalyysiin taulukoinnin havainnot. Alaosioiden tekstissä viittaukset yksittäisiin koodeihin ja koodien nimet on lihavoitu. 
@@ -850,12 +743,12 @@ Koko haastatteluaineiston koodien havaintojen yhteenlasketut määrät jakautuva
 
 Koko haastatteluaineistosta yhteen kootuista havaintojen määristä nousevat esille uusien teknologioiden omaksunta ja sen hyödyt, tietojenkäsittelyn alustapalvelut, tiedon tuottama lisäarvo, järjestelmäintegraatiot, maatalouden toiminnan digitalisaatio, päätöksenteon avustaminen sekä viljelyprosessien optimointi ja automatisointi. Useita havaintoja on myös asiasisällöillä maataloustuotannon kannattavuus ja suomalaisen toimintaympäristön erityispiirteet, ISOBUS-standardi, telemetriaratkaisut, data-analytiikka ja datan integraatiot, pilvipalvelut, tietoliikenne- ja sensoritekniikat, laitteiden integraatio ja yhteensopivuus, tuotantotapatieto ja tuotantoketjun data.
 
-*kuvaaja  Koodien määrät kategorioissa*
+*kuvaaja: Koodien määrät kategorioissa*
 Asiasisällöt jakautuivat alikategorioihin ja kategorioihin epätasaisesti. Tekniikan kategoriaan luokiteltujen koodien määrä on lähes kaksinkertainen maataloustuotannon ja toimintaympäristön vastaaviin verrattuna. Alikategorioista selkeästi eniten koodeja luokiteltiin tietojenkäsittelyn tekniikkojen alikategoriaan. Seuraavaksi eniten erilaisia koodeja luokiteltiin toimintaympäristön muutoksen ja maatalouden toimintaympäristön alikategorioihin. Näitä seuraa useampi tekniikan alikategoria kuten teknologiatuotteet, tietojärjestelmät, erilaiset teknologiat ja tietoliikenne. Muita koodien määrältään mainittavia alikategorioita ovat maataloustuotannon laitteet ja tuotannon tehostaminen, laitejärjestelmät, teknologioiden omaksunta ja alustaratkaisut. Nämä havainnot eivät suoranaisesti kuvaa kuinka usein kunkin alikategorian koodeja havaittiin haastatteluaineistossa tai kuinka keskeisiä mitkäkin alikategoriat ovat, mutta ne kuvaavat kunkin alikategorian asiasisällön monisäikeisyyttä. 
 
 Vertailtaessa kaikkia haastatteluaineistossa yli viidesti havaittuja koodeja kussakin haastattelussa yli kerran havaittuihin, voidaan havainnoida kuinka suurelta osin yksittäisissä haastatteluissa käsiteltiin samoja asiasisältöjä kuin kaikissa haastatteluissa yhteensä. Samalla voidaan tarkastella mitkä ja kuinka monet koodit on havaittu vain yhdessä haastattelussa ja mitkä asiasisällöt ovat näin olleet ominaisia kullekin haastattelulle. Havaintojen määrien rajaus on valittu harkinnanvaraisesti kokeilujen perusteella ja niiden on arvioitu tuottavan parhaiten materiaalia havainnollistavan tuloksen. Yksittäisistä haastatteluista vähiten koko aineiston yleisistä koodeista löytyviä koodeja oli C.C.:n haastattelussa (Haastattelu 3). Yleisiä koodeja havaittiin olevan kyseisessä haastattelussa hieman yli puolet haastattelun kaikista koodeista, 53 %. Eniten yleisiä koodeja havaittiin vastaavasti E.E.:n haastattelusta, missä niitä oli 61 %. Muut haastattelut jakautuvat lähes tasaisesti näiden välille. Suurin osa jokaisessa haastattelussa käsitellyistä asiasisällöistä on siis sellaisia, joita on todennäköisesti käsitelty myös muissa haastatteluissa. Tämä johtuu todennäköisesti kaikille haastatteluille yhteisistä haastatteluteemoista. Haastatteluille yksilöllisiä asiasisältöjä puolestaan on eniten A.A.:n haastattelussa (Haastattelu 1) ja lähes yhtä usein C.C.:n haastattelussa, 30 % ja 29 %. Vähiten yksilöllisiä asiasisältöjä puolestaan on D.D.:n haastattelussa (Haastattelu 4), missä niitä on 17 %.
 
-*kuvaaja Kategoriat per haastattelu -Havaintojen jakautuminen kategorioittain haastatteluissa*
+*kuvaaja: Kategoriat per haastattelu -Havaintojen jakautuminen kategorioittain haastatteluissa*
 Vertailtaessa kunkin kategorian koodien havaintojen prosenttiosuuksia kussakin haastattelussa muiden haastattelujen vastaaviin, voidaan havainnoida haastattelujen kesken kategoriakohtaisia painotuksia. B.B.:n haastattelu painottuu muita enemmän maataloustuotannon kategoriaan ja vastaavasti vähemmän toimintaympäristöön. C.C.:n haastattelussa on muita pienempi prosenttiosuus maataloustuotannon kategorian havaintoja ja vastaavasti enemmän tekniikan kategorian havaintoja. A.A.:n ja D.D.:n haastattelujen havaintojen osuudet jakautuvat saman kaltaisesti, D.D.:n haastattelun tekniikan kategorian osuuden ollessa hieman muita pienempi. D.D.:n haastattelussa on myös lukumäärällisesti tekniikan kategorian havaintoja selkeästi pienin määrä. A.A.:n haastattelussa on taas eniten tekniikan kategorian havaintoja. B.B.:n haastattelussa puolestaan on eniten maataloustuotannon havaintoja. C.C.:n haastattelussa havaittiin myös lukumäärällisesti vähiten maataloustuotannon kategorian koodeja. Toimintaympäristön kategorian havaintoja oli selkeästi eniten A.A.:n haastattelussa ja vähiten B.B.:n haastattelussa.
 
 Tekniikan kategorian koodeista kaikissa haastatteluissa havaituista keskeisimmät ovat uusien teknologioiden hyödyt, datan alustapalvelut, analytiikka, tietoliikenneverkot, pilvipalvelut ja datan integraatio. Maatalouden kategoriassa vastaavasti kaikissa haastattelussa havaituista koodeista keskeisimmät ovat päätöksenteon avustaminen, järjestelmäintegraatio, viljelyprosessien optimointi, tuotannon kannattavuus ja laitteiden integraatio ja yhteensopivuus. Nämä olivat myös kategoriassaan eniten havaitut koodit ja tekniikan kategorian vastaavat koodit ovat hajautuneempia eri haastatteluihin. Toimintaympäristön kategorian kaikissa haastatteluissa havaituista koodeista keskeisimmät ovat maatalouden yleiskuva, tuotantoketjun data ja suomalaisen viljely-ympäristön erityispiirteet. Toimintaympäristön kategorian koodit ovat selkeimmin hajautuneet eri haastattelujen kesken.
@@ -878,8 +771,6 @@ Lukuja tulkitessa tulee ottaa huomioon, että jo yhden koodihavainnon ero voi he
 
 
 ### Haastatteluaineiston kuvaus
-
-#### Meta (poistettava otsikko)
 
 Tässä osiossa kuvaillaan haastatteluissa käsiteltyjen teemojen mukaan jaotellut haastattelutulokset. Havainnot on tehty haastatteluaineiston litterointien ja niistä tehtyjen muistiinpanojen sisällöstä. Haastateltavista käytetään nimimerkkejä A.A., B.B., C.C., D.D. ja E.E.
 
@@ -1165,27 +1056,10 @@ Lopulta merkitsevimmän kehitysaskeleen ottavat viljelijät, jotka omaksuvat kä
 
 ### Tutkimuskysymyksien vastaukset
 
+* Millaista tutkimusta IoT -teknologioiden soveltamisesta kasvintuotantoon on julkaistu?
+* Miten kasvintuotannossa hyödynnetään IoT -teknologioita?
+
 # POHDINTA
-
-## Meta (poistettava otsikko)
-
-*Pohdinta = arvioi keskeisiä tuloksia, peilaa tietoperustaan ja aikaisempiin tutkimuksiin*
-    *johtopäätökset*
-    *luotettavuus (uskottavuus ja yleistettävyys)*
-    *hyödynnettävyys*
-
-Opinnäytetyön tavoitteena on koota yleiskuva kasvintuotannon IoT -ratkaisuista ja vastata tutkimuskysymyksiin *Millaista tutkimusta IoT -teknologioiden soveltamisesta kasvintuotantoon on julkaistu?* ja *Miten kasvintuotannossa hyödynnetään IoT -teknologioita?*
-
-Kysymyksiin pyrittiin vastaamaan keräämällä tietoa narratiivisen kuvailevan kirjallisuuskatsauksen ja asiantuntijoiden teemahaastattelujen avulla.
-
-*Oma huomio: (per haastis 1.33) vielä ei ole automaattisesti data-analyysin perusteella järjestelmien toimeenpanemia viljelytoimia, vaan viljelyprosessien haltuunottoa, mittaamisen ja anturoinnin laajempaa omaksuntaa/käyttöönottoa. Samoin haastiksessa 2 puhutaan havainnoinnista ja suoraan lannoittimeen vaikuttamisesta anturin avulla CAN-väylän kautta, mutta ei käsitellä automaattista toimintaa ja haastateltava välttäisi viljelypäätösten automaattista tekemistä ja toimeenpanoa. Samoin haastiksessa 3 oli: FMS tulee antamaan suosituksia helpottamaan viljelijän toimintaa ja päätöksentekoa -- mutta ei automaattisesti lähettämään työkoneita pelloille tehtävien kanssa.*
-
-...koskien haastattelutilanteita yleensä: ...tämä lähestymistapa, tai pikemminkin lähestyjän eli tekijän laatu, voi olla monelle tekniikan asiantuntijalle työläs. Tekijän ennakko-odotukset, tietämättömyys ja alaan perehtymättömyys ovat kuitenkin voineet tuoda haastatteluihin tiettyä perusteellisuutta, selityksiä ja syy-yhteyksien avaamisia joita asiantunteva haastattelija ei olisi joutunut käymään läpi -- eivätkä ne mahdollisesti olisi välittyneet tekstiin niin akuutisti kuin asiaan aikaisemmin perehtynyt lukija tarvitsisi.
-
-...voitaisiin soveltaa havaintojen laskennassa sääntöä, jossa kahdessa tai kolmessa peräkkäisessä segmentissä havaittu koodi olisi laskettu yhdeksi havainnoksi.
-
-Jatkotutkimuksen aihe: haastatellaan kasvihuonetuotantoon erikoistuneita asiantuntijoita sekä viljelijöitä kasvihuone-, puutarha- ja peltotuotannon aloilta.
-
 
 ## Luotettavuus
 
