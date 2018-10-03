@@ -19,15 +19,15 @@
 
 IoT -teknologiat mahdollistavat maatalouden digitalisaatiossa digitaalisen mitatun tiedon tuottamisen
 
-suunta laajamittaiseen teolliseen teknologiaintensiiviseen tuotantoon ja arvohinnoittelu- ja informaatiovetoiseen toimintamalliin, hyödyntäen myös kiertotalouden mahdollisuuksia
+*suunta laajamittaiseen teolliseen teknologiaintensiiviseen tuotantoon ja arvohinnoittelu- ja informaatiovetoiseen toimintamalliin, hyödyntäen myös kiertotalouden mahdollisuuksia*
 
-tuotantoon on tulossa tiedon tuotanto ja tarkempi hallittavuus mitattuun dataan perustuen, suuntana datavetoinen viljely ja siirtyminen tuotteiden/palveluiden myynnistä merkityksellisten ja mitattavien tuloksien tekoon kun satoisuutta, energiankulutusta, koneiden käyttöaikoja voidaan mitata ja optimoida
+*tuotantoon on tulossa tiedon tuotanto ja tarkempi hallittavuus mitattuun dataan perustuen, suuntana datavetoinen viljely ja siirtyminen tuotteiden/palveluiden myynnistä merkityksellisten ja mitattavien tuloksien tekoon kun satoisuutta, energiankulutusta, koneiden käyttöaikoja voidaan mitata ja optimoida*
 
-toimintaympäristö on muuttumassa vaihtelevien olosuhteiden, digitalisaation ja liiketoimintatapojen muutosten myötä, tilakokojen suurentuessa ja tilamäärien pienentyessä, kohti liiketoimintamaisempaa maanviljelystä
+*toimintaympäristö on muuttumassa vaihtelevien olosuhteiden, digitalisaation ja liiketoimintatapojen muutosten myötä, tilakokojen suurentuessa ja tilamäärien pienentyessä, kohti liiketoimintamaisempaa maanviljelystä*
 
-teknologioiden laajamittainen omaksunta on niiden tarjoamista hyödyistä huolimatta haasteellista maatalouden pirstaleisessa toimintaympäristössä, jossa omaksunnan tiellä on useita kynnyksiä ja omaksunnan eteneminen on hyvin asteittaista
+*teknologioiden laajamittainen omaksunta on niiden tarjoamista hyödyistä huolimatta haasteellista maatalouden pirstaleisessa toimintaympäristössä, jossa omaksunnan tiellä on useita kynnyksiä ja omaksunnan eteneminen on hyvin asteittaista*
 
-datan tuotanto perustuu yleensä antureiden tuottamaan mittausdataan, anturilaitteiden ollessa kytketty anturi- ja toimilaiteverkkoihin, joiden avulla data siirretään yleensä pilvipalveluihin tallennettavaksi ja analysoitavaksi
+*datan tuotanto perustuu yleensä antureiden tuottamaan mittausdataan, anturilaitteiden ollessa kytketty anturi- ja toimilaiteverkkoihin, joiden avulla data siirretään yleensä pilvipalveluihin tallennettavaksi ja analysoitavaksi*
 
 
 
@@ -35,44 +35,45 @@ datan tuotanto perustuu yleensä antureiden tuottamaan mittausdataan, anturilait
 
 IoT -perustainen älykäs maanviljelytoiminta tuottaa lisäarvoa viljelijöille auttamalla heitä merkityksellisen tiedon keräämisessä satokasveista, laitteista ja tilan toiminnasta käyttämällä anturilaitteita
 
-Kasvi- ja ilmastomallinnuksen sekä data-analytiikan avulla järjestelmät voivat tuottaa arvioita viljely-ympäristön ilmaston ja/tai kasvien tilasta paremman päätöksenteon mahdollistamiseksi tai varoitusten tuottamiseksi.
+*Kasvi- ja ilmastomallinnuksen sekä data-analytiikan avulla järjestelmät voivat tuottaa arvioita viljely-ympäristön ilmaston ja/tai kasvien tilasta paremman päätöksenteon mahdollistamiseksi tai varoitusten tuottamiseksi.*
 
-Päätöksenteon tukeminen on keskeisimpiä aiheita haastatteluissa 
-yleisesti ihminen halutaan pitää viljelytoiminnassa päätösten tekijänä ja erilaiset keinoäly-, ennuste- ja analytiikkajärjestelmät halutaan ottaa käyttöön viljelijän päätöksenteon tueksi
+*Päätöksenteon tukeminen on keskeisimpiä aiheita haastatteluissa* 
 
-keinoälyn hyödyntämiseksi korkean tason päätöksenteossa ja analytiikassa tarvitaan systeemiautomaation kehittämistä, operatiivisissa toiminnoissa keinoälyä sovelletaan jo työkoneiden automaattiohjauksessa
+*yleisesti ihminen halutaan pitää viljelytoiminnassa päätösten tekijänä ja erilaiset keinoäly-, ennuste- ja analytiikkajärjestelmät halutaan ottaa käyttöön viljelijän päätöksenteon tueksi*
 
-Ennusteista voidaan saada aikaisia varoituksia satokasveihin kohdistuvista uhkista kuten kasvitaudeista ja hyönteisinvaasioista
+*keinoälyn hyödyntämiseksi korkean tason päätöksenteossa ja analytiikassa tarvitaan systeemiautomaation kehittämistä, operatiivisissa toiminnoissa keinoälyä sovelletaan jo työkoneiden automaattiohjauksessa*
+
+*Ennusteista voidaan saada aikaisia varoituksia satokasveihin kohdistuvista uhkista kuten kasvitaudeista ja hyönteisinvaasioista*
 
 myös kasvien reaktioiden tarkkailusta saadun datan perusteella voidaan mallinnuksen ja älykkäiden algoritmien avulla tuottaa kontrollikäskyjä viljelyautomatiikan toteutettaviksi
 
-usein viljelyn tarkkailun ja kontrolloinnin järjestelmiä pyritään tukemaan kasvien kasvua ennustavilla mallinnusjärjestelmillä
+*usein viljelyn tarkkailun ja kontrolloinnin järjestelmiä pyritään tukemaan kasvien kasvua ennustavilla mallinnusjärjestelmillä*
 
-ennusteet kohdistuvat usein ympäristöolosuhteisiin, tuotanto- ja satoennusteisiin
+*ennusteet kohdistuvat usein ympäristöolosuhteisiin, tuotanto- ja satoennusteisiin*
 
-maatalousalan analytiikan tietopalvelut ovat vielä kehityksen alkuvaiheessa, lyhyellä aikavälillä kehitetään päätöksentekoa tukevia järjestelmiä, mutta edistyneempien ennustavaan mallinnukseen ja kysyntäperusteiseen tuotannon suunnitteluun kykenevien data-analytiikan ratkaisuiden kehittäminen on maatalousalalla vielä avoin haaste
+*maatalousalan analytiikan tietopalvelut ovat vielä kehityksen alkuvaiheessa, lyhyellä aikavälillä kehitetään päätöksentekoa tukevia järjestelmiä, mutta edistyneempien ennustavaan mallinnukseen ja kysyntäperusteiseen tuotannon suunnitteluun kykenevien data-analytiikan ratkaisuiden kehittäminen on maatalousalalla vielä avoin haaste*
 
-analytiikan kehittämisen haasteena on järjestelmien itse tuottaman datan ja kolmansien osapuolien historia- ja ennustedatan yhdistäminen, tietopalveluiden käytettävyys, opittavuus ja ymmärrettävyys, räätälöitävyys ja yhteentoimivuus muiden toimijoiden kanssa
+*analytiikan kehittämisen haasteena on järjestelmien itse tuottaman datan ja kolmansien osapuolien historia- ja ennustedatan yhdistäminen, tietopalveluiden käytettävyys, opittavuus ja ymmärrettävyys, räätälöitävyys ja yhteentoimivuus muiden toimijoiden kanssa*
 
 tuotetun datan määrä voi myös osoittautua haastavaksi, tiedonsiirrolle ja kapasiteetille
 
-maatalouden tietojenkäsittelyn alustapalveluiden on vielä avoin haaste ja niiden kehitys on alkuvaiheessa, mutta useita ratkaisuita on jo tullut tai tulossa markkinoille
+*maatalouden tietojenkäsittelyn alustapalveluiden on vielä avoin haaste ja niiden kehitys on alkuvaiheessa, mutta useita ratkaisuita on jo tullut tai tulossa markkinoille*
 
-kokonaisvaltaisia maatilan tiedonhallintajärjestelmiä ollaan kehittämässä ja ne ovat selkeästi tulossa markkinoille, ne mahdollistaisivat maatilan eri tietojärjestelmien tuottaman tiedon integraation ja voisivat välittää tuotantodataa edelleen analysoitavaksi ja/tai tuotantoketjulle, viiden vuoden kuluttua ne voivat olla jo yleisessä käytössä 
+*kokonaisvaltaisia maatilan tiedonhallintajärjestelmiä ollaan kehittämässä ja ne ovat selkeästi tulossa markkinoille, ne mahdollistaisivat maatilan eri tietojärjestelmien tuottaman tiedon integraation ja voisivat välittää tuotantodataa edelleen analysoitavaksi ja/tai tuotantoketjulle, viiden vuoden kuluttua ne voivat olla jo yleisessä käytössä*
 
-tuotetun ja käsitellyn datan omistajuus, siirreltävyys järjestelmästä toiseen ja integraatio palveluiden välillä on vielä avoin haaste
+*tuotetun ja käsitellyn datan omistajuus, siirreltävyys järjestelmästä toiseen ja integraatio palveluiden välillä on vielä avoin haaste*
 
 viljelysuunnitteluohjelmistot toimivat vielä erillään ja haasteena on yhteisten rajapintojen kehitys
 
-suurta osaa datasta ei voi automaattisesti käyttää esimerkiksi kolmannen osapuolen analytiikkkapalvelussa
+*suurta osaa datasta ei voi automaattisesti käyttää esimerkiksi kolmannen osapuolen analytiikkkapalvelussa*
 
-maatalouden toiminnassa tuotetun tiedon vaihdanta, datan julkaisu ja jakaminen onnistuvat jo rajatussa määrin tietyissä palveluissa, mutta yleisessä käytössä näitä ei vielä suomen maatalouden käyttöympäristössä ole
+*maatalouden toiminnassa tuotetun tiedon vaihdanta, datan julkaisu ja jakaminen onnistuvat jo rajatussa määrin tietyissä palveluissa, mutta yleisessä käytössä näitä ei vielä suomen maatalouden käyttöympäristössä ole*
 
 ---
 
 laitteiden voimanlähteistä julkaisuissa useiten käsiteltyjä ovat aurinkokennojen ja akkujen erilaiset yhdistelmät, mutta toimilaitteiden tapauksissa useimmiten voimanlähteenä käytetään verkkovirtaa
 
-energiatehokkuus ja energiankulutuksen hallinta on AIoT -järjestelmien kehityksen keskeisiä haasteita, haasteena on useiden voimanlähteiden energiakeräimien sekä aikaisempaa energiatehokkaampien antureiden kehittäminen akuttomien WSN-ratkaisuiden mahdollistamiseksi
+*energiatehokkuus ja energiankulutuksen hallinta on AIoT -järjestelmien kehityksen keskeisiä haasteita,* haasteena on useiden voimanlähteiden energiakeräimien sekä aikaisempaa energiatehokkaampien antureiden kehittäminen akuttomien WSN-ratkaisuiden mahdollistamiseksi
 
 koskee erityisesti laitteita, jotka ovat tyypillisiä AIoT -ratkaisuille: jotka eivät ole yhteydessä sähköverkkoon, joita käytetään ulkona ja joita ei huolleta säännöllisesti
 
@@ -82,24 +83,24 @@ osassa julkaisuita on ehdotettu AIoT -laitteiden voimanlähteiksi aurinkokennoja
 
 ---
 
-lisäksi laitteiden fyysisen kestävyyden kehittäminen käyttöympäristöihin sopiviksi on usein haasteellista
+*lisäksi laitteiden fyysisen kestävyyden kehittäminen käyttöympäristöihin sopiviksi on usein haasteellista*
 
 ---
 
 
-yleensä AIoT -järjestelmissä monitoroidaan viljely-ympäristön muuttujia kuten ilman lämpötilaa, ilmankosteutta, maaperän kosteutta ja auringonsäteilyä, osassa käytetään myös toimilaitteita kuten kastelujärjestelmien venttiileitä tai logistiikkajärjestelmien laitteita
+*yleensä AIoT -järjestelmissä monitoroidaan viljely-ympäristön muuttujia kuten ilman lämpötilaa, ilmankosteutta, maaperän kosteutta ja auringonsäteilyä, osassa käytetään myös toimilaitteita kuten kastelujärjestelmien venttiileitä tai logistiikkajärjestelmien laitteita*
 
-peltotuotannossa  keskitytään yleensä ilmasto-olosuhteiden ja maaperän mittaamiseen, missä maanalaiset anturiverkot voivat tuottaa huomattavia etuja
+*peltotuotannossa  keskitytään yleensä ilmasto-olosuhteiden ja maaperän mittaamiseen, missä maanalaiset anturiverkot voivat tuottaa huomattavia etuja*
 
 anturiverkoilla voidaan monitoroida laajoja alueita, mutta niiden rakentaminen peltotuotannon toimintaympäristöön voi olla haasteellista
 
-ympäristön tarkkailu- ja mittausratkaisuihin on lisätty toiminnallisuuksia päätöksenteon ja hallinnoinnin tueksi, osassa on pyritty tuottamaan täysautomatisoitu kontrollointijärjestelmä, joissa kontrollikäskyt on tuotettu anturidatasta tehdyn analytiikan tulosten perusteella.
+*ympäristön tarkkailu- ja mittausratkaisuihin on lisätty toiminnallisuuksia päätöksenteon ja hallinnoinnin tueksi,* osassa on pyritty tuottamaan täysautomatisoitu kontrollointijärjestelmä, joissa kontrollikäskyt on tuotettu anturidatasta tehdyn analytiikan tulosten perusteella.
 
 komentoja lähetetään joko käyttäjän toimesta käyttöliittymän avulla tai analytiikkamodulien tukeman päätöksentekoalgoritmin tuloksena
 
 kontrollointijärjestelmät voivat auttaa viljelijöitä esimerkiksi optimoimaan kasteluveden käyttöä säätämällä kastelun ajastusta ja määrää kasvien todellisen tarpeen mukaiseksi
 
-useimmat kasvihuonejärjestelmiä käsittelevät julkaisut keskittyivät kasvihuoneen ilmaston ja kastelun tarkkailuun ja kontrollointiin
+*useimmat kasvihuonejärjestelmiä käsittelevät julkaisut keskittyivät kasvihuoneen ilmaston ja kastelun tarkkailuun ja kontrollointiin*
 
 puutarhatuotannon järjestelmistä julkaisut käsittelevät usein tuotteiden monitorointiin ja kontrollointiin, osassa käsitellään tuholaistorjuntaa ja aikaisien varoitusten järjestelmiä 
 
@@ -113,7 +114,7 @@ massadata
 
 ---
 
-tietoliikenneratkaisut ovat peltoviljelyn AIoT -ratkaisuissa yleensä langattomia verkkoja joista yleisimmin käytettyjä ovat yksityisiin langattomien verkkojen protokolliin perustuvat ratkaisut, osa matkapuhelinverkkoja käyttäviä, puutarha- ja erityisesti kasvihuonetuotannon ratkaisuissa on pitkään sovellettu tavallisia tai teollisuuden tietoliikenneratkaisuita
+*tietoliikenneratkaisut ovat peltoviljelyn AIoT -ratkaisuissa yleensä langattomia verkkoja joista yleisimmin käytettyjä ovat yksityisiin langattomien verkkojen protokolliin perustuvat ratkaisut, osa matkapuhelinverkkoja käyttäviä, puutarha- ja erityisesti kasvihuonetuotannon ratkaisuissa on pitkään sovellettu tavallisia tai teollisuuden tietoliikenneratkaisuita*
 
 väliohjelmistot mahdollistavat laitteiden ja tietojärjestelmien toiminnallisuuksien abstraktoinnin, jolloin sovelluksista voidaan kehittää useille erilaisille laitteille ja järjestelmille sopivia
 
@@ -121,18 +122,17 @@ radiolaitteiden koko, paino ja energiankulutus ovat pienentyneet ja hinta lasken
 
 langattoman tietoliikenteen haasteita asettaa käyttöympäristö
 
-Yksi keskeisiä AIoT:n kehityksen haasteita on vakaiden ja luotettavien langattomien yhteyksien kehittäminen alueille, joilla tietoliikenneyhteyhet ovat tällä hetkellä rajalliset
+*Yksi keskeisiä AIoT:n kehityksen haasteita on vakaiden ja luotettavien langattomien yhteyksien kehittäminen alueille, joilla tietoliikenneyhteyhet ovat tällä hetkellä rajalliset*
 
-erityisesti globaalin wifi- tai mobiiliverkon puuttuminen aiheuttaa ongelmia
+*erityisesti globaalin wifi- tai mobiiliverkon puuttuminen aiheuttaa ongelmia*
 
-Suuren mittakaavan AIoT -laitteiden käyttöönotot edellyttävät tietoliikenneverkkojen arkkitehtuurin uudistamista, jotta verkot voisivat sopeutua IoT -järjestelmien datan tuotannon muotoihin ja vaihtelevaan tietoliikennemäärään
+*Suuren mittakaavan AIoT -laitteiden käyttöönotot edellyttävät tietoliikenneverkkojen arkkitehtuurin uudistamista, jotta verkot voisivat sopeutua IoT -järjestelmien datan tuotannon muotoihin ja vaihtelevaan tietoliikennemäärään*
 
 ---
 
-täsmäviljelystä voidaan IoT -teknologioiden mahdollistamina siirtyä smart farmingiin, mutta esteinä ovat vaikeakäyttöisyys, hinta ja järjestelmien eristyneisyys
-- anturit eivät ole halventuneet -
+*täsmäviljelystä voidaan IoT -teknologioiden mahdollistamina siirtyä smart farmingiin, mutta esteinä ovat vaikeakäyttöisyys, hinta ja järjestelmien eristyneisyys - anturit eivät ole halventuneet -*
 
-maatilan koneet ovat liittymässä älylaitteiden verkoiksi, tulossa itsenäisemmiksi ensin operatiivisen automaation avulla (automaattiohjaus, ajo- ja tehtäväsuunnittelu) ja tulevaisuudessa liittyen ruokatuotannon ja tuotantoketjujen verkkoihin
+*maatilan koneet ovat liittymässä älylaitteiden verkoiksi, tulossa itsenäisemmiksi ensin operatiivisen automaation avulla (automaattiohjaus, ajo- ja tehtäväsuunnittelu) ja tulevaisuudessa liittyen ruokatuotannon ja tuotantoketjujen verkkoihin*
 
 koneiden telemetriatoiminnot ovat jatkuvasti laajentumassa ja yleistymässä, lisäävät työtehoa ennakoivan huollon ja diagnostiikan avulla, mahdollistavat analytiikan
 
@@ -146,11 +146,11 @@ kaupunkiviljelyä voidaan toteuttaa tehokkaammin ja tuoda tuotantoa lähemmäs k
 
 logistiikan tavoitteisiin kuuluivat muun muassa maataloustuotteiden arvon lisäys, jakelukustannuksien vähentäminen, kuljetustehokkuuden lisäys, tarpeettoman hävikin vähentäminen sekä jossakin määrin riskien välttäminen
 
-ruokaketjujen logistiikkaa voidaan seurata ja parantaa IoT -teknologioiden avulla, mahdollistaen etämonitoroinnin ja vapaamman tiedon jaon toimijoiden kesken sekä tiedon tuottamisen kuluttajille asti, ruokaketjun tullessa läpinäkyväksi ja luotettavammaksi, jäljitettävyyden ja seurattavuuden mahdollistuessa
+*ruokaketjujen logistiikkaa voidaan seurata ja parantaa IoT -teknologioiden avulla, mahdollistaen etämonitoroinnin ja vapaamman tiedon jaon toimijoiden kesken sekä tiedon tuottamisen kuluttajille asti, ruokaketjun tullessa läpinäkyväksi ja luotettavammaksi, jäljitettävyyden ja seurattavuuden mahdollistuessa*
 
-tuotantoketjua voitaisiin IoT -teknologioiden avulla tarkkailla pellosta pöytään asti
+*tuotantoketjua voitaisiin IoT -teknologioiden avulla tarkkailla pellosta pöytään asti*
 
-Tuotantoketjun kompleksisuus on aiheuttanut useita ongelmia laaduntarkkailussa, toiminnan tehokkuudessa ja ruoan turvallisuudessa.
+*Tuotantoketjun kompleksisuus on aiheuttanut useita ongelmia laaduntarkkailussa, toiminnan tehokkuudessa ja ruoan turvallisuudessa.*
 
 useissa julkaisuissa on keskitytty logistiikan järjestelmiin joko liiketoiminnan tai teknologian näkökulmasta ja vain muutamat pyrkivät yhdistämään nämä
 
@@ -162,29 +162,27 @@ useissa (14) julkaisuissa pyrittiin konkreettisen tuotantoketjun tarkkailujärje
 
 tuottajien ja kuluttajien välinen viestintä mahdollistuu, tuotanto voi muuttua kysyntävetoiseksi (smart farminging ja datavetoisuus, tuotantotiedon julkaisu/välitys)
 
-kasvuyrityksiä tullut perinteisten toimijoiden rinnalle - lyhyitä tuotantoketjuja (onko IT -startuppeja?)
+*kasvuyrityksiä tullut perinteisten toimijoiden rinnalle - lyhyitä tuotantoketjuja (onko IT -startuppeja?)*
 
-IoT -ratkaisut ovat vielä aikaisten omaksujien, ei keskivertoviljelijöiden käytössä
+*IoT -ratkaisut ovat vielä aikaisten omaksujien, ei keskivertoviljelijöiden käytössä*
 
 Tulisi kehittää yhteentoimivia, yksinkertaisia, kestäviä ja käytettäviä tuotteita jotka voidaan räätälöidä ja ottaa laajaan käyttöön, myös yhteentoimivuus vanhan infran kanssa sekä kestävyys tulevien ratkaisuiden kanssa
 
-laitteiden pitkät elinkaaret asettavat haasteita, voiko laitteen ostaa jos ei ole varmuutta taustalla toimivan palvelun toiminnasta esimerkiksi traktorin 30 vuoden käyttöiän ajan
+*laitteiden pitkät elinkaaret asettavat haasteita, voiko laitteen ostaa jos ei ole varmuutta taustalla toimivan palvelun toiminnasta esimerkiksi traktorin 30 vuoden käyttöiän ajan*
 
-Tarvitaan laajaa omaksuntaa, käytettävyyden parantamista ja hintojen halpenemista
-- C.C.n teollisuuden sensoripaketit -
+*Tarvitaan laajaa omaksuntaa, käytettävyyden parantamista ja hintojen halpenemista - C.C.n teollisuuden sensoripaketit -*
 
-IoT -ratkaisut ovat kypsymässä nopeasti
+*IoT -ratkaisut ovat kypsymässä nopeasti*
 
-Tarvitaan avoimia arkkitehtuureja, alustoja ja standardeja, infrastruktuuria
-- avoimet vs. suljetut "taistelu" -
+*Tarvitaan avoimia arkkitehtuureja, alustoja ja standardeja, infrastruktuuria - avoimet vs. suljetut "taistelu" -*
 
-tiedostonsiirtoon perustuvien arkkitehtuurien puutteita on pyritty korjaamaan siirtymällä soveltamaan palvelukeskeisiä arkkitehtuureja, jotka on usein jaoteltu palvelukeskeisen arkkitehtuurimallin mukaisesti kerroksittain yleensä alkaen fyysisestä kerroksesta päätyen sovelluskerrokseen
+*tiedostonsiirtoon perustuvien arkkitehtuurien puutteita on pyritty korjaamaan siirtymällä soveltamaan palvelukeskeisiä arkkitehtuureja, jotka on usein jaoteltu palvelukeskeisen arkkitehtuurimallin mukaisesti kerroksittain yleensä alkaen fyysisestä kerroksesta päätyen sovelluskerrokseen*
 
 Esineiden käsittely palveluina voi kuitenkin olla huomattava haaste IoT -arkkitehtuureille vaaditun laskentatehon ja hinnan asettamien rajoitusten takia
 
 Arkkitehtuurien tulee ottaa huomioon hyvin heterogeeniset tietoliikenneratkaisut, anturiteknologiat, käyttötapaukset, liiketoimintamallit jne. Arkkitehtuurien tulee voida sopeutua muutoksiin kaikilla tasoilla
 
-suljetut järjestelmät voivat aiheuttaa yhteen toimittajaan lukittumisia, jolloin tuotettua dataa ei aina voi hyödyntää
+*suljetut järjestelmät voivat aiheuttaa yhteen toimittajaan lukittumisia, jolloin tuotettua dataa ei aina voi hyödyntää*
 
 Sidosryhmät ovat liiketoiminnan mukana muuttumassa aikaisempaa verkostomaisemmiksi ja dynaamisemmiksi
 
@@ -192,29 +190,29 @@ liiketoimintamalleja tulee kehittää sopiviksi muuttuvaan toimintaympäristöö
 
 Sidosryhmien tietojen turvallisuus, autenttisuus, luottamuksellisuus ja yksityisyyden suoja tulisi varmistaa siirryttäessä perinteisistä toimintamalleista IoT -sovellusten käyttöön. IoT -järjestelmät voivat helposti altistua hyökkäyksille
 
-Maatalouden IoT -sovelluksissa on selkeä tarve ratkaisuille, jotka huomioivat sekä kokonaisvaltaisen tietoturvan (väliohjelmistot, sovellukset, pilvipalvelut, että kentällä käytettävien laitteiden fyysisen turvallisuuden ja eheyden
+*Maatalouden IoT -sovelluksissa on selkeä tarve ratkaisuille, jotka huomioivat sekä kokonaisvaltaisen tietoturvan (väliohjelmistot, sovellukset, pilvipalvelut, että kentällä käytettävien laitteiden fyysisen turvallisuuden ja eheyden*
 
 Laitteiden fyysinen tietoturva on tärkeä maatalouden toimintaympäristössä, samoin kuin väliohjelmistojen
 
-Tietoturva on otettu huomioon vaihtelevasti
+*Tietoturva on otettu huomioon vaihtelevasti*
 
-Tietoturva ja laitteistojärjestelmien kyberturvallisuus tulee olemaan maatiloilla kasvava ongelma. 
+*Tietoturva ja laitteistojärjestelmien kyberturvallisuus tulee olemaan maatiloilla kasvava ongelma.* 
 
-AIoT -teknologioiden tulisi vielä selkeästi näyttää toteen hyödyllisyytensä
+*AIoT -teknologioiden tulisi vielä selkeästi näyttää toteen hyödyllisyytensä*
 
 maanviljelyn prosessit tulisi saada myös peltotuotannossa haltuun samalla tarkkuudella kuin teollisessa tuotannossa, jolloin tuotantopanoksia voidaan säätää paremmin
 
 prosessihallinnalla voitaisiin saada haltuun myös maatalouden sivuvirtojen hallintaa
 
-tuotantotapatiedon välittämisellä kuluttajalle voitaisiin osoittaa mitattuun tietoon perustuen tuotteen ominaisuudet ja käsittely
+*tuotantotapatiedon välittämisellä kuluttajalle voitaisiin osoittaa mitattuun tietoon perustuen tuotteen ominaisuudet ja käsittely*
 
 *on meneillään teknologia-aalto, jossa parhaiten sopivia ratkaisuita ollaan vasta hakemassa*
 
-*IoT on voimakkaasti tulossa maatalouteen,* missä se tulee toimimaan automaation taustalla
+*IoT on voimakkaasti tulossa maatalouteen, missä se tulee toimimaan automaation taustalla*
 
 automaation avulla yksi tila voisi hoitaa aikaisempaa suurempaa peltoalaa
 
-tehokkuutta tulee nostaa Suomen maataloudessa jotta pysyttäisiin muun maailman tahdissa mukana
+*tehokkuutta tulee nostaa Suomen maataloudessa jotta pysyttäisiin muun maailman tahdissa mukana*
 
 analytiikan avulla voitaisiin vaikuttaa automaattisesti viljely-ympäristöön, keinoälyn muodostaessa automaattisesti toimenpiteitä tai antaa valmiita suosituksia viljelijälle
 
