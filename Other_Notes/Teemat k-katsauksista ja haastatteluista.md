@@ -1,32 +1,30 @@
 
-# Affiniteettianalyysin teemat
+# Haastatteluteemat
 
 ## Haastattelujen teemat luonnoksessa
 
-Otsikon alla on merkitty lähteinä toimivien haastattelujen numerot.
-
-<28-06-2018  14:41>
-
 ### AIoTn tilanne yleensä
-1 2 3 4 5
-...
+Käsitelty haastatteluissa 1 2 3 4 5
+
 #### Digitalisaatioharppauksen alku
-1 2 5
+Käsitelty haastatteluissa 1 2 5
 **Käyttöönoton perusteet ja lähtötilanne**
 **Ensimmäiset AIoT-ratkaisut**
 **Viljelijän työnkuvan muutos**
+
 #### AIoT-teknologioiden omaksumisen tilanne Suomessa
-2 3 
-...
+Käsitelty haastatteluissa 2 3 
+
 ### Laitevalmistajien yhteistyö
-1 4 5
+Käsitelty haastatteluissa 1 4 5
 **Yhteiset standardit**
 **Standardien kehittäminen**
 **Standardien edut laitevalmistajille**
 **Standardien edut viljelijöille**
 **Uusien standardien tutkimus**
+
 ### Kokonaisvaltainen maatilanhallintajärjestelmä (FMS)
-1 2 3 5
+Käsitelty haastatteluissa 1 2 3 5
 **Datan saatavuuden ja käsittelyn haasteita**
 **Maatilan kokonaiskuvan muodostaminen hajanaisista tietolähteistä**
 **Kokonaisvaltaisen maatilanhallintajärjestelmän kehityksen tilanne**
@@ -34,28 +32,33 @@ Otsikon alla on merkitty lähteinä toimivien haastattelujen numerot.
 **jatkuu: Kokonaisvaltaisen maatilanhallintajärjestelmän kehityksen tilanne**
 **Dataintegraation kehityksen tilanne**
 **jatkuu: Kokonaisvaltaisen maatilanhallintajärjestelmän kehityksen tilanne**
+
 ## Datan käsittely
-3
+Käsitelty haastattelussa 3
 **Kuvantamistiedon analyysin vaatimukset**
+
 ### Datan liikkuminen tuotantoketjussa
-1 3 4
+Käsitelty haastatteluissa 1 3 4
 **Viljelyprosessin tuotantotapatieto**
 **Tuotantotapatieto tuotantoketjussa**
 **Pienten arvoeriee verkostoitu markkina**
 **Suorat keskusteluyhteydet kuluttajien ja tuottajien välillä**
 **Kuluttajien haasteet tuotantoketjun tietojen ymmärtämisessä**
 **Tuotantoketjun tietojen kuluttajille tuottamisen tarkoituksenmukaisuus ja mahdolliset käyttötavat**
+
 ### Datan jakaminen ja julkaisu
-2 3 4
+Käsitelty haastatteluissa 2 3 4
 **Datan vertailu- ja markkina-alustat**
 **Datan markkinoiden käytännön rajoituksia**
 **Laatusertifikaattien toiminnan parantaminen datalähtöisyydellä**
+
 ### Datan omistajuus
-2 4 5 
+Käsitelty haastatteluissa 2 4 5 
 **Datan omistajuuskysymys siirryttäessä pilvipalveluihin**
 **Valmistajan oman käyttöliittymän edut**
+
 ## AIoTn vaikutukset
-1 2 4 5
+Käsitelty haastatteluissa 1 2 4 5
 **Seuraavat kehitysaskeleet ja uudet toimintatavat**
 **Kasvitehtaiden käyttötapauksia**
 **AIoT-teknologiat päätöksenteon apuna**
@@ -65,15 +68,19 @@ Otsikon alla on merkitty lähteinä toimivien haastattelujen numerot.
 **Päätöksenteon parantaminen data-analytiikan avulla & urakointi ohjaustiedostojen avulla**
 **AIoT-teknologioiden käyttöönoton kannattavuuskysymys käytännössä**
 **AIoT-teknologioiden mahdollisuudet**
+
 ## Ruokaturva
-1 2 3 5
+Käsitelty haastatteluissa 1 2 3 5
 **AIoT-teknologioiden mahdollisuudet ruokaturvan parantamisessa**
 **Ruokaturvan parannuskohteet ja valvonnan tarve**
 **Ruokaturvan varmistaminen tuotannon kannattavuudella**
+
 ## AIoTn haasteet
+
 ### Tietoliikenteen ja tietoturvan haasteet
-1 3 4 5
+Käsitelty haastatteluissa 1 3 4 5
 **Syrjäseutujen verkkojen nopeus ja luotettavuus; maatalouden tuottaman datan määrän kasvu; UA-laitteet**
+
 ### Elinkaarihaasteet
 ...
 ### integraatio- ja alustahaasteet

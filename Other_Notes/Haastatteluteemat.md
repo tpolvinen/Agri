@@ -1,16 +1,15 @@
 
-# Haastattelukysymykset:
+# Haastatteluteemat
 
 
-# Interview1
+## Haastattelu1
 
 Yleiskuva
 Onko eläintuotantoa vastaavaa automaation tilannetta kasvintuotannossa
 Oman datan saatavuus omaan käyttöön
 Laitteistohankintojen investoinnin saatavuus takaisin, vuosissa
 Kuinka laajassa käytössä ovat järjestelmät, joilla voidaan tuottaa urakoitsijalle työtiedostot ja voiko valita järjestelmän luottaen yhteensopivuuteen
-Tuotantodatan välittäminen kuluttajalle
-	Onko datavirtoja käsitteleviä ja tietoa jakavia järjestelmiä olemassa, mikä on kehityksen tila
+Tuotantodatan välittäminen kuluttajalle - Onko datavirtoja käsitteleviä ja tietoa jakavia järjestelmiä olemassa, mikä on kehityksen tila
 Laitevalmistajien yhteistyötä vai kilpailua
 Siirtyminen laitteen ominaisuuksista datan ominaisuuksiin
 Onko dataa yhteisöllisesti jakavia järjestelmiä
@@ -25,61 +24,51 @@ Tietoturva
 Mikä on tavoitetila
 Voiko teknologioilla korvata katoavaa hiljaista tietoa ja taitoja
 Viljelijöiden motiivit käyttöönottoon
-kasvihuonetuotannon ja peltotuotannon erot, isot kasvitehtaat vs. pienviljelijöiden tilat
+Kasvihuonetuotannon ja peltotuotannon erot, isot kasvitehtaat vs. pienviljelijöiden tilat
 Ei salaatilla maailmaa ruokita
 Perustuvatko telemetriaratkaisut matkapuhelinverkkoihin vai muihin tekniikoihin
 Verkot eivät ilmeisesti kanna droonien kuvantamisdatan määriä
 Tulevaisuuskuva, automatisoitu maaseutu
 Suora yhteys viljelijöiden ja kuluttajien vällle
 Tuotantodatan välittäminen kuluttajalle
-Dataan perustuvan hinnoittelun mahdollistaminen IoT-teknologioilla
-	Voisiko tämä uudistaa ruokatuotantoa
-Ruokaturvan parantaminen
-	väestönkasvu ja ilmastonmuutos, ympäristön muutokset
+Dataan perustuvan hinnoittelun mahdollistaminen IoT-teknologioilla - Voisiko tämä uudistaa ruokatuotantoa
+Ruokaturvan parantaminen - Väestönkasvu ja ilmastonmuutos, ympäristön muutokset
 
 
-# Interview2
+## Haastattelu2
 
-IoT-ratkaisuilla työmäärää vähäisemmäksi
-	ehdotuksia viljelytoimepiteiksi
+IoT-ratkaisuilla työmäärää vähäisemmäksi - järjestelmiltä ehdotuksia viljelytoimepiteiksi
 Yleiskuva (per kasvintuotanto)
-Järjestelmäintegraatio, rajapinnat, datan standardit vaiheessa
-	Yhten toimivien järjestelmien käyttöönoton aikajänne
-	Jos tietoliikenne saadaan, toimiiko
-Datan omistajuus, millaiset kokemukset/tiedot
-	Onko vielä tapauksia datan liikuttelun tarpeesta käyttäjiltä
-	Entä muilta toimijoilta
+Järjestelmäintegraatio, rajapinnat, datan standardit vaiheessa -Yhteen toimivien järjestelmien käyttöönoton aikajänne; jos tietoliikenneverkot saadaan kuntoon, toimiiko
+Datan omistajuus, millaiset kokemukset/tiedot - Onko vielä tapauksia datan liikuttelun tarpeesta käyttäjiltä tai muilta toimijoilta
 IoT-ratkaisuiden käyttöönoton esteet, uhat, heikkoudet
 Saadaanko pellolta kunnollista dataa
 Mihin viljelijälle annettavat suositukset perustuvat, voiko valita eri tutkimuksiin perustuvia suosituksia
 Riskit suositusten vääriymmärryksestä, toimiiko systeemi
 Miksi osa viljelijöistä ei ota käyttöön vaikka olisi saatavilla selkeä etu
-	Voiko tehdä leap-frog -tapauksen, hypätä uusimpaan kehitysvaiheeseen
-	Käytetäänkö harkintaa millainen askel otetaan
+Voiko viljelijä toteuttaa leap-frog -tapauksen, hypätä uusimpaan kehitysvaiheeseen aikaisemman kehitysvaiheen yli; käytetäänkö harkintaa millainen askel otetaan
 Teknologian tason vaihtelut
-Ei käyttöönottoa, vaikka selkeä sadonlisä, millainen saavutettava etu Suomessa
-	Sadonlisän saavutuksen mahdollisuus
+Ei käyttöönottoa, vaikka tarjolla on selkeä sadonlisä, millainen saavutettava etu on Suomessa - Millainen sadonlisän saavutuksen mahdollisuus todellisuudessa on
 Tilamäärän ja koon muutoksen tuoma muutos toiminnassa ja IoT-ratkaisujen käyttöönoton lisääntyminen
-Millainen tavoitetila maatalouden digitalisaatiolla
+Millainen tavoitetila maatalouden digitalisaatiolla on
 Tuotantodatan välittäminen kuluttajalle
 Millaisia datan keruun tai tuotannon metodeja on N-sensorin lisäksi
-Onko teillä järjestelmää, joka kerää dataa erilaisista datalähteistä yhteen
+Onko teillä järjestelmää, joka keräisi dataa erilaisista datalähteistä yhteen
 Ruokaturvan parantaminen
 Ilmastonmuutos ja väestönkasvu
 Teknologiaomaksumisen matalan asteen ihmettelyä
-Yleiskuva Suomessa vs pohjoismaat, EU, USA
+Yleiskuva Suomessa verrattuna pohjoismaihin, EU:hun ja USA:aan
 Täsmäviljelyn kannattavuusasenne
-Urakoitsijalle työtiedostot
+Urakoitsijalle annettavat työtiedostot
 Millainen kilpailutilanne on ylipäätään
 Voivatko eri valmistajien laitteet toimia täydentäen toisiaan
 Ihmisen osallistumisen tarve mittaustulosten analysointiin ja päätöksentekoon
-Onko järjestelmiä datasettien jakoon ja vertailuun
-	Edetäänkö pienin askelin
+Onko järjestelmiä datasettien jakoon ja vertailuun - Edetäänkö käyttöönotossa pienin askelin
 Avointen standardien käyttöönoton tilanne, valmistajien asennemuutos
 Tulevaisuudenkuva
 
 
-# Interview3
+## Haastattelu3
 
 Yleiskuva
 Järjestelmäintegraatio
@@ -112,49 +101,42 @@ Laitevalmistajien välinen yhteistyö
 Laitevalmistajien sitoutuneisuus/investoinnit
 
 
-# Interview4
+## Haastattelu4
 
 Yleiskuva
-	IoT-ratkaisujen yksittäisyys, alkeellisuus, epä-IoT-maisuus
+IoT-ratkaisujen yksittäisyys, alkeellisuus, epä-IoT-maisuus
 Kehityksen tilanne
-Datan siirto FMSiin, vain full-liner -kö
+Datan siirto FMSiin, toimiiko vain full-liner -ratkaisuissa
 Laitevalmistajien välinen yhteistyö
 IoT-ratkaisujen edut, kannattavuus
 Datan omistajuus
 Datan siirto, tietoliikenneongelmat
 Droonikuvantamisen haasteet, käytettävyys, vertailukelpoisuus
 Viljelijän oma datasetti vertailtavaksi, jakoon
-Tuotantodatan välittäminen kuluttajalle
-	Laatusertifikaattien valvonta
+Tuotantodatan välittäminen kuluttajalle ja laatusertifikaattien valvonta
 Erillisten arvoerien tuottaminen
 Näkyvimmät IoT-ratkaisut (sinulle)
-Kasvihuone- ja kerrosviljelyratkaisut
-	Erikoiskasvit, erikoiskäyttötarkoitukset
-	Miten lisäarvoa kasvihuonetuotantoon IoTilla
-Tulevaisuudenkuva, millä aikavälillä
+Kasvihuone- ja kerrosviljelyratkaisut - erikoiskasvit, erikoiskäyttötarkoitukset ja miten lisäarvoa voisi tuottaa kasvihuonetuotantoon IoT-ratkaisuilla
+Tulevaisuudenkuva - ja millä aikavälillä
 Millaista tutkimusta tehdään
-AIoT-uhkat, vaikeudet tietoturvan lisäksi
+AIoT-uhkat, haasteet ja vaikeudet - tietoturvan lisäksi
 Tuleeko uusia toimintatapoja, liiketoimintamalleja
-Urbaani viljely
-	Kannattavuus
+Urbaani viljely ja sen kannattavuus
 
 
-# Interview5
+# Haastattelu5
 
 Yleiskuva
 Millaisella aikavälillä tavoitetilaan, aikajanan hahmotusta
-Toiminnan ohjausjärjestelmä, onko sellaista, FMS-AI päätöksenteon apuna
+Toiminnan ohjausjärjestelmä - onko sellaisia käytössä, onko olemassa AI-vetoista viljelynsuunnittelujärjestelmä päätöksenteon apuna
 Datan omistajuus, datan liikuteltavuus, rajapinnat, yleisjärjestelmä
-Datan keskinäinen vertailu, tuotantodatan jako ja järjestelmät
-	Aikaväli toteutumiselle
-	Käyttöönoton laajuus per Suomi, pohjoismaat, EU
+Datan keskinäinen vertailu, tuotantodatan jako ja järjestelmät - aikaväli toteutumiselle ja käyttöönoton laajuus per Suomi, pohjoismaat, EU
 Täsmäviljelyn kannattavuus, työtiedostojen välittäminen urakoitsijalle ja työnseuranta
 Laitevalmistajien välinen yhteistyö
 Tuotantodatan välittäminen kuluttajalle, koko ruokaketjulle/arvoketjulle -toteutus, visioita
-IoT-vaikeudet, haasteet, uhat, edut, swot
+IoT-vaikeudet, haasteet, uhat, edut
 Kehityksen esteet
 Vaikutukset ruokaturvaan, ilmastonmuutos, väkiluvun kasvu
 Oma näkemys, mikä tärkeintä
-Koneoppivien järjestelmien käyttö
-	Kasvihuoneessa vs pellolla
-Useista datalähteistä kokoava järjestelmä
+Koneoppivien järjestelmien käyttö yleensä, kasvihuoneissa, pelloilla
+Useista datalähteistä tietoa kokoava järjestelmä

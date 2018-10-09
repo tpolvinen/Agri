@@ -276,7 +276,7 @@ Haastateltaviksi valittiin AIoT:hen perehtyneitä asiantuntijoita, jotka tulivat
 
 #### Teemahaastatteluiden toteutus
 
-Haastattelujen teemat laadittiin alustavilla hauilla kerätyn aineiston ja alustavien keskustelujen perusteella. Poiketen yleisistä teemahaastattelujen menetelmäohjeista haastatteluiden teemoja voitiin muutettaa tarvittaessa ennen haastatteluja harkinnanvaraisesti, mutta pitäen huolta kaikkien teemojen käsittelystä kaikissa haastatteluissa. Perusteena tälle on se, että tämän työn asiantuntijahaastatteluissa ei ollut tarpeellista tutkia haastateltavien reaktioita tietyssä järjestyksessä esille otettuihin teemoihin. Tarvittaessa teemojen hienosäätöä tehtiin kunkin haastateltavan asiantuntijan erikoistumisen mukaan, ottaen huomioon aikaisemmista haastatteluista saadut kokemukset ja taustatyöstä saadut tiedot. Haastattelun teemoja järjesteltiin uudelleen myös haastattelutilanteen niin vaatiessa, myötäillen haastattelun kulkua mutta varmistamalla kaikkien suunniteltujen teemojen käsittelyn.
+Haastattelujen teemat laadittiin alustavilla hauilla kerätyn aineiston ja alustavien keskustelujen perusteella. Poiketen yleisistä teemahaastattelujen menetelmäohjeista haastatteluiden teemoja voitiin muutettaa tarvittaessa ennen haastatteluja harkinnanvaraisesti, mutta pitäen huolta kaikkien teemojen käsittelystä kaikissa haastatteluissa. Perusteena tälle on se, että tämän työn asiantuntijahaastatteluissa ei ollut tarpeellista tutkia haastateltavien reaktioita tietyssä järjestyksessä esille otettuihin teemoihin. Tarvittaessa teemojen hienosäätöä tehtiin kunkin haastateltavan asiantuntijan erikoistumisen mukaan, ottaen huomioon aikaisemmista haastatteluista saadut kokemukset ja taustatyöstä saadut tiedot (ks. liite Haastatteluteemat). Haastattelun teemoja järjesteltiin uudelleen myös haastattelutilanteen niin vaatiessa, myötäillen haastattelun kulkua mutta varmistamalla kaikkien suunniteltujen teemojen käsittelyn.
 
 Haastattelut toteutettiin 8.11.2017 - 11.4.2018 välisenä aikana. Haastateltavat saivat itse valita haastattelulle sopivan paikan ja ajankohdan, mitkä olivat kolmessa tapauksessa työaikaan arkipäivisin haastateltavien työpaikoilla. Yksi haastattelu tehtiin haastateltavan maatilalla ja yksi puhelimitse. Kaikki haastattelut äänitettiin haastateltavien suostumuksella ja äänitteistä kirjoitettiin litteroinnit. Haastattelujen litteroinnissa käytettiin yleiskielistä litterointia. Yleiskielistä litterointia tarkempaa sanatarkkaa litterointia käytettiin tarvittaessa, jos yleiskielisen litteroinnin arvioitiin mahdollisesti muuttavan haastateltavan sanojen tarkoitusta.
 
@@ -307,7 +307,7 @@ Analyysillä pyritään vastaamaan tutkimuskysymyksiin havainnoimalla tutkimusky
 
 ###### Haastatteluaineiston koodaus ja koodien kategorisointi
 
-Haastattelujen litteroinneista kirjoitettujen yleiskielisten tekstien segmentit numeroitiin haastattelun numeron ja juoksevan numeroinnin yhdistelmällä. Numeroinnin jälkeen aineistot luettiin huolellisesti ja koodit muodostettiin etsimällä aineistosta merkitykselliset ilmaisut. Ilmaisut pelkistettiin eli koodattiin, koodit taulukoitiin ja koodeille merkittiin ilmaisujen esiintymiskohta segmentin numerolla. Segmentissä havaittavien koodien määrälle ei asetettu rajoituksia ja usein kustakin segmentistä tehtiin useita havaintoja eri koodeille. Segmenttien pituus ja asiasisällöt vaihtelivat huomattavasti ja osittain tämän takia havainnot eivät välttämättä ole keskenään täysin vertailukelpoisia. Lisäksi tulee huomioida, että havainoille ei merkitty painotuksia. Tämä on pyritty ottamaan huomioon koodien ja kategorioiden laadinnassa, mutta tuloksia ei voi loppujen lopuksi pitää kovin eksakteina vaan enemmänkin suuntaa antavina ja tulkinnanvaraisina. Tämän takia havaintoja pyritään käsittelemään suuntauksia ja trendejä peilaavina.
+Haastattelujen litteroinneista (ks. liitteet Haastattelu1-litterointi, Haastattelu2-litterointi, Haastattelu3-litterointi, Haastattelu4-litterointi, Haastattelu5-litterointi) kirjoitettujen yleiskielisten tekstien (ks. liitteet Haastattelu1-teksti, Haastattelu2-teksti, Haastattelu3-teksti, Haastattelu4-teksti, Haastattelu5-teksti) segmentit numeroitiin haastattelun numeron ja juoksevan numeroinnin yhdistelmällä. Numeroinnin jälkeen aineistot luettiin huolellisesti ja koodit muodostettiin etsimällä aineistosta merkitykselliset ilmaisut. Ilmaisut pelkistettiin eli koodattiin, koodit taulukoitiin ja koodeille merkittiin ilmaisujen esiintymiskohta segmentin numerolla. Segmentissä havaittavien koodien määrälle ei asetettu rajoituksia ja usein kustakin segmentistä tehtiin useita havaintoja eri koodeille. Segmenttien pituus ja asiasisällöt vaihtelivat huomattavasti ja osittain tämän takia havainnot eivät välttämättä ole keskenään täysin vertailukelpoisia. Lisäksi tulee huomioida, että havainoille ei merkitty painotuksia. Tämä on pyritty ottamaan huomioon koodien ja kategorioiden laadinnassa, mutta tuloksia ei voi loppujen lopuksi pitää kovin eksakteina vaan enemmänkin suuntaa antavina ja tulkinnanvaraisina. Tämän takia havaintoja pyritään käsittelemään suuntauksia ja trendejä peilaavina.
 
 Osa koodeista oli yleisiä, osa taas samaa asiasisältöä tietystä näkökulmasta tai kontekstissa käsitteleviä. Samasta segmentistä voitiin tehdä havaintoja sekä tiettyä asiasisältöä käsittelevälle yleisluontoiselle koodille että samaa asiasisältöä tarkemmin rajatusti käsittelevälle koodille. Työn edetessä koodeja muokattiin jatkuvan vertailun metodin mukaisesti: koodeja vertailtiin keskenään, haastatteluaineistoa luettiin uudestaan eri näkökulmista ja koodeja muokattiin jatkuvasti tarkoituksenmukaisemmiksi. Ensimmäisen läpikäynnin tuloksena saatiin 159 koodia ja toisella läpikäynnillä koodien määrä nousi 180:een. Toisen läpikäynnin aikana ja sen jälkeen koodeja luokiteltiin ensin alikategorioihin ja myöhemmin kategorioihin. Samoin kuin ensimmäisellä läpikäynnillä koodeja, alikategorioita ja kategorioita vertailtiin ja muokattiin jatkuvasti. Jatkuvalla vertailulla pyrittiin myös varmistamaan sekä teemojen oikeellisuus että havaintojen esiintymisten kirjaus. Tuloksena kategorioiksi muodostuivat Maataloustuotanto, Tekniikka ja Toimintaympäristö. Näiden alla on 33 alikategoriaa, joihin koodit on luokiteltu.
 
@@ -1074,5 +1074,17 @@ Lopulta merkitsevimmän kehitysaskeleen ottavat viljelijät, jotka omaksuvat kä
 
 Liite 1: R heatmap.2
 Liite 2: Havaintojen määrien jakautuminen haastatteluissa kategorioittain
+*...*
+Haastatteluteemat
+Haastattelu1-litterointi LUOTTAMUKSELLINEN
+Haastattelu2-litterointi LUOTTAMUKSELLINEN
+Haastattelu3-litterointi LUOTTAMUKSELLINEN
+Haastattelu4-litterointi LUOTTAMUKSELLINEN
+Haastattelu5-litterointi LUOTTAMUKSELLINEN
+Haastattelu1-teksti LUOTTAMUKSELLINEN
+Haastattelu2-teksti LUOTTAMUKSELLINEN
+Haastattelu3-teksti LUOTTAMUKSELLINEN
+Haastattelu4-teksti LUOTTAMUKSELLINEN
+Haastattelu5-teksti LUOTTAMUKSELLINEN
 
 # LÄHTEET
