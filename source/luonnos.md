@@ -94,12 +94,12 @@ Opinnäytetyön laajuuden rajallisuuden vuoksi aihealueeksi on rajattu kasvituot
 
 ## Tutkimuksen tarkoitus
 
-Opinnäytetyön tarkoituksena on tuottaa lukijalle yleiskuva kasvintuotannossa sovellettavien IoT-ratkaisuiden tilanteesta ja niiden tarjoamista mahdollisuuksista. Tietoa saadaan *tähän keskeiset asiakokonaisuudet, avoimet haasteet jne.* 
+Opinnäytetyön tarkoituksena on tuottaa kartoittava katsaus [ks. @hirsjarviTutkiJaKirjoita2009, 134-135] kasvintuotannossa sovellettavien IoT-ratkaisuiden tilanteesta ja niiden tarjoamista mahdollisuuksista. Tietoa saadaan *tähän keskeiset asiakokonaisuudet, avoimet haasteet jne.* 
 
 
 ## Tutkimuksen tavoitteet
 
-Opinnäytetyön tavoitteena on tuottaa ajankohtainen yleiskuva kasvintuotannossa käytettäviin esineiden internetin (Internet of Things, IoT) teknologiasovelluksiin ja niiden tutkimukseen. Lisäksi opinnäytetyö voi toimia lähtökohtana lukijan omalle tiedonhaulle aiheeseen tarkemmin tutustuttaessa.
+Opinnäytetyön tavoitteena on tuottaa lukijalle ajankohtainen yleiskuva kasvintuotannossa käytettäviin esineiden internetin (Internet of Things, IoT) teknologiasovelluksiin ja niiden tutkimukseen. Lisäksi opinnäytetyö voi toimia lähtökohtana lukijan omalle tiedonhaulle aiheeseen tarkemmin tutustuttaessa.
 
 
 ## Tutkimuskysymykset
@@ -180,25 +180,25 @@ Teoriaohjaavassa analyysissä puolestaan teoriaa voidaan käyttää analyysin ap
 Aineiston pelkistämisen analyysimallissa edetään tunnistamalla asiat, joista tutkimuksessa ollaan kiinnostuneita ja pelkistetään näitä asioita ilmaisevia lauseita yksittäisiksi ilmaisuiksi (redusointi). Seuraavaksi samaa kuvaavat ilmaisut luokitellaan samaan alaluokkaan (klusterointi) ja luokka nimetään sen sisältöä kuvaavasti. Tutkijan tulkinnasta riippuu, millä perusteella ilmaisut kuuluvat samaan luokkaan. Analyysiä jatketaan luokittelemalla samansisältöisiä alaluokkia yläluokkiin, jotka nimetään sisältöä kuvaavasti samoin kuin alaluokat. Aineistosta riippuen voidaan yläluokkia vielä luokitella pääluokkiin (abstrahointi). Lopulta kaikki luokat yhdistetään niitä kuvaavaan luokkaan ja luokkien avulla vastataan tutkimustehtävään. Kaikkiaan siis käsitteitä yhdistämällä voidaan saada vastaus tutkimustehtävään ja analyysimallin avulla pyritään tulkintaprosessin systematisointiin sekä tulkinnan mielivaltaisuuden välttämiseen. [@tuomiLaadullinenTutkimusJa2018, 114-116]
 
 
-## Aineisto ja tutkimusmenetelmät
+# AINEISTO JA TUTKIMUSMENETELMÄT
 
 Tässä osiossa kuvaillaan aineiston hankinnassa ja tutkimuksessa käytetyt menetelmät. Kuvailevasta kirjallisuuskatsauksesta kuvaillaan lyhyesti sen alustava työvaihe ja toteutus, aineiston haku ja haussa käytettyjen asiasanojen valintaperusteet. Asiantuntijoiden teemahaastatteluista kuvaillaan lyhyesti miten teemahaastattelun yleisiä käytänteitä on sovellettu, haastateltavien valinnan perusteet, Haastattelujen toteutus järjestelyineen, haastatteluaineiston analyysimenetelmä ja johtopäätösten perustelut.
 
-### Kuvaileva kirjallisuuskatsaus
+## Kirjallisuuskatsauksen alustava vaihe
 
 Kirjallisuuskatsauksen aineiston keruumenetelmiä oli useita. Kirjallisuuskatsauksen tekemistä edelsi tutkittavaan ilmiöön tutustuminen alustavien aineistohakujen avulla, keräämällä mahdollisten tiedonantajien kontakteja, käyden asiantuntijakeskusteluja, vierailemalla alan tapahtumissa ja haastatteluja tehden. Kirjallisuuskatsauksen aluksi haettiin IoT:tä yleistasolla ja ilmiönä käsittelevää kirjallisuutta. Seuraavaksi haettiin kasvintuotannon ja maatalouden IoT-sovelluksia käsitteleviä kirjallisuuskatsauksia. Valittujen kirjallisuuskatsausten pohjalta muotoiltiin hakumenetelmät ja valittiin osa lähteistä. Hakujen tuloksista on valittu tekijän harkinnan mukaan tutkittavaa ilmiötä parhaiten kuvaavat ja työhön sopivat lähteet. 
 
 Tutkimuksen alustavassa vaiheessa ilmiöön tutustuttaessa tehtiin useita hakuja aiheeseen liittyvillä asiasanoilla, selattiin erilaisten organisaatioiden ja julkaisujen verkkosivuja, haettiin asiantuntijakontakteja eri tapahtumista jne. Löydöt merkittiin muistiin mahdollista myöhempää käyttöä varten. Alustavassa vaiheessa löydettyjä aineistoja on käytetty myös kirjallisuuskatsausksessa jos ne ovat tekijän harkinnan mukaan olleet tähdellisiä aiheen käsittelylle ja ymmärryksen luomiselle.
 
 
-#### Kuvailevan kirjallisuuskatsausksen toteutus
+### Kuvailevan kirjallisuuskatsausksen toteutus
 
 Alustavien hakujen avulla löydetyistä julkaisuista valittiin harkinnanvaraisesti joukko keskeisimpiä asiasanoja. Nämä asiasanat yhdistettiin löydettyjen kirjallisuuskatsausten hakulauseissa käytettyihin tutkimusaiheelle keskeisiin asiasanoihin. Tutkimus- ja hakumenetelmien malleina käytettiin löydettyjen keskeisten kirjallisuuskatsausten menetelmiä. Kirjallisuuskatsausten ja alustavien hakujen tulosten perusteella vuosi 2010 asetettiin aikaisimmaksi julkaisuvuodeksi, koska sitä ennen aiheesta julkaistua kirjallisuutta on löytynyt verrattaen vähän ja nopean teknologiakehityksen myötä aikaisemmat julkaisut ovat todennäköisesti vanhentuneet.
 
 Eri tietokantoihin tehdyissä hauissa käytettiin kunkin kannan hakutoimintoihin sovellettuja hakulauseita. Usein tämä tarkoitti hakulauseiden lyhentämistä tietokantojen hakutoimintojen sallimiin hakusanamääriin sopiviksi. Hakujen tuloksena saatiin joukko erilaisia julkaisuja, joiden joukosta valittiin aihetta käsittelevät kirjallisuuskatsaukset. Samoin kuin alustavien hakujen vaiheessa, kirjallisuuskatsauksista käytiin läpi tuloksien lisäksi tutkimusmenetelmät. Näitä menetelmiä käytettiin hyväksi soveltuvin osin seuraavissa aineistohaun vaiheissa. Tällä pyrittiin varmistamaan, että katsauksissa selkeästi havaitut asiakokonaisuudet tulevat huomioiduksi, hakumenetelmät ja asiasanat ovat laadukkaita sekä tutkittavalle ilmiölle sopivia.
 
 
-##### Kirjallisuuskatsauksen aineistojen haku
+#### Kirjallisuuskatsauksen aineistojen haku
 
 Alustavia aineistohakuja tehtiin hakukoneista Google-haulla (https://google.com) ja Google Scholar -haulla (https://scholar.google.fi) sekä ResearchGaten (https://www.researchgate.:net) haku- ja suositustoimintojen avulla. Haaga-Helian kirjaston tarjoamista tietokannoista alustavia hakuja tehtiin seuraaviin: 
 
@@ -229,7 +229,7 @@ Hakulauseet muodostettiin kahdesta hakusanojen ryhmästä, joista ensimmäiseen 
 Hakulauseita muokattiin kunkin tietokannan hakutoimintojen mahdollisuuksien puitteissa. Useiden tietokantojen hakutoiminnot rajoittivat hakulauseissa käytettävien hakusanojen määrää (ks. edellä kohta Kuvailevan kirjallisuuskatsausksen toteutus). Tällöin maataloutta kuvaavan toisen hakusanaryhmän hakusanoista (ks. alla kohta Asiasanojen valintaperusteet) jätettiin harkinnanvaraisesti pois vähemmän merkittäviä hakusanoja ja/tai hakulause jaettiin useampaan hakuun. Erilaisten hakulauseiden antamia hakutuloksia vertailtiin keskenään, jonka jälkeen tarvittaessa muotoiltiin käytettävälle tietokannalle parhaiten tuloksia antava hakulause. Tietokantahakujen lisäksi aineistoa kerättiin tietokantojen suosittelemien julkaisujen joukosta. Esimerkiksi ResearchGaten Suggested for you sekä IEEE Xploren Related Articles -toiminnot ehdottivat useita lähteiksi valittuja julkaisuja.
 
 
-###### Asiasanojen valintaperusteet
+##### Asiasanojen valintaperusteet
 
 Alustavissa aineistohauissa löydettyjen aineistojen asiasanojen sekä löydettyjen kirjallisuuskatsausten käyttämien hakusanojen joukosta koottiin tutkittavalle ilmiölle keskeisimmät hakusanat. Hakusanojen valinnassa käytettiin vain englanninkielisiä sanoja, koska suomenkielisten aineistojen arveltiin käyttävän sekä suomen- että englanninkielisiä asiasanoja ja löytyvän englanninkielisten hakusanojen avulla. Asiasanat, jotka eivät selkeästi liittyneet kasvintuotannon IoT:n tutkimukseen ja teknologiaratkaisuihin jätettiin pois. Asiasanoista muodostettiin hakulause, jonka hakusanat on jaettu kahteen ryhmään. Ensimmäiseen ryhmään valittiin asiasanat "IoT" ja "Internet of Things". Toiseksi ryhmäksi valittiin Taulukko 1:ssä luetellut asiasanat.
 
@@ -257,7 +257,7 @@ Taulukko 1. Toiseen asiasanaryhmään valitut asiasanat.
 |Product Traceability|Fruit|-|
 
 
-### Asiantuntijoiden teemahaastattelut
+## Teemahaastattelujen alustava vaihe
 
 Kokonaisuutena teemahaastatteluissa pyrittiin tuomaan esille AIoT:n erilaisia ilmentymiä mahdollisimman laaja-alaisesti. Yksittäisissä teemahaastatteluissa pyrittiin syventymään kunkin haastateltavan asiantuntijan erikoisalaan ja kokemuksiin. Tämän takia teemahaastattelujen kysymykset pidettiin avoimina ja kutakin teemaa käsiteltiin haastateltavan asiantuntemuksen mukaan.
 
@@ -267,26 +267,26 @@ Hirsjärven ja Hurmeen esittämän joustavuusperiaatteen mukaisesti teema-alueid
 
 Teemahaastatteluja tulisi yleisesti tehdä syvällisemmän tiedon hankkimiseksi useita kierroksia, mutta opinnäytetyön rajatun työmäärän ja ajan puitteissa päädyttiin tekemään vain yksi haastattelukierros. Haastatteluista saatujen tietojen luotettavuutta pyrittiin parantamaan hyväksyttämällä haastatteluista tehdyt johtopäätökset muistiinpanoineen haastateltavalla.
 
-#### Haastateltavien valinta
+### Haastateltavien valinta
 
 Haastateltavien määrää rajoitti käytettävät resurssit ja aika. Opinnäytetyön laajuuden ollessa rajattu, päädyttiin viiteen haastateltavaan mikä on tekijän arvion mukaan ilmiön monitahoisuuden huomioon ottaen pieni määrä. Toisaalta @hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015 [59] mukaan voidaan laadullisessa tutkimuksessa jo muutaman haastateltavan avulla saada merkittävää tietoa. Haastateltavien valinnassa edettiin aluksi keräämällä kontakteja ja keskustelemalla asiantuntijoiden kanssa erilaisissa tapahtumissa. Samalla pyrittiin keskusteluissa myös @hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015 [59] sekä @tuomiLaadullinenTutkimusJa2018 [99] kuvailevan lumipallomenetelmän omaisesti hankkimaan uusia kontakteja. 
 
 Haastateltaviksi valittiin AIoT:hen perehtyneitä asiantuntijoita, jotka tulivat esille aiheeseen liittyvistä julkaisuista, tavattiin tapahtumissa tai joita muut asiantuntijat suosittelivat haastateltaviksi. Haastattelujen toteutumiseen ja tätä kautta haastateltavien valikoitumiseen vaikutti myös suurelta osin haastateltavien lähestyttävyys. Useita lupaavia kontakteja ei saatu haastateltaviksi alustavien keskustelujen jälkeen ja useilta kontakteilta ei saatu vastauksia haastattelupyyntöihin. Haastateltaviksi olisi ollut hyvä saada valittujen asiantuntijoiden lisäksi kasvihuone- ja puutarhatuotantoon erikoistuneita asiantuntijoita sekä viljelijöitä kasvihuone-, puutarha- ja peltotuotannon aloilta. Tämä ei kuitenkaan toteutunut suurelta osin opinnäytetyön laajuuden rajallisuuden vuoksi ja nämä haastattelut jätetään jatkotutkimuksen aiheeksi.
 
 
-#### Teemahaastatteluiden toteutus
+### Teemahaastatteluiden toteutus
 
 Haastattelujen teemat laadittiin alustavilla hauilla kerätyn aineiston ja alustavien keskustelujen perusteella. Poiketen yleisistä teemahaastattelujen menetelmäohjeista haastatteluiden teemoja voitiin muutettaa tarvittaessa ennen haastatteluja harkinnanvaraisesti, mutta pitäen huolta kaikkien teemojen käsittelystä kaikissa haastatteluissa. Perusteena tälle on se, että tämän työn asiantuntijahaastatteluissa ei ollut tarpeellista tutkia haastateltavien reaktioita tietyssä järjestyksessä esille otettuihin teemoihin. Tarvittaessa teemojen hienosäätöä tehtiin kunkin haastateltavan asiantuntijan erikoistumisen mukaan, ottaen huomioon aikaisemmista haastatteluista saadut kokemukset ja taustatyöstä saadut tiedot (ks. liite Haastatteluteemat). Haastattelun teemoja järjesteltiin uudelleen myös haastattelutilanteen niin vaatiessa, myötäillen haastattelun kulkua mutta varmistamalla kaikkien suunniteltujen teemojen käsittelyn.
 
 Haastattelut toteutettiin 8.11.2017 - 11.4.2018 välisenä aikana. Haastateltavat saivat itse valita haastattelulle sopivan paikan ja ajankohdan, mitkä olivat kolmessa tapauksessa työaikaan arkipäivisin haastateltavien työpaikoilla. Yksi haastattelu tehtiin haastateltavan maatilalla ja yksi puhelimitse. Kaikki haastattelut äänitettiin haastateltavien suostumuksella ja äänitteistä kirjoitettiin litteroinnit. Haastattelujen litteroinnissa käytettiin yleiskielistä litterointia. Yleiskielistä litterointia tarkempaa sanatarkkaa litterointia käytettiin tarvittaessa, jos yleiskielisen litteroinnin arvioitiin mahdollisesti muuttavan haastateltavan sanojen tarkoitusta.
 
 
-#### Haastatteluaineiston analyysimenetelmä
+### Haastatteluaineiston analyysimenetelmä
 
 Koska opinnäytetyön tutkimusongelma on laadullinen haastatteluaineiston analyysimenetelmäksi valittiin sisällönanalyysi. Sisällönanalyysillä pyritään systemaattisesti tuomaan aineistosta esille aineiston laadullisia ominaisuuksia järjestelemällä ja kuvailemalla aineistoa. Analyysin keskeinen tehtävä on löytää tutkittavaa ilmiötä kuvailevia väittämiä, joilla voidaan vastata opinnäytetyön tutkimuskysymyksiin.
 
 
-##### Sisällönanalyysi
+#### Sisällönanalyysi
 
 Haastatteluaineiston sisällönanalyysillä pyritään tuomaan esille haastatteluissa käsiteltyjen teemojen esiintymiä ja yhteyksiä sekä tiivistämään aineistoa [ks. @hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 137]. Aineistolähtöisellä menetelmällä pyritään myös parantamaan laadullisten havaintojen luotettavuutta määrällisellä menetelmällä. 
 
@@ -297,7 +297,7 @@ Käytetyn menetelmän avulla pyritäänn tiivistämään aineistosta havaitut me
 Tuloksia tarkasteltaessa on otettava huomioon, että koodien havaittu yleisyys ei välttämättä korreloi niiden merkittävyyden kanssa. Lisäksi suuressa osassa koodeja havaittiin vain muutamia esiintymiä, jolloin virheellisten havaintojen vaikutus koodin ja alikategorian luokittelussa voi johtaa analyysiä harhaan. Samoin on otettava huomioon tekijän kokemattomuus, mikä voi korostaa virheiden ja tekijän omien subjektiivisten näkemysten vaikutuksia. Erityisesti on otettava huomioon koko tutkimusprosessin olevan yhden ensimmäistä kertaa asialla olevan tekijän tuotos. Tämä voi ilmetä työn kaikissa vaiheissa muun muassa yksipuolisuutena ja taipumuksena ennakko-odotusten mukailuun. Lisäksi koodien havaintojen laskennassa olisi voinut vertailun vuoksi käyttää myös sääntöä, jossa kahdessa tai kolmessa peräkkäisessä segmentissä havaittu koodi olisi laskettu yhdeksi havainnoksi. Tämä laskumalli jätettiin pois toteutuksesta opinnäytetyön laajuuden rajallisuuden vuoksi ja jätetään mahdollisen jatkoanalyysin aiheeksi.
 
 
-###### Sisällönanalyysin kulku
+##### Sisällönanalyysin kulku
 
 Sisällönanalyysi eteni aineiston koodauksen ja kategorisoinnin kautta taulukointiin, josta edettiin analyysiin ja jonka perusteella tehtiin johtopäätökset [ks. @tuomiLaadullinenTutkimusJa2018, 104 - 107)].
 Sisällönanalyysi toteutettiin lukemalla haastatteluaineisto huolellisesti, merkitsemällä taulukkoon havaitut merkitykselliset ilmaisut koodeina, kategorisoimalla koodit ja analysoimalla saatuja tuloksia. Saatuja tuloksia käytettiin haastatteluaineistosta tehtyjen aikaisempien havaintojen ja päätelmien tarkistamisessa sekä uusien asiayhteyksien etsimisessä.
@@ -305,14 +305,14 @@ Sisällönanalyysi toteutettiin lukemalla haastatteluaineisto huolellisesti, mer
 Analyysillä pyritään vastaamaan tutkimuskysymyksiin havainnoimalla tutkimuskysymyksille relevanttien teemojen ilmetymiä koodeissa, kategorioiden sisällä ja sisällön rakenteessa. Haastattelujen sisällön rakennetta analysoidaan havainnoimalla koodien ja kategorioiden esiintymistä ja keskinäisiä jakautumia laatimalla kaavioita taulukoiduista ja uudelleenjärjestellyistä havainnoista. Analyysin johtopäätöksiä tehdään -- ottaen huomioon koodien havainnoinnin epävarmuustekijät -- kaavioista havaituista trendeistä sekä kategorioiden ja koodien keskinäisestä jakautumisesta. Samoin kuin haastattelujen välisiä yhteneväisyyksiä ja eroavaisuuksia, myös tutkimusaiheen kokonaiskuvaa pyritään hahmottamaan sisällönanalyysin avulla. Haastatteluaineistossa käsitellyistä teemoista pyritään muodostamaan koodien havaintoja tarkistelemalla yleiskuva sekä kaikissa haastatteluissa käsitellyistä että kullekin haastattelulle ominaisista teemoista.
 
 
-###### Haastatteluaineiston koodaus ja koodien kategorisointi
+##### Haastatteluaineiston koodaus ja koodien kategorisointi
 
 Haastattelujen litteroinneista (ks. liitteet Haastattelu1-litterointi, Haastattelu2-litterointi, Haastattelu3-litterointi, Haastattelu4-litterointi, Haastattelu5-litterointi) kirjoitettujen yleiskielisten tekstien (ks. liitteet Haastattelu1-teksti, Haastattelu2-teksti, Haastattelu3-teksti, Haastattelu4-teksti, Haastattelu5-teksti) segmentit numeroitiin haastattelun numeron ja juoksevan numeroinnin yhdistelmällä. Numeroinnin jälkeen aineistot luettiin huolellisesti ja koodit muodostettiin etsimällä aineistosta merkitykselliset ilmaisut. Ilmaisut pelkistettiin eli koodattiin, koodit taulukoitiin ja koodeille merkittiin ilmaisujen esiintymiskohta segmentin numerolla. Segmentissä havaittavien koodien määrälle ei asetettu rajoituksia ja usein kustakin segmentistä tehtiin useita havaintoja eri koodeille. Segmenttien pituus ja asiasisällöt vaihtelivat huomattavasti ja osittain tämän takia havainnot eivät välttämättä ole keskenään täysin vertailukelpoisia. Lisäksi tulee huomioida, että havainoille ei merkitty painotuksia. Tämä on pyritty ottamaan huomioon koodien ja kategorioiden laadinnassa, mutta tuloksia ei voi loppujen lopuksi pitää kovin eksakteina vaan enemmänkin suuntaa antavina ja tulkinnanvaraisina. Tämän takia havaintoja pyritään käsittelemään suuntauksia ja trendejä peilaavina.
 
 Osa koodeista oli yleisiä, osa taas samaa asiasisältöä tietystä näkökulmasta tai kontekstissa käsitteleviä. Samasta segmentistä voitiin tehdä havaintoja sekä tiettyä asiasisältöä käsittelevälle yleisluontoiselle koodille että samaa asiasisältöä tarkemmin rajatusti käsittelevälle koodille. Työn edetessä koodeja muokattiin jatkuvan vertailun metodin mukaisesti: koodeja vertailtiin keskenään, haastatteluaineistoa luettiin uudestaan eri näkökulmista ja koodeja muokattiin jatkuvasti tarkoituksenmukaisemmiksi. Ensimmäisen läpikäynnin tuloksena saatiin 159 koodia ja toisella läpikäynnillä koodien määrä nousi 180:een. Toisen läpikäynnin aikana ja sen jälkeen koodeja luokiteltiin ensin alikategorioihin ja myöhemmin kategorioihin. Samoin kuin ensimmäisellä läpikäynnillä koodeja, alikategorioita ja kategorioita vertailtiin ja muokattiin jatkuvasti. Jatkuvalla vertailulla pyrittiin myös varmistamaan sekä teemojen oikeellisuus että havaintojen esiintymisten kirjaus. Tuloksena kategorioiksi muodostuivat Maataloustuotanto, Tekniikka ja Toimintaympäristö. Näiden alla on 33 alikategoriaa, joihin koodit on luokiteltu.
 
 
-###### Haastatteluaineiston koodien taulukointi
+##### Haastatteluaineiston koodien taulukointi
 
 Kategoriat, alikategoriat ja koodit havaintoineen taulukoitiin (ks. Liite 3). Taulukossa koodien esiintymät laskettiin yhteen koodikohtaisesti, jonka jälkeen laskettiin koodikohtaiset esiintymät haastattelukohtaisesti. Saaduista luvuista tuotettiin taulukkoon solujen arvojen mukaan värittämällä yksinkertainen visualisaatio, josta voidaan tarkastella koodien havaintojen määriä sekä haastattelukohtaisesti että koko materiaalissa yhdessä. 
 
@@ -327,7 +327,7 @@ Koodien havaintojen keskinäisiä yhteneväisyyksiä ja niiden kautta teemojen e
 Lopuksi haastatteluaineiston sanamäärät laskettiin analysaattoriohjelmalla ja taulukoitiin omaan taulukkoonsa (ks. Liite 4). Analysaattoriin syötettiin haastattelujen litteroinneista koottu versio, joka sisälsi vain haastateltavien itse sanomat sanat. Litteroinneissa olevan haastateltavien kielen arvioitiin olevan keskenään tarpeeksi samankaltaista, että kielen normalisointia yleiskielelle ei tässä tapauksessa tehty. Useammin kuin kerran löytyneistä sanoista (1920 sanaa) valittiin haastattelujen aikaisempien käsittelyvaiheiden tuoman kokemuksen perusteella harkinnanvaraisesti merkitsevät sanat, joiden sanarungolla ja/tai alkukirjaimilla haettiin kaikkien sanojen joukosta (6011 sanaa) sanan eri taivutusmuodot, lyhennelmät ja virheellisesti kirjoitetut esiintymät. Sanojen havaitut synonyymit ja selkeästi haastatteluissa samaa tarkoittavien sanojen esiintymät laskettiin yhteen. Esimerkiksi sanat täsmäviljely, täsmäviljejyn, täsmäviljelyä, täsmäviljelydata, täsmäviljelykin, täsmäviljelykonferinssissa, täsmäviljelylaitteistolle, täsmäviljelylaitteita, täsmäviljelyllä, täsmäviljelyn, täsmäviljelyssä, täsmäviljelystä, täsmäviljelyteknologiaa, täsmäviljelyteknologiasta, täsmäviljelytietoa ja täsmäviljelyyn laskettiin yhteen, jolloin saatiin asiasanalle "täsmäviljely" yhteensä 27 esiintymää. Tuloksena saatiin 118 asiasanaa, joiden esiintymät taulukoitiin, järjestettiin ja joiden esiintymien määristä laadittiin kaavio. Taulukon ja kaavion avulla voidaan arvioida haastatteluaineiston keskeisimpien teemojen yleisyyttä.
 
 
-###### Haastatteluaineiston analysointi taulukoitujen tietojen avulla
+##### Haastatteluaineiston analysointi taulukoitujen tietojen avulla
 
 Haastatteluaineistosta havaittujen koodien määrien perusteella analysoitiin miten eri kategoriat jakautuvat eri haastatteluissa sekä havaintojen määrän että kategorioiden ja alikategorioiden mukaan. Myös koodien määrät kategorioissa ja alikategorioissa taulukoitiin ja määriä vertailtiin keskenään. 
 
@@ -344,7 +344,7 @@ Haastattelujen yhteneväisyyksien ja eroavaisuuksien tulkintaa varten taulukoiti
 Koodien, alikategorioiden ja kategorioiden mukaan tehtyjä havaintoja vertailtiin myös koko haastatteluaineistossa esiintyviin asiasanoihin. Asiasanojen määrien perusteella järjesteltyä asiasanalistaa voidaan vertailla yleisimpiin koodeihin ja tarkistella ovatko molemmilla metodeilla tehdyt havainnot samansuuntaisia vai löytyykö niiden väliltä selkeitä eroja.
 
 
-###### Haastatteluaineistosta johtopäätösten vetäminen analyysin perusteella
+##### Haastatteluaineistosta johtopäätösten vetäminen analyysin perusteella
 
 Kategorioiden ja teemojen määrien kaavioiden analysoinnin avulla voidaan vetää johtopäätöksiä  haastattelujen yleisestä luonteesta ja keskeisistä asiasisältöjen eroista. Esimerkiksi keskittyivätkö haastateltavat muutamaan ydinaiheeseen vai laajempiin asiakokonaisuuksien kuvailuun ja mitkä olivat kunkin haastattelun keskeiset asiasisällöt. Lisäksi voidaan havainnoida mihin asiasisältöihin keskityttiin sekä haastattelukohtaisesti että koko haastatteluaineistossa.
 
