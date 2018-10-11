@@ -22,6 +22,8 @@ Ensin tutustutaan osailmiöhin IoT, IIoT, AIoT ja kasvintuotanto, joiden määri
 
 *Tähän maatalouden vallankumoukset, nykytilanteeseen johtavat agroteknologian kehityspolut*
 
+*Taustaa Ag3.0:sta creutzbergAgricultureNewParadigm2015 = NuffieldCanada_Report_Creutzberg_FINAL.pdf*
+
 *Muistiinpanoja Wikipediasta:*
 
 *Maatalouden vallankumous*
@@ -82,7 +84,7 @@ vähemmän nälänhätää ja aliravitsemusta, mutta samalla väestö on koko aj
 
 Tässä luvussa kuvaillaan toteutetun tutkimuksen tarkoitus, tavoitteet, tutkimuskysymykset, aineisto, menetelmät ja eteneminen.
 
-Opinnäytetyön aihepiirinä on kasvituotannon esineiden internetiin (Agriculture Internet of Things, AIoT) liittyvät tutkimukset, julkaisut ja teknologiasovellukset. Opinnäytetyössä haastatellaan asiaan perehtyneitä tutkijoita ja yritysten edustajia. 
+Opinnäytetyön aihepiirinä on kasvintuotannon esineiden internetiin (Agriculture Internet of Things, AIoT) liittyvät tutkimukset, julkaisut ja teknologiasovellukset. Opinnäytetyössä haastatellaan asiaan perehtyneitä tutkijoita ja yritysten edustajia. 
 
 Opinnäytetyön keskeinen tutkimusongelma on, että kasvintuotannon IoT-ratkaisut eivät ole laajasti tunnettuja ja aihetta sivuavia opinnäytetöitä on julkaistu vain muutamia.
 
@@ -90,11 +92,11 @@ Tutkimuskysymyksiin pyritään vastaamaan käyttämällä kuvailevaa kirjallisuu
 
 Menetelmätriangulaatiota eli monimetodista lähestymistapaa voidaan käyttää tutkittavan ilmiön ymmärryksen lisäämiseen. Menetelmätriangulaatio eli useiden menetelmien käyttö on tällöin myös tutkimusstrateginen valinta. [@kananenOpinnaytetyonKirjoittamisenKaytannon2010] Opinnäytetyössä pyritään tukemaan laadullista menetelmää menetelmätriangulaation avulla. [ks. @hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 39; @gubriumSageHandbookInterview2012, 284] Menetelmätriangulaatio on toteutettu haastatteluaineiston laadullisen kuvailun ja määrällistä menetelmää soveltavan sisällönanalyysin avulla.
 
-Opinnäytetyön laajuuden rajallisuuden vuoksi aihealueeksi on rajattu kasvituotannon IoT-ratkaisut, minkä kirjoittaja arvioi olevan yleisen ruoantuotannon kannalta vaikuttavin ruoantuotannon osa. Samasta syystä tässä opinnäytetyössä ei käsitellä yksittäisiä teknologiaratkaisuita kuten verkkoprotokollia, sensoritekniikkaa tai algoritmejä, vaan keskitytään kuvailemaan kasvintuotannon IoT-ratkaisuita yleistasolla.
+Opinnäytetyön laajuuden rajallisuuden vuoksi aihealueeksi on rajattu kasvintuotannon IoT-ratkaisut, minkä kirjoittaja arvioi olevan yleisen ruoantuotannon kannalta vaikuttavin ruoantuotannon osa. Samasta syystä tässä opinnäytetyössä ei käsitellä yksittäisiä teknologiaratkaisuita kuten verkkoprotokollia, sensoritekniikkaa tai algoritmejä, vaan keskitytään kuvailemaan kasvintuotannon IoT-ratkaisuita yleistasolla.
 
 ## Tutkimuksen tarkoitus
 
-Opinnäytetyön tarkoituksena on tuottaa kartoittava katsaus [ks. @hirsjarviTutkiJaKirjoita2009, 134-135] kasvintuotannossa sovellettavien IoT-ratkaisuiden tilanteesta ja niiden tarjoamista mahdollisuuksista. Tietoa saadaan *tähän keskeiset asiakokonaisuudet, avoimet haasteet jne.* 
+Opinnäytetyön tarkoituksena on tuottaa ajankohtainen kartoittava katsaus [ks. @hirsjarviTutkiJaKirjoita2009, 134-135] kasvintuotannossa sovellettavien IoT-ratkaisuiden tilanteesta ja niiden tarjoamista mahdollisuuksista. Tietoa saadaan *tähän keskeiset asiakokonaisuudet, avoimet haasteet jne.* 
 
 
 ## Tutkimuksen tavoitteet
@@ -781,7 +783,7 @@ Tässä osiossa kuvaillaan haastatteluissa käsiteltyjen teemojen mukaan jaotell
 
 #### AIoT:n tilanne yleensä
 
-Haastatteluissa A.A. kuvaili maatalouden yleistä tilannetta AIoT:n näkökulmasta hyvin hajanaiseksi ja pirstaleiseksi. Samaan tapaan C.C.n mielestä yleistilanne on hyvin sekava ja B.B. kuvaili peltokasvituotannon tavoitetilan olevan useiden teknisten rajoitteiden takana. D.D.n mukaan tällä hetkellä on jo saatavilla useita AIoT-teknologiaratkaisuita, mutta näiden järjestelmien välinen vapaa ja avoin yhteistyö ja dataintegraatio on vielä vaikeaa. E.E. puolestaan näkee, että AIoT:n teknologiaratkaisuissa ja maatalouden digitalisaatiossa ollaan murroksen partaalla. [@aHaastattelu2017; @bHaastattelu2017; @cHaastattelu2017; @dHaastattelu2018; @eHaastattelu2018]
+Haastatteluissa A.A. kuvaili maatalouden yleistä tilannetta AIoT:n näkökulmasta hyvin hajanaiseksi ja pirstaleiseksi. Samaan tapaan C.C.n mielestä yleistilanne on hyvin sekava ja B.B. kuvaili peltokasvintuotannon tavoitetilan olevan useiden teknisten rajoitteiden takana. D.D.n mukaan tällä hetkellä on jo saatavilla useita AIoT-teknologiaratkaisuita, mutta näiden järjestelmien välinen vapaa ja avoin yhteistyö ja dataintegraatio on vielä vaikeaa. E.E. puolestaan näkee, että AIoT:n teknologiaratkaisuissa ja maatalouden digitalisaatiossa ollaan murroksen partaalla. [@aHaastattelu2017; @bHaastattelu2017; @cHaastattelu2017; @dHaastattelu2018; @eHaastattelu2018]
 
 A.A. kertoi, että täsmäviljelyä on historiallisesti toteutettu jo hevosaikaan käsityökaluilla nojautuen viljelijän omaan hiljaiseen tietoon ja hyvin vähäisillä panoksilla. Myöhemmin viljelyn tehostumisen ja nyt EU:n pinta-alaperustaisen maataloustuen vaikutuksesta maatilojen koon on ollut pakko kasvaa. Tilakokojen kasvu on tarkoittanut, että yhden ihmisen tulee pystyä käsittelemään yhä suurempia peltopinta-aloja samassa aikaikkunassa kuin aiemmin. Tällöin myös koneiden koko on suurentunut, peltolohkoista on tehty suurempia ja lohkoja on käsitelty samoilla tasasäädöillä jolloin viljelytoiminnasta ollaan menetetty tarkkuus ja tuntuma. Uudella teknologialla ollaan ottamassa takaisin sitä tarkkuutta, mitä talikolla levitettäessä aikanaan toteutettiin. [@aHaastattelu2017]
 
