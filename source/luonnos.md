@@ -1,4 +1,16 @@
+
+![. Esitetty AIoT-arkkitehtuuri @talaveraReviewIoTApplications2017 mukaan](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/Kuva1.png "Kuva Y."){ width=155mm }
+
 Luettelo kuvaajista ja kaavioista
+
+Koska hyvää tapaa ei näytä olevan, täytyy tehdä lista Wordilla.
+1. Kuvateksti alkamaan pisteellä ja välillä markdown-tekstiin
+2. Wordissä valikosta Insert -> Caption...
+3. Label -kenttään "Kuva" ja OK
+4. Rivinvaihto pois
+5. Toistetaan 2. - 4. joka kuvalle (vastaavasti kuvioille myös)
+6. Valikosta Insert -> Index and Tables...
+7. "Caption label" = "Kuva" ja OK  (vastaavasti kuvioille myös)
 
 Lyhenteet ja termit
 
@@ -629,6 +641,8 @@ Kokonaisuutena IoT-järjestelmien arkkitehtuurien tulee ottaa huomioon erilaiset
 Kansainvälinen televiestintäliitto (engl. International Telecommunication Union, ITU) on suosituksessaan ITU-T Y.2060 kuvaillut nelikerroksisen IoT-referenssiarkkitehtuurin. Suositus määrittelee IoT:n tietoyhteiskunnan globaalina infrastruktuurina, joka mahdollistaa edistyneet palvelut yhdistämällä esineet tieto- ja viestintäteknologioiden avulla. Kerrokset on jaoteltu sovelluskerrokseen, palvelu- ja sovellustuen kerrokseen, tietoliikenne- ja laitekerrokseen. [@internationaltelecommunicationunion2060OverviewInternet2012; @InternetThingsGlobal]
 
 Kirjallisuuskatsauksissa esitetyt arkkitehtuurit on usein jaoteltu palvelukeskeisen arkkitehtuurimallin mukaisesti kerroksittain, esimerkiksi @talaveraReviewIoTApplications2017 [2017] kirjallisuuskatsauksessa esitetyssä arkkitehtuurissa kerrokset ovat fyysinen-, tietoliikenne-, palvelu- ja sovelluskerros. Vastaavasti @verdouwInternetThingsAgriculture2016a [2016] jaottelevat IoT-arkkitehtuurin laite-, verkko- ja sovelluskerroksiin. @l.d.xuInternetThingsIndustries2014 [2014] puolestaan esittivät arkkitehtuurin, jossa jaottelu tehtiin havainnointi-, tietoverkko-, palvelu- ja liittymäkerrokseen. @tzounisInternetThingsAgriculture2017 [2017] esittivät IoT-arkkitehtuurin jakautuvan havainto-, tietoliikenne- ja sovelluskerrokseen, samoin kuin @vermesanInternetThingsGlobal2011 [2011]. Sovelluskerros on @atzoriInternetThingsSurvey2010 [2010] mukaan IoT-arkkitehtuurin ylin kerros, joka on lähinnä käyttäjää ja joka käyttää väliohjelmistokerroksen palveluita. Viime vuosina julkaistut väliohjelmistokerroksen arkkitehtuurit on yleensä suunniteltu palvelukeskeinen arkkitehtuurin mallin mukaisesti. Vaikka tätä varten yleisesti hyväksyttyä arkkitehtuurimallia ei ole, esitetyt arkkitehtuurit käsittelevät keskenään samankaltaisia toimintoja kuten laitteiden toiminnallisuuksien ja tietoliikennetoimintojen abstrahointia. 
+
+[Kuva 1. Esitetty AIoT-arkkitehtuuri @talaveraReviewIoTApplications2017 [2017] mukaan]
 
 Poikkeuksena edellisiin @barmpounakisManagementControlApplications2015 [2015] esittivät arkkitehtuurin, joka teknisten kerrosten sijaan perustuu Future Internet Public–Private Partnership:in (FI-PPP) yleiskäyttöisiin FI-WARE-hankkeessa kehitettyihin ohjelmistomoduleihin (engl. Generic Enabler, GE) ja niiden laajennuksiin maatalouden vastaaviin moduleihin (engl. domain specific enablers) [ks. @kaloxylosUseFutureInternet2013, 56-57]. Tämän arkkitehtuurin tavoitteena on mahdollistaa yhteiskäytettävyys erilaisten palveluiden ja sidosryhmien välillä, toisin kuin muissa esitetyissä arkkitehtuureissa jossa keskitytään IoT-järjestelmien toiminnalliseen kuvailuun. Arkkitehtuurin avulla pyritään tuottamaan alustapalvelu (engl. Platform as a Service, PAAS) jolla ruokaketjun eri alojen sidosryhmät voivat toimia yhdessä.
 

@@ -2000,7 +2000,18 @@ Jatkotutkimuksen aiheita: haastatellaan kasvihuonetuotantoon erikoistuneita asia
 
 
 
+![. Esitetty AIoT-arkkitehtuuri @talaveraReviewIoTApplications2017 mukaan](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/Kuva1.png "Kuva Y."){ width=155mm }
 
+Luettelo kuvaajista ja kaavioista
+
+Koska hyvää tapaa ei näytä olevan, täytyy tehdä lista Wordilla.
+1. Kuvateksti alkamaan pisteellä ja välillä markdown-tekstiin
+2. Wordissä valikosta Insert -> Caption...
+3. Label -kenttään "Kuva" ja OK
+4. Rivinvaihto pois
+5. Toistetaan 2. - 4. joka kuvalle (vastaavasti kuvioille myös)
+6. Valikosta Insert -> Index and Tables...
+7. "Caption label" = "Kuva" ja OK  (vastaavasti kuvioille myös)
 
 
 
