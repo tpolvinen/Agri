@@ -241,7 +241,7 @@ Hakulauseita muokattiin kunkin tietokannan hakutoimintojen mahdollisuuksien puit
 
 ##### Asiasanojen valintaperusteet
 
-Alustavissa aineistohauissa löydettyjen aineistojen asiasanojen sekä löydettyjen kirjallisuuskatsausten käyttämien hakusanojen joukosta koottiin tutkittavalle ilmiölle keskeisimmät hakusanat. Hakusanojen valinnassa käytettiin vain englanninkielisiä sanoja, koska suomenkielisten aineistojen arveltiin käyttävän sekä suomen- että englanninkielisiä asiasanoja ja löytyvän englanninkielisten hakusanojen avulla. Asiasanat, jotka eivät selkeästi liittyneet kasvintuotannon IoT:n tutkimukseen ja teknologiaratkaisuihin jätettiin pois. Asiasanoista muodostettiin hakulause, jonka hakusanat on jaettu kahteen ryhmään (liite 1). 
+Alustavissa aineistohauissa löydettyjen aineistojen asiasanojen sekä löydettyjen kirjallisuuskatsausten käyttämien hakusanojen joukosta koottiin tutkittavalle ilmiölle keskeisimmät hakusanat. Hakusanojen valinnassa käytettiin vain englanninkielisiä sanoja, koska suomenkielisten aineistojen arveltiin käyttävän sekä suomen- että englanninkielisiä asiasanoja ja löytyvän englanninkielisten hakusanojen avulla. Asiasanat, jotka eivät selkeästi liittyneet kasvintuotannon IoT:n tutkimukseen ja teknologiaratkaisuihin jätettiin pois. Asiasanoista muodostettiin hakulause, jonka hakusanat on jaettu kahteen ryhmään (liite 0). 
 
 
 ## Teemahaastattelujen alustava vaihe
@@ -263,7 +263,7 @@ Haastateltaviksi valittiin AIoT:hen perehtyneitä asiantuntijoita, jotka tulivat
 
 ### Teemahaastatteluiden toteutus
 
-Haastattelujen teemat laadittiin alustavilla hauilla kerätyn aineiston ja alustavien keskustelujen perusteella. Poiketen yleisistä teemahaastattelujen menetelmäohjeista haastatteluiden teemoja voitiin muutettaa tarvittaessa ennen haastatteluja harkinnanvaraisesti, mutta pitäen huolta kaikkien teemojen käsittelystä kaikissa haastatteluissa. Perusteena tälle on se, että tämän työn asiantuntijahaastatteluissa ei ollut tarpeellista tutkia haastateltavien reaktioita tietyssä järjestyksessä esille otettuihin teemoihin. Tarvittaessa teemojen hienosäätöä tehtiin kunkin haastateltavan asiantuntijan erikoistumisen mukaan, ottaen huomioon aikaisemmista haastatteluista saadut kokemukset ja taustatyöstä saadut tiedot (ks. liite Haastatteluteemat). Haastattelun teemoja järjesteltiin uudelleen myös haastattelutilanteen niin vaatiessa, myötäillen haastattelun kulkua mutta varmistamalla kaikkien suunniteltujen teemojen käsittelyn.
+Haastattelujen teemat laadittiin alustavilla hauilla kerätyn aineiston ja alustavien keskustelujen perusteella. Poiketen yleisistä teemahaastattelujen menetelmäohjeista haastatteluiden teemoja voitiin muutettaa tarvittaessa ennen haastatteluja harkinnanvaraisesti, mutta pitäen huolta kaikkien teemojen käsittelystä kaikissa haastatteluissa. Perusteena tälle on se, että tämän työn asiantuntijahaastatteluissa ei ollut tarpeellista tutkia haastateltavien reaktioita tietyssä järjestyksessä esille otettuihin teemoihin. Tarvittaessa teemojen hienosäätöä tehtiin kunkin haastateltavan asiantuntijan erikoistumisen mukaan, ottaen huomioon aikaisemmista haastatteluista saadut kokemukset ja taustatyöstä saadut tiedot (ks. liite 0). Haastattelun teemoja järjesteltiin uudelleen myös haastattelutilanteen niin vaatiessa, myötäillen haastattelun kulkua mutta varmistamalla kaikkien suunniteltujen teemojen käsittelyn.
 
 Haastattelut toteutettiin 8.11.2017 - 11.4.2018 välisenä aikana. Haastateltavat saivat itse valita haastattelulle sopivan paikan ja ajankohdan, mitkä olivat kolmessa tapauksessa työaikaan arkipäivisin haastateltavien työpaikoilla. Yksi haastattelu tehtiin haastateltavan maatilalla ja yksi puhelimitse. Kaikki haastattelut äänitettiin haastateltavien suostumuksella ja äänitteistä kirjoitettiin litteroinnit. Haastattelujen litteroinnissa käytettiin yleiskielistä litterointia. Yleiskielistä litterointia tarkempaa sanatarkkaa litterointia käytettiin tarvittaessa, jos yleiskielisen litteroinnin arvioitiin mahdollisesti muuttavan haastateltavan sanojen tarkoitusta.
 
@@ -322,7 +322,7 @@ Koodien havaintojen määristä laadittiin kaaviot, joiden muodosta ja koosta vo
 
 Haastattelujen sisällön rakenteen havainnollistamiseksi kussakin haastattelussa havaitut koodit haastattelukohtaisine havaintomäärineen taulukoitiin yhteen ja laadittiin kaaviot, joista voidaan havainnoida kategorioiden ja koodien jakautumista haastattelukohtaisesti ja verrata niitä toisiin haastatteluihin ja kategorioihin.
 
-Koodien keskinäisiä yhteneväisyyksiä pyrittiin analysoimaan lämpökartan avulla havainnoimalla samankaltaisella tavalla esiintyviä koodiryhmiä (ks. liite R heatmap.2). Koska koodit ja niiden havainnot perustuvat vain haastattelukohtaisten havaintojen kokonaismääriin ja yhden tekijän havainnointiin, analyysissä ei voida luottaa kahden lämpökartalla samalla tavalla esiintyvän koodin tai koodiryhmän asiasisältöjen liittyvän toisiinsa. Lämpökartalla samankaltaisesti esiintyvien koodien ryhmistä voidaan vain havainnoida miten ryhmän koodeja on havaittu haastatteluaineistossa. Koodien järjestely ja ryhmittely lämpökartalla mahdollistaa haastattelujen ominaispiirteiden havainnoinnin koodien määrien yhteneväisyyksien avulla, ottaen huomioon myös havaintojen puuttumiset.
+Koodien keskinäisiä yhteneväisyyksiä pyrittiin analysoimaan lämpökartan avulla havainnoimalla samankaltaisella tavalla esiintyviä koodiryhmiä (ks. liite 0). Koska koodit ja niiden havainnot perustuvat vain haastattelukohtaisten havaintojen kokonaismääriin ja yhden tekijän havainnointiin, analyysissä ei voida luottaa kahden lämpökartalla samalla tavalla esiintyvän koodin tai koodiryhmän asiasisältöjen liittyvän toisiinsa. Lämpökartalla samankaltaisesti esiintyvien koodien ryhmistä voidaan vain havainnoida miten ryhmän koodeja on havaittu haastatteluaineistossa. Koodien järjestely ja ryhmittely lämpökartalla mahdollistaa haastattelujen ominaispiirteiden havainnoinnin koodien määrien yhteneväisyyksien avulla, ottaen huomioon myös havaintojen puuttumiset.
 
 Itse koodien määrän voidaan tulkita viittaavan erilaisten asiasisältöjen määrään. Koodien määristä kategorioittain ja alikategorioittain ryhmiteltyinä voidaan tehdä tulkintoja ryhmittelyjen laajuuksista asiasisältöjen määrien perusteella. Toisaalta kategoriat, alikategoriat ja niiden sisällään pitämät koodit voivat olla yleisluontoisempia kuin toiset, jolloin lukuja voi pitää vain suuntaa-antavina.
 
@@ -337,7 +337,7 @@ Kategorioiden ja teemojen määrien kaavioiden analysoinnin avulla voidaan vetä
 
 Kategorioissa ja alikategorioissa esiintyvien koodien määristä puolestaan voidaan päätellä kuinka monipuolisia asiakokonaisuuksia kategoriat ja alikategoriat pitävät sisällään. Kategorioiden ja alikategorioiden yleisimmät koodit kerättiin loogisiksi teemojen ryhmiksi, joista kirjoitettiin kuvaukset haastatteluaineiston keskeisistä teemoista. 
 
-Ryhmien yleisimpien koodien samankaltaisuutta muihin koodeihin verrattuna tarkasteltiin myös laaditun lämpökartan ja dendogrammin avulla (ks. liite R heatmap.2). Lämpökartta havainnollistaa koodien haastattelukohtaisten havaintomäärien välisiä yhteneväisyyksiä ja eroavaisuuksia. Samankaltaiset koodit lämpökartalla auttavat myös profiloimaan haastatteluja, eli voidaan havainnoida haastattelujen painotuksia tiettyihin koodien ryhmiin. Lämpökarttaa havainnoidessa tulee kuitenkin huomioida, että kartalla samankaltaiset koodit eivät välttämättä ole sisällöltään yhteydessä toisiinta vaan esiintyvät samoissa haastatteluissa yhtä monesti. Lämpökartalla samankaltaisista teemoista on valittu tutkimustuloksissa tarkasteltavaksi sellaiset, joilla on looginen yhteys toisiinsa haastatteluaineistossa ja joista on useita havaintoja.
+Ryhmien yleisimpien koodien samankaltaisuutta muihin koodeihin verrattuna tarkasteltiin myös laaditun lämpökartan ja dendogrammin avulla (ks. liite 0). Lämpökartta havainnollistaa koodien haastattelukohtaisten havaintomäärien välisiä yhteneväisyyksiä ja eroavaisuuksia. Samankaltaiset koodit lämpökartalla auttavat myös profiloimaan haastatteluja, eli voidaan havainnoida haastattelujen painotuksia tiettyihin koodien ryhmiin. Lämpökarttaa havainnoidessa tulee kuitenkin huomioida, että kartalla samankaltaiset koodit eivät välttämättä ole sisällöltään yhteydessä toisiinta vaan esiintyvät samoissa haastatteluissa yhtä monesti. Lämpökartalla samankaltaisista teemoista on valittu tutkimustuloksissa tarkasteltavaksi sellaiset, joilla on looginen yhteys toisiinsa haastatteluaineistossa ja joista on useita havaintoja.
 
 
 # TUTKIMUSTULOKSET
@@ -520,7 +520,7 @@ Maatalouden IoT-sovelluksissa on selkeä tarve ratkaisuille, jotka huomioivat se
 
 Sidosryhmien tietojen turvallisuus, autenttisuus, luottamuksellisuus ja yksityisyyden suoja tulisi varmistaa siirryttäessä perinteisistä toimintamalleista IoT-sovellusten käyttöön. IoT:n tietoturva kiteytyy kolmeen vaatimukseen: tunnistus, luottamuksellisuus ja käyttöokeuksien hallinta. IoT-ratkaisut tulisi suojata ulkoisia hyökkäyksiä vastaan havaintotasolla, turvata datan kerääminen tietoliikennetasolla ja vastaavasti sovellustasolla tarjota eritellyt vakuudet siitä, että vain valtuutetuilla tahoilla on pääsy ja oikeudet muuttaa tietoja. [@tzounisInternetThingsAgriculture2017] Hajautetun päätöksentekojärjestelmän laajalle käyttöönotolle on kriittisen tärkeää huolehtia tietoturvasta, anonymiteetistä ja pääsynhallinnasta. [@tzounisInternetThingsAgriculture2017, @l.d.xuInternetThingsIndustries2014] Tietoturvan takaaminen on usein haasteellisempaa IoT-ratkaisuiden kuin perinteisten tietojärjestelmien tapauksessa, koska hyökkäysvektoreita on huomattavasti enemmän. Lisäksi IoT-ratkaisuiden tietoturva tarvitsee vielä kehitystä tietoturvan ja yksityisyyden määrittelyssä sosiaalisista, lainsäädännöllisistä ja kulttuurillisista näkökulmista, samoin kuin yleisten luottamuksen ja maineen mekanismien tapauksessa. [@l.d.xuInternetThingsIndustries2014] 
 
-Laitteiden fyysinen tietoturva on tärkeä maatalouden toimintaympäristössä, jossa laitteet voivat sijaita avoimilla pelloilla ja toimia ilman valvontaa pitkiäkin aikoja. Laitetasolla yleisimpiä avoimia tietoturvahaasteita ovat datan tuotantovaiheen tietoturva ja laitteistojen fyysinen turvallisuus. Laitteiden tietoturvan parantamiseksi tulisi käyttää salausalgoritmeja, avaintenjakelun käytänteitä, tunkeutumisenhavaitsemisjärjestelmiä ja turvallisia reitityssääntöjä, kuitenkin huomioiden laitteiden asettamat rajoitukset. Pyrittäessä estämään valtuuttamattomien tahojen pääsy kerättyyn dataan tulee ottaa huomioon käyttäjätunnistus, tietojen luottamuksellisuus ja käyttöokeuksien hallinta myös datan tuotantovaiheessa. [@tzounisInternetThingsAgriculture2017] Lisäksi laitteiden ja anturien, mukaan lukien tunnisteet kuten RFID, tunnistamiseen tulisi kehittää aikaisempaa kevyempiä ja vähemmän laskentatehoa vaativia salausmenetelmiä ja protokollia [@vermesanInternetThingsGlobal2011]. Koska maatalouden järjestelmiin kuuluu usein automaattisesti kontrolloitavia toimilaitteita, on tietoturvasta huolehtiminen ja järjestelmien tunkeutujilta suojaaminen tärkeää käyttäjien fyysisen turvallisuuden takia [@gubbiInternetThingsIoT2013].
+Laitteiden fyysinen tietoturva on tärkeä maatalouden toimintaympäristössä, jossa laitteet voivat sijaita avoimilla pelloilla ja toimia ilman valvontaa pitkiäkin aikoja. Laitetasolla yleisimpiä avoimia tietoturvahaasteita ovat datan tuotantovaiheen tietoturva ja laitteistojen fyysinen turvallisuus. Laitteiden tietoturvan parantamiseksi tulisi käyttää salausalgoritmeja, avainten jakelun käytänteitä, tunkeutumisenhavaitsemisjärjestelmiä ja turvallisia reitityssääntöjä, ottaen huomioon laitteiden asettamat rajoitukset. Pyrittäessä estämään valtuuttamattomien tahojen pääsy kerättyyn dataan tulee ottaa huomioon käyttäjätunnistus, tietojen luottamuksellisuus ja käyttöokeuksien hallinta myös datan tuotantovaiheessa. [@tzounisInternetThingsAgriculture2017] Lisäksi laitteiden ja anturien, mukaan lukien tunnisteet kuten RFID, tunnistamiseen tulisi kehittää aikaisempaa kevyempiä ja vähemmän laskentatehoa vaativia salausmenetelmiä ja protokollia [@vermesanInternetThingsGlobal2011]. Koska maatalouden järjestelmiin kuuluu usein automaattisesti kontrolloitavia toimilaitteita, on tietoturvasta huolehtiminen ja järjestelmien tunkeutujilta suojaaminen tärkeää käyttäjien fyysisen turvallisuuden takia [@gubbiInternetThingsIoT2013].
 
 Tietoturva muodostaa keskeisen osan käyttöturvallisuudesta erityisesti maatalouden erikoisajoneuvojen ja työkoneiden järjestelmissä, joiden elinkaari voi olla useita vuosikymmeniä. Tällöin tietoturvan ylläpito muodostuu haasteelliseksi: näissä erikoisajoneuvoissa on käytössä lähes poikkeuksetta alun perin suojaamattomaan CAN-väylään perustuva ohjausratkaisu, johon voidaan tulevaisuudessa lisätä tietoliikennetoimintoja. Näiden laitteiden liittäminen tietoverkkoihin avaa reitin niiden väyläratkaisuihin, mistä voi muodostua huomattava kyberuhka jos niiden tietoturvasta ei huolehdita asianmukaisesti. [@laajalahtiAlkutuotannonKyberjohtamisenToimintaymparisto2017]
 
@@ -756,7 +756,7 @@ Asiasisällöt jakautuivat alikategorioihin ja kategorioihin epätasaisesti (ks.
 
 Vertailtaessa kaikkia haastatteluaineistossa yli viidesti havaittuja koodeja kussakin haastattelussa yli kerran havaittuihin, voidaan havainnoida kuinka suurelta osin yksittäisissä haastatteluissa käsiteltiin samoja asiasisältöjä kuin kaikissa haastatteluissa yhteensä. Samalla voidaan tarkastella mitkä ja kuinka monet koodit on havaittu vain yhdessä haastattelussa ja mitkä asiasisällöt ovat näin olleet ominaisia kullekin haastattelulle. Havaintojen määrien rajaus on valittu harkinnanvaraisesti kokeilujen perusteella ja niiden on arvioitu tuottavan parhaiten materiaalia havainnollistavan tuloksen. Yksittäisistä haastatteluista vähiten koko aineiston yleisistä koodeista löytyviä koodeja oli C.C.n haastattelussa (Haastattelu 3). Yleisiä koodeja havaittiin olevan kyseisessä haastattelussa hieman yli puolet haastattelun kaikista koodeista, 53 %. Eniten yleisiä koodeja havaittiin vastaavasti E.E.n haastattelusta, missä niitä oli 61 %. Muut haastattelut jakautuvat lähes tasaisesti näiden välille. Suurin osa jokaisessa haastattelussa käsitellyistä asiasisällöistä on siis sellaisia, joita on todennäköisesti käsitelty myös muissa haastatteluissa. Tämä johtuu todennäköisesti kaikille haastatteluille yhteisistä haastatteluteemoista. Haastatteluille yksilöllisiä asiasisältöjä puolestaan on eniten A.A.n haastattelussa (Haastattelu 1) ja lähes yhtä usein C.C.n haastattelussa, 30 % ja 29 %. Vähiten yksilöllisiä asiasisältöjä puolestaan on D.D.n haastattelussa (Haastattelu 4), missä niitä on 17 %.
 
-![Kuvio 3.Havaintojen määrien jakautuminen haastatteluissa kategorioittain (ks. liite 2)](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/HavaintomäärätKategorioittain.png "Havaintomäärät kategorioittain"){ width=155mm }
+![Kuvio 3.Havaintojen määrien jakautuminen haastatteluissa kategorioittain (ks. liite 0)](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/HavaintomäärätKategorioittain.png "Havaintomäärät kategorioittain"){ width=155mm }
 
 Vertailtaessa kunkin kategorian koodien havaintojen prosenttiosuuksia kussakin haastattelussa muiden haastattelujen vastaaviin, voidaan havainnoida haastattelujen kesken kategoriakohtaisia painotuksia (ks. kuvio 3). B.B.n haastattelu (kuviossa Haastattelu 2) painottuu muita enemmän maataloustuotannon kategoriaan ja vastaavasti vähemmän toimintaympäristöön. C.C.n haastattelussa  (kuviossa Haastattelu 3) on muita pienempi prosenttiosuus maataloustuotannon kategorian havaintoja ja vastaavasti enemmän tekniikan kategorian havaintoja. A.A.n ja D.D.n haastattelujen  (kuviossa Haastattelu 1 ja Haastattelu 4)havaintojen osuudet jakautuvat saman kaltaisesti, D.D.n haastattelun tekniikan kategorian osuuden ollessa hieman muita pienempi. D.D.n haastattelussa on myös lukumäärällisesti tekniikan kategorian havaintoja selkeästi pienin määrä. A.A.n haastattelussa on taas eniten tekniikan kategorian havaintoja. B.B.n haastattelussa puolestaan on eniten maataloustuotannon havaintoja. C.C.n haastattelussa havaittiin myös lukumäärällisesti vähiten maataloustuotannon kategorian koodeja. Toimintaympäristön kategorian havaintoja oli selkeästi eniten A.A.n haastattelussa ja vähiten B.B.n haastattelussa.
 
@@ -774,7 +774,7 @@ Tekniikan kategorian koodeista kaikissa haastatteluissa havaituista keskeisimmä
 
 Haastatteluaineistosta lasketuissa sanamäärissä toistuvat eniten tutkimusaiheelle keskeiset asiasanat kuten data, järjestelmät, tietoverkot, sensorit, tuotekehitys, koneet, palvelut, automaatio, standardit, isobus ja ohjelmistot. Sanamäärissä ei ole näkyvissä suurta määrää olemassa olevia ratkaisuita ja valmistajia. Sanamääristä saa vaikutelman, että haastatteluissa puhutaan yleisellä tasolla visioista ja tulevaisuudesta sekä niistä asioista, joihin tullaan vaikuttamaan ja jotka tulevat muuttumaan. Näkyvissä on myös laadullista kuvailua helppokäyttöisyydestä, yhteensopivuudesta, hajanaisuudesta jne. Ei niinkään valmiista jo tunnetuista ja koetelluista ratkaisuista tai toimintatavoista.
 
-Lämpökartan (ks. liite R heatmap.2) avulla tehdyt havainnot koodien jakautumien samankaltaisuuksista haastatteluissa eivät merkittävästi tuoneet esille uusia yhteyksiä eri asiasisältöjen välille. Tämä oli odotettavissa, koska käytetyssä menetelmässä kunkin koodin esiintymien määrä kussakin haastattelussa ei ole yhteydessä koodin asiasisältöön tai kontekstiin, missä koodi havaittiin.
+Lämpökartan (ks. liite 0) avulla tehdyt havainnot koodien jakautumien samankaltaisuuksista haastatteluissa eivät merkittävästi tuoneet esille uusia yhteyksiä eri asiasisältöjen välille. Tämä oli odotettavissa, koska käytetyssä menetelmässä kunkin koodin esiintymien määrä kussakin haastattelussa ei ole yhteydessä koodin asiasisältöön tai kontekstiin, missä koodi havaittiin.
 
 Lukuja tulkitessa tulee ottaa huomioon, että jo yhden koodihavainnon ero voi helposti aiheuttaa huomattavalta vaikuttavan eron. Yksittäiset havainnot eivät tämän analyysin tapauksessa ole kovin luotettavia. Lisäksi useiden koodien ollessa päällekkäisiä ja/tai samoja aiheita eri konteksteissa käsitteleviä, voidaan havaintojen lukumääriä pitää korkeintaan suuntaa-antavina. Luvuista kuitenkin voidaan havaita kunkin haastattelun painotuksia ja lähestymiskulmia, jotka muotoutuivat kullekin haastateltavalle asiantuntijalle ominaisiksi.
 
@@ -1076,7 +1076,7 @@ Lopulta merkitsevimmän kehitysaskeleen ottavat viljelijät, jotka omaksuvat kä
 
 # LIITTEET
 
-## Liite 1. Hakulauseiden muodostus
+## Liite __. Hakulauseiden muodostus
 
 Hakulauseiden muodostukseen käytettiin kahta hakusanaryhmää, joista ensimmäiseen valittiin asiasanat "IoT" ja "Internet of Things". Toiseen ryhmään valittiin alla olevassa taulukossa luetellut asiasanat.
 
@@ -1101,20 +1101,253 @@ Hakulauseiden muodostukseen käytettiin kahta hakusanaryhmää, joista ensimmäi
 |Vegetable|Water|Weather|
 |Web of Things|Wireless Sensor Networks||
 
+## Liite __. Koodien havainnot taulukoituna
 
-## Liite 1: R heatmap.2
-## Liite 2: Havaintojen määrien jakautuminen haastatteluissa kategorioittain
-...
-## Liite X: Haastatteluteemat
-## Liite X: Haastattelu1-litterointi LUOTTAMUKSELLINEN
-## Liite X: Haastattelu2-litterointi LUOTTAMUKSELLINEN
-## Liite X: Haastattelu3-litterointi LUOTTAMUKSELLINEN
-## Liite X: Haastattelu4-litterointi LUOTTAMUKSELLINEN
-## Liite X: Haastattelu5-litterointi LUOTTAMUKSELLINEN
-## Liite X: Haastattelu1-teksti LUOTTAMUKSELLINEN
-## Liite X: Haastattelu2-teksti LUOTTAMUKSELLINEN
-## Liite X: Haastattelu3-teksti LUOTTAMUKSELLINEN
-## Liite X: Haastattelu4-teksti LUOTTAMUKSELLINEN
-## Liite X: Haastattelu5-teksti LUOTTAMUKSELLINEN
+![Haastatteluaineiston koodien havainnot taulukoituina yhdessä ja eriteltyinä haastattelukohtaisesti](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/Liite-HavainnotTaulukoituna.png "Koodien havainnot taulukoituina"){ width=270mm }
+
+
+## Liite __. Havaintojen määrät kategorioittain
+
+![Havaintojen määrien jakautuminen haastatteluaineistossa kategorioittain 1](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/Liite-HavaintojenJakautuminen1.png "Havaintojen jakautuminen 1"){ width=150mm }
+
+![Havaintojen määrien jakautuminen haastatteluaineistossa kategorioittain 2](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/Liite-HavaintojenJakautuminen2.png "Havaintojen jakautuminen 2"){ width=100mm }
+
+
+## Liite __. Tekniikka-kategorian havainnot
+
+![Tekniikka-kategorian havaintojen määrien kuvaajat haastatteluittain ja yhdessä](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/Liite-Tekniikka.png "Tekniikka-kategorian havainnot"){ width=155mm }
+
+
+## Liite __. Maataloustuotanto-kategorian havainnot
+
+![Maataloustuotanto-kategorian havaintojen määrien kuvaajat haastatteluittain ja yhdessä](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/Liite-Maataloustuotanto.png "Maataloustuotanto-kategorian havainnot"){ width=155mm }
+
+
+## Liite __. Toimintaympäristö-kategorian havainnot
+
+![Toimintaympäristö-kategorian havaintojen määrien kuvaajat haastatteluittain ja yhdessä](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/Liite-Toimintaympäristö.png "Toimintaympäristö-kategorian havainnot"){ width=155mm }
+
+
+## Liite __. Sanamäärät
+
+![Keskeisten asiasanojen määrät haastatteluaineistossa](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/Liite-Sanamäärät.png "Asiasanojen määrät"){ width=110mm }
+
+
+## Liite __. R heatmap.2
+
+![R heatmap.2:lla koodien havainnoista tuotettu lämpökartta ja dendogrammi](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/Liite-Rheatmap2.png "Lämpökartta ja dendogrammi"){ width=270mm }
+
+
+
+
+
+## Liite __. Haastatteluteemat
+
+## Liite __. Haastattelu1-litterointi LUOTTAMUKSELLINEN
+
+## Liite __. Haastattelu2-litterointi LUOTTAMUKSELLINEN
+
+## Liite __. Haastattelu3-litterointi LUOTTAMUKSELLINEN
+
+## Liite __. Haastattelu4-litterointi LUOTTAMUKSELLINEN
+
+## Liite __. Haastattelu5-litterointi LUOTTAMUKSELLINEN
+
+## Liite __. Haastattelu1-teksti LUOTTAMUKSELLINEN
+
+## Liite __. Haastattelu2-teksti LUOTTAMUKSELLINEN
+
+## Liite __. Haastattelu3-teksti LUOTTAMUKSELLINEN
+
+## Liite __. Haastattelu4-teksti LUOTTAMUKSELLINEN
+
+## Liite __. Haastattelu5-teksti LUOTTAMUKSELLINEN
+
+
+## Liite __. Koodien havainnot haastatteluaineistossa
+
+| **Kategoria, Alikategoria, Koodi, Segmentit (haastattelu.segmentti)** | 
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+| Maataloustuotanto, Data, Datan merkitys ja merkityksen ymmärrys, 1.43, 2.17, 2.29, 2.40, 4.11                                                                                                                                   | 
+| Maataloustuotanto, Data, Datan oikea-aikainen esitys käyttäjälle, 5.4                                                                                                                                                           | 
+| Maataloustuotanto, Data, Dataperustainen laatuhinnoittelu, 1.43, 1.44, 1.45                                                                                                                                                     | 
+| Maataloustuotanto, Data, Tuotannon historiatiedot, 2.27, 2.33, 2.38, 5.1                                                                                                                                                        | 
+| Maataloustuotanto, Laitteet, Hintojen halpeneminen, 3.38, 3.45, 3.46, 3.47                                                                                                                                                      | 
+| Maataloustuotanto, Laitteet, Integraatio laitteiden yhteensopivuus, 1.7, 1.9, 1.25, 2.6, 3.4, 4.2, 4.5, 4.6, 5.1, 5.3, 5.13, 5.18                                                                                               | 
+| Maataloustuotanto, Laitteet, Laitteiston ROI, 1.10, 1.11, 1.19, 1.23, 1.29, 2.15, 2.36, 3.43, 4.8                                                                                                                               | 
+| Maataloustuotanto, Laitteet, Toimintavarmuus, 3.29, 4.25                                                                                                                                                                        | 
+| Maataloustuotanto, Laitteet, UA-laitteet, 1.39, 2.39, 3.13, 3.14, 4.10, 4.11                                                                                                                                                    | 
+| Maataloustuotanto, Laitteet, Vaatimukset maataloudessa, 3.29, 4.25                                                                                                                                                              | 
+| Maataloustuotanto, Laitteet, Älykkäät Operatiivinen laitteiden älykkyys, 1.22, 1.34, 1.35, 2.3                                                                                                                                  | 
+| Maataloustuotanto, Maatila, Liiketoimintamainen toiminta, 1.29, 1.30, 2.30                                                                                                                                                      | 
+| Maataloustuotanto, Sato, Ennusteet Arviot, 2.22, 2.23, 2.34                                                                                                                                                                     | 
+| Maataloustuotanto, Sato, Erillinen arvoerä, 1.17, 4.15                                                                                                                                                                          | 
+| Maataloustuotanto, Sato, Laatuerien tunnistaminen, 1.28, 1.43, 1.44, 1.45, 1.46                                                                                                                                                 | 
+| Maataloustuotanto, Sato, Sadonlisä, 1.23, 2.26, 2.33, 5.11                                                                                                                                                                      | 
+| Maataloustuotanto, Talous, Investointien laskentaan ei ole tietoa, 1.19                                                                                                                                                         | 
+| Maataloustuotanto, Talous, Kannattavuus, 1.19, 1.48, 2.20, 2.26, 2.29, 2.34, 2.36, 3.43, 4.8, 4.19, 4.22, 5.1, 5.14                                                                                                             | 
+| Maataloustuotanto, Talous, Perustellut investoinnit, 1.29, 1.30, 1.35, 2.34, 3.43                                                                                                                                               | 
+| Maataloustuotanto, Tehostaminen, Koneiden käyttö, 5.12                                                                                                                                                                          | 
+| Maataloustuotanto, Tehostaminen, Logistiikka, 5.12                                                                                                                                                                              | 
+| Maataloustuotanto, Tehostaminen, Maatilan toiminnassa yleisesti, 2.1, 2.46, 4.2                                                                                                                                                 | 
+| Maataloustuotanto, Tehostaminen, Resurssien käyttö panokset lannoitteet jne., 1.10, 1.33, 2.16, 2.27, 5.14                                                                                                                      | 
+| Maataloustuotanto, Tehostaminen, Työn helpottaminen, 1.11, 2.11, 5.2, 5.3, 5.12, 5.14                                                                                                                                           | 
+| Maataloustuotanto, Tehostaminen, Viljelyprosessien (tuotanto-) optimointi/automatisointi, 1.11, 1.33, 2.16, 2.20, 2.26, 2.27, 2.33, 3.35, 3.41, 4.3, 4.20, 5.1, 5.4, 5.12, 5.14, 5.16                                           | 
+| Maataloustuotanto, Tietojenkäsittely, Päätöksentekon avustaminen, 1.24, 1.48, 1.49, 2.1, 2.2, 2.3, 2.17, 2.18, 2.20, 2.31, 2.33, 3.19, 4.3, 5.1, 5.2, 5.3, 5.4, 5.12                                                            | 
+| Maataloustuotanto, Tietojenkäsittely, Viljelysuositukset, 1.20, 2.2, 2.3, 2.4, 2.18, 2.19, 2.20, 2.29, 2.31, 5.2                                                                                                                | 
+| Maataloustuotanto, Tuotantojärjestelmät, Automaattinen/automatisoitu viljelyyn vaikuttaminen, 1.20, 4.3                                                                                                                         | 
+| Maataloustuotanto, Tuotantojärjestelmät, Järjestelmäintegraatio, 1.25, 2.5, 2.6, 2.7, 2.8, 2.9, 2.13, 2.31, 2.43, 3.8, 4.1, 4.3, 4.20, 4.27, 5.5, 5.9, 5.18                                                                     | 
+| Maataloustuotanto, Tuotantoketju, Tuotantoketjun Verkostoitumisalusta myyntiin ja ostoihin, 1.18, 1.27, 1.28                                                                                                                    | 
+| Maataloustuotanto, Tuotantopanokset, Lannoitepanokset, 2.18, 2.22, 2.32, 4.28                                                                                                                                                   | 
+| Maataloustuotanto, Tuotantopanokset, Lannoitus Ravinteet Syötteet, 1.10, 1.27, 1.33, 1.43, 2.22, 2.27, 3.12, 4.28, 4.29, 5.11                                                                                                   | 
+| Maataloustuotanto, Tuotantopanokset, Tuotantopanokset yleensä, 2.18, 2.22, 2.32, 4.28                                                                                                                                           | 
+| Maataloustuotanto, Tuotantotapatieto, Kuluttajien ymmärryshaaste, 1.43, 4.13, 5.11                                                                                                                                              | 
+| Maataloustuotanto, Tuotantotapatieto, Lisäarvo maatalouden tuotteelle, 1.17, 1.28, 1.33                                                                                                                                         | 
+| Maataloustuotanto, Tuotantotapatieto, Tuotantotapatieto yleensä, 1.17, 1.33, 1.42, 1.43, 3.2, 3.18, 3.19, 4.13, 4.14, 4.15, 5.11                                                                                                | 
+| Maataloustuotanto, Tuotantotavat, Smart Farming, 1.43, 4.13, 5.11                                                                                                                                                               | 
+| Maataloustuotanto, Tuotantotavat, Täsmäviljely, 1.7, 1.10, 1.12, 1.33, 1.34, 1.35, 2.15, 2.38, 3.43, 5.9                                                                                                                        | 
+| Maataloustuotanto, Tuotantotavat, Urbaaniviljely, 4.28, 4.29                                                                                                                                                                    | 
+| Maataloustuotanto, Työ, Urakointi, 1.11, 1.12, 2.37, 2.38, 2.46                                                                                                                                                                 | 
+| Tekniikka, Alustaratkaisut, Datan julkaisu ja jakaminen, 1.16, 2.6, 2.41, 2.42, 3.17, 4.12                                                                                                                                      | 
+| Tekniikka, Alustaratkaisut, Tiedon vaihdanta, 1.16, 1.30, 2.41, 4.12, 4.26                                                                                                                                                      | 
+| Tekniikka, Alustaratkaisut, Viljelijöiden Verkostoitumisalusta myyntiin ja ostoihin, 1.18, 1.27, 1.28                                                                                                                           | 
+| Tekniikka, Alustaratkaisut, Viljelijöiden ja kuluttajien yhteydet, 1.42, 1.43, 1.45                                                                                                                                             | 
+| Tekniikka, Alustaratkaisut, Viljelijöiden sosiaalinen verkostoituminen, 1.16, 4.26, 5.1                                                                                                                                         | 
+| Tekniikka, Laitejärjestelmät, Automaattiset huoltokutsut ja huollon yhteys laitteisiin verkon yli, 1.4, 3.21                                                                                                                    | 
+| Tekniikka, Laitejärjestelmät, Etätuki, 1.4                                                                                                                                                                                      | 
+| Tekniikka, Laitejärjestelmät, Full-liner-tuote/järjestelmä, 1.7, 1.8, 1.11, 1.15, 4.6                                                                                                                                           | 
+| Tekniikka, Laitejärjestelmät, Kasvihuoneautomaatio, 1.3, 1.4, 1.36, 4.17, 4.19                                                                                                                                                  | 
+| Tekniikka, Laitejärjestelmät, Kasvitehtaat Monikerrosviljely, 1.4, 4.17                                                                                                                                                         | 
+| Tekniikka, Laitejärjestelmät, Konttiviljelmät, 4.18                                                                                                                                                                             | 
+| Tekniikka, Ratkaisu/tuote, 365FarmNet, 2.7                                                                                                                                                                                      | 
+| Tekniikka, Ratkaisu/tuote, Agrirouter, 5.5, 5.7, 5.8, 5.9                                                                                                                                                                       | 
+| Tekniikka, Ratkaisu/tuote, Agrismart (Agrineuvos), 4.5                                                                                                                                                                          | 
+| Tekniikka, Ratkaisu/tuote, Farmersbusinessnetwork.com, 1.16, 1.26, 1.27                                                                                                                                                         | 
+| Tekniikka, Ratkaisu/tuote, Farmidiili, 1.27                                                                                                                                                                                     | 
+| Tekniikka, Ratkaisu/tuote, Farmobile.com, 1.16, 1.26, 1.27                                                                                                                                                                      | 
+| Tekniikka, Ratkaisu/tuote, MyYara -viljelijäportaaliohjelmisto, 2.6                                                                                                                                                             | 
+| Tekniikka, Ratkaisu/tuote, VTT Owela, 1.42                                                                                                                                                                                      | 
+| Tekniikka, Ratkaisu/tuote, Valtra Smart, 3.21                                                                                                                                                                                   | 
+| Tekniikka, Ratkaisu/tuote, Yara N-sensor, 2.14, 2.16, 2.19, 2.20, 2.22, 2.34, 3.11                                                                                                                                              | 
+| Tekniikka, Standardi, Avoimet, 1.14, 1.15, 1.26, 1.30, 1.32, 4.7                                                                                                                                                                | 
+| Tekniikka, Standardi, ISOBUS, 1.9, 1.31, 3.4, 3.7, 3.8, 3.10, 3.44, 3.45, 3.46, 3.48, 4.5, 4.7, 5.5, 5.9, 5.10                                                                                                                  | 
+| Tekniikka, Standardi, Muut, 1.13, 1.14, 1.31, 1.32, 2.44, 3.4, 3.5                                                                                                                                                              | 
+| Tekniikka, Teknologia, Aidot IoT-järjestelmät laitteet, 1.20, 2.11, 3.20, 3.21, 3.22, 3.35, 3.36, 5.2, 5.9                                                                                                                      | 
+| Tekniikka, Teknologia, Automaattiohjaus, 1.11, 5.16                                                                                                                                                                             | 
+| Tekniikka, Teknologia, Elinkaaret (maatalouskone/tiedostoformaatti/automatiikka/ohjelmisto/IoT-laite/IoT-palvelu), 1.31, 3.5, 3.29, 3.30, 4.24, 4.25                                                                            | 
+| Tekniikka, Teknologia, Keinoäly, 1.20, 1.23, 1.24, 5.16, 5.17                                                                                                                                                                   | 
+| Tekniikka, Teknologia, Prototyypit, 3.32                                                                                                                                                                                        | 
+| Tekniikka, Teknologia, Sensoriteknologia, 1.4, 2.10, 2.14, 2.23, 2.31, 2.39, 3.3, 3.22, 3.23, 3.35, 3.36, 3.37, 4.2                                                                                                             | 
+| Tekniikka, Teknologia, Siirrettävät muistivälineet, 2.10                                                                                                                                                                        | 
+| Tekniikka, Teknologia, Teollinen Ethernet, 1.31                                                                                                                                                                                 | 
+| Tekniikka, Teknologia, Teollisuusautomaatio, 1.1, 1.3, 1.4, 1.6, 1.20, 1.25, 1.36, 3.35, 3.37, 3.38, 3.45                                                                                                                       | 
+| Tekniikka, Teknologiasovellus, Autonomiset traktorit ja muut työkoneet, 2.31, 5.16, 5.17, 5.19                                                                                                                                  | 
+| Tekniikka, Teknologiasovellus, Datan alustapalvelu/järjestelmä, 1.9, 1.16, 1.18, 1.30, 2.5, 2.9, 2.32, 2.41, 2.42, 2.43, 3.8, 3.17, 3.18, 4.2, 4.12, 4.20, 4.24, 4.26, 4.27, 5.5, 5.9                                           | 
+| Tekniikka, Teknologiasovellus, Sensoriverkot, 3.35, 3.42, 4.2                                                                                                                                                                   | 
+| Tekniikka, Teknologiasovellus, Sääasemat, 3.20, 3.42                                                                                                                                                                            | 
+| Tekniikka, Teknologiasovellus, Telemetria, 1.11, 1.41, 3.12, 3.22, 3.26, 3.27, 3.28, 4.10, 4.11, 5.1, 5.2, 5.3, 5.9, 5.15                                                                                                       | 
+| Tekniikka, Teknologioiden omaksunta, Asteittain, 1.1, 1.3, 1.31, 2.24, 2.26, 3.43, 4.1, 5.15                                                                                                                                    | 
+| Tekniikka, Teknologioiden omaksunta, Kynnys, 1.29, 2.15, 2.21, 2.23, 4.8                                                                                                                                                        | 
+| Tekniikka, Teknologioiden omaksunta, Laajuus, 1.10, 1.35, 2.21, 3.8, 3.20, 3.21, 3.24, 3.42, 3.43, 5.7, 5.8, 5.14                                                                                                               | 
+| Tekniikka, Teknologioiden omaksunta, Teknologioiden mahdollisuudet hyödyt edut, 1.7, 1.10, 1.11, 1.12, 1.15, 1.16, 1.17, 1.23, 1.34, 1.44, 1.45, 2.2, 2.16, 2.20, 2.23, 2.25, 2.26, 2.30, 3.24, 3.43, 4.8, 5.2, 5.8, 5.15, 5.16 | 
+| Tekniikka, Teknologioiden omaksunta, Viljelijöiden uusien teknologoiden ymmärrys-asiantuntemus-taidot, 1.3, 2.22, 5.1, 5.2                                                                                                      | 
+| Tekniikka, Teknologioiden omaksunta, Yleinen, 1.1, 1.34, 2.9, 2.23, 2.26, 2.34, 2.35, 2.36, 4.1, 4.8, 5.2, 5.7, 5.8, 5.9, 5.14, 5.15                                                                                            | 
+| Tekniikka, Tietojenkäsittely, Analytiikka, 1.20, 1.24, 1.30, 1.39, 2.18, 2.22, 2.31, 2.45, 3.12, 4.2, 5.3, 5.4, 5.9, 5.14                                                                                                       | 
+| Tekniikka, Tietojenkäsittely, Analytiikka Viljelijän Maatilan oma räätälöity, 1.6, 2.4, 5.4                                                                                                                                     | 
+| Tekniikka, Tietojenkäsittely, Analytiikkapalvelut, 1.20, 1.39, 3.12, 3.17, 4.2, 5.4, 5.9                                                                                                                                        | 
+| Tekniikka, Tietojenkäsittely, Datan integraatio, 1.20, 1.25, 2.5, 2.14, 2.43, 3.8, 4.1, 4.6, 4.20, 5.3, 5.5, 5.9                                                                                                                | 
+| Tekniikka, Tietojenkäsittely, Datan laatu ja laatuhaasteet, 1.25, 2.18, 4.11                                                                                                                                                    | 
+| Tekniikka, Tietojenkäsittely, Datan osto ja myynti, 1.16, 2.41, 3.18                                                                                                                                                            | 
+| Tekniikka, Tietojenkäsittely, Datan siirreltävyys, 1.6, 2.8, 2.13, 2.42, 3.15, 4.5, 4.10, 5.9                                                                                                                                   | 
+| Tekniikka, Tietojenkäsittely, Ihminen datan tulkitsijana/päätöksentekijänä, 2.1, 2.3, 2.11, 2.20, 2.40, 4.3, 4.4                                                                                                                | 
+| Tekniikka, Tietojenkäsittely, Karttatiedostot, 2.14, 2.39                                                                                                                                                                       | 
+| Tekniikka, Tietojenkäsittely, Karttatiedot Ortomosaiikkikartta, 2.14, 3.12, 4.10, 4.11                                                                                                                                          | 
+| Tekniikka, Tietojenkäsittely, Koneoppiminen, 1.25, 2.2, 2.4, 5.16, 5.17                                                                                                                                                         | 
+| Tekniikka, Tietojenkäsittely, Kuvantamisdata, 2.14, 2.39, 3.12, 3.15, 5.18                                                                                                                                                      | 
+| Tekniikka, Tietojenkäsittely, Mallinnus, 2.3, 2.4, 2.20                                                                                                                                                                         | 
+| Tekniikka, Tietojenkäsittely, Metadata, 3.7                                                                                                                                                                                     | 
+| Tekniikka, Tietojenkäsittely, Paikkatieto, 1.37, 5.3, 5.12                                                                                                                                                                      | 
+| Tekniikka, Tietojenkäsittely, Pilvipalvelut, 1.9, 1.12, 1.15, 1.16, 1.26, 1.27, 2.6, 2.7, 3.17, 4.9, 4.24, 5.5                                                                                                                  | 
+| Tekniikka, Tietojenkäsittely, Sadon tunnistetieto (Ruoan identiteetti), 1.17, 3.39                                                                                                                                              | 
+| Tekniikka, Tietojenkäsittely, Satelliitti (data/kuvaus), 2.13, 2.39, 3.12                                                                                                                                                       | 
+| Tekniikka, Tietojenkäsittely, Sensoridata ja Digitaalinen mitattu tieto, 1.6, 1.20, 1.22, 1.25, 1.48, 2.18, 2.31, 2.39, 3.2, 3.35, 5.3                                                                                          | 
+| Tekniikka, Tietojenkäsittely, Systeemiautomaatio, 1.24                                                                                                                                                                          | 
+| Tekniikka, Tietojenkäsittely, Tiedon tuottama lisäarvo, 1.15, 1.16, 1.17, 1.28, 1.33, 2.22, 2.26, 2.27, 2.33, 3.18, 3.19, 3.43, 5.3, 5.4, 5.12, 5.14                                                                            | 
+| Tekniikka, Tietojenkäsittely, Tiedostoformaatit, 3.4, 3.5, 3.6, 3.7                                                                                                                                                             | 
+| Tekniikka, Tietojenkäsittely, Tietoturva haittaohjelmat, 4.23                                                                                                                                                                   | 
+| Tekniikka, Tietojenkäsittely, Tietoturva yleensä, 1.32, 3.28, 4.23, 5.4, 5.12                                                                                                                                                   | 
+| Tekniikka, Tietojenkäsittely, Työtiedostot, 1.11, 2.38                                                                                                                                                                          | 
+| Tekniikka, Tietojenkäsittely, Valmistajien datan keräys, 1.4, 2.12, 5.4                                                                                                                                                         | 
+| Tekniikka, Tietojärjestelmät, Avoin lähdekoodi, 3.31                                                                                                                                                                            | 
+| Tekniikka, Tietojärjestelmät, Käyttäjäystävällisyys-käytettävyys, 1.3, 1.4, 1.34, 2.17, 2.22, 4.11, 4.27, 5.4                                                                                                                   | 
+| Tekniikka, Tietojärjestelmät, Käyttöliittymä Viljelijän oma räätälöity, 5.9                                                                                                                                                     | 
+| Tekniikka, Tietojärjestelmät, Käyttöliittymät, 2.17, 2.22, 2.31, 4.27, 5.1, 5.4, 5.9                                                                                                                                            | 
+| Tekniikka, Tietojärjestelmät, Maatilanhallintajärjestelmä FMIS, 2.13, 2.31, 5.1, 5.3, 5.5                                                                                                                                       | 
+| Tekniikka, Tietojärjestelmät, Maatilanhallintajärjestelmä FMIS Kokonaisvaltainen, 1.1, 1.7, 2.6, 2.31, 3.8, 3.9, 5.3, 5.9, 5.10, 5.18                                                                                           | 
+| Tekniikka, Tietojärjestelmät, Rajapinnat, 1.6, 2.7, 2.8, 2.42, 4.12, 5.9                                                                                                                                                        | 
+| Tekniikka, Tietojärjestelmät, Tulevaisuuden tietojärjestelmät, 1.13, 1.20, 2.11, 2.31, 2.41, 2.43, 4.20, 5.16, 5.17, 5.19                                                                                                       | 
+| Tekniikka, Tietojärjestelmät, Viljelysuositusjärjestelmä, 2.31                                                                                                                                                                  | 
+| Tekniikka, Tietojärjestelmät, Viljelysuunnittelujärjestelmä/ohjelmisto, 2.6, 3.20, 4.2, 4.5, 4.7, 4.9                                                                                                                           | 
+| Tekniikka, Tietoliikenne, 3G-verkko, 1.40                                                                                                                                                                                       | 
+| Tekniikka, Tietoliikenne, 5G-verkko, 1.39, 3.16, 5.13                                                                                                                                                                           | 
+| Tekniikka, Tietoliikenne, Haasteet, 1.37, 1.39, 2.5, 3.15, 3.16, 3.28, 4.9, 4.10, 5.13, 5.19                                                                                                                                    | 
+| Tekniikka, Tietoliikenne, Langaton, 1.37, 1.38, 1.39, 1.40, 2.10, 3.15, 3.16, 3.26, 3.27, 3.28, 5.13                                                                                                                            | 
+| Tekniikka, Tietoliikenne, Matkapuhelinverkot, 1.38, 1.39, 3.15                                                                                                                                                                  | 
+| Tekniikka, Tietoliikenne, SMS-viestit, 3.26, 3.27, 3.28                                                                                                                                                                         | 
+| Tekniikka, Tietoliikenne, Satelliitti, 5.13                                                                                                                                                                                     | 
+| Tekniikka, Tietoliikenne, Valokuituverkot, 3.28                                                                                                                                                                                 | 
+| Tekniikka, Tietoliikenne, Yhteydet/Verkot, 1.4, 1.37, 1.39, 1.40, 2.5, 3.15, 3.16, 3.27, 3.28, 4.9, 4.10, 4.23, 5.13, 5.19                                                                                                      | 
+| Tekniikka, Tuotekehitys, Asiakaslähtöinen tuotekehitys, 2.17, 5.2, 5.15                                                                                                                                                         | 
+| Toimintaympäristö, Data, Datan omistajuus, 1.6, 1.30, 2.12, 4.9, 5.4                                                                                                                                                            | 
+| Toimintaympäristö, Data, Datan/tiedon saatavuus, 1.6, 2.13, 4.9                                                                                                                                                                 | 
+| Toimintaympäristö, Data, Dataperustainen poliittinen päätöksenteko, 5.14, 5.15                                                                                                                                                  | 
+| Toimintaympäristö, Järjestö, AEF, 1.9, 4.7                                                                                                                                                                                      | 
+| Toimintaympäristö, Järjestö, OADA OpenAG Data Alliance, 1.26                                                                                                                                                                    | 
+| Toimintaympäristö, Laitevalmistaja, Laitevalmistajien yhteistyö, 1.14, 3.47, 5.10                                                                                                                                               | 
+| Toimintaympäristö, Laitevalmistaja, Yhden valmistajan kokonaisratkaisu, 1.5                                                                                                                                                     | 
+| Toimintaympäristö, Laitevalmistaja, Yhden valmistajan suljettu ympäristö/Walled garden, 1.7, 1.15                                                                                                                               | 
+| Toimintaympäristö, Laitevalmistaja, Yhteen valmistajaan lukittuminen, 1.6, 1.7, 4.6, 4.7                                                                                                                                        | 
+| Toimintaympäristö, Maatalous, Erilaiset ratkaisut tilakoon mukaan, 2.30, 2.37                                                                                                                                                   | 
+| Toimintaympäristö, Maatalous, Kasvukausi, 3.12                                                                                                                                                                                  | 
+| Toimintaympäristö, Maatalous, Käyttötarpeiden suuri kirjo, 1.15, 5.2                                                                                                                                                            | 
+| Toimintaympäristö, Maatalous, Maatalouden toiminnan yleiskuva, 1.1, 1.2, 1.7, 1.14, 1.28, 1.29, 2.31, 2.46, 3.1, 3.41, 3.42, 3.43, 4.1, 4.2, 4.20, 5.1, 5.3                                                                     | 
+| Toimintaympäristö, Maatalous, Maatalouden toimintaympäristön hajanaisuus Pirstaleinen kenttä, 1.1, 1.2, 1.9, 1.14, 3.1, 4.1, 4.2, 4.3, 5.19                                                                                     | 
+| Toimintaympäristö, Maatalous, Maatalouskoneiden automatiikan kehitys/historia, 3.25                                                                                                                                             | 
+| Toimintaympäristö, Maatalous, Maatilojen yksilöllisyys, 1.2, 1.8, 2.30, 5.8                                                                                                                                                     | 
+| Toimintaympäristö, Maatalous, Ruokaturvan parantaminen, 1.47, 2.33, 3.39, 5.14                                                                                                                                                  | 
+| Toimintaympäristö, Maatalous, Sovelluskirjo, 4.13, 4.27                                                                                                                                                                         | 
+| Toimintaympäristö, Maatalous, Suomalaisen viljely-ympäristön erityispiirteet, 1.38, 1.40, 1.41, 2.37, 2.46, 3.12, 3.42, 4.21, 4.22, 5.12                                                                                        | 
+| Toimintaympäristö, Maatalous, Teknologioiden Tuotteiden siiloutuneisuus hajanaisuus, 4.1, 4.2, 5.3                                                                                                                              | 
+| Toimintaympäristö, Maatalous, Tutkimuksen/kehityksen pitkä aikajänne, 1.33, 2.2                                                                                                                                                 | 
+| Toimintaympäristö, Maatalous, Viljelijä-laitevalmistaja yhteistyö partneri, 2.25, 5.2                                                                                                                                           | 
+| Toimintaympäristö, Muutos, Digitalisaatio, 1.1, 1.30, 1.33, 1.34, 1.42, 1.47, 1.48, 1.49, 2.6, 4.1, 4.8, 5.1, 5.12, 5.13, 5.14, 5.15, 5.17                                                                                      | 
+| Toimintaympäristö, Muutos, Digitalisaatio Riskit, 3.29, 3.30, 4.4, 4.8, 4.23, 4.24, 4.25, 5.12                                                                                                                                  | 
+| Toimintaympäristö, Muutos, Ilmastonmuutoksen uhat, 1.33, 2.34                                                                                                                                                                   | 
+| Toimintaympäristö, Muutos, Mobiilisovellukset, 5.1                                                                                                                                                                              | 
+| Toimintaympäristö, Muutos, Olosuhteiden vaihtelut/Ilmastonmuutos tilannehallinta, 1.33, 1.48, 2.27, 2.28, 2.29                                                                                                                  | 
+| Toimintaympäristö, Muutos, Siirtymä datan käyttöön, 1.30, 1.33                                                                                                                                                                  | 
+| Toimintaympäristö, Muutos, Teknologia-aalto Digitalisaatio Murroskohta, 3.43, 5.1, 5.3, 5.13, 5.15                                                                                                                              | 
+| Toimintaympäristö, Muutos, Teknologiaharppaus (leap frog), 2.24                                                                                                                                                                 | 
+| Toimintaympäristö, Muutos, Tilakoon kasvu, 1.33, 1.41, 2.30, 2.46, 4.21, 4.22                                                                                                                                                   | 
+| Toimintaympäristö, Muutos, Tilamäärän väheneminen, 1.29, 2.30                                                                                                                                                                   | 
+| Toimintaympäristö, Muutos, Uudet liiketoimintamallit, 1.30, 1.34, 1.45, 1.48, 4.26                                                                                                                                              | 
+| Toimintaympäristö, Muutos, Verkostoituminen ja kokemustiedon jako, 1.29                                                                                                                                                         | 
+| Toimintaympäristö, Muutos, Viljelijän työnkuva, 4.4, 4.5, 4.20, 5.2                                                                                                                                                             | 
+| Toimintaympäristö, Muutos, Väestönkasvu, 1.48, 5.14                                                                                                                                                                             | 
+| Toimintaympäristö, Ohjelmistotuotanto, Kolmannen osapuolen ohjelmistokehitys, 3.30, 3.31, 5.9                                                                                                                                   | 
+| Toimintaympäristö, Ohjelmistotuotanto, Ohjelmistojen tekijänoikeudet, 3.30, 3.31                                                                                                                                                | 
+| Toimintaympäristö, Ohjelmistotuotanto, Ohjelmistopäivitykset, 3.31                                                                                                                                                              | 
+| Toimintaympäristö, Ohjelmistotuotanto, Ohjelmistotuotannon ala, 3.31, 3.33                                                                                                                                                      | 
+| Toimintaympäristö, Säädökset, EU-maataloustuki, 1.33, 3.40, 3.43                                                                                                                                                                | 
+| Toimintaympäristö, Säädökset, Luomusertifikaatti, 4.14                                                                                                                                                                          | 
+| Toimintaympäristö, Säädökset, Sertifikaatit, 4.14                                                                                                                                                                               | 
+| Toimintaympäristö, Säädökset, Tuotevastuu, 3.30, 3.32                                                                                                                                                                           | 
+| Toimintaympäristö, Tuotantoketju, Liiketoiminnan ekosysteemi, 1.14, 1.15, 1.18, 1.27, 2.44, 3.18, 3.19                                                                                                                          | 
+| Toimintaympäristö, Tuotantoketju, Toimijoiden verkostomainen toiminta, 1.13, 1.30                                                                                                                                               | 
+| Toimintaympäristö, Tuotantoketju, Tuotantoketju yleensä, 1.13, 1.42, 2.32, 3.19, 3.39, 3.41, 5.19                                                                                                                               | 
+| Toimintaympäristö, Tuotantoketju, Tuotantoketjun data, 1.13, 1.42, 1.43, 1.44, 1.45, 2.32, 3.39, 3.41, 4.13, 4.14, 5.11, 5.14                                                                                                   | 
+| Toimintaympäristö, Tuotantoketju, Tuotantoketjun valvonta, 3.39, 3.41, 4.14                                                                                                                                                     | 
+| Toimintaympäristö, Yhtiö, Agrineuvos, 4.5, 4.7                                                                                                                                                                                  | 
+
 
 # LÄHTEET
