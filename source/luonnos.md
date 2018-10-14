@@ -91,7 +91,7 @@ vähemmän nälänhätää ja aliravitsemusta, mutta samalla väestö on koko aj
 *...ja miten AIoT on osa IIoTtä.*
 
 
-# OPINNÄYTETYÖN TARKOITUS, TAVOITE, TUTKIMUSKYSYMYKSET JA TUTKIMUSSUUNNITELMA
+# OPINNÄYTETYÖN TARKOITUS, TAVOITE, TUTKIMUSKYSYMYKSET JA TUTKIMUSMENETELMÄT
 
 Tässä luvussa kuvaillaan toteutetun tutkimuksen tarkoitus, tavoitteet, tutkimuskysymykset, aineisto, menetelmät ja eteneminen.
 
@@ -107,12 +107,14 @@ Opinnäytetyön laajuuden rajallisuuden vuoksi aihealueeksi on rajattu kasvintuo
 
 ## Tutkimuksen tarkoitus
 
-Opinnäytetyön tarkoituksena on tuottaa ajankohtainen kartoittava katsaus [ks. @hirsjarviTutkiJaKirjoita2009, 134-135] kasvintuotannossa sovellettavien IoT-ratkaisuiden tilanteesta ja niiden tarjoamista mahdollisuuksista. Tietoa saadaan *tähän keskeiset asiakokonaisuudet, avoimet haasteet jne.* 
+Opinnäytetyön tarkoituksena on tuottaa ajankohtainen kartoittava katsaus [ks. @hirsjarviTutkiJaKirjoita2009, 134-135] kasvintuotannossa sovellettavien IoT-ratkaisuiden tilanteesta ja niiden tarjoamista mahdollisuuksista. 
+
+*Tietoa saadaan - tähän keskeiset asiakokonaisuudet, avoimet haasteet jne.* 
 
 
 ## Tutkimuksen tavoitteet
 
-Opinnäytetyön tavoitteena on tuottaa lukijalle ajankohtainen yleiskuva kasvintuotannossa käytettäviin esineiden internetin (Internet of Things, IoT) teknologiasovelluksiin ja niiden tutkimukseen. Lisäksi opinnäytetyö voi toimia lähtökohtana lukijan omalle tiedonhaulle aiheeseen tarkemmin tutustuttaessa.
+Opinnäytetyön tavoitteena on antaa lukijalle ajankohtainen yleiskuva kasvintuotannossa käytettäviin esineiden internetin (Internet of Things, IoT) teknologiasovelluksista ja niiden tutkimuksesta. Lisäksi opinnäytetyö voi toimia lähtökohtana lukijan omalle tiedonhaulle aiheeseen tarkemmin tutustuttaessa.
 
 
 ## Tutkimuskysymykset
@@ -130,7 +132,7 @@ II) Miten kasvintuotannossa hyödynnetään IoT-teknologioita?
 * Millaisia etuja ja hyötyjä IoT-ratkaisut voivat tarjota kasvintuotannossa?
 * Mitkä ovat kasvintuotannon IoT-ratkaisuiden keskeiset avoimet haasteet?
 
-## Tutkimusstrategian/menetelmän valinta
+## Tutkimusmenetelmien valinta
 
 Opinnäytetyön tutkimustehtävänä on koota yhteen laadulliseksi yhteenvedoksi tutkimuksien tuloksia, erilaisten julkaisujen sisältöjä ja asiantuntijoiden näkemyksiä. Tämän takia opinnäytetyö tehtiin käyttämällä laadullisia tutkimusmenetelmiä.
 
@@ -145,7 +147,7 @@ Lisäksi teemahaastattelun valintaa puoltaa tässä tapauksessa se, että sen av
 @hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015 [35-36] esittämät haastattelun haitat, kuten 1) haastattelun tekemisen vaatima taito, 2) sen vaatima aika ja kustannukset, 3) haastattelussa tehtävien virheiden mahdollisuus sekä 4) haastatteluista saatu epärelevantin materiaalin määrä katsottiin tässä tapauksessa olevan haastattelumenetelmän tarjoamiin etuihin verrattuina pieniä, jos ne otetaan huomioon ja niiden vaikutukset pyritään minimoimaan. @tuomiLaadullinenTutkimusJa2018 [79] viittaavat samoihin ongelmiin, kertoen niiden olevan yleisen näkemyksen mukaan pääasiassa menetelmällisiä ja ratkaistavissa haastattelijoiden koulutuksella, rahoituksella jne. 
 
 
-## Kirjallisuuskatsaus
+## Kirjallisuuskatsaus tutkimusmenetelmänä
 
 Kirjallisuuskatsauksella voidaan @baumeisterWritingNarrativeLiterature1997 [311] mukaan rakentaa siltaa kiireisen lukijan ja valtavan, hajallaan olevan teoriatiedon välille. Katsauksella voidaan myös esittää tutkittavasta ilmiöstä laajempia teoreettisia johtopäätöksiä mitä yksittäisen empiirisen tutkimuksen puitteissa on mahdollista. Kirjassaan Mikä kirjallisuuskatsaus? @salminenMikaKirjallisuuskatsausJohdatus2011 [4, 39] kuvailee kirjallisuuskatsausta tutkimusmenetelmänä ja -tekniikkana, jonka avulla voidaan koota yhteen tutkimuksien tuloksia ja näin rakentaa perustaa uusille tutkimustuloksille. Kirjallisuuskatsauksella tehdään siis "tutkimusta tutkimuksesta". Hänen mukaansa tutkija voi kirjallisuuskatsauksen avulla  laaja-alaisesti ja systemaattisesti kerätä erinomaista materiaalia oman alansa tutkimuksesta. Saman suuntaisesti @baumeisterWritingNarrativeLiterature1997 [312] mukaan narratiivinen kirjallisuuskatsaus on teoriakehityksen tekniikka, jota voidaan käyttää myös hypoteesien rakentamiseen. Heidän mukaansa narratiivista kirjallisuuskatsausta voidaan käyttää useiden eri aihepiirien tutkimusten linkittämiseen pyrittäessä joko tutkimusten uudelleentulkintaan tai yhteenliittämiseen. 
 
@@ -153,7 +155,7 @@ Kirjallisuuskatsauksella on @hirsjarviTutkiJaKirjoita2009 [121] mukaan kaksi kes
 
 Kirjallisuuskatsaus pitää tutkimusmenetelmänä sisällään useita eri tyyppejä. Sen kolmena perustyyppeinä pidetään @salminenMikaKirjallisuuskatsausJohdatus2011 [6] mukaan kuvailevaa ja systemaattista kirjallisuuskatsausta sekä meta-analyysiä. Kirjallisuuskatsauksen tyypin valintaan vaikuttavat tutkittava ilmiö, tutkimuskysymykset ja käytettävät aineistot. @onwuegbuzieStepsComprehensiveLiterature2016 [39] mukaan kirjallisuuskatsauksessa käsiteltäviä aineistoja voidaan laajentaa ja katsausta tukea multimodaalisilla eli monimuotoisilla aineistoilla kuten medialla, havainnoilla, blogiaineistolla, asiantuntijakeskusteluilla ja -haastatteluilla sekä toissijaisista tiedoista koostuvalla aineistolla. 
 
-## Kuvaileva kirjallisuuskatsaus
+## Kuvaileva kirjallisuuskatsaus tutkimusmenetelmänä
 
 Tässä opinnäytetyössä käytetään kirjallisuuskatsauksen menetelmänä kuvailevaa kirjallisuuskatsausta. Kuvailevan kirjallisuuskatsauksen orientaatioksi on valittu narratiivinen kirjallisuuskatsaus. Kuvaileva kirjallisuuskatsaus on @salminenMikaKirjallisuuskatsausJohdatus2011 [6] mukaan yleisimmin käytettyjä kirjallisuuskatsauksen perustyyppejä. Hän kuvailee sitä yleiskatsaukseksi, jolla ei ole tiukkoja ja tarkkoja sääntöjä, eivätkä tutkimuskysymykset ole yhtä tiukasti rajattuja kuin systemaattisessa katsauksessa tai meta-analyysissä. Samoin katsauksessa käytetyt aineistot voivat olla laajoja eivätkä metodiset säännöt rajaa niiden valintaa. Kuvaileva katsaus toimii itsenäisenä menetelmänä, joka voi Salmisen mukaan tarjota uusia tutkittavia ilmiöitä systemaattista kirjallisuuskatsausta varten. 
 
@@ -164,7 +166,7 @@ Narratiivisen kirjallisuuskatsauksen neljä yleisintä tyyppiä ovat: teoreettin
 Siinä missä narratiiviset kirjallisuuskatsaukset voivat kuvailla laaja-alaisesti tutkimuskohteeseen liittyviä asiakokonaisuuksia, ne eivät yleensä tarjoa lukijoilleen selvitystä katsauksen laatijan tekemistä päätöksistä. Tämän lisäksi narratiiviset kirjallisuuskatsaukset eivät tarjoa tietoja käsitellyn kirjallisuuden hakuprosessista, kuinka monta tutkimusta valittiin käsiteltäviksi, millaisia valintakriteerejä käytettiin ja kuinka luotettavia tai päteviä käsiteltyjen tutkimusten tulokset ovat. [@onwuegbuzieStepsComprehensiveLiterature2016, 24]
 
 
-## Teemahaastattelu
+## Teemahaastattelu tutkimusmenetelmänä
 
 @hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015 [43, 47-48] kuvailevat kirjassaan Tutkimushaastattelu: teemahaastattelun teoria ja käytäntö puolistrukturoitua haastattelumenetelmää, jota tekijät kutsuvat teemahaastatteluksi. Menetelmä pohjautuu pohjautuu Mertonin, Fisken ja Kendallin kirjassa The Focused Interview kuvailtuun kohdennetun haastattelun (the focused interview) menetelmään. Yleensä tutkimushaastattelujen menetelmät eroavat strukturointiasteen perusteella, eli kysymysten muotoilun sekä haastattelutilanteen jäsentelyn kiinteyden mukaan. Teemahaastattelu asettuu strukturointiasteeltaan lomakehaastattelun ja strukturoimattoman haastattelun väliin. @tuomiLaadullinenTutkimusJa2018 [2018] puolestaan asettavat teemahaastattelun samaan väliin, mutta lähelle strukturoimatonta haastattelua eli syvähaastattelua.
 
@@ -173,7 +175,7 @@ Teemahaastattelussa menetelmän keskeinen piirre on haastattelun eteneminen yksi
 Teemahaastattelun toteutukset voivat @tuomiLaadullinenTutkimusJa2018 [81] mukaan vaihdella tutkimusten välillä huomattavasti. Käsiteltävät teemat perustuvat tutkimuksen viitekehykseen, mutta haastattelujen yhdenmukaisuuden vaateen aste vaihtelee tutkimuksesta toiseen. Tutkija voi valita pitääkö kaikille haastateltaville esittää kaikki suunnitellut kysymykset, voiko kysymysten järjestys vaihdella, tuleeko kysymysten sanamuotojen olla jokaisessa haastattelussa samat jne. Teemahaastatteluiden toteutukset voivat vaihdella strukturoidusti etenevästä lähes syvähaastattelun tyyppiseen haastatteluun. Samoin teemojen sisältämien kysymysten pitäytyminen tutkimuksen viitekehyksessä esitettyyn vaihtelee tiukasti etukäteen tiedetyissä kysymyksissä pitäytymisestä aina intuitiiviseen kokemusperäisten havaintojen sallimiseen. 
 
 
-## Sisällönanalyysi
+## Sisällönanalyysi tutkimusmenetelmänä
 
 Sisällönanalyysiä voidaan käyttää kaikissa laadullisen tutkimuksen perinteissä ja sen avulla voidaan tehdä monenlaista tutkimusta. Sillä voidaan analysoida aineistoa järjestelmällisesti ja objektiivisesti ja sillä pyritään saamaan tiivistetty ja yleinen kuvaus tutkimuksen aiheesta. @tuomiLaadullinenTutkimusJa2018 [2018, 103, 117] mukaan periaatteessa useimmat laadullisen tutkimuksen analyysimenetelmät perustuvat jollain tavalla sisällönanalyysiin, jos sillä tarkoitetaan väljässä teoreettisessa kehyksessä tehtävää kirjoitettujen, kuultujen tai nähtyjen sisältöjen analyysiä. Heidän mukaansa sisällönanalyysiä ei voi tästä näkökulmasta katsottuna pitää pelkästään laadullisen tutkimuksen analyysimenetelmänä. Artikkelissaan Simsalabim, sisällönanalyysi ja koodaamisen haasteet @saloSimsalabimSisallonanalyysiJa2015 [2015] kuvailee samoin sisällönanalyysin keskeiseksi ideaksi suurien tekstimassojen tiivistämisen ja luokittelun aineistoon rakennettuja koodaamisen sääntöjä seuraamalla. Luokitellun aineiston käsittely numeerisen tiedon tapaan on tavallista, mutta menetelmää kritisoidaan laadullisen aineiston analysoinnista määrällisellä menetelmällä. Lisäksi tutkimuksissa tehty luokittelu on suoraviivaista ja yleensä vain sanojen toistumistiheyden laskemista. Salo kritisoi @tuomiLaadullinenTutkimusJa2018 [2018] näkemystä sisällönanalyysistä teoreettisena kehyksenä eikä sisällönanalyysi hänen mukaansa ole käyttökelpoinen analyysin perustaksi. 
 
@@ -190,25 +192,22 @@ Teoriaohjaavassa analyysissä puolestaan teoriaa voidaan käyttää analyysin ap
 Aineiston pelkistämisen analyysimallissa edetään tunnistamalla asiat, joista tutkimuksessa ollaan kiinnostuneita ja pelkistetään näitä asioita ilmaisevia lauseita yksittäisiksi ilmaisuiksi (redusointi). Seuraavaksi samaa kuvaavat ilmaisut luokitellaan samaan alaluokkaan (klusterointi) ja luokka nimetään sen sisältöä kuvaavasti. Tutkijan tulkinnasta riippuu, millä perusteella ilmaisut kuuluvat samaan luokkaan. Analyysiä jatketaan luokittelemalla samansisältöisiä alaluokkia yläluokkiin, jotka nimetään sisältöä kuvaavasti samoin kuin alaluokat. Aineistosta riippuen voidaan yläluokkia vielä luokitella pääluokkiin (abstrahointi). Lopulta kaikki luokat yhdistetään niitä kuvaavaan luokkaan ja luokkien avulla vastataan tutkimustehtävään. Kaikkiaan siis käsitteitä yhdistämällä voidaan saada vastaus tutkimustehtävään ja analyysimallin avulla pyritään tulkintaprosessin systematisointiin sekä tulkinnan mielivaltaisuuden välttämiseen. [@tuomiLaadullinenTutkimusJa2018, 114-116]
 
 
-# AINEISTO JA TUTKIMUSMENETELMÄT
+# AINEISTO JA TUTKIMUKSEN TOTEUTUS
 
 Tässä osiossa kuvaillaan aineiston hankinnassa ja tutkimuksessa käytetyt menetelmät. Kuvailevasta kirjallisuuskatsauksesta kuvaillaan lyhyesti sen alustava työvaihe ja toteutus, aineiston haku ja haussa käytettyjen asiasanojen valintaperusteet. Asiantuntijoiden teemahaastatteluista kuvaillaan lyhyesti miten teemahaastattelun yleisiä käytänteitä on sovellettu, haastateltavien valinnan perusteet, Haastattelujen toteutus järjestelyineen, haastatteluaineiston analyysimenetelmä ja johtopäätösten perustelut.
 
-## Kirjallisuuskatsauksen alustava vaihe
+## Kuvailevan kirjallisuuskatsauksen toteutus
 
 Kirjallisuuskatsauksen aineiston keruumenetelmiä oli useita. Kirjallisuuskatsauksen tekemistä edelsi tutkittavaan ilmiöön tutustuminen alustavien aineistohakujen avulla, keräämällä mahdollisten tiedonantajien kontakteja, käyden asiantuntijakeskusteluja, vierailemalla alan tapahtumissa ja haastatteluja tehden. Kirjallisuuskatsauksen aluksi haettiin IoT:tä yleistasolla ja ilmiönä käsittelevää kirjallisuutta. Seuraavaksi haettiin kasvintuotannon ja maatalouden IoT-sovelluksia käsitteleviä kirjallisuuskatsauksia. Valittujen kirjallisuuskatsausten pohjalta muotoiltiin hakumenetelmät ja valittiin osa lähteistä. Hakujen tuloksista on valittu tekijän harkinnan mukaan tutkittavaa ilmiötä parhaiten kuvaavat ja työhön sopivat lähteet. 
 
 Tutkimuksen alustavassa vaiheessa ilmiöön tutustuttaessa tehtiin useita hakuja aiheeseen liittyvillä asiasanoilla, selattiin erilaisten organisaatioiden ja julkaisujen verkkosivuja, haettiin asiantuntijakontakteja eri tapahtumista jne. Löydöt merkittiin muistiin mahdollista myöhempää käyttöä varten. Alustavassa vaiheessa löydettyjä aineistoja on käytetty myös kirjallisuuskatsausksessa jos ne ovat tekijän harkinnan mukaan olleet tähdellisiä aiheen käsittelylle ja ymmärryksen luomiselle.
 
-
-### Kuvailevan kirjallisuuskatsausksen toteutus
-
 Alustavien hakujen avulla löydetyistä julkaisuista valittiin harkinnanvaraisesti joukko keskeisimpiä asiasanoja. Nämä asiasanat yhdistettiin löydettyjen kirjallisuuskatsausten hakulauseissa käytettyihin tutkimusaiheelle keskeisiin asiasanoihin. Tutkimus- ja hakumenetelmien malleina käytettiin löydettyjen keskeisten kirjallisuuskatsausten menetelmiä. Kirjallisuuskatsausten ja alustavien hakujen tulosten perusteella vuosi 2010 asetettiin aikaisimmaksi julkaisuvuodeksi, koska sitä ennen aiheesta julkaistua kirjallisuutta on löytynyt verrattaen vähän ja nopean teknologiakehityksen myötä aikaisemmat julkaisut ovat todennäköisesti vanhentuneet.
 
-Eri tietokantoihin tehdyissä hauissa käytettiin kunkin kannan hakutoimintoihin sovellettuja hakulauseita. Usein tämä tarkoitti hakulauseiden lyhentämistä tietokantojen hakutoimintojen sallimiin hakusanamääriin sopiviksi. Hakujen tuloksena saatiin joukko erilaisia julkaisuja, joiden joukosta valittiin aihetta käsittelevät kirjallisuuskatsaukset. Samoin kuin alustavien hakujen vaiheessa, kirjallisuuskatsauksista käytiin läpi tuloksien lisäksi tutkimusmenetelmät. Näitä menetelmiä käytettiin hyväksi soveltuvin osin seuraavissa aineistohaun vaiheissa. Tällä pyrittiin varmistamaan, että katsauksissa selkeästi havaitut asiakokonaisuudet tulevat huomioiduksi, hakumenetelmät ja asiasanat ovat laadukkaita sekä tutkittavalle ilmiölle sopivia.
+Eri tietokantoihin tehdyissä hauissa käytettiin kunkin kannan hakutoimintoihin sovellettuja hakulauseita. Usein tämä tarkoitti hakulauseiden lyhentämistä tietokantojen hakutoimintojen sallimiin hakusanamääriin sopiviksi. Hakujen tuloksena saatiin joukko erilaisia julkaisuja, joiden joukosta valittiin aihetta käsittelevät kirjallisuuskatsaukset. Samoin kuin alustavien hakujen vaiheessa, kirjallisuuskatsauksista käytiin läpi tuloksien lisäksi tutkimusmenetelmät. Näitä menetelmiä käytettiin hyväksi soveltuvin osin seuraavissa aineistohaun vaiheissa. Tällä pyrittiin varmistamaan, että katsauksissa selkeästi havaitut asiakokonaisuudet tulevat huomioiduksi, hakumenetelmät ja asiasanat ovat laadukkaita sekä tutkittavalle ilmiölle sopivia. Lopuksi tietokantahakujen ja muiden aineiston hankinnan menetelmien avulla löydetystä aineistosta valittiin harkinnanvaraisesti aihetta parhaiten kuvailevat julkaisut. Valinnassa painotettiin tunnettujen ja aihetta laajasti julkaisuissaan käsitelleiden tutkijoiden töitä sekä laadukkaita julkaisuja. Osaa aineistosta ei käsitelty katsauksessa niiden päällekkäisyyden ja opinnäytetyön rajallisen laajuuden takia.
 
 
-#### Kirjallisuuskatsauksen aineistojen haku
+### Kirjallisuuskatsauksen aineistojen haku
 
 Alustavia aineistohakuja tehtiin hakukoneista Google-haulla (https://google.com) ja Google Scholar -haulla (https://scholar.google.fi) sekä ResearchGaten (https://www.researchgate.:net) haku- ja suositustoimintojen avulla. Haaga-Helian kirjaston tarjoamista tietokannoista alustavia hakuja tehtiin seuraaviin: 
 
@@ -232,19 +231,14 @@ Varsinaiseen hakuun valittiin Haaga-Helian kirjaston tarjoamista tietokannoista 
 * Elsevier ScienceDirect Freedom Collection (https://www.elsevier.com/solutions/sciencedirect)
 * IEEE Xplore Electronic Library (https://ieeexplore.ieee.org/Xplore/home.jsp)
 
-Näiden lisäksi käytettiin Google Scholar -hakukonetta (https://scholar.google.fi) ja ResearchGate-tutkimusportaalia (https://www.researchgate.:net).
+Näiden lisäksi käytettiin Google Scholar -hakukonetta (https://scholar.google.fi) ja ResearchGate-tutkimusportaalia (https://www.researchgate.:net). Hakulauseet muodostettiin kahdesta hakusanojen ryhmästä, joista ensimmäiseen valittiin IoT:lle keskeiset asiasanat ja toiseen ryhmään valittiin kasvintuotannolle ja maataloudelle keskeiset asiasanat. Ryhmien välillä käytettiin AND-operaattoria ja ryhmien sisällä käytettiin hakusanojen välillä OR-operaattoria. Julkaisuaika rajattiin vuoden 2010 aikana ja sen jälkeen julkaistuihin hakutuloksiin.
 
-Hakulauseet muodostettiin kahdesta hakusanojen ryhmästä, joista ensimmäiseen valittiin IoT:lle keskeiset asiasanat ja toiseen ryhmään valittiin kasvintuotannolle ja maataloudelle keskeiset asiasanat. Ryhmien välillä käytettiin AND-operaattoria ja ryhmien sisällä käytettiin hakusanojen välillä OR-operaattoria. Julkaisuaika rajattiin vuoden 2010 aikana ja sen jälkeen julkaistuihin hakutuloksiin.
+Alustavissa aineistohauissa löydettyjen aineistojen asiasanojen sekä löydettyjen kirjallisuuskatsausten käyttämien hakusanojen joukosta koottiin tutkittavalle ilmiölle keskeisimmät hakusanat. Hakusanojen valinnassa käytettiin vain englanninkielisiä sanoja, koska suomenkielisten aineistojen arveltiin käyttävän sekä suomen- että englanninkielisiä asiasanoja ja löytyvän englanninkielisten hakusanojen avulla. Asiasanat, jotka eivät selkeästi liittyneet kasvintuotannon IoT:n tutkimukseen ja teknologiaratkaisuihin jätettiin pois. Asiasanoista muodostettiin hakulause, jonka hakusanat on jaettu kahteen ryhmään (liite 0). 
 
 Hakulauseita muokattiin kunkin tietokannan hakutoimintojen mahdollisuuksien puitteissa. Useiden tietokantojen hakutoiminnot rajoittivat hakulauseissa käytettävien hakusanojen määrää (ks. edellä kohta Kuvailevan kirjallisuuskatsausksen toteutus). Tällöin maataloutta kuvaavan toisen hakusanaryhmän hakusanoista (ks. alla kohta Asiasanojen valintaperusteet) jätettiin harkinnanvaraisesti pois vähemmän merkittäviä hakusanoja ja/tai hakulause jaettiin useampaan hakuun. Erilaisten hakulauseiden antamia hakutuloksia vertailtiin keskenään, jonka jälkeen tarvittaessa muotoiltiin käytettävälle tietokannalle parhaiten tuloksia antava hakulause. Tietokantahakujen lisäksi aineistoa kerättiin tietokantojen suosittelemien julkaisujen joukosta. Esimerkiksi ResearchGaten Suggested for you sekä IEEE Xploren Related Articles -toiminnot ehdottivat useita lähteiksi valittuja julkaisuja.
 
 
-##### Asiasanojen valintaperusteet
-
-Alustavissa aineistohauissa löydettyjen aineistojen asiasanojen sekä löydettyjen kirjallisuuskatsausten käyttämien hakusanojen joukosta koottiin tutkittavalle ilmiölle keskeisimmät hakusanat. Hakusanojen valinnassa käytettiin vain englanninkielisiä sanoja, koska suomenkielisten aineistojen arveltiin käyttävän sekä suomen- että englanninkielisiä asiasanoja ja löytyvän englanninkielisten hakusanojen avulla. Asiasanat, jotka eivät selkeästi liittyneet kasvintuotannon IoT:n tutkimukseen ja teknologiaratkaisuihin jätettiin pois. Asiasanoista muodostettiin hakulause, jonka hakusanat on jaettu kahteen ryhmään (liite 0). 
-
-
-## Teemahaastattelujen alustava vaihe
+## Teemahaastattelujen toteutus
 
 Kokonaisuutena teemahaastatteluissa pyrittiin tuomaan esille AIoT:n erilaisia ilmentymiä mahdollisimman laaja-alaisesti. Yksittäisissä teemahaastatteluissa pyrittiin syventymään kunkin haastateltavan asiantuntijan erikoisalaan ja kokemuksiin. Tämän takia teemahaastattelujen kysymykset pidettiin avoimina ja kutakin teemaa käsiteltiin haastateltavan asiantuntemuksen mukaan.
 
@@ -261,7 +255,7 @@ Haastateltavien määrää rajoitti käytettävät resurssit ja aika. Opinnäyte
 Haastateltaviksi valittiin AIoT:hen perehtyneitä asiantuntijoita, jotka tulivat esille aiheeseen liittyvistä julkaisuista, tavattiin tapahtumissa tai joita muut asiantuntijat suosittelivat haastateltaviksi. Haastattelujen toteutumiseen ja tätä kautta haastateltavien valikoitumiseen vaikutti myös suurelta osin haastateltavien lähestyttävyys. Useita lupaavia kontakteja ei saatu haastateltaviksi alustavien keskustelujen jälkeen ja useilta kontakteilta ei saatu vastauksia haastattelupyyntöihin. Haastateltaviksi olisi ollut hyvä saada valittujen asiantuntijoiden lisäksi kasvihuone- ja puutarhatuotantoon erikoistuneita asiantuntijoita sekä viljelijöitä kasvihuone-, puutarha- ja peltotuotannon aloilta. Tämä ei kuitenkaan toteutunut suurelta osin opinnäytetyön laajuuden rajallisuuden vuoksi ja nämä haastattelut jätetään jatkotutkimuksen aiheeksi.
 
 
-### Teemahaastatteluiden toteutus
+### Haastattelujen toteutukset
 
 Haastattelujen teemat laadittiin alustavilla hauilla kerätyn aineiston ja alustavien keskustelujen perusteella. Poiketen yleisistä teemahaastattelujen menetelmäohjeista haastatteluiden teemoja voitiin muutettaa tarvittaessa ennen haastatteluja harkinnanvaraisesti, mutta pitäen huolta kaikkien teemojen käsittelystä kaikissa haastatteluissa. Perusteena tälle on se, että tämän työn asiantuntijahaastatteluissa ei ollut tarpeellista tutkia haastateltavien reaktioita tietyssä järjestyksessä esille otettuihin teemoihin. Tarvittaessa teemojen hienosäätöä tehtiin kunkin haastateltavan asiantuntijan erikoistumisen mukaan, ottaen huomioon aikaisemmista haastatteluista saadut kokemukset ja taustatyöstä saadut tiedot (ks. liite 0). Haastattelun teemoja järjesteltiin uudelleen myös haastattelutilanteen niin vaatiessa, myötäillen haastattelun kulkua mutta varmistamalla kaikkien suunniteltujen teemojen käsittelyn.
 
@@ -273,18 +267,18 @@ Haastattelut toteutettiin 8.11.2017 - 11.4.2018 välisenä aikana. Haastateltava
 Koska opinnäytetyön tutkimusongelma on laadullinen haastatteluaineiston analyysimenetelmäksi valittiin sisällönanalyysi. Sisällönanalyysillä pyritään systemaattisesti tuomaan aineistosta esille aineiston laadullisia ominaisuuksia järjestelemällä ja kuvailemalla aineistoa. Analyysin keskeinen tehtävä on löytää tutkittavaa ilmiötä kuvailevia väittämiä, joilla voidaan vastata opinnäytetyön tutkimuskysymyksiin.
 
 
-#### Sisällönanalyysi
+#### Haastatteluaineiston analyysi sisällönanalyysin menetelmillä 
 
 Haastatteluaineiston sisällönanalyysillä pyritään tuomaan esille haastatteluissa käsiteltyjen teemojen esiintymiä ja yhteyksiä sekä tiivistämään aineistoa [ks. @hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 137]. Aineistolähtöisellä menetelmällä pyritään myös parantamaan laadullisten havaintojen luotettavuutta määrällisellä menetelmällä. 
 
 Tutkittaessa eri menetelmiä haastatteluaineiston havainnollistamiseen ja tiivistämiseen tutustuttiin pintapuolisesti ensin affiniteettianalyysiin, sisällönanalyysiin, aineistolähtöiseen teoriaan (engl. grounded theory, ankkuroitu teoria), sisällön teemoitteluun ja taulukointiin. Käytännön kokeilujen kautta päädyttiin sisällönanalyysiä soveltavaan menetelmään, jossa käytetään taulukointia, havaintojen ja sanamäärien analysointia sekä jatkuvaa aineiston vertailun menetelmää. Havainnollistamiseen käytetään kaavioita ja lämpökarttoja, jotka perustuvat haastatteluaineistosta löydettyjen ilmaisujen esiintymien lukumääriin ja niiden keskinäisiin suhteisiin.
 
-Käytetyn menetelmän avulla pyritäänn tiivistämään aineistosta havaitut merkitykselliset ilmaisut, asiasanat ja asiasisällöt asiakokonaisuuksiksi, joiden yhteneväisyyksiä, eroja ja esiintymiä voidaan tarkastella ja analysoida. Analyysillä pyritään sekä trianguloimaan haastatteluista tehtyjä johtopäätöksiä että hakemaan uusia näkökulmia haastatteluaineistoon. Triangulaation luotettavuutta ja uusien näkökulmien havainnointia pyrittiin edistämään soveltamalla aineistolähtöistä (engl. Groud up) kategorioiden kehittelyä, jossa aikaisempien tietojen vaikutus tutkittavasta ilmiöstä pyrittiin minimoimaan. Tämän takia tuloksena saadut kategoriat eivät vastaa muissa aihetta käsittelevissä julkaisuissa käytettyjä. Tämä voi vähentää havaintojen vertailtavuutta mutta toisaalta voi tuoda paremmin esille juuri tämän haastatteluaineiston erityispiirteet.
+Käytetyn menetelmän avulla pyritään tiivistämään aineistosta havaitut merkitykselliset ilmaisut, asiasanat ja asiasisällöt asiakokonaisuuksiksi, joiden yhteneväisyyksiä, eroja ja esiintymiä voidaan tarkastella ja analysoida. Analyysillä pyritään sekä trianguloimaan haastatteluista tehtyjä johtopäätöksiä että hakemaan uusia näkökulmia haastatteluaineistoon. Triangulaation luotettavuutta ja uusien näkökulmien havainnointia pyrittiin edistämään soveltamalla aineistolähtöistä (engl. Groud up) kategorioiden kehittelyä, jossa aikaisempien tietojen vaikutus tutkittavasta ilmiöstä pyrittiin minimoimaan. Tämän takia tuloksena saadut kategoriat eivät vastaa muissa aihetta käsittelevissä julkaisuissa käytettyjä. Tämä voi vähentää havaintojen vertailtavuutta mutta toisaalta voi tuoda paremmin esille juuri tämän haastatteluaineiston erityispiirteet.
 
 Tuloksia tarkasteltaessa on otettava huomioon, että koodien havaittu yleisyys ei välttämättä korreloi niiden merkittävyyden kanssa. Lisäksi suuressa osassa koodeja havaittiin vain muutamia esiintymiä, jolloin virheellisten havaintojen vaikutus koodin ja alikategorian luokittelussa voi johtaa analyysiä harhaan. Samoin on otettava huomioon tekijän kokemattomuus, mikä voi korostaa virheiden ja tekijän omien subjektiivisten näkemysten vaikutuksia. Erityisesti on otettava huomioon koko tutkimusprosessin olevan yhden ensimmäistä kertaa asialla olevan tekijän tuotos. Tämä voi ilmetä työn kaikissa vaiheissa muun muassa yksipuolisuutena ja taipumuksena ennakko-odotusten mukailuun. Lisäksi koodien havaintojen laskennassa olisi voinut vertailun vuoksi käyttää myös sääntöä, jossa kahdessa tai kolmessa peräkkäisessä segmentissä havaittu koodi olisi laskettu yhdeksi havainnoksi. Tämä laskumalli jätettiin pois toteutuksesta opinnäytetyön laajuuden rajallisuuden vuoksi ja jätetään mahdollisen jatkoanalyysin aiheeksi.
 
 
-##### Sisällönanalyysin kulku
+##### Sisällönanalyysin menetelmien käyttö
 
 Sisällönanalyysi eteni aineiston koodauksen ja kategorisoinnin kautta taulukointiin, josta edettiin analyysiin ja jonka perusteella tehtiin johtopäätökset [ks. @tuomiLaadullinenTutkimusJa2018, 104 - 107)].
 Sisällönanalyysi toteutettiin lukemalla haastatteluaineisto huolellisesti, merkitsemällä taulukkoon havaitut merkitykselliset ilmaisut koodeina, kategorisoimalla koodit ja analysoimalla saatuja tuloksia. Saatuja tuloksia käytettiin haastatteluaineistosta tehtyjen aikaisempien havaintojen ja päätelmien tarkistamisessa sekä uusien asiayhteyksien etsimisessä.
@@ -347,6 +341,8 @@ Tässä luvussa kuvaillaan tutkimuksen tulokset. Kirjallisuuskatsauksen ja teema
 ## Kirjallisuuskatsauksen tulokset
 
 Tässä osiossa käsitellään kirjallisuuskatsauksen tulokset jaoteltuina seuraavasti: yleinen kuvailu, AIoT-ratkaisuissa käytettävät teknologiat, AIoT-ratkaisujen sovellusalueet, AIoT:n avoimet haasteet ja aineistossa esitetyt AIoT-arkkitehtuurit.
+
+*TÄHÄN KUVAILU AINEISTON VALINNAN HARKINNANVARAISUUDEN MAHDOLLISISTA VAIKUTUKSISTA, MITEN OMAT MIELIKUVAT OVAT VOINEET VAIKUTTAA TULOKSIIN*
 
 ### Yleinen kuvailu
 
