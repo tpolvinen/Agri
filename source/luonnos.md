@@ -1103,12 +1103,12 @@ Hakulauseiden muodostukseen käytettiin kahta hakusanaryhmää, joista ensimmäi
 
 ## Liite __. Koodien havainnot taulukoituna
 
-![Haastatteluaineiston koodien havainnot taulukoituina yhdessä ja eriteltyinä haastattelukohtaisesti](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/Liite-HavainnotTaulukoituna.png "Koodien havainnot taulukoituina"){ width=270mm }
+![Haastatteluaineiston koodien havainnot taulukoituina yhdessä ja eriteltyinä haastattelukohtaisesti](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/Liite-HavainnotTaulukoituna.png "Koodien havainnot taulukoituina"){ width=155mm }
 
 
 ## Liite __. Havaintojen määrät kategorioittain
 
-![Havaintojen määrien jakautuminen haastatteluaineistossa kategorioittain 1](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/Liite-HavaintojenJakautuminen1.png "Havaintojen jakautuminen 1"){ width=150mm }
+![Havaintojen määrien jakautuminen haastatteluaineistossa kategorioittain 1](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/Liite-HavaintojenJakautuminen1.png "Havaintojen jakautuminen 1"){ width=155mm }
 
 ![Havaintojen määrien jakautuminen haastatteluaineistossa kategorioittain 2](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/Liite-HavaintojenJakautuminen2.png "Havaintojen jakautuminen 2"){ width=100mm }
 
@@ -1135,7 +1135,7 @@ Hakulauseiden muodostukseen käytettiin kahta hakusanaryhmää, joista ensimmäi
 
 ## Liite __. R heatmap.2
 
-![R heatmap.2:lla koodien havainnoista tuotettu lämpökartta ja dendogrammi](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/Liite-Rheatmap2.png "Lämpökartta ja dendogrammi"){ width=270mm }
+![R heatmap.2:lla koodien havainnoista tuotettu lämpökartta ja dendogrammi](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/Liite-Rheatmap2.png "Lämpökartta ja dendogrammi"){ width=100mm }
 
 
 
