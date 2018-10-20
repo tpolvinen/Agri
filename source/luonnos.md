@@ -92,11 +92,14 @@ Ensimmäisenä IoT-laitteena tai "esineenä" on IBM:n blogikirjoituksessa [@teic
 
 IoT:lle on esitetty useita erilaisia määritelmiä. Useat määritelmät keskittyvät IoT:n perustavan laatuisiin vaatimuksiin verkottuneisuudesta ja antureista. Toisaalta uusimmissa määrittelyissä on aiempaa enemmän painotettu laitteiden ubiikkien ja autonomisten verkkojen tarvetta. Näissä verkkoratkaisuissa objektien tunnistamisella ja palveluiden integraatiolla on keskeisen tärkeä rooli. Laitteiden verkkojen lisäksi viime aikaisissa IoT:n määrittelyissä laitteiden ja verkkojen älykkyys (engl. smartness) on usein esillä. Älykkyys erottaa IoT:n määritelmän samankaltaisista konsepteista kuten anturiverkoista. [@buyya2016internet, 5]
 
-IoT:n kontekstissa termillä "esine" tai "thing" tarkoitetaan kokonaisuutta, joka on sekä tietoinen kontekstistaan että kykenevä viestimään toisten kokonaisuuksien kanssa ja joka on saatavilla milloin ja mistä tahansa. [@buyya2016internet, 3] Koska tällä voidaan tarkoittaa muun muassa älykkäitä laitteita, antureita ja ihmisiä, terminä "esineiden internet" voi antaa lukijan ymmärtää etteivät ihmiset kuuluisi sen toiminnan piiriin. Tämän takia tässä opinnäytetyössä suositaan lyhennettä IoT termin "esineiden internet" sijaan.
+IoT:n kontekstissa termillä "esine" tai "thing" tarkoitetaan kokonaisuutta, joka on sekä tietoinen kontekstistaan että kykenevä viestimään toisten kokonaisuuksien kanssa ja joka on saatavilla milloin ja mistä tahansa. [@buyya2016internet, 3] Koska tällä voidaan tarkoittaa muun muassa älykkäitä laitteita, antureita ja ihmisiä, terminä "esineiden internet" voi antaa lukijan ymmärtää etteivät ihmiset kuuluisi sen toiminnan piiriin. Tämän takia tässä opinnäytetyössä suositaan lyhennettä "IoT" termin "esineiden internet" sijaan.
 
 IoT-arkkitehtuurien keskeisiä osia ovat anturit, etäpalveluiden käyttö, tietoliikenneverkot ja toimintaympäristöstä tietoinen tapahtumien käsittely. Erillisinä teknologioina nämä kaikki ovat olleet olemassa jo kauan, mutta IoT pyrkii yhdistämään nämä älykkäiden laitteiden verkoksi, joita ihmiset tarpeen mukaan ohjaavat ja jotka pystyvät viestimään toistensa kanssa. Hajautetuissa toimintaympäristöissä kuten IoT-ratkaisuissa yleensä, yksiköiden yhteenliitettävyys on järjestelmien toiminnalle kriittinen vaatimus. Järjestelmien osien saumattoman yhteistoiminnan varmistamiseksi tarvitaan holistista järjestelmäarkkitehtuuria, jonka avulla fyysinen ja virtuaalinen toimintaympäristö voidaan yhdistää. Lisäksi IoT-arkkitehtuurissa tulee huomioida virhetilanteista toipuminen eri tasoilla sekä järjestelmän skaalautuvuus ja sopeutuvuus käyttöympäristöjen muutoksiin. Hajautetuissa järjestelmissä resurssien hallinnointi on palvelunlaadulle (engl. Quality of Service, QoS) keskeistä, mikä korostuu IoT-ratkaisuissa. Resurssien hallinnointi kattaa resurssien löydettävyyden ja tunnistamisen, toimintojen ajoituksen ja resurssien jaottelun hyödyllisyyden maksimoimiseksi hinnan, energiankulutuksen, tehokkuuden jne. mukaan. Erityisen haastavaksi resurssien hallinnoinnista IoT-ratkaisuissa tekee ratkaisuiden käyttämien resurssien heterogeeninen ja dynaaminen luonne, mikä edelleen korostuu suuren mittakaavan ratkaisuissa. Tällöin tehokas resurssien hallinnoinnti edellyttää huomattavan varmatoimista, energiatehokasta ja skaalautuvaa ratkaisua. [@buyya2016internet, 7,10]
 
-Suuren mittakaavan ratkaisuissa miljoonien anturien tuottaman datan analytiikan ratkaisut keskittyvät yleensä massadatan (engl. Big Data) analytiikkamenetelmiin. Tuotetun datan tosiaikainen käsittely ja prosessointi on kuitenkin vielä haastavaa. Pilvipalveluratkaisut joita käytetään yleensä datan prosessointiin ja tallennuksen eivät ole tarpeeksi skaalautuvia eivätkä pysty prosessoimaan tuotettua dataa tiukkojen latenssivaatimusten puitteissa. Tosiaikaisen prosessoinnin vaatimukset ja verkon reunan laitteiden laskentakapasiteetin kasvu ohjaavat ratkaisuita enenevissä määrin sumulaskennan käyttöön. Sumulaskennan ratkaisuilla voidaan jakaa datan prosessointia lähelle käyttäjiä ja datan tuotantoa, jolloin voidaan vähentää verkon aiheuttamaa latenssia, säästää prosessointi- ja tallennuskuluissa, aggregoida dataa sekä estää arkaluontoisen datan vienti paikallisen verkon ulkopuolelle.  [@buyya2016internet, 14]
+Suuren mittakaavan IoT-ratkaisuissa miljoonien anturien tuottaman datan analytiikan ratkaisut keskittyvät yleensä massadatan (engl. Big Data) analyysimenetelmiin. Tuotetun datan tosiaikainen käsittely ja prosessointi on kuitenkin vielä haastavaa. Pilvipalveluratkaisut joita käytetään yleensä datan prosessointiin ja tallennuksen eivät ole tarpeeksi skaalautuvia eivätkä pysty prosessoimaan tuotettua dataa tiukkojen latenssivaatimusten puitteissa. Tosiaikaisen prosessoinnin vaatimukset ja verkon reunan laitteiden laskentakapasiteetin kasvu ohjaavat ratkaisuita enenevissä määrin sumulaskennan käyttöön. Sumulaskennan ratkaisuilla voidaan jakaa datan prosessointia lähelle käyttäjiä ja datan tuotantoa, jolloin voidaan vähentää verkon aiheuttamaa latenssia, säästää prosessointi- ja tallennuskuluissa, aggregoida dataa sekä estää arkaluontoisen datan vienti paikallisen verkon ulkopuolelle. [@buyya2016internet, 14]
+
+Tietoliikennetekniikan näkökulmasta IoT voidaan nähdä heterogeenisten verkkoteknologioiden kasautumana tai yhdistelmänä. Yleisiä IoT-ratkaisuissa käytettyjä tietoliikenneprotokollia ja viestintäratkaisuja ovat muun muassa matkapuhelinverkot (3G, 4G, CDMA, jne.), RFID, IEEE 802.11 (WLAN), IEEE 802.15.4 (ZigBee), Near Field Communication (NFC), IEEE
+802.15.1 (Bluetooth), 6LoWPAN, MQTT sekä IPv4 ja IPv6. Saumattomasti toimiva yhteenliitettävyys ja -toimivuus ovat IoT-ratkaisuiden keskeisiä toiminnallisia vaatimuksia. Tietoliikenneverkon nopeus, luotettavuus ja yhteyksien kestävyys vaikuttavat suoraan järjestelmän toimintaan ja käyttökokemukseen. Nopeiden mobiiliyhteyksien sekä paikallisten langattomien tietoliikenneprotokollien kuten WiFi, Bluetooth ja WiMax yleistyessä IoT-paradigman mukaisten verkottuneiden objektien verkostojen toteuttaminen vaikuttaa mahdolliselta, vaikka heterogeenisten tietoliikenneprotokollien yhteistoiminnassa on vielä avoimia haasteita.  [@buyya2016internet, 15-16]
 
 Samoin kuin määritelmästä, myös IoT:n referenssiarkkitehtuurista on esitetty useita ehdotuksia. Referenssiarkkitehtuuri antaa järjestelmästä muita arkkitehtuurimalleja paremman ja korkeamman tason abstrahoinnin ja piilottaa suuren osan teknisistä rajoitteista ja sovellettavien ratkaisujen yksityiskohdista. [@buyya2016internet, 8] Esimerkiksi IoT-A-hanke tuotti IoT-referenssiarkkitehtuurin osana arkkitehtuurin referenssimallia, joka esittelee IoT-arkkitehtuuria eri näkökulmista erilaisille sidosryhmille [@bauerInternetThingsArchitecture2013]. Hankkeen loppuraportissa esiteltiin yhtenä näkökulmana IoT-referenssiarkkitehtuurin toiminnallinen jaottelu (ks. kuva __).
 
@@ -106,13 +109,17 @@ Toisena esimerkkinä IoT-referenssiarkkitehtuurista [@buyya2016internet, 8] esit
 
 ![. Laajennettu IoT-referenssiarkkitehtuuri @buyya2016internet mukaan verrattuna IoT World Forum:ille esitettyyn referenssiarkkitehtuuriin](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/ReferenceArchitecturesComparison.png "IoT-referenssiarkkitehtuurien vertailua"){ width=155mm }
 
+Verkottuneista, älykkäistä ja yksilöllisesti tunnistettavista objekteista rakentuva IoT-infrastruktuuri muodostaa alustan IoT-teknologioiden sovelluksille. Näiden teknologiasovellusten kirjo on huomattavan laaja niiden mittakaavan ulottuessa yksittäisistä esineistä ja kodin automatiikasta älykkääseen kaupunkiin (engl. smart city). 
+
+*Keskeisiä teollisuusalojen mukaan suuntautuneita IoT-sovelluksia ovat logistiikan ja liikenteen, toimitusketjun, kaluston seurannan, lentoliikenteen*
+
+*Elämän laadun parantamiseen kohdistuvia järjestelmiä sekä yksilön että yhteiskunnan tasolla ovat terveydenhuollon, älykkäiden kaupunkien ja rakennusten, yhteisöllisen IoT:n ratkaisut*
+
+*Ympäristöön keskittyviä/suuntautuvia ovat: Suuronnettomuuksien hallinnan, ympäristöntarkkailun, älykkään kastelun ja energianjakelun optimointi älykkäiden sähköverkkojen ja sähkömittarien avulla*
+
+*IoT sovellukset voidaan jakaa niiden käyttötarkoituksen mukaan: tarkkailu ja aktuointi, liiketoimintaprosessit ja data-analytiikka, informaation kerääminen ja yhteisöllinen käyttö*
 
 
-*Datan hallinnointi ja analytiikka -sumulaskenta ja reaaliaikainen analytiikka*
-
-*Tietoliikenneprotokollat*
-
-*IoT sovellukset -tarkkailu ja aktuointi, liiketoimintaprosessit ja data-analytiikka, informaation kerääminen ja yhteisöllinen käyttö*
 
 *Turvallisuus, yksityisyys, identiteetinhallinta*
 
@@ -122,15 +129,6 @@ IoT:n laajentumisesta ja markkinoiden arvosta on esitetty useita optimistisia ja
 
 IoT voi mahdollistaa liiketoiminnan ja terveydenhuollon toimintamallien muutoksia laajentamalla yksiköiden välisiä viestintäkanavia, mahdollistaen automaatiota ja prosessien hallintaa sekä vähentämällä yleisiä asennuksien, ylläpidon ja huollon kustannuksia. [@buyya2016internet, 7]
 
-
-
-
-
-
-
-*Vai ehkä sittenkin Ciscon IoT World Forum Architecture Committee:lle tekemä 7-kerroksinen vastaava reference model? [http://cdn.iotwf.com/resources/72/IoT_Reference_Model_04_June_2014.pdf]*
-
-*niin sanotussa sumussa voidaan dataa tallentaa käyttäjien laitteiden tai verkon tukiasemien muistiin ennakoivana varastointina (sumu-laskenta)*
 
 ### Teollisuuden esineiden Internetin eli Industrial Internet of Things:in taustaa
 
