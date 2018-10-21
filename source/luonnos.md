@@ -89,21 +89,22 @@ Internetin kehityksen fokus on siirtymässä ihmisten välisestä kommunikaatios
 
 Ensimmäisenä IoT-laitteena tai "esineenä" on IBM:n blogikirjoituksessa [@teicherLittleknownStoryFirst2018] viitattu Carnegie Mellon -yliopiston Tietojenkäsittelytieteen osaston Coca-Cola -automaattiin, jonka merkkivaloihin vuonna 1982 silloiset opiskelijat David Nichols, Mike Kazar, Ivor Durham ja John Zsarnay liittivät anturit [ks. @nicholsOnlyCokeMachine]. Anturit kytkettiin osaston päätietokoneeseen jossa toimivan ohjelman avulla käyttäjät pystyivät tarkistamaan automaatin tilan ARPANETin ylitse. Näin käyttäjä pystyi tarkastamaan miltä tahansa ARPANETiin kytketyltä tietokoneelta oliko automaatissa tarjolla juomia, kannattiko automaatille menoa lykätä juomien jäähtymiseen asti vai oliko kylmää kolaa saatavilla saman tien.
 
-IoT:n historia ulottuu kuitenkin näitä ensimmäisiä ilmentymiä pidemmälle. RFID-tunnisteiden kehittämiseen *(ks. Stockman, 1948)* viitataan usein ensimmäisenä askeleena kohti fyysisen maailman ja tietojenkäsittelyn virtuaalisen maailman yhdistymistä. Näiden maailmojen yhdistämisen edistymisestä selkeä esimerkki on vuonna 1987 TRON-hankkeessa esitetty avoin kerroksellinen arkkitehtuuri, jonka avulla pyrittiin erilaisten teollisten sulautettujen järjestelmien yhdistämiseen liiketoiminnan tietojärjestelmien, verkotettujen tiedostopalvelimien sekä älykkäiden objektien kanssa (ks. kuva __). [@sakamuraTronProject1987] Sekä arkkitehtuurien kerroksellisuus että järjestelmien yhteenliitettävyys, erityisesti älykkäiden objektien kanssa, ovat edelleen keskeisiä IoT-ratkaisuiden ominaisuuksia ja usein myös avoimia haasteita.
+IoT:n historia ulottuu kuitenkin näitä ensimmäisiä ilmentymiä pidemmälle. RFID-tunnisteiden kehittämiseen [ks. @stockmanCommunicationMeansReflected1948] viitataan usein ensimmäisenä askeleena kohti fyysisen maailman ja tietojenkäsittelyn virtuaalisen maailman yhdistymistä. Näiden maailmojen yhdistämisen edistymisestä selkeä esimerkki on --edellä mainitun juoma-automaatin lisäksi-- vuonna 1987 TRON-hankkeessa esitetty avoin kerroksellinen arkkitehtuuri, jonka avulla pyrittiin erilaisten teollisten sulautettujen järjestelmien yhdistämiseen liiketoiminnan tietojärjestelmien, verkotettujen tiedostopalvelimien sekä älykkäiden objektien kanssa (ks. kuva __). [@sakamuraTronProject1987] Arkkitehtuurien kerroksellisuus, järjestelmien yhteenliitettävyys ja älykkäät objektit tai esineet ovat edelleen keskeisiä IoT-ratkaisuiden ominaisuuksia ja kaksi viimeksi mainittua usein myös avoimia haasteita.
 
 ![. TRON-arkkitehtuurien yhdistäminen @sakamuraTronProject1987 mukaan - ITRON (industrial TRON) ja BTRON (business TRON) voidaan yhdistää tiedostopalvelimeen CTRON eri tavoilla](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/TRONarchitecturesConnection.png "TRON-arkkitehtuurien yhdistäminen"){ width=100mm }
 
+Muita kirjallisuudessa mainittuja IoT:n historian tapahtumia ovat olleen muun muassa [@gillenAssessingBenefitsCosts1999] esittämä ensimmäinen sähköinen siltakäyttömaksujen keräysjärjestelmä Oklahomassa sekä [@Gates:1995:RA:600573] kuvailu älykkäiden verkottuneiden laitteiden järjestelmän toiminnasta. 
 
-*1991 Ensimmäinen Electronic Toll Collection (ETC) Gillen et al. 1999*
-*1995 Bill Gates mainitsee IoT-konseptin kirjassaan The Road Ahead*
+Vuonna 2005 Wal-Mart otti RFID-tunnisteet käyttöön sadassa suurimmassa myymälässään. Lähes samanaikaisesti RFID-tunnisteet otettiin käyttöön myös IBM:n, Tescon ja Microsoftin toiminnassa ja RFID-tunnisteet ovat edelleen keskeisessä osassa useita IoT-ratkaisuita. [@taoInternetThingsProduct2016] 
 
-RFID-tunnisteet ovat edelleen keskeisessä osassa useita IoT-ratkaisuita. Vuonna 2005 Wal-Mart otti RFID-tunnisteet käyttöön sadassa suurimmassa myymälässään. Lähes samanaikaisesti RFID-tunnisteet otettiin käyttöön myös IBM:n, Tescon ja Microsoftin toiminnassa. [@taoInternetThingsProduct2016] 
 *Anturiverkkojen keskeinen asema mobiilin tietojenkäsittelyn ja tietoliikenteen osana on mainittu useissa kansainvälisissä konferensseissa [@taoInternetThingsProduct2016]*
 
 
 IoT:lle on esitetty useita erilaisia määritelmiä. [@atzoriInternetThingsSurvey2010, 2788] arvelevat, että kirjallisuutta selailevalla kiinnostuneella lukijalla voi olla huomattavia vaikeuksia käsittää mitä IoT todellisuudessa tarkoittaa, mitä käsitteitä se pitää sisällään ja millaisia vaikutuksia sen täysimittaisella toteutumisella tulee olemaan. 
 
 Joskus huomattavatkin erot IoT-visioiden välillä johtuvat niiden tuottamisessa mukana olevien sidosryhmien lähestymistavoista ja näkökulmista, jotka ovat joko "internetlähtöisiä" tai "esinelähtöisiä" riippuen sidosryhmien kiinnostuksen kohteista ja taustoista [@atzoriInternetThingsSurvey2010]. Semanttisesta näkökulmasta "Internet of Things" tarkoittaa globaalia verkottuneiden ja yksilöllisesti osoitettavissa olevien objektien verkkoa, joka perustuu standardoituun tietoliikenneprotokolliin [@bassiInternetThings20202008, 4].
+
+IoT:tä voidaan luonnehtia myös sen ominaispiirteiden avulla, joihin kuuluvat [@]
 
 Useat määritelmät keskittyvät IoT:n perustavan laatuisiin vaatimuksiin verkottuneisuudesta ja antureista. Toisaalta uusimmissa määrittelyissä on aiempaa enemmän painotettu laitteiden ubiikkien ja autonomisten verkkojen tarvetta, joissa objektien tunnistamisella ja palveluiden integraatiolla on keskeisen tärkeä rooli. Laitteiden verkkojen lisäksi viime aikaisissa IoT:n määrittelyissä laitteiden ja verkkojen älykkyys (engl. smartness) on usein esillä. Älykkyys erottaa IoT:n määritelmän samankaltaisista konsepteista kuten anturiverkoista. [@khodadadiInternetThingsOverview2016, 5]
 
@@ -143,6 +144,13 @@ Verkottuneista, älykkäistä ja yksilöllisesti tunnistettavista objekteista ra
 
 *1.8 Turvallisuus, 1.10 yksityisyys, 1.9 identiteetinhallinta*
 
+
+*@yoonDeviceCloudCollaboration2016*
+*...many organizations have raised the concerns about the cloud computing with respect to performance and privacy.*
+*Applications that implement the device/cloud collaboration framework can yield high performance, such as reduced latency in processing a user’s request. In addition, the cost of managing the cloud can be reduced when the compute resources on the millions of smart mobile devices are utilized. Aside from the benefits in terms of cost and performance, the framework helps the application protect privacy of the end users by either processing personal data within a device or analyzing the obfuscated version of the personal data on cloud.*
+
+
+
 *1.11 Standardisaatio ja säännöstely*
 
 IoT:n laajentumisesta ja markkinoiden arvosta on esitetty useita optimistisia ja jopa fantastisia ennusteita. Näiden ennusteiden toteutumiseksi vaaditaan kuitenkin useilla alueilla monia innovaatioita ja huomattavaa edistystä. Tämän lisäksi IoT:n kasvun vauhdittamiseksi tarvittaisiin yhteistoimintaa ja tiedonjakoa pienten kasvuyritysten lisäksi myös johtavien suurien teknologiayritysten kesken. Valtiollisten toimijoiden strategiat IoT:n suhteen ovat muuttuneet ja IoT:n keskeiseen tutkimukseen on panostettu IoT:hen liittyvien investointien lisäännyttyä selkeästi. Esimerkiksi European Research Cluster on the Internet of Things (IERC) [http://www.internet-of-things-research.eu] on tukenut ja toteuttanut useita perustavan laatuista IoT-tutkimushankkeita.  [@khodadadiInternetThingsOverview2016, 6]
@@ -163,6 +171,8 @@ Tuotettua dataa voidaan käyttää aikaisempaa nopeampaan ongelmanratkaisuun, ma
 ### Maatalouden esineiden Internetin eli Agricultural Internet of Things:in taustaa
 
 *...ja miten AIoT on osa IIoTtä.*
+
+*Tao et al. - 2.3.2. Smart agriculture - In traditional agriculture, field information is obtained primarily through manual measuring experience or judgment, it takes lots of labor power and the data accuracy is low [11]. Nowadays with the help of IoT, the atmospheric, soil, and other information can be collected in real time and accurately for scientific predictions, precise control, scientific cultivation by using wireless sensor networks technology. Then operation will be performed to improve the efficiency and quality of agricultural production. For examples, by controlling micro-climate conditions, it will be possible to maximize the production of fruits and vegetables, as well as their qualities, and by monitoring soil moisture and trunk diameter in vineyards grape garden owners can control the amount of sugar in grapes and grapevine health. Moreover, IoT can be used in compost to enhance the control of humidity and temperature levels in alfalfa, hay, straw, etc. to prevent fungus and other microbial contaminants [77].*
 
 
 # OPINNÄYTETYÖN TARKOITUS, TAVOITE, TUTKIMUSKYSYMYKSET JA TUTKIMUSMENETELMÄT
