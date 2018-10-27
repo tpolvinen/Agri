@@ -80,7 +80,7 @@ vähemmän nälänhätää ja aliravitsemusta, mutta samalla väestö on koko aj
 
 ## Esineiden internetin eli Internet of Things:in taustaa
 
-*Tähän IoT:n määritelmät, historia*
+### Yleinen IoT:n tausta
 
 Internetin kehityksen fokus on siirtymässä ihmisten välisestä kommunikaatiosta ja verkottumisesta ihmisten ja laitteiden saumattomaan integraatioon, jossa ajasta ja paikasta riippumaton yhteys keiden tahansa välillä on laajentumassa yhteyksillä *mihin tahansa objektiin*. Tässä integraatiossa pyritään fyysisen maailman ja ihmisten luoman virtuaalisten ympäristöjen yhdistämisen avulla kohti niin sanottua esineiden internetin (engl. Internet of Things, IoT) maailman toteuttamista. Toteutuessaan IoT-visiolla voi olla huomattavia teknologisia ja yhteiskunnallisia vaikutuksia. [@internationaltelecommunicationunion2060OverviewInternet2012] 
 
@@ -93,9 +93,13 @@ IoT:n historia ulottuu kuitenkin näitä ensimmäisiä nimenomaisia IoT:n ilment
 
 ![. TRON-arkkitehtuurien yhdistäminen @sakamuraTronProject1987 mukaan - ITRON (industrial TRON) ja BTRON (business TRON) voidaan yhdistää tiedostopalvelimeen CTRON eri tavoilla](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/TRONarchitecturesConnection.png "TRON-arkkitehtuurien yhdistäminen"){ width=100mm }
 
-Muita kirjallisuudessa mainittuja IoT:n historian tapahtumia ovat olleen muiden muassa [@gillenAssessingBenefitsCosts1999] esittämä ensimmäinen sähköinen siltojen käyttömaksujen keräysjärjestelmä Oklahomassa sekä [@Gates:1995:RA:600573] kuvailu älykkäiden verkottuneiden laitteiden järjestelmän toiminnasta kirjassa The Road Ahead. IoT:n historiassa RFID-tunnisteet ovat olleet keskeisessä osassa niiden kehittämisestä alkaen nykyhetkeen asti. Wal-Martin, IBM:n, Tescon ja Microsoftin vuonna 2005 toteuttamat RFID-tunnisteiden käyttöönotot ovat olleet huomattavia osoituksia tunnisteiden käytön laajenemisesta ja kehittymisestä. [@taoInternetThingsProduct2016]
+Muita kirjallisuudessa mainittuja IoT:n historian tapahtumia ovat olleet [@gillenAssessingBenefitsCosts1999] esittämä ensimmäinen sähköinen siltojen käyttömaksujen keräysjärjestelmä Oklahomassa sekä [@Gates:1995:RA:600573] kuvailu älykkäiden verkottuneiden laitteiden järjestelmän toiminnasta kirjassa The Road Ahead. IoT:n historiassa RFID-tunnisteet ovat olleet keskeisessä osassa niiden kehittämisestä alkaen nykyhetkeen asti. Wal-Martin, IBM:n, Tescon ja Microsoftin vuonna 2005 toteuttamat RFID-tunnisteiden käyttöönotot ovat olleet huomattavia osoituksia tunnisteiden käytön laajenemisesta ja kehittymisestä. [@taoInternetThingsProduct2016] Lisäksi kirjallisuudessa on yleisesti huomioitu vuonna 2012 Kansainvälisen televiestintäliiton (engl. International Telecommunication Union, ITU) julkaisema suositus ITU-T Y.2060, jossa on määritelty IoT-referenssiarkkitehtuuri [@internationaltelecommunicationunion2060OverviewInternet2012].
 
-*entä historia tämän jälkeen? nousu gartnerin hypekäyrälle ja sieltä poistuminen, siirtymä käytäntöön?*
+Vuonna 2008 järjestettiin Zurichissä ensimmäinen kansainvälinen Internet of Things -konferenssi (IoT 2008). Tuolloin keskeisimpinä IoT-teknologioina mainittiin RFID, lyhyen kantaman langattomat kommunikaatioteknologiat, tosiaikainen paikantaminen ja anturiverkot, jotka tuovat IoT:n teolliseen, kaupalliseen ja kotitalouksien käyttöön. [@Floerkemeier:2008:1793060] Tämän jälkeen Internet of Things -konferensseja on järjestetty lähes vuosittain, vuoden 2018 konferenssin ollessa kahdeksas. Keskeisimpinä vuoden 2018 konferenssin aiheina on mainittu anturiteknologian kehitys ja halpeneminen sekä datakeskeisten liiketoimintamallien yleistyminen. Näiden lisäksi käsiteltyjä aiheita olivat IoT:n kehitys ja sosiaalinen omaksunta kuten IoT:n arkkitehtuurit, yksityisyyden suoja ja turvallisuus IoT:ssä, IoT:n sovellukset, ihmisen ja objektin välinen vuorovaikutus (engl. Human-Object Interactions, HOI) ja objektien välinen vuorovaikutus (Object-Object Interactions, OOI). [@Janowicz:2018:3277593]
+
+Gartnerin julkaisemalla Hype Cycle -käyrällä IoT on edennyt alkuvaiheen noususta huipulle, minkä jälkeen se on kadonnut käyrältä. Vuonna 2011 [@cuccuredduGartnerHypeCycle2011] IoT oli käyrällä ensimmäisen vaiheen suuren julkisuuden nousussa. Vuonna 2014 IoT oli edennyt käyrän huipulle [@gartnerGartner2014Hype2014a], missä se pysyi myös vuonna 2015 [@gartnerGartner2015Hype2015]. Vuonna 2016 [@gartnerGartner2016Hype2016] IoT oli kadonnut, mutta IoT-alustat (engl. IoT paltforms) olivat alkuvaiheen nousussa ja vuonna 2017 [@gartnerTopTrendsGartner2017] IoT-alustat olivat nousseet käyrän huipulle. Vuonna 2018 [@gartnerTrendsEmergeGartner2018] IoT-alustat olivat edenneet huipun toiselle puolelle, mutteivät vielä niin sanotun pettymysten laakson vaiheeseen.
+
+![. IoT vuoden 2015 Gartnerin Hype Cycle -käyrän huipulla @gartnerWhatNewGartner2015 mukaan](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/2015_Gartner_EmergingTech_Graphic.png "Gartner Hype Cycle 2015"){ width=110mm }
 
 IoT:lle on esitetty useita erilaisia määritelmiä ja IoT-sovellusten kehitys ylittää usein yksittäisten määritelmien rajat [@pradillaMicroVirtualMachines2016, 127]. [@atzoriInternetThingsSurvey2010, 2788] arvelevat, että kirjallisuutta selailevalla kiinnostuneella lukijalla voi olla huomattavia vaikeuksia käsittää mitä IoT todellisuudessa tarkoittaa, mitä käsitteitä se pitää sisällään ja millaisia vaikutuksia sen täysimittaisella toteutumisella tulee olemaan. 
 
@@ -149,27 +153,11 @@ Luotettavuuden keskeisiä haasteita ovat käyttäjien kokeman palvelun saatavuus
 
 Verrattuna perinteisiin IT-järjestelmiin IoT-ratkaisuiden vikoja ennaltaehkäisevät toimenpiteet voivat olla haasteellisia tai mahdottomia ennalta-arvaamattomien ulkoisten vaikutusten takia. Ennaltaehkäiseviä toimenpiteitä voidaan kuitenkin toteuttaa. Ohjelmistoissa voidaan käyttää virheentarkistuksen mekanismeja sekä järjestelmien prosesseja ja autonomisten laitteiden käyttämiä resursseja voidaan valvoa. Järjestelmien virheensietoisuuden parantamiseksi voidaan pyrkiä tekemään IoT-järjestelmien objekteista kuten anturilaitteista, tietoliikenneinfrastruktuurista ja palvelualustoista lähtökohtaisesti lujatekoisia, rakentamaan järjestelmiin kapasiteettia objektien tilan valvonnan mahdollistamiseksi ja käyttämään objekteissa itsenäisiä puolustus- ja korjausmekanismeja. 213
 
-
-
-11.3 ADDRESSING RELIABILITY
-11.3.1 NULLIFYING IMPACT OF FAULT
-11.3.1.1 Redundancy in Service Platform Design
-11.3.1.2 Redundancy in M2M Topology
-11.3.1.3 Graceful Degradation
-11.3.1.3.1 Software Design
-11.3.1.3.2 Performability Model
-11.3.2 ERROR DETECTION
-11.3.2.1 Watchdog
-11.3.2.2 Heartbeat
-11.3.2.3 Exception Handling
-11.3.2.4 Recovery Through Restart
-*11.3.3 FAULT PREVENTION*
-*11.3.3.1 Failure Prediction*
 *11.3.3.2 Improving Communication Reliability*
 *11.3.3.3 Failure Prevention by Service Platform*
 *11.3.3.4 Improving Energy Efficiency*
 
-### IoT:n tietoturva
+#### IoT:n tietoturva
 
 IoT-ekosysteemin ennustetaan kasvavan voimakkaasti, jolloin uusia IoT-laitteita otetaan käyttöön huomattavia määriä. Laitteiden ihmisistä ja ympäristöstä keräämän datan tietoturvan varmistaminen sen siirtämisen ja tallentamisen aikana on erittäin tärkeää. Useat organisaatiot ovatkin esittäneet huolensa pilvipalveluiden suorituskyvyn ja yksityisyyden suojan toiminnasta [@yoonDeviceCloudCollaboration2016]. IoT-järjestelmien ominaispiirteet kuten suuri mittakaava, heterogeenisyys ja laitteiden pieni laskenta- ja muistikapasiteetti tekevät tietoturvan varmistamisesta haasteellista. Erityisesti tulisi ottaa huomioon, että IoT-ratkaisuissa sovellettavien tietoturvatkaisuiden tulisi toimia yhteen kaikkien näiden heterogeenisten osien kanssa. [@hosseinzadehObfuscationDiversificationSecuring2016, 271]
 
@@ -183,7 +171,7 @@ Laitteiden tietoturvakysymysten lisäksi IoT tuo esille yksityisyyden suojaan li
 
 *1.11 Standardisaatio ja säännöstely*
 
-### IoT:n sovellusalueet
+#### IoT:n sovellusalueet
 
 "The Internet of things 2012: new horizons" esitti keskeisimmät IoT-sovellusalueet(ks. kuva __). [@vermesanInternetThings20122012] 
 
@@ -205,6 +193,7 @@ Cloud-Based Smart-Facilities Management (toimitilajohtaminen, laitosten hoidon, 
 
 *"Esineiden internet (IoT) tekee useimmista tavanomaisista sähkölaitteista ”älykkäitä” viimeistään seuraavan vuosikymmenen alussa. Älykäs valaistus tarkoittaa sitä, että laitteet ovat joko suoraan tai erilaisten sensoriverkkojen kautta yhteydessä internetiin ja saavat sieltä reaaliaikaista tietoa esimerkiksi sähköverkon kuormituksesta, sähkön hinnasta, liikennevirroista, rakennusten ja tilojen käyttöasteista – ja oikeastaan mistä vaan. Datan puute ei tule olemaan ongelma vaan sen runsaus. Eniten älykkyyttä tarvitaan tietomäärien seulomiseen ja sen päättelyyn, mikä tieto on arvokasta ja kuinka sitä voidaan hyödyntää." https://greenled.fi/ajankohtaista/alykas-valaistus-kasvaa-osaksi-alykkaita-kiinteistoja* **
 
+Cloud-based Smart-facilities Management S.Majumdar s. 319-
 s. 319
 Antureilla varusteltujen älykkäiden toimitilojen määrä on kasvanut ja sen odotetaan tulevan yhä vallitsevammaksi IoT-ratkaisujen levitessä
 älykkäät anturoidut toimitilat toimivat älykkäiden kaupunkien osina, esimerkiksi älykkäät rakennukset ja anturoidut sillat, samoin kuin teollisuuden tuotantokoneet, mukaan lukien avaruusteollisuuden koneet
@@ -227,7 +216,7 @@ useiden kohteiden järjestelmiä kannattaa tutkia, ne voivat maksaa käyttö- ja
 
 *IoT sovellukset voidaan jakaa niiden käyttötarkoituksen mukaan: tarkkailu ja aktuointi, liiketoimintaprosessit ja data-analytiikka, informaation kerääminen ja yhteisöllinen käyttö*
 
-### IoT:n taustan yhteenveto
+#### IoT:n taustan yhteenveto
 
 IoT:n laajentumisesta ja markkinoiden arvosta on esitetty useita optimistisia ja jopa fantastisia ennusteita. Näiden ennusteiden toteutumiseksi vaaditaan kuitenkin useilla alueilla monia innovaatioita ja huomattavaa edistystä. Tämän lisäksi IoT:n kasvun vauhdittamiseksi tarvittaisiin yhteistoimintaa ja tiedonjakoa pienten kasvuyritysten lisäksi myös johtavien suurien teknologiayritysten kesken. Valtiollisten toimijoiden strategiat IoT:n suhteen ovat muuttuneet ja IoT:n keskeiseen tutkimukseen on panostettu IoT:hen liittyvien investointien lisäännyttyä selkeästi. Esimerkiksi European Research Cluster on the Internet of Things (IERC, http://www.internet-of-things-research.eu) on tukenut ja toteuttanut useita perustavan laatuista IoT-tutkimushankkeita. [@khodadadiInternetThingsOverview2016, 6]
 
