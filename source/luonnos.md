@@ -178,7 +178,17 @@ Siinä missä IoT:n sovellusalueet ovat moninaiset kuten terveydenhoito, liikenn
 
 IIoT-teknologiat kustannustehokkaiden antureiden, helposti yhdistettävien pilvipalveluiden ja data-analytiikan avulla tulevat mahdollistamaan älykkäiden verkottuneiden tuotantokoneiden ja -välineiden yhteenliitettävyyden yritystoiminnan kanssa. Tämä mahdollistaa joustavamman, tehokkaamman ja tuottavammman tuotannon. Tuotantokoneiden yhteyksien lisäksi työntekijöiden mobiililaitteiden, data-analytiikan ja lisätyn todellisuuden sovelluksien sekä läpinäkyvän liitettävyyden käyttö tulee lisäämään tuottavuutta. [@schneiderelectricIndustrialInternetThings2015, 2-3]
 
+Teollisuudenssa IIoT-ratkaisuiden laajan omaksumisen tiellä on vielä useita avoimia haasteita, joista huomattavimpia ovat: [@schneiderelectricIndustrialInternetThings2015, 5-6]
 
+* Standardisaation kehittäminen laitteiden, tuotantokoneiden ja -välineiden väliseen löydettävyyteen ja viestintään, mukaanlukien tietoliikenneprotokollien lisäksi standardisoidun semantiikan ja mekanismien luonti
+* Kyberturvallisuuden lähtökohtainen suunnittelu tuotanto- ja automaatiojärjestelmien sekä laitteiden "sisään" sekä teollisuuden kyberturvallisuusstandardien kehittäminen suoritettavaksi turvallisuussertifikaatiksi muiden turvallisuusstandardien tapaan
+* Työntekijöiden IIoT-järjestelmien käytössä tarvitsema osaaminen eroaa perinteisten automaatiojärjestelmien käytön vaatimista taidoista ja vanhojen työntekijöiden uudelleenkoulutuksen tarpeet voivat olla huomattavia
+
+Perinteiset monoliittiset, yhden laitteistotoimittajan hierarkiset arkkitehtuurit eivät enää ole käyttökelpoisia IIoT-ajassa. IIoT-järjestelmien käyttöönoton myötä järjestelmäarkkitehtuurit tulevat sulauttamaan tuotantoteknologian (engl. operations technology, OT) tietotekniikan (engl. Information technology, IT) kanssa. Tällöin järjestelmäarkkitehtuurit tulevat muuttumaan automaatiohierarkialtaan matalammiksi ja informaatiovetoisiksi. Koska IIoT:n tulevat vaikutukset ovat vielä epävarmoja, tulee käytettävien IIoT-arkkitehtuurien olla joustavia ja kyetä integraatioihin vanhempien tuotantojärjestelmien kanssa. [@schneiderelectricIndustrialInternetThings2015, 7]
+
+IIoT:n uudet teknologiat tietoliikenteessä, data-analytiikassa, pilvipalveluissa, sumutietojenkäsittelyssä ja kyberfysikaalisissa järjestelmissä ovat saavuttamassa laajenevaa hyväksyntää teollisuudessa. Yksittäisinä nämä teknologiat ovat lupaavia, mutta niiden yhdistelmä tarjoaa ennen näkemättömiä mahdollisuuksia. Yhdessä käytettyinä nämä teknologiat luovat ympäristön joka poistaa useat perinteisen automaatiojärjestelmien tekniset rajoitukset. [@schneiderelectricIndustrialInternetThings2015, 13]
+
+IIoT:n hitaasta omaksumisesta huolimatta sen vaikutukset tulevat olemaan huomattavat. IIoT-teknologioiden omaksunta tuotteissa ja tuotannon toiminnassa tulee muodostumaan kilpailun mukana pysymisen ehdoksi. IIoT-teknologioiden kypsyminen mahdollistaa niiden asteittaisen käyttöönoton, tietoverkkoihin liitettävien anturilaitteiden hinnat ovat nopeassa laskussa, avoimet IP-perustaiset tietoliikenneprotokollat ovat yleistymässä samoin kuin pilvipalvelutkin. [@schneiderelectricIndustrialInternetThings2015, 15]
 
 koneet voivat suorittaa tiettyjä tehtäviä kuten datan keruuta ja viestintää ihmisiä tarkemmin, mikä on lisännyt IIoT:n omaksuntaa
 
@@ -1185,6 +1195,10 @@ Lopulta merkitsevimmän kehitysaskeleen ottavat viljelijät, jotka omaksuvat kä
 * Miten kasvintuotannossa hyödynnetään IoT-teknologioita?
 
 # POHDINTA
+
+## Oman oppimisen pohdinta
+
+## Tulosten arviointi
 
 ## Luotettavuus
 
