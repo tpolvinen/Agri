@@ -172,14 +172,20 @@ Viimeaikainen avainteknologioiden ja markkinatrendien yhdistymä ohjastaa uuden 
 
 ### Teollisuuden esineiden Internetin eli Industrial Internet of Things:in taustaa
 
-Yleisestä IoT:stä erottuvat selkeästi kohderyhmien, teknisten vaatimusten ja toimintastrategioiden perusteella selkeästi kuluttajien, kaupan, liiketoiminnan ja teollisuuden IoT:n alueet. Näistä suurin teollinen esineiden internet (engl. Industrial Internet of Things, IIoT) keskittyy teollisuuden IoT-sovelluksiin huomattavan monilla teollisuudenaloilla. Muutamia keskeisiä näistä ovat energiantuotannon, tuotantoteollisuuden, terveydenhoidon, kaupan, liikenteen, logistiikan, lentoliikenteen ja maatalouden alat. [@gilchrist2016industry, 1-2]
+Yleisestä IoT:stä erottuvat kohderyhmien, teknisten vaatimusten ja toimintastrategioiden perusteella selkeästi kuluttajien, kaupan, liiketoiminnan ja teollisuuden IoT:n alueet. Näistä suurin teollinen esineiden internet (engl. Industrial Internet of Things, IIoT) keskittyy teollisuuden IoT-sovelluksiin huomattavan monilla teollisuudenaloilla. Muutamia keskeisiä näistä ovat energiantuotannon, valmistavan teollisuuden, terveydenhoidon, kaupan, liikenteen, logistiikan, lentoliikenteen ja maatalouden alat. [@gilchrist2016industry, 1-2]
+
+IIoT:n määritelmät vaihtelevat saman kaltaisesti kuin IoT:n. IIoT:tä kuvaillaan usein kolmanneksi teolliseksi vallankumoukseksi, jonka pääelementit ovat [@cevansIndustrialInternetPushing2012] mukaan älykkäät koneet, edistynyt data-analytiikka ja ihmisten työpanos [@juhankojariETLARaportit42SuomalainenTeollinen]. Sitä pidetään myös Industry 4.0:n osana, muiden osien ollessa massadatan ja sen analytiikka, pilvipalvelut, autonomiset robotit, digitaalinen simulaatio ja mallinnus, järjestelmäintegraatio, kyberturvallisuus, lisäävä valmistus ja täydennetty todellisuus [@gilchrist2016industry, 208]. 
+
+
+
+
+miksi nyt?
+IIoT:lle keskeiset megatrendit ovat globalisaatio, digitalisaatio ja kaupungistuminen. 
 
 Samoin kuin useat IoT-sovellukset, IIoT mahdollistaa teollisuuden kontekstissa aikaisempaa paremman näkyvyyden ja näkemyksen yrityksen toimintaan ja omaisuuden käyttöön. Tähän pyritään koneiden anturien, väliohjelmistojen, ohjelmistojen ja pilvipalveluiden integraation avulla:
 älykkäät verkottuneet objektit toimivat suurempien järjestelmien osina, jotka puolestaan muodostavat älykkään teollisuustuotannon kokonaisuuden. Näiden objektien tietojenkäsittelykyky voi vaihdella yksinkertaisesta anturoinnista ja aktuoinnista kontrollointiin, toiminnan optimointiin ja täyteen autonomiseen toimintaan asti. Älykäs teollisuustuotanto puolestaan koostuu älykkäiden tuotantokoneiden, tehtaiden ja valmistustoimien verkottuneista järjestelmistä, jotka perustuvat avoimiin ja standardoituihin internetin ja pilvipalveluiden teknologioihin ja jotka mahdollistavat yhteydet laitteisiin ja niiden tuottamaan tietoon. Tällöin IIoT tarjoaa menetelmän liiketoimintaprosessien muuttamiseen massadatasta data-analytiikan avulla saatujen tulosten perusteella, jolloin turvallisuutta ja tuotantotehoa voidaan parantaa, tuotantoa voidaan muuttaa aikaisempaa joustavammaksi ja nopeuttaa entisestään. Samalla voidaan myös vähentää päästöjä ja ennakoimattomia seisokkeja. [@gilchrist2016industry, 3; @schneiderelectricIndustrialInternetThings2015, 1-3]
 
-IIoT:n avulla tuotannon tehokkuuden lisäämiseen liittyy myös niin sanottu 1 %:n voima. Yleensä teollisuuden toimintakustannusten tai tehokkuuden parantaminen jo yhdellä prosentilla voi tuottaa huomattavia hyötyjä. Esimerkiksi lentoliikenteessä 1 %:n vuotuinen polttoainesäästö tarkoittaa $30 miljardin säästöjä. Samoin öljy- ja kaasuteollisuudessa vuotuinen 1 %:n säästö kalustoon käytetystä pääomasta tarkoittaisi arviolta $90 miljardin palautusta. Tämä pätee myös maatalouden, liikenteen ja terveydenhoidon teollisuudenaloilla. [@gilchrist2016industry, 4]
 
-IoT on myös keskeinen osa neljättä teollista vallankumousta, niin sanottua Industry 4.0:aa. [@gilchrist2016industry, 209]
 
 Anturiteknologiat
 massadata ja data-analytiikka, jota kiihdyttää pilvipalveluiden kehitys
@@ -194,11 +200,15 @@ Teollisuudenssa IIoT-ratkaisuiden laajan omaksumisen tiellä on vielä useita av
 * Kyberturvallisuuden lähtökohtainen suunnittelu tuotanto- ja automaatiojärjestelmien sekä laitteiden "sisään" sekä teollisuuden kyberturvallisuusstandardien kehittäminen suoritettavaksi turvallisuussertifikaatiksi muiden turvallisuusstandardien tapaan
 * Työntekijöiden IIoT-järjestelmien käytössä tarvitsema osaaminen eroaa perinteisten automaatiojärjestelmien käytön vaatimista taidoista ja vanhojen työntekijöiden uudelleenkoulutuksen tarpeet voivat olla huomattavia
 
+IIoT:n avulla tuotannon tehokkuuden lisäämiseen liittyy myös niin sanottu 1 %:n voima. Yleensä teollisuuden toimintakustannusten tai tehokkuuden parantaminen jo yhdellä prosentilla voi tuottaa huomattavia hyötyjä. Esimerkiksi lentoliikenteessä 1 %:n vuotuinen polttoainesäästö tarkoittaa $30 miljardin säästöjä. Samoin öljy- ja kaasuteollisuudessa vuotuinen 1 %:n säästö kalustoon käytetystä pääomasta tarkoittaisi arviolta $90 miljardin palautusta. Tämä pätee myös maatalouden, liikenteen ja terveydenhoidon teollisuudenaloilla. [@gilchrist2016industry, 4]
+
 Perinteiset monoliittiset, yhden laitteistotoimittajan hierarkiset arkkitehtuurit eivät enää ole käyttökelpoisia IIoT-ajassa. IIoT-järjestelmien käyttöönoton myötä järjestelmäarkkitehtuurit tulevat sulauttamaan tuotantoteknologian (engl. operations technology, OT) tietotekniikan (engl. Information technology, IT) kanssa. Tällöin järjestelmäarkkitehtuurit tulevat muuttumaan automaatiohierarkialtaan matalammiksi ja informaatiovetoisiksi. Koska IIoT:n tulevat vaikutukset ovat vielä epävarmoja, tulee käytettävien IIoT-arkkitehtuurien olla joustavia ja kyetä integraatioihin vanhempien tuotantojärjestelmien kanssa. [@schneiderelectricIndustrialInternetThings2015, 7]
+
+Koneiden välisen viestinnän (engl. Machine to Machine, M2M), massadatan (engl. Big Data) analytiikan ja koneoppimisen teknologiat ovat keskeisiä IIoT-määrittelyn osia. [@khodadadiInternetThingsOverview2016, 5]
 
 IIoT:n uudet teknologiat tietoliikenteessä, data-analytiikassa, pilvipalveluissa, sumutietojenkäsittelyssä ja kyberfysikaalisissa järjestelmissä ovat saavuttamassa laajenevaa hyväksyntää teollisuudessa. Yksittäisinä nämä teknologiat ovat lupaavia, mutta niiden yhdistelmä tarjoaa ennen näkemättömiä mahdollisuuksia. Yhdessä käytettyinä nämä teknologiat luovat ympäristön joka poistaa useat perinteisen automaatiojärjestelmien tekniset rajoitukset. [@schneiderelectricIndustrialInternetThings2015, 13] 
 
-Useat teollisuuden eturivin toimijat ovat ennustaneet vuosille 2015 - 2025 ennen näkemätöntä kasvua ja tuottavuutta, toivoen internetin elinkeinonharjoittajien ja kuluttajien välisen kaupan (engl. Business-to-Consumer, B2C) kasvun kaltaisen ilmiön toistuvan tuotantoteollisuuden, maatalouden, energiantuotannon, lentoliikenteen, liikenteen ja logistiikan teollisuudenaloilla. [@gilchrist2016industry, 2-3].
+Useat teollisuuden eturivin toimijat ovat ennustaneet vuosille 2015 - 2025 ennen näkemätöntä kasvua ja tuottavuutta, toivoen internetin elinkeinonharjoittajien ja kuluttajien välisen kaupan (engl. Business-to-Consumer, B2C) kasvun kaltaisen ilmiön toistuvan valmistavan teollisuuden, maatalouden, energiantuotannon, lentoliikenteen, liikenteen ja logistiikan teollisuudenaloilla. [@gilchrist2016industry, 2-3].
 
 OT-järjestelmät hankitaan 20 vuoden elinkaarella [@gilchrist2016industry, 184]
 
@@ -215,8 +225,7 @@ IIoT:n tarjoamien mahdollisuuksien realisoimiseksi yritysten tulee tehdä huomat
 Tuotantokustannuksien aleneminen, parantunut tehokkuus ja tuotannon lisäys voi myös tuoda teollisuuden tuotantoa takaisin halvemman tuotannon maista. [@gilchrist2016industry, 222]
 
 koneet voivat suorittaa tiettyjä tehtäviä kuten datan keruuta ja viestintää ihmisiä tarkemmin, mikä on lisännyt IIoT:n omaksuntaa
-Koneiden välisen viestinnän (engl. Machine to Machine, M2M), massadatan (engl. Big Data) analytiikan ja koneoppimisen teknologiat ovat keskeisiä IIoT-määrittelyn osia. 
-Tuotettua dataa voidaan käyttää aikaisempaa nopeampaan ongelmanratkaisuun, mahdollistaen sekä ajallisia että rahallisia säästöjä. tuotantoteollisuuden yritys voi käyttää IIoT:tä tuotantoketjun tehokkaaseen seurantaan ja hallinnointiin, laaduntarkkailuun ja -varmistukseen sekä yleiseen energiatehokkuuden parantamiseen. [@khodadadiInternetThingsOverview2016, 5]
+Tuotettua dataa voidaan käyttää aikaisempaa nopeampaan ongelmanratkaisuun, mahdollistaen sekä ajallisia että rahallisia säästöjä. Valmistavan teollisuuden yritys voi käyttää IIoT:tä tuotantoketjun tehokkaaseen seurantaan ja hallinnointiin, laaduntarkkailuun ja -varmistukseen sekä yleiseen energiatehokkuuden parantamiseen. [@khodadadiInternetThingsOverview2016, 5]
 
 
 ### Maatalouden esineiden Internetin eli Agricultural Internet of Things:in taustaa
@@ -252,7 +261,7 @@ Menetelmätriangulaatiota eli monimetodista lähestymistapaa voidaan käyttää 
 
 Opinnäytetyön laajuuden rajallisuuden vuoksi aihealueeksi on rajattu kasvintuotannon IoT-ratkaisut, minkä tekijä arvioi olevan yleisen ruoantuotannon kannalta vaikuttavin ruoantuotannon osa. Samasta syystä tässä opinnäytetyössä ei käsitellä yksittäisiä teknologiaratkaisuita kuten verkkoprotokollia, sensoritekniikkaa tai algoritmejä, vaan keskitytään kuvailemaan kasvintuotannon IoT-ratkaisuita yleistasolla.
 
-IoT-ratkaisuna on tässä opinnäytetyössä lähtökohtaisesti pidetty järjestelmää tai järjestelmien järjestelmää, joka anturien automaattisesti tuottaman ja verkon yli siirretyn datan analytiikan perusteella vaikuttaa ympäristöön automaattisesti, ilman tarvetta ihmisen toiminnalle. Koska tälläisia ratkaisuita on markkinoilla tutkimuksen teon hetkellä hyvin vähän, on yleisen IoT:tä käsittelevän kirjallisuuden mukaisesti otettu huomioon myös sellaiset ratkaisut, jotka voisivat olla edellä määritellyn ratkaisun aikaisempia kehitysvaiheita. Tästä kirjallisuudessa yleisin esimerkki ovat automaattisesti digitaalista mittausdataa tuottavat ja tallentavat järjestelmät, jotka eivät sisällä aktuoinnin toiminnallisuuksia tai edistynyttä data-analytiikkaa.
+IoT-ratkaisuna on tässä opinnäytetyössä lähtökohtaisesti pidetty järjestelmää tai järjestelmien verkostoa, joka anturien automaattisesti tuottaman ja verkon yli siirretyn datan analytiikan perusteella vaikuttaa ympäristöön automaattisesti, ilman tarvetta ihmisen toiminnalle. Koska tälläisia ratkaisuita on markkinoilla tutkimuksen teon hetkellä hyvin vähän, on yleisen IoT:tä käsittelevän kirjallisuuden mukaisesti otettu huomioon myös sellaiset ratkaisut, jotka voisivat olla edellä määritellyn ratkaisun aikaisempia kehitysvaiheita. Tästä kirjallisuudessa yleisin esimerkki ovat automaattisesti digitaalista mittausdataa tuottavat ja tallentavat järjestelmät, jotka eivät sisällä aktuoinnin toiminnallisuuksia tai edistynyttä data-analytiikkaa.
 
 ## Tutkimuksen tarkoitus
 
