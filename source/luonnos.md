@@ -46,11 +46,14 @@ Tässä osiossa käsitellään lyhyesti kasvintuotannon taustaa keskittyen tarka
 
 Maatalouden ensimmäinen vallankumous on neoliittinen vallankumous, toisen vallankumouksen ollessa englannin maatalouden vallankumous. Neoliittinen vallankumous oli tuhansien vuosien kehityskulku n. 11000–8500 eaa., jossa maanviljely sai alkunsa useilla toisistaan riippumattomilla alueilla. Englannin maatalouden vallankumous puolestaan kesti noin sadan vuoden ajan n. 1690–1800, jolloin maatalouden tuottavuus kasvoi voimakkaasti koneistuneiden viljelytekniikoiden sekä sosiaalisten ja taloudellisten muutosten vaikutuksesta. Erityisesti traktorin kehitys mahdollisti viljelytoimien suorittamisen aikaisempaa nopeammin ja tehokkaammin. [@newworldencyclopediaAgricultureNewWorld2015; @heikkonenMaataloudenTuotantotekniikanKehitys1989, 182-186]
 
-Maatalouden kolmas vallankumous on niin sanottu vihreä vallankumous n. 1960–1985. Vihreän vallankummouksen tuloksena maatalouden tuotanto kasvoi huomattavasti, ruokaturva parani ja viljelyn tulosten riippuvuus luonnon olosuhteista väheni. Maataloudessa siirryttiin käyttämään teollisia viljely- ja kastelumenetelmiä, satoisampia lajikkeita, epäorgaanisia lannoitteita sekä rikkakasvien ja tuhohyönteisten torjunta-aineita. [@flachsGreenRevolution2016; @MaatalousKaipaaTiedetta2017; @pingaliGreenRevolutionImpacts2012] Vihreän vallankumouksen tuotantoa tehostavien teknologioiden sekä maatalouden aikaisempaa huomattavasti suurempi luonnonvarojen käyttö on osaltaan vaikuttanut maataloustuotannon kasvuun yli kolminkertaiseksi vuosien 1960 ja 2015 välillä. Tällä aikavälillä on tapahtunut ruoantuotannon ja maatalouden teollistuminen, jolloin ruoan tuotantoketjut ja fyysiset välimatkat pellolta pöytään ovat pidentyneet samalla kun prosessoidun, pakatun ja esivalmistetun ruoan kulutus on lisääntynyt. Vaikka väestö on yli kaksinkertaistunut ja tuotanto yli kolminkertaistunut, viljelyalue on lisääntynyt vain 30 %:lla. Edistyksestä huolimatta nälkä ja virheravitsemus ovat edelleen avoimia haasteita useissa osissa maailmaa, eikä nykyinen kehitystahti tule riittämään nälän hävittämiseen vuoteen 2050 mennessä.[@foodandagricultureorganizationoftheunitednationsFutureFoodAgriculture2017, 4]
+Maatalouden kolmas vallankumous on niin sanottu vihreä vallankumous n. 1960–1985. Vihreän vallankummouksen tuloksena maatalouden tuotanto kasvoi huomattavasti, ruokaturva parani ja viljelyn tulosten riippuvuus luonnon olosuhteista väheni. Maataloudessa siirryttiin käyttämään teollisia viljely- ja kastelumenetelmiä, satoisampia lajikkeita, epäorgaanisia lannoitteita sekä rikkakasvien ja tuhohyönteisten torjunta-aineita. [@flachsGreenRevolution2016; @MaatalousKaipaaTiedetta2017; @pingaliGreenRevolutionImpacts2012] Vihreän vallankumouksen tuotantoa tehostavien teknologioiden sekä maatalouden aikaisempaa huomattavasti suurempi luonnonvarojen käyttö on osaltaan vaikuttanut maataloustuotannon kasvuun yli kolminkertaiseksi vuosien 1960 ja 2015 välillä. Tällä aikavälillä on tapahtunut ruoantuotannon ja maatalouden teollistuminen, jolloin ruoan tuotantoketjut ja fyysiset välimatkat pellolta pöytään ovat pidentyneet samalla kun prosessoidun, pakatun ja esivalmistetun ruoan kulutus on lisääntynyt. Vaikka väestö on yli kaksinkertaistunut ja tuotanto yli kolminkertaistunut, viljelyalue on lisääntynyt vain 30 %:lla. Edistyksestä huolimatta nälkä ja virheravitsemus ovat edelleen avoimia haasteita useissa osissa maailmaa, eikä nykyinen kehitystahti tule riittämään nälän hävittämiseen vuoteen 2050 mennessä.[@foodandagricultureorganizationoftheunitednationsFutureFoodAgriculture2017, 4] 
 
-Vihreän vallankumouksen vaikutukset ja sen jälkeinen maatalouden laajentuminen on mahdollisesti säästänyt miljoonia ihmishenkiä, [@pingaliGreenRevolutionImpacts2012]
+Vihreän vallankumouksen vaikutukset ja sen jälkeinen maatalouden laajentuminen on estänyt miljoonien ihmisten nälänhädän ja säästänyt tuhansien hehtaarien maa-alan muuttamisen viljelymaaksi. Laajamittaisen tehotuotannon hinta on kuitenkin kallis ja negatiiviset vaikutukset ympäristölle ovat olleet huomattavat metsien hakkuun, biodiversiteetin ja maaperän köyhtymisen, kasteluveden liikaoton ja kemikaalihuuhtoumien myötä. Negatiiviset vaikutukset eivät sinänsä ole johtuneet käytetyistä teknologioista vaan niiden harkitsemattomasta käytöstä ja poliittisista linjauksista pyrittäessä nopeaan maataloustuotannon tehostamiseen. Ympäristövaikutusten lisäksi vihreän vallankumouksen ja maatalouden tehotuotannon yhteiskunnalliset vaikutukset ovat olleet erityisen negatiivisia köyhimmille väestönosille ja monille huonosti tehoviljelyyn soveltuville alueille. [@pingaliGreenRevolutionImpacts2012; @foodandagricultureorganizationoftheunitednationsFutureFoodAgriculture2017, 4]
+
+OECD:n (engl. Organisation for Economic Cooperation and Development) ja YK:n elintarvike- ja maatalousjärjestön (FAO, engl. Food and Agriculture Organization) OECD-FAO Agricultural Outlook 2018-2027 -raportin julkaisutilaisuudessa puhuneen FAO:n johtaja José Graziano da Silvan mukaan vihreä vallankumous vahvisti maailman kykyä ruokkia itsensä, mutta seuraavaksi tarvitaan kestävän tuotannon vallankumousta. Korkeiden tuotantopanosten ja runsaasti resursseja vaativien tuotantojärjestelmien asettama hinta ympäristölle on kallis ja vaatii muutosta. Maailman tulee omaksua kestäviä ja tehokkaita ruoan tuotantojärjestelmiä, jotka mahdollistavat terveellisen ja ravitsevan ruokavalion varmistaen samalla biodiversiteetin säilymisen ja ympäristön suojelun. [@FAONewsArticle2018] 
 
 
+... 
 
 Esimerkiksi 1900-luvun alussa yksi yhdysvaltalainen maanviljelijä pystyi tuottamaan ruoan 2,5:lle ihmiselle, kun taas 1900-luvun lopussa vastaava luku oli yli 130 ihmistä [@newworldencyclopediaAgricultureNewWorld2015]. 
 
@@ -58,19 +61,20 @@ The future of food and agriculture: trends and challenges
 [@foodandagricultureorganizationoftheunitednationsFutureFoodAgriculture2017]
 
 FUTURE OF FOOD AND AGRICULTURE 2018: alternative pathways to 2050.
-[@foodagricultureorganizationFUTUREFOODAGRICULTURE2018]
+[@foodandagricultureorganizationoftheunitednationsFutureFoodAgriculture2018]
+
+
 
 
 
 *Taustaa Ag3.0:sta creutzbergAgricultureNewParadigm2015 = NuffieldCanada_Report_Creutzberg_FINAL.pdf*
 
 
-FAO 2017 Information and Communication Technology (ICT) in Agriculture 
+FAO 2017 Information and Communication Technology (ICT) in Agriculture [@rapsomanikisInformationCommunicationTechnology]
 http://www.fao.org/3/a-i7961e.pdf
 
 
 
-3 July 2018, Paris (OECD-FAO Agricultural Outlook 2018-2027) "The Green Revolution of the last century largely increased the world's capacity to feed itself but now we need a sustainability revolution," said FAO Director-General José Graziano da Silva. "This includes tackling high-input and resource-intensive farming systems that impose a high cost to the environment. Soil, forests, water, air quality and biodiversity continue to degrade. We need to adopt sustainable and productive food systems that offer healthy and nutritious food, while also preserving the environment and biodiversity." http://www.fao.org/news/story/en/item/1143705/icode/
 
 *Tähän peltokasvituotannon, puutarhatuotannon, kasvihuonetuotannon taustaa*
 *oisko MTK:lla jotain, tai lukella, yleisiä määrityksiä*
@@ -216,6 +220,8 @@ Tuotettua dataa voidaan käyttää aikaisempaa nopeampaan ongelmanratkaisuun, ma
 
 
 ### Maatalouden esineiden Internetin eli Agricultural Internet of Things:in taustaa
+
+E-Agriculture Strategy Guide: Piloted in Asia-Pacific Countries [@faoEAgricultureStrategyGuide2016]
 
 *...ja miten AIoT on osa IIoTtä.*
 
