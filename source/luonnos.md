@@ -36,11 +36,31 @@ Kuvio 3: Havaintojen määrien jakautuminen haastatteluissa kategorioittain
 
 # AIOT:N TAUSTA 
 
-Tässä luvussa kuvaillaan kasvintuotannon IoT:n taustaa, millaisista osailmiöistä se koostuu ja mitä kasvintuotannon IoT:stä on julkaistu.
-Ensin tutustutaan osailmiöhin IoT, IIoT, AIoT ja kasvintuotanto, joiden määrittelyä, taustaa, historiaa ja nykytilaa kuvaillaan pintapuolisesti. IoT:iin liittyviä ilmiöitä IIoT sekä AIoT kuvaillaan myös pintapuolisesti ja osoitetaan miten ne liittyvät kasvintuotannon IoT:iin.
+Tässä luvussa kuvaillaan kasvintuotannon IoT:n taustaa ja millaisista osailmiöistä se koostuu.
+
+Ensin tutustutaan osailmiöhin IoT, IIoT, AIoT ja kasvintuotanto, joiden taustaa, määrittelyä, historiaa ja nykytilaa kuvaillaan pintapuolisesti. IoT:iin liittyviä ilmiöitä IIoT sekä AIoT kuvaillaan myös pintapuolisesti ja osoitetaan miten ne liittyvät kasvintuotannon IoT:iin.
 
 ## Kasvintuotanon taustaa
 
+Tässä osiossa käsitellään lyhyesti kasvintuotannon taustaa keskittyen tarkastelemaan kasvintuotannon taustaa maatalouden teknologiakehityksen viitekehyksessä.
+
+Maatalouden ensimmäinen vallankumous on neoliittinen vallankumous, toisen vallankumouksen ollessa englannin maatalouden vallankumous. Neoliittinen vallankumous oli tuhansien vuosien kehityskulku n. 11000–8500 eaa., jossa maatalous sai alkunsa useilla toisistaan riippumattomilla alueilla. Englannin maatalouden vallankumous puolestaan kesti noin sadan vuoden ajan n. 1690–1800 jaa., jolloin maatalouden tuottavuus kasvoi voimakkaasti mekanisoitujen viljelytekniikoiden sekä sosiaalisten ja taloudellisten muutosten vaikutuksesta. Erityisesti traktorin kehitys mahdollisti viljelytoimien suorittamisen aikaisempaa nopeammin ja tehokkaammin. [@newworldencyclopediaAgricultureNewWorld2015; @heikkonenMaataloudenTuotantotekniikanKehitys1989, 182-186]
+
+
+
+
+Esimerkiksi 1900-luvun alussa yksi yhdysvaltalainen maanviljelijä pystyi tuottamaan ruoan 2,5:lle ihmiselle, kun taas 1900-luvun lopussa vastaava luku oli yli 130 ihmistä [@newworldencyclopediaAgricultureNewWorld2015].
+
+
+
+ ja toinen vallankumous ovat 
+Maatalouden kolmannen, niin sanotun vihreän vallankumouksen, 
+
+The future of food and agriculture: trends and challenges
+[@foodandagricultureorganizationoftheunitednationsFutureFoodAgriculture2017]
+
+FUTURE OF FOOD AND AGRICULTURE 2018: alternative pathways to 2050.
+[@foodagricultureorganizationFUTUREFOODAGRICULTURE2018]
 
 *Tähän maatalouden vallankumoukset, nykytilanteeseen johtavat agroteknologian kehityspolut*
 
@@ -87,8 +107,17 @@ vähemmän nälänhätää ja aliravitsemusta, mutta samalla väestö on koko aj
 
 /Wikipediaa*
 
+FAO 2017 Information and Communication Technology (ICT) in Agriculture 
+http://www.fao.org/3/a-i7961e.pdf
+
+
+
+3 July 2018, Paris (OECD-FAO Agricultural Outlook 2018-2027) "The Green Revolution of the last century largely increased the world's capacity to feed itself but now we need a sustainability revolution," said FAO Director-General José Graziano da Silva. "This includes tackling high-input and resource-intensive farming systems that impose a high cost to the environment. Soil, forests, water, air quality and biodiversity continue to degrade. We need to adopt sustainable and productive food systems that offer healthy and nutritious food, while also preserving the environment and biodiversity." http://www.fao.org/news/story/en/item/1143705/icode/
+
 *Tähän peltokasvituotannon, puutarhatuotannon, kasvihuonetuotannon taustaa*
 *oisko MTK:lla jotain, tai lukella, yleisiä määrityksiä*
+
+
 
 ## Esineiden internetin eli Internet of Things:in taustaa
 
@@ -115,7 +144,7 @@ Gartnerin julkaisemalla Hype Cycle -käyrällä IoT on edennyt alkuvaiheen nousu
 
 ![. IoT vuoden 2015 Gartnerin Hype Cycle -käyrän huipulla @gartnerWhatNewGartner2015 mukaan](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/2015_Gartner_EmergingTech_Graphic.png "Gartner Hype Cycle 2015"){ width=110mm }
 
-IoT:lle on esitetty useita erilaisia määritelmiä ja IoT-sovellusten kehitys ylittää usein yksittäisten määritelmien rajat [@pradillaMicroVirtualMachines2016, 127]. Yleisesti IoT viittaa skenaarioihin, joissa tietoliikenneyhteydet ja tietojenkäsittelykyky liittyy objekteihin, antureihin ja arkipäiväisiin esineisiin joita ei yleensä pidetä tietokoneina, mahdollistaen näille laitteille datan tuottamisen, vaihdannan ja kuluttamisen minimaalisilla ihmisen tekemillä toimenpiteillä. Yksittäistä yleispätevää määritelmää ei kuitenkaan ole. [@roseInternetThingsOverview2015] @atzoriInternetThingsSurvey2010 [2788] arvelevat, että kirjallisuutta selailevalla kiinnostuneella lukijalla voi olla huomattavia vaikeuksia käsittää mitä IoT todellisuudessa tarkoittaa, mitä käsitteitä se pitää sisällään ja millaisia vaikutuksia sen täysimittaisella toteutumisella tulee olemaan. Joskus huomattavatkin erot IoT-visioiden välillä johtuvat niiden tuottamisessa mukana olevien sidosryhmien lähestymistavoista ja näkökulmista, jotka ovat joko "internetlähtöisiä" tai "esinelähtöisiä" riippuen sidosryhmien kiinnostuksen kohteista ja taustoista. Näiden kahden lisäksi kolmantena on vielä semanttinen näkökulma. [@atzoriInternetThingsSurvey2010, 2788]. Semanttisesta näkökulmasta "Internet of Things" tarkoittaa globaalia verkottuneiden ja yksilöllisesti osoitettavissa olevien objektien verkkoa, joka perustuu standardoituun tietoliikenneprotokolliin [@bassiInternetThings20202008, 4]. Lisäksi IoT voidaan määritellä kyberfysikaalisen järjestelmän (engl. Cyber Physical System, CPS) suuren mittakaavan erityistapaukseksi, jossa automatisoidussa ja yhteistoiminnallisessa prosessissa keskenään viestivät koneet tuottavat anturiverkkojen avulla dataa, jota tietojärjestelmät tallentavat ja analysoivat. Tästä datasta tuotetaan konsolidoitua hyödyllistä tietoa ihmisille ja koneille, jotka tekevät päätöksiä tai suorittavat toiminteita aktuaattorien, UA-laitteiden ja robottien avulla. Nämä päätökset ja toiminteet vaikuttavat koko järjestelmän toimintaan, muodostaen näin takaisinkytkentäpiirin ja suljetun informaation kierron. Kyberfysikaalisen järjestelmän erityistapauksen IoT:stä tekee vaatimus sekä objektien tunnistettavuudesta että globaalista yhteenkytkettävyydestä. [@pradillaMicroVirtualMachines2016, 126-128]
+IoT:lle on esitetty useita erilaisia määritelmiä ja IoT-sovellusten kehitys ylittää usein yksittäisten määritelmien rajat [@pradillaMicroVirtualMachines2016, 127]. Yleisesti IoT viittaa skenaarioihin, joissa tietoliikenneyhteydet ja tietojenkäsittelykyky liittyy objekteihin, antureihin ja arkipäiväisiin esineisiin joita ei yleensä pidetä tietokoneina, mahdollistaen näille laitteille datan tuottamisen, vaihdannan ja kuluttamisen minimaalisilla ihmisen tekemillä toimenpiteillä. Yksittäistä yleispätevää määritelmää ei kuitenkaan ole. [@roseInternetThingsOverview2015] @atzoriInternetThingsSurvey2010 [2788] arvelevat, että kirjallisuutta selailevalla kiinnostuneella lukijalla voi olla huomattavia vaikeuksia käsittää mitä IoT todellisuudessa tarkoittaa, mitä käsitteitä se pitää sisällään ja millaisia vaikutuksia sen täysimittaisella toteutumisella tulee olemaan. Joskus huomattavatkin erot IoT-visioiden välillä johtuvat niiden tuottamisessa mukana olevien sidosryhmien lähestymistavoista ja näkökulmista, jotka ovat joko "internetlähtöisiä" tai "esinelähtöisiä" riippuen sidosryhmien kiinnostuksen kohteista ja taustoista. Näiden kahden lisäksi kolmantena on vielä semanttinen näkökulma. [@atzoriInternetThingsSurvey2010, 2788]. Semanttisesta näkökulmasta "Internet of Things" tarkoittaa globaalia verkottuneiden ja yksilöllisesti osoitettavissa olevien objektien verkkoa, joka perustuu standardoituun tietoliikenneprotokolliin [@bassiInternetThings20202008, 4]. Lisäksi IoT voidaan määritellä kyberfysikaalisen järjestelmän (engl. Cyber Physical System, CPS; ks. [@sunderCyberPhysicalSystemsConcept]) suuren mittakaavan erityistapaukseksi, jossa automatisoidussa ja yhteistoiminnallisessa prosessissa keskenään viestivät koneet tuottavat anturiverkkojen avulla dataa, jota tietojärjestelmät tallentavat ja analysoivat. Tästä datasta tuotetaan konsolidoitua hyödyllistä tietoa ihmisille ja koneille, jotka tekevät päätöksiä tai suorittavat toiminteita aktuaattorien, UA-laitteiden ja robottien avulla. Nämä päätökset ja toiminteet vaikuttavat koko järjestelmän toimintaan, muodostaen näin takaisinkytkentäpiirin ja suljetun informaation kierron. Kyberfysikaalisen järjestelmän erityistapauksen IoT:stä tekee vaatimus sekä objektien tunnistettavuudesta että globaalista yhteenkytkettävyydestä. [@pradillaMicroVirtualMachines2016, 126-128]
 
 Määrittelyjen lisäksi IoT:tä voidaan luonnehtia myös sen ominaispiirteiden avulla, joihin kuuluvat: [@taoInternetThingsProduct2016]
 
@@ -172,11 +201,11 @@ Viimeaikainen avainteknologioiden ja markkinatrendien yhdistymä ohjastaa uuden 
 
 ### Teollisuuden esineiden Internetin eli Industrial Internet of Things:in taustaa
 
-Yleisestä IoT:stä erottuvat kohderyhmien, teknisten vaatimusten ja toimintastrategioiden perusteella selkeästi kuluttajien, kaupan, liiketoiminnan ja teollisuuden IoT:n alueet. Näistä suurin teollinen esineiden internet (engl. Industrial Internet of Things, IIoT) keskittyy teollisuuden IoT-sovelluksiin huomattavan monilla teollisuudenaloilla. Muutamia keskeisiä näistä ovat energiantuotannon, valmistavan teollisuuden, terveydenhoidon, kaupan, liikenteen, logistiikan, lentoliikenteen ja maatalouden alat. [@gilchrist2016industry, 1-2]
+Yleisestä IoT:stä erottuvat selkeästi kuluttajien, kaupan, liiketoiminnan ja teollisuuden IoT:n alueet kohderyhmien, teknisten vaatimusten ja toimintastrategioiden perusteella. Näistä suurin teollinen esineiden internet (engl. Industrial Internet of Things, IIoT) keskittyy teollisuuden IoT-sovelluksiin huomattavan monilla teollisuudenaloilla. Muutamia keskeisiä näistä ovat energiantuotannon, valmistavan teollisuuden, terveydenhoidon, kaupan, liikenteen, logistiikan, lentoliikenteen ja maatalouden alat. [@gilchrist2016industry, 1-2]
 
 IIoT:n määritelmät vaihtelevat saman kaltaisesti kuin IoT:n. IIoT:tä kuvaillaan usein kolmanneksi teolliseksi vallankumoukseksi, jonka pääelementit ovat [@cevansIndustrialInternetPushing2012] mukaan älykkäät koneet, edistynyt data-analytiikka ja ihmisten työpanos [@juhankojariETLARaportit42SuomalainenTeollinen]. Sitä pidetään myös Industry 4.0:n osana, muiden osien ollessa massadatan ja sen analytiikka, pilvipalvelut, autonomiset robotit, digitaalinen simulaatio ja mallinnus, järjestelmäintegraatio, kyberturvallisuus, lisäävä valmistus ja täydennetty todellisuus [@gilchrist2016industry, 208]. 
 
-
+m
 
 
 miksi nyt?
