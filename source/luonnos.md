@@ -44,17 +44,12 @@ Ensin tutustutaan osailmiöhin IoT, IIoT, AIoT ja kasvintuotanto, joiden taustaa
 
 Tässä osiossa käsitellään lyhyesti kasvintuotannon taustaa keskittyen tarkastelemaan kasvintuotannon taustaa maatalouden teknologiakehityksen viitekehyksessä.
 
-Maatalouden ensimmäinen vallankumous on neoliittinen vallankumous, toisen vallankumouksen ollessa englannin maatalouden vallankumous. Neoliittinen vallankumous oli tuhansien vuosien kehityskulku n. 11000–8500 eaa., jossa maatalous sai alkunsa useilla toisistaan riippumattomilla alueilla. Englannin maatalouden vallankumous puolestaan kesti noin sadan vuoden ajan n. 1690–1800 jaa., jolloin maatalouden tuottavuus kasvoi voimakkaasti mekanisoitujen viljelytekniikoiden sekä sosiaalisten ja taloudellisten muutosten vaikutuksesta. Erityisesti traktorin kehitys mahdollisti viljelytoimien suorittamisen aikaisempaa nopeammin ja tehokkaammin. [@newworldencyclopediaAgricultureNewWorld2015; @heikkonenMaataloudenTuotantotekniikanKehitys1989, 182-186]
+Maatalouden ensimmäinen vallankumous on neoliittinen vallankumous, toisen vallankumouksen ollessa englannin maatalouden vallankumous. Neoliittinen vallankumous oli tuhansien vuosien kehityskulku n. 11000–8500 eaa., jossa maatalous sai alkunsa useilla toisistaan riippumattomilla alueilla. Englannin maatalouden vallankumous puolestaan kesti noin sadan vuoden ajan n. 1690–1800, jolloin maatalouden tuottavuus kasvoi voimakkaasti koneistuneiden viljelytekniikoiden sekä sosiaalisten ja taloudellisten muutosten vaikutuksesta. Erityisesti traktorin kehitys mahdollisti viljelytoimien suorittamisen aikaisempaa nopeammin ja tehokkaammin. [@newworldencyclopediaAgricultureNewWorld2015; @heikkonenMaataloudenTuotantotekniikanKehitys1989, 182-186]
+
+Maatalouden kolmas vallankumous on niin sanottu vihreä vallankumous n. 1960–1985. Vihreän vallankummouksen tuloksena maatalouden tuotanto kasvoi huomattavasti, ruokaturva parani ja viljelyn tulosten riippuvuus luonnon olosuhteista väheni. Maataloudessa siirryttiin käyttämään teollisia viljely- ja kastelumenetelmiä, satoisampia lajikkeita, epäorgaanisia lannoitteita sekä rikkakasvien ja tuhohyönteisten torjunta-aineita. [@flachsGreenRevolution2016; @MaatalousKaipaaTiedetta2017]
 
 
-
-
-Esimerkiksi 1900-luvun alussa yksi yhdysvaltalainen maanviljelijä pystyi tuottamaan ruoan 2,5:lle ihmiselle, kun taas 1900-luvun lopussa vastaava luku oli yli 130 ihmistä [@newworldencyclopediaAgricultureNewWorld2015].
-
-
-
- ja toinen vallankumous ovat 
-Maatalouden kolmannen, niin sanotun vihreän vallankumouksen, 
+Esimerkiksi 1900-luvun alussa yksi yhdysvaltalainen maanviljelijä pystyi tuottamaan ruoan 2,5:lle ihmiselle, kun taas 1900-luvun lopussa vastaava luku oli yli 130 ihmistä [@newworldencyclopediaAgricultureNewWorld2015]. 
 
 The future of food and agriculture: trends and challenges
 [@foodandagricultureorganizationoftheunitednationsFutureFoodAgriculture2017]
@@ -62,50 +57,10 @@ The future of food and agriculture: trends and challenges
 FUTURE OF FOOD AND AGRICULTURE 2018: alternative pathways to 2050.
 [@foodagricultureorganizationFUTUREFOODAGRICULTURE2018]
 
-*Tähän maatalouden vallankumoukset, nykytilanteeseen johtavat agroteknologian kehityspolut*
+
 
 *Taustaa Ag3.0:sta creutzbergAgricultureNewParadigm2015 = NuffieldCanada_Report_Creutzberg_FINAL.pdf*
 
-*Muistiinpanoja Wikipediasta:*
-
-*Maatalouden vallankumous*
-
-*https://fi.wikipedia.org/wiki/Maatalouden_vallankumous*
-
-1. Neoliittinen vallankumous
-Maanviljelyn alku ja leviäminen
-n. 11000–8500 eaa.
-
-2. Englannin maatalouden vallankumous 
-n. 1690–1800 jaa.
-https://fi.wikipedia.org/wiki/Englannin_maatalouden_vallankumous
-
-Maanviljely tehostui huomattavasti useiden sosiaalisten, taloudellisten ja viljelytekniikan kehityksen aiheuttamien muutosten myötä.
-Teollinen vallankumous vaikutti merkittävästi maatalouskoneiden kehitykseen ja maatalouden mekanisoitumiseen, jolloin tuotanto tehostui huomattavasti.
-
-    Kero, Reino ja Kujanen, Hannu (toim.): ”Heikkonen, Esko Maatalouden tuotantotekniikan kehitys keskiajalta 1800-luvun puoliväliin”, Kivikirveestä tietotekniikkaan, tekniikan sosiaalihistoriaa kivikaudesta nykypäivään, s. 180-186. Turku: Turun yliopiston historian laitos, 1989. ISBN 951-880-296-3.
-
-3. Vihreä vallankumous
-n. 1960–1985
-https://fi.wikipedia.org/wiki/Vihreä_vallankumous
-
-
-Kehittyneissä maissa viljojen sadot kaksinkertaistuivat ja maailmanlaajuisesti kolminkertaistuivat. 
-
-Vihreä vallankumous muunsi maanviljelyn luomuviljelystä runsaasti ulkoisia panostuksia vaativaksi tehomaanviljelyksi tai teolliseksi maanviljelyksi.
-
-Vihreän vallankumouksen päätekniikat olivat:
-uudet lajikkeet
-keinokastelu
-lannoitteet
-torjunta-aineet (rikkakasvien, hyönteisten)
-koneistuminen
-
-Tekniikat: pääasiassa satoisampien viljalajikkeiden (kasvinjalostus), epäorgaanisten lannoitteiden (lannoitteet), kasvitautien torjunta-aineiden (torjunta-aineet), rikkakasvien ja tuhohyönteisten torjunta-aineiden ja maanviljelyn koneistumisen (koneistuminen) avulla. (+ kosteuden säätely)
-
-vähemmän nälänhätää ja aliravitsemusta, mutta samalla väestö on koko ajan kasvanut, mikä on vähentänyt saavutettuja hyötyjä. Suuren väestömäärän seurauksena ympäristö kärsii monin paikoin liikakansoituksen vaikutuksista. Lannoitteiden käyttö on suuri vesistöjen kuormittaja, aiheuttaen rehevöitymistä.
-
-/Wikipediaa*
 
 FAO 2017 Information and Communication Technology (ICT) in Agriculture 
 http://www.fao.org/3/a-i7961e.pdf
