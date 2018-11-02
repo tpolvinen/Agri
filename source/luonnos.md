@@ -44,33 +44,47 @@ Kuvio 3: Havaintojen määrien jakautuminen haastatteluissa kategorioittain
 
 Tässä luvussa kuvaillaan kasvintuotannon IoT:n taustaa ja sen osailmiöitä. Ensin tutustutaan osailmiöhin IoT, IIoT, AIoT ja kasvintuotanto, joiden taustaa, määrittelyä, historiaa ja nykytilaa kuvaillaan pintapuolisesti.
 
-## Kasvintuotanon taustaa
+## Kasvintuotanon teknologiakehityksen taustaa
 
 Tässä osiossa käsitellään lyhyesti kasvintuotannon taustaa maatalouden teknologiakehityksen viitekehyksessä, keskittyen AIoT:n teknologiasovelluksiin johtavaan kehityskulkuun.
 
 Maatalouden ensimmäinen vallankumous on neoliittinen vallankumous, toisen vallankumouksen ollessa englannin maatalouden vallankumous. Neoliittinen vallankumous oli tuhansien vuosien kehityskulku n. 11000–8500 eaa., jossa maanviljely sai alkunsa useilla toisistaan riippumattomilla alueilla. Englannin maatalouden vallankumous puolestaan kesti noin sadan vuoden ajan n. 1690–1800, jolloin maatalouden tuottavuus kasvoi voimakkaasti koneistuneiden viljelytekniikoiden sekä sosiaalisten ja taloudellisten muutosten vaikutuksesta. Erityisesti traktorin kehitys mahdollisti viljelytoimien suorittamisen aikaisempaa nopeammin ja tehokkaammin. [@newworldencyclopediaAgricultureNewWorld2015; @heikkonenMaataloudenTuotantotekniikanKehitys1989, 182-186]
 
-Maatalouden kolmas vallankumous on niin sanottu vihreä vallankumous n. 1960–1985. Vihreän vallankummouksen tuloksena maatalouden tuotanto kasvoi huomattavasti, ruokaturva parani ja viljelyn tulosten riippuvuus luonnon olosuhteista väheni. Maataloudessa siirryttiin käyttämään teollisia viljely- ja kastelumenetelmiä, satoisampia kasvilajikkeita, teollisesti valmistettuja epäorgaanisia lannoitteita sekä rikkakasvien ja tuhohyönteisten torjunta-aineita. [@flachsGreenRevolution2016; @helsinginyliopistoMaatalousKaipaaTiedetta2017; @pingaliGreenRevolutionImpacts2012] Vihreän vallankumouksen tuotantoa tehostavien teknologioiden sekä aikaisempaa huomattavasti suurempi maatalouden luonnonvarojen käyttö on osaltaan vaikuttanut maataloustuotannon kasvuun yli kolminkertaiseksi vuosien 1960 ja 2015 välillä. Tällä aikavälillä on tapahtunut ruoantuotannon ja maatalouden teollistuminen, jolloin ruoan tuotantoketjut ja fyysiset välimatkat pellolta pöytään ovat pidentyneet, samalla kun prosessoidun, pakatun ja esivalmistetun ruoan kulutus on lisääntynyt. Vaikka väestö on tällä aikavälillä yli kaksinkertaistunut ja tuotanto yli kolminkertaistunut, viljelyaluetta on otettu käyttöön vain 30 % enemmän. Edistyksestä huolimatta nälkä ja virheravitsemus ovat edelleen avoimia haasteita useissa osissa maailmaa, eikä nykyinen kehitystahti tule riittämään nälän hävittämiseen vuoteen 2050 mennessä. [@faoFutureFoodAgriculture2017, 4] 
+Maatalouden kolmas vallankumous on niin sanottu vihreä vallankumous n. 1960–1985. Vihreän vallankummouksen tuloksena maatalouden tuotanto kasvoi huomattavasti, ruokaturva parani ja viljelyn tulosten riippuvuus luonnon olosuhteista väheni. Maataloudessa siirryttiin käyttämään teollisia viljely- ja kastelumenetelmiä, satoisampia kasvilajikkeita, teollisesti valmistettuja epäorgaanisia lannoitteita sekä rikkakasvien ja tuhohyönteisten torjunta-aineita. [@flachsGreenRevolution2016; @helsinginyliopistoMaatalousKaipaaTiedetta2017; @pingaliGreenRevolutionImpacts2012] Vihreän vallankumouksen tehotuotannon teknologioiden sekä maatalouden aikaisempaa huomattavasti suurempi luonnonvarojen käyttö on osaltaan vaikuttanut maataloustuotannon kasvuun yli kolminkertaiseksi vuosien 1960 ja 2015 välillä. Tällä aikavälillä on tapahtunut ruoantuotannon ja maatalouden teollistuminen, jonka vaikutuksesta ruoan tuotantoketjut ja fyysiset välimatkat pellolta pöytään ovat pidentyneet samalla kun prosessoidun, pakatun ja esivalmistetun ruoan kulutus on lisääntynyt. Viljelyaluetta on tällä aikavälillä otettu käyttöön vain 30 % enemmän vaikka väestömäärä on yli kaksinkertaistunut ja tuotanto yli kolminkertaistunut. Edistyksestä huolimatta nälkä ja virheravitsemus ovat edelleen avoimia haasteita useissa osissa maailmaa, eikä nykyinen kehitystahti tule riittämään nälän hävittämiseen maailmasta vuoteen 2050 mennessä. [@faoFutureFoodAgriculture2017, 4] 
 
 Vihreän vallankumouksen vaikutukset ja sen jälkeinen maatalouden laajentuminen on todennäköisesti estänyt miljoonien ihmisten nälänhädän ja säästänyt tuhansien hehtaarien maa-alan muuttamisen viljelymaaksi. Laajamittaisen tehotuotannon hinta on kuitenkin kallis ja negatiiviset vaikutukset ympäristölle ovat olleet huomattavat metsien hakkuun, biodiversiteetin ja maaperän köyhtymisen, kasteluveden liikaoton ja kemikaalihuuhtoumien myötä. Negatiiviset vaikutukset eivät sinänsä ole johtuneet käytetyistä teknologioista vaan niiden harkitsemattomasta käytöstä ja poliittisista linjauksista pyrittäessä nopeaan maataloustuotannon tehostamiseen. Ympäristövaikutusten lisäksi vihreän vallankumouksen ja maatalouden tehotuotannon yhteiskunnalliset vaikutukset ovat olleet erityisen negatiivisia köyhimmille väestönosille ja monille huonosti tehoviljelyyn soveltuville alueille. [@pingaliGreenRevolutionImpacts2012; @faoFutureFoodAgriculture2017, 4]
 
-OECD:n (engl. Organisation for Economic Cooperation and Development) ja YK:n elintarvike- ja maatalousjärjestön (FAO, engl. Food and Agriculture Organization) OECD-FAO Agricultural Outlook 2018-2027 -raportin julkaisutilaisuudessa puhuneen FAO:n johtaja José Graziano da Silvan mukaan vihreä vallankumous vahvisti maailman kykyä ruokkia itsensä, mutta seuraavaksi tarvitaan kestävän tuotannon vallankumousta. Korkeiden tuotantopanosten ja runsaasti resursseja vaativien tuotantojärjestelmien asettama hinta ympäristölle on kallis ja vaatii muutosta. Maailman tulee omaksua kestäviä ja tehokkaita ruoan tuotantojärjestelmiä, jotka mahdollistavat terveellisen ja ravitsevan ruokavalion varmistaen samalla biodiversiteetin säilymisen ja ympäristön suojelun. [@faoOECDFAOPredictableAgricultural2018; ks. @worldbankIntroductionICTAgricultural2017, 3] 
+OECD:n (engl. Organisation for Economic Cooperation and Development) ja YK:n elintarvike- ja maatalousjärjestön (FAO, engl. Food and Agriculture Organization) OECD-FAO Agricultural Outlook 2018-2027 -raportin julkaisutilaisuudessa puhuneen FAO:n johtaja José Graziano da Silvan mukaan vihreä vallankumous vahvisti maailman kykyä ruokkia itsensä, mutta seuraavaksi tarvitaan kestävän maataloustuotannon vallankumousta. Korkeiden tuotantopanosten ja runsaasti resursseja vaativien tuotantojärjestelmien asettama hinta ympäristölle on kallis ja vaatii muutosta. Maailman tulee omaksua kestäviä ja tehokkaita ruoan tuotantojärjestelmiä, jotka mahdollistavat terveellisen ja ravitsevan ruokavalion varmistaen samalla biodiversiteetin säilymisen ja ympäristön suojelun. [@faoOECDFAOPredictableAgricultural2018; ks. @worldbankIntroductionICTAgricultural2017, 3] 
 
-Tietotekniikan (ICT, engl. Information and Communication Technologies) leviämisen ajoitus on näihin haasteisiin vastaamiseen suotuisa. Uuden maatalouden vallankumouksen tulisi mahdollistaa kuluttajahintojen laskeminen hävikin vähentämisen ja tehokkaampien tuotantoketjujen avulla, edesauttaa älykkään maatalouden (engl. smart agriculture) kehitystä ja kannustaa viljelijöitä tuotannon kasvattamiseen. ICT:n avulla voidaan tuottaa tehokkaita ratkaisuita maatalouden haasteisiin soveltamalla mobiililaitteita, langattomia tietoliikenneratkaisuita ja internet-palveluita. [@worldbankIntroductionICTAgricultural2017, 3]
+Tietotekniikan (ICT, engl. Information and Communication Technologies) leviämisen ajoitus on näihin haasteisiin vastaamiseen suotuisa. Uuden maatalouden vallankumouksen tulisi mahdollistaa kuluttajahintojen laskeminen hävikin vähentämisen ja tehokkaampien tuotantoketjujen avulla, edesauttaa älykkään maatalouden (engl. smart agriculture) kehitystä ja kannustaa viljelijöitä tuotannon kasvattamiseen. ICT:n avulla voidaan tuottaa tehokkaita ratkaisuita maatalouden haasteisiin soveltamalla mobiililaitteita, langattomia tietoliikenneratkaisuita ja internet-palveluita. [@worldbankIntroductionICTAgricultural2017, 3] Näillä ICT-ratkaisuilla voi olla huomattava rooli tulevaisuuden globaalin ruoantuotannon vaatimusten täyttämisessä. Ratkaisuilla voidaan pyrkiä esimerkiksi okea-aikaisen ja tarkan tiedon keräämiseen säätilasta, tuotantopanoksista, markkinatilanteesta ja hinnoista; tiedon tuottamiseen tutkimus- ja kehityshankkeille; tiedon jakamiseen viljelijöille; tuottajien ja kuluttajien välisten viestintäkanavien toteuttamiseen. [@rapsomanikisInformationCommunicationTechnology2017, 2] 
 
-FAO:n The future of food and agriculture: Trends and challenges []
+ICT-ratkaisuiden roolit maataloudessa ovat moninaiset (ks. kuva __) ja maataloudessa voidaan soveltaa muilla aloilla kehitettyjä ratkaisuita. Esimerkiksi säätietojen kerääminen ja analysoiminen voi parantaa mikrovakuutuksien toiminnallisuutta sekä pankkien mobiiliratkaisut voivat tehdä maatilojen rahoituksesta huomattavasti sujuvampaa. [@faoEAgricultureStrategyGuide2016, 10]
+
+![. ICT-ratkaisujen rooleja maataloudessa @faoEAgricultureStrategyGuide2016 mukaan](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/ICT-roles.png "ICT-ratkaisujen rooleja"){ width=155mm }
+
+Yleisellä tasolla ICT-ratkaisut tarjoavat uusia mahdollisuuksia tiedon jakamiseen ja vastaanottamiseen. Edistyvän digitalisaation avulla voidaan toteuttaa olemassa olevien teknologioiden yhdistäminen uusiin kuten laitteiden väliseen viestintään (M2M, engl. Machine-to-Machine), esineiden internetiin (IoT, engl. Internet of Things), pilvipalveluihin (engl. Cloud computing), massadataan (engl. Big Data), data-analytiikkaan, jne. Yhdistettyinä datan saatavuuteen, sovelluksiin ja nämä mahdollistavaan toimintaympäristöön voidaan maataloudessa realisoida huomattavia kehityspotentiaaleja (ks. kuva __). ICT-vetoisilla ratkaisuilla voidaan parantaa maatalouden tuotantoketjujen toimintaa  tuotantojärjestelmien hallinnoinnin, markkinayhteyksien kehittämisen sekä rahoitus- ja julkisten palveluiden käytön mahdollistamisen avulla. Tällöin voidaan mahdollistaa: [@faoEAgricultureStrategyGuide2016, 7-9]
+
+* Tuotantoprosessien parannuksia
+* Investointien keräämistä
+* Markkinoiden toiminnan tehostamista 
+* Arvoketjun toimijoiden yhteyksien parantannuksia 
+* Tiedonjakoverkostojen toiminnan mahdollistamista 
+* Arvoa lisääviä palveluita
+* Riskien vähentämistä 
+* Parantaa ruoan turvallisuutta ja ruokaturvaa
+
+![. Keskeisiä ICT-ratkaisuja maataloudessa @faoEAgricultureStrategyGuide2016 mukaan](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/ICTs_in_agriculture.png "ICT-ratkaisuja maataloudessa"){ width=140mm }
+
+
+
+
+
+
+
 
 ... 
 
-"ICT applications can make a significant contribution to meet this future global food needs.
-Information and Communication Technology can do so by collecting and sharing timely and
-accurate information on weather, inputs, markets, and prices; by feeding information into research
-and development initiatives; by disseminating knowledge to farmers; by connecting producers and
-consumers, and through many other avenues. Some of the broad areas where ICT plays a crucial
-role in agriculture are shown in Figure 1." [@rapsomanikisInformationCommunicationTechnology]
 
-
-Esimerkiksi 1900-luvun alussa yksi yhdysvaltalainen maanviljelijä pystyi tuottamaan ruoan 2,5:lle ihmiselle, kun taas 1900-luvun lopussa vastaava luku oli yli 130 ihmistä [@newworldencyclopediaAgricultureNewWorld2015]. 
 
 The future of food and agriculture: trends and challenges
 [@faoFutureFoodAgriculture2017]
@@ -85,14 +99,9 @@ FUTURE OF FOOD AND AGRICULTURE 2018: alternative pathways to 2050.
 *Taustaa Ag3.0:sta creutzbergAgricultureNewParadigm2015 = NuffieldCanada_Report_Creutzberg_FINAL.pdf*
 
 
-FAO 2017 Information and Communication Technology (ICT) in Agriculture [@rapsomanikisInformationCommunicationTechnology]
+FAO 2017 Information and Communication Technology (ICT) in Agriculture [@rapsomanikisInformationCommunicationTechnology2017]
 http://www.fao.org/3/a-i7961e.pdf
 
-
-
-
-*Tähän peltokasvituotannon, puutarhatuotannon, kasvihuonetuotannon taustaa*
-*oisko MTK:lla jotain, tai lukella, yleisiä määrityksiä*
 
 
 
@@ -100,7 +109,7 @@ http://www.fao.org/3/a-i7961e.pdf
 
 ### Yleinen IoT:n tausta
 
-Internetin kehityksen fokus on siirtymässä ihmisten välisestä kommunikaatiosta ja verkottumisesta ihmisten ja laitteiden saumattomaan integraatioon, jossa ajasta ja paikasta riippumaton yhteys keiden tahansa käyttäjien välillä on laajentumassa yhteyksillä *mihin tahansa objektiin*. Tässä integraatiossa pyritään fyysisen maailman ja ihmisten luoman virtuaalisten ympäristöjen yhdistämisen avulla kohti niin sanottua esineiden internetin (IoT, engl. Internet of Things) maailman toteuttamista. Toteutuessaan IoT-visiolla voi olla huomattavia teknologisia ja yhteiskunnallisia vaikutuksia. [@internationaltelecommunicationunion2060OverviewInternet2012] 
+Internetin kehityksen fokus on siirtymässä ihmisten välisestä kommunikaatiosta ja verkottumisesta ihmisten ja laitteiden saumattomaan integraatioon, jossa ajasta ja paikasta riippumaton yhteys keiden tahansa käyttäjien välillä on laajentumassa yhteyksillä *mihin tahansa objektiin*. Tässä integraatiossa pyritään fyysisen maailman ja ihmisten luoman virtuaalisten ympäristöjen yhdistämisen avulla kohti niin sanottua esineiden internetin (IoT) maailman toteuttamista. Toteutuessaan IoT-visiolla voi olla huomattavia teknologisia ja yhteiskunnallisia vaikutuksia. [@internationaltelecommunicationunion2060OverviewInternet2012] 
 
 Kulutus- ja kestokulutustavaroiden, autojen ja kuorma-autojen, teollisuuden ja kunnallistekniikan laitteiden, antureiden ja muiden arkipäiväisten objektien yhdistäminen internetin ja tehokkaan data-analytiikan kanssa voi muuttaa työmme, elämämme ja vapaa-aikamme. IoT:stä laaditut ennusteet ovat vaikuttavia: joidenkin odotusten mukaan vuoteen 2025 mennessä IoT-laitteita voisi olla käytössä jopa 100 miljardia ja globaali taloudellinen vaikutus voi olla jopa $11 biljoonaa. IoT:n etujen saavuttamisen edessä voi kuitenkin olla huomattavia haasteita. IoT-laitteiden tietoturvan puutteet, yksityisyyden suojan epävarmuudet ja valvonnan pelot ovat tulleet selkeästi julkisuuteen. Monet teknologiset haasteet ovat vielä avoimina, samalla kun uudet poliittiset, lainsäädännön ja kehityksen haasteet ovat vasta nousemassa esiin. [@roseInternetThingsOverview2015, 4]
 
@@ -117,7 +126,7 @@ Muita kirjallisuudessa mainittuja IoT:n historian tapahtumia ovat olleet @gillen
 
 Vuonna 2008 järjestettiin Zurichissä ensimmäinen kansainvälinen Internet of Things -konferenssi (IoT 2008). Tuolloin keskeisimpinä IoT-teknologioina mainittiin RFID, lyhyen kantaman langattomat kommunikaatioteknologiat, tosiaikainen paikantaminen ja anturiverkot, jotka tuovat IoT:n teolliseen, kaupalliseen ja kotitalouksien käyttöön. [@Floerkemeier:2008:1793060] Tämän jälkeen Internet of Things -konferensseja on järjestetty lähes vuosittain, vuoden 2018 konferenssin ollessa kahdeksas. Keskeisimpinä vuoden 2018 konferenssin aiheina on mainittu anturiteknologian kehitys ja halpeneminen sekä datakeskeisten liiketoimintamallien yleistyminen. Näiden lisäksi käsiteltyjä aiheita olivat IoT:n kehitys ja sosiaalinen omaksunta kuten IoT:n arkkitehtuurit, yksityisyyden suoja ja turvallisuus IoT:ssä, IoT:n sovellukset, ihmisen ja objektin välinen vuorovaikutus (HOI, engl. Human-Object Interactions) ja objektien välinen vuorovaikutus (OOI, engl. Object-Object Interactions). [@Janowicz:2018:3277593]
 
-Gartnerin julkaisemalla Hype Cycle -käyrällä IoT on edennyt alkuvaiheen noususta huipulle, minkä jälkeen se on kadonnut käyrältä. Vuonna 2011 [@cuccuredduGartnerHypeCycle2011] IoT oli käyrällä ensimmäisen vaiheen suuren julkisuuden nousussa. Vuonna 2014 [@gartnerGartner2014Hype2014a] IoT oli edennyt käyrän huipulle suurten odotusten vaiheeseen, missä se pysyi myös vuonna 2015 [@gartnerGartner2015Hype2015]. Vuonna 2016 [@gartnerGartner2016Hype2016] IoT oli kadonnut, mutta IoT-alustat (engl. IoT platforms) olivat alkuvaiheen nousussa ja vuonna 2017 [@gartnerTopTrendsGartner2017] IoT-alustat olivat nousseet käyrän huipulle. Vuonna 2018 [@gartnerTrendsEmergeGartner2018] IoT-alustat olivat edenneet huipun toiselle puolelle, mutteivät vielä niin sanotun pettymysten laakson puolelle.
+Gartnerin julkaisemalla Hype Cycle -käyrällä IoT on edennyt alkuvaiheen noususta huipulle, minkä jälkeen se on kadonnut käyrältä. Vuonna 2011 [@cuccuredduGartnerHypeCycle2011] IoT oli käyrällä ensimmäisen vaiheen suuren julkisuuden nousussa. Vuonna 2014 [@gartnerGartner2014Hype2014a] IoT oli edennyt käyrän huipulle suurten odotusten vaiheeseen, missä se pysyi myös vuonna 2015 [@gartnerGartner2015Hype2015] (ks. kuva __). Vuonna 2016 [@gartnerGartner2016Hype2016] IoT oli kadonnut, mutta IoT-alustat (engl. IoT platforms) olivat alkuvaiheen nousussa ja vuonna 2017 [@gartnerTopTrendsGartner2017] IoT-alustat olivat nousseet käyrän huipulle. Vuonna 2018 [@gartnerTrendsEmergeGartner2018] IoT-alustat olivat edenneet huipun toiselle puolelle, mutteivät vielä niin sanotun pettymysten laakson puolelle.
 
 ![. IoT vuoden 2015 Gartnerin Hype Cycle -käyrän huipulla @gartnerWhatNewGartner2015 mukaan](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/2015_Gartner_EmergingTech_Graphic.png "Gartner Hype Cycle 2015"){ width=110mm }
 
