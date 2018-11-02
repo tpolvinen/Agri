@@ -32,7 +32,10 @@ United Nations, Department of Economic and Social Affairs, Population Division
 
 *Agriculture is facing new and severe challenges in its own right (see box 1.1). With rising food prices that have pushed over 40 million people into poverty since 2010, more effective interventions are essential in agriculture (World Bank 2011). The growing global population, expected to hit 9 billion by 2050, has heightened the demand for food and placed pressure on already-fragile resources. Feeding that population will require a 70 percent increase in food production (FAO 2009)* [@worldbankIntroductionICTAgricultural2017, 3]
 
-"One clear message that emerges is that ‘business-as-usual’ is not an option." [@faoFutureFoodAgriculture2017]
+"One clear message that emerges is that ‘business-as-usual’ is not an option." [@faoFutureFoodAgriculture2017; faoFutureFoodAgriculture2018]
+"To move away from “business as usual”, all societies will be required to renew the
+assets used to produce goods and services, or capital stock, develop new solutions,
+and implement innovative technologies." [@faoFutureFoodAgriculture2018]
 
 Kuviot:
 Kuvio 1. Haastattelukohtaisten ja koko haastatteluaineiston yhteenlaskettujen koodien havaintojen määrien kaaviot
@@ -62,7 +65,7 @@ ICT-ratkaisuiden roolit maataloudessa ovat moninaiset (ks. kuva __) ja maataloud
 
 ![. ICT-ratkaisujen rooleja maataloudessa @faoEAgricultureStrategyGuide2016 mukaan](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/ICT-roles.png "ICT-ratkaisujen rooleja"){ width=155mm }
 
-Yleisellä tasolla ICT-ratkaisut tarjoavat uusia mahdollisuuksia tiedon jakamiseen ja vastaanottamiseen. Edistyvän digitalisaation avulla voidaan toteuttaa olemassa olevien teknologioiden yhdistäminen uusiin kuten laitteiden väliseen viestintään (M2M, engl. Machine-to-Machine), esineiden internetiin (IoT, engl. Internet of Things), pilvipalveluihin (engl. Cloud computing), massadataan (engl. Big Data), data-analytiikkaan, jne. Yhdistettyinä datan saatavuuteen, sovelluksiin ja nämä mahdollistavaan toimintaympäristöön voidaan maataloudessa realisoida huomattavia kehityspotentiaaleja (ks. kuva __). ICT-vetoisilla ratkaisuilla voidaan parantaa maatalouden tuotantoketjujen toimintaa  tuotantojärjestelmien hallinnoinnin, markkinayhteyksien kehittämisen sekä rahoitus- ja julkisten palveluiden käytön mahdollistamisen avulla. Tällöin voidaan mahdollistaa: [@faoEAgricultureStrategyGuide2016, 7-9]
+Yleisellä tasolla ICT-ratkaisut tarjoavat uusia mahdollisuuksia tiedon jakamiseen ja vastaanottamiseen. Edistyvän digitalisaation avulla voidaan toteuttaa olemassa olevien teknologioiden yhdistäminen uusiin kuten laitteiden väliseen viestintään (M2M, engl. Machine-to-Machine), esineiden internetiin (IoT, engl. Internet of Things), pilvipalveluihin (engl. Cloud computing), massadataan (engl. Big Data), data-analytiikkaan, jne. Yhdistettyinä datan saatavuuteen, sovelluksiin ja nämä mahdollistavaan toimintaympäristöön voidaan maataloudessa realisoida huomattavia kehityspotentiaaleja (ks. kuva __). ICT-vetoisilla ratkaisuilla voidaan parantaa maatalouden tuotantoketjujen toimintaa tuotantojärjestelmien hallinnoinnin, markkinayhteyksien kehittämisen sekä rahoitus- ja julkisten palveluiden käytön mahdollistamisen avulla. Tällöin voidaan mahdollistaa: [@faoEAgricultureStrategyGuide2016, 7-9]
 
 * Tuotantoprosessien parannuksia
 * Investointien keräämistä
@@ -71,36 +74,14 @@ Yleisellä tasolla ICT-ratkaisut tarjoavat uusia mahdollisuuksia tiedon jakamise
 * Tiedonjakoverkostojen toiminnan mahdollistamista 
 * Arvoa lisääviä palveluita
 * Riskien vähentämistä 
-* Parantaa ruoan turvallisuutta ja ruokaturvaa
+* Ruoan turvallisuuden ja ruokaturvan parannuksia
 
-![. Keskeisiä ICT-ratkaisuja maataloudessa @faoEAgricultureStrategyGuide2016 mukaan](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/ICTs_in_agriculture.png "ICT-ratkaisuja maataloudessa"){ width=140mm }
+![. Keskeisiä ICT-ratkaisuita maataloudessa @faoEAgricultureStrategyGuide2016 mukaan](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/ICTs_in_agriculture.png "ICT-ratkaisuita maataloudessa"){ width=140mm }
 
+Viimeisten 20 vuoden aikana maataloudessa ICT-ratkaisuita on otettu käyttöön suuressa mittakaavassa täsmäviljelyn (PA, engl. Precision Agriculture) ratkaisuissa. Täsmäviljelyssä sovelletaan ICT-ratkaisuita esimerkiksi maa-analyysissä, keinokastelussa, kalustonhallinnassa ja sääennusteden laadinnassa. Täsmäviljelyn avulla pyritään ennen kaikkea maataloustuotannossa tehokkuuden parantamiseen, mutta myös terveyden ja turvallisuuden sekä ympäristövaikutusten parempaan hallintaan. Välittömien etujen kuten sadonlisän, tuotantopanosten vähentämisen ja paremman tuotantotehon lisäksi täsmäviljely usein tuottaa massadataa, jota analysoimalla voidaan tulkita menneitä ja ennustaa tulevia tapahtumia. Data-analytiikan avulla voidaan tuottaa uusia tehokkaita maatalouden päätöksenteon työvälineitä, jotka avustavat paitsi tuotannon kehittämisessä, myös biodiversiteetin suojelussa. [@rapsomanikisInformationCommunicationTechnology2017]
 
-
-
-
-
-
-
-... 
-
-
-
-The future of food and agriculture: trends and challenges
-[@faoFutureFoodAgriculture2017]
-
-FUTURE OF FOOD AND AGRICULTURE 2018: alternative pathways to 2050.
-[@faoFutureFoodAgriculture2018]
-
-
-
-
-
-*Taustaa Ag3.0:sta creutzbergAgricultureNewParadigm2015 = NuffieldCanada_Report_Creutzberg_FINAL.pdf*
-
-
-FAO 2017 Information and Communication Technology (ICT) in Agriculture [@rapsomanikisInformationCommunicationTechnology2017]
-http://www.fao.org/3/a-i7961e.pdf
+*Miten IoT liittyy PA:han?*
+*Täsmäviljelystä voidaan kehittää smart ag!*
 
 
 
