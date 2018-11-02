@@ -32,7 +32,7 @@ United Nations, Department of Economic and Social Affairs, Population Division
 
 *Agriculture is facing new and severe challenges in its own right (see box 1.1). With rising food prices that have pushed over 40 million people into poverty since 2010, more effective interventions are essential in agriculture (World Bank 2011). The growing global population, expected to hit 9 billion by 2050, has heightened the demand for food and placed pressure on already-fragile resources. Feeding that population will require a 70 percent increase in food production (FAO 2009)* [@worldbankIntroductionICTAgricultural2017, 3]
 
-
+"One clear message that emerges is that ‘business-as-usual’ is not an option." [@faoFutureFoodAgriculture2017]
 
 Kuviot:
 Kuvio 1. Haastattelukohtaisten ja koko haastatteluaineiston yhteenlaskettujen koodien havaintojen määrien kaaviot
