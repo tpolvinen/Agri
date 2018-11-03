@@ -255,30 +255,24 @@ http://blogs.worldbank.org/ic4d/agriculture-20-how-internet-things-can-revolutio
 
 # OPINNÄYTETYÖN TARKOITUS, TAVOITE, TUTKIMUSKYSYMYKSET JA TUTKIMUSMENETELMÄT
 
-Tässä luvussa kuvaillaan toteutetun tutkimuksen tarkoitus, tavoitteet, tutkimuskysymykset, aineisto, menetelmät ja eteneminen.
+Tässä luvussa kuvaillaan toteutetun tutkimuksen tarkoitus, tavoitteet, tutkimuskysymykset, aineisto, menetelmät ja eteneminen. Opinnäytetyön aihepiirinä on IoT:in kasvintuotannon sovelluksiin liittyvät tutkimukset, julkaisut ja teknologiasovellukset. Opinnäytetyössä toteutan narratiivisen kirjallisuuskatsauksen sekä haastattelen asiaan perehtyneitä tutkijoita ja yritysten edustajia. 
 
-Opinnäytetyön aihepiirinä on kasvintuotannon esineiden internetiin (Agriculture Internet of Things, AIoT) liittyvät tutkimukset, julkaisut ja teknologiasovellukset. Opinnäytetyössä haastatellaan asiaan perehtyneitä tutkijoita ja yritysten edustajia. 
+Opinnäytetyön keskeinen tutkimusongelma on, että kasvintuotannon IoT-ratkaisut eivät ole laajasti tunnettuja ja aihetta sivuavia opinnäytetöitä on julkaistu vain muutamia. Tutkimuskysymyksiin pyrin vastaamaan käyttämällä kuvailevaa kirjallisuuskatsausta ja asiantuntijoiden teemahaastatteluja. Käyttämällä tutkimusmenelminä sekä teemahaastatteluja että kirjallisuuskatsausta pyrin lisäämään ymmärrystä tutkittavasta ilmiöstä eri lähestymistapoja käyttäen. 
 
-Opinnäytetyön keskeinen tutkimusongelma on, että kasvintuotannon IoT-ratkaisut eivät ole laajasti tunnettuja ja aihetta sivuavia opinnäytetöitä on julkaistu vain muutamia.
+Menetelmätriangulaatiota eli monimetodista lähestymistapaa voidaan käyttää tutkittavan ilmiön ymmärryksen lisäämiseen. Menetelmätriangulaatio eli useiden menetelmien käyttö on tällöin myös tutkimusstrateginen valinta. [@kananenOpinnaytetyonKirjoittamisenKaytannon2010] Pyrin tukemaan laadullista menetelmää menetelmätriangulaation avulla, [ks. @hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 39; @gubriumSageHandbookInterview2012, 284] jonka toteutan haastatteluaineiston laadullisen kuvailun ja määrällistä menetelmää soveltavan sisällönanalyysin avulla.
 
-Tutkimuskysymyksiin pyritään vastaamaan käyttämällä kuvailevaa kirjallisuuskatsausta ja asiantuntijoiden teemahaastatteluja. Käyttämällä tutkimusmenelminä sekä teemahaastatteluja että kirjallisuuskatsausta pyritään lisäämään ymmärrystä tutkittavasta ilmiöstä eri lähestymistapoja käyttäen. 
+Olen rajannut opinnäytetyön laajuuden rajallisuuden vuoksi aihealueeksi kasvintuotannon IoT-ratkaisut, minkä arvioin olevan yleisen ruoantuotannon kannalta vaikuttavin ruoantuotannon osa. Samasta syystä en käsittele tässä opinnäytetyössä yksittäisiä teknologiaratkaisuita kuten verkkoprotokollia, sensoritekniikkaa tai algoritmejä, vaan keskityn kuvailemaan kasvintuotannon IoT-ratkaisuita yleistasolla.
 
-Menetelmätriangulaatiota eli monimetodista lähestymistapaa voidaan käyttää tutkittavan ilmiön ymmärryksen lisäämiseen. Menetelmätriangulaatio eli useiden menetelmien käyttö on tällöin myös tutkimusstrateginen valinta. [@kananenOpinnaytetyonKirjoittamisenKaytannon2010] Opinnäytetyössä pyritään tukemaan laadullista menetelmää menetelmätriangulaation avulla. [ks. @hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 39; @gubriumSageHandbookInterview2012, 284] Menetelmätriangulaatio on toteutettu haastatteluaineiston laadullisen kuvailun ja määrällistä menetelmää soveltavan sisällönanalyysin avulla.
-
-Opinnäytetyön laajuuden rajallisuuden vuoksi aihealueeksi on rajattu kasvintuotannon IoT-ratkaisut, minkä tekijä arvioi olevan yleisen ruoantuotannon kannalta vaikuttavin ruoantuotannon osa. Samasta syystä tässä opinnäytetyössä ei käsitellä yksittäisiä teknologiaratkaisuita kuten verkkoprotokollia, sensoritekniikkaa tai algoritmejä, vaan keskitytään kuvailemaan kasvintuotannon IoT-ratkaisuita yleistasolla.
-
-IoT-ratkaisuna on tässä opinnäytetyössä lähtökohtaisesti pidetty järjestelmää tai järjestelmien verkostoa, joka anturien automaattisesti tuottaman ja verkon yli siirretyn datan analytiikan perusteella vaikuttaa ympäristöön automaattisesti, ilman tarvetta ihmisen toiminnalle. Koska tälläisia ratkaisuita on markkinoilla tutkimuksen teon hetkellä hyvin vähän, on yleisen IoT:tä käsittelevän kirjallisuuden mukaisesti otettu huomioon myös sellaiset ratkaisut, jotka voisivat olla edellä määritellyn ratkaisun aikaisempia kehitysvaiheita. Tästä kirjallisuudessa yleisin esimerkki ovat automaattisesti digitaalista mittausdataa tuottavat ja tallentavat järjestelmät, jotka eivät sisällä aktuoinnin toiminnallisuuksia tai edistynyttä data-analytiikkaa.
+IoT-ratkaisuna olen tässä opinnäytetyössä lähtökohtaisesti pitänyt järjestelmää tai järjestelmien verkostoa, joka anturien automaattisesti tuottaman ja verkon yli siirretyn datan analytiikan perusteella vaikuttaa ympäristöön automaattisesti, vaatien ihmisen suorittamia toiminteita vain minimaalisesti tai ei ollenkaan. Koska tälläisia ratkaisuita on markkinoilla tutkimuksen teon hetkellä ilmeisesti hyvin vähän, olen yleisen IoT:tä käsittelevän kirjallisuuden mukaisesti ottanut huomioon myös sellaiset ratkaisut, jotka voisivat olla edellä määritellyn ratkaisun aikaisempia kehitysvaiheita tai osaratkaisuita. Tästä kirjallisuudessa yleisin esimerkki ovat automaattisesti digitaalista mittausdataa tuottavat ja tallentavat järjestelmät, jotka eivät sisällä aktuoinnin toiminnallisuuksia tai edistynyttä data-analytiikkaa.
 
 ## Tutkimuksen tarkoitus
 
 Opinnäytetyön tarkoituksena on tuottaa ajankohtainen kartoittava katsaus [ks. @hirsjarviTutkiJaKirjoita2009, 134-135] kasvintuotannossa sovellettavien IoT-ratkaisuiden tilanteesta ja niiden tarjoamista mahdollisuuksista. 
 
-*Tietoa saadaan - tähän keskeiset asiakokonaisuudet, avoimet haasteet jne.* 
-
 
 ## Tutkimuksen tavoitteet
 
-Opinnäytetyön tavoitteena on antaa lukijalle ajankohtainen yleiskuva kasvintuotannossa käytettäviin esineiden internetin (Internet of Things, IoT) teknologiasovelluksista ja niiden tutkimuksesta. Lisäksi opinnäytetyö voi toimia lähtökohtana lukijan omalle tiedonhaulle aiheeseen tarkemmin tutustuttaessa.
+Opinnäytetyön tavoitteena on antaa lukijalle ajankohtainen yleiskuva kasvintuotannossa käytettäviin IoT:in teknologiasovelluksista ja niiden tutkimuksesta. Lisäksi opinnäytetyö voi aiheeseen tarkemmin tutustuttaessa toimia lähtökohtana ja lähdeviitteiden kokoelmana lukijan omalle tiedonhaulle.
 
 
 ## Tutkimuskysymykset
@@ -288,7 +282,7 @@ Tutkimuskysymyksiä on kaksi, joissa molemmissa on alakysymyksiä:
 I) Millaista tutkimusta IoT-teknologioiden soveltamisesta kasvintuotantoon on julkaistu?
 
 * Millaisia teknologiasovelluksia tutkimuksissa on esitelty?
-* Minkä tyyppiset IoT-sovellukset tulevat tutkimusmateriaalissa selkeimmin esille, eli millaisia sovelluksia ja teknologioita on viime aikoina tutkittu? 
+* Minkä tyyppiset IoT-sovellukset tulevat tutkimusmateriaalissa selkeimmin esille, eli millaiset sovellukset ovat viime aikaisessa tutkimuksessa keskeisimpiä? 
 
 II) Miten kasvintuotannossa hyödynnetään IoT-teknologioita?
 
@@ -296,19 +290,27 @@ II) Miten kasvintuotannossa hyödynnetään IoT-teknologioita?
 * Millaisia etuja ja hyötyjä IoT-ratkaisut voivat tarjota kasvintuotannossa?
 * Mitkä ovat kasvintuotannon IoT-ratkaisuiden keskeiset avoimet haasteet?
 
+
 ## Tutkimusmenetelmien valinta
 
-Opinnäytetyön tutkimustehtävänä on koota yhteen laadulliseksi yhteenvedoksi tutkimuksien tuloksia, erilaisten julkaisujen sisältöjä ja asiantuntijoiden näkemyksiä. Tämän takia opinnäytetyö tehtiin käyttämällä laadullisia tutkimusmenetelmiä.
+Opinnäytetyön tutkimustehtävänä on koota yhteen laadulliseksi yhteenvedoksi tutkimuksien tuloksia, erilaisten julkaisujen sisältöjä ja asiantuntijoiden näkemyksiä. Tämän takia olen käyttänyt opinnäytetyössä laadullisia tutkimusmenetelmiä.
 
-Tutkimusmenetelmien valintaan on vaikuttanut voimakkaasti tutkimustehtävä ja tutkimuskysymysten asettelu. Opinnäytetyön tutkimustehtävä viittaa laadulliselle tutkimukselle ominaisiin kohteisiin kuten ilmiön kuvailuun, käsitteiden ja rakenteiden jäsentämiseen, haastateltavien kokemuksiin ja näkemyksiin sekä ylipäätään aineistolähtöiseen lähestymistapaan. Laadullisten eli kvalitatiivisten menetelmien valintaa puoltavat tutkimuskysymysten laadullinen luonne ja väljä asettelu. Samoin opinnäytetyön tutkimuskysymyksillä pyritään laadullisen tutkimuksen menetelmäsuuntauksen mukaisesti ymmärtämään kohteen laatua, ominaisuuksia ja merkityksiä kokonaisvaltaisesti [ks. @hirsjarviTutkiJaKirjoita2009, 160-161]. Opinnäytetyössä käsiteltävä aineisto kerättiin narratiivisella kirjallisuuskatsauksella ja teemahaastatteluilla. Näin kerätty aineisto on laadullista, tekstimuotoista ja sitä on tarkoitus analysoida lukemalla, mikä osaltaan puoltaa laadullisten menetelmien valintaa.
+Tutkimusmenetelmien valintaan on vaikuttanut voimakkaasti tutkimustehtävä ja tutkimuskysymysten asettelu. Opinnäytetyön tutkimustehtävä viittaa laadulliselle tutkimukselle ominaisiin kohteisiin kuten ilmiön kuvailuun, käsitteiden ja rakenteiden jäsentämiseen, haastateltavien kokemuksiin ja näkemyksiin sekä ylipäätään aineistolähtöiseen lähestymistapaan. Laadullisten eli kvalitatiivisten menetelmien valintaa puoltavat tutkimuskysymysten laadullinen luonne ja väljä asettelu. Samoin opinnäytetyön tutkimuskysymyksillä pyritään laadullisen tutkimuksen menetelmäsuuntauksen mukaisesti ymmärtämään kohteen laatua, ominaisuuksia ja merkityksiä kokonaisvaltaisesti [ks. @hirsjarviTutkiJaKirjoita2009, 160-161]. Olen kerännyt opinnäytetyössä käsiteltävän aineiston narratiivisella kirjallisuuskatsauksella ja teemahaastatteluilla. Näin kerätty aineisto on laadullista, tekstimuotoista ja sitä on tarkoitus analysoida lukemalla, mikä osaltaan puoltaa laadullisten menetelmien valintaa.
 
 Kirjallisuuskatsauksen valintaa puoltavat tutkimuskysymysten asettamat vaatimukset kartoittaa ja vetää yhteen hajanaista teoriatietoa, mihin @baumeisterWritingNarrativeLiterature1997 [311] mukaan kirjallisuuskatsaus on sopiva. Samoin @baumeisterWritingNarrativeLiterature1997 [312] esittämistä perusteluista kirjallisuuskatsauksen valinnalle sopii tässä tapauksessa kokonaiskuvan rakentaminen tutkittavasta asiakokonaisuudesta. Saman suuntaisesti @salminenMikaKirjallisuuskatsausJohdatus2011 [4] antamista perusteluista kirjallisuuskatsauksen mahdollisuus koota yhteen tutkimuksien tuloksia uusien tutkimustulosten pohjaksi puoltaa kirjallisuuskatsauksen valintaa.
 
 Teemahaastattelun valintaa puoltavat tutkimuskysymysten vaatimusten lisäksi useat yleisesti käytössä olevat tutkimushaastattelun valintaperusteet. Tässä tapauksessa keskeisiä perusteita ovat @hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015 [35] esittämien perusteiden joukosta: 1) haastattelulla voidaan hankkia tietoa vähän kartoitetusta alueesta, jolloin tutkijan on vaikea ennakoida vastausten suuntia; 2) haastatteluissa voidaan saada monitahoisesti ja moniin suuntiin viittaavia vastauksia; 3) haastatteluissa saaduille vastauksille voidaan pyytää selvennöksiä; 4) haastateltavaa voidaan pyytää syventämään antamaansa vastausta, esimerkiksi perustelemaan mielipidettään. Samoin @tuomiLaadullinenTutkimusJa2018 [79] kuvailevat haastattelun eduiksi joustavuutta kysymysten käsittelyssä, väärinymmärrysten selvittelyssä, ilmausten selventämisessä ja keskustelussa tiedonantajan kanssa.
 
-Lisäksi teemahaastattelun valintaa puoltaa tässä tapauksessa se, että sen avulla haastateltavien oma erikoistumisalue ja näkemykset pääsevät esille mikä on tärkeää tutkimuskysymyksiin vastaamisessa. Teemahaastattelu valittiin lomakehaastattelun sijaan ensisijaisesti joustavuutensa perusteella. Tämä mahdollisti asiantuntijahaastattelujen tekemisen ilman tarkkaan määriteltyjä haastattelukysymyksiä, joiden laatimiseen olisi tarvittu todennäköisesti enemmän asiantuntemusta kasvintuotannon alalta kuin tekijällä on. Toisaalta syvähaastattelu olisi antanut vielä enemmän joustoa, mutta haastattelutilanteet olisivat voineet tekijän kokemattomuuden takia olla vaikeasti hallittavissa. Samoin haastatteluaineiston analysointi olisi voinut olla vaikeampaa ilman etukäteen harkittuja teemoja.
+Lisäksi teemahaastattelun valintaa puoltaa tässä tapauksessa se, että sen avulla haastateltavien oma erikoistumisalue ja näkemykset pääsevät esille, mikä on tärkeää tutkimuskysymyksiin vastaamisessa. Teemahaastattelu valittiin lomakehaastattelun sijaan ensisijaisesti joustavuutensa perusteella. Tämä mahdollisti asiantuntijahaastattelujen tekemisen ilman tarkkaan määriteltyjä haastattelukysymyksiä, joiden laatimiseen olisi tarvittu todennäköisesti enemmän asiantuntemusta kasvintuotannon alalta kuin minulla on käytettävissäni. Toisaalta syvähaastattelu olisi antanut vielä enemmän joustoa, mutta haastattelutilanteet olisivat voineet kokemattomuuteni takia olla vaikeasti hallittavissa. Samoin haastatteluaineiston analysointi olisi voinut olla vaikeampaa ilman etukäteen harkittuja teemoja.
 
-@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015 [35-36] esittämät haastattelun haitat, kuten 1) haastattelun tekemisen vaatima taito, 2) sen vaatima aika ja kustannukset, 3) haastattelussa tehtävien virheiden mahdollisuus sekä 4) haastatteluista saatu epärelevantin materiaalin määrä katsottiin tässä tapauksessa olevan haastattelumenetelmän tarjoamiin etuihin verrattuina pieniä, jos ne otetaan huomioon ja niiden vaikutukset pyritään minimoimaan. @tuomiLaadullinenTutkimusJa2018 [79] viittaavat samoihin ongelmiin, kertoen niiden olevan yleisen näkemyksen mukaan pääasiassa menetelmällisiä ja ratkaistavissa haastattelijoiden koulutuksella, rahoituksella jne. 
+@hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015 [35-36] esittämät haastattelun haitat, kuten:
+
+* Haastattelun tekemisen vaatima taito
+* Haastattelujen vaatima aika ja kustannukset
+* Haastatteluissa tehtävien virheiden mahdollisuus sekä
+* Haastatteluista saatu epärelevantin materiaalin määrä 
+
+Katsoin haittojen tässä tapauksessa olevan haastattelumenetelmän tarjoamiin etuihin verrattuina pieniä, jos huomioin ne ja pyrin minimoimaan niiden vaikutukset. @tuomiLaadullinenTutkimusJa2018 [79] viittaavat samoihin ongelmiin, kertoen niiden olevan yleisen näkemyksen mukaan pääasiassa menetelmällisiä ja ratkaistavissa haastattelijoiden koulutuksella, rahoituksella jne. Tämän opinnäytetyön toteutukseen minulla oli käytettävissäni koulutuksena vain menetelmäkirjallisuutta ja rahoituksena rajattu määrä opintolainastani, joten pyrin minimoimaan haittoja erityisen huolellisesti.
 
 
 ## Kirjallisuuskatsaus tutkimusmenetelmänä
