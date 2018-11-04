@@ -235,6 +235,7 @@ http://www.fao.org/search/en/?cx=018170620143701104933%3Aqq82jsfba7w&q=internet+
 Agriculture 2.0: how the Internet of Things can revolutionize the farming sector
 http://blogs.worldbank.org/ic4d/agriculture-20-how-internet-things-can-revolutionize-farming-sector [@leeAgricultureHowInternet2017]
 
+*Strengthened linkages between farms, markets and consumers can be an important source of income growth and job creation in both rural and urban areas (Trends 10 and 12). Formal, structured supply chains increase the efficiency of product flows – from inputs to farmers, and food products to consumers – but have also been found to pose challenges to food security. 140 Trends and Challenges @faoFutureFoodAgriculture2017*
 
 # OPINNÄYTETYÖN TARKOITUS, TAVOITE, TUTKIMUSKYSYMYKSET JA TUTKIMUSMENETELMÄT
 
@@ -350,7 +351,10 @@ Aineiston pelkistämisen analyysimallissa edetään tunnistamalla asiat, joista 
 
 # AINEISTO JA TUTKIMUKSEN TOTEUTUS
 
-Tässä osiossa kuvaillaan aineiston hankinnassa ja tutkimuksessa käytetyt menetelmät. Kuvailevasta kirjallisuuskatsauksesta kuvaillaan lyhyesti sen alustava työvaihe ja toteutus, aineiston haku ja haussa käytettyjen asiasanojen valintaperusteet. Asiantuntijoiden teemahaastatteluista kuvaillaan lyhyesti miten teemahaastattelun yleisiä käytänteitä on sovellettu, haastateltavien valinnan perusteet, haastattelujen toteutus järjestelyineen, haastatteluaineiston analyysimenetelmä ja johtopäätösten perustelut.
+Tässä osiossa kuvaillaan aineiston hankinnassa ja tutkimuksessa käytetyt menetelmät. Kuvailevasta kirjallisuuskatsauksesta kuvaillaan lyhyesti sen alustava työvaihe ja toteutus, aineiston haku, haussa käytettyjen asiasanojen valintaperusteet ja aineiston valinta. Asiantuntijoiden teemahaastatteluista kuvaillaan lyhyesti miten teemahaastattelun yleisiä käytänteitä on sovellettu, haastateltavien valinnan perusteet, haastattelujen toteutus järjestelyineen, haastatteluaineiston analyysimenetelmä ja johtopäätösten perustelut.
+
+Päätin kuvailla tässä osiossa aineiston hakua ja valintaperusteita keskeisiltä osin, vaikka @onwuegbuzieStepsComprehensiveLiterature2016 [24] mukaan narratiivisissa kirjallisuuskatsauksissa ei kuvailla aineiston hakuprosessia, käsiteltyjen tutkimusten määrää, valintakriteerejä jne. (ks. kohta Kuvaileva kirjallisuuskatsaus tutkimusmenetelmänä). Pyrin tällä helpottamaan kiinnostuneen lukijan omaa tiedonhakua ja katsauksen arviointia. Lisäksi pyrin parantamaan katsauksen hyödyllisyyttä, koska uutta kirjallisuutta julkaistaan aiheesta jatkuvasti ja uuden tiedon hakeminen on lukijalle keskeistä ajankohtaisen kokonaiskuvan muodostamiseksi.
+
 
 ## Kuvailevan kirjallisuuskatsauksen toteutus
 
@@ -359,9 +363,6 @@ Kirjallisuuskatsauksen aineiston keruumenetelmiä oli useita. Ennen kirjallisuus
 Tutkimuksen alustavassa tutustumisvaiheessa merkitsin tekemäni löydöt muistiin mahdollista myöhempää käyttöä varten ja olen käyttänyt alustavassa vaiheessa löydettyjä aineistoja myös kirjallisuuskatsausksessa jos ne ovat oman harkintani mukaan olleet tähdellisiä aiheen käsittelylle ja ymmärryksen luomiselle. Valitsin alustavien hakujen avulla löytämistäni julkaisuista harkinnanvaraisesti joukon keskeisimpiä asiasanoja. Yhdistin nämä asiasanat löytämieni kirjallisuuskatsausten hakulauseissa käytettyihin tutkimusaiheelle keskeisiin asiasanoihin. Tutkimus- ja hakumenetelmien malleina käytin löytämieni keskeisten kirjallisuuskatsausten menetelmiä. Asetin haettavan aineiston aikaisimmaksi julkaisuvuodeksi vuoden 2010 kirjallisuuskatsausten ja alustavien hakujen tulosten perusteella, koska sitä ennen aiheesta julkaistua kirjallisuutta löytyy verrattaen vähän ja nopean teknologiakehityksen myötä aikaisemmat julkaisut ovat todennäköisesti vanhentuneet.
 
 Käytin eri tietokantoihin tehdyissä hauissa kunkin kannan hakutoimintoihin sovellettuja hakulauseita. Usein tämä tarkoitti hakulauseiden lyhentämistä tietokantojen hakutoimintojen sallimiin hakusanamääriin sopiviksi. Sain hakujen tuloksena joukon erilaisia julkaisuja, joiden joukosta valitsin aihetta käsittelevät kirjallisuuskatsaukset. Samoin kuin alustavien hakujen vaiheessa, kävin kirjallisuuskatsauksista läpi tuloksien lisäksi tutkimusmenetelmät. Käytin näitä menetelmiä soveltuvin osin hyväksi seuraavissa aineistohaun vaiheissa. Tällä pyrin varmistamaan, että katsauksissa selkeästi havaitut asiakokonaisuudet tulevat huomioiduksi, hakumenetelmät ja asiasanat ovat laadukkaita sekä tutkittavalle ilmiölle sopivia. Lopuksi valitsin harkinnanvaraisesti tietokantahakujen ja muiden aineiston hankinnan menetelmien avulla löydetystä aineistosta aihetta parhaiten kuvailevat julkaisut. Painotin valinnassa tunnettujen ja aihetta laajasti julkaisuissaan käsitelleiden tutkijoiden töitä sekä laadukkaiksi katsomiani julkaisuja. Lopulta päädyin jättämään osan löytämästäni aineistosta käsittelemättä niiden päällekkäisyyden, vähäisen uuden tiedon ja opinnäytetyön rajallisen laajuuden takia.
-
-
-### Kirjallisuuskatsauksen aineistojen haku
 
 Tein alustavia aineistohakuja Google-haulla (https://google.com) ja Google Scholar -haulla (https://scholar.google.fi) sekä ResearchGaten (https://www.researchgate.:net) haku- ja suositustoimintojen avulla. Haaga-Helian kirjaston tarjoamista tietokannoista alustavia hakuja tein seuraaviin: 
 
@@ -387,10 +388,11 @@ Valitsin varsinaiseen hakuun Haaga-Helian kirjaston tarjoamista tietokannoista n
 
 Näiden lisäksi käytin Google Scholar -hakukonetta ja ResearchGate-tutkimusportaalia. Muodostin hakulauseet kahdesta hakusanojen ryhmästä, joista ensimmäiseen valitsin IoT:lle keskeiset asiasanat ja toiseen ryhmään valitsin kasvintuotannolle ja maataloudelle keskeiset asiasanat. Käytin ryhmien välillä AND-operaattoria ja ryhmien sisällä OR-operaattoria hakusanojen välillä. Julkaisuajan rajauksen asetin vuoden 2010 aikana ja sen jälkeen julkaistuihin hakutuloksiin.
 
-Kokosin alustavissa aineistohauissa löytämieni aineistojen asiasanojen sekä löytämieni kirjallisuuskatsausten käyttämien hakusanojen joukosta tutkittavalle ilmiölle keskeisimmät hakusanat. Käytin hakusanojen valinnassa vain englanninkielisiä sanoja, koska arvelin suomenkielisten aineistojen käyttävän sekä suomen- että englanninkielisiä asiasanoja ja löytyvän englanninkielisten hakusanojen avulla. Jätin pois asiasanat, jotka eivät selkeästi liittyneet kasvintuotannon IoT:in tutkimukseen ja teknologiaratkaisuihin ja lopuksi muodostin valikoimistani asiasanoista muodostettiin hakulauseen, jonka hakusanat jaoin kahteen ryhmään (ks. liite 0). 
+Kokosin alustavissa aineistohauissa löytämieni aineistojen asiasanojen sekä löytämieni kirjallisuuskatsausten käyttämien hakusanojen joukosta tutkittavalle ilmiölle keskeisimmät hakusanat. Käytin hakusanojen valinnassa vain englanninkielisiä sanoja, koska arvelin suomenkielisten aineistojen käyttävän sekä suomen- että englanninkielisiä asiasanoja ja löytyvän englanninkielisten hakusanojen avulla. Jätin pois ne asiasanat, jotka eivät selkeästi liittyneet kasvintuotannon IoT:in tutkimukseen ja teknologiaratkaisuihin. Lopuksi muodostin valikoimistani asiasanoista hakulauseen, jonka hakusanat jaoin IoT:in ja kasvintuotannon ryhmiin (ks. liite 0). 
 
 Muokkasin hakulauseita kunkin tietokannan hakutoimintojen mahdollisuuksien puitteissa. Useiden tietokantojen hakutoiminnot rajoittivat hakulauseissa käytettävien hakusanojen määrää (ks. edellä kohta Kuvailevan kirjallisuuskatsausksen toteutus). Tällöin jätin pois harkinnanvaraisesti  vähemmän merkittäviä hakusanoja maataloutta kuvaavan toisen hakusanaryhmän hakusanoista ja/tai jaoin hakulauseen useampaan hakuun. Lisäksi vertailin keskenään erilaisten hakulauseiden antamia hakutuloksia, jonka jälkeen tarvittaessa muotoilin käytettävälle tietokannalle parhaiten tuloksia antavan hakulauseen. Tietokantahakujen lisäksi keräsin aineistoa tietokantojen suosittelemien julkaisujen joukosta. Esimerkiksi ResearchGaten "Suggested for you" sekä IEEE Xploren "Related Articles" -toiminnot ehdottivat useita lähteiksi valitsemiani julkaisuja.
 
+Narratiivisen kirjallisuuskatsausten aineiston valinnassa ei noudateta systemaattista valintaa, vaan tekijä päättää harkinnanvaraisesti käsiteltävän aineiston mukaan ottamisesta tai hylkäämisestä. Pyrin tässä kirjallisuuskatsauksessa kattamaan mahdollisimman laajan aineiston opinnäytetyön asettamissa rajoissa. Tämän takia valitsin katsaukseen niin sanotun sateenvarjokatsauksen omaisesti ensisijaisesti aiheesta tehtyjä kirjallisuuskatsauksia. Valitsemieni kirjallisuuskatsausten avulla pyrin tekemään yhteenvedon huomattavan suuresta otannasta laadukkaiksi arvioituja tutkimuksia. 
 
 ## Teemahaastattelujen toteutus
 
@@ -774,9 +776,11 @@ Poikkeuksena edellisiin @barmpounakisManagementControlApplications2015 [2015] es
 
 ## Haastattelujen tulokset
 
-### Haastattelujen tuloksien kuvaus teemojen mukaan ryhmiteltyinä
+Tässä osiossa kuvaillaan teemahaastattelujen tulokset, joista ensin käsitellään sisällönanalyysin tulokset, minkä jälkeen kuvaillaan haastatteluaineisto teemoittain jaoteltuna. Haastateltavista käytetään nimimerkkejä A.A., B.B., C.C., D.D. ja E.E.
 
-Tässä osiossa kuvaillaan ensin haastatteluaineiston sisällönanalyysin määrälliset havainnot jaoteltuina alaosioihin alikategorioiden ja niiden yleisten teemojen mukaan, minkä jälkeen käydään läpi sisällönanalyysiin taulukoinnin havainnot. Alaosioiden tekstissä viittaukset yksittäisiin koodeihin ja koodien nimet on **lihavoitu**. 
+### Haastatteluaineiston sisällönanalyysin tulokset teemoittain
+
+Tässä alaosiossa kuvaillaan haastatteluaineiston sisällönanalyysin tuloksia. Tuloksista käsitellään ensin määrälliset havainnot, jotka on jaoteltu alikategorioiden ja niiden yleisten teemojen mukaan. Tämän jälkeen käydään läpi sisällönanalyysiin taulukoinnista tehdyt havainnot. Alaosioiden tekstissä koodien nimet ja viittaukset yksittäisiin koodeihin on **lihavoitu**. 
 
 #### Tietojenkäsittely
 
@@ -1207,9 +1211,9 @@ Lopulta merkitsevimmän kehitysaskeleen ottavat viljelijät, jotka omaksuvat kä
 
 # POHDINTA
 
-## Oman oppimisen pohdinta
+## Tavoitteiden saavuttaminen
 
-## Tulosten arviointi
+## Oppiminen
 
 ## Luotettavuus
 
@@ -1278,16 +1282,6 @@ Hakulauseiden muodostukseen käytettiin kahta hakusanaryhmää, joista ensimmäi
 
 ![R heatmap.2:lla koodien havainnoista tuotettu lämpökartta ja dendogrammi](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/Liite-Rheatmap2.png "Lämpökartta ja dendogrammi"){ width=100mm }
 
-
-## Liite __. Haastattelu1-litterointi LUOTTAMUKSELLINEN
-
-## Liite __. Haastattelu2-litterointi LUOTTAMUKSELLINEN
-
-## Liite __. Haastattelu3-litterointi LUOTTAMUKSELLINEN
-
-## Liite __. Haastattelu4-litterointi LUOTTAMUKSELLINEN
-
-## Liite __. Haastattelu5-litterointi LUOTTAMUKSELLINEN
 
 ## Liite __. Haastattelu1-teksti LUOTTAMUKSELLINEN
 
