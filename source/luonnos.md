@@ -1,3 +1,108 @@
+<!-- MarkdownTOC -->
+
+- JOHDANTO
+    - Opinnäytetyön rakenne
+- ESINEIDEN INTERNET KASVINTUOTANNOSSA
+    - Kasvintuotannon teknologiakehitys
+    - Internet of Things
+        - Industrial Internet of Things
+        - Agricultural Internet of Things
+- OPINNÄYTETYÖN TARKOITUS, TAVOITE, RAJAUKSET, TUTKIMUSKYSYMYKSET JA TUTKIMUSMENETELMÄT
+    - Tutkimuskysymykset
+    - Tutkimusmenetelmien valinta
+    - Kirjallisuuskatsaus tutkimusmenetelmänä
+    - Kuvaileva kirjallisuuskatsaus tutkimusmenetelmänä
+    - Teemahaastattelu tutkimusmenetelmänä
+    - Sisällönanalyysi tutkimusmenetelmänä
+- AINEISTO JA TUTKIMUKSEN TOTEUTUS
+    - Kuvailevan kirjallisuuskatsauksen toteutus
+    - Teemahaastattelujen toteutus
+        - Haastateltavien valinta
+        - Haastattelujen toteutukset
+        - Haastatteluaineiston analyysimenetelmä
+            - Haastatteluaineiston analyysi sisällönanalyysin menetelmillä
+                - Sisällönanalyysin menetelmien käyttö
+                - Haastatteluaineiston koodaus ja koodien kategorisointi
+                - Haastatteluaineiston koodien taulukointi
+                - Haastatteluaineiston analysointi taulukoitujen tietojen avulla
+                - Haastatteluaineistosta johtopäätösten vetäminen analyysin perusteella
+- TUTKIMUSTULOKSET
+    - Kirjallisuuskatsauksen tulokset
+        - Yleinen kuvailu
+        - AIoT:in teknologiat
+        - AIoT:in sovellusalueet
+            - Valvonta
+            - Kontrollointi
+            - Logistiikka
+            - Ennustus
+        - AIoT:in avoimet haasteet
+            - Standardisaation haasteet
+            - Tieto- ja kyberturvallisuuden haasteet
+            - Laitteiden energiatehokkuuden haasteet
+            - Laitteiden kestävyyden haasteet
+            - Langattoman tietoliikenteen haasteet
+            - Analytiikkaratkaisuiden ja tietopalveluiden haasteet
+            - AIoT-ekosysteemin laajentamisen haasteet
+            - Muut tekniset haasteet
+            - Muut haasteet
+        - Esitetyt AIoT-arkkitehtuurit
+    - Haastattelujen tulokset
+        - Haastatteluaineiston sisällönanalyysin tulokset teemoittain
+            - Tietojenkäsittely
+            - Tietojärjestelmät, tietoliikenne ja alustaratkaisut
+            - Teknologioiden omaksunta
+            - Toimintaympäristön muutos, maatalous toimintaympäristönä ja maataloustuotannon data
+            - Teknologiat, teknologioiden sovellukset ja standardit
+            - Maataloustuotannon laitteet ja maataloustuotannon tehostaminen
+            - Tuotteet ja teknologiaratkaisut
+            - Sisällönanalyysiin taulukoinnin havainnot
+        - Haastatteluaineiston kuvaus
+            - AIoT:in tilanne yleensä
+            - Digitalisaatioharppauksen alku
+            - AIoT-teknologioiden omaksumisen tilanne Suomessa
+            - Laitevalmistajien yhteistyö
+            - Kokonaisvaltainen maatilan tiedonhallintajärjestelmä \(FMIS\)
+            - Datan käsittely
+                - Datan liikkuminen tuotantoketjussa
+                - Datan jakaminen ja julkaisu
+                - Datan omistajuus
+            - AIoT:in vaikutukset
+            - Ruokaturva
+            - AIoT:in haasteet
+                - Tietoliikenteen ja tietoturvan haasteet
+                - Elinkaarihaasteet
+                - integraatio- ja alustahaasteet
+                - Käytettävyyshaasteet
+                - Asiantuntijuushaaste
+                - Omaksumisen haasteita
+            - Tavoitetila ja tulevaisuus
+    - Tutkimustulosten yhteenveto
+        - Kirjallisuuskatsauksen ja haastattelujen tulokset
+        - Tutkimuskysymyksien vastaukset
+- POHDINTA
+    - Tavoitteiden saavuttaminen
+    - Oppiminen
+    - Luotettavuus
+    - Hyödynnettävyys
+    - Jatkotutkimus
+- LIITTEET
+    - Liite __. Hakulauseiden muodostus
+    - Liite __. Koodien havainnot taulukoituna
+    - Liite __. Havaintojen määrät kategorioittain
+    - Liite __. Tekniikka-kategorian havainnot
+    - Liite __. Maataloustuotanto-kategorian havainnot
+    - Liite __. Toimintaympäristö-kategorian havainnot
+    - Liite __. Sanamäärät
+    - Liite __. R heatmap.2
+    - Liite __. Haastattelu1-teksti LUOTTAMUKSELLINEN
+    - Liite __. Haastattelu2-teksti LUOTTAMUKSELLINEN
+    - Liite __. Haastattelu3-teksti LUOTTAMUKSELLINEN
+    - Liite __. Haastattelu4-teksti LUOTTAMUKSELLINEN
+    - Liite __. Haastattelu5-teksti LUOTTAMUKSELLINEN
+    - Liite __. Koodien havainnot haastatteluaineistossa
+- LÄHTEET
+
+<!-- /MarkdownTOC -->
 
 
 Luettelo kuvaajista ja kaavioista
@@ -14,6 +119,9 @@ Koska hyvää tapaa ei näytä olevan, täytyy tehdä lista Wordilla.
 Lyhenteet ja termit
 
 # JOHDANTO
+
+## Opinnäytetyön rakenne
+(Keskeiset käsitteet?)
 
 *1 - 2 sivua - Kirjoitetaan kun muut luvut ovat valmiit.*
 *Meno on usein horjuvaa eikä ajokaista aina tahdo riittää ja kieli kolisee risteyksissä tolppiin, mutta täytyy vaan painaa kaasua, antaa mennä -ja toivoa, että liike-energia riittää homman läpi viemiseen myös lukijan päässä.*
@@ -43,8 +151,43 @@ Kuvio 1. Haastattelukohtaisten ja koko haastatteluaineiston yhteenlaskettujen ko
 Kuvio 2. Alikategorioiden koodien määrien kaaviot kategorioittain
 Kuvio 3: Havaintojen määrien jakautuminen haastatteluissa kategorioittain
 
+Sanasto:
 
-# KASVINTUOTANNON ESINEIDEN INTERNETIN TAUSTA 
+satotasomittaus
+pilvipalvelu: tietojenkäsittelyn resurssipalvelu
+langaton anturi- ja toimilaiteverkko (engl. Wireless Sensor and Actuator Network, WSAN)
+integroitu tuholaistorjunta (engl. Integrated Pest Management, IPM)
+
+Haastatteluissa esiintyviä termejä:
+täsmäviljely
+lohko, peltolohko
+panos
+tasasäätö
+vihreä vallankumous
+tilakoko
+telemetria
+full-liner
+ohjaustiedosto
+Comma Separated Value (CSV)
+Monikerrosviljely = useissa päällekkäisissä tasoissa tapahtuvaa viljelyä, mikä eroaa tavallisen kasvihuoneen yhdessä tasossa tapahtuvasta viljelystä.
+Jaettu lannoitus
+UA-laite (Drooni, UA, pienoiskopteri, neliroottoripienoiskopteri)
+yhteen valmistajaan lukittuminen (vendor lock, yhden valmistajan loukku)
+maatilanhallintajärjestelmä (FMS)
+maatilan tiedonhallintajärjestelmä (FMIS)
+viljelysuunnitteluohjelma
+ortomosaiikkikartta
+Smart Farming
+agriculture 4.0
+agriculture 3.0
+satovaste
+sadonlisä
+CAN-väylä
+tuotantotapatieto
+laatuerä
+
+
+# ESINEIDEN INTERNET KASVINTUOTANNOSSA
 
 Tässä luvussa kuvaillaan kasvintuotannon IoT:in taustaa ja sen osailmiöitä. Ensin tutustutaan osailmiönä kasvintuotannon teknologiakehitykseen, esineiden internetiin (IoT, engl. Internet of Things), teolliseen esineiden internetiin (IIoT, engl. Industrial Internet of Things) ja maatalouden esineiden internetiin (AIoT, engl. Agricultural Internet of Things) joiden taustaa, määrittelyä, historiaa ja nykytilaa kuvaillaan pintapuolisesti.
 
@@ -86,11 +229,11 @@ Viimeisten 20 vuoden aikana maataloudessa ICT-ratkaisuita on otettu käyttöön 
 On olemassa kasvava ymmärrys siitä, että maatalouden seuraavan "version" keskeinen osa tulee olemaan täsmäviljely, joka syntyy IoT:in, massadatan ja asiantuntijajärjestelmien omaksunnan myötä ja IoT-ratkaisut tulevat olemaan avainasemassa tulevassa maataloustuotannossa. [@faoPossibilitiesInternetThings2017; @leeAgricultureHowInternet2017]
 
 
-## IoT:in taustaa
+## Internet of Things
 
 Tässä osiossa käydään ensin lyhyesti läpi IoT:in historiaa, määrittelyjä, referenssiarkkitehtuureja ja yleistä luonnehdintaa. Seuraavaksi alaosiossa "Teollisuuden IoT:in taustaa (IIoT)" käsitellään vastaavasti teollisen IoT:iä ja lopuksi alaosiossa "Maatalouden IoT:in taustaa (AIoT)" maatalouden IoT:iä.
 
-Internetin kehityksen fokus on siirtymässä ihmisten välisestä kommunikaatiosta ja verkottumisesta ihmisten ja laitteiden saumattomaan integraatioon, jossa ajasta ja paikasta riippumaton yhteys keiden tahansa käyttäjien välillä on laajentumassa yhteyksillä *mihin tahansa objektiin*. Tässä integraatiossa pyritään fyysisen maailman ja ihmisten luoman virtuaalisten ympäristöjen yhdistämisen avulla kohti niin sanottua esineiden internetin (IoT) maailman toteuttamista. Toteutuessaan IoT-visiolla voi olla huomattavia teknologisia ja yhteiskunnallisia vaikutuksia. [@itu2060OverviewInternet2012] 
+Internetin laajamittainen käyttö on kahden viime vuosikymmenen aikana tuottanut globaalisti lukemattoman määrän etuja ja hyötyä ihmisille ja organisaatioille. Näistä eduista todennäköisesti tärkein on kuluttaa ja tuottaa dataa sekä palveluita tosiaikaisesti. [@talaveraReviewIoTApplications2017, 284] Internetin kehityksen fokus on siirtymässä ihmisten välisestä kommunikaatiosta ja verkottumisesta ihmisten ja laitteiden saumattomaan integraatioon, jossa ajasta ja paikasta riippumaton yhteys keiden tahansa käyttäjien välillä on laajentumassa yhteyksillä *mihin tahansa objektiin*. Tässä integraatiossa pyritään fyysisen maailman ja ihmisten luoman virtuaalisten ympäristöjen yhdistämisen avulla kohti niin sanottua esineiden internetin (IoT) maailman toteuttamista. Toteutuessaan IoT-visiolla voi olla huomattavia teknologisia ja yhteiskunnallisia vaikutuksia. [@itu2060OverviewInternet2012] 
 
 Kulutus- ja kestokulutustavaroiden, autojen ja kuorma-autojen, teollisuuden ja kunnallistekniikan laitteiden, antureiden ja muiden arkipäiväisten objektien yhdistäminen internetin ja tehokkaan data-analytiikan kanssa voi muuttaa työmme, elämämme ja vapaa-aikamme. IoT:istä laaditut ennusteet ovat vaikuttavia: joidenkin odotusten mukaan vuoteen 2025 mennessä IoT-laitteita voisi olla käytössä jopa 100 miljardia ja globaali taloudellinen vaikutus voi olla jopa $11 biljoonaa. IoT:in etujen saavuttamisen edessä voi kuitenkin olla huomattavia haasteita. IoT-laitteiden tietoturvan puutteet, yksityisyyden suojan epävarmuudet ja valvonnan pelot ovat tulleet selkeästi julkisuuteen. Monet teknologiset haasteet ovat vielä avoimina, samalla kun uudet poliittiset, lainsäädännön ja kehityksen haasteet ovat vasta nousemassa esiin. [@roseInternetThingsOverview2015, 4]
 
@@ -113,7 +256,7 @@ Gartnerin julkaisemalla Hype Cycle -käyrällä IoT on edennyt alkuvaiheen nousu
 
 IoT:lle on esitetty useita erilaisia määritelmiä ja IoT-sovellusten kehitys ylittää usein yksittäisten määritelmien rajat [@pradillaMicroVirtualMachines2016, 127]. Yleisesti IoT viittaa skenaarioihin, joissa tietoliikenneyhteydet ja tietojenkäsittelykyky liittyy objekteihin, antureihin ja arkipäiväisiin esineisiin joita ei yleensä pidetä tietokoneina, mahdollistaen näille laitteille datan tuottamisen, vaihdannan ja kuluttamisen minimaalisilla ihmisen tekemillä toimenpiteillä. Yksittäistä yleispätevää määritelmää ei kuitenkaan ole. [@roseInternetThingsOverview2015] @atzoriInternetThingsSurvey2010 [2788] arvelevat, että kirjallisuutta selailevalla kiinnostuneella lukijalla voi olla huomattavia vaikeuksia käsittää mitä IoT todellisuudessa tarkoittaa, mitä käsitteitä se pitää sisällään ja millaisia vaikutuksia sen täysimittaisella toteutumisella tulee olemaan. Joskus huomattavatkin erot IoT-visioiden välillä johtuvat niiden tuottamisessa mukana olevien sidosryhmien lähestymistavoista ja näkökulmista, jotka ovat joko "internetlähtöisiä" tai "esinelähtöisiä" riippuen sidosryhmien kiinnostuksen kohteista ja taustoista. Näiden kahden lisäksi kolmantena on vielä semanttinen näkökulma. [@atzoriInternetThingsSurvey2010, 2788]. Semanttisesta näkökulmasta "Internet of Things" tarkoittaa globaalia verkottuneiden ja yksilöllisesti osoitettavissa olevien objektien verkkoa, joka perustuu standardoituun tietoliikenneprotokolliin [@bassiInternetThings20202008, 4]. Lisäksi IoT voidaan määritellä kyberfysikaalisen järjestelmän (CPS, engl. Cyber Physical System; ks. @sunderCyberPhysicalSystemsConcept) suuren mittakaavan erityistapaukseksi, jossa automatisoidussa ja yhteistoiminnallisessa prosessissa keskenään viestivät koneet tuottavat anturiverkkojen avulla dataa, jota tietojärjestelmät tallentavat ja analysoivat. Tästä datasta tuotetaan konsolidoitua hyödyllistä tietoa ihmisille ja koneille, jotka tekevät päätöksiä tai suorittavat toiminteita aktuaattorien, UA-laitteiden ja robottien avulla. Nämä päätökset ja toiminteet vaikuttavat koko järjestelmän toimintaan, muodostaen näin takaisinkytkentäpiirin ja suljetun informaation kierron (ks. kuva __). Kyberfysikaalisen järjestelmän erityistapauksen IoT:istä tekee vaatimus sekä objektien tunnistettavuudesta että globaalista yhteenkytkettävyydestä. [@pradillaMicroVirtualMachines2016, 126-128]
 
-![. IoT:in suljettu informaatiokierto, esimerkkinä teollinen internet-sovellus @evansIndustrialInternetPushing2012 mukaan](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/IIoT-cycle.png "IoT:in suljettu informaatiokierto"){ width=150mm }
+![. IoT:in suljettu informaatiokierto, esimerkkinä teollinen IoT-ratkaisu @evansIndustrialInternetPushing2012 mukaan](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/IIoT-cycle.png "IoT:in suljettu informaatiokierto"){ width=150mm }
 
 Määrittelyjen lisäksi IoT:tä voidaan luonnehtia myös sen ominaispiirteiden avulla, joihin kuuluvat: [@taoInternetThingsProduct2016]
 
@@ -125,9 +268,9 @@ Määrittelyjen lisäksi IoT:tä voidaan luonnehtia myös sen ominaispiirteiden 
 * **Skaalautuvuus** ja laajennettavuus, jotka on otettava huomioon IoT-järjestelmien suunnittelussa jatkuvasti tuotettavan datan suuren määrän takia
 * **Dynamiikka**, jolla IoT-järjestelmien komponenttien tulee olla uudelleenkonfiguroitavissa missä vaiheessa tahansa
 
-Useat määritelmät keskittyvät IoT:in perustavanlaatuisiin vaatimuksiin verkottuneisuudesta ja antureista. Toisaalta uusimmissa määrittelyissä on aiempaa enemmän painotettu yhteenliitettävien laitteiden ubiikkien ja autonomisten verkkojen tarvetta, joissa objektien tunnistettavuudella ja palveluiden integraatiolla on keskeisen tärkeä rooli. Laitteiden verkkojen lisäksi viime aikaisissa IoT:in määrittelyissä laitteiden ja verkkojen älykkyys (engl. smartness) on usein esillä. Juuri älykkyys erottaa IoT:in määritelmän useista samankaltaisista konsepteista kuten anturiverkoista. [@khodadadiInternetThingsOverview2016, 5] Esimerkiksi European Research Cluster on the Internet of Things:in (IERC) vuonna 2014 julkaisema IoT:in määritelmä (ks. kuva __) korostaa globaalia tietoliikenneverkkoa sekä virtuaalisten että fyysisten "esineiden" integraatiota seuraavasti: "A dynamic global network infrastructure with self-configuring capabilities based on standard and interoperable communication protocols where physical and virtual “things” have identities, physical attributes, and virtual personalities and use intelligent interfaces, and are seamlessly integrated into the information network." [@pradillaMicroVirtualMachines2016, 126-127; @iercIERCEuropeanResearchCluster2014] 
+Useat määritelmät keskittyvät IoT:in perustavanlaatuisiin vaatimuksiin verkottuneisuudesta ja antureista. Toisaalta uusimmissa määrittelyissä on aiempaa enemmän painotettu yhteenliitettävien laitteiden ubiikkien ja autonomisten verkkojen tarvetta, joissa objektien tunnistettavuudella ja palveluiden integraatiolla on keskeisen tärkeä rooli. Laitteiden verkkojen lisäksi viime aikaisissa IoT:in määrittelyissä laitteiden ja verkkojen älykkyys (engl. smartness) on usein esillä. Juuri älykkyys erottaa IoT:in määritelmän useista samankaltaisista konsepteista kuten anturiverkoista. [@khodadadiInternetThingsOverview2016, 5] Esimerkiksi European Research Cluster on the Internet of Things:in (IERC) vuonna 2014 julkaisema IoT:in kuvaileva määritelmä (ks. kuva __) korostaa globaalia tietoliikenneverkkoa sekä virtuaalisten että fyysisten "esineiden" integraatiota seuraavasti: "A dynamic global network infrastructure with self-configuring capabilities based on standard and interoperable communication protocols where physical and virtual “things” have identities, physical attributes, and virtual personalities and use intelligent interfaces, and are seamlessly integrated into the information network." [@pradillaMicroVirtualMachines2016, 126-127; @iercIERCEuropeanResearchCluster2014] 
 
-![. @iercIERCEuropeanResearchCluster2014 julkaisema IoT:in määritelmä ](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/IERC_IoT_Definition.png "IERC:n IoT-määritelmä"){ width=155mm }
+![. @iercIERCEuropeanResearchCluster2014 julkaisema IoT:in kuvaileva määritelmä ](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/IERC_IoT_Definition.png "IERC:n IoT-määritelmä"){ width=155mm }
 
 IoT:in kontekstissa termillä "esine" tai "thing" tarkoitetaan kokonaisuutta, joka on sekä tietoinen kontekstistaan että kykenevä viestimään toisten kokonaisuuksien kanssa ja joka on saatavilla milloin ja mistä tahansa [@khodadadiInternetThingsOverview2016, 3]. Toisaalta termiä "thing" ei @bassiInternetThings20202008 [4] mukaan voida tarkasti määritellä, mikä jättää tulkinnan varaa myös IoT:in määrittelyyn. Koska termillä "thing" voidaan tarkoittaa muun muassa älykkäitä laitteita, anturilaitteita ja joissain tapauksissa myös ihmisiä, terminä "esineiden internet" voi antaa lukijalle käsityksen etteivät ihmiset sekä ihmisten tekemät toimet ja päätökset kuuluisi IoT:in toimintaan. Tämän takia olen tässä opinnäytetyössä suosinut lyhennettä "IoT" termin "esineiden internet" sijaan.
 
@@ -168,7 +311,7 @@ Laitteiden tietoturvakysymysten lisäksi IoT tuo esille yksityisyyden suojaan li
 Viimeaikainen avainteknologioiden ja markkinatrendien yhdistymä ohjastaa uuden IoT:in maailman muodostumista, jolloin älykkäiden objektien ja niiden ympäristön sekä objektien ja ihmisten väliset suhteet tiivistyvät. IoT:in kaikkialle sulautuvan ja internetiin yhdistetyn tietotekniikan vaikutus voi olennaisesti muuttaa ihmisten käsitystä mitä verkossa oleminen, "online", voi tarkoittaa. IoT:in potentiaaliset vaikutukset ovat huomattavat. Sen laajentumisesta ja markkina-arvosta on esitetty useita optimistisia ja jopa fantastisia ennusteita, mutta niiden saavuttamisen tiellä voi olla yhtä huomattavia haasteita kuin visiot vaikutuksista ovat. Ennusteiden toteutumiseksi tarvitaan monia innovaatioita ja huomattavaa edistystä useilla alueilla, joista erityisesti tietoturvan, yksityisyyden suojan, yhteenliitettävyyden ja standardisaation, säännöstelyn ja kehittyvien talouksien osallistavuuden alueet vaativat huomiota. Tämän lisäksi IoT:in kasvun vauhdittamiseksi tarvittaisiin yhteistoimintaa ja tiedonjakoa paitsi kasvuyritysten, myös johtavien teknologiayritysten ja moninaisten sidosryhmien kesken. Valtiollisten toimijoiden strategiat IoT:in suhteen ovat kehittyneet ja IoT:in tutkimukseen on panostettu investointien lisäännyttyä selkeästi. Parhaiden ja tehokkaimpien IoT-ratkaisuiden löytämiseksi vaaditaan kuitenkin vielä paljon työtä. [@khodadadiInternetThingsOverview2016, 6; @roseInternetThingsOverview2015, 69]
 
 
-### Teollisuuden IoT:in taustaa
+### Industrial Internet of Things
 
 Yleisestä IoT:istä erottuvat selkeästi kuluttajien, kaupan, liiketoiminnan ja teollisuuden IoT:in alueet kohderyhmien, teknisten vaatimusten ja toimintastrategioiden perusteella. Näistä suurin teollinen esineiden internet (IIoT vrt. joissakin lähteissä TI, Teollinen internet) keskittyy teollisuuden IoT-sovelluksiin huomattavan monilla teollisuudenaloilla. Muutamia keskeisiä näistä ovat energiantuotannon, valmistavan teollisuuden, terveydenhoidon, kaupan, liikenteen, logistiikan, lentoliikenteen ja maatalouden alat. [@gilchrist2016industry, 1-2]
 
@@ -208,9 +351,11 @@ IIoT:in tarjoamien mahdollisuuksien realisoimiseksi yritysten tulee tehdä huoma
 IIoT:in hitaasta omaksumisesta huolimatta sen vaikutukset tulevat olemaan huomattavat. IIoT-teknologioiden omaksunta tuotteissa ja tuotannon toiminnassa tulee muodostumaan kilpailun mukana pysymisen ehdoksi. IIoT-teknologioiden kypsyminen mahdollistaa niiden asteittaisen käyttöönoton, tietoverkkoihin liitettävien anturilaitteiden hinnat ovat nopeassa laskussa, avoimet IP-perustaiset tietoliikenneprotokollat ovat yleistymässä samoin kuin pilvipalvelutkin. [@schneiderelectricIndustrialInternetThings2015, 15] IIoT on kuitenkin vielä kehityksensä alkuvaiheessa. Teollisuuden toimijat ovat empineet internetin omaksumista osaksi toimintaansa, osaksi sen vaikutusten ennalta arvaamattomuuden takia, osaksi uusiin teknologioihin liittyvien liiketoimintamallien tuntemattomuuden takia. [@gilchrist2016industry, 3]
 
 
-### Maatalouden IoT:in taustaa
+### Agricultural Internet of Things
 
 Maatalouden esineiden internet (AIoT)
+
+
 
 E-Agriculture Strategy Guide: Piloted in Asia-Pacific Countries [@faoEAgricultureStrategyGuide2016]
 
@@ -237,26 +382,22 @@ http://blogs.worldbank.org/ic4d/agriculture-20-how-internet-things-can-revolutio
 
 *Strengthened linkages between farms, markets and consumers can be an important source of income growth and job creation in both rural and urban areas (Trends 10 and 12). Formal, structured supply chains increase the efficiency of product flows – from inputs to farmers, and food products to consumers – but have also been found to pose challenges to food security. 140 Trends and Challenges @faoFutureFoodAgriculture2017*
 
-# OPINNÄYTETYÖN TARKOITUS, TAVOITE, TUTKIMUSKYSYMYKSET JA TUTKIMUSMENETELMÄT
+# OPINNÄYTETYÖN TARKOITUS, TAVOITE, RAJAUKSET, TUTKIMUSKYSYMYKSET JA TUTKIMUSMENETELMÄT
 
-Tässä luvussa kuvaillaan toteutetun tutkimuksen tarkoitus, tavoitteet, tutkimuskysymykset, aineisto, menetelmät ja eteneminen. Opinnäytetyön aihepiirinä on IoT:in kasvintuotannon sovelluksiin liittyvät tutkimukset, julkaisut ja teknologiasovellukset. Opinnäytetyössä on toteutettu narratiivinen kirjallisuuskatsaus sekä haastateltu asiaan perehtyneitä tutkijoita ja yritysten edustajia. 
-
-Opinnäytetyön keskeinen tutkimusongelma on, että kasvintuotannon IoT-ratkaisut eivät ole laajasti tunnettuja ja aihetta sivuavia opinnäytetöitä on julkaistu vain muutamia. Tutkimuskysymyksiin pyrin vastaamaan käyttämällä kuvailevaa kirjallisuuskatsausta ja asiantuntijoiden teemahaastatteluja. Käyttämällä tutkimusmenelminä sekä teemahaastatteluja että kirjallisuuskatsausta pyrin lisäämään ymmärrystä tutkittavasta ilmiöstä eri lähestymistapoja käyttäen. 
-
-Menetelmätriangulaatiota eli monimetodista lähestymistapaa voidaan käyttää tutkittavan ilmiön ymmärryksen lisäämiseen. Menetelmätriangulaatio eli useiden menetelmien käyttö on tällöin myös tutkimusstrateginen valinta. [@kananenOpinnaytetyonKirjoittamisenKaytannon2010] Pyrin tukemaan laadullista menetelmää menetelmätriangulaation avulla, [ks. @hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 39; @gubriumSageHandbookInterview2012, 284] jonka toteutan käyttämällä haastatteluaineiston käsittelyssä sekä laadullista kuvailua että  määrällistä menetelmää soveltavaa sisällönanalyysiä.
-
-Olen rajannut opinnäytetyön laajuuden rajallisuuden vuoksi aihealueeksi kasvintuotannon IoT-ratkaisut, minkä arvioin olevan yleisen ruoantuotannon kannalta vaikuttavin ruoantuotannon osa. Samasta syystä en käsittele tässä opinnäytetyössä yksittäisiä teknologiaratkaisuita kuten verkkoprotokollia, sensoritekniikkaa tai algoritmejä, vaan keskityn kuvailemaan kasvintuotannon IoT-ratkaisuita yleistasolla.
-
-IoT-ratkaisuna olen tässä opinnäytetyössä lähtökohtaisesti pitänyt järjestelmää tai järjestelmien verkostoa, joka anturien automaattisesti tuottaman ja verkon yli siirretyn datan analytiikan perusteella vaikuttaa ympäristöön automaattisesti, vaatien ihmisen suorittamia toiminteita vain minimaalisesti tai ei ollenkaan. Koska tälläisia ratkaisuita on markkinoilla tutkimuksen teon hetkellä ilmeisesti hyvin vähän, olen yleisen IoT:iä käsittelevän kirjallisuuden mukaisesti ottanut huomioon myös sellaiset ratkaisut, jotka voisivat olla edellä määritellyn ratkaisun aikaisempia kehitysvaiheita tai osaratkaisuita. Tästä kirjallisuudessa yleisin esimerkki ovat automaattisesti digitaalista mittausdataa tuottavat ja tallentavat järjestelmät, jotka eivät sisällä aktuoinnin toiminnallisuuksia tai edistynyttä data-analytiikkaa.
-
-## Tutkimuksen tarkoitus
+Tässä luvussa kuvaillaan opinnäytetyön tutkimuksen tarkoitus, tavoitteet, tutkimusongelma ja -kysymykset ja menetelmät. Opinnäytetyön aihepiirinä on IoT:in kasvintuotannon sovelluksiin liittyvät tutkimukset, julkaisut ja teknologiasovellukset. Opinnäytetyössä on toteutettu narratiivinen kirjallisuuskatsaus sekä haastateltu asiaan perehtyneitä tutkijoita ja yritysten edustajia. 
 
 Opinnäytetyön tarkoituksena on tuottaa ajankohtainen kartoittava katsaus [ks. @hirsjarviTutkiJaKirjoita2009, 134-135] kasvintuotannossa sovellettavien IoT-ratkaisuiden tilanteesta ja niiden tarjoamista mahdollisuuksista. 
 
-
-## Tutkimuksen tavoitteet
-
 Opinnäytetyön tavoitteena on antaa lukijalle ajankohtainen yleiskuva kasvintuotannossa käytettäviin IoT:in teknologiasovelluksista ja niiden tutkimuksesta. Lisäksi opinnäytetyö voi aiheeseen tarkemmin tutustuttaessa toimia lähtökohtana ja lähdeviitteiden kokoelmana lukijan omalle tiedonhaulle.
+
+Opinnäytetyön keskeinen tutkimusongelma on kasvintuotannon IoT-ratkaisuiden yleinen tuntemattomuus alan toimijoiden ulkopuolella, minkä lisäksi aihetta sivuavia opinnäytetöitä on julkaistu vain muutamia. Pyrin vastaamaan tutkimuskysymyksiin analysoimalla kuvailevan kirjallisuuskatsauksen ja asiantuntijoiden teemahaastattelujen avulla hankkimaani aineistoa. Käyttämällä tutkimusmenelminä sekä teemahaastatteluja että kirjallisuuskatsausta pyrin lisäämään ymmärrystä tutkittavasta ilmiöstä eri lähestymistapoja käyttäen. 
+
+Menetelmätriangulaatiota eli monimetodista lähestymistapaa voidaan käyttää tutkittavan ilmiön ymmärryksen lisäämiseen. Menetelmätriangulaatio eli useiden menetelmien käyttö on tällöin myös tutkimusstrateginen valinta. [@kananenOpinnaytetyonKirjoittamisenKaytannon2010] Pyrin tukemaan laadullista menetelmää menetelmätriangulaation avulla, [ks. @hirsjarviTutkimushaastatteluTeemahaastattelunTeoria2015, 39; @gubriumSageHandbookInterview2012, 284] jonka toteutan käyttämällä haastatteluaineiston käsittelyssä sekä laadullista kuvailua että  määrällistä menetelmää soveltavaa sisällönanalyysiä.
+
+Opinnäytetyön aihealueeksi olen rajannut kasvintuotannon IoT-ratkaisut, minkä arvioin olevan yleisen ruoantuotannon kannalta vaikuttavin ruoantuotannon alue. Opinnäytetyön laajuuden rajallisuuden takia en käsittele tässä opinnäytetyössä yksittäisiä teknologiaratkaisuita kuten verkkoprotokollia, sensoriteknologioita tai data-analyysin menetelmiä, vaan keskityn kuvailemaan kasvintuotannon IoT-ratkaisuita yleisellä tasolla.
+
+IoT-ratkaisuna olen tässä opinnäytetyössä lähtökohtaisesti pitänyt järjestelmää tai järjestelmien verkostoa, joka anturien automaattisesti tuottaman ja verkon yli siirretyn datan analytiikan perusteella vaikuttaa ympäristöön automaattisesti, vaatien ihmisen suorittamia toiminteita vain minimaalisesti tai ei ollenkaan. Koska tälläisia ratkaisuita on markkinoilla tutkimuksen teon hetkellä ilmeisesti hyvin vähän, olen yleisen IoT:iä käsittelevän kirjallisuuden tapaan ottanut huomioon myös sellaiset ratkaisut, jotka voisivat olla edellä määritellyn IoT-järjestelmän aikaisempia kehitysvaiheita tai osaratkaisuita. Tästä kirjallisuudessa yleisin esimerkki ovat automaattisesti digitaalista mittausdataa tuottavat ja tallentavat järjestelmät, jotka eivät sisällä aktuoinnin toiminnallisuuksia tai edistynyttä data-analytiikkaa.
+
 
 
 ## Tutkimuskysymykset
@@ -353,7 +494,7 @@ Aineiston pelkistämisen analyysimallissa edetään tunnistamalla asiat, joista 
 
 Tässä osiossa kuvaillaan aineiston hankinnassa ja tutkimuksessa käytetyt menetelmät. Kuvailevasta kirjallisuuskatsauksesta kuvaillaan lyhyesti sen alustava työvaihe ja toteutus, aineiston haku, haussa käytettyjen asiasanojen valintaperusteet ja aineiston valinta. Asiantuntijoiden teemahaastatteluista kuvaillaan lyhyesti miten teemahaastattelun yleisiä käytänteitä on sovellettu, haastateltavien valinnan perusteet, haastattelujen toteutus järjestelyineen, haastatteluaineiston analyysimenetelmä ja johtopäätösten perustelut.
 
-Päätin kuvailla tässä osiossa aineiston hakua ja valintaperusteita keskeisiltä osin, vaikka @onwuegbuzieStepsComprehensiveLiterature2016 [24] mukaan narratiivisissa kirjallisuuskatsauksissa ei kuvailla aineiston hakuprosessia, käsiteltyjen tutkimusten määrää, valintakriteerejä jne. (ks. kohta Kuvaileva kirjallisuuskatsaus tutkimusmenetelmänä). Pyrin tällä helpottamaan kiinnostuneen lukijan omaa tiedonhakua ja katsauksen arviointia. Lisäksi pyrin parantamaan katsauksen hyödyllisyyttä, koska uutta kirjallisuutta julkaistaan aiheesta jatkuvasti ja uuden tiedon hakeminen on lukijalle keskeistä ajankohtaisen kokonaiskuvan muodostamiseksi.
+Kuvailen tässä osiossa aineiston hakua ja valintaperusteita keskeisiltä osin, vaikka @onwuegbuzieStepsComprehensiveLiterature2016 [24] mukaan narratiivisissa kirjallisuuskatsauksissa ei kuvailla aineiston hakuprosessia, käsiteltyjen tutkimusten määrää, valintakriteerejä jne. (ks. kohta "Kuvaileva kirjallisuuskatsaus tutkimusmenetelmänä"). Pyrin tällä helpottamaan kiinnostuneen lukijan omaa tiedonhakua ja katsauksen arviointia. Lisäksi pyrin parantamaan katsauksen hyödyllisyyttä myös tulevaisuudessa, koska uutta kirjallisuutta julkaistaan aiheesta jatkuvasti.
 
 
 ## Kuvailevan kirjallisuuskatsauksen toteutus
@@ -1176,6 +1317,11 @@ Teknologia koneoppimisen ja keinoälyn soveltamiseen peltotuotannossa on E.E.n m
 
 ## Tutkimustulosten yhteenveto
 
+Tässä osiossa kuvaillaan kirjallisuuskatsauksen ja haastattelujen tulokset, jonka jälkeen esitellään vastaukset tutkimuskysymyksiin.
+
+
+### Kirjallisuuskatsauksen ja haastattelujen tulokset
+
 IoT-teknologiat ovat voimakkaasti tulossa käyttöön kasvintuotannon alalla. On meneillään teknologia-aalto, jossa muuttuvaan toimintaympäristöön parhaiten sopivia ratkaisuita ollaan vasta hakemassa. Maatalouden alalle on syntynyt uutta kilpailua sekä pienten kasvuyritysten että suurten teknologiayritysten kilpaillessa perinteisten alan toimijoiden kanssa AIoT-ratkaisuiden uusilla markkinoilla. Viljelytoiminnan tehokkuuden lisäämiselle on selkeä tarve ja IoT-teknologioiden avulla voidaan vastata tähän tarpeeseen. Vaikka AIoT-ratkaisut ovat kypsymässä nopealla tahdilla, teknologioiden laajamittaisen omaksunnan tiellä on kuitenkin useita merkittäviä avoimia haasteita. Suuri osa niistä liittyy maatalouden toimialan ominaispiirteisiin kuten yleiseen hajanaisuuteen sekä data- ja järjestelmäintegraatioiden, tietoliikenneyhteyksien ja tuotantoympäristöjen asettamiin haasteisiin. Näiden haasteiden vaikutuksesta kasvintuotannon IoT-teknologioiden omaksunta on erityisesti peltotuotannon sovelluksissa muita teollisuudenaloja jäljessä. Valmiiden IoT-ratkaisuiden vähäisyyden takia tämän opinnäytetyön tutkimustulokset painottuvat valmiita ratkaisuita ja käyttötapauksia enemmän tutkimusten, AIoT:in avointen haasteiden ja tulevaisuuden visioiden tarkasteluun. Samoin suurin osa AIoT-järjestelmistä ei ole "aitoja" tai "täysimittaisia" IoT-ratkaisuita, joissa antureiden tuottama data analysoitaisiin ja tulosten perusteella kontrolloitaisiin viljely-ympäristöä täysautomaattisesti.
 
 Uudet teknologiat vaikuttavat osaltaan toimintaympäristön muutokseen. Kasvintuotanto on tehostumassa globaalisti ja suuntaus on kohti yhä laajamittaisempaa, teollista ja  teknologiaintensiivistä tuotantomallia. Nämä toimintamallit ovat yleensä datavetoisia ja vaativat yhä enemmän mitattua digitaalista tietoa. Tätä tietoa voidaan tuottaa IoT-teknologioilla, jotka tulevat toimimaan kasvintuotannon automaation taustalla. Uudet teknologiat mahdollistavat myös uusien liiketoimintamallien kehittämisen.
@@ -1204,10 +1350,20 @@ Tilakohtaisen datan ja järjestelmien integraatiota seuraava kehitysaskel on til
 
 Lopulta merkitsevimmän kehitysaskeleen ottavat viljelijät, jotka omaksuvat käyttöönsä hyödyllisiä teknologioita. Heille AIoT-teknologioiden tulisi vielä selkeästi näyttää toteen hyödyllisyytensä. Viljelijät käyttävät tarkkaa harkintaa liiketoiminnan harjoittajina ja yrittäjinä tehdessään investointeja toimintansa parantamiseksi. Tällöin käyttöön otettavalle teknologiaratkaisulle tulee löytyä selkeä taloudellinen peruste. Tämän lisäksi uuden teknologian tulee soveltua yrityksen toimintatapoihin ja liiketoimintaprosesseihin, eli maatilojen viljelykäytänteisiin ja tapoihin tehdä asioita ja hoitaa tilaa. Jos näitä vaatimuksia ei kyetä täyttämään, laaja AIoT-teknologioista saatavien hyötyjen realisointi voi jäädä rajalliseksi.
 
+
 ### Tutkimuskysymyksien vastaukset
 
-* Millaista tutkimusta IoT-teknologioiden soveltamisesta kasvintuotantoon on julkaistu?
-* Miten kasvintuotannossa hyödynnetään IoT-teknologioita?
+I) Millaista tutkimusta IoT-teknologioiden soveltamisesta kasvintuotantoon on julkaistu?
+
+* Millaisia teknologiasovelluksia tutkimuksissa on esitelty?
+* Minkä tyyppiset IoT-sovellukset tulevat tutkimusmateriaalissa selkeimmin esille, eli millaiset sovellukset ovat viime aikaisessa tutkimuksessa keskeisimpiä? 
+
+II) Miten kasvintuotannossa hyödynnetään IoT-teknologioita?
+
+* Millainen IoT-ratkaisuiden yleistilanne kasvintuotannossa on tällä hetkellä?
+* Millaisia etuja ja hyötyjä IoT-ratkaisut voivat tarjota kasvintuotannossa?
+* Mitkä ovat kasvintuotannon IoT-ratkaisuiden keskeiset avoimet haasteet?
+
 
 # POHDINTA
 
@@ -1217,7 +1373,16 @@ Lopulta merkitsevimmän kehitysaskeleen ottavat viljelijät, jotka omaksuvat kä
 
 ## Luotettavuus
 
+Vaikka harmaan kirjallisuuden artikkelit eivät ole yhtä luotettavia, niiden voidaan katsoa olevan julkisen tarkastelun alaisia ja näin ollen kohtuullisen luotettavia. Mielestäni harmaan kirjallisuuden aineisto rikastutti tietopohjaa.
+
 ## Hyödynnettävyys
+
+## Jatkotutkimus
+
+Tutkimus on painottunut haastattelujen osalta peltotuotantoon. 
+Jatkotutkimuksessa puutarha- ja kasvihuonetuotannon asiantuntijoiden haastattelu olisi suositeltavaa kasvintuotannon kentän IoT-ratkaisuiden kokonaiskäsityksen syventämiseksi.
+
+*Kirjallisuuskatsauksessa käsiteltiin hyvin rajattu määrä löydetystä kirjallisuudesta. Vaikka katsauksen tulokset ovat oman arvioni mukaan kattavat niin syvempi kirjallisuuskatsaus voisi olla luotettavampi.*
 
 # LIITTEET
 
