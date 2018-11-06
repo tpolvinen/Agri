@@ -1,109 +1,11 @@
-<!-- MarkdownTOC -->
 
-- JOHDANTO
-    - Opinnäytetyön rakenne
-- ESINEIDEN INTERNET KASVINTUOTANNOSSA
-    - Kasvintuotannon teknologiakehitys
-    - Internet of Things
-        - Industrial Internet of Things
-        - Agricultural Internet of Things
-- OPINNÄYTETYÖN TARKOITUS, TAVOITE, RAJAUKSET, TUTKIMUSKYSYMYKSET JA TUTKIMUSMENETELMÄT
-    - Tutkimuskysymykset
-    - Tutkimusmenetelmien valinta
-    - Kirjallisuuskatsaus tutkimusmenetelmänä
-    - Kuvaileva kirjallisuuskatsaus tutkimusmenetelmänä
-    - Teemahaastattelu tutkimusmenetelmänä
-    - Sisällönanalyysi tutkimusmenetelmänä
-- AINEISTO JA TUTKIMUKSEN TOTEUTUS
-    - Kuvailevan kirjallisuuskatsauksen toteutus
-    - Teemahaastattelujen toteutus
-        - Haastateltavien valinta
-        - Haastattelujen toteutukset
-        - Haastatteluaineiston analyysimenetelmä
-            - Haastatteluaineiston analyysi sisällönanalyysin menetelmillä
-                - Sisällönanalyysin menetelmien käyttö
-                - Haastatteluaineiston koodaus ja koodien kategorisointi
-                - Haastatteluaineiston koodien taulukointi
-                - Haastatteluaineiston analysointi taulukoitujen tietojen avulla
-                - Haastatteluaineistosta johtopäätösten vetäminen analyysin perusteella
-- TUTKIMUSTULOKSET
-    - Kirjallisuuskatsauksen tulokset
-        - Yleinen kuvailu
-        - AIoT:in teknologiat
-        - AIoT:in sovellusalueet
-            - Valvonta
-            - Kontrollointi
-            - Logistiikka
-            - Ennustus
-        - AIoT:in avoimet haasteet
-            - Standardisaation haasteet
-            - Tieto- ja kyberturvallisuuden haasteet
-            - Laitteiden energiatehokkuuden haasteet
-            - Laitteiden kestävyyden haasteet
-            - Langattoman tietoliikenteen haasteet
-            - Analytiikkaratkaisuiden ja tietopalveluiden haasteet
-            - AIoT-ekosysteemin laajentamisen haasteet
-            - Muut tekniset haasteet
-            - Muut haasteet
-        - Esitetyt AIoT-arkkitehtuurit
-    - Haastattelujen tulokset
-        - Haastatteluaineiston sisällönanalyysin tulokset teemoittain
-            - Tietojenkäsittely
-            - Tietojärjestelmät, tietoliikenne ja alustaratkaisut
-            - Teknologioiden omaksunta
-            - Toimintaympäristön muutos, maatalous toimintaympäristönä ja maataloustuotannon data
-            - Teknologiat, teknologioiden sovellukset ja standardit
-            - Maataloustuotannon laitteet ja maataloustuotannon tehostaminen
-            - Tuotteet ja teknologiaratkaisut
-            - Sisällönanalyysiin taulukoinnin havainnot
-        - Haastatteluaineiston kuvaus
-            - AIoT:in tilanne yleensä
-            - Digitalisaatioharppauksen alku
-            - AIoT-teknologioiden omaksumisen tilanne Suomessa
-            - Laitevalmistajien yhteistyö
-            - Kokonaisvaltainen maatilan tiedonhallintajärjestelmä \(FMIS\)
-            - Datan käsittely
-                - Datan liikkuminen tuotantoketjussa
-                - Datan jakaminen ja julkaisu
-                - Datan omistajuus
-            - AIoT:in vaikutukset
-            - Ruokaturva
-            - AIoT:in haasteet
-                - Tietoliikenteen ja tietoturvan haasteet
-                - Elinkaarihaasteet
-                - integraatio- ja alustahaasteet
-                - Käytettävyyshaasteet
-                - Asiantuntijuushaaste
-                - Omaksumisen haasteita
-            - Tavoitetila ja tulevaisuus
-    - Tutkimustulosten yhteenveto
-        - Kirjallisuuskatsauksen ja haastattelujen tulokset
-        - Tutkimuskysymyksien vastaukset
-- POHDINTA
-    - Tavoitteiden saavuttaminen
-    - Oppiminen
-    - Luotettavuus
-    - Hyödynnettävyys
-    - Jatkotutkimus
-- LIITTEET
-    - Liite __. Hakulauseiden muodostus
-    - Liite __. Koodien havainnot taulukoituna
-    - Liite __. Havaintojen määrät kategorioittain
-    - Liite __. Tekniikka-kategorian havainnot
-    - Liite __. Maataloustuotanto-kategorian havainnot
-    - Liite __. Toimintaympäristö-kategorian havainnot
-    - Liite __. Sanamäärät
-    - Liite __. R heatmap.2
-    - Liite __. Haastattelu1-teksti LUOTTAMUKSELLINEN
-    - Liite __. Haastattelu2-teksti LUOTTAMUKSELLINEN
-    - Liite __. Haastattelu3-teksti LUOTTAMUKSELLINEN
-    - Liite __. Haastattelu4-teksti LUOTTAMUKSELLINEN
-    - Liite __. Haastattelu5-teksti LUOTTAMUKSELLINEN
-    - Liite __. Koodien havainnot haastatteluaineistossa
-- LÄHTEET
 
-<!-- /MarkdownTOC -->
+TIIVISTELMÄ
 
+3 kappaletta:
+MIKSI tutkittiin?
+MITEN tutkimus tehtiin?
+MITKÄ ovat keskeiset tulokset?
 
 Luettelo kuvaajista ja kaavioista
 
@@ -119,6 +21,8 @@ Koska hyvää tapaa ei näytä olevan, täytyy tehdä lista Wordilla.
 Lyhenteet ja termit
 
 # JOHDANTO
+
+*Johdanto on "myyntipuhe", mitä puuttuvaa tämä työ paikkaa? Miksi se on tärkeää?*
 
 ## Opinnäytetyön rakenne
 (Keskeiset käsitteet?)
@@ -224,9 +128,14 @@ Yleisellä tasolla ICT-ratkaisut tarjoavat uusia mahdollisuuksia tiedon jakamise
 
 ![. Keskeisiä ICT-ratkaisuita maataloudessa @faoEAgricultureStrategyGuide2016 mukaan](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/ICTs_in_agriculture.png "ICT-ratkaisuita maataloudessa"){ width=140mm }
 
-Viimeisten 20 vuoden aikana maataloudessa ICT-ratkaisuita on otettu käyttöön suuressa mittakaavassa täsmäviljelyn ratkaisuissa. @haapalaTasmaviljelynMaaritelmaJa2016 määrittelee täsmäviljelyn seuraavasti: "Täsmäviljely on tarkka tuotantomuoto, joka perustuu tilan olosuhteista kerättyyn tarkkaan paikkatietoon. Paikkatiedon perusteella säädetään tuotantopanosten käyttöä siten, että käyttö vastaa tarkasti maaperän ja kasvustojen tarpeita." Täsmäviljelyssä sovelletaan ICT-ratkaisuita esimerkiksi maa-analyysissä, keinokastelussa, kalustonhallinnassa ja sääennusteden laadinnassa. Täsmäviljelyn avulla pyritään ennen kaikkea maataloustuotannossa tehokkuuden parantamiseen, mutta myös terveyden ja turvallisuuden sekä ympäristövaikutusten parempaan hallintaan. Välittömien etujen kuten sadonlisän, tuotantopanosten vähentämisen ja paremman tuotantotehon lisäksi täsmäviljely usein tuottaa massadataa, jota analysoimalla voidaan tulkita menneitä ja ennustaa tulevia tapahtumia. Data-analytiikan avulla voidaan tuottaa uusia tehokkaita maatalouden päätöksenteon työvälineitä, jotka avustavat paitsi tuotannon kehittämisessä, myös biodiversiteetin suojelussa. [@rapsomanikisInformationCommunicationTechnology2017]
+Viimeisten 20 vuoden aikana maataloudessa ICT-ratkaisuita on otettu käyttöön suuressa mittakaavassa täsmäviljelyn ratkaisuissa. @haapalaTasmaviljelynMaaritelmaJa2016 määrittelee täsmäviljelyn seuraavasti: "Täsmäviljely on tarkka tuotantomuoto, joka perustuu tilan olosuhteista kerättyyn tarkkaan paikkatietoon. Paikkatiedon perusteella säädetään tuotantopanosten käyttöä siten, että käyttö vastaa tarkasti maaperän ja kasvustojen tarpeita." (ks. kuva __). Täsmäviljelyn keskeisiä ajureita ovat sateliittinavigaatiojärjestelmät (GNSS, engl. Global Navigation Satellite Systems), paikkatietojärjestelmät (GIS, engl. Geographic Information System) ja mikrotietokoneet. Täsmäviljely kehitettiin aluksi sovittamaan lannoitepanosten määrä maan kunnon vaihteluihin pellolla, joilla veden ja ravinteiden saatavuus voi vaihdella huomattavasti ajanhetken ja paikan mukaan. Myöhemmin lannoitelevityksen lisäksi on kehitetty useita uusia täsmäviljelytekniikoita, kuten traktoreiden ja työkoneiden automaattiohjaus, autonomisesti toimivia koneita ja prosesseja, tuotteiden jäljitettävyyden järjestelmiä, maatiloilla toteutettavaa tutkimusta ja ohjelmistoja maatalouden tuotantojärjestelmien hallintaan. [@gebbersPrecisionAgricultureFood2010] 
 
-On olemassa kasvava ymmärrys siitä, että maatalouden seuraavan "version" keskeinen osa tulee olemaan täsmäviljely, joka syntyy IoT:in, massadatan ja asiantuntijajärjestelmien omaksunnan myötä ja IoT-ratkaisut tulevat olemaan avainasemassa tulevassa maataloustuotannossa. [@faoPossibilitiesInternetThings2017; @leeAgricultureHowInternet2017]
+Täsmäviljelyssä sovelletaan ICT-ratkaisuita esimerkiksi maa-analyysissä, keinokastelussa, kalustonhallinnassa ja sääennusteden laadinnassa. Täsmäviljelyn avulla pyritään ennen kaikkea maataloustuotannossa tehokkuuden parantamiseen, mutta myös terveyden ja turvallisuuden sekä ympäristövaikutusten parempaan hallintaan. Välittömien etujen kuten sadonlisän, tuotantopanosten vähentämisen ja paremman tuotantotehon lisäksi täsmäviljely usein tuottaa massadataa, jota analysoimalla voidaan tulkita menneitä ja ennustaa tulevia tapahtumia. Data-analytiikan avulla voidaan tuottaa uusia tehokkaita maatalouden päätöksenteon työvälineitä, jotka avustavat paitsi tuotannon kehittämisessä, myös biodiversiteetin suojelussa. [@rapsomanikisInformationCommunicationTechnology2017; ks. @gebbersPrecisionAgricultureFood2010] 
+Nämä työvälineet ovat yleensä päätöksenteon tukijärjestelmiä (DSS, engl. Decision Support System), jotka ovat ohjelmistojärjestelmiä, jotka keräävät dataa erilaisista lähteistä ja joiden avulla pyritään tukemaan päätöksentekoa hallinnoinnissa, toiminnassa, suunnittelussa tai parhaiden ratkaisujen kartoittamisessa. Maataloudessa DSS-ratkaisut soveltavat agronomista mallinnusta ja laskentaa vedestä, ilmastosta, energiasta ja geeneistä kerätystä datasta. Näiden lisäksi DSS-ratkaisut usein ottavat huomioon taloudelliset ja ihmisten tuottamat syötteet. [@iof2020DecisionSupportSystems2018]
+
+![. Täsmäviljelyn informaatiokierto kasvintuotannossa @gebbersPrecisionAgricultureFood2010 mukaan](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/Precision_Farming_Information_Flow.jpg "Täsmäviljelyn informaatiokierto"){ width=120mm }
+
+Peltoviljelyn lisäksi täsmäviljelyn ratkaisuita on otettu käyttöön muun muassa viinin- ja puutarhaviljelyssä, sovellusten käyttökohteiden vaihdellessa Tansanian ja Sri Lankan teeviljelmiltä Brasilialaiseen sokeriruo'on tuotantoon, Kiinan, Intian ja Japanin riisiviljelmiltä Argentinan, Australian, Euroopan ja Yhdysvaltojen sokerijuurikaspelloille. [@gebbersPrecisionAgricultureFood2010] On olemassa kasvava ymmärrys siitä, että maatalouden seuraavan "version" keskeinen osa tulee olemaan täsmäviljely, joka syntyy IoT:in, massadatan ja asiantuntijajärjestelmien omaksunnan myötä ja IoT-ratkaisut tulevat olemaan avainasemassa tulevassa maataloustuotannossa. [@faoPossibilitiesInternetThings2017; @leeAgricultureHowInternet2017]
 
 
 ## Internet of Things
@@ -246,7 +155,7 @@ IoT:in historia ulottuu kuitenkin näitä ensimmäisiä nimenomaisia IoT:in ilme
 
 ![. TRON-arkkitehtuurien yhdistäminen @sakamuraTronProject1987 mukaan: ITRON (industrial TRON) ja BTRON (business TRON) voidaan yhdistää tiedostopalvelimeen CTRON eri tavoilla](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/TRONarchitecturesConnection.png "TRON-arkkitehtuurien yhdistäminen"){ width=100mm }
 
-Muita kirjallisuudessa mainittuja IoT:in historian tapahtumia ovat olleet @gillenAssessingBenefitsCosts1999 esittämä ensimmäinen sähköinen siltojen käyttömaksujen keräysjärjestelmä Oklahomassa sekä @Gates:1995:RA:600573 kuvailu älykkäiden verkottuneiden laitteiden järjestelmän toiminnasta kirjassa The Road Ahead. IoT:in historiassa RFID-tunnisteet ovat olleet keskeisessä osassa niiden kehittämisestä alkaen nykyhetkeen asti. Wal-Martin, IBM:n, Tescon ja Microsoftin vuonna 2005 toteuttamat RFID-tunnisteiden käyttöönotot ovat olleet huomattavia osoituksia tunnisteiden käytön laajenemisesta ja kehittymisestä. [@taoInternetThingsProduct2016] Lisäksi kirjallisuudessa on yleisesti huomioitu vuonna 2012 Kansainvälisen televiestintäliiton (ITU, engl. International Telecommunication Union) julkaisema suositus ITU-T Y.2060, jossa on määritelty IoT-referenssiarkkitehtuuri [@itu2060OverviewInternet2012].
+Muita kirjallisuudessa mainittuja IoT:in historian tapahtumia ovat olleet @gillenAssessingBenefitsCosts1999 esittämä ensimmäinen sähköinen siltojen käyttömaksujen keräysjärjestelmä Oklahomassa sekä @Gates:1995:RA:600573 kuvailu älykkäiden verkottuneiden laitteiden järjestelmän toiminnasta kirjassa The Road Ahead. IoT:in historiassa RFID-tunnisteet ovat olleet keskeisessä osassa niiden kehittämisestä alkaen nykyhetkeen asti. Wal-Martin, IBM:n, Tescon ja Microsoftin vuonna 2005 toteuttamat RFID-tunnisteiden käyttöönotot ovat olleet huomattavia osoituksia tunnisteiden käytön laajenemisesta ja kehittymisestä. [@taoInternetThingsProduct2016] Lisäksi kirjallisuudessa on yleisesti huomioitu vuonna 2012 Kansainvälisen televiestintäliiton (ITU, engl. International Telecommunication Union) julkaisema suositus ITU-T Y.2060, jossa on määritelty IoT-referenssiarkkitehtuuri [@itu2060OverviewInternet2012]. Lisää IoT:in historian tapahtumia ja ennusteita on kuvailtu @nolterBriefHistoryInternet2016 julkaisemassa IoT Timeline -infografiikassa (ks. liite 0).
 
 Vuonna 2008 järjestettiin Zurichissä ensimmäinen kansainvälinen Internet of Things -konferenssi (IoT 2008). Tuolloin keskeisimpinä IoT-teknologioina mainittiin RFID, lyhyen kantaman langattomat kommunikaatioteknologiat, tosiaikainen paikantaminen ja anturiverkot, joiden sovellukset tuovat IoT:in teolliseen, kaupalliseen ja kotitalouksien käyttöön. [@Floerkemeier:2008:1793060] Tämän jälkeen Internet of Things -konferensseja on järjestetty lähes vuosittain, vuoden 2018 konferenssin ollessa kahdeksas. Keskeisimpinä vuoden 2018 konferenssin aiheina on mainittu anturiteknologian kehitys ja halpeneminen sekä datakeskeisten liiketoimintamallien yleistyminen. Näiden lisäksi käsiteltyjä aiheita olivat IoT:in kehitys ja sosiaalinen omaksunta kuten IoT:in arkkitehtuurit, yksityisyyden suoja ja turvallisuus IoT:ssä, IoT:in sovellukset, ihmisen ja objektin välinen vuorovaikutus (HOI, engl. Human-Object Interactions) ja objektien välinen vuorovaikutus (OOI, engl. Object-Object Interactions). [@Janowicz:2018:3277593]
 
@@ -397,7 +306,6 @@ Menetelmätriangulaatiota eli monimetodista lähestymistapaa voidaan käyttää 
 Opinnäytetyön aihealueeksi olen rajannut kasvintuotannon IoT-ratkaisut, minkä arvioin olevan yleisen ruoantuotannon kannalta vaikuttavin ruoantuotannon alue. Opinnäytetyön laajuuden rajallisuuden takia en käsittele tässä opinnäytetyössä yksittäisiä teknologiaratkaisuita kuten verkkoprotokollia, sensoriteknologioita tai data-analyysin menetelmiä, vaan keskityn kuvailemaan kasvintuotannon IoT-ratkaisuita yleisellä tasolla.
 
 IoT-ratkaisuna olen tässä opinnäytetyössä lähtökohtaisesti pitänyt järjestelmää tai järjestelmien verkostoa, joka anturien automaattisesti tuottaman ja verkon yli siirretyn datan analytiikan perusteella vaikuttaa ympäristöön automaattisesti, vaatien ihmisen suorittamia toiminteita vain minimaalisesti tai ei ollenkaan. Koska tälläisia ratkaisuita on markkinoilla tutkimuksen teon hetkellä ilmeisesti hyvin vähän, olen yleisen IoT:iä käsittelevän kirjallisuuden tapaan ottanut huomioon myös sellaiset ratkaisut, jotka voisivat olla edellä määritellyn IoT-järjestelmän aikaisempia kehitysvaiheita tai osaratkaisuita. Tästä kirjallisuudessa yleisin esimerkki ovat automaattisesti digitaalista mittausdataa tuottavat ja tallentavat järjestelmät, jotka eivät sisällä aktuoinnin toiminnallisuuksia tai edistynyttä data-analytiikkaa.
-
 
 
 ## Tutkimuskysymykset
@@ -1350,6 +1258,7 @@ Tilakohtaisen datan ja järjestelmien integraatiota seuraava kehitysaskel on til
 
 Lopulta merkitsevimmän kehitysaskeleen ottavat viljelijät, jotka omaksuvat käyttöönsä hyödyllisiä teknologioita. Heille AIoT-teknologioiden tulisi vielä selkeästi näyttää toteen hyödyllisyytensä. Viljelijät käyttävät tarkkaa harkintaa liiketoiminnan harjoittajina ja yrittäjinä tehdessään investointeja toimintansa parantamiseksi. Tällöin käyttöön otettavalle teknologiaratkaisulle tulee löytyä selkeä taloudellinen peruste. Tämän lisäksi uuden teknologian tulee soveltua yrityksen toimintatapoihin ja liiketoimintaprosesseihin, eli maatilojen viljelykäytänteisiin ja tapoihin tehdä asioita ja hoitaa tilaa. Jos näitä vaatimuksia ei kyetä täyttämään, laaja AIoT-teknologioista saatavien hyötyjen realisointi voi jäädä rajalliseksi.
 
+*"Tulokset ovat toimeksiantajalle tai alalle erittäin tärkeitä tai niillä on yleistä sovellus- tai uutuusarvoa. **Tulosten merkitystä** on pohdittu erinomaisesti raportissa."*
 
 ### Tutkimuskysymyksien vastaukset
 
@@ -1367,11 +1276,18 @@ II) Miten kasvintuotannossa hyödynnetään IoT-teknologioita?
 
 # POHDINTA
 
+*"Johtopäätökset ovat loogisia, hyvin perusteltuja ja kattavat tutkimuksen / selvityksen kaikki osa-alueet. Tietoperusta, tulososa ja johtopäätökset muodostavat asiantuntijamaisen kokonaisuuden.  Jatkotutkimus/-selvitysaiheet ovat erittäin hyviä ja perusteltuja."*
+*Johtopäätökset perustellaan teoriataustasta (...?) Teoriataustan perusteella voi olla tunteita, julistuksia, luokittelua.*
+
 ## Tavoitteiden saavuttaminen
 
 ## Oppiminen
 
+*"Omaa toimintaa, oppimista ja ammatillista kehittymistä arvioidaan monipuolisesti ja kriittisesti. Oman työnhallinnan ja tavoitteiden saavuttamisen analysointi on monipuolista ja yksityiskohtaista."*
+
 ## Luotettavuus
+
+*"Tutkimuksen / selvityksen luotettavuutta ja eettisten periaatteiden noudattamista on arvioitu erinomaisesti pohtimalla sitä laajasti ja kriittisesti koko tutkimusprosessin kannalta."*
 
 Vaikka harmaan kirjallisuuden artikkelit eivät ole yhtä luotettavia, niiden voidaan katsoa olevan julkisen tarkastelun alaisia ja näin ollen kohtuullisen luotettavia. Mielestäni harmaan kirjallisuuden aineisto rikastutti tietopohjaa.
 
@@ -1385,6 +1301,10 @@ Jatkotutkimuksessa puutarha- ja kasvihuonetuotannon asiantuntijoiden haastattelu
 *Kirjallisuuskatsauksessa käsiteltiin hyvin rajattu määrä löydetystä kirjallisuudesta. Vaikka katsauksen tulokset ovat oman arvioni mukaan kattavat niin syvempi kirjallisuuskatsaus voisi olla luotettavampi.*
 
 # LIITTEET
+
+## Liite __. IoT:in historia -infografikka
+
+![IoT:in historian keskeisiä tapahtumia ja ennusteita @nolterBriefHistoryInternet2016 mukaan](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/Liite-IoT_Timeline.jpg "IoT:in historia -infografiikka"){ width=55mm }
 
 ## Liite __. Hakulauseiden muodostus
 

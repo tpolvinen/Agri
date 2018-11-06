@@ -1,5 +1,9 @@
 ### Agricultural Internet of Things
 
+EN: How the IoT (in agriculture) provides extensive environmental benefits - News - IoF2020 [http://www.iof2020.eu/latest/news/2018/03/how-iot-in-agriculture-provides-extensive-environmental-benefits]
+
+EN: Digitalisaatio laittaa koneet kommunikoimaan - Luonnonvarakeskus *IIoT tulossa maatalouteen, vallankumouksen edellytys on integraatio, on paljon tehtävää, digitaalisaatio mahdollistaa uusien palveluiden kehittämisen täsmälannoitukseen, sadon laadunhallintaan tai tukivalvontaan*
+
 Seuraava vallankumous maataloudessa tulee olemaan kvantitatiivisen datan käyttöönotto laajassa mittakaavassa. Vallankumous tulee olemaan informaatiovallankumous, jonka polttoaineena tulee olemaan datatiede, joka voimanlähteenä tulee olemaan maatiloilta kerätty data. Datatiedeen avulla tuotetaan monenlaisista lähteistä kerätystä datasta jalostamalla, analytiikalla ja mallinnusta soveltamalla tuotteita, jotka ovat käytettäviä datatieteeseen perehtymättömille. 
 Datatiede mahdollistaa viljelijälle mitatun tiedon perusteella toimivan päätöksenteon.
 Data ei tule olemaan vain hänen omalta tilaltaan kerättyä, vaan se tulee olemaan kaikilta maatiloilta kerättyä. 
@@ -52,21 +56,38 @@ Agritechnican palkitut innovaatiot...tähän :D
 Smart Crop Damage Identification, MARS - Mobile Agricultural Robot Swarms ja [Agrirouter](http://www.dke-data.com/en/whatwedo/agrirouter/)
 
 Kasvihuoneet ja kasvitehtaat?
+Kasvihuoneautomaatiota ja koneoppimista [@vargaGreenhouseManagementFebruary2017]
+Automaation tila Kanadan puutarhaviljelyssä EN:Vineland PDF: An Automation Technology Strategy for the Canadian Horticulture Sector
 Kerrosviljely voi olla yksi mahdollisuus kasvintuotannolle paikoissa, joissa viljelymaata ei ole, vedestä on pulaa ja tuotannon kasvua tarvitaan: [Potential of Vertical Hydroponic Agriculture in Mexico](https://www.mdpi.com/2071-1050/9/1/140/htm)
 Toisaalta kerrosviljelyllä voidaan tuottaa korkean myyntiarvon yrttejä - Fujitsu & Robbe: [http://www.fujitsu.com/fi/about/resources/news/press-releases/2016/fujitsu-greenhouse-technology-finland-oy.html] ja [https://www.maaseuduntulevaisuus.fi/talous/sitruunamelissa-ja-meirami-kukoistavat-kerroksissa-suomalaisesta-kasvuhuoneosaamisesta-hioutuu-huippuvientituote-1.163329] 28.09.2016
 2-4 kertaa nopeammin kuin yleensä ulkona: [Editorial: Advances and Trends in Development of Plant Factories](https://doi.org/10.3389/fpls.2016.01848) Huom: lääkekasvit & klorofyllifluoresenssi CCD-kameralla -> koneoppimisella ennustetaan kasvitauteja ja kasvua, valoilla kokeiluja
 "Mirai, has constructed the world's largest indoor farm—25,000 square feet of futuristic garden beds nurtured by 17,500 LED lights in a bacteria-free, pesticide-free environment. The result? About 10,000 heads of fresh lettuce harvested each day." [http://news.nationalgeographic.com/news/2014/07/140717-japan-largest-indoor-plant-factory-food/] - [http://miraigroup.jp/en/]
 "Belgium: Urban Crops opens largest automated plant factory in Europe (2/26/2016)" [http://www.hortidaily.com/article/24546/Belgium-Urban-Crops-opens-largest-automated-plant-factory-in-Europe/]
 Koska luonnonvaloa ei tarvita, voidaan kasvatustilat sijoittaa vaikka maan alle. Maanalaista kasvintuotantoa kokeillaan Luken hankkeessa Pyhäsalmen kaivoksessa [https://www.luke.fi/projektit/alykasta-tutkimusta-ja-koetuotantoa/] 
+MUTTA: EN: Does vertical farming make sense? Onko järkeä?
+
+
+
+EN: Representing Situational Knowledge for Disease Outbreaks in Agriculture Nikander PDF - real.mtak.hu
+EN: Plant Disease Detection by Imaging Sensors – Parallels and Specific Demands for Precision Agriculture and Plant Phenotyping
+
+EN: Paljon viitteitä: The future of agriculture | The Economist
+
+EN: Cropinfra platform (beta) -datan keräys, tallennus ja jakaminen
+EN: Cropinfra Nikander et al. Farm Information Management Infrastructures In the Future -Cropinfra on prototyyppi alustasta, täällä teoria ja vaatimuksia
+EN: Internet of Things Platform for Smart Farming: Experiences and Lessons Learnt -SmartFarmNet alustan kokemuksia
+EN: SmartFarm Australia -UCSB SmartFarm kokemuksia *“moves the code to the data” rather than “moving the data to the code”*
+EN: MikäData-hanke | ProAgria Koko Suomi -kehitetään analytiikkapalvelu *"esimerkiksi tarpeet tietää maalajien vaihtelut, ravinne-tasot (esim. kalium ja fosfori) ja toteutuneet satotiedot sekä löytää kautta linjan tehostamiskeinoja pellon tuottavuuden nostamiseksi datan avulla."*
 
 ? Anturiteknologiaa: [Lehden kosteussensori](https://www.auroras.eu/leaf-wetness-wireless-sensor-iot-in-the-field/) ... ja kokonainen [systeemi](https://www.auroras.eu/more-healthy-grapes-with-save-grape-the-power-of-iot/) “Our IoT monitoring system for the vineyard, SAVE GRAPE, allows to know, in real time, the micro-climate conditions in the field and the state of soil and plants”.“These data are processed on the basis of predictive models – Paolo continues – to alert about diseases, support the decision-making and suggest when and how to intervene”.
 
 "Currently, the demand by consumption of agricultural products could be predicted quantitatively, however, the variation of harvest and production by the change of farm's cultivated area, weather change, disease and insect damage etc. could not be predicted, so that the supply and demand of agricultural products has not been controlled properly. To overcome it, this paper designed the IoT-based monitoring system to analyze crop environment, and the method to improve the efficiency of decision making by analyzing harvest statistics. Therefore, this paper developed the decision support system to forecast agricultural production using IoT sensors." [http://doi.ieeecomputersociety.org/10.1109/CSE.2013.126]
 
+AEF [https://www.aef-online.org]
 Valtra / AGCO
 IBM
 Intel
-Accenture
+Accenture [https://www.accenture.com/fi-en/insight-accenture-digital-agriculture-solutions] EN: Accenture Digital Agriculture Service; Digital Agriculture: Improving Profitability PDF - www.accenture.com
 CEMA
 365FarmNet https://www.365farmnet.com/en/
 John Deere Precision Planting <11-05-2018  16:27>  
