@@ -2,7 +2,14 @@
 
 EN: How the IoT (in agriculture) provides extensive environmental benefits - News - IoF2020 [http://www.iof2020.eu/latest/news/2018/03/how-iot-in-agriculture-provides-extensive-environmental-benefits]
 
+EN: 3 industries being changed by the Internet of Things [https://www.weforum.org/agenda/2015/06/3-industries-being-changed-by-the-internet-of-things/]
+Maatalous on ollut hyvin onnistunut laboratorio IoT-innovaatioille
+liittämällä yhteen kaiken maaperäantureista traktoreihin, IoT poistaa arvaukset ja aavistelun kylvöstä ja sadonkorjuusta, IoT tarjoaa kallisarvoista näkyvyyttä ja havaintokykyä, toimiin perusteet antavan näkemyksen pellon toimintaan/tapahtumiin
+
 EN: Digitalisaatio laittaa koneet kommunikoimaan - Luonnonvarakeskus *IIoT tulossa maatalouteen, vallankumouksen edellytys on integraatio, on paljon tehtävää, digitaalisaatio mahdollistaa uusien palveluiden kehittämisen täsmälannoitukseen, sadon laadunhallintaan tai tukivalvontaan*
+
+vahtelee 4.0:sta [https://ec.europa.eu/digital-single-market/en/news/cema-summit-2017-moving-towards-connected-and-sustainable-agriculture-europe]
+3.0:aan ???
 
 Seuraava vallankumous maataloudessa tulee olemaan kvantitatiivisen datan käyttöönotto laajassa mittakaavassa. Vallankumous tulee olemaan informaatiovallankumous, jonka polttoaineena tulee olemaan datatiede, joka voimanlähteenä tulee olemaan maatiloilta kerätty data. Datatiedeen avulla tuotetaan monenlaisista lähteistä kerätystä datasta jalostamalla, analytiikalla ja mallinnusta soveltamalla tuotteita, jotka ovat käytettäviä datatieteeseen perehtymättömille. 
 Datatiede mahdollistaa viljelijälle mitatun tiedon perusteella toimivan päätöksenteon.
@@ -27,6 +34,7 @@ Maatalouden IoT eli Agricultural Internet of Things:in sovelluksia voidaan hyöd
 
 IoT:n soveltaminen maatalouteen voi osaltaan edistää maaseutuyhteisön kehitystä aikaisempaakin asiantuntevammaksi (informed), yhdistyneemmäksi (connected), edistyneemmäksi (developed) ja sopeutumiskykyisemmäksi (adaptable). ...  Tulevina vuosina IoT voi olla tärkeä työkalu maatalouden järjestelmien kanssa toimiville ihmisille kuten tavaratoimittajille, viljejijöille, mekaanikoille, jälleenmyyjille, liiketoiminnan harjoittajille, kuluttajille ja valtiohallinnon edustajille. [@talaveraReviewIoTApplications2017]
 
+Yhteydet kuluttajien ja tuottajien välillä *missä oli se suppilo, 500 firmaa maailmassa?*
 
 Ruokaturva on keskeinen kysymys joka muodostuu entistä kriittisemmäksi seuraavien vuosikymmenien aikana odotetun väestönkasvun ja (emerging economies) elintason nousun myötä.
 
@@ -51,6 +59,15 @@ Literature on IoT in agriculture and food
 Aasialaiset, erityisesti kiinalaiset tekevät suurimman määrän AIoT:stä kirjoitetuista julkaisuista.
 Muilla mantereilla IoT oli viime aikoihin asti EI-maataloustieteilijöiden aluetta.
 [@verdouwInternetThingsAgriculture2016a]
+
+EN: Towards Smart Farming and Sustainable Agriculture with Drones PDF IEEE
+UA-laitteet, droonit, ovat yleistymässä.
+Resurssienhallinta paranee / pyritään parantamaan
+Yleisiä menetelmiä peltoviljelyssä analysoida ja arvioida tuotannon ja resurssien käytön tilaa
+on satelliitikuvien käyttö optisia- ja monispektritekniikoita käyttämällä (?)
+valon imeytyminen (absorptio) lehtiin ilmaisee klorofyllin määrää, jonka perusteella voidaan tehdä päätöksiä lannoituksen, mm. hyönteisten ja sienien torjunnan suhteen. Mitä useammin analysoidaan, sitä tarkempi vastatoimi. Mittaustoiminta on aikaavievää käsilaitteilla ja riippuvainen satelliittiajasta
+UA-laite antaa lintuperspektiivin pysyen silti lähellä viljelmää ja antaen tarkempia tietoja kuin satelliitti, mikä tekee UA-laitteesta tehokkaan täsmäviljelyn ja älykkään viljelyn käytössä.
+Maaperän tarkkaan havainnointiin satelliitit eivät ole tarpeeksi tarkkoja ja vaativat lähempää tarkastusta pellolla
 
 Agritechnican palkitut innovaatiot...tähän :D
 Smart Crop Damage Identification, MARS - Mobile Agricultural Robot Swarms ja [Agrirouter](http://www.dke-data.com/en/whatwedo/agrirouter/)
@@ -79,11 +96,13 @@ EN: Internet of Things Platform for Smart Farming: Experiences and Lessons Learn
 EN: SmartFarm Australia -UCSB SmartFarm kokemuksia *“moves the code to the data” rather than “moving the data to the code”*
 EN: MikäData-hanke | ProAgria Koko Suomi -kehitetään analytiikkapalvelu *"esimerkiksi tarpeet tietää maalajien vaihtelut, ravinne-tasot (esim. kalium ja fosfori) ja toteutuneet satotiedot sekä löytää kautta linjan tehostamiskeinoja pellon tuottavuuden nostamiseksi datan avulla."*
 
+EN: Wireless sensor networks for agriculture: The state-of-the-art in practice and future challenges - WSN on yleisessä käytössä maatalouden sovelluksissa. On maanpäällisiä ja maanalaisia. Käyttökelpoisuus ja potentiaaliset sovellukset. Antureita maaperään, ympäristöön, kasveihin. Olemassa olevia sovelluksia kastelun hallinta, viinitarhan tarkkailu, täsmäviljely, tautiriskin arviointi
+
 ? Anturiteknologiaa: [Lehden kosteussensori](https://www.auroras.eu/leaf-wetness-wireless-sensor-iot-in-the-field/) ... ja kokonainen [systeemi](https://www.auroras.eu/more-healthy-grapes-with-save-grape-the-power-of-iot/) “Our IoT monitoring system for the vineyard, SAVE GRAPE, allows to know, in real time, the micro-climate conditions in the field and the state of soil and plants”.“These data are processed on the basis of predictive models – Paolo continues – to alert about diseases, support the decision-making and suggest when and how to intervene”.
 
 "Currently, the demand by consumption of agricultural products could be predicted quantitatively, however, the variation of harvest and production by the change of farm's cultivated area, weather change, disease and insect damage etc. could not be predicted, so that the supply and demand of agricultural products has not been controlled properly. To overcome it, this paper designed the IoT-based monitoring system to analyze crop environment, and the method to improve the efficiency of decision making by analyzing harvest statistics. Therefore, this paper developed the decision support system to forecast agricultural production using IoT sensors." [http://doi.ieeecomputersociety.org/10.1109/CSE.2013.126]
 
-AEF [https://www.aef-online.org]
+AEF [https://www.aef-online.org] EN: AEF Leaders Discuss Machine Communication Systems - ISOBUS-kehitystä (automaatio, hi-speed), kamerajärjestelmät, FMIS, Wireless in-field communication
 Valtra / AGCO
 IBM
 Intel
