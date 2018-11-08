@@ -1,5 +1,6 @@
 ### Agricultural Internet of Things
-
+*...ei ehkä sittenkään tätä: Pohjaksi: EN: Beecham Research: Overview on Smart Farming [@romeoOverviewSmartFarming2015]*
+EN: Surprise: Agriculture is doing more with IoT innovation...
 EN: How the IoT (in agriculture) provides extensive environmental benefits - News - IoF2020 [http://www.iof2020.eu/latest/news/2018/03/how-iot-in-agriculture-provides-extensive-environmental-benefits]
 
 EN: 3 industries being changed by the Internet of Things [https://www.weforum.org/agenda/2015/06/3-industries-being-changed-by-the-internet-of-things/]
@@ -10,6 +11,7 @@ EN: Digitalisaatio laittaa koneet kommunikoimaan - Luonnonvarakeskus *IIoT tulos
 
 vahtelee 4.0:sta [https://ec.europa.eu/digital-single-market/en/news/cema-summit-2017-moving-towards-connected-and-sustainable-agriculture-europe]
 3.0:aan ???
+2.0:aan [@leeAgricultureHowInternet2017]
 
 Seuraava vallankumous maataloudessa tulee olemaan kvantitatiivisen datan käyttöönotto laajassa mittakaavassa. Vallankumous tulee olemaan informaatiovallankumous, jonka polttoaineena tulee olemaan datatiede, joka voimanlähteenä tulee olemaan maatiloilta kerätty data. Datatiedeen avulla tuotetaan monenlaisista lähteistä kerätystä datasta jalostamalla, analytiikalla ja mallinnusta soveltamalla tuotteita, jotka ovat käytettäviä datatieteeseen perehtymättömille. 
 Datatiede mahdollistaa viljelijälle mitatun tiedon perusteella toimivan päätöksenteon.
@@ -17,9 +19,7 @@ Data ei tule olemaan vain hänen omalta tilaltaan kerättyä, vaan se tulee olem
 Tulevaisuudessa voidaan: Aggregoidaan dataa laitteilta/työkoneilta pilveen, sovelletaan kerättyyn dataan mallinnuksia, ekstraktoidaan paikallista arvoa viljelijälle.
 Viimeisten parin vuosikymmenen aikana viljelijät ovat ottaneet käyttöön/omaksuneet täsmäviljelytekniikoita ja -teknologioita jotka luovat perustan[@tedxtalksAgricultureTechnologyMatt2013]
 
-"Näköpiirissä on kehityksen murros, sillä muun muassa EU:n digitaalisten sisämarkkinoiden strategia nostaa maatalouden yhdeksi viidestä teollisuudenalasta, jota voidaan digitalisaation avulla voimakkaasti edistää. Visiossa puhutaan älykkäästä viljelystä, jossa maatilayrittäjä datoineen asetetaan kehittämisen keskiöön.
-Tulevaisuuden älykkään tuotannon myötä alkutuottajan rooli voi ruokajärjestelmissä perustua nykyistä pidemmälle vietyyn sopimustuotantoon. Tuolloin alkutuottaja olisi hyvin integroidun ruokaketjun lenkki, jonka tuotantoautomaatiolle ohjeet ja ajoitus syötetään ruoan jalostusportaasta. Näin varmennetaan halutun raaka-aineen oikea-aikainen saatavuus ruokaketjulle.
-Tälle näkymälle vastakkaisesti alkutuottajan roolina voi olla  nykyistä itsenäisempi toimija. Hän optimoi pienestä yrityskoostaan huolimatta tuotantonsa itse, kilpailuttaa panokset ja myy tuotantonsa arvokkaimmat erät hyvään hintaan. Tässä häntä tukee vertaisverkoston kanssa jaettu data ja siitä muodostettu tilanne- ja tuotetietoisuus sekä organisoitunut keskinäinen yhteistoiminta." [Digitaalisuus hiipii ruuan alkutuotantoon - Luonnonvarakeskus](https://www.luke.fi/blogi/digitaalisuus-hiipii-ruuan-alkutuotantoon/)
+*"Näköpiirissä on kehityksen murros, sillä muun muassa EU:n digitaalisten sisämarkkinoiden strategia nostaa maatalouden yhdeksi viidestä teollisuudenalasta, jota voidaan digitalisaation avulla voimakkaasti edistää. Visiossa puhutaan älykkäästä viljelystä, jossa maatilayrittäjä datoineen asetetaan kehittämisen keskiöön. / Tulevaisuuden älykkään tuotannon myötä alkutuottajan rooli voi ruokajärjestelmissä perustua nykyistä pidemmälle vietyyn sopimustuotantoon. Tuolloin alkutuottaja olisi hyvin integroidun ruokaketjun lenkki, jonka tuotantoautomaatiolle ohjeet ja ajoitus syötetään ruoan jalostusportaasta. Näin varmennetaan halutun raaka-aineen oikea-aikainen saatavuus ruokaketjulle. / Tälle näkymälle vastakkaisesti alkutuottajan roolina voi olla  nykyistä itsenäisempi toimija. Hän optimoi pienestä yrityskoostaan huolimatta tuotantonsa itse, kilpailuttaa panokset ja myy tuotantonsa arvokkaimmat erät hyvään hintaan. Tässä häntä tukee vertaisverkoston kanssa jaettu data ja siitä muodostettu tilanne- ja tuotetietoisuus sekä organisoitunut keskinäinen yhteistoiminta." [Digitaalisuus hiipii ruuan alkutuotantoon - Luonnonvarakeskus](https://www.luke.fi/blogi/digitaalisuus-hiipii-ruuan-alkutuotantoon/)*
 
 Uusien teknologioiden kuten IoT:n ja pilvipalveluiden odotetaan antavan vipuvoimaa Smart Farming:in kehitykselle, lisäten robotiikan ja keinoälyn käyttöä maataloudessa. ... *Smart Farming voi kehittyä jatkumona kahden eri ääriskenaarion tavoin, joko suljettuna järjestelmänä jossa viljelijä on osa integroitua tuotantoketjua tai avoimena yhteistoiminnallisina järjestelminä, jossa niin viljelijät kuin muutkin sidosryhmät voivat joustavasti valita yhteistyökumppaninsa sekä teknologiaratkaisuiden toimittajien että ruokatuotannon toimijoiden piiristä.* Pääsy tosiaikaiseen dataan, tosiaikaiset ennusteet, fyysisten esineiden seuranta yhdessä IoT-kehityksen kanssa maatalousautomaatiossa ja autonomisesti toteutettavissa toiminnoissa tulee muuttamaan maatilan hallintaa ja maatilan toimintaa huomattavalla tavalla. [@wolfertBigDataSmart2017]
 
@@ -90,6 +90,9 @@ EN: Plant Disease Detection by Imaging Sensors – Parallels and Specific Demand
 
 EN: Paljon viitteitä: The future of agriculture | The Economist
 
+OnFarm "offers a cloud palform service for the agriculture market"
+Farmobile-alusta "develops a smart farming monitoring solution"
+CropX "offers an agriculture analytics solution"
 EN: Cropinfra platform (beta) -datan keräys, tallennus ja jakaminen
 EN: Cropinfra Nikander et al. Farm Information Management Infrastructures In the Future -Cropinfra on prototyyppi alustasta, täällä teoria ja vaatimuksia
 EN: Internet of Things Platform for Smart Farming: Experiences and Lessons Learnt -SmartFarmNet alustan kokemuksia
@@ -102,10 +105,12 @@ EN: Wireless sensor networks for agriculture: The state-of-the-art in practice a
 
 "Currently, the demand by consumption of agricultural products could be predicted quantitatively, however, the variation of harvest and production by the change of farm's cultivated area, weather change, disease and insect damage etc. could not be predicted, so that the supply and demand of agricultural products has not been controlled properly. To overcome it, this paper designed the IoT-based monitoring system to analyze crop environment, and the method to improve the efficiency of decision making by analyzing harvest statistics. Therefore, this paper developed the decision support system to forecast agricultural production using IoT sensors." [http://doi.ieeecomputersociety.org/10.1109/CSE.2013.126]
 
+EN: Beecham Research: Overview of Smart Farming
 AEF [https://www.aef-online.org] EN: AEF Leaders Discuss Machine Communication Systems - ISOBUS-kehitystä (automaatio, hi-speed), kamerajärjestelmät, FMIS, Wireless in-field communication
 Valtra / AGCO
 IBM
-Intel
+EN: Intel Agriculture
+Microsoft EN: FarmBeats: AI & IoT for Agriculture ...
 Accenture [https://www.accenture.com/fi-en/insight-accenture-digital-agriculture-solutions] EN: Accenture Digital Agriculture Service; Digital Agriculture: Improving Profitability PDF - www.accenture.com
 CEMA
 365FarmNet https://www.365farmnet.com/en/
@@ -115,10 +120,15 @@ Internet of Food SIG (Internet Society) http://internet-of-food.org <04-09-2018 
 [http://www.agxplatform.com]	
 	"agX® is a Platform as a Service (PaaS) for the agricultural industry that provides the necessary geospatial infrastructure for a community of integrated precision ag products and services."
 
+Lisäksi kasvintuotannon ja maatalouden yrityksiin voi tutustua selaamalla Postscapes-sivuston Agtech-yrityslistaa [https://www.postscapes.com/agtech-companies/], jossa on...
 
 
 
 
+EN: What exactly is IoT technology? | The Yield
+Article Review: Use of Unmanned Aerial Systems...
+Ag Robotics hanke, haasteet täältä
+EU Project aims to ...
 
 
 

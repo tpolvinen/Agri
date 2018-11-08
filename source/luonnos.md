@@ -268,7 +268,7 @@ Maatalouden esineiden internet (AIoT)
 
 E-Agriculture Strategy Guide: Piloted in Asia-Pacific Countries [@faoEAgricultureStrategyGuide2016]
 
-*...ja miten AIoT on osa IIoTtä.*
+
 
 *isot AIoT-järjestelmäjulkaisut vuonna 2015*
 
@@ -279,10 +279,6 @@ http://www.fao.org/3/a-i6972e.pdf s.81 Application of the Internet of Things in 
 
 http://www.fao.org/search/en/?cx=018170620143701104933%3Aqq82jsfba7w&q=internet+of+thigs&cof=FORID%3A9&siteurl=www.fao.org%2Fsustainable-development-goals%2Fen%2F&ref=www.fao.org%2Ffaostat%2Fen%2F&ss=7619j5069331j18
 
-*Tao et al. - 2.3.2. Smart agriculture - In traditional agriculture, field information is obtained primarily through manual measuring experience or judgment, it takes lots of labor power and the data accuracy is low [11]. Nowadays with the help of IoT, the atmospheric, soil, and other information can be collected in real time and accurately for scientific predictions, precise control, scientific cultivation by using wireless sensor networks technology. Then operation will be performed to improve the efficiency and quality of agricultural production. For examples, by controlling micro-climate conditions, it will be possible to maximize the production of fruits and vegetables, as well as their qualities, and by monitoring soil moisture and trunk diameter in vineyards grape garden owners can control the amount of sugar in grapes and grapevine health. Moreover, IoT can be used in compost to enhance the control of humidity and temperature levels in alfalfa, hay, straw, etc. to prevent fungus and other microbial contaminants [77].*
-
-*ojhaWirelessSensorNetworks2015 s.81: Few potential IoT-based agricultural applications are, - Cost-effective agricultural supply chain management using RFID tags. – Remote monitoring of animal movement in open pastures. – Automated pest counting and remote reporting in farms. – Remote control and scheduling of pesticide sprays at an user-defined rate and time. – Leak detection and remote water flow control in large-scale agricultural field water supply*
-*ojhaWirelessSensorNetworks2015 s.81: The current state-of-the-art offers WSN-based solutions for irrigation management, crop disease prediction, vineyard precision farming mostly. Simplified, low cost, and scalable systems are in demand, specifically for the LMICs. At the same time, with the advent of modern technologies, there exist a lot of scope for innovating new and efficient systems. Specifically, low cost solution with features like autonomous operation, low maintenance is in demand. Overall, futuristic pre-planning is required for the success of these applications specifically to overcome the problems in global as well as LMICs*
 
 "There is a growing realization that using the Internet of things (IoT), big data and expert system will usher in precision farming which will lead the ‘agriculture 2.0’ (WorldBank, 2017) and the Internet of things (IoT) will be key to agricultural production." http://www.fao.org/e-agriculture/news/possibilities-internet-things-iot-agriculture [@faoPossibilitiesInternetThings2017]
 ->
@@ -545,7 +541,6 @@ Tässä luvussa kuvaillaan tutkimuksen tulokset. Kirjallisuuskatsauksen ja teema
 
 Tässä osiossa käsitellään kirjallisuuskatsauksen tulokset jaoteltuina seuraavasti: yleinen kuvailu, AIoT-ratkaisuissa käytettävät teknologiat, AIoT-ratkaisujen sovellusalueet, AIoT:in avoimet haasteet ja aineistossa esitetyt AIoT-arkkitehtuurit.
 
-*TÄHÄN KUVAILU AINEISTON VALINNAN HARKINNANVARAISUUDEN MAHDOLLISISTA VAIKUTUKSISTA, MITEN OMAT MIELIKUVAT OVAT VOINEET VAIKUTTAA TULOKSIIN*
 
 ### Yleinen kuvailu
 
@@ -1284,6 +1279,8 @@ II) Miten kasvintuotannossa hyödynnetään IoT-teknologioita?
 ## Oppiminen
 
 *"Omaa toimintaa, oppimista ja ammatillista kehittymistä arvioidaan monipuolisesti ja kriittisesti. Oman työnhallinnan ja tavoitteiden saavuttamisen analysointi on monipuolista ja yksityiskohtaista."*
+Menetelmiä piti opetella useista julkaisuista, myös Taanilan menetelmäblogi. :)
+Sisällönanalyysin ohjelman käyttö olisi helpottanut, mutta Excelillä sain aikaan tarpeeksi
 
 ## Luotettavuus
 
@@ -1367,16 +1364,6 @@ Hakulauseiden muodostukseen käytettiin kahta hakusanaryhmää, joista ensimmäi
 
 ![R heatmap.2:lla koodien havainnoista tuotettu lämpökartta ja dendogrammi](/Users/tatu/Reps/Agri-repot/Agri/Word/Files/Liite-Rheatmap2.png "Lämpökartta ja dendogrammi"){ width=100mm }
 
-
-## Liite __. Haastattelu1-teksti LUOTTAMUKSELLINEN
-
-## Liite __. Haastattelu2-teksti LUOTTAMUKSELLINEN
-
-## Liite __. Haastattelu3-teksti LUOTTAMUKSELLINEN
-
-## Liite __. Haastattelu4-teksti LUOTTAMUKSELLINEN
-
-## Liite __. Haastattelu5-teksti LUOTTAMUKSELLINEN
 
 
 ## Liite __. Koodien havainnot haastatteluaineistossa
