@@ -9,16 +9,8 @@ MITKÄ ovat keskeiset tulokset?
 
 Luettelo kuvaajista ja kaavioista
 
-Koska hyvää tapaa ei näytä olevan, täytyy tehdä lista Wordilla.
-1. Kuvateksti alkamaan pisteellä ja välillä markdown-tekstiin
-2. Wordissä valikosta Insert -> Caption...
-3. Label -kenttään "Kuva" ja OK
-4. Rivinvaihto pois
-5. Toistetaan 2. - 4. joka kuvalle (vastaavasti kuvioille myös)
-6. Valikosta Insert -> Index and Tables...
-7. "Caption label" = "Kuva" ja OK  (vastaavasti kuvioille myös)
-
-Lyhenteet ja termit
+SANASTO
+...
 
 # JOHDANTO
 
@@ -280,7 +272,7 @@ http://www.fao.org/3/a-i6972e.pdf s.81 Application of the Internet of Things in 
 http://www.fao.org/search/en/?cx=018170620143701104933%3Aqq82jsfba7w&q=internet+of+thigs&cof=FORID%3A9&siteurl=www.fao.org%2Fsustainable-development-goals%2Fen%2F&ref=www.fao.org%2Ffaostat%2Fen%2F&ss=7619j5069331j18
 
 
-"There is a growing realization that using the Internet of things (IoT), big data and expert system will usher in precision farming which will lead the ‘agriculture 2.0’ (WorldBank, 2017) and the Internet of things (IoT) will be key to agricultural production." http://www.fao.org/e-agriculture/news/possibilities-internet-things-iot-agriculture [@faoPossibilitiesInternetThings2017]
++ "There is a growing realization that using the Internet of things (IoT), big data and expert system will usher in precision farming which will lead the ‘agriculture 2.0’ (WorldBank, 2017) and the Internet of things (IoT) will be key to agricultural production." http://www.fao.org/e-agriculture/news/possibilities-internet-things-iot-agriculture [@faoPossibilitiesInternetThings2017]
 ->
 Agriculture 2.0: how the Internet of Things can revolutionize the farming sector
 http://blogs.worldbank.org/ic4d/agriculture-20-how-internet-things-can-revolutionize-farming-sector [@leeAgricultureHowInternet2017]
