@@ -469,7 +469,7 @@ Pyrin käytetyn menetelmän avulla tiivistämään aineistosta havaitut merkityk
 Tuloksia tarkasteltaessa on otettava huomioon, että koodien havaittu yleisyys ei välttämättä korreloi niiden merkittävyyden kanssa. Lisäksi suuressa osassa koodeja havaitsin vain muutamia esiintymiä, jolloin virheellisten havaintojen vaikutus koodin ja alikategorian luokittelussa voi johtaa analyysiä harhaan. Samoin on otettava huomioon tekijän kokemattomuus, mikä voi korostaa virheiden ja tekijän omien subjektiivisten näkemysten vaikutuksia. Erityisesti on vielä otettava huomioon koko tutkimusprosessin olevan yhden ensimmäistä kertaa asialla olevan tekijän tuotos. Tämä voi ilmetä työn kaikissa vaiheissa muun muassa yksipuolisuutena ja taipumuksena ennakko-odotusten mukailuun. Lisäksi koodien havaintojen laskennassa olisi voinut vertailun vuoksi käyttää myös sääntöä, jossa kahdessa tai kolmessa peräkkäisessä segmentissä havaittu koodi olisi laskettu yhdeksi havainnoksi. Jätin tämän laskumallin toteutuksesta opinnäytetyön laajuuden rajallisuuden vuoksi ja jätän sen mahdollisen jatkoanalyysin aiheeksi.
 
 
-##### Sisällönanalyysin menetelmien käyttö
+#### Sisällönanalyysin menetelmien käyttö
 
 Sisällönanalyysi eteni aineiston koodauksen ja kategorisoinnin kautta taulukointiin, josta etenin analyysiin ja jonka perusteella tein johtopäätökset [ks. @tuomiLaadullinenTutkimusJa2018, 104 - 107)].
 Toteutin sisällönanalyysin lukemalla haastatteluaineiston huolellisesti, merkitsemällä taulukkoon havaitut merkitykselliset ilmaisut koodeina, kategorisoimalla koodit ja analysoimalla saatuja tuloksia. Samalla käytin saamiani tuloksia haastatteluaineistosta tehtyjen aikaisempien havaintojen ja päätelmien tarkistamisessa sekä uusien asiayhteyksien etsimisessä.
@@ -516,7 +516,7 @@ Haastattelujen yhteneväisyyksien ja eroavaisuuksien tulkintaa varten taulukoin 
 Vertailin koodien, alikategorioiden ja kategorioiden mukaan tehtyjä havaintoja myös koko haastatteluaineistossa esiintyviin asiasanoihin. Asiasanojen määrien perusteella järjesteltyä asiasanalistaa voidaan vertailla yleisimpiin koodeihin ja tarkistella ovatko molemmilla metodeilla tehdyt havainnot samansuuntaisia vai löytyykö niiden väliltä selkeitä eroja.
 
 
-##### Haastatteluaineistosta johtopäätösten vetäminen analyysin perusteella
+#### Johtopäätösten vetäminen haastatteluaineistosta analyysin perusteella
 
 Kategorioiden ja teemojen määrien kaavioiden analysoinnin avulla voidaan vetää johtopäätöksiä  haastattelujen yleisestä luonteesta ja keskeisistä asiasisältöjen eroista. Esimerkiksi keskittyivätkö haastateltavat muutamaan ydinaiheeseen vai laajempiin asiakokonaisuuksien kuvailuun ja mitkä olivat kunkin haastattelun keskeiset asiasisällöt. Lisäksi voidaan havainnoida mihin asiasisältöihin keskityttiin sekä haastattelukohtaisesti että koko haastatteluaineistossa.
 
