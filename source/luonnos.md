@@ -279,7 +279,7 @@ Todennäköisesti myös kasvintuotannossa tullaan ottamaan käyttöön muilla te
 Kokonaisuudessaan maatalouden alalla on tiedonkäsittelyssä, tuotantoprosessien integroinnissa ja älykkäissä digitaalisissa ekosysteemeissä (SDE, engl. Smart Digital Ecosystem) vielä huomattava määrä käyttämätöntä potentiaalia. [@ulrichFarmingFarmGates2016] 
 
 
-# OPINNÄYTETYÖN TARKOITUS, TAVOITE, RAJAUKSET, TUTKIMUSKYSYMYKSET JA TUTKIMUSMENETELMÄT
+# OPINNÄYTETYÖN TARKOITUS, TAVOITE, RAJAUKSET, TUTKIMUSKYSYMYKSET JA -MENETELMÄT
 
 Tässä luvussa kuvaillaan opinnäytetyön tutkimuksen tarkoitus, tavoitteet, tutkimusongelma ja -kysymykset ja menetelmät. Opinnäytetyön aihepiirinä on IoT:in kasvintuotannon sovelluksiin liittyvät tutkimukset, julkaisut ja teknologiasovellukset. Opinnäytetyössä on toteutettu narratiivinen kirjallisuuskatsaus sekä haastateltu asiaan perehtyneitä tutkijoita ja yritysten edustajia. 
 
@@ -1326,33 +1326,31 @@ Tähän asti useiden AIoT-teknologioiden käyttöönotto on suurelta osin rajoit
 
 # POHDINTA
 
-*"Johtopäätökset ovat loogisia, hyvin perusteltuja ja kattavat tutkimuksen / selvityksen kaikki osa-alueet. Tietoperusta, tulososa ja johtopäätökset muodostavat asiantuntijamaisen kokonaisuuden.  Jatkotutkimus/-selvitysaiheet ovat erittäin hyviä ja perusteltuja."*
-*Johtopäätökset perustellaan teoriataustasta (...?) Teoriataustan perusteella voi olla tunteita, julistuksia, luokittelua.*
 
-**OMA:** Lopulta AIoT-teknologiat tulevat arkipäiväistymään ja "häviämään" osaksi kasvintuotannon ja maatalouden tuotantoketjun automaatiota. Tähän on kuitenkin vielä pitkä matka nykyisestä tilanteesta, jossa ollaan vasta AIoT-teknologia-aallon alkuvaiheessa ja etsitään parhaita ratkaisuita.
 
 ## Tavoitteiden saavuttaminen
 
+
+
 ## Oppiminen
 
-*"Omaa toimintaa, oppimista ja ammatillista kehittymistä arvioidaan monipuolisesti ja kriittisesti. Oman työnhallinnan ja tavoitteiden saavuttamisen analysointi on monipuolista ja yksityiskohtaista."*
-Menetelmiä piti opetella useista julkaisuista, myös Taanilan menetelmäblogi. :)
-Sisällönanalyysin ohjelman käyttö olisi helpottanut, mutta Excelillä sain aikaan tarpeeksi
+
+
+## Johtopäätökset
+
+
 
 ## Luotettavuus
 
-*"Tutkimuksen / selvityksen luotettavuutta ja eettisten periaatteiden noudattamista on arvioitu erinomaisesti pohtimalla sitä laajasti ja kriittisesti koko tutkimusprosessin kannalta."*
 
-Vaikka harmaan kirjallisuuden artikkelit eivät ole yhtä luotettavia, niiden voidaan katsoa olevan julkisen tarkastelun alaisia ja näin ollen kohtuullisen luotettavia. Mielestäni harmaan kirjallisuuden aineisto rikastutti tietopohjaa.
 
 ## Hyödynnettävyys
 
+
+
 ## Jatkotutkimus
 
-Tutkimus on painottunut haastattelujen osalta peltotuotantoon. 
-Jatkotutkimuksessa puutarha- ja kasvihuonetuotannon asiantuntijoiden haastattelu olisi suositeltavaa kasvintuotannon kentän IoT-ratkaisuiden kokonaiskäsityksen syventämiseksi.
 
-*Kirjallisuuskatsauksessa käsiteltiin hyvin rajattu määrä löydetystä kirjallisuudesta. Vaikka katsauksen tulokset ovat oman arvioni mukaan kattavat niin syvempi kirjallisuuskatsaus voisi olla luotettavampi.*
 
 # LIITTEET
 
