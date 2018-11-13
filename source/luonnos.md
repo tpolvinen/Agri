@@ -1,3 +1,106 @@
+<!-- MarkdownTOC -->
+
+- JOHDANTO
+    - Opinnäytetyön rakenne
+    - Muita otsikkoja!
+- ESINEIDEN INTERNET KASVINTUOTANNOSSA
+    - Kasvintuotannon teknologiakehitys
+    - Internet of Things
+        - Industrial Internet of Things
+        - Agricultural Internet of Things
+- OPINNÄYTETYÖN TARKOITUS, TAVOITE, RAJAUKSET, TUTKIMUSKYSYMYKSET JA -MENETELMÄT
+    - Tutkimuskysymykset
+    - Tutkimusmenetelmien valinta
+    - Kirjallisuuskatsaus tutkimusmenetelmänä
+    - Kuvaileva kirjallisuuskatsaus tutkimusmenetelmänä
+    - Teemahaastattelu tutkimusmenetelmänä
+    - Sisällönanalyysi tutkimusmenetelmänä
+- AINEISTO JA TUTKIMUKSEN TOTEUTUS
+    - Kuvailevan kirjallisuuskatsauksen toteutus
+    - Teemahaastattelujen toteutus
+        - Haastateltavien valinta
+        - Haastattelujen toteutukset
+        - Haastatteluaineiston analyysimenetelmä
+            - Haastatteluaineiston analyysi sisällönanalyysin menetelmillä
+            - Sisällönanalyysin menetelmien käyttö
+                - Haastatteluaineiston koodaus ja koodien kategorisointi
+                - Haastatteluaineiston koodien taulukointi
+                - Haastatteluaineiston analysointi taulukoitujen tietojen avulla
+            - Johtopäätösten vetäminen haastatteluaineistosta analyysin perusteella
+- TUTKIMUSTULOKSET
+    - Kirjallisuuskatsauksen tulokset
+        - Yleinen kuvailu
+        - AIoT:in teknologiat
+        - AIoT:in sovellusalueet
+            - Valvonta
+            - Kontrollointi
+            - Logistiikka
+            - Ennustus
+        - AIoT:in avoimet haasteet
+            - Standardisaation haasteet
+            - Tieto- ja kyberturvallisuuden haasteet
+            - Laitteiden energiatehokkuuden haasteet
+            - Laitteiden kestävyyden haasteet
+            - Langattoman tietoliikenteen haasteet
+            - Analytiikkaratkaisuiden ja tietopalveluiden haasteet
+            - AIoT-ekosysteemin laajentamisen haasteet
+            - Muut tekniset haasteet
+            - Muut haasteet
+        - Esitetyt AIoT-arkkitehtuurit
+    - Haastattelujen tulokset
+        - Haastatteluaineiston sisällönanalyysin tulokset teemoittain
+            - Tietojenkäsittely
+            - Tietojärjestelmät, tietoliikenne ja alustaratkaisut
+            - Teknologioiden omaksunta
+            - Toimintaympäristön muutos, maatalous toimintaympäristönä ja maataloustuotannon data
+            - Teknologiat, teknologioiden sovellukset ja standardit
+            - Maataloustuotannon laitteet ja maataloustuotannon tehostaminen
+            - Tuotteet ja teknologiaratkaisut
+            - Sisällönanalyysiin taulukoinnin havainnot
+        - Haastatteluaineiston kuvaus
+            - AIoT:in tilanne yleensä
+            - Digitalisaatioharppauksen alku
+            - AIoT-teknologioiden omaksumisen tilanne Suomessa
+            - Laitevalmistajien yhteistyö
+            - Kokonaisvaltainen maatilan tiedonhallintajärjestelmä \(FMIS\)
+            - Datan käsittely
+                - Datan liikkuminen tuotantoketjussa
+                - Datan jakaminen ja julkaisu
+                - Datan omistajuus
+            - AIoT:in vaikutukset
+            - Ruokaturva
+            - AIoT:in haasteet
+                - Tietoliikenteen ja tietoturvan haasteet
+                - Elinkaarihaasteet
+                - Integraatio- ja alustahaasteet
+                - Käytettävyyshaasteet
+                - Asiantuntijuushaaste
+                - Omaksumisen haasteita
+            - Tavoitetila ja tulevaisuus
+    - Tutkimustulosten yhteenveto
+        - Kirjallisuuskatsauksen ja haastattelujen tulokset
+        - Tutkimuskysymyksien vastaukset
+- POHDINTA
+    - Tavoitteiden saavuttaminen
+    - Oppiminen
+    - Johtopäätökset
+    - Luotettavuus
+    - Hyödynnettävyys
+    - Jatkotutkimus
+- LIITTEET
+    - Liite __. IoT:in historia -infografikka
+    - Liite __. Hakulauseiden muodostus
+    - Liite __. Koodien havainnot taulukoituna
+    - Liite __. Havaintojen määrät kategorioittain
+    - Liite __. Tekniikka-kategorian havainnot
+    - Liite __. Maataloustuotanto-kategorian havainnot
+    - Liite __. Toimintaympäristö-kategorian havainnot
+    - Liite __. Sanamäärät
+    - Liite __. R heatmap.2
+    - Liite __. Koodien havainnot haastatteluaineistossa
+- LÄHTEET
+
+<!-- /MarkdownTOC -->
 
 
 TIIVISTELMÄ
@@ -50,6 +153,8 @@ laatuerä
 EN: How to feed 9 billion people? - News - IoF2020
 
 ## Opinnäytetyön rakenne
+
+## Muita otsikkoja!
 (Keskeiset käsitteet?)
 
 *1 - 2 sivua - Kirjoitetaan kun muut luvut ovat valmiit.*
@@ -301,16 +406,16 @@ IoT-ratkaisuna olen tässä opinnäytetyössä lähtökohtaisesti pitänyt järj
 
 Tutkimuskysymyksiä on kaksi, joissa molemmissa on alakysymyksiä:
 
-I) Millaista tutkimusta IoT-teknologioiden soveltamisesta kasvintuotantoon on julkaistu?
+1) Millaista tutkimusta IoT-teknologioiden soveltamisesta kasvintuotantoon on julkaistu?
 
-* Millaisia teknologiasovelluksia tutkimuksissa on esitelty?
-* Minkä tyyppiset IoT-sovellukset tulevat tutkimusmateriaalissa selkeimmin esille, eli millaiset sovellukset ovat viime aikaisessa tutkimuksessa keskeisimpiä? 
+1.1 Millaisia teknologiasovelluksia tutkimuksissa on esitelty?
+1.2 Minkä tyyppiset IoT-sovellukset tulevat tutkimusmateriaalissa selkeimmin esille, eli millaiset sovellukset ovat viime aikaisessa tutkimuksessa keskeisimpiä? 
 
-II) Miten kasvintuotannossa hyödynnetään IoT-teknologioita?
+2) Miten kasvintuotannossa hyödynnetään IoT-teknologioita?
 
-* Millainen IoT-ratkaisuiden yleistilanne kasvintuotannossa on tällä hetkellä?
-* Millaisia etuja ja hyötyjä IoT-ratkaisut voivat tarjota kasvintuotannossa?
-* Mitkä ovat kasvintuotannon IoT-ratkaisuiden keskeiset avoimet haasteet?
+2.1 Millainen IoT-ratkaisuiden yleistilanne kasvintuotannossa on tällä hetkellä?
+2.2 Millaisia etuja ja hyötyjä IoT-ratkaisut voivat tarjota kasvintuotannossa?
+2.3 Mitkä ovat kasvintuotannon IoT-ratkaisuiden keskeiset avoimet haasteet?
 
 
 ## Tutkimusmenetelmien valinta
@@ -1249,7 +1354,7 @@ Lopulta merkitsevimmän kehitysaskeleen ottavat viljelijät, jotka omaksuvat kä
 
 ### Tutkimuskysymyksien vastaukset
 
-**Tutkimuskysymys I: Millaista tutkimusta IoT-teknologioiden soveltamisesta kasvintuotantoon on julkaistu?** Suurin osa aineiston kirjallisuuskatsauksissa käsitellyistä ja omassa tiedonhaussa löydetyistä julkaisuista käsittelee yksittäisiä AIoT-teknologiaratkaisuita, joista valtaosa pyrkii tarkkailemaan ympäristöolosuhteita tai muita kohteita ja välittämään anturilaitteilta saatua tietoa käyttäjille. Osassa julkaisuita pyritään tarkkailun lisäksi kontrolloimaan toimilaitteita tai robotteja, osan esitellessä päätöksenteon tuen ja ennustamisen järjestelmiä. Osa julkaisuista puolestaan käsittelee logistiikan IoT-ratkaisuita. Näiden lisäksi osassa tutkimuksia pyritään kehittämään erilaisia tietopalveluiden alustaratkaisuita kasvintuotannon AIoT-ratkaisuiden tuottaman datan keräämiseen, joissain tapauksissa myös integrointiin kolmansien osapuolten tuottaman tiedon kanssa. Suurin osa julkaisuista on Aasiasta, joista useissa on erityisenä motivaationa mahdollisimman edullisten ja yleisimpiä teknologioita soveltavien AIoT-ratkaisujen kehittäminen pienviljelijöiden käyttöön, länsimaisen tutkimuksen keskittyessä enemmän uusien teknologioiden sovelluksiin.
+**Tutkimuskysymys 1: Millaista tutkimusta IoT-teknologioiden soveltamisesta kasvintuotantoon on julkaistu?** Suurin osa aineiston kirjallisuuskatsauksissa käsitellyistä ja omassa tiedonhaussa löydetyistä julkaisuista käsittelee yksittäisiä AIoT-teknologiaratkaisuita, joista valtaosa pyrkii tarkkailemaan ympäristöolosuhteita tai muita kohteita ja välittämään anturilaitteilta saatua tietoa käyttäjille. Osassa julkaisuita pyritään tarkkailun lisäksi kontrolloimaan toimilaitteita tai robotteja, osan esitellessä päätöksenteon tuen ja ennustamisen järjestelmiä. Osa julkaisuista puolestaan käsittelee logistiikan IoT-ratkaisuita. Näiden lisäksi osassa tutkimuksia pyritään kehittämään erilaisia tietopalveluiden alustaratkaisuita kasvintuotannon AIoT-ratkaisuiden tuottaman datan keräämiseen, joissain tapauksissa myös integrointiin kolmansien osapuolten tuottaman tiedon kanssa. Suurin osa julkaisuista on Aasiasta, joista useissa on erityisenä motivaationa mahdollisimman edullisten ja yleisimpiä teknologioita soveltavien AIoT-ratkaisujen kehittäminen pienviljelijöiden käyttöön, länsimaisen tutkimuksen keskittyessä enemmän uusien teknologioiden sovelluksiin.
 
 
 **Alakysymys 1.1: Millaisia teknologiasovelluksia tutkimuksissa on esitelty?** Keskeisiä IoT:in mahdollistavia teknologioita ovat sulautetut laitteet, tunnistus-, anturointi- ja tietoliikennetekniikat (ks. anturi- ja aktuaattoriverkot) sekä väliohjelmistot ja tietopalveluiden alustaratkaisut, mikä on nähtävissä useissa esitetyissä IoT-arkkitehtuurimalleissa. RFID-tunnisteet ovat tunnistusteknologioista keskeisimpiä. RFID:tä ja muita NFC-ratkaisuita käytetään erityisesti tuotteiden seurannan ratkaisuissa. Langattomat anturi- ja toimilaiteverkot (WSN ja WSAN) ovat keskeisessä osassa IoT-paradigman mukaista mitatun digitaalisen tiedon tuotantoa ja ympäristöön vaikuttamista. Useissa AIoT-sovelluksissa anturiverkot mahdollistavat ympäristön tai laitteiden monitoroinnin tietoliikennetoiminnoilla varustetuilla anturilaitteilla. Tämä puolestaan mahdollistaa anturidatan siirtämisen digitaalisena tietona verkon yli tietovarastoon analysoitavaksi. Samoin toimilaiteverkoilla puolestaan voidaan käyttää verkkoon kytkettyjä toimilaitteita usein analytiikan perusteella ympäristöön vaikuttamiseksi. AIoT-ratkaisuissa käytettävistä anturiteknologioista yleisimpiä ovat ilmanlaatua, lämpötilaa, kosteutta, fysikokemiallisia ominaisuuksia ja säteilyä mittaavat laitteet. 
@@ -1274,7 +1379,7 @@ Logistiikan ratkaisuissa puolestaan pyritään tehostamaan jakelun toimintaa, tu
 Päätöksenteon tuen ratkaisuissa mallinnuksen ja älykkäiden algoritmien avulla voidaan kerätyn datan perusteella muodostaa näkemyksiä tuotannon prosessien tilasta, tehdä sekä päätelmiä vallitsevasta tilanteesta että ennusteita tulevista mahdollisuuksista. Useimmat päätöksenteon tuen ratkaisut laativat ympäristöolosuhteiden ja tuotannon toiminnan ennusteita. Kasvien tarvitseman kastelun ja lannoitepanosten määrän ennusteet yhdessä kasvien kasvuennusteiden kanssa ovat yleisimpiä yksittäisiä ennusteiden aiheita, satoennusteiden ollessa harvinaisempia. Osassa ratkaisuita pyritään tuottamaan aikaisia varoituksia satokasveihin kohdistuvista tautipaineista ja hyönteisinvaasioista. Näiden lisäksi voidaan kasvien reaktioista tehtyjen havaintojen perusteella lähettää kontrollikäskyjä esimerkiksi kasvihuoneen automatiikalle.
 
 
-**Tutkimuskysymys II: Miten kasvintuotannossa hyödynnetään IoT-teknologioita?** Suurin osa kasvintuotannon AIoT-järjestelmistä keskittyy mittausdatan tuottamiseen, kontrolloinnin järjestelmien ollessa harvinaisempia. Yleensä AIoT-järjestelmissä tarkkaillaan viljely-ympäristön muuttujia kuten ilman lämpötilaa, ilmankosteutta, maaperän kosteutta ja auringonsäteilyä. Kontrolloinnin järjestelmissä käytetään useiten toimilaitteita kastelujärjestelmien automatiikassa, kasvihuoneiden ilmastoinnissa ja logistiikassa. Viime aikoina tarkkailun järjestelmiin on lisätty analytiikan toiminnallisuuksia päätöksenteon tukemiseksi ja hallinnollisiin tarpeisiin.
+**Tutkimuskysymys 2: Miten kasvintuotannossa hyödynnetään IoT-teknologioita?** Suurin osa kasvintuotannon AIoT-järjestelmistä keskittyy mittausdatan tuottamiseen, kontrolloinnin järjestelmien ollessa harvinaisempia. Yleensä AIoT-järjestelmissä tarkkaillaan viljely-ympäristön muuttujia kuten ilman lämpötilaa, ilmankosteutta, maaperän kosteutta ja auringonsäteilyä. Kontrolloinnin järjestelmissä käytetään useiten toimilaitteita kastelujärjestelmien automatiikassa, kasvihuoneiden ilmastoinnissa ja logistiikassa. Viime aikoina tarkkailun järjestelmiin on lisätty analytiikan toiminnallisuuksia päätöksenteon tukemiseksi ja hallinnollisiin tarpeisiin.
 
 Maatilan koneet ovat muuttumassa yhä älykkäämmiksi ja ne ovat kytkeytymässä älylaitteiden verkoiksi. Koneet kehittyvät autonomisemmiksi ensin operatiivisen automaation avulla ja tulevaisuudessa koneet liittyvät ruokatuotannon ja tuotantoketjujen verkostoihin. Autonomiset peltotuotannon robotit eivät ole vielä yleistyneet, mutta niiden kehitys on nopeaa. Kasvihuonetuotannon automatiikka ja robotiikka on kehittynyt peltotuotannon vastaavia nopeammin, lähes samassa tahdissa muiden teollisuudenalojen vastaavien kanssa.
 
@@ -1360,6 +1465,11 @@ Opinnäytetyön aikana opitut työskentelytavat tulevat vastaisuudessa toimimaan
 
 ## Johtopäätökset
 
+AIoT:in teknologioiden voidaan odottaa yleistyvän voimakkaasti lähivuosien aikana. AIoT:in teknologioiden avulla voidaan saavuttaa parempaa kasvintuotantoa, tuotantoketjun läpinäkyvyyttä ja uusia liiketoimintamalleja. Samalla voidaan tuottaa suurempia satoja aikaisempia alhaisemmilla tuotantokustannuksilla, pienemmillä tuotantopanoksilla ja suuremmalla työntekijäkohtaisella hehtaaritehokkuudella, muuttaen samalla viljelytyön luonnetta. AIoT:in teknologioiden avulla voidaan edistää maatalouden siirtymistä seuraavaan "versioon", jossa täsmäviljelytekniikoista kehittyy älykkään maanviljelyn työkaluja samalla kun anturi-, toimilaite-, robotiikka-, tietoliikenne- ja tietojenkäsittelyteknologiat mahdollistavat tuotantokoneiden yhdistymisen ensin tilakohtaisiksi järjestelmäkokonaisuuksiksi, minkä jälkeen tilakohtaiset järjestelmät voivat integroitua osaksi kasvavaa ruoantuotannon ja -kaupan järjestelmien verkostoa. Tässä verkostossa voitaisiin jakaa ja vaihtaa tietoa kaikkien tuotantoketjun sidosryhmien kesken, mukaan lukien kuluttajat, poliittiset päättäjät ja tutkijat. Mitatun digitaalisen tuotantotapatiedon avulla voitaisiin myös parantaa ruoan turvallisuutta ja ruokaturvaa. On visioitu näiden järjestelmien muodostamasta globaalista maataloustuotannon järjestelmistä tai verkostoista, jotka mahdollistaisivat tosiaikaiset markkinat lähes kaikelle maataloustuotannolle. 
+
+AIoT-ratkaisuiden kehitys ja omaksunta ovat kuitenkin vielä alkuvaiheessa, jossa ollaan vasta etsimässä alalle parhaiten sopivia ratkaisuita. Suurin osa ratkaisuista kerää anturilaitteiden tuottamaa tietoa, automatisoitujen ja keinoälyn avustamien viljelytoimenpiteiden tai suositusten ollessa harvinaisia. Tämän lisäksi suuri osa nykyisistä AIoT-ratkaisuista on vielä aikaisten omaksujien pienen joukon käytössä, ratkaisut ovat siiloutuneet omille toimi- tai tuotealueilleen ja data- ja järjestelmäintegraatio on vaikeaa. Kenttä on hyvin pirstaleinen ja toimijoiden välinen yhteistyö on ollut harvinaista viime vuosiin asti. AIoT:in laajamittaisen omaksumisen tiellä on vielä useita avoimia haasteita, samoin kuin sovellettavat teknologiat ovat suurelta osin kypsymättömiä ja liian kalliita viljelijöiden omaksuttaviksi. Kohdattavia avoimia haasteita on niin teknisiä kuin yhteiskunnallisiakin, unohtamatta tieto- ja kyberturvallisuuden sekä liiketoiminnan taloudellisten realiteettien asettamia vaatimuksia. Ruoantuotannon tulee kuitenkin tehostua huomattavasti tulevien vuosikymmenien aikana. AIoT-teknologiat voivat auttaa tähän haasteeseen vastaamisessa.
+
+Globaalisti AIoT-ratkaisuiden markkinat ovat avautumassa ja sekä kysyntä että tarjonta ovat huomattavassa kasvussa. Myös Suomen markkinoilla AIoT-ratkaisuille on ilmennyt selkeää kysyntää ja niiden hyödyt ovat olleet ilmeisiä niitä kokeilleille viljelijöille. AIoT-ratkaisujen kehittämiseen tarvitaan eri alojen osaajia, joilla on paitsi oman alansa osaamista, myös ymmärrystä maatalouden alan toiminnasta. IT-alan osaajille ja yrityksille, jotka ovat perehtyneet IoT-teknologioihin ja jotka ymmärtävät maatalouden tarpeita voi odottaa huomattavaa kysyntää ja kasvun mahdollisuuksia lähivuosien aikana.
 
 
 ## Luotettavuus
