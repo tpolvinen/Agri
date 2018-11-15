@@ -104,11 +104,17 @@
 
 TIIVISTELMÄ
 
-3 kappaletta:
-MIKSI tutkittiin?
-MITEN tutkimus tehtiin?
-MITKÄ ovat keskeiset tulokset?
+Kasvintuotannon ja maatalouden IoT-sovelluksia ei tunneta laajalti maatalousalan ulkopuolella, mutta niillä tulee todennäköisesti olemaan keskeinen asema sekä globaalin ruokatuotannon haasteisiin vastaamisessa että suomalaisen kasvintuotannon kannattavuuden kehittämisessä. Tällä hetkellä on meneillään maatalouden IoT:in teknologia-aallon alkuvaihe, jossa erilaisia ratkaisuita kehitetään ja tuodaan markkinoille nopealla tahdilla. 
 
+Tämän opinnäytetyön tavoitteena on antaa lukijalle ajankohtainen yleiskuva kasvintuotannossa käytettäviin IoT:in teknologiasovelluksista ja niiden tutkimuksesta. Tällä opinnäytetyöllä ei ole toimeksiantajaa. Opinnäytetyössä on toteutettu narratiivinen kirjallisuuskatsaus ja viisi asiantuntijoiden teemahaastattelua. Kirjallisuuskatsauksessa on keskitytty pääasiassa sateenvarjokatsauksen omaisesti aiheesta tehtyihin kirjallisuuskatsauksiin. Teemahaastatteluista saatu aineisto on analysoitu sisällönanalyysin keinoin, joilla on pyritty tukemaan aineiston laadullista kuvailua ja havainnointia.
+
+Tuloksena saadun yleiskuvan mukaan lähivuosina voidaan odottaa IoT-teknologioiden paikoittain voimakastakin yleistymistä kasvintuotannon käytössä. Suuren mittakaavan käyttöönottojen kautta näillä teknologioilla on selkeä potentiaali tuottaa huomattavia etuja tehokkaan ja kestävän maanviljelyn muodossa, varmistamalla ruokaturvaa pienempien ympäristövaikutusten kautta sekä takaamalla terveellinen ja turvallinen ruoantuotanto. Etujen saavuttamiseksi IoT-teknologioiden avulla voidaan tehostaa tuotantoa, välttää satotappioita, parantaa viljelysuunnittelua ja tukea viljelijän päätöksentekoa. Lisäksi niiden avulla voidaan mahdollistaa uusia liiketoimintamalleja ja muuttaa viljelijän työnkuvaa. IoT-ratkaisut tulevat olemaan avainasemassa tulevaisuuden maataloustuotannossa, jossa ne mahdollistavat siirtymisen mitatun digitaalisen tiedon perusteella toimivaan tuotantoon. Näiden uusien teknologioiden laajan omaksumisen edessä on kuitenkin huomattavia haasteita. 
+
+Opinnäytetyötä voidaan hyödyntää tietolähteenä ja tiedonhaun lähtökohtana kasvintuotannossa käytettävien IoT:in teknologiasovelluksien sekä niitä käsittelevien tutkimusten kartoituksessa. Lisäksi opinnäytetyössä esitettyjä tietoja voidaan hyödyntää pohdittaessa jatkotutkimuksen aiheita ja tarpeellisuutta.
+
+ASIASANAT
+
+esineiden internet, IoT, teollinen internet, IIoT, kasvintuotanto, maatalous
 
 SANASTO
 satotasomittaus
@@ -158,12 +164,12 @@ AIoT-sovelluksien laajamittaisen käyttöönoton edessä on kuitenkin useita avo
 
 Meneillään on uuden maatalouden vallankumouksen ja AIoT:in teknologia-aallon alkuvaihe, jossa uusia AIoT-teknologioita kehitetään, tuodaan markkinoille ja otetaan käyttöön huomattavalla nopeudella. Maatalouden digitalisaation ja AIoT-sovelluksien potentiaalisesta vaikuttavuudesta huolimatta vaikuttaa siltä, että maatalouden teknologiakehityksen näkyvyys alan ulkopuolella on vähäistä eikä suuri osa esimerkiksi IT-alalla toimivista asiantuntijoista ole tietoisia alan tarjoamista haasteista ja mahdollisuuksista.
 
-Samalla kun AIoT:in yleisestä näkyvyys on vähäistä, myös aihetta käsittelevät opinnäytetyöt ovat harvinaisia. Esimerkiksi Theseus-tietokannasta (http://www.theseus.fi) on löytynyt tätä kirjoitettaessa vain pari aihetta sivuavaa julkaisua. Tällä kartoittavalla yleiskatsauksella pyritään paikkaamaan tätä puutetta ja avaamaan näkymiä AIoT:in ja kasvintuotannon teknologiakehityksen tilanteeseen. Opinnäytetyötä voidaan hyödyntää tietolähteenä kasvintuotannossa käytettävien IoT:in teknologiasovelluksien sekä niitä käsittelevien tutkimusten tarkemmassa kartoituksessa. Lisäksi opinnäytetyössä esitettyjä tietoja voidaan hyödyntää pohdittaessa jatkotutkimuksen aiheita ja tarpeellisuutta.
+Samalla kun AIoT:in yleisestä näkyvyys on vähäistä, myös aihetta käsittelevät opinnäytetyöt ovat harvinaisia. Esimerkiksi Theseus-tietokannasta (http://www.theseus.fi) on löytynyt tätä kirjoitettaessa vain pari aihetta sivuavaa julkaisua. Tällä kartoittavalla yleiskatsauksella pyritään paikkaamaan tätä puutetta ja avaamaan näkymiä AIoT:in ja kasvintuotannon teknologiakehityksen tilanteeseen. Opinnäytetyötä voidaan hyödyntää tietolähteenä ja tiedonhaun lähtökohtana kasvintuotannossa käytettävien IoT:in teknologiasovelluksien sekä niitä käsittelevien tutkimusten kartoituksessa. Lisäksi opinnäytetyössä esitettyjä tietoja voidaan hyödyntää pohdittaessa jatkotutkimuksen aiheita ja tarpeellisuutta.
 
 
 ## Opinnäytetyön rakenne
 
-Tämä on laadullisin menetelmin toteutettu tutkimustyyppinen opinnäytetyö, jonka tavoitteena on tuottaa ajankohtainen kartoittava katsaus kasvintuotannossa sovellettavien IoT-ratkaisuiden tilanteesta ja niiden tarjoamista mahdollisuuksista. Työn tavoitteena on antaa lukijalle ajankohtainen yleiskuva kasvintuotannossa käytettäviin IoT:in teknologiasovelluksiin ja niiden tutkimukseen. Opinnäytetyössä on toteutettu narratiivinen kirjallisuuskatsaus sekä haastateltu asiaan perehtyneitä tutkijoita ja yritysten edustajia. Opinnäytetyö koostuu johdannosta, taustoittavasta teoriaosasta, tutkimusosasta ja pohdinnasta.
+Tämä on laadullisin menetelmin toteutettu tutkimustyyppinen opinnäytetyö, jonka tavoitteena on tuottaa ajankohtainen kartoittava katsaus kasvintuotannossa sovellettavien IoT-ratkaisuiden tilanteesta ja niiden tarjoamista mahdollisuuksista. Työn tavoitteena on antaa lukijalle ajankohtainen yleiskuva kasvintuotannossa käytettävistä IoT:in teknologiasovelluksista ja niiden tutkimuksesta. Opinnäytetyössä on toteutettu narratiivinen kirjallisuuskatsaus sekä haastateltu asiaan perehtyneitä tutkijoita ja yritysten edustajia. Opinnäytetyö koostuu johdannosta, taustoittavasta teoriaosasta, tutkimusosasta ja pohdinnasta.
 
 Teoriaosa pitää sisällään luvun "Esineiden internet kasvintuotannossa", jossa kuvaillaan kasvintuotannon IoT:in taustaa ja sen osailmiöitä. Osailmiöinä käsitellään kasvintuotannon teknologiakehitystä, IoT:iä, teollisen esineiden internetiä (IIoT, engl. Industrial Internet of Things) ja AIoT:iä, joiden taustaa, määrittelyä, historiaa ja nykytilaa kuvaillaan lyhyesti. Tutkimusosa puolestaan pitää sisällään luvut "Opinnäytetyön tarkoitus, tavoite, rajaukset, tutkimuskysymykset ja -menetelmät", "Aineisto ja tutkimuksen toteutus" sekä "Tutkimustulokset". 
 
@@ -384,7 +390,7 @@ Tässä luvussa kuvaillaan opinnäytetyön tutkimuksen tarkoitus, tavoitteet, tu
 
 Opinnäytetyön tarkoituksena on tuottaa ajankohtainen kartoittava katsaus [ks. @hirsjarviTutkiJaKirjoita2009, 134-135] kasvintuotannossa sovellettavien IoT-ratkaisuiden tilanteesta ja niiden tarjoamista mahdollisuuksista. 
 
-Opinnäytetyön tavoitteena on antaa lukijalle ajankohtainen yleiskuva kasvintuotannossa käytettäviin IoT:in teknologiasovelluksista ja niiden tutkimuksesta. Lisäksi opinnäytetyö voi aiheeseen tarkemmin tutustuttaessa toimia lähtökohtana ja lähdeviitteiden kokoelmana lukijan omalle tiedonhaulle.
+Opinnäytetyön tavoitteena on antaa lukijalle ajankohtainen yleiskuva kasvintuotannossa käytettävistä IoT:in teknologiasovelluksista ja niiden tutkimuksesta. Lisäksi opinnäytetyö voi aiheeseen tarkemmin tutustuttaessa toimia lähtökohtana ja lähdeviitteiden kokoelmana lukijan omalle tiedonhaulle esimerkiksi pohdittaessa jatkotutkimuksen aiheita ja tarpeellisuutta.
 
 Opinnäytetyön keskeinen tutkimusongelma on kasvintuotannon IoT-ratkaisuiden yleinen tuntemattomuus alan toimijoiden ulkopuolella, minkä lisäksi aihetta sivuavia opinnäytetöitä on julkaistu vain muutamia. Pyrin vastaamaan tutkimuskysymyksiin analysoimalla kuvailevan kirjallisuuskatsauksen ja asiantuntijoiden teemahaastattelujen avulla hankkimaani aineistoa. Käyttämällä tutkimusmenelminä sekä teemahaastatteluja että kirjallisuuskatsausta pyrin lisäämään ymmärrystä tutkittavasta ilmiöstä eri lähestymistapoja käyttäen. 
 
@@ -771,7 +777,7 @@ Tässä alaluvussa käsitellään kirjallisuuskatsauksen aineistossa esiintyneet
 
 Vaikka yleisesti IoT:in konseptin tai paradigman mukaisen vision toteuttaminen on mahdollista, tutkimustyötä tarvitaan vielä lisää esimerkiksi standardisaation, tietoliikenteen ja tietoturvan ratkaisujen kehittämiseksi. @atzoriInternetThingsSurvey2010 [2010] mukaan IoT:in yleiset haasteet ja tutkimuskohteet ovat: standardit, järjestelmien välisen liikkuvuuden tuki, nimeäminen, tietoliikenneprotokollat, tietoliikenteen tyypittely ja palvelunlaatu, todentaminen, datan eheys, yksityisyys ja digitaalinen unohtaminen. 
 
-ICT- ja erityisesti IoT-teknologiat muuttavat maataloutta nopealla tahdilla. Suuren mittakaavan käyttöönottojen kautta näillä teknologioilla on selkeä potentiaali tuottaa huomattavia etuja tehokkaan ja kestävän maanviljelyn muodossa, varmistamalla ruokaturvaa pienempien ympäristövaikutusten kautta sekä takaamalla terveellisen ja turvallisen ruoantuotannon. Etujen saavuttamiseksi vaaditaan useiden IoT:in teknisten ja yhteiskunnallisten haasteiden ja esteiden voittamista. Nämä haasteet voivat kuitenkin tuottaa myös uusia mahdollisuuksia teknologiselle kehitykselle ja arvon tuottamiselle. [@sundmaekerInternetFoodFarm2016]
+ICT- ja erityisesti IoT-teknologiat muuttavat maataloutta nopealla tahdilla. Suuren mittakaavan käyttöönottojen kautta näillä teknologioilla on selkeä potentiaali tuottaa huomattavia etuja tehokkaan ja kestävän maanviljelyn muodossa, varmistamalla ruokaturvaa pienempien ympäristövaikutusten kautta sekä takaamalla terveellinen ja turvallinen ruoantuotanto. Etujen saavuttamiseksi vaaditaan useiden IoT:in teknisten ja yhteiskunnallisten haasteiden ja esteiden voittamista. Nämä haasteet voivat kuitenkin tuottaa myös uusia mahdollisuuksia teknologiselle kehitykselle ja arvon tuottamiselle. [@sundmaekerInternetFoodFarm2016]
 
 
 #### Standardisaation haasteet
