@@ -36,7 +36,7 @@
             - Kontrollointi
             - Logistiikka
             - Ennustus
-        - AIoT:in avoimet haasteet
+        - AIoT:in avoimet haasteet kirjallisuudessa
             - Standardisaation haasteet
             - Tieto- ja kyberturvallisuuden haasteet
             - Laitteiden energiatehokkuuden haasteet
@@ -69,7 +69,7 @@
                 - Datan omistajuus
             - AIoT:in vaikutukset
             - Ruokaturva
-            - AIoT:in haasteet
+            - AIoT:in avoimet haasteet haastatteluissa
                 - Tietoliikenteen ja tietoturvan haasteet
                 - Elinkaarihaasteet
                 - Integraatio- ja alustahaasteet
@@ -146,30 +146,19 @@ laatuerä
 
 # JOHDANTO
 
-Ajattele mitä olet tänään syönyt. Mitä jos maatalouden teknologiakehitys ja tuotanto pysähtyisivät nykyiselle tasolle? Olisiko meillä yhtä paljon ruokaa vielä vuonna 2050? Entä miten maatalous voisi olla juuri nyt kiinnostava teknologia-ala?
+Ajattele mitä olet tänään syönyt. Emme ole yleensä kovin tietoisia ruokamme alkuperästä, vielä vähemmän sen tuotantotavoista. Sitäkin vähemmän tiedämme teknologioista, joita ruokamme tuottamiseen on käytetty. Mitä jos maatalouden teknologiakehitys ja tuotanto pysähtyisivät nykyiselle tasolle? Entä miten maatalous voisi olla juuri nyt kiinnostava datavetoinen teknologia-ala?
 
-Maailman väkiluvun ennustetaan kasvavan 8,6 miljardiin vuoteen 2030 mennessä. Vuonna 2050 väkiluvun ennustetaan olevan jo 9,8 miljardia ja vuonna 2100 11,2 miljardia. [@desaWorldPopulationProspects2017; faoLeveragingFoodSystems2017] Vuonna 2050 maailman tulisi pystyä tuottamaan 70 % enemmän ruokaa vuoden 2006 tuotantoon verrattuna [@faoGlobalAgriculture20502009; ks. @faoFutureFoodAgriculture2018]. Ruokatuotannon rajalliset ja usein herkät resurssit yhdistettyinä kasvaviin vaatimuksiin asettavat huomattavia haasteita maatoloudelle. Resurssien rajallisuus näkyy jo ruoan hinnoissa ja vuoden 2010 jälkeen hintojen nousu on ajanut yli 40 miljoonaa ihmistä köyhyyteen. Aikaisempaa tehokkaammat toimet tilanteeseen puuttumiseksi ovat maataloudelle olennaisen tärkeitä. [@worldbankIntroductionICTAgricultural2017, 3] Nykyisessä muodossaan maatalous ei enää kykene ruokkimaan maailman väestöä vuonna 2050. [@iof2020HowFeedBillion2018] Toiminnan jatkaminen entiseen tapaan (”business as usual”) ei enää ole vaihtoehto vaan tulee laajamittaisesti pyrkiä uusien ratkaisujen ja innovatiivisten uusien teknologioiden käyttöönottoon [@faoFutureFoodAgriculture2017; faoFutureFoodAgriculture2018]. 
+Maailman väkiluvun ennustetaan kasvavan 8,6 miljardiin vuoteen 2030 mennessä. Vuonna 2050 väkiluvun ennustetaan olevan jo 9,8 miljardia ja vuonna 2100 11,2 miljardia. [@desaWorldPopulationProspects2017; faoLeveragingFoodSystems2017] Vuonna 2050 maailman tulisi pystyä tuottamaan 70 % enemmän ruokaa vuoden 2006 tuotantoon verrattuna [@faoGlobalAgriculture20502009; ks. @faoFutureFoodAgriculture2018]. Ruokatuotannon rajalliset resurssit yhdistettyinä kasvaviin vaatimuksiin asettavat huomattavia haasteita maatoloudelle. Resurssien rajallisuus näkyy jo ruoan hinnoissa ja vuoden 2010 jälkeen hintojen nousu on ajanut yli 40 miljoonaa ihmistä köyhyyteen. Aikaisempaa tehokkaammat toimet tilanteeseen puuttumiseksi ovat maataloudelle olennaisen tärkeitä. [@worldbankIntroductionICTAgricultural2017, 3] Nykyisessä muodossaan maatalous ei enää kykene ruokkimaan maailman väestöä vuonna 2050. [@iof2020HowFeedBillion2018] Toiminnan jatkaminen entiseen tapaan ei enää ole vaihtoehto, vaan tulee laajamittaisesti pyrkiä uusien ratkaisujen ja innovatiivisten uusien teknologioiden käyttöönottoon [@faoFutureFoodAgriculture2017; faoFutureFoodAgriculture2018]. 
 
-Monet tahot näkevät uusien digitaalisten teknologioiden soveltamisen ja erityisesti internet-pohjaisten teknologioiden keskeisenä uudelle maatalouden vallankumoukselle. Yleisesti nähdään, että IoT (engl. Internet of Things, esineiden internet), massadata ja asiantuntijajärjestelmät tulevat olemaan maatalouden seuraavan "version" keskeisiä osia [@leeAgricultureHowInternet2017], joista IoT-ratkaisut tulevat olemaan avainasemassa tulevassa maataloustuotannossa. Anturilaitteiden avulla voidaan tuottaa dataa maaperästä, vedestä, ajoneuvoista, työkoneista jne. ja tallentaa sitä pilvipalveluihin analysoitavaksi. AIoT:in (engl. Agricultural Internet of Things) avulla voidaan tehostaa tuotantoa, välttää satotappioita, parantaa viljelysuunnittelua ja tukea viljelijän päätöksentekoa. [@faoPossibilitiesInternetThings2017; @faoEAgricultureStrategyGuide2016, 7] Käytössä olevien IoT-laitteiden määrän ennustetaan kasvavan 75 miljoonaan laitteeseen vuoteen 2020 mennessä, keskimääräisen vuosittaisen kasvun ollessa 20 % [@meolaWhyIoTBig2016].
+Monet tahot näkevät erityisesti internet-pohjaisten teknologioiden olevan keskeisiä uudelle maatalouden vallankumoukselle. Yleisesti nähdään, että IoT (engl. Internet of Things, esineiden internet), massadata ja asiantuntijajärjestelmät tulevat olemaan maatalouden seuraavan "version" keskeisiä osia [@leeAgricultureHowInternet2017], joista IoT-ratkaisut tulevat olemaan avainasemassa tulevaisuuden maataloustuotannossa. Anturilaitteiden avulla voidaan tuottaa dataa maaperästä, vedestä, ajoneuvoista, työkoneista jne. ja tallentaa sitä pilvipalveluihin analysoitavaksi. AIoT:in (engl. Agricultural Internet of Things) avulla voidaan tehostaa tuotantoa, välttää satotappioita, parantaa viljelysuunnittelua ja tukea viljelijän päätöksentekoa. [@faoPossibilitiesInternetThings2017; @faoEAgricultureStrategyGuide2016, 7] Maatalouden käytössä olevien AIoT-laitteiden määrän ennustetaan kasvavan 75 miljoonaan laitteeseen vuoteen 2020 mennessä, keskimääräisen vuosittaisen kasvun ollessa 20 % [@meolaWhyIoTBig2016].
 
 Satoisuuden parantaminen, viljelymaan laajentumisen pysäyttäminen, maatalouden resurssien hallinnoinnin parantaminen ja ruokahävikin vähentäminen ovat keskeisiä strategioita globaalin ruokatuotannon tehostamiseksi [@foleySolutionsCultivatedPlanet2011]. Tukemalla näitä strategioita AIoT-sovelluksilla voidaan vastata globaalin ruoan saatavuuden haasteisiin, samalla vähentäen veden liikaottoa ja saastumista, hiilidioksidipäästöjä ja suojellen luonnon monimuotoisuutta [@iof2020HowFeedBillion2018]. Lisäksi [@townsendEndingPovertyHunger2015] mukaan maatalouden kasvu on köyhimpien väestönosien tulotason nostamisessa muiden sektoreiden kasvua kahdesta neljään kertaan tehokkaampaa [ks. @worldbankWorldDevelopmentReport2007].
 
-AIoT-sovelluksien laajamittaisen käyttöönoton edessä on kuitenkin useita avoimia haasteita:
+AIoT-sovelluksien laajamittaisen käyttöönoton edessä on kuitenkin useita avoimia haasteita. Tietoliikenneyhteyksien, tietoturvan, yhteisien standardien ja alustojen, data- ja järjestelmäintegraatioiden, laitteiden kestävyyden ja järjestelmien helppokäyttöisyyden kehittäminen sekä AIoT-omaksunnan laajentaminen ovat muutamia keskeisimpiä avoimia hasteita.
 
-On meneillään teknologia-aallon alkuvaihe, jossa uusia AIoT-teknologioita kokeillaan
-*vallankumous!*
-Maatalouden digitalisaation ja AIoT-sovelluksien potentiaalisen vaikuttavuudesta huolimatta alan tapahtumista ei uutisoida näkyvästi alan julkaisujen ulkopuolella.
-Tarvitaan kuitenkin monia eri alojen osaajia, koska kohdattavat haasteet ja mahdollisuudet ovat huomattavia
+On meneillään uuden maatalouden vallankumouksen ja AIoT:in teknologia-aallon alkuvaihe, jossa uusia AIoT-teknologioita kehitetään, tuodaan markkinoille ja otetaan käyttöön huomattavalla nopeudella. Maatalouden digitalisaation ja AIoT-sovelluksien potentiaalisesta vaikuttavuudesta huolimatta vaikuttaa siltä, että maatalouden teknologiakehityksen näkyvyys alan ulkopuolella on vähäistä eikä suuri osa esimerkiksi IT-alalla toimivista asiantuntijoista ole tietoisia alan tarjoamista haasteista ja mahdollisuuksista.
 
-
-paikkaa puutetta
-
-
-tärkeää koska: ruoantuotannon muutos on tärkeä ja merkityksellinen ja sille keskeinen kasvintuotanto, ei tunnettu - ei oppareita, asiantuntijoita tarvitaan useilta aloilta, kehitykseen tarvitaan kaikki asiantuntemus, ala muutoksessa - kehitysnäkymiä
-
-
-
-Opinnäytetyötä voidaan hyödyntää tietolähteenä kasvintuotannossa käytettävien IoT:in teknologiasovelluksien sekä niitä käsittelevien tutkimusten tarkemmassa kartoituksessa tai uusien tietojen hakemisessa. Lisäksi opinnäytetyössä esitettyjä tietoja voidaan hyödyntää pohdittaessa jatkotutkimuksen aiheita ja tarpeellisuutta.
+Samalla kun AIoT:in yleisestä näkyvyydestä on pulaa, myös opinnäytetöitä aiheesta on julkaistu vähäisesti. Esimerkiksi Theseus-tietokannasta löytyy tätä kirjoittaessa vain pari aihetta sivuavaa julkaisua. Tällä kartoittavalla yleiskatsauksella pyritään paikkaamaan tätä puutetta ja avaamaan näkymiä AIoT:in ja kasvintuotannon teknologiakehityksen tilanteeseen. Opinnäytetyötä voidaan hyödyntää tietolähteenä kasvintuotannossa käytettävien IoT:in teknologiasovelluksien sekä niitä käsittelevien tutkimusten tarkemmassa kartoituksessa. Lisäksi opinnäytetyössä esitettyjä tietoja voidaan hyödyntää pohdittaessa jatkotutkimuksen aiheita ja tarpeellisuutta.
 
 
 ## Opinnäytetyön rakenne
@@ -776,7 +765,7 @@ Kirjallisuuskatsausten käsittelemissä julkaisuissa pyrittiin anturien tuottama
 @tzounisInternetThingsAgriculture2017 [2017] kirjallisuuskatsauksessa mainittiin myös Microsoftin vuonna 2015 julkaisema kokonaisvaltainen maanviljelyn IoT-ratkaisu FarmBeats, joka kattaa UA-laitteiden ja anturien tarvitsemat toiminnot, liitettävyyden tuen ja pilvipalvelut koneoppimiseen perustuvaa analytiikkaa ja ennusteiden tuottamista varten [@tzounisInternetThingsAgriculture2017]. 
 
 
-### AIoT:in avoimet haasteet
+### AIoT:in avoimet haasteet kirjallisuudessa
 
 Tässä alaluvussa käsitellään kirjallisuuskatsauksen aineistossa esiintyneet AIoT:in avoimet haasteet. Yleisimmät ja eniten aineistossa kuvaillut haasteet on kerätty omiin alalukuihinsa ja harvemmin esiintyneet tai vähemmän kuvaillut, mutta selkeästi yksilölliset haasteet on kerätty omiin alalukuihinsa.
 
@@ -1223,7 +1212,7 @@ B.B.n näkemyksen mukaan ruokaturvan parantamiseen IoT-teknologiat voivat osalli
 Myös E.E. oli samoilla linjoilla ruokaturvan suhteen. Hänen mukaansa Suomen osalta kaikki mikä parantaa maatalouden tuottavuutta, parantaa myös omavaraisuutta ja sitä kautta Suomen ruokaturvaa. Jotta Suomen ruokaturva voitaisiin varmistaa, niin ruoantuotannon tulisi olla yksittäisille toimijoille kannattavaa ja työn sellaista, että se motivoisi maanviljelijää kehittämään omaa toimintaansa. Tällöin ruokatuotanto kehittyisi jatkuvasti, maataloustuotannon kyky vastata tuleviin ja nykyisiin haasteisiin paranisi ja sitä kautta oma ruokaturvamme vahvistuisi. [@eHaastattelu2018]
 
 
-#### AIoT:in haasteet
+#### AIoT:in avoimet haasteet haastatteluissa
 
 Tässä alaluvussa kuvaillaan haastatteluaineistossa ilmi tulleet AIoT:in avoimet haasteet. Haasteiden kuvailu on jaoteltu tietoliikenteen ja tietoturvan, elinkaarien, integraatioiden ja alustojen, käytettävyyden, asiantuntijuuden ja omaksumisen haasteiden alalukuihin.
 
