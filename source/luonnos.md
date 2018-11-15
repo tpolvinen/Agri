@@ -2,7 +2,7 @@
 
 - JOHDANTO
     - Opinnäytetyön rakenne
-    - Käsitteet
+    - Keskeiset käsitteet
 - ESINEIDEN INTERNET KASVINTUOTANNOSSA
     - Kasvintuotannon teknologiakehitys
     - Internet of Things
@@ -25,7 +25,7 @@
             - Sisällönanalyysin menetelmien käyttö
                 - Haastatteluaineiston koodaus ja koodien kategorisointi
                 - Haastatteluaineiston koodien taulukointi
-                - Haastatteluaineiston analysointi taulukoitujen tietojen avulla
+                - Haastatteluaineiston analysointi
             - Johtopäätösten vetäminen haastatteluaineistosta analyysin perusteella
 - TUTKIMUSTULOKSET
     - Kirjallisuuskatsauksen tulokset
@@ -146,24 +146,24 @@ laatuerä
 
 # JOHDANTO
 
-Ajattele mitä olet tänään syönyt. Emme ole yleensä kovin tietoisia ruokamme alkuperästä, vielä vähemmän sen tuotantotavoista. Sitäkin vähemmän tiedämme teknologioista, joita ruokamme tuottamiseen on käytetty. Mitä jos maatalouden teknologiakehitys ja tuotanto pysähtyisivät nykyiselle tasolle? Entä miten maatalous voisi olla juuri nyt kiinnostava datavetoinen teknologia-ala?
+Ajattele mitä olet tänään syönyt. Usein emme ole kovin tietoisia ruokamme alkuperästä ja vielä vähemmän sen tuotantotavoista. Sitäkin vähemmän tiedämme teknologioista, joita ruokamme tuottamiseen on käytetty. Mitä jos maatalouden teknologiakehitys ja tuotanto pysähtyisivät nykyiselle tasolle? Entä miten maatalous voisi olla juuri nyt kiinnostava digitaalinen teknologia-ala?
 
-Maailman väkiluvun ennustetaan kasvavan 8,6 miljardiin vuoteen 2030 mennessä. Vuonna 2050 väkiluvun ennustetaan olevan jo 9,8 miljardia ja vuonna 2100 11,2 miljardia. [@desaWorldPopulationProspects2017; faoLeveragingFoodSystems2017] Vuonna 2050 maailman tulisi pystyä tuottamaan 70 % enemmän ruokaa vuoden 2006 tuotantoon verrattuna [@faoGlobalAgriculture20502009; ks. @faoFutureFoodAgriculture2018]. Ruokatuotannon rajalliset resurssit yhdistettyinä kasvaviin vaatimuksiin asettavat huomattavia haasteita maatoloudelle. Resurssien rajallisuus näkyy jo ruoan hinnoissa ja vuoden 2010 jälkeen hintojen nousu on ajanut yli 40 miljoonaa ihmistä köyhyyteen. Aikaisempaa tehokkaammat toimet tilanteeseen puuttumiseksi ovat maataloudelle olennaisen tärkeitä. [@worldbankIntroductionICTAgricultural2017, 3] Nykyisessä muodossaan maatalous ei enää kykene ruokkimaan maailman väestöä vuonna 2050. [@iof2020HowFeedBillion2018] Toiminnan jatkaminen entiseen tapaan ei enää ole vaihtoehto, vaan tulee laajamittaisesti pyrkiä uusien ratkaisujen ja innovatiivisten uusien teknologioiden käyttöönottoon [@faoFutureFoodAgriculture2017; faoFutureFoodAgriculture2018]. 
+Maailman väkiluvun ennustetaan kasvavan 8,6 miljardiin vuoteen 2030 mennessä. Vuonna 2050 väkiluvun ennustetaan olevan jo 9,8 miljardia ja vuonna 2100 11,2 miljardia. [@desaWorldPopulationProspects2017; @faoLeveragingFoodSystems2017] Vuonna 2050 maailman tulisi pystyä tuottamaan 70 % enemmän ruokaa vuoden 2006 tuotantoon verrattuna [@faoGlobalAgriculture20502009; ks. @faoFutureFoodAgriculture2018]. Ruokatuotannon rajalliset resurssit yhdistettyinä kasvaviin vaatimuksiin asettavat huomattavia haasteita maatoloudelle. Resurssien rajallisuus näkyy jo ruoan hinnoissa ja vuoden 2010 jälkeen hintojen nousu on ajanut yli 40 miljoonaa ihmistä köyhyyteen. Aikaisempaa tehokkaammat toimet tilanteeseen puuttumiseksi ovat maataloudelle olennaisen tärkeitä. [@worldbankIntroductionICTAgricultural2017, 3] Nykyisessä muodossaan maatalous ei enää kykene ruokkimaan maailman väestöä vuonna 2050. [@iof2020HowFeedBillion2018] Toiminnan jatkaminen entiseen tapaan ei enää ole vaihtoehto, vaan tulee laajamittaisesti pyrkiä uusien ratkaisujen ja innovatiivisten uusien teknologioiden käyttöönottoon [@faoFutureFoodAgriculture2017; @faoFutureFoodAgriculture2018].
 
 Monet tahot näkevät erityisesti internet-pohjaisten teknologioiden olevan keskeisiä uudelle maatalouden vallankumoukselle. Yleisesti nähdään, että IoT (engl. Internet of Things, esineiden internet), massadata ja asiantuntijajärjestelmät tulevat olemaan maatalouden seuraavan "version" keskeisiä osia [@leeAgricultureHowInternet2017], joista IoT-ratkaisut tulevat olemaan avainasemassa tulevaisuuden maataloustuotannossa. Anturilaitteiden avulla voidaan tuottaa dataa maaperästä, vedestä, ajoneuvoista, työkoneista jne. ja tallentaa sitä pilvipalveluihin analysoitavaksi. AIoT:in (engl. Agricultural Internet of Things) avulla voidaan tehostaa tuotantoa, välttää satotappioita, parantaa viljelysuunnittelua ja tukea viljelijän päätöksentekoa. [@faoPossibilitiesInternetThings2017; @faoEAgricultureStrategyGuide2016, 7] Maatalouden käytössä olevien AIoT-laitteiden määrän ennustetaan kasvavan 75 miljoonaan laitteeseen vuoteen 2020 mennessä, keskimääräisen vuosittaisen kasvun ollessa 20 % [@meolaWhyIoTBig2016].
 
-Satoisuuden parantaminen, viljelymaan laajentumisen pysäyttäminen, maatalouden resurssien hallinnoinnin parantaminen ja ruokahävikin vähentäminen ovat keskeisiä strategioita globaalin ruokatuotannon tehostamiseksi [@foleySolutionsCultivatedPlanet2011]. Tukemalla näitä strategioita AIoT-sovelluksilla voidaan vastata globaalin ruoan saatavuuden haasteisiin, samalla vähentäen veden liikaottoa ja saastumista, hiilidioksidipäästöjä ja suojellen luonnon monimuotoisuutta [@iof2020HowFeedBillion2018]. Lisäksi [@townsendEndingPovertyHunger2015] mukaan maatalouden kasvu on köyhimpien väestönosien tulotason nostamisessa muiden sektoreiden kasvua kahdesta neljään kertaan tehokkaampaa [ks. @worldbankWorldDevelopmentReport2007].
+Satoisuuden parantaminen, viljelymaan laajentumisen pysäyttäminen, maatalouden resurssien hallinnoinnin parantaminen ja ruokahävikin vähentäminen ovat keskeisiä strategioita globaalin ruokatuotannon tehostamiseksi [@foleySolutionsCultivatedPlanet2011]. Tukemalla näitä strategioita AIoT-sovelluksilla voidaan vastata globaalin ruoan saatavuuden haasteisiin, samalla vähentäen veden liikaottoa ja saastumista, hiilidioksidipäästöjä ja suojellen luonnon monimuotoisuutta [@iof2020HowFeedBillion2018]. Lisäksi @townsendEndingPovertyHunger2015 mukaan maatalouden kasvu on köyhimpien väestönosien tulotason nostamisessa muiden sektoreiden kasvua kahdesta neljään kertaan tehokkaampaa [ks. @worldbankWorldDevelopmentReport2007].
 
 AIoT-sovelluksien laajamittaisen käyttöönoton edessä on kuitenkin useita avoimia haasteita. Tietoliikenneyhteyksien, tietoturvan, yhteisien standardien ja alustojen, data- ja järjestelmäintegraatioiden, laitteiden kestävyyden ja järjestelmien helppokäyttöisyyden kehittäminen sekä AIoT-omaksunnan laajentaminen ovat muutamia keskeisimpiä avoimia hasteita.
 
 On meneillään uuden maatalouden vallankumouksen ja AIoT:in teknologia-aallon alkuvaihe, jossa uusia AIoT-teknologioita kehitetään, tuodaan markkinoille ja otetaan käyttöön huomattavalla nopeudella. Maatalouden digitalisaation ja AIoT-sovelluksien potentiaalisesta vaikuttavuudesta huolimatta vaikuttaa siltä, että maatalouden teknologiakehityksen näkyvyys alan ulkopuolella on vähäistä eikä suuri osa esimerkiksi IT-alalla toimivista asiantuntijoista ole tietoisia alan tarjoamista haasteista ja mahdollisuuksista.
 
-Samalla kun AIoT:in yleisestä näkyvyydestä on pulaa, myös opinnäytetöitä aiheesta on julkaistu vähäisesti. Esimerkiksi Theseus-tietokannasta löytyy tätä kirjoittaessa vain pari aihetta sivuavaa julkaisua. Tällä kartoittavalla yleiskatsauksella pyritään paikkaamaan tätä puutetta ja avaamaan näkymiä AIoT:in ja kasvintuotannon teknologiakehityksen tilanteeseen. Opinnäytetyötä voidaan hyödyntää tietolähteenä kasvintuotannossa käytettävien IoT:in teknologiasovelluksien sekä niitä käsittelevien tutkimusten tarkemmassa kartoituksessa. Lisäksi opinnäytetyössä esitettyjä tietoja voidaan hyödyntää pohdittaessa jatkotutkimuksen aiheita ja tarpeellisuutta.
+Samalla kun AIoT:in yleisestä näkyvyydestä on pulaa, myös opinnäytetöitä aiheesta on julkaistu vähäisesti. Esimerkiksi Theseus-tietokannasta on löytynyt tätä kirjoitettaessa vain pari aihetta sivuavaa julkaisua. Tällä kartoittavalla yleiskatsauksella pyritään paikkaamaan tätä puutetta ja avaamaan näkymiä AIoT:in ja kasvintuotannon teknologiakehityksen tilanteeseen. Opinnäytetyötä voidaan hyödyntää tietolähteenä kasvintuotannossa käytettävien IoT:in teknologiasovelluksien sekä niitä käsittelevien tutkimusten tarkemmassa kartoituksessa. Lisäksi opinnäytetyössä esitettyjä tietoja voidaan hyödyntää pohdittaessa jatkotutkimuksen aiheita ja tarpeellisuutta.
 
 
 ## Opinnäytetyön rakenne
 
-Tämä on laadullisin menetelmin toteutettu tutkimustyyppinen opinnäytetyö, jonka tavoitteena on tuottaa ajankohtainen kartoittava katsaus kasvintuotannossa sovellettavien IoT-ratkaisuiden tilanteesta ja niiden tarjoamista mahdollisuuksista. Työn tavoitteena on antaa lukijalle ajankohtainen yleiskuva kasvintuotannossa käytettäviin IoT:in teknologiasovelluksista ja niiden tutkimuksesta. Opinnäytetyön aihepiirinä on IoT:in kasvintuotannon sovelluksiin liittyvät tutkimukset, julkaisut ja teknologiasovellukset. Opinnäytetyössä on toteutettu narratiivinen kirjallisuuskatsaus sekä haastateltu asiaan perehtyneitä tutkijoita ja yritysten edustajia. Opinnäytetyö koostuu johdannosta, taustoittavasta teoriaosasta, tutkimusosasta ja pohdinnasta.
+Tämä on laadullisin menetelmin toteutettu tutkimustyyppinen opinnäytetyö, jonka tavoitteena on tuottaa ajankohtainen kartoittava katsaus kasvintuotannossa sovellettavien IoT-ratkaisuiden tilanteesta ja niiden tarjoamista mahdollisuuksista. Työn tavoitteena on antaa lukijalle ajankohtainen yleiskuva kasvintuotannossa käytettäviin IoT:in teknologiasovelluksiin ja niiden tutkimukseen. Opinnäytetyössä on toteutettu narratiivinen kirjallisuuskatsaus sekä haastateltu asiaan perehtyneitä tutkijoita ja yritysten edustajia. Opinnäytetyö koostuu johdannosta, taustoittavasta teoriaosasta, tutkimusosasta ja pohdinnasta.
 
 Teoriaosa pitää sisällään luvun "Esineiden internet kasvintuotannossa", jossa kuvaillaan kasvintuotannon IoT:in taustaa ja sen osailmiöitä. Osailmiöinä käsitellään kasvintuotannon teknologiakehitystä, IoT:iä, teollisen esineiden internetiä (IIoT, engl. Industrial Internet of Things) ja AIoT:iä, joiden taustaa, määrittelyä, historiaa ja nykytilaa kuvaillaan lyhyesti. Tutkimusosa puolestaan pitää sisällään luvut "Opinnäytetyön tarkoitus, tavoite, rajaukset, tutkimuskysymykset ja -menetelmät", "Aineisto ja tutkimuksen toteutus" sekä "Tutkimustulokset". 
 
@@ -171,7 +171,7 @@ Yleisestä opinnäytetyön rakenteesta poiketen opinnäytetyön tarkoitus, tavoi
 
 Opinnäytetyön viimeinen osa on luku "Pohdinta", jossa käsitellään työlle asetettujen tavoitteiden saavuttaminen ja työn tuloksista tehdyt johtopäätökset, joiden jälkeen tarkastellaan tutkimuksen luotettavuutta sekä hyödynnettävyyttä ja  käsitellään ehdotetut jatkotutkimusaiheet. Lopuksi kuvaillaan tekijän oppimisprosessi työn aikana.
 
-## Käsitteet
+## Keskeiset käsitteet
 
 
 # ESINEIDEN INTERNET KASVINTUOTANNOSSA
@@ -598,7 +598,7 @@ Kartoitin koodien havaintojen keskinäisiä yhteneväisyyksiä ja niiden kautta 
 Lopuksi laskin haastatteluaineiston sanamäärät analysaattoriohjelmalla ja taulukoin ne omaan taulukkoonsa (liite 0). Syötin analysaattoriin haastattelujen litteroinneista kootun version, joka sisälsi vain haastateltavien itse sanomat sanat. Arvioin litteroinneissa olevan haastateltavien kielen olevan keskenään tarpeeksi samankaltaista, että kielen normalisointia yleiskielelle ei tässä tapauksessa tarvita. Valitsin useammin kuin kerran löytyneistä sanoista (1920 sanaa) haastattelujen aikaisempien käsittelyvaiheiden tuoman kokemuksen perusteella harkinnanvaraisesti merkitsevät sanat, joiden sanarungolla ja/tai alkukirjaimilla hain kaikkien sanojen joukosta (6011 sanaa) sanan eri taivutusmuodot, lyhennelmät ja virheellisesti kirjoitetut esiintymät. Tämän jälkeen laskin yhteen sanojen havaitut synonyymit ja selkeästi haastatteluissa samaa tarkoittavien sanojen esiintymät. Esimerkiksi laskin yhteen sanat täsmäviljely, täsmäviljejyn, täsmäviljelyä, täsmäviljelydata, täsmäviljelykin, täsmäviljelykonferinssissa, täsmäviljelylaitteistolle, täsmäviljelylaitteita, täsmäviljelyllä, täsmäviljelyn, täsmäviljelyssä, täsmäviljelystä, täsmäviljelyteknologiaa, täsmäviljelyteknologiasta, täsmäviljelytietoa ja täsmäviljelyyn, jolloin saain asiasanalle "täsmäviljely" yhteensä 27 esiintymää. Tuloksena sain 118 asiasanaa, joiden esiintymät taulukoin, järjestelin ja joiden esiintymien määristä laadin kaavio. Taulukon ja kaavion avulla voidaan arvioida haastatteluaineiston keskeisimpien teemojen yleisyyttä.
 
 
-##### Haastatteluaineiston analysointi taulukoitujen tietojen avulla
+##### Haastatteluaineiston analysointi
 
 Analysoin haastatteluaineistosta havaittujen koodien määrien perusteella miten eri kategoriat jakautuvat eri haastatteluissa sekä havaintojen määrän että kategorioiden ja alikategorioiden mukaan. Lisäksi taulukoin koodien määrät kategorioissa ja alikategorioissa ja vertailin määriä keskenään. 
 
