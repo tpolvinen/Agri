@@ -19,67 +19,33 @@ ASIASANAT
 esineiden internet, IoT, teollinen internet, IIoT, kasvintuotanto, maatalous
 
 SANASTO
-IoT Internet of Things *IoT pyrkii yhdistämään nämä älykkäiden laitteiden verkoksi, joita ihmiset tarpeen mukaan ohjaavat ja jotka pystyvät viestimään toistensa kanssa*
-IIoT Industrial Internet of Things
-AIoT Agricultural Internet of Things
-Satoisuus
-Sadonlisä
-Ruokaturva
-Ruoan turvallisuus
-Tuotantoketju
-Tuotantopanos
-Täsmäviljely Precision Agriculture Näillä tekniikoilla pyritään alueellisen ja ajallisen vaihtelevuuden hallinnoimiseen tarkan havainnoinnin, kontrolloinnin ja käsittelyn avulla perustuen maaperästä, satokasveista ja eläimistä tehtyihin havaintoihin.
-Älykäs maanviljely Smart Agriculture/Smart Farming
-Laitteiden välinen viestintä M2M Machine-to-Machine
-Massadata Big Data
-Päätöksenteon tukijärjestelmä DSS Decision Support System
-RFID-tunniste Radio Frequency IDentification
-Referenssiarkkitehtuuri
-Aktuaattori, toimilaite
-UA-laite, drooni, (vanhentunut: UAV-laite) Unmanned Aerial Vehicle
-Anturiverkko
-Sumutietojenkäsittely fog computing
-Langattomat anturi- ja aktuaattoriverkot WSAN, engl. Wireless Sensor and Actuator Network
-Ruokaketju
-Maatilan tiedonhallintajärjestelmään (FMIS engl. Farm Management Information System) 
-Toimilaite
-Aktuaattori
-palvelukeskeisiä arkkitehtuurimalleja (SOA, engl. Service Oriented Architecture)
-Telemetria
-ISOBUS AEF:n työryhmissä kehitettävä standardi traktorien ja työkoneiden väliseen tiedonsiirtoon ja laitteiden hallintaan
-...
-satotasomittaus
-pilvipalvelu: tietojenkäsittelyn resurssipalvelu
-langaton anturi- ja toimilaiteverkko (engl. Wireless Sensor and Actuator Network, WSAN)
-integroitu tuholaistorjunta (engl. Integrated Pest Management, IPM)
+**Internet of Things** (IoT), esineiden internet - Löyhästi määritelty teknologiaparadigma, jossa yhteen liitettävät älykkäät laitteet yhdistetään tietoliikenneverkkojen ylitse internetin palveluihin ja älykkäiksi verkoiksi, joiden toimintaa ihmiset ohjaavat vain tarpeen mukaan. 
+**Industrial Internet of Things** (IIoT) - Teollisuuden esineiden internet, IoT:in teollisuuden sovelluksiin keskittynyt osa tai haara. 
+**Agricultural Internet of Things** (AIoT) - Maatalouden esineiden internet, IoT:in maatalouden sovelluksiin keskittynyt osa tai haara.
+**Satoisuus** - Kuinka tuottoisa sato on, mittayksikkönä esimerkiksi kiloa/hehtaari, muuttuja joka koostuu osatekijöistä kuten kasvukausi, kasteluveden, lannoitteiden määrät jne.
+**Ruokaturva** - Tila, jolloin kaikilla ihmisillä on kaikkina aikoina riittävästi turvallista ja ravitsevaa ruokaa elääkseen terveellisen ja aktiivisen elämän. Rakentuu ruuan saatavuudesta, hankittavuudesta ja käytettävyydestä.
+**Ruoan turvallisuus** - Käytänteet, joiden avulla pyritään takaamaan ruoan turvallisuus.
+**Tuotantoketju** - Tuottajien muodostama ketju, joka valmistaa tuotteen tarjottavaksi markkinoille ja kuluttajien hankittavaksi.
+**Tuotantopanos** - Tuotantoprosessin panokset kuten tuotantovälineet, työ, raaka-aineet, ostopalvelut jne. jotka tarvitaan tuotteen valmistamiseksi.
+**Täsmäviljely**, engl. Precision Agriculture (PA) - Viljelytekniikat, joilla pyritään viljelyolosuhteiden vaihtelun hallintaan tarkan havainnoinnin, konrolloinnin ja käsittelyn avulla.
+**Laitteiden välinen viestintä** M2M-viestintä, engl. Machine-to-Machine - Automaattinen tietoliikenne päätelaitteiden välillä.
+**Massadata**, Big Data - Termi, jolla viitataan datasetteihin, jotka ovat liian suuria perinteisten tietojenkäsittelyn keinoin käsiteltäviksi. Data, jota on paljon (Volume), jota tulee nopeasti lisää (Velocity) ja joka on muodoltaan vaihtelevaa (Variety & Veracity).
+**Päätöksenteon tukijärjestelmä**, engl. Decision Support System - Tietojärjestelmä tai ohjelmisto ja tarvittava data, joiden avulla pyritään analysoimaan ja esittämään tietoa päätöksenteon helpottamiseksi.
+**RFID**, engl. Radio Frequency IDentification - Yleisnimitys radiotaajuuksilla toimiville tekniikoille, joita käytetään etätunnistukseen, tiedon etälukuun ja -tallentamiseen.
+**Referenssiarkkitehtuuri** - Tietyn arkkitehtuurikokonaisuuden esitys, joka toteutusneutraalisti kuvailee kokonaisuuden loogiset osat ja niiden väliset suhteet. Referenssiarkkitehtuurilla ohjataan arkkitehtuurisuunnittelua toivottuun toteutusrakenteeseen.
+**Aktuaattori, toimilaite** - Automaatiossa toimielintä kuten venttiiliä käyttävä laite, joka vaikuttaa ohjattavaan prosessiin toimielimen kautta.
+**UA-laite**, drone, engl. Unmanned Aircraft (UA) - Miehittämätön ilma-alus, joita ohjaa kauko-ohjaaja. (vanhentunut: UAV-laite, Unmanned Aerial Vehicle)
+**Anturiverkko** - Yhteen liitettyjen ympäristöään havainnoivien anturilaitteiden verkko.
+**Sumutietojenkäsittely**, engl. fog computing - Hajautettussa ympäristössä verkon reunan laitteilla, usein lähellä datan lähdettä ja/tai osana pilvipalvelua tapahtuva tietojenkäsittely.
+**Langaton anturi- ja aktuaattoriverkko**, engl. Wireless Sensor and Actuator Network (WSAN) - Langattomaan tietoliikennetekniikkaan perustuva anturi- ja aktuaattorilaitteiden verkko. 
+**Maatilan tiedonhallintajärjestelmä**, engl. Farm Management Information System (FMIS) - Hallinnoinnin tietojärjestelmä, jolla suunnitellaan, seurataan ja kerätään tietoa maatilan toiminnasta.
+**Palvelukeskeinen arkkitehtuurimalli**, engl. Service Oriented Architecture (SOA) - tietojärjestelmien arkkitehtuuritason suunnittelutapa, jolla tietojärjestelmien toiminnot ja prosessit on suunniteltu itsenäisiksi, avoimiksi ja joustaviksi palveluiksi.
+**Telemetria** - Laitetietojen automaattinen kaukosiirto radioaaltojen, puhelimen tai tietoverkon välityksellä.
+**ISOBUS**, ISO 11783 - AEF:n kehitettävä standardi traktorien ja työkoneiden väliseen tiedonsiirtoon ja laitteiden hallintaan.
+**Monikerrosviljely** - Useissa päällekkäisissä tasoissa tapahtuvaa viljelyä, vrt. tavallisen kasvihuoneen yhdessä tasossa tapahtuva viljely.
+**Smart Farming / Smart Agriculture**, älykäs viljely - Täsmäviljelystä kehittynyt älykkäitä, verkottuneita laitteita ja tietojärjestelmiä käyttävä viljelytapa.
 
-Haastatteluissa esiintyviä termejä:
-täsmäviljely
-lohko, peltolohko
-panos
-tasasäätö
-vihreä vallankumous
-tilakoko
-telemetria
-full-liner
-ohjaustiedosto
-Comma Separated Value (CSV)
-Monikerrosviljely = useissa päällekkäisissä tasoissa tapahtuvaa viljelyä, mikä eroaa tavallisen kasvihuoneen yhdessä tasossa tapahtuvasta viljelystä.
-Jaettu lannoitus
-UA-laite (Drooni, UA, pienoiskopteri, neliroottoripienoiskopteri)
-yhteen valmistajaan lukittuminen (vendor lock, yhden valmistajan loukku)
-maatilanhallintajärjestelmä (FMS)
-maatilan tiedonhallintajärjestelmä (FMIS)
-viljelysuunnitteluohjelma
-ortomosaiikkikartta
-Smart Farming
-agriculture 4.0
-agriculture 3.0
-satovaste
-sadonlisä
-CAN-väylä
-tuotantotapatieto
-laatuerä
+
 
 # JOHDANTO
 
