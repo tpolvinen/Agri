@@ -21,7 +21,7 @@
   </info>
   <locale xml:lang="fi">
     <terms>
-      <term name="et-al">et al.</term>
+      <term name="et-al">ym.</term>
       <term name="page" form="short">
         <single>s.</single>
         <multiple>s.</multiple>
@@ -348,7 +348,7 @@
     <layout suffix=".">
       <text macro="author"/>
       <group delimiter=". " prefix=" ">
-        <text macro="issued" prefix="(" suffix=")"/>
+        <text macro="issued" prefix="" suffix=""/>
         <text macro="title"/>
         <text macro="container"/>
         <text variable="medium"/>
