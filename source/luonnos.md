@@ -33,7 +33,7 @@ SANASTO
 
 **ISOBUS**, ISO 11783 - AEF:n kehitettävä standardi traktorien ja työkoneiden väliseen tiedonsiirtoon ja laitteiden hallintaan.
 
-**Laitteiden välinen viestintä** M2M-viestintä, engl. Machine-to-Machine - Automaattinen tietoliikenne päätelaitteiden välillä.
+**Laitteiden välinen viestintä**, M2M-viestintä, engl. Machine-to-Machine (M2M) - Automaattinen tietoliikenne päätelaitteiden välillä.
 
 **Langaton anturi- ja aktuaattoriverkko**, engl. Wireless Sensor and Actuator Network (WSAN) - Langattomaan tietoliikennetekniikkaan perustuva anturi- ja aktuaattorilaitteiden verkko. 
 
@@ -45,7 +45,7 @@ SANASTO
 
 **Palvelukeskeinen arkkitehtuurimalli**, engl. Service Oriented Architecture (SOA) - tietojärjestelmien arkkitehtuuritason suunnittelutapa, jolla tietojärjestelmien toiminnot ja prosessit on suunniteltu itsenäisiksi, avoimiksi ja joustaviksi palveluiksi.
 
-**Päätöksenteon tukijärjestelmä**, engl. Decision Support System - Tietojärjestelmä tai ohjelmisto ja tarvittava data, joiden avulla pyritään analysoimaan ja esittämään tietoa päätöksenteon helpottamiseksi.
+**Päätöksenteon tukijärjestelmä**, engl. Decision Support System - Tietojärjestelmä ja tarvittava data, joiden avulla analysoidaan ja esitetään tietoa päätöksenteon helpottamiseksi.
 
 **Referenssiarkkitehtuuri** - Tietyn arkkitehtuurikokonaisuuden esitys, joka toteutusneutraalisti kuvailee kokonaisuuden loogiset osat ja niiden väliset suhteet. Referenssiarkkitehtuurilla ohjataan arkkitehtuurisuunnittelua toivottuun toteutusrakenteeseen.
 
