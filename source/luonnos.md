@@ -10,6 +10,7 @@ Tuloksien mukaan lähivuosina voidaan odottaa IoT-teknologioiden voimakasta ylei
 Opinnäytetyötä voidaan hyödyntää tiedonhaun lähtökohtana kasvintuotannossa käytettävien IoT:in teknologiasovelluksien sekä niitä käsittelevien tutkimusten kartoituksessa. Lisäksi opinnäytetyössä esitettyjä tietoja voidaan hyödyntää pohdittaessa jatkotutkimuksen aiheita ja tarpeellisuutta.
 
 Tällä opinnäytetyöllä ei ole toimeksiantajaa.
+Opinnäytetyö on toteutettu vuosien 2017 ja 2018 aikana.
 
 Tässä opinnäytetyössä käytetään lähdeviittausten tyylinä mukailtua Södertörns högskola -
 Harvard -tyyliä.
@@ -19,31 +20,56 @@ ASIASANAT
 esineiden internet, IoT, teollinen internet, IIoT, kasvintuotanto, maatalous
 
 SANASTO
-**Internet of Things** (IoT), esineiden internet - Löyhästi määritelty teknologiaparadigma, jossa yhteen liitettävät älykkäät laitteet yhdistetään tietoliikenneverkkojen ylitse internetin palveluihin ja älykkäiksi verkoiksi, joiden toimintaa ihmiset ohjaavat vain tarpeen mukaan. 
-**Industrial Internet of Things** (IIoT) - Teollisuuden esineiden internet, IoT:in teollisuuden sovelluksiin keskittynyt osa tai haara. 
+
 **Agricultural Internet of Things** (AIoT) - Maatalouden esineiden internet, IoT:in maatalouden sovelluksiin keskittynyt osa tai haara.
-**Satoisuus** - Kuinka tuottoisa sato on, mittayksikkönä esimerkiksi kiloa/hehtaari, muuttuja joka koostuu osatekijöistä kuten kasvukausi, kasteluveden, lannoitteiden määrät jne.
-**Ruokaturva** - Tila, jolloin kaikilla ihmisillä on kaikkina aikoina riittävästi turvallista ja ravitsevaa ruokaa elääkseen terveellisen ja aktiivisen elämän. Rakentuu ruuan saatavuudesta, hankittavuudesta ja käytettävyydestä.
-**Ruoan turvallisuus** - Käytänteet, joiden avulla pyritään takaamaan ruoan turvallisuus.
-**Tuotantoketju** - Tuottajien muodostama ketju, joka valmistaa tuotteen tarjottavaksi markkinoille ja kuluttajien hankittavaksi.
-**Tuotantopanos** - Tuotantoprosessin panokset kuten tuotantovälineet, työ, raaka-aineet, ostopalvelut jne. jotka tarvitaan tuotteen valmistamiseksi.
-**Täsmäviljely**, engl. Precision Agriculture (PA) - Viljelytekniikat, joilla pyritään viljelyolosuhteiden vaihtelun hallintaan tarkan havainnoinnin, konrolloinnin ja käsittelyn avulla.
-**Laitteiden välinen viestintä** M2M-viestintä, engl. Machine-to-Machine - Automaattinen tietoliikenne päätelaitteiden välillä.
-**Massadata**, Big Data - Termi, jolla viitataan datasetteihin, jotka ovat liian suuria perinteisten tietojenkäsittelyn keinoin käsiteltäviksi. Data, jota on paljon (Volume), jota tulee nopeasti lisää (Velocity) ja joka on muodoltaan vaihtelevaa (Variety & Veracity).
-**Päätöksenteon tukijärjestelmä**, engl. Decision Support System - Tietojärjestelmä tai ohjelmisto ja tarvittava data, joiden avulla pyritään analysoimaan ja esittämään tietoa päätöksenteon helpottamiseksi.
-**RFID**, engl. Radio Frequency IDentification - Yleisnimitys radiotaajuuksilla toimiville tekniikoille, joita käytetään etätunnistukseen, tiedon etälukuun ja -tallentamiseen.
-**Referenssiarkkitehtuuri** - Tietyn arkkitehtuurikokonaisuuden esitys, joka toteutusneutraalisti kuvailee kokonaisuuden loogiset osat ja niiden väliset suhteet. Referenssiarkkitehtuurilla ohjataan arkkitehtuurisuunnittelua toivottuun toteutusrakenteeseen.
+
 **Aktuaattori, toimilaite** - Automaatiossa toimielintä kuten venttiiliä käyttävä laite, joka vaikuttaa ohjattavaan prosessiin toimielimen kautta.
-**UA-laite**, drone, engl. Unmanned Aircraft (UA) - Miehittämätön ilma-alus, joita ohjaa kauko-ohjaaja. (vanhentunut: UAV-laite, Unmanned Aerial Vehicle)
+
 **Anturiverkko** - Yhteen liitettyjen ympäristöään havainnoivien anturilaitteiden verkko.
-**Sumutietojenkäsittely**, engl. fog computing - Hajautettussa ympäristössä verkon reunan laitteilla, usein lähellä datan lähdettä ja/tai osana pilvipalvelua tapahtuva tietojenkäsittely.
-**Langaton anturi- ja aktuaattoriverkko**, engl. Wireless Sensor and Actuator Network (WSAN) - Langattomaan tietoliikennetekniikkaan perustuva anturi- ja aktuaattorilaitteiden verkko. 
-**Maatilan tiedonhallintajärjestelmä**, engl. Farm Management Information System (FMIS) - Hallinnoinnin tietojärjestelmä, jolla suunnitellaan, seurataan ja kerätään tietoa maatilan toiminnasta.
-**Palvelukeskeinen arkkitehtuurimalli**, engl. Service Oriented Architecture (SOA) - tietojärjestelmien arkkitehtuuritason suunnittelutapa, jolla tietojärjestelmien toiminnot ja prosessit on suunniteltu itsenäisiksi, avoimiksi ja joustaviksi palveluiksi.
-**Telemetria** - Laitetietojen automaattinen kaukosiirto radioaaltojen, puhelimen tai tietoverkon välityksellä.
+
+**Industrial Internet of Things** (IIoT) - Teollisuuden esineiden internet, IoT:in teollisuuden sovelluksiin keskittynyt osa tai haara. 
+
+**Internet of Things** (IoT), esineiden internet - Löyhästi määritelty teknologiaparadigma, jossa yhteen liitettävät älykkäät laitteet yhdistetään tietoliikenneverkkojen ylitse internetin palveluihin ja älykkäiksi verkoiksi, joiden toimintaa ihmiset ohjaavat vain tarpeen mukaan.
+
 **ISOBUS**, ISO 11783 - AEF:n kehitettävä standardi traktorien ja työkoneiden väliseen tiedonsiirtoon ja laitteiden hallintaan.
+
+**Laitteiden välinen viestintä** M2M-viestintä, engl. Machine-to-Machine - Automaattinen tietoliikenne päätelaitteiden välillä.
+
+**Langaton anturi- ja aktuaattoriverkko**, engl. Wireless Sensor and Actuator Network (WSAN) - Langattomaan tietoliikennetekniikkaan perustuva anturi- ja aktuaattorilaitteiden verkko. 
+
+**Maatilan tiedonhallintajärjestelmä**, engl. Farm Management Information System (FMIS) - Hallinnoinnin tietojärjestelmä, jolla suunnitellaan, seurataan ja kerätään tietoa maatilan toiminnasta.
+
+**Massadata**, Big Data - Termi, jolla viitataan datasetteihin, jotka ovat liian suuria perinteisten tietojenkäsittelyn keinoin käsiteltäviksi. Data, jota on paljon (Volume), jota tulee nopeasti lisää (Velocity) ja joka on muodoltaan vaihtelevaa (Variety & Veracity).
+
 **Monikerrosviljely** - Useissa päällekkäisissä tasoissa tapahtuvaa viljelyä, vrt. tavallisen kasvihuoneen yhdessä tasossa tapahtuva viljely.
+
+**Palvelukeskeinen arkkitehtuurimalli**, engl. Service Oriented Architecture (SOA) - tietojärjestelmien arkkitehtuuritason suunnittelutapa, jolla tietojärjestelmien toiminnot ja prosessit on suunniteltu itsenäisiksi, avoimiksi ja joustaviksi palveluiksi.
+
+**Päätöksenteon tukijärjestelmä**, engl. Decision Support System - Tietojärjestelmä tai ohjelmisto ja tarvittava data, joiden avulla pyritään analysoimaan ja esittämään tietoa päätöksenteon helpottamiseksi.
+
+**Referenssiarkkitehtuuri** - Tietyn arkkitehtuurikokonaisuuden esitys, joka toteutusneutraalisti kuvailee kokonaisuuden loogiset osat ja niiden väliset suhteet. Referenssiarkkitehtuurilla ohjataan arkkitehtuurisuunnittelua toivottuun toteutusrakenteeseen.
+
+**RFID**, engl. Radio Frequency IDentification - Yleisnimitys radiotaajuuksilla toimiville tekniikoille, joita käytetään etätunnistukseen, tiedon etälukuun ja -tallentamiseen.
+
+**Ruoan turvallisuus** - Käytänteet, joiden avulla pyritään takaamaan ruoan turvallisuus.
+
+**Ruokaturva** - Tila, jolloin kaikilla ihmisillä on kaikkina aikoina riittävästi turvallista ja ravitsevaa ruokaa elääkseen terveellisen ja aktiivisen elämän. Rakentuu ruuan saatavuudesta, hankittavuudesta ja käytettävyydestä.
+
+**Satoisuus** - Kuinka tuottoisa sato on, mittayksikkönä esimerkiksi kiloa/hehtaari, muuttuja joka koostuu osatekijöistä kuten kasvukausi, kasteluveden, lannoitteiden määrät jne.
+
 **Smart Farming / Smart Agriculture**, älykäs viljely - Täsmäviljelystä kehittynyt älykkäitä, verkottuneita laitteita ja tietojärjestelmiä käyttävä viljelytapa.
+
+**Sumutietojenkäsittely**, engl. fog computing - Hajautettussa ympäristössä verkon reunan laitteilla, usein lähellä datan lähdettä ja/tai osana pilvipalvelua tapahtuva tietojenkäsittely.
+
+**Telemetria** - Laitetietojen automaattinen kaukosiirto radioaaltojen, puhelimen tai tietoverkon välityksellä.
+
+**Tuotantoketju** - Tuottajien muodostama ketju, joka valmistaa tuotteen tarjottavaksi markkinoille ja kuluttajien hankittavaksi.
+
+**Tuotantopanos** - Tuotantoprosessin panokset kuten tuotantovälineet, työ, raaka-aineet, ostopalvelut jne. jotka tarvitaan tuotteen valmistamiseksi.
+
+**Täsmäviljely**, engl. Precision Agriculture (PA) - Viljelytekniikat, joilla pyritään viljelyolosuhteiden vaihtelun hallintaan tarkan havainnoinnin, konrolloinnin ja käsittelyn avulla.
+
+**UA-laite**, drone, engl. Unmanned Aircraft (UA) - Miehittämätön ilma-alus, joita ohjaa kauko-ohjaaja. (vanhentunut: UAV-laite, Unmanned Aerial Vehicle)
 
 
 
