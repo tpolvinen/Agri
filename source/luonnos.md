@@ -5,18 +5,17 @@ Kasvintuotannon ja maatalouden IoT-sovelluksia ei tunneta laajalti maatalousalan
 
 Tämän opinnäytetyön tavoitteena on antaa lukijalle ajankohtainen yleiskuva kasvintuotannossa käytettävistä IoT:in teknologiasovelluksista ja niiden tutkimuksesta. Opinnäytetyössä on toteutettu narratiivinen kirjallisuuskatsaus ja viisi asiantuntijoiden teemahaastattelua. Kirjallisuuskatsauksessa on keskitytty pääasiassa sateenvarjokatsauksen omaisesti aiheesta julkaistuihin kirjallisuuskatsauksiin. Teemahaastatteluista saatu aineisto on analysoitu sisällönanalyysin keinoin, jolla on pyritty tukemaan aineiston laadullista kuvailua.
 
-Tuloksien mukaan lähivuosina voidaan odottaa IoT-teknologioiden voimakasta yleistymistä kasvintuotannon käytössä. Näillä teknologioilla on potentiaalia edistää tehokasta ja kestävää maanviljelyä, varmistaa ruokaturvaa pienempien ympäristövaikutusten myötä sekä varmistaa terveellinen ja turvallinen elintarviketuotanto. IoT-teknologioiden avulla voidaan tehostaa satokasvien tuotantoa, välttää satotappioita, parantaa viljelysuunnittelua ja logistiikkaa sekä tukea viljelijän päätöksentekoa. Lisäksi niiden avulla voidaan mahdollistaa uusia liiketoimintamalleja ja muuttaa viljelijän työnkuvaa. IoT-ratkaisut tulevat olemaan avainasemassa tulevaisuuden maataloustuotannon kehityksessä ja ne mahdollistavat siirtymän mitatun digitaalisen tiedon perusteella toimivaan viljelyyn. Maatalouden IoT-teknologioiden laajan omaksumisen tiellä on kuitenkin huomattavia haasteita. 
+Tuloksien mukaan lähivuosina voidaan odottaa IoT-teknologioiden voimakasta yleistymistä kasvintuotannon käytössä. IoT-ratkaisut tulevat olemaan avainasemassa tulevaisuuden maataloustuotannon kehityksessä ja ne mahdollistavat siirtymän mitatun digitaalisen tiedon perusteella toimivaan viljelyyn. Maatalouden IoT-teknologioiden laajan omaksumisen tiellä on kuitenkin huomattavia haasteita. 
 
 Opinnäytetyötä voidaan hyödyntää tiedonhaun lähtökohtana kasvintuotannossa käytettävien IoT:in teknologiasovelluksien sekä niitä käsittelevien tutkimusten kartoituksessa. Lisäksi opinnäytetyössä esitettyjä tietoja voidaan hyödyntää pohdittaessa jatkotutkimuksen aiheita ja tarpeellisuutta.
 
 Tällä opinnäytetyöllä ei ole toimeksiantajaa.
-Opinnäytetyö on toteutettu vuosien 2017 ja 2018 aikana.
 
 Tässä opinnäytetyössä käytetään lähdeviittausten tyylinä mukailtua Södertörns högskola - Harvard -tyyliä.
 
 ASIASANAT
 
-esineiden internet, IoT, teollinen internet, IIoT, kasvintuotanto, maatalous
+esineiden internet, IoT, kasvintuotanto, maatalous, teollinen internet, IIoT 
 
 
 # JOHDANTO
