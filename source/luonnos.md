@@ -69,7 +69,7 @@ Opinnäytetyön viimeinen osa on luku 6 "Pohdinta", jossa käsitellään työlle
 
 **Maatilan tiedonhallintajärjestelmä**, engl. Farm Management Information System (FMIS) - Hallinnoinnin tietojärjestelmä, jolla suunnitellaan, seurataan ja kerätään tietoa maatilan toiminnasta.
 
-**Massadata**, Big Data - Termi, jolla viitataan datasetteihin, jotka ovat liian suuria perinteisten tietojenkäsittelyn keinoin käsiteltäviksi. Data, jota on paljon (Volume), jota tulee nopeasti lisää (Velocity) ja joka on muodoltaan vaihtelevaa (Variety & Veracity).
+**Massadata**, engl. Big Data - Termi, jolla viitataan datasetteihin, jotka ovat liian suuria perinteisten tietojenkäsittelyn keinoin käsiteltäviksi. Data, jota on paljon (Volume), jota tulee nopeasti lisää (Velocity) ja joka on muodoltaan vaihtelevaa (Variety & Veracity).
 
 **Monikerrosviljely** - Useissa päällekkäisissä tasoissa tapahtuvaa viljelyä, vrt. tavallisen kasvihuoneen yhdessä tasossa tapahtuva viljely.
 
