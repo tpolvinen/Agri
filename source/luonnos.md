@@ -1,4 +1,5 @@
 
+
 TIIVISTELMÄ
 
 Kasvintuotannon ja maatalouden IoT-sovelluksia ei tunneta laajalti maatalousalan ulkopuolella, vaikka niillä tulee todennäköisesti olemaan keskeinen asema sekä globaalin elintarviketuotannon haasteisiin vastaamisessa että suomalaisen kasvintuotannon kannattavuuden kehittämisessä. Tällä hetkellä on meneillään maatalouden IoT:in teknologia-aallon alkuvaihe, jossa erilaisia ratkaisuita kehitetään ja tuodaan markkinoille nopealla tahdilla. 
